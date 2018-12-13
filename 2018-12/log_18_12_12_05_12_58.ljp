@@ -1,0 +1,38 @@
+Logging started ...
+
+2018-12-12 17:12:58+0530 > <LCtrl>r96.32
+2018-12-12 17:14:03+0530 > sudo ssh embadmin<LShft>@<RShft><Ins>
+2018-12-12 17:14:16+0530 > welcome123<LShft>!@#
+2018-12-12 17:14:20+0530 > welcome123<LShft>!@#
+2018-12-12 17:14:27+0530 > ls
+2018-12-12 17:14:30+0530 > exit
+2018-12-12 17:14:35+0530 > ifconfig
+2018-12-12 17:14:38+0530 > <LCtrl>cd<BckSp><BckSp><BckSp>cd<BckSp><BckSp><BckSp> cd /.<Tab><#+1>d<Tab><Tab><Tab>l<Tab><#+1>
+2018-12-12 17:14:48+0530 > ls
+2018-12-12 17:14:49+0530 > cd 2<Tab>
+2018-12-12 17:14:51+0530 > ls
+2018-12-12 17:14:52+0530 > ls -l
+2018-12-12 17:14:54+0530 >   vim <RShft><Ins><Home> sudo
+2018-12-12 17:15:05+0530 > <Esc><RShft>:q<Tab>
+2018-12-12 17:15:08+0530 > exit
+2018-12-12 17:15:12+0530 > 
+2018-12-12 17:15:13+0530 > 
+2018-12-12 17:15:13+0530 > <LCtrl><PgUp><LCtrl><PgUp><PgUp><PgUp><PgUp><PgDn>make oa<BckSp>tapackage
+2018-12-12 17:15:34+0530 > <PgDn>/probe
+2018-12-12 17:15:45+0530 > nnn<Down><Down><Down><Down><Down><Down><Esc>yy<Up><Up>p<Esc><RShft>:w<RShft>!
+2018-12-12 17:15:56+0530 > <Right><#+37><Left><Left><Left><Left>i<LShft>Aravinth<RShft>: <Esc><RShft>:w<RShft>!
+2018-12-12 17:16:05+0530 > <Left><#+22><LCtrl><PgDn><PgUp><PgDn><PgDn><PgUp><PgUp><Esc><RShft>:wq
+2018-12-12 17:16:21+0530 > <LCtrl><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn>
+2018-12-12 17:16:45+0530 > 
+2018-12-12 17:16:50+0530 > ta
+2018-12-12 17:17:52+0530 > 
+2018-12-12 17:24:35+0530 > oppo f1 
+2018-12-12 17:40:34+0530 > oppo <LShft>F1 -<RShft>> <LShft>Colo<BckSp><BckSp><BckSp><BckSp><LShft>Android 5.1
+2018-12-12 17:41:27+0530 > <LCtrl><PgUp>exit
+2018-12-12 17:41:37+0530 > <LCtrl><PgUp>exit
+2018-12-12 17:41:44+0530 > <LCtrl><PgUp><PgDn><#+1><PgDn><PgDn>
+2018-12-12 17:41:50+0530 > 
+2018-12-12 17:42:14+0530 > <LAlt><Tab><Tab><Tab>
+
+Logging stopped at 2018-12-13 11:17:04+0530
+
