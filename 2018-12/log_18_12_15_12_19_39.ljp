@@ -1,0 +1,299 @@
+Logging started ...
+
+2018-12-15 12:19:39+0530 > <RShft><Ins>
+2018-12-15 12:20:12+0530 > cp lo<Tab><LShft>C<Tab><#+2><Tab><Tab><LCtrl>c
+2018-12-15 12:20:27+0530 > su<BckSp><BckSp><BckSp> sudo ./<RShft><Ins>
+2018-12-15 12:20:36+0530 > cp log<Tab><#+2><LShft>C<Tab><#+4> /uys<Tab><BckSp><BckSp>s<Tab>bin<Tab>l<Tab><#+2><BckSp><Tab><Tab><Tab><#+1><Tab>nk<Tab><Tab><BckSp>log<Tab><Tab><BckSp><#+4><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>s<Tab>b<Tab>lo<Tab><Tab><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><Tab><BckSp><Tab><Tab><LCtrl>c
+2018-12-15 12:21:10+0530 > vim up<Tab>
+2018-12-15 12:21:16+0530 > <Esc><RShft>:q<Tab>
+2018-12-15 12:21:30+0530 >  cp lo<Tab><#+2><LShft>C<Tab><#+3> /us<Tab>lo<Tab>bin<Tab>lo<Tab><Tab><#+1><Tab><LShft>C<Tab><#+1>
+2018-12-15 12:21:47+0530 > <#+1><Up><Up><Down><Down> sudo <RShft><Ins>
+2018-12-15 12:21:57+0530 > exit
+2018-12-15 12:22:05+0530 > ls
+2018-12-15 12:22:06+0530 > 
+2018-12-15 12:22:07+0530 > 
+2018-12-15 12:22:07+0530 > cd ne<Tab>
+2018-12-15 12:22:10+0530 > ls
+2018-12-15 12:22:11+0530 > 
+2018-12-15 12:22:12+0530 > 
+2018-12-15 12:22:12+0530 > 
+2018-12-15 12:22:12+0530 >  vim r<Tab>un<Tab>
+2018-12-15 12:22:20+0530 > <#+1><LCtrl><LShft>Tifconfig
+2018-12-15 12:22:24+0530 > <LCtrl><PgUp><Down><Down><Down><Down><Down><Right><#+25><Right>i<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>1<Left><Left><Left><Left><Left><BckSp><BckSp>192<Right><Right><Right><BckSp><BckSp>168<Esc><#+1><RShft>:wq
+2018-12-15 12:22:48+0530 > 
+2018-12-15 12:22:49+0530 > 
+2018-12-15 12:22:49+0530 >  <BckSp><BckSp><BckSp><BckSp> sudo ./run<Tab>
+2018-12-15 12:22:57+0530 > <Up><Up><Up><Up><Up><LCtrl>c
+2018-12-15 12:23:01+0530 > ls
+2018-12-15 12:23:03+0530 > vimr<Tab><BckSp> run<Tab>
+2018-12-15 12:23:10+0530 > <Esc><RShft>:q<Tab>
+2018-12-15 12:23:13+0530 > 
+2018-12-15 12:23:13+0530 > 
+2018-12-15 12:23:13+0530 > 
+2018-12-15 12:23:13+0530 > ./run<Tab>
+2018-12-15 12:23:17+0530 > chmod <BckSp><#+24>rmne<Tab><BckSp><BckSp> ne<Tab>s<Tab>
+2018-12-15 12:23:32+0530 > \]<LCtrl>c
+2018-12-15 12:23:34+0530 > <Up><#+1><Home>sudo 
+2018-12-15 12:23:37+0530 > <Up><Up><Up><#+1>
+2018-12-15 12:23:40+0530 > <LCtrl><LCtrl>
+2018-12-15 12:23:42+0530 > nbt<Tab><Tab>scan
+2018-12-15 12:23:47+0530 > \<LCtrl>c
+2018-12-15 12:23:48+0530 > <Up>
+2018-12-15 12:23:49+0530 > <RShft><Ins>
+2018-12-15 12:23:57+0530 > <LCtrl><PgUp><PgUp><LCtrl>embitel.gitlab.com
+2018-12-15 12:24:25+0530 > <LAlt><Tab>gitlab.embitel.com
+2018-12-15 12:24:43+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LCtrl><PgDn><PgDn><Up><Up><Up>
+2018-12-15 12:24:57+0530 > <LAlt><Tab><LCtrl><PgDn>ls
+2018-12-15 12:31:52+0530 > vimn<BckSp><#+1> ne<Tab>s<Tab>
+2018-12-15 12:31:59+0530 > <Down><#+21><Esc><RShft>:q<Tab>
+2018-12-15 12:32:13+0530 > <LCtrl><PgUp>l;s
+2018-12-15 12:32:16+0530 > vim ne<Tab>.<Tab><#+3>
+2018-12-15 12:32:23+0530 > <LCtrl><PgDn>cp ne<Tab>s<Tab><RShft><Ins>
+2018-12-15 12:32:37+0530 > vim <RShft><Ins>
+2018-12-15 12:32:40+0530 > <End>i<End><BckSp><#+56><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><Down><Del><Del><#+61><Down><Del><#+57><Del><Del><Del><Del><Del><Del><Down><Del><#+61><Down><Del><#+64><Esc>ui<Del><#+58><Del><Del><Del><Del><Down><Del><#+60><Del><Del><Down><Del><#+58><Del><Del><Del><Del><Down><Del><#+57><Del><Del><Del><Del><Del><Esc><#+2><RShft>:wq
+2018-12-15 12:33:21+0530 > <LCtrl><PgUp><Esc><RShft><Down><Down><Down><#+20><Down><Down><Down><Right><Right><Right><Right>i1<Esc><#+3><RShft>:wq<BckSp>
+2018-12-15 12:33:47+0530 > <Up><Up><Right><#+23><Right><Right><Right>i<Right><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>zs10062013<Right><#+4><Right><Right><#+14><Right><Right><Right><BckSp><#+11><BckSp>zumi<Esc><#+2><RShft>:wq
+2018-12-15 12:34:04+0530 > ./ne<Tab>
+2018-12-15 12:34:07+0530 > <RShft><Ins>
+2018-12-15 12:34:15+0530 > <Ins><RShft><Ins>
+2018-12-15 12:34:22+0530 > <Up><Up><Up>
+2018-12-15 12:34:36+0530 > <LCtrl><PgDn>vim <Tab>1<Tab><#+1>
+2018-12-15 12:34:46+0530 > <Esc><#+1><RShft>:q<Tab>
+2018-12-15 12:34:52+0530 > <LCtrl><LMeta><LCtrl><PgUp>vim va<Tab>
+2018-12-15 12:34:59+0530 > dddd<Esc><#+1><RShft>:wq
+2018-12-15 12:35:04+0530 > <Up><Up><BckSp><#+17><LCtrl><PgUp><PgDn><PgUp>goo
+2018-12-15 12:38:22+0530 > android bluet<Down> <Down><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>disc<Down><Down><Down> <LCtrl>call
+2018-12-15 12:38:43+0530 > <#+3><LCtrl><PgDn><PgDn><Up>
+2018-12-15 12:39:30+0530 > <Esc><RShft>:q<Tab>
+2018-12-15 12:39:33+0530 > <LCtrl><PgUp><Up><Up><Up>
+2018-12-15 12:39:45+0530 > <LCtrl>c
+2018-12-15 12:39:49+0530 > <LCtrl>c
+2018-12-15 12:39:51+0530 > <LCtrl><PgDn><Up><Up>
+2018-12-15 12:39:59+0530 > <LCtrl><PgUp>sudo ssh zumi<LShft>@192<LCtrl><PgUp><LCtrl><PgDn>c
+2018-12-15 12:40:30+0530 > <LCtrl><PgDn><PgUp>cd.<BckSp> ../
+2018-12-15 12:40:35+0530 > ls
+2018-12-15 12:40:36+0530 > vim <RShft><Ins>
+2018-12-15 12:40:45+0530 > <PgDn><PgUp><LCtrl><PgUp>cd <#+2><LShft>Ara<Tab>
+2018-12-15 12:40:58+0530 > ls
+2018-12-15 12:40:58+0530 > <RShft><Ins>
+2018-12-15 12:41:01+0530 > <LCtrl><PgDn><LCtrl><PgUp><RShft><Ins>
+2018-12-15 12:41:11+0530 > zs10062013
+2018-12-15 12:41:15+0530 > <LCtrl><PgDn><PgUp>cd/<BckSp> /.<Tab><Tab><BckSp><#+20><LCtrl><PgDn><LCtrl><PgUp><RShft><Ins>
+2018-12-15 12:41:30+0530 > ls
+2018-12-15 12:41:37+0530 > <RShft><Ins>
+2018-12-15 12:41:40+0530 > <LCtrl><PgUp>vim 00<Tab><#+2><LShft>RT<Tab><#+1>
+2018-12-15 12:41:54+0530 > <PgDn><PgDn><PgDn><PgDn><PgDn><#+30><PgDn><#+30><LCtrl><PgDn><PgDn><PgDn><PgUp><PgUp><PgUp>embite<BckSp><#+20>gitlab.com/reportlog
+2018-12-15 12:42:44+0530 > <LCtrl>zzzzzzzz<Esc><Esc><Esc>goo
+2018-12-15 12:43:07+0530 > <LCtrl><LCtrl>aembitel.gitlab.com
+2018-12-15 12:43:18+0530 > in
+2018-12-15 12:43:21+0530 > <LCtrl><LCtrl>agitlab.com/embitel
+2018-12-15 12:43:32+0530 > <LCtrl>agoo<RShft>
+2018-12-15 12:43:46+0530 > embitel i<BckSp>gitlab
+2018-12-15 12:43:52+0530 > embitel
+2018-12-15 12:44:25+0530 > iot
+2018-12-15 12:44:34+0530 > indev
+2018-12-15 12:44:46+0530 > github.com/reportlog
+2018-12-15 12:45:10+0530 > tinyurl
+2018-12-15 12:45:42+0530 > <LCtrl>vsetupxxxaravinthkumar<BckSp><BckSp><BckSp><BckSp><BckSp>.jayaprakasam<LShft>@embitel.com<Tab><LShft>J<BckSp><LShft>Happy<LShft>@234
+2018-12-15 12:46:30+0530 > <Tab><LShft>Bangalore2k18<LShft>!
+2018-12-15 12:46:40+0530 > <LCtrl><PgDn><Up><Up><Up><Up><Up><Left><#+23><Left><Left><Left>xx
+2018-12-15 12:46:54+0530 > <Up><Up><Up><Up><Up>x<Tab><#+2>
+2018-12-15 12:47:00+0530 > <Up><Up><Up><Up><Down><Tab><#+1>x<Tab>
+2018-12-15 12:47:04+0530 > se<Tab>t<Tab>up<Tab><Tab><Tab><LShft>S<Tab>
+2018-12-15 12:47:31+0530 > <Up><Home>sudo 
+2018-12-15 12:47:36+0530 > <LCtrl><PgDn><PgDn><PgUp><PgUp><#+1><PgDn><Esc><RShft>:q<Tab>
+2018-12-15 12:48:04+0530 > <LCtrl><LCtrl><PgUp> sudo <RShft><Ins>
+2018-12-15 12:48:15+0530 > <LCtrl><PgDn>./s<Tab>hc<Tab>
+2018-12-15 12:48:21+0530 > <LCtrl><PgDn><Esc><RShft>:q<Tab>
+2018-12-15 12:48:36+0530 > <LCtrl><PgUp><PgUp>cd
+2018-12-15 12:48:40+0530 > ls
+2018-12-15 12:48:41+0530 > <LCtrl><PgUp><PgDn><PgDn><PgDn><PgDn><#+16><Esc><RShft>:q<Tab>
+2018-12-15 12:48:48+0530 > 
+2018-12-15 12:48:49+0530 > 
+2018-12-15 12:48:49+0530 > 
+2018-12-15 12:48:49+0530 > grep-r<BckSp><BckSp> -r bt<BckSp><BckSp>rtk<RShft>_btudb
+2018-12-15 12:48:59+0530 > <Up><Left><Left><Right><BckSp>s
+2018-12-15 12:49:03+0530 > vim <RShft><Ins>
+2018-12-15 12:49:18+0530 > /<RShft><Ins>
+2018-12-15 12:49:20+0530 > <Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Up><Up><Up><Up><Up><Up><Up>n<LCtrl><PgDn>cd <LShft>Pr<Tab><Tab><Tab>q<Tab><Tab><Tab><LShft>A<Tab><#+1><Tab><Tab><BckSp><#+26><BckSp><BckSp><#+30><LCtrl><PgDn><PgDn>exit
+2018-12-15 12:51:48+0530 > <LCtrl><PgUp>exit
+2018-12-15 12:51:55+0530 > <Up><BckSp>8
+2018-12-15 12:51:57+0530 > zs10062013
+2018-12-15 12:52:00+0530 > sudo <RShft><Ins>
+2018-12-15 12:52:07+0530 > <Up><Up>
+2018-12-15 12:52:09+0530 > yes
+2018-12-15 12:52:11+0530 > zs10062013
+2018-12-15 12:52:15+0530 > 
+2018-12-15 12:52:17+0530 > 
+2018-12-15 12:52:18+0530 > 
+2018-12-15 12:52:18+0530 > 
+2018-12-15 12:52:18+0530 > 
+2018-12-15 12:52:18+0530 > 
+2018-12-15 12:52:18+0530 > cd<LShft> <LShft>PR<Tab><BckSp>r<Tab>
+2018-12-15 12:52:23+0530 > ls
+2018-12-15 12:52:23+0530 > cd <LShft>An<Tab><#+3>
+2018-12-15 12:52:47+0530 > ls
+2018-12-15 12:52:48+0530 > cd a<Tab>
+2018-12-15 12:52:51+0530 > ls
+2018-12-15 12:52:52+0530 > 
+2018-12-15 12:52:53+0530 > 
+2018-12-15 12:52:53+0530 > 
+2018-12-15 12:52:53+0530 > 
+2018-12-15 12:52:53+0530 > cd dewv<BckSp><BckSp>vi<Tab><#+1>fs<Tab>
+2018-12-15 12:52:59+0530 > ls
+2018-12-15 12:52:59+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><Tab><Tab><Esc><LCtrl><PgUp><#+1><PgDn>cd im<Tab><#+1>6<Tab><#+1>
+2018-12-15 12:53:12+0530 > <LCtrl><PgUp><LCtrl><PgDn>
+2018-12-15 12:53:17+0530 > 
+2018-12-15 12:53:18+0530 > grep -r <RShft><Ins> <RShft>*
+2018-12-15 12:53:22+0530 > cd ../
+2018-12-15 12:53:25+0530 > <Up><Up>
+2018-12-15 12:53:26+0530 > cd e<Tab>6s<Tab>
+2018-12-15 12:53:36+0530 > vim ue<Tab>
+2018-12-15 12:53:40+0530 > <LAlt><Tab><LAlt><Tab><LCtrl><PgUp><PgDn><PgUp><PgDn><Down><Down><Down><Down><Down><Down><Down><Down><LCtrl><PgUp><Down><#+13><Down><#+21><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><#+19><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgDn><PgDn><#+34><PgUp><PgUp><Esc><RShft>:q<Tab>
+2018-12-15 12:54:44+0530 > <LCtrl><PgDn><PgDn>ls
+2018-12-15 12:54:47+0530 > ./hs<Tab><BckSp><BckSp>s<Tab>h<Tab>
+2018-12-15 12:54:57+0530 > <LAlt><Tab>goo
+2018-12-15 12:55:05+0530 > shc with unlimited expire<Down><Down>\<BckSp>
+2018-12-15 12:55:22+0530 > ./sh<Tab>-e 22/11<BckSp><BckSp><BckSp><BckSp><BckSp>11/11/2222 <LAlt><Tab><LAlt><Tab>-f <#+1>lo<Tab><LShft>C<Tab><#+1>
+2018-12-15 12:57:09+0530 > ls -l
+2018-12-15 12:57:14+0530 > sudo ./<RShft><Ins>
+2018-12-15 12:57:25+0530 > zs10062013\
+2018-12-15 12:57:29+0530 > zs10062013
+2018-12-15 12:57:35+0530 > <Up>
+2018-12-15 12:57:38+0530 > gitdiff<BckSp><BckSp><BckSp><BckSp> diff
+2018-12-15 12:57:49+0530 > <PgDn><#+27>q<Up><Up><Up><Up><Up><Down><Left><#+19><Left><BckSp>1
+2018-12-15 12:58:11+0530 > <Up><Up><Up>
+2018-12-15 12:58:12+0530 > <Up><Up><Left><#+18><Left><Left><Left><BckSp>0
+2018-12-15 12:58:17+0530 > <Up><Up>
+2018-12-15 12:58:19+0530 > vim lo<Tab><#+2><LShft>C<Tab><#+2>.<Tab>
+2018-12-15 12:58:32+0530 > <Esc><RShft>:q<Tab>
+2018-12-15 12:58:35+0530 > <Up><Up><Up><Left><#+19><Left><Right><BckSp><BckSp>19
+2018-12-15 12:58:47+0530 > \<BckSp><Up><Up><Up><Up><Down>
+2018-12-15 12:58:51+0530 > <LCtrl><LShft>c
+2018-12-15 12:59:07+0530 > goo
+2018-12-15 12:59:13+0530 > <LCtrl>v
+2018-12-15 12:59:14+0530 > <Home>shc 
+2018-12-15 12:59:38+0530 > <PgDn><PgDn><PgUp><PgDn><PgDn><PgUp><PgUp><PgUp>./shc<Tab>\
+2018-12-15 13:00:37+0530 > <LCtrl>c
+2018-12-15 13:00:39+0530 > <Up><BckSp>
+2018-12-15 13:00:40+0530 > <Up><Down><LAlt><Tab><LCtrl><LShft><Up><Up><Up><Up><Left><#+13><Left><Left><Left><Left><Left><Left>-r -=<BckSp><LShft>T 
+2018-12-15 13:03:15+0530 > <Up><Up><Up><Up>
+2018-12-15 13:03:18+0530 > ;<BckSp><BckSp>ls
+2018-12-15 13:03:24+0530 > <LAlt><Tab>cd ne<Tab>
+2018-12-15 13:03:51+0530 > ls
+2018-12-15 13:03:52+0530 > <LCtrl><PgDn><LCtrl><PgUp>va<Tab><#+2><BckSp><#+29>vim va<Tab><#+1>
+2018-12-15 13:04:08+0530 > <LCtrl><LShft>T<LCtrl><PgUp><PgUp><Esc><RShft>:q<Tab>
+2018-12-15 13:04:13+0530 > cd /.<Tab><Tab><BckSp><BckSp><BckSp><#+3><BckSp><BckSp>cd
+2018-12-15 13:04:20+0530 > cd .d<Tab><Tab>a<Tab>s<Tab>
+2018-12-15 13:04:26+0530 > l;s
+2018-12-15 13:04:27+0530 > cd lo<Tab>
+2018-12-15 13:04:30+0530 > ls
+2018-12-15 13:04:30+0530 > c<BckSp><BckSp>git st<Tab>t<Tab><#+2>
+2018-12-15 13:04:36+0530 > \<LCtrl><PgUp><LCtrl><PgDn>cd
+2018-12-15 13:04:44+0530 > cd <RShft><Ins>
+2018-12-15 13:04:51+0530 > <Up><Tab><#+2>6<Tab><#+2>
+2018-12-15 13:04:53+0530 > <Up><Home><Right><Right><Right><Right><BckSp>
+2018-12-15 13:04:58+0530 > <LCtrl><PgDn><Esc><RShft>:q<Tab>
+2018-12-15 13:05:00+0530 > <LCtrl><PgDn><PgUp><#+1>cd
+2018-12-15 13:05:07+0530 > ls
+2018-12-15 13:05:07+0530 > <LCtrl><PgDn><PgUp>exit
+2018-12-15 13:05:11+0530 > \<LCtrl><BckSp><BckSp>exit\
+2018-12-15 13:05:15+0530 > <LCtrl><LCtrl>c
+2018-12-15 13:05:16+0530 > <Up><BckSp>
+2018-12-15 13:05:17+0530 > <LCtrl>ls
+2018-12-15 13:05:20+0530 > 
+2018-12-15 13:05:21+0530 > 
+2018-12-15 13:05:21+0530 > 
+2018-12-15 13:05:21+0530 > 
+2018-12-15 13:05:22+0530 > cd ../<BckSp><BckSp><BckSp>
+2018-12-15 13:05:25+0530 > cd<BckSp><BckSp><BckSp>ls
+2018-12-15 13:05:27+0530 > cd -
+2018-12-15 13:05:28+0530 > ls
+2018-12-15 13:05:29+0530 > 
+2018-12-15 13:05:30+0530 > 
+2018-12-15 13:05:30+0530 > 
+2018-12-15 13:05:30+0530 > cd ../
+2018-12-15 13:05:32+0530 > ls
+2018-12-15 13:05:33+0530 > cd ../
+2018-12-15 13:05:35+0530 > ls
+2018-12-15 13:05:36+0530 > cv<BckSp><BckSp>cd ../
+2018-12-15 13:05:39+0530 > ls
+2018-12-15 13:05:39+0530 > 
+2018-12-15 13:05:40+0530 > 
+2018-12-15 13:05:40+0530 > <#+18><LCtrl>cd ke<Tab>
+2018-12-15 13:05:45+0530 > ls
+2018-12-15 13:05:45+0530 > 
+2018-12-15 13:05:46+0530 > 
+2018-12-15 13:05:46+0530 > 
+2018-12-15 13:05:46+0530 > <LCtrl><PgUp><LCtrl><LShft>T<LCtrl>agoo
+2018-12-15 14:31:26+0530 > 
+2018-12-15 14:31:34+0530 > report<LCtrl>agithub.com/rte<BckSp><BckSp>eportlog
+2018-12-15 14:31:50+0530 > <LCtrl>c
+2018-12-15 14:32:03+0530 > cd <LShft>Vi<Tab><Tab>d<Tab><Tab><Tab>.<Tab><Tab>d<Tab><Tab><Tab><BckSp><#+14><BckSp><BckSp><BckSp><BckSp>
+2018-12-15 14:32:17+0530 > ls
+2018-12-15 14:32:18+0530 > 
+2018-12-15 14:32:19+0530 > git remo<Tab>-v
+2018-12-15 14:32:23+0530 > git clone<#+2> <RShft><Ins>
+2018-12-15 14:32:30+0530 > <#+3><LCtrl><PgDn><LCtrl><PgUp>ls
+2018-12-15 14:33:22+0530 > <#+1>cd se<Tab><#+3>
+2018-12-15 14:33:25+0530 > <#+1>ls
+2018-12-15 14:33:26+0530 > 
+2018-12-15 14:33:26+0530 > cdbin<Tab><BckSp><BckSp><BckSp> bin<Tab>
+2018-12-15 14:33:32+0530 > ls
+2018-12-15 14:33:33+0530 > <#+2>cd ../
+2018-12-15 14:33:36+0530 > ls
+2018-12-15 14:33:36+0530 > cd run<Tab>
+2018-12-15 14:33:39+0530 > ls
+2018-12-15 14:33:40+0530 > <#+2><LCtrl><PgDn>  <#+2> <#+1>  <#+4>  <#+1> <#+20> <#+4>  /<RMeta>;<AltGr>,<#+2>o<AltGr>,l.<RMeta>l<LCtrl><LCtrl>,k<AltGr>m<#+2>mnjnmjx<LAlt><LAlt>xzcfvvgb m,<AltGr>kjb nh,<AltGr>kmnnhbnb<RMeta>/.;n<RMeta>/;.njm <RMeta>/<Menu><RShft>":nmj <RMeta>/<Menu>'<RShft>m,k<Menu><RShft><RMeta>"?,m<Menu><RShft><RCtrl>"|<AltGr>.,<RShft><Menu><RCtrl>"|<AltGr>.;<Menu><RShft>"m,k<RMeta>/;nhb vgmj,k<AltGr><Esc><#+1><LMeta><LCtrl><LShft><LShft><LMeta><LCtrl>A<CpsLk>N<BckSp><#+66><BckSp><BckSp>SEZ<#+1>WD<#+19><LCtrl>c
+2018-12-15 14:34:51+0530 > <LCtrl><PgUp>CD<BckSp><BckSp><BckSp><BckSp><CpsLk>cd ../../t<Tab><#+1>
+2018-12-15 14:35:16+0530 > ls
+2018-12-15 14:35:17+0530 > cp <LShft>K<Tab><#+2> <BckSp><#+16><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><RShft><Ins> <RShft><Ins><BckSp><Tab>../se<Tab>t<Tab><Tab><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp> ../s<Tab>r<Tab><Tab><Tab> -a
+2018-12-15 14:36:04+0530 > <#+1>sync
+2018-12-15 14:36:06+0530 > cd -
+2018-12-15 14:36:14+0530 > cd ../
+2018-12-15 14:36:16+0530 > ls
+2018-12-15 14:36:17+0530 > <#+1>cd st<Tab><#+2>
+2018-12-15 14:36:19+0530 > ls
+2018-12-15 14:36:20+0530 > cd ../../t<Tab>
+2018-12-15 14:36:27+0530 > cp <LShft>K<Tab><#+3>re<Tab><#+2><BckSp><BckSp> re<Tab><#+2>p<Tab><Tab><BckSp><BckSp><BckSp> ../s<Tab>s<Tab>
+2018-12-15 14:36:46+0530 > cd -
+2018-12-15 14:36:49+0530 > cd ../\
+2018-12-15 14:36:51+0530 > <LCtrl>c
+2018-12-15 14:36:52+0530 > <Up><BckSp>
+2018-12-15 14:36:53+0530 > ls
+2018-12-15 14:36:54+0530 > cd bin<Tab>
+2018-12-15 14:36:56+0530 > ls
+2018-12-15 14:36:57+0530 > cd ../
+2018-12-15 14:37:00+0530 > ls
+2018-12-15 14:37:01+0530 > cd ma<Tab>
+2018-12-15 14:37:03+0530 > ls
+2018-12-15 14:37:04+0530 > cd ../
+2018-12-15 14:37:06+0530 > <#+1>
+2018-12-15 14:37:06+0530 > 
+2018-12-15 14:37:06+0530 > 
+2018-12-15 14:37:06+0530 > git st<Tab>t<Tab>
+2018-12-15 14:37:09+0530 > <LAlt><Tab> git <#+2>add --all
+2018-12-15 14:37:45+0530 >  <LAlt><Tab><LCtrl>c
+2018-12-15 14:37:58+0530 > <LAlt><Tab> <RShft><Ins>
+2018-12-15 14:38:01+0530 > <LAlt><Tab><LCtrl>c
+2018-12-15 14:38:08+0530 > <LAlt><Tab><RShft><Ins><Left><#+19><Left><Left><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>setup
+2018-12-15 14:38:16+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LCtrl><LCtrl>c
+2018-12-15 14:39:16+0530 > c
+2018-12-15 14:39:16+0530 > c
+2018-12-15 14:39:17+0530 > c
+2018-12-15 14:39:17+0530 > c
+2018-12-15 14:39:17+0530 > <LAlt><Tab>cd
+2018-12-15 14:39:23+0530 > <RShft><Ins>
+2018-12-15 14:39:25+0530 > vim s<Tab>e<Tab>t<Tab>
+2018-12-15 14:39:35+0530 > <PgDn><PgDn><Esc><RShft>:q<Tab>
+2018-12-15 14:39:38+0530 > 
+2018-12-15 14:39:39+0530 > 
+2018-12-15 14:39:39+0530 > <LAlt><Tab><LCtrl>c
+2018-12-15 14:39:43+0530 > <LAlt><Tab><RShft><Ins>
+2018-12-15 14:39:45+0530 > <LAlt><Tab><LAlt><Tab>zs10062013
+2018-12-15 14:39:49+0530 > <LAlt><Tab><LCtrl>c
+2018-12-15 14:39:52+0530 > <LAlt><Tab><RShft><Ins>
+2018-12-15 14:39:54+0530 > 
+
+Logging stopped at 2018-12-15 14:39:54+0530
+
