@@ -1,0 +1,524 @@
+Logging started ...
+
+2018-12-17 14:21:49+0530 > <LCtrl><LShft>Tssh zumi<LShft>@192.168.1.48
+2018-12-17 14:21:58+0530 > <#+1>zs10062013
+2018-12-17 14:22:01+0530 > 
+2018-12-17 14:22:02+0530 > 
+2018-12-17 14:22:02+0530 > 
+2018-12-17 14:22:03+0530 > 
+2018-12-17 14:22:03+0530 > cd <LShft>~/<LShft>Pr<Tab><Tab><Tab><LShft>A<Tab><#+4>a<Tab><Tab><Tab>
+2018-12-17 14:22:13+0530 > 
+2018-12-17 14:22:13+0530 > 
+2018-12-17 14:22:13+0530 > 
+2018-12-17 14:22:13+0530 > so<BckSp><BckSp>sour<Tab><#+4>bu<Tab><#+5>/e<Tab>
+2018-12-17 14:22:20+0530 > lunch 16
+2018-12-17 14:22:41+0530 > <#+1>cd <LShft>~/<LShft>P<BckSp><LShft>Pr<Tab><#+2><LShft>A<Tab>n<Tab>a<Tab><Tab><Tab>
+2018-12-17 14:22:53+0530 > 
+2018-12-17 14:22:54+0530 > 
+2018-12-17 14:22:54+0530 > 
+2018-12-17 14:22:54+0530 > ;<BckSp>cd sy<Tab>bt<Tab>
+2018-12-17 14:23:00+0530 > 
+2018-12-17 14:23:00+0530 > 
+2018-12-17 14:23:00+0530 > ls
+2018-12-17 14:23:01+0530 > 
+2018-12-17 14:23:01+0530 > 
+2018-12-17 14:23:01+0530 > g<BckSp><BckSp><LCtrl><LShft>Tss<BckSp><BckSp><BckSp>cd <LShft>De<Tab><#+3><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LShft>Pr<Tab><BckSp><#+18>ssh zum<LShft>I<BckSp>i<LShft>@192.168.1.48
+2018-12-17 14:23:25+0530 > <#+2>zs10062013
+2018-12-17 14:23:29+0530 > <#+1>
+2018-12-17 14:23:30+0530 > 
+2018-12-17 14:23:30+0530 > 
+2018-12-17 14:23:30+0530 > 
+2018-12-17 14:23:30+0530 > 
+2018-12-17 14:23:33+0530 > 
+2018-12-17 14:23:33+0530 > 
+2018-12-17 14:23:34+0530 > 
+2018-12-17 14:23:34+0530 > 
+2018-12-17 14:23:34+0530 > cd ../../ha<Tab>inte<Tab>r<Tab><Tab><Tab>de<Tab><Tab><BckSp><BckSp>blue<Tab>1<Tab><#+2>de<Tab><Tab><Tab><Tab><Tab><BckSp><#+10><BckSp><BckSp>
+2018-12-17 14:23:51+0530 > 
+2018-12-17 14:23:51+0530 > v<#+1>i <Tab><Tab>ve<Tab>
+2018-12-17 14:23:56+0530 > <Esc><LShft>:q<LShft>!
+2018-12-17 14:23:57+0530 > <Up>cc
+2018-12-17 14:23:59+0530 > cd <LShft>~/sa<Tab><#+4><LShft>Re<Tab><#+3>
+2018-12-17 14:24:10+0530 > 
+2018-12-17 14:24:10+0530 > ls
+2018-12-17 14:24:11+0530 > <LCtrl><LShft>Tcd <LShft>Pr<Tab><#+2><LShft>A<Tab><#+5>n<Tab><Tab><Tab><BckSp><BckSp><Tab><Tab><Tab>2<Tab><Tab><Tab>r<Tab><BckSp><#+8><BckSp><BckSp>
+2018-12-17 14:24:26+0530 > 
+2018-12-17 14:24:27+0530 > 
+2018-12-17 14:24:27+0530 > <PgDn><Down><#+32><Down><Up><Esc><#+1>3dd3dd<Up><Up><Down><Down><Up><Up><Esc><LShft>:w<LShft>!
+2018-12-17 14:24:45+0530 > grep -rns tranmit<BckSp><BckSp><BckSp><BckSp>nsmit<LShft>_cb
+2018-12-17 14:24:59+0530 > vi <RShft><Ins> <LShft>+9134
+2018-12-17 14:25:08+0530 > <Down><Down><Down><Down><Esc><LShft>:q<LShft>!
+2018-12-17 14:25:27+0530 > 
+2018-12-17 14:25:27+0530 > grep -rns <RShft><Ins>
+2018-12-17 14:25:30+0530 > grep -rns <RShft><Ins>
+2018-12-17 14:25:40+0530 > vi <RShft><Ins><RShft><Ins> <#+1><LShft>+69<BckSp>807
+2018-12-17 14:26:24+0530 > 
+2018-12-17 14:26:25+0530 > <Esc><LCtrl>f<LShft><Esc><LShft>:q<LShft>!
+2018-12-17 14:26:40+0530 > <Up><BckSp><#+35>vi <RShft><Ins> 
+2018-12-17 14:27:06+0530 > /<RShft><Ins>
+2018-12-17 14:27:07+0530 > n<#+2>n<#+1>nnnnn<#+2>n<#+2>n<#+1>/<RShft><Ins>
+2018-12-17 14:28:49+0530 > n<#+2>nnnnnnnnnnnnnnnn<#+1>nn<Esc><LShft>:q<LShft>!
+2018-12-17 14:29:29+0530 > 
+2018-12-17 14:29:29+0530 > 
+2018-12-17 14:29:29+0530 > 
+2018-12-17 14:29:30+0530 > grep -rns tranmit<LShft>_<BckSp><BckSp><BckSp><BckSp><BckSp>nsmit<LShft>_command\
+2018-12-17 14:29:40+0530 > <LCtrl>c
+2018-12-17 14:29:41+0530 > <Up><BckSp><Up><BckSp>
+2018-12-17 14:29:43+0530 > <Up> ../../../../../<Tab><Tab>sy<Tab><#+2>bt<Tab>
+2018-12-17 14:29:53+0530 > vi <RShft><Ins>
+2018-12-17 14:30:19+0530 > /<RShft><Ins>
+2018-12-17 14:30:21+0530 > /<RShft><Ins>
+2018-12-17 14:30:54+0530 > <#+1>nnn<#+1>nnnnnnnnnn/<Up>
+2018-12-17 14:32:45+0530 > nnnnnnnn<Esc><LShft>:q<LShft>!
+2018-12-17 14:33:17+0530 > <Up>
+2018-12-17 14:33:18+0530 > <Esc><LShft>:q<LShft>!<BckSp><BckSp><BckSp>/<RShft><Ins>
+2018-12-17 14:33:28+0530 > nn<#+1>nn<#+1>n/<RShft><Ins>
+2018-12-17 14:33:53+0530 > nnnnnnnnnn<Esc><LShft>:q<LShft>!
+2018-12-17 14:34:10+0530 > <Up><Up><Up><Down><#+3><BckSp><#+50>vi ve<Tab>c<#+3>c
+2018-12-17 14:34:18+0530 > <#+1>/<RShft><Ins>
+2018-12-17 14:35:10+0530 > /call<BckSp><BckSp><BckSp><BckSp><LShft>Call
+2018-12-17 14:35:21+0530 > \n<#+2>nn<#+1>n<#+1>nnn<#+2>nnnnnnnnnnnnnn/<Up><Up><Up><Up><Down><Up>
+2018-12-17 14:36:03+0530 > /<Up><#+3><Esc><LShft>:q<LShft>!
+2018-12-17 14:36:17+0530 > <Up>
+2018-12-17 14:36:18+0530 > <Down><#+20><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><Up><#+13><Up><Up><Up><Up><Up><Right><#+4><Right><Right>i  <RShft><Ins><Left><#+69><Left>
+2018-12-17 14:37:16+0530 > <Up><Down><Down>
+2018-12-17 14:37:18+0530 > <Up><Up>   <Up><Down><Right><#+14><Right><#+13><Right><Right><Right><Right><Esc>/<Esc><LShft>:q<LShft>!
+2018-12-17 14:38:01+0530 > 
+2018-12-17 14:38:01+0530 > 
+2018-12-17 14:38:01+0530 > grep -rns <RShft><Ins>
+2018-12-17 14:38:04+0530 > grep -0r<BckSp><BckSp>rns <RShft><Home><RShft><Ins>
+2018-12-17 14:38:29+0530 > <Esc><LShft>:q<LShft>!
+2018-12-17 14:38:50+0530 > grep -rns init
+2018-12-17 14:38:54+0530 > 
+2018-12-17 14:39:07+0530 > 
+2018-12-17 14:39:07+0530 > 
+2018-12-17 14:39:07+0530 > 
+2018-12-17 14:39:07+0530 > <Up><Up><Up><Up><Down>
+2018-12-17 14:39:10+0530 > <PgDn><PgDn><PgDn><Esc><LShft>:q<LShft>!
+2018-12-17 14:39:15+0530 > vi ve<Tab>cc
+2018-12-17 14:39:19+0530 > <PgDn><Down><#+33><Down><Down><Down><Down><Down><Down><Down><Up>ivi <RShft><Ins> <LShft>+0<BckSp>9134
+2018-12-17 14:39:50+0530 > i<BckSp><RShft><Ins><Up>
+2018-12-17 14:40:03+0530 > <Down><Down>
+2018-12-17 14:40:04+0530 > <Up><Up>  <Esc><LShft>:w<LShft>!
+2018-12-17 14:40:09+0530 > <Esc><LShft>:wq<LShft>!
+2018-12-17 14:40:33+0530 > 
+2018-12-17 14:40:33+0530 > 
+2018-12-17 14:40:33+0530 > 
+2018-12-17 14:40:33+0530 > grep -rns <RShft><Ins> ../...<BckSp><#+6><BckSp><BckSp><BckSp><#+9><BckSp><#+26><Up><Up><Left><#+44><Right><Right><BckSp><BckSp>grep -rns <RShft><Ins><Right><#+42><BckSp><#+19><BckSp>
+2018-12-17 14:40:56+0530 > vi <RShft><Ins>
+2018-12-17 14:41:04+0530 > /t<Up>
+2018-12-17 14:41:12+0530 > /<RShft><Ins>
+2018-12-17 14:41:35+0530 > n<#+1>n<Down><Down><Up>/<RShft><Ins>
+2018-12-17 14:41:53+0530 > n<Up><Up><Down><Down><Down><Up><Up><Up>/<RShft><Ins>
+2018-12-17 14:42:02+0530 > nnnnnnnnnn<Esc><LShft>:q<LShft>!
+2018-12-17 14:42:17+0530 > 
+2018-12-17 14:42:18+0530 > 
+2018-12-17 14:42:18+0530 > 
+2018-12-17 14:42:18+0530 > 
+2018-12-17 14:42:18+0530 > grep -rns <LShft>HC<LShft>_bt<BckSp><BckSp><LShft><Up><Up><Up>
+2018-12-17 14:42:28+0530 > <PgDn><Down><#+15><Esc><LShft>:q<LShft>!
+2018-12-17 14:42:37+0530 > grep -rns <LShft>HC<LShft>_b<LShft><BckSp><LShft>BT<LShft>_<LShft>ADDR<#+1>
+2018-12-17 14:42:45+0530 > <#+1><Up><BckSp><BckSp>
+2018-12-17 14:42:48+0530 > <Up><BckSp><BckSp><BckSp>
+2018-12-17 14:42:50+0530 > vi <RShft><Home>
+2018-12-17 14:42:58+0530 > <Esc><LShft>:q<LShft>!
+2018-12-17 14:43:00+0530 > <Up><Up><Down><Up><Down><RShft><Ins> <LShft>+270
+2018-12-17 14:43:09+0530 > <Up><#+13><Up><Up><Up><Esc><LShft>:<Esc><LShft>:q<LShft>!
+2018-12-17 14:43:42+0530 > 
+2018-12-17 14:43:43+0530 > 
+2018-12-17 14:43:43+0530 > 
+2018-12-17 14:43:43+0530 > <Up><Up><Up><Up><Up><Up><Down><Left><#+10><Left><Right><#+11><BckSp><#+13><BckSp> <RShft><Ins> ../../../../../sy<Tab><#+4>bt<Tab>
+2018-12-17 14:44:05+0530 > <Up><#+1><Left><#+28><Left><Right><LShft>}
+2018-12-17 14:44:58+0530 > <Up><Left><#+24><Left><LShft>"<Left><#+11><Left><Right><LShft>"
+2018-12-17 14:45:04+0530 > <Up><Left><#+30> 
+2018-12-17 14:45:08+0530 > vi <RShft><Home>
+2018-12-17 14:45:15+0530 > <Esc><LShft>:q<LShft>!
+2018-12-17 14:45:17+0530 > vi <RShft><Ins> <LShft>+221
+2018-12-17 14:45:24+0530 > <Esc><LShft>:q<LShft>!
+2018-12-17 14:45:29+0530 > 
+2018-12-17 14:45:33+0530 > 
+2018-12-17 14:45:33+0530 > 
+2018-12-17 14:45:33+0530 > vi ve<Tab><#+2>
+2018-12-17 14:45:35+0530 > <Esc><LShft>:q<LShft>!
+2018-12-17 14:45:36+0530 > <Up><#+4>cc
+2018-12-17 14:45:38+0530 > <Esc><LShft>:q<LShft>!
+2018-12-17 14:45:42+0530 > 
+2018-12-17 14:45:42+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><BckSp><BckSp><BckSp><LShft>_<LShft>AD 
+2018-12-17 14:45:59+0530 > <Up><BckSp><BckSp><BckSp><BckSp>
+2018-12-17 14:46:02+0530 > vi <RShft><Ins> <LShft>+270
+2018-12-17 14:46:10+0530 > <Up><#+16><Up><Down><Down><Right>i<BckSp><#+2><Down><#+32><Up><#+32><Up><Down>i<LShft>*<Left><BckSp><Down><#+13><Up><Up><Right><#+8><Up><Up><Down><Up><Down><Down><Esc>7yy<Up><Up><#+14><Up><Up><Up><Down><#+40>i<Right>
+2018-12-17 14:46:54+0530 > <RShft><Ins><BckSp><#+15><BckSp><BckSp><Esc>p<Right><BckSp><Down><Right>i<BckSp><Up><Right><BckSp><Down><Right><Down><Right><Up><Down><Left><BckSp><Down><Right><BckSp><Down><Right><BckSp><Down><Right><Up><Down><BckSp><Down><Down><Up><Right><BckSp><Up><Up><Down><#+9><Right><Up><Right><Up><Right>
+2018-12-17 14:47:16+0530 > <Up><Esc><LShft>:w<LShft>!
+2018-12-17 14:47:19+0530 > <Esc><LShft>:wq<LShft>!
+2018-12-17 14:47:21+0530 > <Up><BckSp><#+25>gr<BckSp><BckSp><BckSp><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down><Down>
+2018-12-17 14:47:47+0530 > vi <RShft><Home>
+2018-12-17 14:47:53+0530 > <Esc><LShft>:q<LShft>!
+2018-12-17 14:47:54+0530 > vi <RShft><Ins>
+2018-12-17 14:47:57+0530 > /tr<Up>
+2018-12-17 14:48:01+0530 > <Esc><LShft>:q<LShft>!
+2018-12-17 14:48:09+0530 > vi <Tab><Tab>ve<Tab>h
+2018-12-17 14:48:17+0530 > <Down><#+22><PgDn><Down><Up><#+18><Up><#+22><Down><#+16><Up><#+8><Up><Up><Up><Up><Up><Up><Up><Esc><LShft>:q<LShft>!
+2018-12-17 14:48:28+0530 > vi bt<Tab>
+2018-12-17 14:48:37+0530 > <Down><#+70><PgUp><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgUp><Up><#+28><Up><Up><Up><Up><Up><Down><Down><Down><Down><Up>i<RShft><Ins><Up><Up><Up>
+2018-12-17 14:48:56+0530 > <Esc><Esc><LShft>:q<LShft>!<BckSp><BckSp>w<LShft>!
+2018-12-17 14:49:06+0530 > <Esc><LShft>:wq<LShft>!
+2018-12-17 14:49:07+0530 > grep -rns <RShft><Up><Up><Up>
+2018-12-17 14:49:14+0530 > /<RShft><Ins>
+2018-12-17 14:49:17+0530 > <Esc><LShft>:q<LShft>!
+2018-12-17 14:49:28+0530 > <Up><Up><Up><Down>
+2018-12-17 14:49:30+0530 > <Down><#+25><Down><Down>i<RShft><Ins><Esc><LShft>:wq<LShft>!
+2018-12-17 14:49:37+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down><Down>
+2018-12-17 14:49:46+0530 > /t<Up>
+2018-12-17 14:49:49+0530 > <Right><#+15><Right><Right><Right><Right><Right>i<LShft>H<LShft>C<LShft>_<Esc><LShft>:w<LShft>!
+2018-12-17 14:49:57+0530 > <Esc><LShft>:wq<LShft>!
+2018-12-17 14:49:58+0530 > cd sy<Tab><CpsLk>B<BckSp><#+16>CD HA<Tab><BckSp><BckSp><Tab><BckSp><#+13><CpsLk>cd h<Tab><#+3>inte<Tab>r<Tab>v<BckSp>bl<Tab><#+2><Tab><BckSp><#+15><BckSp>
+2018-12-17 14:50:18+0530 > 
+2018-12-17 14:50:18+0530 > 
+2018-12-17 14:50:19+0530 > 
+2018-12-17 14:50:19+0530 > mm
+2018-12-17 14:50:20+0530 > vi <Tab><Tab>bl<Tab>hc<Tab>h
+2018-12-17 14:50:40+0530 > <PgDn><#+1><PgUp><Esc><LShft>:q<LShft>!
+2018-12-17 14:50:48+0530 > 
+2018-12-17 14:50:48+0530 > 
+2018-12-17 14:50:48+0530 > 
+2018-12-17 14:51:11+0530 > 
+2018-12-17 14:51:12+0530 > 
+2018-12-17 14:51:12+0530 > 
+2018-12-17 14:51:12+0530 > vi ve<Tab><#+4>n<Tab><BckSp>ccv<BckSp>
+2018-12-17 14:51:30+0530 > <PgDn><PgDn><PgDn><PgUp><PgUp><PgUp><PgUp><PgUp>vi <RShft><Home>
+2018-12-17 14:52:34+0530 > <Esc><LShft>:q<LShft>!
+2018-12-17 14:52:36+0530 > vi <RShft><RShft><Ins>
+2018-12-17 14:52:42+0530 > <Esc><LShft>:q<LShft>!
+2018-12-17 14:52:44+0530 > vi ../../<RShft><Ins>
+2018-12-17 14:52:50+0530 > <Down><#+28><Down><Right><Up><Right><Up><Right><#+32><Left>i<Left><#+5><Right><Esc><#+1>2<BckSp><Esc><#+1>3dd<Down><#+18><PgDn><PgDn><PgDn><PgDn><PgDn><Down><#+15><Down><#+16><Up><Down><Right><#+2><Right>i<Right>
+2018-12-17 14:53:16+0530 > <RShft><Ins><BckSp><#+46><BckSp><BckSp><BckSp><Esc>p<Down><Down><Down>i
+2018-12-17 14:53:25+0530 > <Up><Up><Up><Up><Up><Esc><LShft>:w<LShft>!
+2018-12-17 14:53:28+0530 > <Esc><LShft>:wq<LShft>!
+2018-12-17 14:53:30+0530 > <Up><Up><Up><Up><Up><Down><BckSp><#+3><BckSp>mm
+2018-12-17 14:53:36+0530 > <LCtrl>c
+2018-12-17 14:53:51+0530 > vi <RShft><Ins> <LShft>+304<Left><#+6><Home><Right><Right><Right>i../<BckSp><BckSp><BckSp><BckSp>../../
+2018-12-17 14:54:05+0530 > <Up><Up><Up><Up><#+16><Up><#+24><Up><#+11><Down><#+26><Esc><LShft>:q<LShft>!
+2018-12-17 14:54:15+0530 > mm
+2018-12-17 14:54:17+0530 > <Esc><LShft>:q<LShft>!
+2018-12-17 14:54:42+0530 > |vi co<Tab><#+2><Tab>de<Tab><BckSp><#+1><BckSp><BckSp><BckSp>p<Tab><#+3>co<Tab><#+3><Tab><Tab>s<Tab>bt<Tab><Tab><Tab>hc<Tab>s<Tab><#+2><Tab><Tab>v<Tab>\
+2018-12-17 14:55:03+0530 > <LCtrl>c
+2018-12-17 14:55:04+0530 > f<Up><BckSp>
+2018-12-17 14:55:05+0530 > <Down><#+61><Down><#+7>/<RShft><Ins>
+2018-12-17 14:55:12+0530 > /send
+2018-12-17 14:55:15+0530 > nnn<#+2>n<#+1>nn/send
+2018-12-17 14:55:43+0530 > n<#+1>nnn<#+33>n<Up><#+5><PgUp><PgUp><PgUp><PgUp><PgUp><PgDn><PgDn><PgUp><PgDn><Up><#+22>vi <RShft><Ins>
+2018-12-17 14:56:27+0530 > <Esc><LShft>:q<LShft>!
+2018-12-17 14:56:29+0530 > <Up><Home><Right><Right><Right>../../
+2018-12-17 14:56:34+0530 > <Down><#+19><PgDn><PgDn><PgDn><PgDn><PgDn><#+2><Down><#+27><Down><Right><Up><Right>i<LShft>HC_<Down><Right><#+15><Left><LShft>HC_<Esc><LShft>:w<LShft>!
+2018-12-17 14:56:54+0530 > <Esc><LShft>:wq<LShft>!
+2018-12-17 14:56:56+0530 > 
+2018-12-17 14:56:58+0530 > <#+19>mm
+2018-12-17 14:57:00+0530 > <RCtrl><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><LAlt><Tab>vi <RShft><Ins> <LShft>+422
+2018-12-17 14:59:14+0530 > <Esc><LShft>:q<LShft>!
+2018-12-17 14:59:16+0530 > <Up><Home><Right><Right>../../<Left><Left><Left><Left><Left><Left> <Right><#+11><Right><Left><BckSp>
+2018-12-17 14:59:25+0530 > <Right><#+26><Left><Left>i<LShft>HC<#+1>_<Esc><LShft>:w<LShft>!
+2018-12-17 14:59:33+0530 > <Esc><LShft>:wq<LShft>!
+2018-12-17 14:59:34+0530 > mm
+2018-12-17 14:59:36+0530 > b<BckSp>v i<BckSp><BckSp>i ../../<RShft><Ins> <LShft>+<BckSp>
+2018-12-17 15:02:13+0530 > /<RShft><Ins>
+2018-12-17 15:02:14+0530 > n<#+3>n<#+3>n<#+19>n<#+9><Up><#+50><Down><#+59><Up><#+3><LShft>:301
+2018-12-17 15:02:32+0530 > <#+1><LShft>:451
+2018-12-17 15:02:35+0530 > <#+1><LShft>:301
+2018-12-17 15:02:41+0530 > <Up><#+11><LShft>:451
+2018-12-17 15:02:46+0530 > <Up><#+10><Up><Up><Up><LShft>:301
+2018-12-17 15:02:50+0530 > <#+1><Up><#+9><Up><Down><Esc><Up><Esc>3dd3dd<Esc>1dd<Esc><LShft>:w<LShft>!
+2018-12-17 15:02:59+0530 > <Esc><LShft>:wq<LShft>Q<BckSp><LShft>!
+2018-12-17 15:03:03+0530 > mm
+2018-12-17 15:03:05+0530 > <RCtrl><RCtrl><PgDn><PgUp><PgUp><Esc><LShft>:q<LShft>!<BckSp><BckSp><BckSp><BckSp><Up>
+2018-12-17 15:06:26+0530 > <Right><#+19><Down><Down><Down><Down><Down><Esc><LShft>:q<LShft>!
+2018-12-17 15:06:34+0530 > 
+2018-12-17 15:06:35+0530 > <Esc><LShft>;q<LShft>!
+2018-12-17 15:06:38+0530 > <Esc><LShft>:q<LShft>!
+2018-12-17 15:06:41+0530 > 
+2018-12-17 15:06:41+0530 > grep <#+5>-rns <RShft><Ins> <Left><#+9><Left><Left><LShft>}<Left><LShft>"<Down><Right><#+13><Left><Left><Right><LShft>" ../../../../../sy<Tab><#+3>bt
+2018-12-17 15:07:02+0530 > <#+2><Up>
+2018-12-17 15:07:07+0530 > <Up><Left><#+28><Left><Left> 
+2018-12-17 15:07:11+0530 > vi <RShft><Ins> <LShft>+221
+2018-12-17 15:07:18+0530 > <Esc><LShft>:q<LShft>!
+2018-12-17 15:07:25+0530 > <Up><BckSp><#+23><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>hc<Tab><#+3>sr<Tab>hc<Tab>la<Tab>.<Tab><#+5>
+2018-12-17 15:07:36+0530 > /<LShft>BT
+2018-12-17 15:07:40+0530 > <#+3>n<#+1>n<#+1>n/<LShft>BT_<LShft>HDR
+2018-12-17 15:07:51+0530 > n<#+4>n<#+3>n<#+13>nnnnnnnnnnnnnnnnn<Esc><#+1><LShft>;q<LShft>q<LShft>!
+2018-12-17 15:08:09+0530 > <Esc><LShft>:q<LShft>!
+2018-12-17 15:08:11+0530 > <Up>
+2018-12-17 15:08:13+0530 > ./<BckSp>/<LShft>N<BckSp><BckSp><Esc><LShft>:q<LShft>!
+2018-12-17 15:08:17+0530 > grep -rns bbt<BckSp><BckSp>t<LShft>_a<BckSp>ha<BckSp>dr
+2018-12-17 15:08:25+0530 > <#+1><Up><Up><Up><Down><Up><Up><Up><Up><Up><Down>
+2018-12-17 15:08:40+0530 > /<LShft>HC_BT
+2018-12-17 15:08:48+0530 > <#+3>n<#+3>n<#+1>n<#+2>n<#+4><Right><#+10><Left><Left><Left><Left>i<BckSp><BckSp><BckSp><Right><#+40><Esc><LShft>:wq<LShft>!
+2018-12-17 15:09:07+0530 > <Up><Up><Up><Up><Up><Up><BckSp><#+42>c<BckSp>vi bt<Tab><#+4>
+2018-12-17 15:09:18+0530 > /<Esc><LShft>:q<LShft>!
+2018-12-17 15:09:23+0530 > vi ..<Up><Up><Up><Up><BckSp><#+19><BckSp><BckSp><BckSp>hc<Tab>in<Tab><#+4><Tab><#+3>bt<Tab><Tab><Tab><LShft>_ve<Tab>
+2018-12-17 15:09:39+0530 > /<LShft>BT
+2018-12-17 15:09:42+0530 > /<LShft>BT_HDR
+2018-12-17 15:09:46+0530 > n<#+4>n<#+2>nnnnnnnnnnnn<#+130>/tran<Up><Up><Down>
+2018-12-17 15:10:06+0530 > <Esc><LShft>:q<LShft>!
+2018-12-17 15:10:11+0530 > grep -rns <RShft><Ins><BckSp><#+9><BckSp><#+19><BckSp>/<Left><#+23><Left><Left> tranms<BckSp><BckSp>smit<LShft>_command
+2018-12-17 15:10:29+0530 > <#+2>vi <RShft><Ins>
+2018-12-17 15:10:42+0530 > /<RShft><Ins>
+2018-12-17 15:10:44+0530 > /<LShft>BT_HDR
+2018-12-17 15:10:52+0530 > nnnn<#+1>nnnn<#+1>nnnnnnnnnnnn<#+5><PgUp><#+29><Esc><LShft>:q<LShft>!
+2018-12-17 15:11:22+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Down><Up>
+2018-12-17 15:11:26+0530 > <Up><#+10><Down><Down><Up><Esc><Esc><LShft>:q<LShft>!
+2018-12-17 15:11:41+0530 > <Up><Up><Up><Up><Up><Up><Up><Down><Down>
+2018-12-17 15:11:47+0530 > <Down><#+25><Down><Down>i
+2018-12-17 15:11:52+0530 > <RShft><Ins><Esc><LShft>:w<LShft>!
+2018-12-17 15:11:56+0530 > /tra<Tab><#+2><BckSp><BckSp><Up>
+2018-12-17 15:12:02+0530 > <Right><#+21>i<BckSp><BckSp><BckSp><Down><Down><Right><#+16><Up>/<RShft><Ins>
+2018-12-17 15:12:13+0530 > <Esc><LShft>:q<LShft>!
+2018-12-17 15:12:15+0530 > <Up>
+2018-12-17 15:12:16+0530 > /t<Up>
+2018-12-17 15:12:19+0530 > <Right><#+25><Left><#+9>i<BckSp><BckSp><BckSp><LCtrl>s<Esc><#+1><LCtrl><LCtrl><Esc><Esc><#+3><Esc><Esc><Esc><LShft>:<Esc><#+1><LShft>::
+2018-12-17 15:12:42+0530 > 
+2018-12-17 15:12:42+0530 > 
+2018-12-17 15:12:43+0530 > 
+2018-12-17 15:12:43+0530 > 
+2018-12-17 15:12:46+0530 > 
+2018-12-17 15:12:46+0530 > 
+2018-12-17 15:12:47+0530 > 
+2018-12-17 15:12:47+0530 > 
+2018-12-17 15:12:49+0530 > 
+2018-12-17 15:12:50+0530 > 
+2018-12-17 15:12:50+0530 > <Esc><LShft>:q<LShft>!
+2018-12-17 15:12:51+0530 > 
+2018-12-17 15:12:51+0530 > 
+2018-12-17 15:12:52+0530 > mm
+2018-12-17 15:13:00+0530 > <#+6><LCtrl>c
+2018-12-17 15:13:02+0530 > 
+2018-12-17 15:13:04+0530 > 
+2018-12-17 15:13:05+0530 > 
+2018-12-17 15:13:05+0530 > 
+2018-12-17 15:13:05+0530 > 
+2018-12-17 15:13:05+0530 > 
+2018-12-17 15:13:05+0530 > 
+2018-12-17 15:13:06+0530 > 
+2018-12-17 15:13:06+0530 > 
+2018-12-17 15:13:06+0530 > iiiii<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>
+2018-12-17 15:13:17+0530 > 
+2018-12-17 15:13:17+0530 > 
+2018-12-17 15:13:17+0530 > 
+2018-12-17 15:13:18+0530 > 
+2018-12-17 15:13:18+0530 > 
+2018-12-17 15:13:18+0530 > 
+2018-12-17 15:13:18+0530 > <Esc><LCtrl><LShft>Tssh zumi<LShft>@192.168.1.48
+2018-12-17 15:13:40+0530 > <#+1>zs10062013
+2018-12-17 15:13:44+0530 > 
+2018-12-17 15:13:48+0530 > 
+2018-12-17 15:13:48+0530 > 
+2018-12-17 15:13:48+0530 > cd <LShft>~.<BckSp>/<LShft>Pe<#+2><Tab><BckSp>r<Tab><Tab><LShft>A<Tab><#+2>a<Tab><Tab>s<Tab>y<BckSp><BckSp>
+2018-12-17 15:13:58+0530 > 
+2018-12-17 15:13:58+0530 > 
+2018-12-17 15:13:59+0530 > 
+2018-12-17 15:13:59+0530 > vi ha<Tab>inte<Tab>r<Tab>b<Tab><#+3><BckSp><Tab><Tab>ble<Tab><BckSp>u<Tab><#+2>1<Tab>de<Tab>v<BckSp>bt<Tab><#+3>
+2018-12-17 15:14:16+0530 > 
+2018-12-17 15:14:17+0530 > /<Up>
+2018-12-17 15:14:20+0530 > <Right><#+22><Right><Right>i<BckSp><BckSp><BckSp><Esc><#+1><LShft>:q<LShft>!
+2018-12-17 15:14:34+0530 > <Up>
+2018-12-17 15:14:35+0530 > 
+2018-12-17 15:14:36+0530 > /tran<Up>
+2018-12-17 15:14:39+0530 > <Right><#+20><Down>/
+2018-12-17 15:14:53+0530 > <Ins>/<Esc><#+1><LShft>:q<LShft>!
+2018-12-17 15:14:57+0530 > <Up>
+2018-12-17 15:14:57+0530 > 
+2018-12-17 15:14:58+0530 > /<Up>
+2018-12-17 15:15:00+0530 > <Right><#+21><Right>i<BckSp><#+1><BckSp><#+1><BckSp><BckSp><Esc><LShft>:w<LShft>!
+2018-12-17 15:15:12+0530 > /<RShft><Ins>
+2018-12-17 15:15:17+0530 > n<#+2><Right><#+24><Left>i<BckSp><BckSp><BckSp><Esc><LShft>:w<LShft>!
+2018-12-17 15:15:25+0530 > <Down><Left><#+2><Right><#+21><Right><Right><Left><Left><Left><Left><BckSp><Right>i<BckSp><BckSp><BckSp><Esc><LShft>:w<LShft>!
+2018-12-17 15:15:34+0530 > <Esc><LShft>:wq<LShft>!
+2018-12-17 15:15:35+0530 > <RCtrl><RCtrl><PgUp>mm
+2018-12-17 15:15:38+0530 > vi <RShft><Home><Ins> <LShft>+102
+2018-12-17 15:17:35+0530 > <Esc><LShft>:q<LShft>!
+2018-12-17 15:17:39+0530 > <Up><Home><Right><Right><Right>../../
+2018-12-17 15:17:44+0530 > <#+2><Right><#+33><Left><#+29><Left><Left><Left><LShft>_<Right><Right><Right>i<LShft>_<Esc><LShft>:w<LShft>!
+2018-12-17 15:17:57+0530 > <Esc><LShft>:wq<LShft>!
+2018-12-17 15:17:59+0530 > <Up><Up><Up>
+2018-12-17 15:18:02+0530 > vi ../../<RShft><Ins>
+2018-12-17 15:19:55+0530 > /hci
+2018-12-17 15:19:59+0530 > <#+2>n<#+8>nnnnnnnnn<#+1>nn<#+1>nnnnnnnnnnn<#+1>n<#+1>nnnnn<#+1>nnnnnnnnnnnnnn<RShft>?<BckSp>/<Up>
+2018-12-17 15:20:36+0530 > /<Up><Up><Up>
+2018-12-17 15:20:39+0530 > <Up><#+10><Up><#+17><Up><#+16><Up><#+9><Up><Up><#+3><Up><#+12><Up><#+12><Up><#+12><Up><Down><#+76><Down><#+8><Up><#+31><Up><Down><Down><Down><Down><Down><Down><Esc><LShft>:q<LShft>!
+2018-12-17 15:21:48+0530 > <Up><Up><Up><Down><Down><BckSp><#+20>bt<Tab><#+1>
+2018-12-17 15:21:53+0530 > 
+2018-12-17 15:21:54+0530 > /<Up>
+2018-12-17 15:21:55+0530 > <Esc><LShft>:q<LShft>!
+2018-12-17 15:22:00+0530 > <Up><BckSp><#+4><Up><BckSp><#+36>grep -rns hci-<LShft>>\<BckSp>
+2018-12-17 15:22:16+0530 > <Up><LShft>"<Left><Left><Left><Left><Left><Left><LShft>"<End> sy<Tab><#+2>bt
+2018-12-17 15:22:25+0530 > <#+2>vi sy<Tab>bt<Tab>/hc<Tab>in<Tab><Tab><Tab>
+2018-12-17 15:23:14+0530 > <#+2><Esc><LShft>:q<LShft>!
+2018-12-17 15:23:16+0530 > cd <RShft><Ins><BckSp><#+1><Home><Up><BckSp><#+27>cd <RShft><Ins>
+2018-12-17 15:23:27+0530 > l<BckSp>grep -rns hci <BckSp>-<LShft>><BckSp><BckSp>
+2018-12-17 15:23:35+0530 > cd -
+2018-12-17 15:24:13+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Down><BckSp><#+16><BckSp>ve<Tab>cc
+2018-12-17 15:24:21+0530 > <PgDn><#+1><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><Esc><LShft>:q<LShft>!
+2018-12-17 15:24:42+0530 > <Up><BckSp><#+20><BckSp><#+1><BckSp><#+72>vi <RShft><Ins>
+2018-12-17 15:25:03+0530 > <#+1><Esc><LShft>:q<LShft>!
+2018-12-17 15:25:05+0530 > 
+2018-12-17 15:25:05+0530 > 
+2018-12-17 15:25:05+0530 > grep -rns hci<Left><Left><Left><LShft>*<Left><LShft>"<Up><Down><LShft>"<Right> sy<Tab>`<BckSp>btr<BckSp>
+2018-12-17 15:25:19+0530 > vi <RShft><Ins> <LShft>+102
+2018-12-17 15:25:58+0530 > <Esc><LShft>:q<LShft>!
+2018-12-17 15:26:00+0530 > <Up><Home><Right><Right><Right>../../
+2018-12-17 15:26:05+0530 > <Right><#+8><Right>i<BckSp><Down><Down><Down><#+14><Down><#+22><Down><#+12><Down><#+12><Down><#+13><Down><#+13><Down><#+13><Down><#+12><Down><#+4><Down><#+12><Down><#+11><Down><#+11><Down><#+15><Down><#+15><Down><#+6><Down><#+13><Down><#+12><Down><#+12>vi sy<Tab><#+1>bt<Tab>/hc<Tab>in<BckSp><BckSp>s<Tab>hc<Tab><Tab>la<Tab>.cc
+2018-12-17 15:27:04+0530 > /<Up><Up><Up><Up><Down>
+2018-12-17 15:27:09+0530 > n<#+3>n<#+5><Down><#+2><Down><#+14><Up><#+11><Up><Up><Up><Up><#+12><Up><#+12><Up><#+19><Up><#+11><Down><Down><Up><Up><Down><Down><Up><Down><Up><Down><Up><Down><Up><Down><Up><Down><Up><Down><Up><Down><Up><Down><Up><Down><Up><Down><Up><Down><Up><Up><Down><Up><Down><Up><Down><Up><Down><Up><Down><Up><Down><Up><Down><Up><Down><Up><Up><#+15><Up><#+7>/t<Up><Up><Up><Up><Up><Up><Up><Down>
+2018-12-17 15:28:04+0530 > <Esc><#+1><LShft>:q<LShft>!
+2018-12-17 15:28:12+0530 > <Up>
+2018-12-17 15:28:17+0530 > /<Up><Up>
+2018-12-17 15:28:21+0530 > /<Up><Up>
+2018-12-17 15:28:26+0530 > \<Esc><LShft>:q<LShft>!
+2018-12-17 15:28:29+0530 > vi d<Tab><BckSp>d<BckSp>s<Tab>y<Tab>bt<Tab>/hc<Tab>s<Tab>ve<Tab><Tab>mn<BckSp><BckSp><Tab><Tab>n<Tab><Tab><Tab><BckSp><BckSp><Tab><Tab><Tab><BckSp><Tab><Tab><Tab><BckSp><#+23>f<Esc><LShft>:q<LShft>!
+2018-12-17 15:28:59+0530 > find <Up>
+2018-12-17 15:29:03+0530 > <PgDn><PgDn><PgDn><Down><#+28><Down><Down><Right><#+13><Right><Left><Left><Left><Left><Esc><#+1>/hci
+2018-12-17 15:29:24+0530 > <#+1>n<#+3><Esc><LShft>:q<LShft>!
+2018-12-17 15:29:44+0530 > grep -rns hci<LShft>_t<Left><Left><Left><Left><Left><LShft>} 
+2018-12-17 15:29:52+0530 > <#+1><Up><LShft>"<Left><#+10><Left><Left><LShft>"
+2018-12-17 15:29:57+0530 > vi <RShft><Ins>
+2018-12-17 15:30:04+0530 > /hci<LShft>_t
+2018-12-17 15:30:09+0530 > <Down><#+8><Down><#+28><Down><#+5><Down><Up><Up><#+13><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down><BckSp><#+16><BckSp><BckSp><BckSp><BckSp>bt<Tab>
+2018-12-17 15:31:58+0530 > 
+2018-12-17 15:31:59+0530 > /<Up><Up><Up><Up>
+2018-12-17 15:32:03+0530 > <Up>it<BckSp>i<BckSp><RShft><Ins><Down><Down><Down><Down><Down><Up>
+2018-12-17 15:32:44+0530 > <LShft>}<#+1> hci<LShft>_t<BckSp><BckSp><LShft>_t;<Esc><LShft>:w<LShft>!
+2018-12-17 15:33:34+0530 > <Esc><LShft>:wq<LShft>!
+2018-12-17 15:33:36+0530 > 
+2018-12-17 15:33:37+0530 > 
+2018-12-17 15:33:37+0530 > 
+2018-12-17 15:33:37+0530 > <Up><Up><Up><Down><Down><BckSp><#+17><BckSp><Tab>ve<Tab>cc
+2018-12-17 15:33:44+0530 > 
+2018-12-17 15:33:45+0530 > <Down><#+26><Down><Down><Up><Up>i
+2018-12-17 15:33:49+0530 > static const hcit<BckSp><LShft>_t <LShft>*hci;<Esc><LShft>:wq<LShft>!
+2018-12-17 15:34:03+0530 > 
+2018-12-17 15:34:03+0530 > <Esc><LShft>:w<LShft>!
+2018-12-17 15:34:09+0530 > <Esc><LShft>:wq<Esc><LShft>:wq<LShft>!
+2018-12-17 15:34:11+0530 > <Esc>nn<Esc><LShft>:q<LShft>!
+2018-12-17 15:34:15+0530 > mm
+2018-12-17 15:34:17+0530 > <Up><Up><Down>
+2018-12-17 15:34:44+0530 > /<Up>
+2018-12-17 15:34:48+0530 > <Left><Left>i<BckSp><Esc><LShft>:w<LShft>!
+2018-12-17 15:34:53+0530 > vi <RShft><Ins><Home> <BckSp><#+10><Right><Right><Right>/<BckSp>../../
+2018-12-17 15:38:22+0530 > 
+2018-12-17 15:38:23+0530 > /<Up><Up><Down>
+2018-12-17 15:38:26+0530 > <Esc><Esc><LShft><LShft>:q<LShft>!
+2018-12-17 15:38:37+0530 > <Esc><LShft>:q<LShft>!
+2018-12-17 15:38:44+0530 > <Up><BckSp><#+6><BckSp><#+17><BckSp><BckSp>s<Tab>hc<Tab>la<Tab>
+2018-12-17 15:38:51+0530 > /<Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><BckSp><#+14><BckSp><BckSp><BckSp><BckSp>tram<BckSp>nsmit
+2018-12-17 15:39:11+0530 > n<#+2>n<#+2>n<#+2>nn<#+1>nn<Esc><LShft>:q<LShft>!
+2018-12-17 15:39:26+0530 > 
+2018-12-17 15:39:26+0530 > <Up><BckSp><#+3><BckSp><#+22><BckSp><BckSp><BckSp><BckSp><#+22><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>grep -rns <BckSp><#+16>vi pa<Tab>c<Tab>s<Tab>bt<Tab>hc<Tab>s<Tab>ve<Tab>
+2018-12-17 15:39:54+0530 > /<Up>
+2018-12-17 15:39:56+0530 > <Down><Down><Down><Down><Down><Down><Down><Down><Down><Up><Up>/<RShft><Ins><BckSp>
+2018-12-17 15:40:09+0530 > nn<#+1>nnnnnnn<Up>
+2018-12-17 15:40:20+0530 > /<Up>
+2018-12-17 15:40:22+0530 > <Up><#+11><Up><Down>i<RShft><Ins><Up><Up><Up><Right><Esc><LShft>:w<LShft>!
+2018-12-17 15:40:31+0530 > <Esc><LShft>:q<LShft>!
+2018-12-17 15:40:48+0530 > <Up><BckSp><#+12><BckSp>bt<Tab><#+4>v<Tab>e<Tab><Tab><Tab><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>inc<Tab>bt<Tab><#+3><Tab>v<Tab>e<BckSp>
+2018-12-17 15:41:00+0530 > .<BckSp>/<Up>
+2018-12-17 15:41:05+0530 > /<Up><Up>
+2018-12-17 15:41:08+0530 > n<#+2>n<#+2>n<#+16><Esc><LShft>:q<LShft>!
+2018-12-17 15:41:17+0530 > grep -rns <RShft><Home><LCtrl>v<RShft><Ins>
+2018-12-17 15:41:29+0530 > <Esc><LShft>:q<LShft>!
+2018-12-17 15:41:53+0530 > grep -rns <RShft><Ins> sy<Tab><#+1>bt
+2018-12-17 15:41:58+0530 > <Up><BckSp><#+23><BckSp><BckSp>mmand sy<Tab>bt
+2018-12-17 15:42:13+0530 > <Esc><LShft>:wq<LShft>!
+2018-12-17 15:42:36+0530 > <Esc><LShft>:wq<Esc><LShft>:wq<LShft>!
+2018-12-17 15:42:40+0530 > <Esc><LShft>:q<LShft>!
+2018-12-17 15:42:41+0530 > <Esc><Esc><LShft>:q<LShft>!
+2018-12-17 15:42:47+0530 > |<BckSp><Up>
+2018-12-17 15:42:49+0530 > <PgDn><Esc><LShft>:q<LShft>!
+2018-12-17 15:42:56+0530 > mm
+2018-12-17 15:42:58+0530 > vi <RShft><Ins>
+2018-12-17 15:43:06+0530 > /<Up>
+2018-12-17 15:43:08+0530 > <Esc><LShft>:q<LShft>!
+2018-12-17 15:43:16+0530 > g
+2018-12-17 15:44:19+0530 > <#+1>bloke ma<BckSp>e<Down><Down><Down><Down>
+2018-12-17 15:44:25+0530 > <LAlt><Tab>vi ../../<RShft><Ins>
+2018-12-17 15:47:27+0530 > /<Up>
+2018-12-17 15:47:29+0530 > <Right><#+57><Right><Right><Right><Right><Right><Left><Left><Left><Left><Left><Right><Left><Esc><LShft>:q<LShft>!
+2018-12-17 15:47:55+0530 > grep -rns <RShft><Ins> ../../s<Tab>y<BckSp>ys<Tab>bt
+2018-12-17 15:48:04+0530 > <#+1>vi <RShft><Ins> <LShft>+141
+2018-12-17 15:48:15+0530 > <#+1><Esc><LShft>:q<LShft>!
+2018-12-17 15:48:22+0530 > <Up><BckSp><#+21><BckSp><BckSp>s<Tab>hc<Tab>l<Tab>.c
+2018-12-17 15:48:29+0530 > <#+1><Esc><LShft>:q<LShft>!
+2018-12-17 15:48:31+0530 > <Up>c
+2018-12-17 15:48:32+0530 > /<Up>
+2018-12-17 15:48:35+0530 > /t<BckSp><BckSp><Esc><LShft>:q<LShft>!
+2018-12-17 15:48:41+0530 > |<Up><BckSp><#+13><BckSp>ve<Tab><Tab>n<Tab><#+1><Tab><Tab><BckSp><BckSp><BckSp><Tab><Tab><Up><Up><BckSp><#+24>s<Tab><BckSp>i<Tab>s<Tab>v<Tab><#+3>
+2018-12-17 15:49:00+0530 > /t<Up>
+2018-12-17 15:49:05+0530 > <Down><#+4><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><#+5><Down><Down><Up><Esc><LShft>:q<LShft>!
+2018-12-17 15:49:36+0530 > grep -rns <RShft><Ins>
+2018-12-17 15:49:40+0530 > <Up><Up>
+2018-12-17 15:49:56+0530 > /<Up>
+2018-12-17 15:49:57+0530 > <Esc><LShft>:q<LShft>!
+2018-12-17 15:50:02+0530 > <Up><Up><BckSp><#+8><BckSp><BckSp><BckSp><RShft><Ins>
+2018-12-17 15:50:06+0530 > vi <RShft><Ins> <LShft>+200
+2018-12-17 15:50:42+0530 > <Up><Up><Up><Up><Up><Down>
+2018-12-17 15:50:51+0530 > /<Up>
+2018-12-17 15:50:55+0530 > <Up><Up><Up><Up><Up><Up><Up><Esc><LShft>:q<LShft>!
+2018-12-17 15:51:03+0530 > grep -rns <RShft><Ins> <RShft><Ins>
+2018-12-17 15:51:14+0530 > <BckSp><#+1><BckSp><#+29><Up><Up><Up><Up><Up><Down>
+2018-12-17 15:51:43+0530 > /<Up>
+2018-12-17 15:51:45+0530 > <Right><#+52><Right><Right><Right><Right><Right><Right><Right><Right><Left><Right>i<LShft>(<RShft><Ins> <LShft>)<Left><BckSp><Esc><LShft>:w<LShft>!
+2018-12-17 15:52:01+0530 > <Esc><LShft>:wq<Tab><LShft>!!
+2018-12-17 15:52:03+0530 > mm
+2018-12-17 15:52:05+0530 > <KP1><Up><Up>
+2018-12-17 15:54:20+0530 > <#+3><PgDn>/<Up>
+2018-12-17 15:54:26+0530 > <Right><#+65><Right><Right><Right><Right><Right><Right><Right> <Left>i <LShft>*<Esc><LShft>:w<LShft>!
+2018-12-17 15:54:36+0530 > <Esc><LShft>:wq<LShft>!
+2018-12-17 15:54:38+0530 > mm
+2018-12-17 15:54:40+0530 > <LShft>Hi to a<BckSp><BckSp><BckSp><BckSp>,
+2018-12-17 15:56:21+0530 >  <RShft><Ins><LAlt><Tab><LAlt><Tab>
+2018-12-17 15:56:55+0530 > 
+2018-12-17 15:56:55+0530 > <RShft><Ins>
+2018-12-17 15:56:57+0530 > 
+2018-12-17 15:56:58+0530 > <LShft>Please tell some suggs<BckSp>es<BckSp><#+10><BckSp><#+12><BckSp><BckSp>tell to <BckSp><#+10><BckSp><BckSp>le<#+3>t me ko<BckSp>now ig<BckSp>f you can d<BckSp>recognize the <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>se the ee<BckSp>rrot <BckSp>r a<BckSp><BckSp><BckSp>r <BckSp><BckSp><BckSp>r abpo<BckSp><BckSp>ove <BckSp>. and <LShft>Tell some proper solutions 
+2018-12-17 15:58:16+0530 > <LShft>Android <LShft>)<BckSp><LShft>)<BckSp>0<BckSp><LShft>O<Left><Right> ppla<BckSp><BckSp><BckSp><BckSp> linju<BckSp><BckSp>ux platform<LShft>BT service crash<LAlt><Tab><LAlt><Tab><LAlt><Tab><Tab>cd -
+2018-12-17 16:05:10+0530 > <Up><Up><Up><Up><Up><Down><Down><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><BckSp><BckSp><BckSp><LShft><BckSp>make -j8
+2018-12-17 16:05:22+0530 > <#+3>g
+2018-12-17 16:07:33+0530 > sony mdr<Down>ap
+2018-12-17 16:07:39+0530 > 
+2018-12-17 16:14:47+0530 > and <LShft>I want t <BckSp>o know <LShft>BT services cla<#+1><BckSp><BckSp><BckSp><LAlt><Tab>cd
+2018-12-17 16:27:01+0530 > sy<BckSp>udo miu<BckSp>nci<BckSp><BckSp>icom
+2018-12-17 16:27:07+0530 > <#+1>zs10062013
+2018-12-17 16:27:12+0530 > 
+2018-12-17 16:27:14+0530 > 
+2018-12-17 16:27:14+0530 > 
+2018-12-17 16:27:14+0530 > zs10062013
+2018-12-17 17:14:30+0530 > <LShft>Hi 
+2018-12-17 17:16:06+0530 > 
+2018-12-17 17:16:07+0530 > <LShft> <LShft>Pr<BckSp><BckSp><LShft>Processor ; <BckSp><BckSp><LShft>: im<BckSp>mx6 evk6sl
+2018-12-17 17:16:30+0530 > 
+2018-12-17 17:16:30+0530 > <LShft>Regards,\<BckSp> 
+2018-12-17 17:16:36+0530 > <LShft>Santhana <LShft>Kumar<LShft> <LShft>S<LAlt><Tab>
+2018-12-17 17:17:00+0530 > 
+2018-12-17 17:17:01+0530 >  <LShft>I got this blog and i got same error <BckSp> facing. thats ehy <BckSp><BckSp><BckSp><BckSp>why i am refeerr<BckSp><BckSp><BckSp>rring your site,<BckSp>.
+2018-12-17 17:17:48+0530 > 
+2018-12-17 17:17:52+0530 > 
+2018-12-17 17:17:52+0530 > g
+2018-12-17 17:18:41+0530 > snf<BckSp>droid<Down>
+2018-12-17 17:18:46+0530 > 
+2018-12-17 17:24:43+0530 > 
+2018-12-17 17:24:43+0530 > 
+2018-12-17 17:24:44+0530 > 
+2018-12-17 17:24:44+0530 > 
+2018-12-17 17:25:12+0530 > 
+2018-12-17 17:25:12+0530 > 
+2018-12-17 17:25:15+0530 > 
+2018-12-17 17:25:15+0530 > 
+2018-12-17 17:25:16+0530 > 
+2018-12-17 17:25:18+0530 > 
+2018-12-17 17:25:19+0530 > <LCtrl><LShft>T<Up>
+2018-12-17 17:27:56+0530 > zs10062013
+2018-12-17 17:28:00+0530 > <#+1>
+2018-12-17 17:28:00+0530 > 
+2018-12-17 17:28:00+0530 > 
+2018-12-17 17:28:01+0530 > 
+2018-12-17 17:28:01+0530 > 
+2018-12-17 17:28:01+0530 > 
+2018-12-17 17:28:01+0530 > 
+2018-12-17 17:28:02+0530 > 
