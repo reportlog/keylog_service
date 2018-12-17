@@ -1,0 +1,85 @@
+Logging started ...
+
+2018-12-17 14:27:13+0530 > <LAlt><Tab><LCtrl>x<LCtrl>xxxxxxxxxx<LCtrl>vcd <LShft>Do<Tab>w<Tab><LShft>S<Tab><BckSp>s<Tab>t<Tab><Tab><Tab>r<Tab><Tab><Tab><Tab><Tab><Tab><BckSp><BckSp><BckSp><BckSp>
+2018-12-17 14:51:06+0530 > ls
+2018-12-17 14:51:07+0530 > cd <LShft>S<Tab>tr<Tab>
+2018-12-17 14:51:12+0530 > tar -xvf c<Tab>
+2018-12-17 14:51:19+0530 > how to extrc==<BckSp><BckSp><BckSp>act tg<Down>
+2018-12-17 14:51:48+0530 > <LAlt><Tab><Up><Left><#+23>z
+2018-12-17 14:52:01+0530 > <LAlt><Tab><Down><#+15><LAlt><Tab><LAlt><Tab><LAlt><Tab><Up><LAlt><Tab><LAlt><Tab><Up><Up><Down><Down><Left><#+27><Left><Left><Del><Del> 
+2018-12-17 14:52:48+0530 > <LAlt><Tab><LCtrl>x<LCtrl>x<#+1><LShft><LCtrl>v<LAlt><Tab><LAlt><Tab><Tab>cd ..
+2018-12-17 14:53:18+0530 > <Up><Up>
+2018-12-17 14:53:20+0530 > <LAlt><Tab><LCtrl>x<#+1><LCtrl>vcricin<Down>
+2018-12-17 14:53:58+0530 > <LCtrl><LCtrl><Down><PgDn><Down><#+11><PgDn><PgDn><PgUp><PgDn><PgDn><PgUp><PgUp><PgUp><PgUp><Down><Down><Down><#+32><Down><#+16><Down><#+11><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><#+16><Down><#+15><Down><#+18><Down><#+20><Down><#+23><Down><#+14><Down><#+13><Down><#+19><Down><#+18><Down><#+27><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><LCtrl><LShft><Right><LShft><Left><LCtrl>c
+2018-12-17 14:58:17+0530 > <#+1>c
+2018-12-17 14:58:18+0530 > c
+2018-12-17 14:58:18+0530 > c
+2018-12-17 14:58:18+0530 > c
+2018-12-17 14:58:18+0530 > c
+2018-12-17 14:58:19+0530 > <LShft>Card <LShft>Images<LCtrl>vlinux 4.9<Down><Down><Down>
+2018-12-17 14:58:57+0530 >  frr<BckSp>ee s<BckSp><BckSp>scale 
+2018-12-17 14:59:32+0530 > <LCtrl>cricin<BckSp><BckSp>buzz.com
+2018-12-17 15:01:03+0530 > <LCtrl><PgDn><PgDn><PgDn><Down><Down><Down><#+8><PgDn><Down><#+13><Down><Down><Down><Down><Down><Down><Down><Down><#+11><Down><Down><Down><Down><#+16><Down><#+16><Down><#+13><Down><Down><Down><Down><#+7><Down><Down><Down><BckSp><BckSp><Down><Down><Down><Down><Down><Down><Up><Up><Up><Down><Up><Up><Up><Down><Right><Right><Right><Down>
+2018-12-17 15:04:50+0530 > <Down>
+2018-12-17 15:04:51+0530 > <BckSp><BckSp><Down><Up><Up><Up><Left><Left><Left><Down><Down><Down><Down><Down><Down>
+2018-12-17 15:05:13+0530 > <LAlt><Tab><LAlt><Tab><LCtrl><LCtrl>c
+2018-12-17 15:07:58+0530 > <LCtrl>vcd <LShft>S<Tab><BckSp>s<Tab>t<Tab><Tab><Tab><Tab><Tab><Tab><Tab>r<Tab><Tab><BckSp><#+5><BckSp><#+4><BckSp><LShft>S<Tab>tr<Tab>
+2018-12-17 15:10:29+0530 > clear<BckSp>n
+2018-12-17 15:10:35+0530 > 
+2018-12-17 15:10:37+0530 > clear
+2018-12-17 15:10:39+0530 > cri
+2018-12-17 15:11:08+0530 > <PgDn><PgUp><PgDn><PgUp>cd rel<Tab><Tab><LShft>_<Tab>
+2018-12-17 15:14:41+0530 > <LCtrl>t<LCtrl><LShft>Tcd ..
+2018-12-17 15:14:59+0530 >  c<BckSp><BckSp>cd u<Tab>
+2018-12-17 15:15:02+0530 > <LCtrl>c
+2018-12-17 15:15:18+0530 > <LAlt><Tab><LShft><Ins>
+2018-12-17 15:15:22+0530 > <LShft><Ins>
+2018-12-17 15:15:26+0530 > 
+2018-12-17 15:15:28+0530 > clear
+2018-12-17 15:15:32+0530 > <LCtrl><LShft>T<LCtrl>v<BckSp><BckSp><BckSp><LShft>V<BckSp><BckSp><LCtrl>v<LMeta><Tab><LMeta><LAlt><Tab><LCtrl>c
+2018-12-17 15:15:48+0530 > <LAlt><Tab><LShft><Ins>
+2018-12-17 15:15:51+0530 > <LAlt><Tab><LAlt><Tab>make <LAlt><Tab><LAlt><Tab>-4<BckSp>j4 im<Tab><Tab>x<Tab><BckSp><#+14><BckSp><#+14><BckSp><#+21><LAlt><Tab><LAlt><Tab>cd ar<Tab>arm<Tab><BckSp><Tab><Tab>m<Tab>/<Tab>b<Tab>d<Tab>
+2018-12-17 15:16:57+0530 > make -j4 imx<Tab><#+1><Tab><Tab><Tab><Tab>6<Tab><Tab><BckSp><#+26><LAlt><Tab><LAlt><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Up><Down><Down><Down><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><Down><Up><#+1><Left><Right><LAlt><Tab><LAlt><Tab><Tab><LAlt><Tab><Tab><LAlt><Tab>cd <LShft><LShft>_<BckSp>-
+2018-12-17 15:19:45+0530 > vi imx<Tab><Tab><Tab><Tab><Tab><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LAlt><Tab><LAlt><Tab>make im<LAlt><Tab><LAlt><Tab>x<Tab><Tab><Tab><Tab><Tab><#+2><LShft>_<Tab><LShft><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><BckSp><#+7><BckSp><#+1><BckSp><BckSp><BckSp><#+17><Down><#+49><Down><#+25><Down><PgDn><#+23><RShft><RShft><PgUp><#+7><PgUp><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><#+13><PgDn><PgDn><#+9><PgDn><#+11><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><#+13><PgDn><#+12><PgDn><#+16><PgDn><#+14><PgDn><#+13><PgDn><#+15><LAlt><Tab><LAlt><Tab><Tab><Tab><Tab><Down><LAlt><Tab><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><#+14><PgDn><#+17><PgDn><#+17><LAlt><Tab><LAlt><LAlt><Tab><LAlt><Tab><Tab><Tab>make -j4 imx<LAlt><Tab><LCtrl>c
+2018-12-17 15:22:42+0530 > <LAlt><Tab><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LShft><Ins>
+2018-12-17 15:22:48+0530 > <Up><Left><#+34>make 
+2018-12-17 15:22:55+0530 > <LAlt><Tab><PgDn><PgDn><PgDn><PgDn><PgDn><#+15><PgDn><#+19><PgDn><#+22><PgDn><#+26><LCtrl>f<LShft>UL
+2018-12-17 15:23:29+0530 > <LCtrl>f<LShft>6<BckSp><BckSp><BckSp><BckSp>6u
+2018-12-17 15:23:38+0530 > <F3><F3><F3><LCtrl>f<LAlt><Tab><LShft><Ins>
+2018-12-17 15:23:56+0530 > <PgDn><PgUp><PgUp><PgUp><PgUp><#+11><PgDn>cr
+2018-12-17 15:25:25+0530 > <PgDn><PgDn><PgUp><PgUp><PgDn><PgUp><Down><#+17><Up><#+16>bcci.tv
+2018-12-17 15:26:14+0530 > <PgDn><PgDn><PgUp><#+2><PgDn><#+20><PgDn><#+3><PgUp><PgUp><PgDn><PgUp><#+29><PgDn><PgDn><PgDn><PgDn><PgUp><PgUp><#+1><Down><Down><#+11><PgDn><PgDn><#+5><LCtrl>x<LCtrl>v
+2018-12-17 15:28:28+0530 > <LAlt><Tab><Tab><Tab><LAlt><Tab><LAlt><Tab><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><#+3><PgDn><PgDn><PgDn><PgDn><PgDn><Down><#+21><Up><Up>//<LCtrl>s<LAlt><Tab><LAlt><Tab><Tab><Up>
+2018-12-17 15:29:50+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><Tab><LCtrl><LShft><LShft>zz<LAlt><Tab><LAlt><Tab><LCtrl>s<LAlt><Tab>make -j4
+2018-12-17 15:31:14+0530 > <LAlt><Tab><Tab><LAlt><Tab><LAlt><Tab><Tab><LAlt><Tab><LAlt><Tab><Tab><Tab><Tab><Tab><Tab><LAlt><Tab><Tab>cd <LShft><Ins> <LShft><Right><Del>
+2018-12-17 15:32:35+0530 > <LAlt><Tab><Tab><Tab><Tab><LCtrl>c
+2018-12-17 15:32:57+0530 > <LAlt><Tab><LAlt><Tab><Tab><Tab><BckSp><#+50><LShft><Ins>
+2018-12-17 15:33:04+0530 > cp z<LShft>I<Tab><LAlt><LAlt><Tab><LAlt><Tab><Tab><LAlt><Tab><Tab>/me<Tab>z<Tab><Tab><Tab><Tab>0<Tab>
+2018-12-17 15:33:25+0530 > <LAlt><Tab><Tab><LAlt><Tab>cp <LShft><Ins> /me<Tab>z<Tab>0<Tab>
+2018-12-17 15:33:48+0530 > sync
+2018-12-17 15:33:50+0530 > umo<Tab> /med<Tab><LShft>*
+2018-12-17 15:34:02+0530 > <LCtrl>t<LCtrl><LShft>Tcd <LShft>~
+2018-12-17 15:34:36+0530 > sudo minicom 0s<BckSp><BckSp>-s
+2018-12-17 15:34:43+0530 > zs10062013
+2018-12-17 15:34:48+0530 > <Down><Down>
+2018-12-17 15:34:50+0530 > 
+2018-12-17 15:34:51+0530 > <Down><Down><Down><Down><Down>
+2018-12-17 15:34:55+0530 > <CpsLk><CpsLk>ee<LAlt><Tab><LAlt><Tab><LCtrl>c
+2018-12-17 15:36:06+0530 > <LAlt><Tab><LShft><Ins>
+2018-12-17 15:36:09+0530 > <LAlt><Tab><LAlt><Tab>make mx<Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><BckSp><#+40><BckSp><#+22><PgDn><PgDn><PgDn><PgDn><PgDn><#+12><PgUp><PgUp><PgUp><PgUp><PgUp><LAlt><Tab><LAlt><Tab><Tab><LCtrl>c
+2018-12-17 15:38:15+0530 > <LAlt><Tab><LAlt><Tab><Tab><LCtrl>v<Up><Down><#+31><PgDn><PgDn><PgDn><PgDn><PgDn><#+13><PgDn><#+10><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><Down><Down><Left><Left><Left><Left><Left><Left><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Left><Left><F2><LAlt><Tab>make <LShft><Ins>
+2018-12-17 15:39:24+0530 > <Up><Up>
+2018-12-17 15:39:30+0530 > <LAlt><Tab><Tab><Tab><Tab><LCtrl>c
+2018-12-17 15:40:23+0530 > <LAlt><Tab><LAlt><Tab><Tab><Tab><LShft><Ins><Left><#+25><Left><#+17><Right><Right><BckSp><Tab><Tab><Tab><Tab>
+2018-12-17 15:40:37+0530 > zs10062013
+2018-12-17 15:40:41+0530 > umount .<BckSp>/me<Tab><LShft>*
+2018-12-17 15:40:52+0530 > 
+2018-12-17 15:41:14+0530 > 
+2018-12-17 15:41:14+0530 > 
+2018-12-17 15:41:15+0530 > 
+2018-12-17 15:41:15+0530 > 
+2018-12-17 15:41:15+0530 > 
+2018-12-17 15:41:15+0530 > 
+
+Logging stopped at 2018-12-17 15:47:29+0530
+
