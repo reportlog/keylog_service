@@ -1,0 +1,141 @@
+Logging started ...
+
+2018-12-20 14:25:23+0530 > 
+2018-12-20 14:25:34+0530 > 
+2018-12-20 14:25:35+0530 > 
+2018-12-20 14:25:35+0530 > 
+2018-12-20 14:25:35+0530 > cd <LShft>Pr<Tab><LShft>U<Tab><#+1>
+2018-12-20 14:25:39+0530 > 
+2018-12-20 14:25:39+0530 > <#+3>ls
+2018-12-20 14:25:40+0530 > <LCtrl>ac
+2018-12-20 14:28:32+0530 > <LCtrl>v          for <BckSp> <BckSp><BckSp>r <RShft>(<Up><End>
+2018-12-20 14:35:57+0530 > int index=0<BckSp><BckSp>;<Down>index=0;index <RShft>< <LCtrl>c
+2018-12-20 14:36:18+0530 > <LCtrl>v; index<RShft>++<Right>
+2018-12-20 14:36:30+0530 > <RShft>{
+2018-12-20 14:36:31+0530 > if<RShft>()<Left>arr[]<Left>index<Right> == k
+2018-12-20 14:36:56+0530 >     return <RShft>"<LShft>YES<End>;<Down><Down><Up>
+2018-12-20 14:37:20+0530 >  <LCtrl>c
+2018-12-20 14:37:25+0530 > <LCtrl>v<Left><Left><LShft><Left><Left><Left>NO
+2018-12-20 14:41:42+0530 > 
+2018-12-20 14:41:43+0530 > <Up>
+2018-12-20 14:43:13+0530 >      for <RShft>()<Up>     index =<BckSp><BckSp>;<Left><Left><Left><Left><Left><Left>int <End><Down><Left>l<BckSp>index=0; l<BckSp>l<RShft>+index; l<RShft><=r; index<RShft>++<End>
+2018-12-20 14:44:27+0530 > <RShft>{
+2018-12-20 14:44:29+0530 > if<RShft>()<Left>l<RShft>%2 == 0<End>
+2018-12-20 14:45:09+0530 > <Up><Right><Right><RShft>(<RShft>!<End><RShft>)<LCtrl>zz<Right><#+14><Right><Left><Left><Left><BckSp><LShft>!<End>
+2018-12-20 14:45:28+0530 > 
+2018-12-20 14:45:38+0530 > int arra<Left><Left><Left><Left><RShft>* = mall
+2018-12-20 14:46:19+0530 > <RShft>()<Left>5<End><LShft><Home><BckSp><LCtrl>c
+2018-12-20 14:46:53+0530 > <LCtrl>v<BckSp><Down><Del><Del><RShft>*<End><Left><BckSp>r-l<RShft>+1
+2018-12-20 14:48:01+0530 > <LCtrl>x<Up><Up><End>
+2018-12-20 14:48:07+0530 > <LCtrl>v<Left><#+15><Right><Right>int size <Down><End> = size;<Down><Down><Left><Left><Left><Left><Left><Left>size<Del>
+2018-12-20 14:48:53+0530 > a[]<Left>index<RShft>++<End> = l;<Down><Del><Up><Up><Up><Up><Down><Down><Down><Down><Down><Up><Up><Right><Right><Right><Right><Right><Right><Right><Right><Right><Tab><Down><Down><Down><Down><Down><Down><Down><Down><Up><Up><Up><Up><Up>     return a;<Del><Del><Del>
+2018-12-20 14:50:50+0530 > 
+2018-12-20 14:50:51+0530 > in<BckSp><BckSp><BckSp><BckSp><BckSp>      <BckSp><Tab>l<RShft>++;<LCtrl>c
+2018-12-20 14:51:33+0530 > <LCtrl>vsize1,index1=0<RShft>)<Left><Left><Left><Left><Left><Left><RShft>(<End><Left>/2<BckSp><BckSp><Right><Right><Right><Down><Down><Up><Right><Right><RShft>+1<Down><Down><Left><Left><RShft>+1<BckSp><BckSp><BckSp><BckSp><Down><Down><Down><LCtrl>x
+2018-12-20 14:55:26+0530 > <LCtrl>vindex1--<BckSp>1<LCtrl>c
+2018-12-20 14:55:46+0530 > <End>
+2018-12-20 14:55:47+0530 > <LCtrl>v<LShft><Home><LCtrl>x<Down><Down><Down><Down><Down><Down><Down><Down><Down><Up><Down><End>
+2018-12-20 14:55:59+0530 > <LCtrl>v<Left><#+23><Right><Right><LCtrl><Left><Left><Left><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Left><LShft><Right><Right><Right><Right>index1-1<Left><#+21><Left><Left><Left><BckSp>b<Right><End>
+2018-12-20 14:56:17+0530 > memcpy<RShft>()<Left><Left><Right>a,b,index1-1<End>;<Down><Left><BckSp>b<LCtrl>zzzzzzzzzzzzzzzzzzzz<LCtrl>zz<BckSp><BckSp><RShft>_1<BckSp><RShft>+<BckSp><BckSp><Left><Left><Left><Left><Right><RShft>+1 <RShft>+1 
+2018-12-20 14:58:45+0530 > ifl<BckSp> <RShft>()<Left>l<RShft>%2 ==<BckSp><BckSp><RShft>!=0<Down><End>
+2018-12-20 14:59:14+0530 > <Up><Up><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right> <RShft>|| <Left><Left><Left><Left><LShft><Left><Left><Left><Left><Left><Left><Left><LCtrl>c
+2018-12-20 14:59:28+0530 > <Right><Right><Right><Right><Right><LCtrl>v<Left><#+16><Del>r
+2018-12-20 14:59:52+0530 > <LCtrl>c
+2018-12-20 14:59:55+0530 > <End>
+2018-12-20 14:59:56+0530 > <BckSp>else
+2018-12-20 14:59:58+0530 > 
+2018-12-20 14:59:59+0530 > <LCtrl>v<Left><BckSp><BckSp><BckSp><BckSp>goo
+2018-12-20 15:01:07+0530 > find odd number <Home>in c <End>in a<Down><Down><Down> <Left><#+13><Left><Left>between <End><BckSp><#+14><BckSp><BckSp> <Down><Down> <Down>
+2018-12-20 15:01:38+0530 > <PgUp><PgUp><PgUp><#+1><BckSp><Home>inc <Left><Left> <End> send the array
+2018-12-20 15:03:37+0530 > <LCtrl>v<LCtrl>a<BckSp>brun<LCtrl>a<BckSp><LCtrl>ac
+2018-12-20 15:24:42+0530 > <LCtrl>v<LCtrl>agoo
+2018-12-20 15:26:16+0530 > <LCtrl>veuro
+2018-12-20 15:35:29+0530 > <LCtrl>v<PgDn><PgDn><PgDn><PgDn><#+27>printgoo
+2018-12-20 15:51:43+0530 > ma<BckSp>all<Down>
+2018-12-20 15:51:48+0530 > goo
+2018-12-20 15:53:16+0530 > use of mall<Down>
+2018-12-20 15:53:20+0530 > <LCtrl><Del><Del><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LCtrl>ac
+2018-12-20 15:54:06+0530 > <LCtrl>c
+2018-12-20 15:54:08+0530 > 
+2018-12-20 15:54:10+0530 > 
+2018-12-20 15:54:21+0530 > <Up>
+2018-12-20 15:54:22+0530 > char <RShft>*oddnum<RShft>()<Left>int l, int k, int <RShft>*arrsize<End>
+2018-12-20 15:54:50+0530 > <RShft>{
+2018-12-20 15:54:51+0530 > <Down><Down><Down><Down><Down><LShft><End><LCtrl>c
+2018-12-20 15:55:01+0530 > <Up><Up><Up><Up><Up><LCtrl>v<Left><Left><Left><Left><Left><LShft><Left><#+19><Right>l=<RShft>%d, k=<RShft>%d,<BckSp><Right><Right><Right>,l,l<BckSp>k<Down><Down><Down><Down><Down><End>
+2018-12-20 15:55:31+0530 > 
+2018-12-20 15:55:32+0530 > oddnum<RShft><RShft>()<Left><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down><End><Left><LShft><Left><Left><Left><Left><#+14><Left><LCtrl>c
+2018-12-20 15:55:46+0530 > <Down><Down><Down><Down><Down><Down><Down><Up>
+2018-12-20 15:55:49+0530 > <LCtrl>v;<Left><LShft><Left><Left><Left><#+1><Left><Left><Left><Left><LCtrl>c
+2018-12-20 15:55:54+0530 > <Down><Down><Down><Right><Right>2,5,<LCtrl>v<Right>;vi<#+3>m ex<Tab>ser<Tab><#+3>/<Tab><Tab>ser<Tab><#+2>re<Tab><#+1>
+2018-12-20 16:01:13+0530 > 
+2018-12-20 16:13:05+0530 > int a=0;
+2018-12-20 16:13:13+0530 > a=k/l;<Down><Right><#+18><Right><Right><Right><Left><Left><Left><Left><Right> a=<RShft>%d<End><Left><Left>,a
+2018-12-20 16:17:42+0530 > int b[]<Left>a<Right>;astatic <Del>5<Del>a<Right><LShft>&<BckSp>go
+2018-12-20 16:19:01+0530 > <LCtrl>v
+2018-12-20 16:19:02+0530 > <LCtrl>c
+2018-12-20 16:19:15+0530 > c
+2018-12-20 16:19:15+0530 > c
+2018-12-20 16:19:16+0530 > <LCtrl><LShft>T<PgDn><Del><End><Left><Left><Right><BckSp><BckSp><BckSp><LCtrl><PgUp><PgDn><PgDn><PgDn><PgDn><PgDn><LCtrl><PgUp><PgUp><PgUp><PgDn><PgDn><PgDn><Left><RShft>*<Right><Right><BckSp> = malloc <RShft>()<Left>a <RShft>*sizeof<RShft>(0<Left><Right><BckSp>int<Right><Right>;<Up>
+2018-12-20 16:36:11+0530 > <Up><Up><Right><Right><Right><Right>ext=0,<Down><Down>int<BckSp><BckSp><BckSp>if<RShft>()<Left><RShft>()<Left><Left><RShft>!<Right>l<RShft>&1<Right> <RShft>&& <RShft>()<Left>k<RShft>&1<Left><#+19><BckSp><Right><Right><Right><Right><Right><End>
+2018-12-20 16:37:59+0530 > <RShft>{
+2018-12-20 16:38:02+0530 > <Up><Up><Left><Left><Down><Down><LShft>Ext<BckSp><BckSp><BckSp>ext<BckSp><BckSp><BckSp><Up><Up><Right><Left><RShft>!<BckSp><Right><RShft>!<Right><Right><Right><Right><Right><Right><Right><Right><Right><RShft>!<End><Down><Down>ext=0;<Down>
+2018-12-20 16:39:35+0530 > else
+2018-12-20 16:39:39+0530 > <RShft>{
+2018-12-20 16:39:41+0530 > if<RShft>()<Left><RShft><LCtrl>c
+2018-12-20 16:39:55+0530 > <LCtrl>v<End>
+2018-12-20 16:39:58+0530 >   ext<RShft>+=<BckSp><RShft>+;
+2018-12-20 16:40:04+0530 > <Up><Up><Home><LShft><Down><Down><Up><End><LCtrl>c
+2018-12-20 16:40:10+0530 > <Down><BckSp>
+2018-12-20 16:40:11+0530 > <BckSp><LCtrl>v<Left><Left><Up><Left><Left><BckSp>k<Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><LShft><Home><LCtrl>x<Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><End>
+2018-12-20 16:40:40+0530 > 
+2018-12-20 16:40:40+0530 > <LCtrl>v<Left><Left><Left><Left> <RShft>(<Right><Right><Right><RShft>)<RShft>+ext<Down><Right><Right><Right><Right><Right><Right><Right><Right> 
+2018-12-20 16:41:21+0530 > <RShft>#inclue<BckSp>de <RShft><><Left>stdlib.h<Left><BckSp>-<Right>/2;//<RShft>)<Left><Left><Left><Left><RShft>(<BckSp><BckSp><BckSp>
+2018-12-20 16:43:06+0530 > for<RShft>()<Left>index=0; l<RShft><=k; index<RShft>++<End>
+2018-12-20 16:43:35+0530 > <RShft>{
+2018-12-20 16:43:37+0530 > if<RShft>()<Left>l<RShft>&1<End>
+2018-12-20 16:43:51+0530 >    b[]<Left>index1<RShft>++<End> = l;<Down>
+2018-12-20 16:44:10+0530 > retun<BckSp>rn b;<Left>,index,index1=0a
+2018-12-20 16:44:50+0530 > int <RShft>*c; c =//<Del>////////<BckSp><BckSp><Del><LCtrl>//a<BckSp><BckSp><Del>k<Right><Right><Right><BckSp>l<LCtrl>zzzz
+2018-12-20 16:48:40+0530 >  <#+17>
+2018-12-20 16:48:44+0530 > l<RShft>++;<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><Down><BckSp><BckSp><RShft>*aint<BckSp><Del>a<Right><BckSp><BckSp>c = <BckSp>
+2018-12-20 16:50:38+0530 > for<RShft>(0<Left><Right><BckSp>index=0;index<RShft><
+2018-12-20 16:50:57+0530 > <RShft>*arrsize = index1-1;done
+2018-12-20 16:57:40+0530 > =<LCtrl>c
+2018-12-20 16:58:30+0530 > <LCtrl>v;index<RShft>++<End><LCtrl>c
+2018-12-20 16:58:44+0530 > <Down><Down><Down><End>
+2018-12-20 16:58:47+0530 > <LCtrl>v<Left><#+12><Left><Right><Right><LShft><Left><#+16><Left><Left>data[]<Left><RShft>%d<Right>=<RShft>%d<Right><Right><Right>,index,c[]<Left>index
+2018-12-20 16:59:17+0530 > int index;a<LCtrl>ac
+2018-12-20 16:59:53+0530 > c
+2018-12-20 16:59:53+0530 > c
+2018-12-20 16:59:53+0530 > c
+2018-12-20 16:59:53+0530 > 
+2018-12-20 16:59:55+0530 > 
+2018-12-20 17:00:23+0530 > tu
+2018-12-20 17:00:33+0530 > <BckSp><Down>
+2018-12-20 17:00:39+0530 > goo
+2018-12-20 17:03:05+0530 > in c function return
+2018-12-20 17:03:12+0530 > <Del>////<LCtrl>c
+2018-12-20 17:07:10+0530 > 
+2018-12-20 17:07:14+0530 > <LCtrl>v<Home><Del><Del><Up><Del><Del><Del><Del>index1<Left><#+12><Left><Right><BckSp><Down><Right><#+13>////<Del>b<Del>8<BckSp>88<BckSp><#+15> arru<BckSp><BckSp>ugment <Down><BckSp><BckSp><BckSp><BckSp>retun<Down>
+2018-12-20 17:11:28+0530 > goo
+2018-12-20 17:11:43+0530 > <LCtrl>ali
+2018-12-20 17:12:17+0530 > <LCtrl>c
+2018-12-20 17:19:44+0530 > c
+2018-12-20 17:19:44+0530 > c
+2018-12-20 17:19:44+0530 > c
+2018-12-20 17:19:44+0530 > <LCtrl>v
+2018-12-20 17:19:55+0530 > <BckSp><BckSp>
+2018-12-20 17:20:01+0530 > <LShft>Hi <Tab> <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LShft>Meena,
+2018-12-20 17:23:57+0530 > <LShft>Thanks for the opp<Tab>, <LShft>But it's not <LCtrl><PgUp><LCtrl><PgDn>match with my profile. <LShft>Please <LCtrl><PgUp><LCtrl>goo
+2018-12-20 17:25:16+0530 > let me know if any requie<BckSp>re<Tab> in <LCtrl>v<Del><Del><LCtrl><PgDn><PgUp><PgDn><PgUp><LCtrl>ac
+2018-12-20 17:43:41+0530 > <RShft>&<BckSp>function <Down>
+2018-12-20 18:30:19+0530 > welcome123<LShft>!@#
+2018-12-21 02:23:47+0530 > <BckSp><#+17>welcome123<LShft>!@#
+2018-12-21 12:44:04+0530 > <LCtrl><LShft>T
+2018-12-21 12:59:36+0530 > 
+2018-12-21 12:59:36+0530 > ifconfig
+2018-12-21 12:59:40+0530 > 
+
+Logging stopped at 2018-12-21 13:00:48+0530
+
