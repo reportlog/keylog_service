@@ -1,0 +1,61 @@
+Logging started ...
+
+2018-12-21 13:00:53+0530 > welcome123<LShft>!@#
+2018-12-21 15:16:01+0530 > <LCtrl><LShft>T
+2018-12-21 15:16:02+0530 > 
+2018-12-21 15:16:02+0530 > cd ex<Tab><LShft>I<Tab><#+2>n<Tab><#+2><Tab><Tab>e<Tab>
+2018-12-21 15:16:09+0530 > git log
+2018-12-21 15:16:11+0530 > qgit remo<Tab>-v
+2018-12-21 15:25:19+0530 > git br<Tab><#+2>
+2018-12-21 15:25:28+0530 > git st<Tab>t<Tab>
+2018-12-21 15:25:41+0530 > git add <RShft><Ins><BckSp><#+32>git log
+2018-12-21 15:27:05+0530 > qgo
+2018-12-21 15:34:32+0530 > go
+2018-12-21 15:35:15+0530 > <LShft>L<LShft>&<LShft>T <LShft><BckSp>,<LCtrl><PgDn><LCtrl><PgUp><LShft> <LShft>Androidbsp<Left><Left><Left> <End>,zebracd ../../obd<Tab>
+2018-12-21 15:37:08+0530 > ls
+2018-12-21 15:37:09+0530 > <LShft>How to update the mou<BckSp>dukl<BckSp><BckSp>les<Home>1<RShft>) <End>
+2018-12-21 15:37:41+0530 > 
+2018-12-21 15:37:42+0530 > 2<RShft>) <LShft>Difference between thread and <LAlt><Tab>vim <BckSp><BckSp><BckSp><BckSp><BckSp>cd ../ser<Tab><#+2>
+2018-12-21 15:38:05+0530 > <LAlt><Tab><LAlt><Tab>difference <Down><BckSp><#+20><BckSp><BckSp>thread<Down><LAlt><Tab><LAlt><Tab><LAlt><Tab><Tab>process
+2018-12-21 15:38:31+0530 > 
+2018-12-21 15:38:31+0530 > 3<RShft>) <LShft>FIFO, push,pop,full,put<BckSp>rge
+2018-12-21 15:38:54+0530 > 
+2018-12-21 15:38:54+0530 > 4<RShft>) <LAlt><Tab><Tab>git diff
+2018-12-21 15:40:01+0530 > <LAlt><Tab>stu<BckSp><BckSp><BckSp><LAlt><Tab><Tab><LCtrl><LCtrl><LCtrl>a<#+2>size of unsigned <Down><BckSp><BckSp><BckSp><BckSp><Down><Down><BckSp><BckSp><BckSp>
+2018-12-21 15:40:43+0530 > <LCtrl><LCtrl><LCtrl>flong
+2018-12-21 15:41:02+0530 > 
+2018-12-21 15:41:03+0530 > onli<Down><Down>
+2018-12-21 15:42:33+0530 >  long<RShft>:<RShft>%ull<Right><Right><Right>,sizeof<RShft>()<Left>unsigned long longd<LCtrl>c
+2018-12-21 15:43:24+0530 > c
+2018-12-21 15:43:24+0530 > c
+2018-12-21 15:43:24+0530 > <LCtrl><LShft>T
+2018-12-21 15:43:28+0530 > 
+2018-12-21 15:43:28+0530 > 
+2018-12-21 15:43:28+0530 > cd
+2018-12-21 15:43:29+0530 > cd <LShft>Ara<Tab>le<Tab><Tab><Tab><BckSp><BckSp>te<Tab><Tab><Tab>/<Tab><Tab>l<Tab>
+2018-12-21 15:43:40+0530 > ls
+2018-12-21 15:43:40+0530 > vim siz.c
+2018-12-21 15:43:44+0530 > i<RShft><Ins><BckSp><BckSp><#+22><LCtrl><LShft>V<Esc><#+1><RShft>:wq
+2018-12-21 15:43:54+0530 > gcc s<Tab>
+2018-12-21 15:43:57+0530 > <Up><Up>
+2018-12-21 15:44:05+0530 > <Down><Down><Down><#+1><Down><End><Left><Left>i int<Left><#+38><Right><BckSp><LAlt><Tab>go
+2018-12-21 15:44:18+0530 > how to print unsigned lon<Down><Down><#+1><Down>
+2018-12-21 15:44:30+0530 > <LCtrl>llu<Esc><#+1><RShft>:wq
+2018-12-21 15:48:49+0530 > <Up><Up><Up><Down>
+2018-12-21 15:48:51+0530 > <Up><Up><Up><Down>
+2018-12-21 15:48:59+0530 > <Down><#+7><Down><Down><Down><LAlt><Tab><PgUp><PgUp><PgDn><PgDn><Up><#+4><Up><Up><PgUp><Down><Down><LAlt><Tab><Down><Up><End><Left><Left>i<BckSp><BckSp><BckSp><BckSp><Esc><RShft>:wq
+2018-12-21 15:49:20+0530 > <Up><Up>
+2018-12-21 15:49:21+0530 > <Up><Up><Up><Up><Up><Up><LCtrl>c
+2018-12-21 15:49:25+0530 > ./a<Tab>
+2018-12-21 15:49:27+0530 > <Up><Up><Up>
+2018-12-21 15:49:31+0530 > <LAlt><Tab><PgDn><Down><#+14><Up><Up><PgDn><Up><Up><Down><Down><Down><Down><PgDn><PgDn><PgDn><PgUp><PgDn><PgDn><PgDn><PgUp><PgDn><PgDn><PgDn><PgUp>samsaram a<Down><Down><Down>
+2018-12-21 15:51:34+0530 > <LCtrl>size of <Down><Down><Down><Down><BckSp><BckSp><BckSp><BckSp>
+2018-12-21 15:52:11+0530 > <LCtrl>flong<PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgDn><PgDn><LShft>Board bringup<LCtrl>ac
+2018-12-21 16:57:56+0530 > <BckSp><BckSp>
+2018-12-21 16:58:04+0530 > <LCtrl>v3<Down><Down><Left><Left><BckSp>14<Down><Down><Left><Left><BckSp>15<Down><Down><Down><Down><Up><Up><Down><Del>16<RCtrl><PgUp>vi<#+1>m <RShft><Ins><Tab>
+2018-12-21 17:03:53+0530 > e<LCtrl><PgDn><Esc><RShft>:q<Tab>
+2018-12-21 17:03:58+0530 > <LCtrl><PgDn><PgDn><PgDn><Esc><RShft>:q<Tab>
+2018-12-21 17:04:03+0530 > <LCtrl><PgUp><PgUp><PgDn><LCtrl>ifconfig
+2018-12-21 17:04:11+0530 > <LCtrl><PgUp>auto<LShft>Eth<LCtrl><PgUp><LCtrl><PgUp><PgUp><Up>
+2018-12-21 17:05:33+0530 > <Up>
+2018-12-21 17:05:34+0530 > <LCtrl><PgUp><PgDn><PgUp>
