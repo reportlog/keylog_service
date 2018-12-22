@@ -1,0 +1,493 @@
+Logging started ...
+
+2018-12-21 15:00:00+0530 > <PgDn><Down><#+17><Down><Down><Down><PgDn><PgDn><PgDn><PgUp><PgUp><PgUp><PgUp><Up><#+13><Up><#+12><RShft><Right><Right><RShft><Right><RShft><Right><Right><RShft><Right> h<Tab>a<Tab>s<Tab>
+2018-12-21 15:04:50+0530 > ha<Tab>a<Tab>0x18000000
+2018-12-21 15:05:02+0530 > <Up> 0
+2018-12-21 15:05:09+0530 > fuse prog 0 6
+2018-12-21 15:05:30+0530 > <Up><BckSp><#+14><BckSp><BckSp>read 0 6
+2018-12-21 15:05:39+0530 > <RShft><PgDn><PgDn><RShft><Right><RShft><Right><RShft><Right><Right><RShft><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><RShft><Right><Right><Right><Right><Right><Right><Right><#+14><PgUp><PgUp><PgUp><PgUp><PgUp><PgDn><LAlt><Tab><LAlt><Tab><LAlt><Tab><Tab><LAlt><Tab><Tab><Tab><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><#+11><PgDn><Down><#+15><Down><#+13><Down><Down><Down><Down><Down><Down><#+3><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><Down><#+12><LAlt><Tab><LAlt><Tab><Tab><Up><Up><Up>
+2018-12-21 15:11:08+0530 > zs10062013
+2018-12-21 15:11:13+0530 > sync
+2018-12-21 15:11:15+0530 > <Up><Up><Up><Up><Down>
+2018-12-21 15:11:18+0530 >  <LAlt><Tab><LAlt><Tab><LCtrl><LShft><Del>
+2018-12-21 15:12:38+0530 > <LAlt><Tab>cd ../../
+2018-12-21 15:13:15+0530 > cd ..
+2018-12-21 15:13:19+0530 > mv to<LShft>_b<Tab> imx6encryption
+2018-12-21 15:13:39+0530 > ls
+2018-12-21 15:13:41+0530 > cd im<Tab>
+2018-12-21 15:13:51+0530 > ls
+2018-12-21 15:13:52+0530 > cd r<Tab>l<Tab>6<Tab>
+2018-12-21 15:14:13+0530 > <LShft><Del>
+2018-12-21 15:15:08+0530 > <LAlt><Tab>cd ../../../
+2018-12-21 15:15:26+0530 > mkdir u<Tab>-bott<BckSp><BckSp>ot<BckSp><#+11><BckSp>to<LShft>_be<LShft>_del
+2018-12-21 15:15:43+0530 > c d<BckSp><BckSp>d to<Tab>
+2018-12-21 15:15:46+0530 > cp ../../../i<LShft>M<Tab><PgDn><LAlt><Tab>u<Tab><BckSp>u<Tab>-<Tab>.<Tab>.
+2018-12-21 15:16:35+0530 > ls
+2018-12-21 15:16:37+0530 > tar -<BckSp>xvf u<Tab>
+2018-12-21 15:16:44+0530 > cd u<Tab>
+2018-12-21 15:16:51+0530 > <LAlt><Tab><LAlt><Tab>cd con<Tab>
+2018-12-21 15:17:11+0530 > ls
+2018-12-21 15:17:12+0530 > make <LShft><Ins>
+2018-12-21 15:17:40+0530 > cd ..
+2018-12-21 15:17:45+0530 > <Up><Up>
+2018-12-21 15:17:48+0530 > make <LAlt><Tab><Tab><RCtrl><PgUp><#+1><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgDn><PgUp><LAlt><Tab><LAlt><Tab><LAlt><Tab>u<Tab>-<Tab>-<BckSp>.<Tab>im<Tab><BckSp><BckSp>x
+2018-12-21 15:18:20+0530 > <LAlt><Tab><Tab><LAlt><Tab><LShft><LAlt><Tab><Tab><LShft><Ins>
+2018-12-21 15:18:46+0530 > <Up><Up><Up>
+2018-12-21 15:18:48+0530 > <Up><Up><Up><Up><Up><LAlt><Tab><LAlt><Tab><Tab><Up><Up><Up><Up><Up>
+2018-12-21 15:19:34+0530 > zs10062013
+2018-12-21 15:19:38+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up>
+2018-12-21 15:19:42+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down>
+2018-12-21 15:19:47+0530 >  h<Tab>a<Tab>s<Tab>
+2018-12-21 15:20:01+0530 > boot
+2018-12-21 15:20:06+0530 > <Up><Up><Up><LShft><Ins><Down><Down><Down><Down>
+2018-12-21 15:20:31+0530 > 
+2018-12-21 15:20:32+0530 > root
+2018-12-21 15:20:33+0530 > <LAlt><Tab><LAlt><Tab><Tab>
+2018-12-21 15:20:52+0530 > zs10062013
+2018-12-21 15:20:55+0530 > sync
+2018-12-21 15:20:57+0530 > umount /me<Tab><LShft>*
+2018-12-21 15:21:03+0530 >  ha<Tab><Tab><Tab><Tab><BckSp><BckSp>ha<Tab><Tab><Tab><BckSp><#+13><LAlt><Tab><Tab><LAlt><Tab><LShft><Ins>
+2018-12-21 15:22:08+0530 > <LAlt><Tab><PgUp><PgUp><PgUp><PgUp><PgDn><LAlt><Tab><LShft><Ins>
+2018-12-21 15:22:32+0530 > <PgDn><#+26>
+2018-12-21 15:22:35+0530 > <LAlt><Tab><LCtrl>v<LCtrl>a<LShft><Tab><Tab><LShft><Tab><LShft><Tab><Up><#+10><Up><#+4><Down><Down><Up><Del><Down><Del><Down><Del><Down><Del><Down><Up><Tab><Down><Down><Up><Del><Down><Del><Tab><Up><Up><Up><Tab><Down><Down><Up>  <#+1><BckSp><BckSp><Tab><BckSp><Right> <Down><Left><Left><Left><Left><Tab><Down> <LCtrl>zzzyyyzzzzzzzzzzzzzzzzzyy<LCtrl>v<LCtrl>q<LCtrl>a<LShft><Tab><Down><Up><Up><#+13><Up><Up><Up><Up><Up><Up><Del><Down><Del><Down><Del><Down><Del><Down><Del><Down><Del>
+2018-12-21 15:23:37+0530 > <Down><Del><LCtrl>a<LAlt><Tab><LAlt><Tab><Tab><LCtrl>xy
+2018-12-21 15:23:48+0530 > <LAlt><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><LAlt><Tab><LShft><Ins>
+2018-12-21 15:23:59+0530 > <Down><#+35>
+2018-12-21 15:24:02+0530 > <Up><LShft>CSF 0x2000<LAlt><Tab><LAlt><Tab><LCtrl>xy
+2018-12-21 15:24:10+0530 > <LAlt><Tab><Down><#+14><LAlt><Tab><LShft><Ins>
+2018-12-21 15:24:18+0530 > <Down><#+19><Down><Down><Down><Down><Down><Down>
+2018-12-21 15:24:23+0530 > <Up><LAlt><Tab><LShft><Right><End><LAlt><Tab><LShft><Ins>
+2018-12-21 15:24:31+0530 > <LAlt><Tab><Down><Down><Up><LShft><Ins><LShft><End><LAlt><Tab><LShft><Ins>
+2018-12-21 15:24:43+0530 > <LAlt><Tab><LShft><Ins><End><LAlt><Tab><LShft><Ins>
+2018-12-21 15:24:50+0530 > <LAlt><Tab><LShft><LShft><End><LAlt><Tab><LShft><Ins>
+2018-12-21 15:24:57+0530 > <LAlt><Tab><LAlt><Tab><LShft><Ins>
+2018-12-21 15:25:02+0530 > <LAlt><Tab><LAlt><Tab><LShft><Ins>
+2018-12-21 15:25:05+0530 > <LCtrl>xy
+2018-12-21 15:25:08+0530 > <LAlt><Tab><Tab><LAlt><Tab><Tab><Down><#+13><LAlt><Tab><LAlt><Tab><LAlt><Tab><Tab><LShft><Ins>
+2018-12-21 15:25:19+0530 > <PgDn><#+19><PgUp><PgUp><Down><#+4><PgDn><LCtrl>xvi to<Tab><LShft>M<Tab>
+2018-12-21 15:25:30+0530 > <Down><#+7><PgDn><Down><#+49><Left><Left><Up>dddd<Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Up>dd<LCtrl><Esc><LShft>:wq<LShft>!
+2018-12-21 15:25:45+0530 > <LAlt><Tab><Down><#+13><Down><Down><Down><LAlt><Tab><LShft><Ins>
+2018-12-21 15:25:57+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><Down><#+14><Down><Down><LAlt><Tab>make m<BckSp><BckSp><#+15><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up>
+2018-12-21 15:26:25+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down>
+2018-12-21 15:26:30+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LShft><Ins><Up><LAlt><Tab><LAlt><Tab><Up><Down><Down><Down><Up><Up><Down><Down><LShft><Ins><LAlt><Tab><LAlt><Tab><LShft><Ins>
+2018-12-21 15:27:26+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down><Up><Up>
+2018-12-21 15:27:36+0530 > sync
+2018-12-21 15:27:39+0530 > um<Tab>o<Tab> /<Tab>me<Tab><LShft>*
+2018-12-21 15:27:46+0530 > 
+2018-12-21 15:27:58+0530 > <Up><Up><LAlt><Tab><LAlt><Tab><Tab><Up>
+2018-12-21 15:28:31+0530 > sync
+2018-12-21 15:28:33+0530 > <Up><Up><Up>
+2018-12-21 15:28:34+0530 >  h<Tab>a<Tab>s<Tab>
+2018-12-21 15:28:47+0530 > <Up><Up><Up><Up><Up>
+2018-12-21 15:28:59+0530 > <Up><Up><Up><Up>
+2018-12-21 15:29:08+0530 > <LAlt><Tab><LAlt><Tab><Tab>sync
+2018-12-21 15:29:13+0530 > <Up><Up><Up><Up>
+2018-12-21 15:29:16+0530 >  ha<Tab>s<Tab>
+2018-12-21 15:29:27+0530 > <LShft><PgUp><PgDn><#+14><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down>
+2018-12-21 15:29:46+0530 > <Up><Up><Up><Up>
+2018-12-21 15:29:52+0530 > <LAlt><Tab><LAlt><Tab><Tab>sync
+2018-12-21 15:29:57+0530 > <Up><Up><Up><Up>
+2018-12-21 15:29:59+0530 >  ha<Tab>s<Tab>
+2018-12-21 15:30:10+0530 > cp u<Tab>.<Tab>i<Tab>u<Tab><LShft>_working.i<Tab>mx
+2018-12-21 15:30:31+0530 > ls
+2018-12-21 15:30:33+0530 > <LAlt><Tab><LAlt><Tab><Tab>cp pwd
+2018-12-21 15:31:06+0530 > <LShft><Ins>/u<Tab>.i<Tab>
+2018-12-21 15:31:16+0530 > <Up> <BckSp>.
+2018-12-21 15:31:19+0530 > c<BckSp><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up>
+2018-12-21 15:31:36+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><#+2><Up><#+1><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down>
+2018-12-21 15:31:47+0530 > sync
+2018-12-21 15:31:50+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down>
+2018-12-21 15:31:56+0530 > sync
+2018-12-21 15:31:59+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up>
+2018-12-21 15:32:03+0530 >  ha<Tab>s<Tab>
+2018-12-21 15:32:22+0530 > <LCtrl>c
+2018-12-21 15:33:07+0530 > <LCtrl>v<LAlt><Tab><LAlt>4cd ../rel<Tab>
+2018-12-21 15:33:30+0530 > <LAlt><Tab><Tab><Down><#+17><Down><Down><LAlt><Tab><LShft><Ins>
+2018-12-21 15:33:39+0530 > <LAlt><Tab><Down><#+8><LAlt><Tab><LShft><Ins>
+2018-12-21 15:33:45+0530 > <LAlt><Tab><LAlt><Tab>cd co<Tab>ba<Tab><Tab>/s<Tab>
+2018-12-21 15:33:57+0530 > <LAlt><Tab><LAlt><Tab><LShft><Ins>
+2018-12-21 15:34:03+0530 > <LAlt><Tab><LAlt><Tab><LShft><Ins>
+2018-12-21 15:34:09+0530 > <LAlt><Tab><LAlt><Tab>cd ../../../ke<Tab>
+2018-12-21 15:34:18+0530 > <LAlt><Tab><Tab><LAlt><LAlt><LAlt><Tab>a<BckSp>nan <BckSp>o serial
+2018-12-21 15:34:31+0530 > 10062013<LCtrl>xy
+2018-12-21 15:34:36+0530 > nano key<LAlt><Tab><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><LAlt><Tab>p<BckSp><LShft>+<BckSp>_pass.txt
+2018-12-21 15:34:54+0530 > <LAlt><Tab><LAlt><Tab><LShft>Zumi<LShft>Znkb13
+2018-12-21 15:35:04+0530 > <LShft>Zumi<LShft>Znkb13<LCtrl>xy
+2018-12-21 15:35:09+0530 > <LAlt><Tab><Down><#+15><LAlt><Tab>./ha<Tab>4<Tab>s<Tab>
+2018-12-21 15:35:19+0530 > n
+2018-12-21 15:35:21+0530 > n
+2018-12-21 15:35:22+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab>2048
+2018-12-21 15:35:29+0530 > 10
+2018-12-21 15:35:30+0530 > 4
+2018-12-21 15:35:31+0530 > y
+2018-12-21 15:35:33+0530 > <LAlt><Tab><Down><#+14><Down><LAlt><Tab>cd ../cr<Tab>
+2018-12-21 15:35:44+0530 > <LAlt><Tab><LAlt><Tab><LShft><Ins><Home><Right><#+12><Right><Right><Right><Right><#+1><Right>bin/
+2018-12-21 15:35:57+0530 > <LAlt><Tab><Down><#+8><LAlt><Tab>cd..<BckSp><BckSp> ../l<Tab>6<Tab>
+2018-12-21 15:36:07+0530 > <LAlt><Tab><LAlt><Tab>nano u-b<Tab>oot.csf
+2018-12-21 15:36:16+0530 > <LAlt><Tab><Down><#+41><Down><#+11><Up><#+37><Up><#+15><Up><#+7><Up><#+32><LCtrl>ac
+2018-12-21 15:36:39+0530 > <LAlt><Tab><Tab><LShft><Ins><Up><#+70><Up><LCtrl>xy
+2018-12-21 15:36:49+0530 > <LAlt><Tab><Tab><Down><#+11><Down><LAlt><Tab>cp ../../u<Tab>-<Tab><BckSp><#+13><BckSp><BckSp><#+5><LAlt><Tab><Tab><LAlt><Tab><BckSp><BckSp><BckSp><BckSp><BckSp>b<Tab>u<Tab>.<Tab>i<Tab>.
+2018-12-21 15:37:32+0530 > <LAlt><Tab><LAlt><Tab><Tab><LAlt><Tab><LShft><LAlt><Tab><Tab><LShft><Ins><Left><#+18><BckSp>--i
+2018-12-21 15:37:46+0530 > <Up><Up><Up><Down>
+2018-12-21 15:37:52+0530 > <Down><#+46><Down><#+21><Up><Right><#+46><Right><BckSp><LAlt><Tab><LAlt><Tab><LAlt><Tab><Tab><Up><#+12><PgUp><PgUp><PgUp><PgUp><PgUp><LAlt><Tab><LCtrl>xn<PgUp><LShft><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><Down><#+2><PgUp><PgDn><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><LAlt><Tab><LAlt><Tab><LShft><PgDn><#+27><Up>
+2018-12-21 15:38:50+0530 > <Down><#+59><Up><Right><#+30><LAlt><Tab><LAlt><Tab><Right><#+21><Right><Right><Right><BckSp>6<LCtrl>xy
+2018-12-21 15:39:10+0530 > <Up><Up><Up><Up><Up><Down><Down><Down><Down><Down><Down><Up><Up><Up><Up><Down><Up><Down><#+19><Up><Up><Up><Up><Up><Down><#+22><LAlt><Tab><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><LAlt><Tab><LAlt><Tab><LCtrl>c
+2018-12-21 15:39:38+0530 > <LAlt><Tab><LShft><Ins>
+2018-12-21 15:39:42+0530 > <Up><Down><Up><Up><Down><Down><Down><Up><Up><Up><Down><#+16><LShft><Ins><Left><#+18><BckSp>--i
+2018-12-21 15:39:55+0530 > <LAlt><Tab><LAlt><Tab><LShft><Ins>
+2018-12-21 15:40:03+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LShft><Ins>
+2018-12-21 15:41:00+0530 > <LAlt><Tab><LAlt><Tab><LShft><Ins><RShft>
+2018-12-21 15:41:11+0530 > <LAlt><Tab><LAlt><Tab>cd ../../ub<Tab>u<BckSp>
+2018-12-21 15:41:26+0530 > <LAlt><Tab><Tab><LAlt><LAlt><Tab><LAlt><Tab><LAlt><Tab><LShft><Ins>
+2018-12-21 15:41:35+0530 > su<BckSp>ync
+2018-12-21 15:41:38+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><PgUp><PgUp><LAlt><Tab>cd -
+2018-12-21 15:41:51+0530 > <LAlt><Tab><LAlt><Tab><LShft><Ins>
+2018-12-21 15:41:58+0530 > <LAlt><Tab><LAlt><Tab><LShft><Ins>
+2018-12-21 15:42:07+0530 > <LAlt><Tab><LAlt><Tab><LShft><Ins>
+2018-12-21 15:42:13+0530 > <LAlt><Tab><LAlt><Tab><LShft><Ins>
+2018-12-21 15:42:19+0530 > <LAlt><Tab> <LAlt><Tab><Down><#+12><LAlt><Tab><LShft><Ins><Left><#+28><Left><BckSp>0
+2018-12-21 15:42:48+0530 > <LAlt><Tab><LAlt><Tab><LShft><Ins>
+2018-12-21 15:42:54+0530 > <LAlt><Tab><LAlt><Tab><LShft><Ins><Left><#+37><Left><Left><BckSp>0
+2018-12-21 15:43:03+0530 > <LAlt><Tab><Down><#+10><LAlt><Tab><LAlt><Tab><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LShft><Ins>
+2018-12-21 15:43:47+0530 > <LAlt><Tab><LAlt><Tab><LShft><Ins>
+2018-12-21 15:43:52+0530 > <LAlt><Tab><LAlt><Tab><LShft><Ins>
+2018-12-21 15:43:56+0530 > <LAlt><Tab><LAlt><Tab>cp de<Tab><LShft>_<Tab><LAlt><Tab><LAlt><Tab><LShft><Ins>
+2018-12-21 15:44:27+0530 > <LAlt><Tab><LAlt><Tab>cd <LShft><Ins>
+2018-12-21 15:44:34+0530 > ls
+2018-12-21 15:44:36+0530 > <LAlt><Tab><LAlt><Tab><LShft><Ins>
+2018-12-21 15:44:43+0530 > <LAlt><Tab><LAlt><Tab><LShft><Ins>
+2018-12-21 15:44:48+0530 > <LAlt><Tab><LAlt><Tab><LShft><Ins>
+2018-12-21 15:44:52+0530 > <LAlt><Tab><Down><#+13><LAlt><Tab><LShft><Ins>
+2018-12-21 15:44:59+0530 > sync
+2018-12-21 15:45:01+0530 > umount /me<Tab>
+2018-12-21 15:45:09+0530 > <LAlt><Tab><LAlt><Tab><LAlt>2    <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up>
+2018-12-21 15:46:10+0530 > <Up><Up><Up><Up>
+2018-12-21 15:46:22+0530 > <LAlt><Tab>
+2018-12-21 15:46:24+0530 > <Up><Up><Up><Down><Down><Down>sync
+2018-12-21 15:46:30+0530 > <Up><Up><Up><Up>
+2018-12-21 15:46:32+0530 >  ha<Tab>s<Tab>
+2018-12-21 15:46:44+0530 > <Up><Up><Up><Up><Up><LAlt><Tab><Tab><Up><Tab><LAlt><Tab><Tab><Up><Up><Up><Up>
+2018-12-21 15:47:09+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up>
+2018-12-21 15:47:13+0530 > sync
+2018-12-21 15:47:15+0530 > <Up><Up><Up><Up><Up><Up>
+2018-12-21 15:47:18+0530 > sync
+2018-12-21 15:47:20+0530 > <Up><Up><Up><Up><Up><Up>
+2018-12-21 15:47:23+0530 >  ha<Tab>s<Tab>
+2018-12-21 15:47:39+0530 > cd ../../
+2018-12-21 15:49:20+0530 > cd u<Tab>
+2018-12-21 15:49:23+0530 > <LAlt><Tab><Tab><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><Up><#+11><Up><#+11><Up><Up><Up><LAlt><Tab>cp ../i<Tab>m<Tab>x<Tab><Tab><BckSp><#+9><BckSp>../im<Tab><LAlt><Tab><LAlt><Tab>g<Tab>.<Tab>.
+2018-12-21 15:50:10+0530 > ls
+2018-12-21 15:50:15+0530 > cd ../
+2018-12-21 15:50:22+0530 > cp u<Tab>b<Tab><BckSp><#+58>mv u<Tab>b<Tab>g<Tab>.
+2018-12-21 15:50:39+0530 > ls
+2018-12-21 15:50:42+0530 > cd u<Tab>
+2018-12-21 15:50:44+0530 > ls
+2018-12-21 15:50:45+0530 > cd ..
+2018-12-21 15:50:48+0530 > ls
+2018-12-21 15:50:50+0530 > tar xvf g<Tab>
+2018-12-21 15:50:55+0530 > <LAlt><Tab><LAlt><Tab><LShft><Ins>
+2018-12-21 15:51:19+0530 > <LAlt><Tab><Down><#+11><LAlt><Tab><LShft><Ins>
+2018-12-21 15:51:25+0530 > <LAlt><Tab><LAlt><Down><#+14><LAlt><Tab><LAlt><Tab><LAlt><Tab>cd u<Tab>
+2018-12-21 15:51:40+0530 > <LAlt><Tab><LAlt><Tab><LShft><Ins>
+2018-12-21 15:51:47+0530 > <LAlt><Tab><LAlt><Tab><LShft><Ins>
+2018-12-21 15:51:54+0530 > <LAlt><Tab><LAlt><Tab><LShft><Ins>
+2018-12-21 15:52:00+0530 > <LAlt><Tab><LAlt><Tab><LShft><Ins>
+2018-12-21 15:52:40+0530 > <LAlt><Tab><Down><#+13><LAlt><Tab>cd re<Tab><BckSp><BckSp>../re<Tab>l<Tab>6<Tab>
+2018-12-21 15:53:06+0530 > nano u<Tab>.<Tab><Tab>cs<Tab>
+2018-12-21 15:53:14+0530 > <Down><#+60><Up><Right><#+47><Left><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LCtrl>xcp ../../u<Tab>b<Tab>u-<Tab>.i<Tab>.
+2018-12-21 15:53:46+0530 > <LAlt><Tab><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><Up><#+11><Up><#+4><LAlt><Tab><LShft><Ins><Left><#+18><Left><BckSp>--i
+2018-12-21 15:54:08+0530 > <LAlt><Tab><LAlt><Tab><LShft><Ins>
+2018-12-21 15:54:15+0530 > <LAlt><Tab><Down><Down><Down><Down><Down><Down><Down><Down><#+10><Down><Down><#+9><Down><#+2><Down><#+10><LAlt><Tab><LShft><Ins>
+2018-12-21 15:54:43+0530 > <LAlt><Tab><LAlt><Tab><LShft><Ins>
+2018-12-21 15:54:47+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><Up><LAlt><Tab><LAlt><Tab><LAlt>4<Up><Down><LShft><Ins>
+2018-12-21 15:55:18+0530 > sync
+2018-12-21 15:55:21+0530 > uou<BckSp><BckSp>mount /me<Tab>
+2018-12-21 15:55:27+0530 >  <Up><Up><Up><Up><Up><Up><Up>
+2018-12-21 15:56:07+0530 > <Up><Up><Up><Up>
+2018-12-21 15:56:22+0530 > <LAlt><Tab><Up><Up><Up><Up>
+2018-12-21 15:56:27+0530 > <Up><Up><Up><Up>
+2018-12-21 15:56:29+0530 > <Tab> <Up><LAlt><Tab><Up><Up>
+2018-12-21 15:57:03+0530 > zs10062013
+2018-12-21 15:57:07+0530 > sync
+2018-12-21 15:57:09+0530 > <Up><Up><Up>
+2018-12-21 15:57:12+0530 >  ha<Tab>s<Tab>
+2018-12-21 15:57:27+0530 > <LAlt><Tab><LShft><Ins>
+2018-12-21 15:57:47+0530 > <LShft><Ins>
+2018-12-21 15:57:59+0530 > <LShft><Ins><LShft><Ins>sync
+2018-12-21 15:58:16+0530 > umount .med<BckSp><BckSp><BckSp><BckSp><BckSp> /me<Tab>
+2018-12-21 15:58:24+0530 > cd ../../u<Tab>
+2018-12-21 15:58:56+0530 > make u<Tab>-<Tab>b<Tab><BckSp>.im<Tab>x<BckSp><BckSp><BckSp>x
+2018-12-21 15:59:04+0530 > <Up><Up><Up><Up><Up>
+2018-12-21 15:59:38+0530 > sync
+2018-12-21 15:59:40+0530 > umo<Tab> /me<Tab>
+2018-12-21 15:59:47+0530 >  ha<Tab>s<Tab>
+2018-12-21 15:59:59+0530 > cd -
+2018-12-21 16:00:10+0530 > cp ../../ub<Tab>u-<Tab>.im<Tab>.
+2018-12-21 16:00:31+0530 > <Up><Up><Up><Up><Up>
+2018-12-21 16:00:38+0530 > <Tab><LAlt><LAlt><Tab>
+2018-12-21 16:00:41+0530 > <Up><Up><Up><Up><Up>
+2018-12-21 16:00:43+0530 > <Up><Up><Up><Up><Up>
+2018-12-21 16:00:45+0530 >  ha<Tab>s<Tab>
+2018-12-21 16:01:00+0530 > cd -
+2018-12-21 16:01:06+0530 > <LAlt><Tab><Tab><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><LAlt><Tab><LShft><Ins>
+2018-12-21 16:01:24+0530 > <LAlt><Tab><Up><#+10><LAlt><Tab><LShft><Ins>
+2018-12-21 16:01:40+0530 > <LAlt><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Up><Up><Up><Up><Up><Up>
+2018-12-21 16:02:15+0530 > sync
+2018-12-21 16:02:17+0530 > um<Tab>ount .<BckSp>/me<Tab>
+2018-12-21 16:02:24+0530 > <LAlt>2<LAlt>4cd -
+2018-12-21 16:03:02+0530 > <LAlt><Tab><LAlt><Tab><Tab><LShft><Del>
+2018-12-21 16:03:12+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><Tab>cd ../../
+2018-12-21 16:03:31+0530 > tar xvf u<Tab>
+2018-12-21 16:03:35+0530 > cd u<Tab>
+2018-12-21 16:03:39+0530 > <LAlt><Tab><Tab><LAlt><Tab><LShft><Ins>
+2018-12-21 16:03:47+0530 > <LAlt><Tab><LAlt><Tab><LShft><Ins>
+2018-12-21 16:03:54+0530 > <LAlt><Tab><LAlt><Tab><LShft><Ins>
+2018-12-21 16:03:59+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><Up><Up><Down><Up><Up><Up><Up><Up><Up><Up><Up>
+2018-12-21 16:04:42+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up>
+2018-12-21 16:04:46+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up>
+2018-12-21 16:04:51+0530 >  ha<Tab><BckSp><#+15><LShft><Ins><LAlt><Tab><Up><Up><Up>
+2018-12-21 16:05:27+0530 > <Up><Up><Up>
+2018-12-21 16:05:34+0530 > <Up><Up><Up>
+2018-12-21 16:05:36+0530 >  <LAlt><Tab><Tab><PgUp><PgUp><PgUp><LAlt><Tab><LShft><Ins>
+2018-12-21 16:06:04+0530 > <PgDn><#+22>
+2018-12-21 16:06:07+0530 > <LAlt><Tab><LCtrl>va<LShft><Tab><Down><Up><#+21><Up><Up><Del><Down><Del><Down><Del><Down><Del><Down><Del><Down><Del><Down><Down><Down><Del><LCtrl>a<LAlt><Tab><LAlt><Tab><Tab><LCtrl>xy
+2018-12-21 16:06:49+0530 > <LAlt><Tab><LAlt><Tab><LShft><Ins>
+2018-12-21 16:07:05+0530 > <Down><#+35>
+2018-12-21 16:07:08+0530 > <Up><LShft>CSF 0z<BckSp>x2000<LAlt><Tab><LAlt><Tab><BckSp><BckSp><BckSp><#+15><BckSp><LShft><Ins><LCtrl>xy
+2018-12-21 16:07:28+0530 > <LAlt><Tab><Down><#+14><LAlt><Tab><LShft><Ins>
+2018-12-21 16:07:35+0530 > <Down><#+22><Down><Down>
+2018-12-21 16:07:38+0530 > <Up><LAlt><Tab><LAlt><Tab><LShft><Ins>
+2018-12-21 16:07:44+0530 > <LAlt><Tab><LShft><LAlt><Tab><LShft><Ins>
+2018-12-21 16:07:49+0530 > <LAlt><Tab><LAlt><Tab><LShft><Ins>
+2018-12-21 16:07:53+0530 > <LAlt><Tab><LAlt><Tab><LShft><Ins>
+2018-12-21 16:07:56+0530 > <LAlt><Tab><LAlt><Tab><LShft><Ins>
+2018-12-21 16:07:59+0530 > <LAlt><Tab><LAlt><Tab><LShft><Ins>
+2018-12-21 16:08:03+0530 > <LCtrl>xy
+2018-12-21 16:08:04+0530 > <LAlt><Tab><Down><#+15><LAlt><Tab>vi to<Tab><LShft>Ma<Tab>
+2018-12-21 16:08:12+0530 > <PgDn><Down><#+48><Down>dddd<Down><#+15><Down>dd<Esc><LShft>:wq<LShft>!
+2018-12-21 16:08:24+0530 > <LAlt><Tab><Down><#+13><Down><#+11><LAlt><Tab><LShft><Ins>
+2018-12-21 16:08:33+0530 > <LAlt><Tab><Down><#+13><LAlt><Tab><LShft><Ins>
+2018-12-21 16:08:40+0530 > <LAlt><Tab><LAlt><Tab><LShft><Ins>
+2018-12-21 16:08:45+0530 > <LAlt><Tab><LAlt><Tab><LShft><Ins>
+2018-12-21 16:08:50+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><Tab><LAlt><Tab><LAlt><Tab><Tab><LShft><Ins>
+2018-12-21 16:09:28+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up>
+2018-12-21 16:09:35+0530 > sync
+2018-12-21 16:09:37+0530 > umount .<BckSp>/me<Tab>
+2018-12-21 16:09:43+0530 > mv u<Tab><LShft>_<Tab>w<Tab>u<Tab>.<Tab>im<Tab>
+2018-12-21 16:10:55+0530 > <Up><Up><Up><Up>
+2018-12-21 16:11:00+0530 > <LAlt><Tab><Up><Up><Up><Up>
+2018-12-21 16:11:04+0530 > <Up><Up><Up><Up>
+2018-12-21 16:11:07+0530 >  ha<Tab>s<Tab>
+2018-12-21 16:11:21+0530 > <Up><Up><Up><Up><Up><Down>
+2018-12-21 16:11:58+0530 > <Up><Up><Up><Up>
+2018-12-21 16:12:13+0530 > sync
+2018-12-21 16:12:15+0530 > um<Tab>oun<Tab> /me<Tab>
+2018-12-21 16:12:21+0530 >  ha<Tab>s<Tab>
+2018-12-21 16:12:34+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down><#+28><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down><#+23><LAlt><Tab><LAlt><Tab><LShft><Ins>
+2018-12-21 16:13:02+0530 > <Up><Up><Up>
+2018-12-21 16:13:17+0530 > sync
+2018-12-21 16:13:19+0530 > umount /me<Tab>
+2018-12-21 16:13:24+0530 > ]\<BckSp><#+10> ha<Tab>s<Tab>
+2018-12-21 16:13:40+0530 > cp <BckSp><#+17>cd -
+2018-12-21 16:13:49+0530 > cd -
+2018-12-21 16:13:53+0530 > cd ../re<Tab>lin<Tab>6<Tab>
+2018-12-21 16:14:01+0530 > cp <LShft><Ins>/u-<Tab>.<Tab>i<Tab>.
+2018-12-21 16:14:18+0530 > c<BckSp><LAlt><Tab><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><LAlt><Tab><LShft><Ins><Left><#+16><BckSp>--i
+2018-12-21 16:14:49+0530 > <Tab><LAlt><Tab><LAlt><Tab>na<BckSp><#+9><LAlt><Tab><LAlt><Tab><LShft><Ins>
+2018-12-21 16:15:02+0530 > <LAlt><Tab><Down><#+14><Down><#+11><Down><#+14><LAlt><Tab><LShft><Ins>
+2018-12-21 16:15:14+0530 > <LAlt><Tab><LAlt><Tab><LShft><Ins>
+2018-12-21 16:15:18+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up>
+2018-12-21 16:15:31+0530 > sync
+2018-12-21 16:15:33+0530 > umo<Tab> /m<Tab>
+2018-12-21 16:15:37+0530 > <Up><Up><Up><Up><Up><Up><Up><Up>
+2018-12-21 16:15:54+0530 > <Up><Up><Up><Up>
+2018-12-21 16:16:07+0530 > sync
+2018-12-21 16:16:09+0530 > umount /me<Tab>
+2018-12-21 16:16:16+0530 > <Up><Up><Up>
+2018-12-21 16:16:42+0530 > sync
+2018-12-21 16:16:44+0530 > um<Tab>o<Tab> /m<Tab>
+2018-12-21 16:16:49+0530 >  ha<Tab>s<Tab>
+2018-12-21 16:17:01+0530 > <Up><Up><Up>
+2018-12-21 16:17:12+0530 > sync
+2018-12-21 16:17:14+0530 > um<Tab>o<Tab> /m<Tab>
+2018-12-21 16:17:18+0530 >  ha<Tab>s<Tab>
+2018-12-21 16:17:28+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down>
+2018-12-21 16:17:39+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up>
+2018-12-21 16:17:48+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up>
+2018-12-21 16:17:54+0530 > <Up><Up><Up><Up><Down><Down>
+2018-12-21 16:17:57+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up>
+2018-12-21 16:18:03+0530 > <Up><Up><Up><Up><Up><Up><Up><Up>
+2018-12-21 16:18:18+0530 > sync
+2018-12-21 16:18:20+0530 > umou<Tab> .m<BckSp><BckSp>/m<Tab>
+2018-12-21 16:18:26+0530 > <Up><Up><Down><Down>cp  <BckSp><#+16>cd -
+2018-12-21 16:18:54+0530 > <Up><Up><Up>
+2018-12-21 16:19:06+0530 > sync
+2018-12-21 16:19:08+0530 > <Up><Up><Up><Up><Down>
+2018-12-21 16:19:10+0530 >  ha<Tab>s<Tab>
+2018-12-21 16:19:21+0530 > <Up><Up><Up><Up>
+2018-12-21 16:19:33+0530 > sync
+2018-12-21 16:19:35+0530 > um<Tab><BckSp><#+11>umo<Tab> /m<Tab>
+2018-12-21 16:19:41+0530 >  g<BckSp>ha<Tab>s<Tab>
+2018-12-21 16:19:53+0530 > <Up><Up><Up><Up>
+2018-12-21 16:19:58+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up>
+2018-12-21 16:20:06+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up>
+2018-12-21 16:20:13+0530 > <Up><Up>
+2018-12-21 16:20:18+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up>
+2018-12-21 16:20:25+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down>
+2018-12-21 16:20:32+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up>
+2018-12-21 16:20:45+0530 > sync
+2018-12-21 16:20:47+0530 > umo<Tab> /m<Tab>
+2018-12-21 16:20:51+0530 > <Up><Up><Up><Up><Up><Up>
+2018-12-21 16:21:12+0530 > <Up><Up><Up><Up>
+2018-12-21 16:21:23+0530 > sync
+2018-12-21 16:21:25+0530 > umo<Tab> /m<Tab>
+2018-12-21 16:21:29+0530 >  ha<Tab>s<Tab>
+2018-12-21 16:21:43+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up>
+2018-12-21 16:21:51+0530 > twitter.com.<BckSp>/i/likes
+2018-12-21 16:22:21+0530 > <LAlt><Tab><Up><Up><Up><Up><Up><Up><Up><#+2><Up><Up><Up><Down>
+2018-12-21 16:22:30+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down><#+19><Down><#+17><Up><Up><Up><Up><Up>
+2018-12-21 16:22:53+0530 > sync
+2018-12-21 16:22:56+0530 > umo<Tab> /m<Tab>
+2018-12-21 16:23:00+0530 > <PgDn><PgDn><PgUp><PgDn><PgDn><PgDn><PgDn><PgDn><Down><#+12><Down><#+11><Down><Down><#+14><PgDn><Down><#+13><Down><Down><Down><#+11><Down><#+14><Down><#+8><Down><Down><#+14><Down><Down><Up><Up><PgDn><Up><#+12><Down><#+12><PgDn><Down><#+11><PgDn><PgDn><Down><#+14><Down><#+11><PgDn><PgDn><PgDn><Down><Down><#+13><Down><#+15><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><Down><Down><#+13><Down><#+11><Down><#+12><Down><#+12><Down><#+10><Down><#+14><PgUp><#+11><PgDn><Down><#+12><Down><#+10><PgUp><PgUp><RShft><Right><Right><Right><RShft><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><PgDn>twitte.<BckSp>r.com/disisvki
+2018-12-21 16:29:17+0530 > youtube,ci<BckSp><BckSp><BckSp>com<BckSp><BckSp><BckSp>.com/feed/subscriptions
+2018-12-21 16:29:30+0530 > <PgDn><LCtrl><LCtrl><PgDn><Down><#+15><LCtrl><Down><#+13><Down><Down><Down><LCtrl><PgDn><LCtrl><Down><#+2><Down><Down><Down><Down><Down><Down><Down><Down><PgDn><Down><Down><Down><LCtrl><Down><#+15><Down><#+13><LCtrl><Down><Down><Down><Down><Down><Down><Down><Down><Down><LCtrl><PgDn><Down><#+15><PgDn><PgDn><PgDn><PgDn><Up><Up><Up><Up><Up><Up><Up><Up><Up>
+2018-12-21 16:32:14+0530 > <Up><Up><Up>
+2018-12-21 16:32:30+0530 > sync
+2018-12-21 16:32:32+0530 > umo<Tab> /me<Tab>
+2018-12-21 16:32:37+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Down><Down>
+2018-12-21 16:32:45+0530 > <Up><Up><Up><Up><Up><Up>
+2018-12-21 16:32:49+0530 > <Up><Up><Up><Up><Up><Up> ha<Tab>s<Tab>
+2018-12-21 16:33:04+0530 > <Up><Down>
+2018-12-21 16:33:20+0530 > sync<BckSp><#+13><Up>
+2018-12-21 16:33:24+0530 > sync
+2018-12-21 16:33:25+0530 > umo<Tab> .<BckSp>/m<Tab>
+2018-12-21 16:33:31+0530 > ls
+2018-12-21 16:33:45+0530 > cp u-<Tab>.<Tab>im<Tab>u-<Tab><LShft>_wor<Tab>king.imc<BckSp>x
+2018-12-21 16:34:02+0530 > ls
+2018-12-21 16:34:03+0530 > <LAlt><Tab><Down><#+12><Down><#+12><LCtrl><LCtrl><PgDn><PgUp><PgDn><PgDn><PgDn><PgDn><Down><#+14><Down><#+11><Down><#+15><Down><#+11><Down><#+10><Down><#+11><PgDn><PgDn><PgDn><PgDn><PgUp><PgDn><PgDn><PgDn><PgDn><PgDn><PgUp><PgDn><PgDn><PgDn><PgDn><PgDn><LCtrl><PgDn><PgDn><Down><#+15><PgDn><Up><Down><#+12><Down><PgDn><Down><Down><#+21><PgDn><PgDn><Down><Down><Down><Down><Down><Down><#+13><PgDn><Down><Down><Down><PgDn><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgDn><PgUp><PgUp><PgDn><PgUp><PgUp><#+21><PgUp><#+7><PgUp><PgDn><PgUp><#+6><PgUp><#+20><PgUp><#+6><PgUp><#+18><PgUp><#+17><PgUp><PgDn><Up><#+13><Up><#+13><Up><Up><PgDn><PgDn><Down><Down><Down><#+16><LAlt><Tab><Down><Down><Down><Down><Down><Down><Down><#+12><PgDn><PgDn><Down><#+18><PgDn><PgDn><PgUp><#+84><PgUp><#+86><Down><Down><#+25><Down><#+15><PgUp><#+37><PgUp><#+8><Down><Down><#+29><PgUp><#+40><PgUp><#+26><PgDn><PgUp><#+19><Down><#+12><Down><#+15><Down><Down><Down><Down><Down><#+14><Down><#+5><Down><#+14><Down><#+15><PgDn><#+15><PgDn><PgUp><#+21><PgDn><LCtrl><Down><#+14><PgDn><PgDn><PgDn><Down><#+12><PgDn><Down><#+12><Down><Down><Down><PgDn><Down><Down><Down><Down><#+13><Down><Down><Down><PgDn><Down><Down><Down><Down><Down><Down><Down><Down><Down><#+12><Down><Down><Down><Down><PgDn><PgDn><PgDn><Down><#+12><Down><#+11><Down><Down><Down><Down><Down><Down><Down><#+12><Down><#+6><Down><#+10><Down><Down><Down><Down><#+11><Down><Down><Down><Down><#+9><Down><#+10><Down><Down><Down><Down><#+13><Down><Down><#+10><Down><#+14><PgDn><Down><#+14><Down><Down><#+9><PgDn><Up><Up><PgDn><PgDn><Down><Down><#+10><Down><#+13><Down><#+9><Down><#+11><Down><#+20><PgDn><Up><Up><Up><Up><Down><#+18><PgDn><Down><Down><Up><#+9><PgDn><PgDn><PgDn><PgDn><PgDn><PgUp><PgDn><PgDn><PgDn><PgUp><Down><#+13><Down><PgDn><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><PgDn><Down><#+4><Left><PgUp><PgDn><Down><PgDn><PgDn><PgDn><PgDn><PgDn>r<PgDn><PgDn><PgDn><PgDn><PgDn><Down><#+15><PgUp><PgUp><PgDn><PgDn><PgDn><Down><Down><Down><Down><Down><Down><Down><Down><#+6><Down><#+13><RShft><Right><Right><Right><Right><Down><#+8><RShft><Right><Right><Right><RShft><Right><RShft><Right><Right><Right><Up><Up><#+12><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Up><Up><Up><Up><Up><Up>
+2018-12-21 17:01:24+0530 > <Up><Up><Up><Up>
+2018-12-21 17:01:37+0530 > zs10062013
+2018-12-21 17:01:41+0530 > sync
+2018-12-21 17:01:43+0530 > umou<Tab> /m<Tab>
+2018-12-21 17:01:47+0530 >  h<Tab>a<Tab>s<Tab>
+2018-12-21 17:02:01+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up>
+2018-12-21 17:02:12+0530 > <Up><Up><Up><Up>
+2018-12-21 17:02:27+0530 > sync
+2018-12-21 17:02:30+0530 > umo<Tab> /m<Tab>
+2018-12-21 17:02:34+0530 >  <Up><Up><Up><Up><Up><Up><Up><Down><Down><#+18><Up><Up><Up><Up><Up><Up><Up><Up>
+2018-12-21 17:02:56+0530 > <Up><Up><Up><Up>   
+2018-12-21 17:03:19+0530 > sync
+2018-12-21 17:03:21+0530 > umo<Tab> /m<Tab>
+2018-12-21 17:03:25+0530 >  /m<BckSp><BckSp>ha<Tab>s<Tab>
+2018-12-21 17:03:40+0530 >  <Up><Up><Up><Up><Up><Up><Up><Up>
+2018-12-21 17:03:57+0530 > <Up><Up><Up><Up>
+2018-12-21 17:04:10+0530 > sync
+2018-12-21 17:04:12+0530 > um<Tab>o<Tab> /m<Tab>
+2018-12-21 17:04:17+0530 > <Up><Up><Up><Up><Up><Up><Up><Up>
+2018-12-21 17:04:31+0530 > <Up><Up><Up><Up><Up><Up><#+12><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down><#+48><Up><Up><Up><Up>
+2018-12-21 17:05:11+0530 >  <Up>
+2018-12-21 17:05:39+0530 > sync
+2018-12-21 17:05:42+0530 > ump<BckSp>o<Tab> /m<Tab><Tab>e<Tab>
+2018-12-21 17:05:50+0530 > z<BckSp><Up><Up><Up>
+2018-12-21 17:06:06+0530 > <Up><Up><Up><Down><BckSp><#+5><Tab><Tab><BckSp><BckSp>
+2018-12-21 17:06:12+0530 >  ha<Tab>s<Tab>
+2018-12-21 17:06:35+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up>
+2018-12-21 17:07:09+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down>
+2018-12-21 17:07:34+0530 > <Up><Up><Up><Up>
+2018-12-21 17:07:37+0530 > sync
+2018-12-21 17:07:40+0530 > umo<Tab> /m<Tab>
+2018-12-21 17:07:45+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up>
+2018-12-21 17:08:51+0530 > <Up><Up><Up><Up>
+2018-12-21 17:09:02+0530 > sync
+2018-12-21 17:09:04+0530 > umo<Tab> /m<Tab>
+2018-12-21 17:09:09+0530 > <Up><Up><Up><Up><Up><Up>
+2018-12-21 17:09:38+0530 > synz<BckSp><#+23>zs10062013
+2018-12-21 17:09:45+0530 > sync
+2018-12-21 17:09:47+0530 > umo<Tab> /m<Tab>
+2018-12-21 17:09:51+0530 >  ha<Tab>s<Tab>
+2018-12-21 17:10:03+0530 > <Up><Up><Up>
+2018-12-21 17:10:14+0530 > sync
+2018-12-21 17:10:16+0530 > umo<Tab> /m<Tab>
+2018-12-21 17:10:19+0530 >  ha<Tab>s<Tab>
+2018-12-21 17:10:30+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down>
+2018-12-21 17:10:47+0530 > <Up><Up><Up><Up>
+2018-12-21 17:10:49+0530 > sync
+2018-12-21 17:10:52+0530 > umo<Tab> /me<Tab>
+2018-12-21 17:10:56+0530 >  ha<Tab>s<Tab>
+2018-12-21 17:11:07+0530 > <RShft><Right><Right><Right><Right><#+4><Right><Right><Right><Right><Right><#+19><LCtrl>c
+2018-12-21 17:11:43+0530 > <LAlt><Tab><Tab><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgDn><PgDn><PgDn><PgDn><PgDn><PgUp><PgUp><PgUp><PgUp><PgUp><PgDn><PgDn><#+2><PgDn><PgDn><PgDn><PgUp><PgUp><PgUp><PgUp><PgUp><PgDn><PgDn><PgDn><PgDn><PgDn><LCtrl>v<BckSp><LCtrl>a<Del><LAlt><Tab><LAlt><Tab><LCtrl>v<LShft>+7ac00
+2018-12-21 17:15:06+0530 > <PgUp><PgUp><PgUp><PgUp><PgUp><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgUp><PgUp><PgUp><PgUp><PgDn><PgUp><PgUp><PgUp><PgUp><PgDn><PgDn><PgDn><PgDn><LShft><Ins><LShft>+7bc00
+2018-12-21 17:15:49+0530 > <LCtrl><LCtrl>c
+2018-12-21 17:16:00+0530 > 1787cfb8-<LCtrl>v
+2018-12-21 17:16:08+0530 > 17800010<LShft>+7aff0
+2018-12-21 17:16:52+0530 > 17800010<LShft>+78ff0<RShft>
+2018-12-21 17:17:30+0530 > nanp<BckSp>o u<Tab>.c<Tab>
+2018-12-21 17:17:43+0530 > <Down><#+60><LAlt><Tab><LAlt><Tab><Up><Down><Up><Right><#+47><Left>\<BckSp><BckSp>8<LCtrl>xy
+2018-12-21 17:18:11+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down>
+2018-12-21 17:18:25+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down>
+2018-12-21 17:18:44+0530 > <Up><Up><Up><Up><Up><Up>
+2018-12-21 17:18:52+0530 > sync
+2018-12-21 17:18:54+0530 > umo<Tab> /m<Tab>
+2018-12-21 17:18:58+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up>
+2018-12-21 17:19:23+0530 > <Up><Up><Up>
+2018-12-21 17:19:37+0530 > sync
+2018-12-21 17:19:41+0530 > umo<Tab> /m<Tab>
+2018-12-21 17:19:46+0530 >  ha<Tab>s<Tab>
+2018-12-21 17:19:59+0530 > <Up><Up><Up><Up>
+2018-12-21 17:20:13+0530 > sync
+2018-12-21 17:20:16+0530 > umo<Tab> /m<Tab>
+2018-12-21 17:20:20+0530 > <Down><#+14><Down><#+9><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down>cd -
+2018-12-21 17:21:02+0530 > <LAlt><Tab><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><LAlt><Tab><LShft><Ins>
+2018-12-21 17:21:21+0530 > cd<BckSp><BckSp><Up><Up><Up><Up><Up>
+2018-12-21 17:21:39+0530 > sync
+2018-12-21 17:21:41+0530 > umo<Tab> /m<Tab>
+2018-12-21 17:21:45+0530 >  ha<Tab>s<Tab>
+2018-12-21 17:22:00+0530 > cd -
+2018-12-21 17:22:15+0530 > cp <LShft><Ins>/u<Tab>.i<Tab>.
+2018-12-21 17:22:33+0530 > cp <LShft><Ins>/u-<Tab>.i<Tab>.
+2018-12-21 17:23:04+0530 > sync
+2018-12-21 17:23:08+0530 > <Up><Up><Up><Up><Up><Up><Up>
+2018-12-21 17:23:12+0530 > sync
+2018-12-21 17:23:14+0530 > umo<Tab> /m<Tab>
+2018-12-21 17:23:18+0530 >  ha<Tab>s<Tab>
+2018-12-21 17:23:43+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up>
+2018-12-21 17:24:00+0530 > <Up><Up><Up><Up>
+2018-12-21 17:24:14+0530 > sync
+2018-12-21 17:24:16+0530 > umo<Tab> /m<Tab>
+2018-12-21 17:24:20+0530 >  ha<Tab>s<Tab>
+2018-12-21 17:24:35+0530 > vi u<Tab>.c<Tab>
+2018-12-21 17:24:49+0530 > <Down><#+64><Down><Down><#+12><PgDn><PgDn><PgDn><PgDn><PgDn><LAlt><Tab><Up><#+12><Up><Right><#+24><Right><Right><Right><Ins>\<BckSp><BckSp><LShft>A<LCtrl><Esc><LShft>:wq<LShft><LShft>!
+2018-12-21 17:25:51+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up>
+2018-12-21 17:26:07+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up>
+2018-12-21 17:26:18+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up>
+2018-12-21 17:26:38+0530 > <Up><Up><Up><Up><Up><Up><Up>
+2018-12-21 17:26:41+0530 > sync
+2018-12-21 17:26:43+0530 > umo<Tab> /m<Tab>
+2018-12-21 17:26:48+0530 >  ha<Tab>s<Tab>
+2018-12-21 17:27:02+0530 > <Up><Up><Up>
+2018-12-21 17:27:27+0530 > umo<Tab> /m<Tab>
+2018-12-21 17:27:40+0530 >  ha<Tab>s<Tab>
+2018-12-21 17:27:55+0530 > <Up><Up><Up><Up><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><PgDn><Down><Down><Down><#+11><Down><Down><Down><Down><Down><#+12><Down><Down><Down><#+11><PgDn><#+2><PgUp><PgUp><PgUp><Up><Up><Up><RShft><Right><Right><Right><Right><Right><Right><#+15><Right><#+16><Right><#+1><PgDn><RShft><Right><RShft><Right><Right><Right><Right><Right><Right><RShft><Right><RShft><Right><RShft><Right><RShft><Left><RShft><Right><RShft><Right> <LAlt><Tab>proxysitec.<BckSp><BckSp>.com
+2018-12-21 17:48:08+0530 > tamilrockers.to
+2018-12-21 17:48:25+0530 > <RShft><Right><RShft>    boot
+2018-12-21 17:54:06+0530 >  setenv mmcdev 0
+2018-12-21 17:54:20+0530 > saveenve<BckSp>
+2018-12-21 17:54:24+0530 > boot
+2018-12-21 17:54:25+0530 >  ha<Tab>s<Tab>
+2018-12-21 17:54:34+0530 > <LShft><PgUp><PgDn><PgUp><PgDn><PgDn><PgDn><PgDn><Down><#+3><Down><#+11><PgDn><PgUp><PgUp><Down><#+11><Down><#+6><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><#+8><PgDn><PgDn><PgDn><PgDn><#+11><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgUp><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgUp><#+20><PgUp><#+11><PgUp><#+10><PgUp><PgUp><PgDn><#+14><PgDn><PgUp><PgUp><LCtrl>o
+2018-12-21 17:56:30+0530 > 
+2018-12-21 17:56:31+0530 > <Down><#+7><PgDn><PgDn><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><PgDn><Down><Down><Down><Down><Down><Down><Down><#+12><Down><#+2><Down><Down><#+9><PgDn><PgDn><PgDn><Down><#+3><PgDn><PgDn><Up><#+5><Up><#+12><PgDn><Up><Up><Down><#+11><Down><Down><Down><Down><Down><Down><Down><#+11><Down><#+12><Down><#+11><Down><#+16><Down><Down><#+17><PgDn><Up><Up><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><PgDn><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><#+13><Down><Down><Down><Down><Down><Down><Down><Down><Down><PgDn><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><#+11><PgDn><Up>youtube.com/feed/subscrptio<BckSp><BckSp><BckSp><BckSp>iptions
+2018-12-21 18:03:26+0530 > <Down><Down><Down><Down><Down><#+1><Down> ha<Tab>s<Tab>
+2018-12-21 18:05:33+0530 > <PgDn><PgDn><PgUp><PgUp><LCtrl><PgDn><Down><#+13><Down><#+16><Down><Down><#+10><Down><Down><#+16><Down><Down><#+13><Down><#+11><Down><Down><Down><Down><Down><#+13><Down><#+13><Down><#+11><Down><Down><Down><Down><#+14><Down><#+14><PgDn><PgDn><Down><Down><Down><Down><Down><#+13><Down><#+14><PgDn><RShft><Right><Right><Right><Right><Right><Right>twitter.com/i/likes
+2018-12-21 18:17:08+0530 > <RShft><Right><#+16><PgDn><PgUp><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><Up><#+11><PgDn><PgDn><#+58><PgDn><#+46><PgDn><#+39><PgDn><#+36><PgDn><#+34><PgDn><#+34><PgDn><#+40><Up><#+12><Up><PgDn><#+37><PgDn><#+32><Up><#+12><Up><Up><Up><PgDn><#+53><PgDn><#+971><PgDn><#+52><Up><Up><Up><#+13><PgDn><#+29>pa<BckSp><BckSp>vfor<PgDn><#+11><PgUp><PgUp><PgDn><#+6>wolfhow to search for someone's <BckSp><#+14><BckSp><BckSp><BckSp>twitter particular duration
+2018-12-21 18:20:04+0530 > <Down><#+12><PgDn><Down><#+13><Down><#+13>from<LShft>:wol<BckSp><BckSp><BckSp><LShft>@wolf<LShft>_twits since<LShft>:<BckSp>2018<LAlt><Tab><LAlt><Tab><Tab><LAlt><Tab><LAlt><Tab><Tab>-08-01 until<LShft>:2018-08-2<BckSp>21
+2018-12-21 18:22:12+0530 > <Down><#+15><Down><#+11><Down><Down><Down><#+12><Down><#+13><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><#+2><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><#+9><Down><Down><Down><Down><Down><Down><Down><Down><#+10><PgDn><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><#+12><Down><#+1><Down><Down><Down><Down><Down><Down><Down><PgDn><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><#+14><Down><#+10><Down><#+13><Down><Down><Down><#+16><Down><#+9><Down><Down><Down><Down><Down><Down><RShft><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><RShft><Right><Right><Up><PgDn><Down><Down><Down><Down><Down><Down><Down><PgDn><Down><Down><Down><#+14><Down><PgDn><PgDn><PgDn><PgDn><Down><#+16><PgDn><Down><Down><Down><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgUp><#+48><PgDn><Right><#+26><Right><BckSp><BckSp>10
+2018-12-21 18:27:08+0530 > <PgDn><PgDn><PgDn><PgDn><#+1><PgDn><#+15><PgDn><#+5><PgDn><PgDn><Down><#+12><PgDn><Down><Down><#+12><Down><Down><#+13><PgDn><PgDn><Down><Down><PgDn><Down><Down><PgDn><Down><#+15><Down><Down><PgDn><PgDn><PgDn><PgDn><Down><Down><Down><#+13><Down><#+12><PgDn><PgDn><PgDn><PgDn><PgDn><Up><Up><PgDn><PgDn><PgDn><PgDn><PgDn><PgUp><PgDn><PgDn><PgDn><Down><#+14><Down><Down><Down><Down><PgDn><PgDn><PgDn><PgDn><Down><#+15><Down><#+13><PgDn><PgDn><Down><#+14><Down><Down><Down><Down><PgDn><PgDn><PgDn><PgDn><PgDn><Down><PgDn><Down><Down><Down><Down><Down><Down><PgDn><Down><Down><Down><Down><Down><Down><Down><Down><Down><PgDn><Down><#+12><Down><#+13><Down><#+11><Down><Down><Down><Down><#+11><Down><Down><Down><Down><Down><Down><#+12><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><#+15><Down><Down><Down><Down><Down><#+13><Down><#+13><Down><Down><Down><Down><Down><PgDn><Down><#+14><Down><#+13><PgDn><Down><Down><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><Up><Up><PgDn><PgDn><PgDn><PgDn><Down><#+14><PgDn><PgDn><PgDn><Up><PgDn><Down><Down><#+15><PgDn><PgDn><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Up><PgDn><PgDn><Down><#+12><PgDn><PgDn><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><#+16><Down><Down><Down><Down><Down><PgDn><Down><#+14><Down><#+12><Down><Down><Down><Down><#+14><PgDn><Down><Down><Down><Down><Down><#+17><Down><#+12><Down><#+13><Down><Down><Down><Down><#+11><Down><PgDn><PgDn><PgDn><PgDn><RShft><RShft><Right><Right>proxysite.com
+2018-12-21 18:51:56+0530 > <Down><#+12>tamilrockers.to
+2018-12-21 18:52:12+0530 > <Down><Down><Down><#+13>kanrr<BckSp><BckSp>eez fatima
+2018-12-21 19:24:14+0530 > <LCtrl><PgDn><Down><#+7>facebook.com
+2018-12-21 19:25:37+0530 > <PgDn><PgUp><Down><#+11><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><PgDn><PgDn><PgDn><Down><Down><Down><Down><Down><PgDn><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><PgDn><Down><#+9><Down><Down><#+12><PgDn><Down><Down><Down><Down><Down><Up><Up><Up><Up><Up><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><Up><#+12><PgDn><PgDn><PgDn><PgDn><PgDn><Up><PgDn><PgDn><PgDn><PgDn><PgDn><Up><Up><PgDn><PgDn><PgDn><Down><#+15><Down><Down><Down><Down><#+11><PgDn><PgUp><PgUp><PgDn><PgDn><PgDn><PgDn><Up><#+11><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><Up><Up><PgDn><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><PgDn><PgDn><Up><#+12><PgDn><PgDn><PgDn><PgDn><Up><Up><Up><Up><Up><PgDn><PgDn><Up><Up><LMeta><#+22>lzs10062013
+2018-12-22 09:25:33+0530 > 
+
+Logging stopped at 2018-12-22 09:27:01+0530
+
