@@ -1,0 +1,85 @@
+Logging started ...
+
+2018-12-27 11:11:45+0530 > ls
+2018-12-27 11:24:48+0530 > 
+2018-12-27 11:24:48+0530 > 
+2018-12-27 11:24:49+0530 > 
+2018-12-27 11:24:49+0530 > cd ka<Tab><Tab><Tab><BckSp><BckSp><Tab><Tab>l
+2018-12-27 11:28:01+0530 > ls
+2018-12-27 11:28:02+0530 > 
+2018-12-27 11:28:02+0530 > 
+2018-12-27 11:28:03+0530 > 
+2018-12-27 11:28:03+0530 > cd 
+2018-12-27 11:28:05+0530 > d<BckSp><BckSp>cd <RShft>D<Tab><Tab>e<Tab><Tab><Tab><BckSp><#+18>locate pok<BckSp><BckSp>oky
+2018-12-27 11:28:22+0530 > <LCtrl><LCtrl>c
+2018-12-27 11:28:31+0530 > cd <RShft>Pro<Tab><RShft>Y<Tab>
+2018-12-27 11:28:38+0530 > ls
+2018-12-27 11:28:39+0530 > cd <Tab><Tab>
+2018-12-27 11:28:40+0530 > ls
+2018-12-27 11:28:41+0530 > cd s<Tab><Tab>
+2018-12-27 11:28:44+0530 > ls
+2018-12-27 11:28:44+0530 > cd ke<Tab><BckSp><BckSp>me<Tab>fr<Tab>
+2018-12-27 11:28:58+0530 > ls
+2018-12-27 11:28:58+0530 > gre<RShft>Kernel<BckSp><#+17>module<LAlt><Tab>p <RShft>"modules-load<RShft>" * -r
+2018-12-27 11:38:33+0530 > <Up><Down>cd ..
+2018-12-27 11:38:40+0530 > <Up><Up>
+2018-12-27 11:38:41+0530 > <Up>
+2018-12-27 11:39:50+0530 > 
+2018-12-27 11:39:52+0530 > <#+36><Up>
+2018-12-27 11:39:54+0530 > vim <LShft><LShft><Ins><BckSp>
+2018-12-27 11:40:10+0530 > .<BckSp>/mp<BckSp>odules
+2018-12-27 11:40:17+0530 > nnnnnnnnnnnnn/<Up>-load
+2018-12-27 11:44:58+0530 > <Home>nnnnnnnnnn<Up><#+23><Up><Up><Down><Home><Up>nnnn<#+32>n<#+10>n<#+10>nnnnnnn<#+14><RShft>:q
+2018-12-27 11:46:34+0530 > 
+2018-12-27 11:46:34+0530 > 
+2018-12-27 11:46:34+0530 > 
+2018-12-27 11:46:34+0530 > 
+2018-12-27 11:46:34+0530 > <#+18><Up><Up>
+2018-12-27 11:46:38+0530 > <LCtrl>v<LAlt><Tab>vim <LShft><Ins>
+2018-12-27 11:48:48+0530 > <RShft>:q
+2018-12-27 11:48:50+0530 > <Up><BckSp>
+2018-12-27 11:48:51+0530 > /modules-
+2018-12-27 11:48:58+0530 > nnnnnnn<RShft>:q
+2018-12-27 11:54:04+0530 > <LAlt><Tab><LAlt><Tab>
+2018-12-27 11:54:35+0530 > 
+2018-12-27 11:54:35+0530 > <LCtrl>v
+2018-12-27 11:54:35+0530 > 
+2018-12-27 11:54:36+0530 > <LAlt><Tab><LAlt><Tab><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><Tab><Up><Up><Up><Up><Up>
+2018-12-27 11:54:58+0530 > 
+2018-12-27 11:54:58+0530 > <LCtrl>v
+2018-12-27 11:54:58+0530 > 
+2018-12-27 11:54:59+0530 > <Up><Up><Del><LAlt><Tab>vim <LShft><Ins><BckSp>
+2018-12-27 11:55:29+0530 > /<LShft><Ins>
+2018-12-27 11:55:31+0530 > <Up><#+35><Down><#+30><Down><#+10><Down>nnnnnn<RShft>:q
+2018-12-27 11:55:46+0530 > vim <LShft><Ins><BckSp>
+2018-12-27 11:55:59+0530 > /<LShft><Ins>
+2018-12-27 11:56:01+0530 > nn<#+38><RShft>:q
+2018-12-27 11:56:12+0530 > <LAlt><Tab>
+2018-12-27 11:56:32+0530 > <LCtrl>v<LAlt><Tab>hllo
+2018-12-27 12:00:16+0530 > www.yawww.ya
+2018-12-27 12:01:46+0530 > znkb
+2018-12-27 12:02:03+0530 > 
+2018-12-27 12:02:20+0530 > bepv<LCtrl><LAlt><Tab><LCtrl>a<LCtrl>c
+2018-12-27 12:03:12+0530 > <LAlt><Tab><LCtrl>vzamod<LAlt><Tab><LCtrl>c
+2018-12-27 12:03:29+0530 > <LAlt><Tab><LCtrl>v<LCtrl>v <BckSp><BckSp><BckSp> from yp<BckSp>octo<Home>remove 
+2018-12-27 12:03:53+0530 > <LCtrl><LCtrl><LAlt><Tab><LAlt><Tab><Tab><Up><Up>
+2018-12-27 12:09:15+0530 > n/<Up><Up><Down>
+2018-12-27 12:09:19+0530 > nnnnnnnnnnnwww.oran<BckSp><#+17>orange bus
+2018-12-27 12:10:10+0530 > <LCtrl>bakwww.red<Down><Down><Down><Down><LCtrl>c
+2018-12-27 12:12:13+0530 > <LCtrl>v
+2018-12-27 12:12:15+0530 > <RShft>Bkaya<RShft>B<RShft>Kayabakaya<RShft>Zaid <RShft>Noordeen44zadi<BckSp><BckSp>id<RShft>@zumisolutions.com98458935638861291215<RShft>Ban<BckSp><BckSp><BckSp><RShft>Zumi, <RShft>Bn<BckSp>angalore11250680984589356329<RShft>AAA<RShft>CZ7380
+2018-12-27 12:24:32+0530 > f<BckSp>f<BckSp><CpsLk>F1ZY<RShft>zUMISO<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><CpsLk><RShft>Zumiso<BckSp><BckSp> <RShft>Solutions <RShft>P <RShft>Ltx<BckSp>d5192540002394148546663723sal<Up><RShft>Thanks for ur<BckSp><BckSp>you ipd<BckSp><BckSp><BckSp><BckSp>r update <RShft>Sharon.
+2018-12-27 12:31:27+0530 > 
+2018-12-27 12:31:28+0530 > <RShft>Regards <RShft>Z<BckSp><BckSp>, <RShft>Zaid<RShft>USD 
+2018-12-27 12:32:10+0530 >  <BckSp> in fo<Down><Down>
+2018-12-27 12:32:36+0530 > <LCtrl>x<Up><Up><Up><Up><#+2><Up><Up><Up><Up><Down><Down><Down>
+2018-12-27 12:35:12+0530 > <LCtrl>v
+2018-12-27 12:35:13+0530 > <Down><Down><Down><Down><Down><Down><LShft><Down><LCtrl>x<Up><Up><Up><Up><Up><Up><LCtrl>v<Up><Up><Up>sources.<BckSp>/<LAlt><Tab><LShft><RShft>:q
+2018-12-27 12:36:34+0530 > <LAlt><Tab><LShft><Home><LCtrl>c
+2018-12-27 12:36:42+0530 > <Down><Down><Down><LCtrl>v<Down><Down><Down><Up><Home><LCtrl>v<Down><Down><Down><Down><Down><Down><Down><Down><Home><LCtrl>v<Down><Home><LCtrl>v<LCtrl>s<Up><Up><Up><Up><Up><Up><Up><LShft><Down><Down><Down><Down><Down><Down><LShft><Up><Del><Del><Down>
+2018-12-27 12:36:58+0530 > <Up><#+24><LShft><Down><#+8><Down><Down><Down><Down><Down><Down><Del><BckSp><BckSp><BckSp><BckSp>harish<BckSp><BckSp>har<LCtrl>c
+2018-12-27 12:38:14+0530 > <LCtrl><LCtrl>v<RShft>?<RShft>L<RShft>agn<BckSp><BckSp>ung<BckSp><BckSp><BckSp>ngua<Down><Down><Down><Down><Up><Up><Up><Down>
+2018-12-27 12:39:44+0530 >  tam<RShft>?
+
+Logging stopped at 2018-12-27 14:36:32+0530
+
