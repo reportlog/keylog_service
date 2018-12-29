@@ -1,0 +1,15 @@
+Logging started ...
+
+2018-12-29 09:21:52+0530 > <Up><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><Tab><Tab><Tab>get<BckSp><BckSp><BckSp>conf
+2018-12-29 09:22:14+0530 > <Up>-<BckSp> -<LShft>LONGBIT
+2018-12-29 09:22:28+0530 > <Up><BckSp><BckSp><BckSp><Tab><Tab><Tab><Tab><LShft>_<Tab><Tab><Tab><Tab><LShft>BYTE
+2018-12-29 09:22:38+0530 > <Up><Left><#+15><Right><Right><BckSp>
+2018-12-29 09:22:42+0530 > <Up>lscpu
+2018-12-29 09:24:13+0530 > lscpu
+2018-12-29 09:24:17+0530 > getconfi<BckSp>  <BckSp><LShft>LONG_BIU<BckSp>T
+2018-12-29 09:26:57+0530 > sudo shutdown
+2018-12-29 09:27:10+0530 > zs10062013
+2018-12-29 09:27:16+0530 > 
+
+Logging stopped at 2018-12-29 09:27:24+0530
+
