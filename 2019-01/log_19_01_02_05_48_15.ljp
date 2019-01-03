@@ -1,0 +1,180 @@
+Logging started ...
+
+2019-01-02 17:48:15+0530 > <LCtrl><LShft>T
+2019-01-03 10:24:36+0530 > 
+2019-01-03 10:24:36+0530 > 
+2019-01-03 10:24:36+0530 > 
+2019-01-03 10:24:36+0530 > clear
+2019-01-03 10:24:37+0530 > 
+2019-01-03 10:24:37+0530 > 
+2019-01-03 10:24:38+0530 > ls
+2019-01-03 10:24:38+0530 > 
+2019-01-03 10:24:38+0530 > 
+2019-01-03 10:24:39+0530 > 
+2019-01-03 10:24:39+0530 > git lo<Tab><BckSp><#+19>git infor
+2019-01-03 10:25:40+0530 > g<BckSp><BckSp><BckSp><Up><BckSp>
+2019-01-03 10:25:43+0530 > git mas<BckSp>i<Tab>l<Tab>in<Tab><BckSp><BckSp>info
+2019-01-03 10:25:59+0530 > clear
+2019-01-03 10:26:02+0530 > ls
+2019-01-03 10:26:03+0530 > vim .<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>cd <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>cd <BckSp><BckSp><BckSp><BckSp><BckSp>git lo<Tab>
+2019-01-03 10:26:14+0530 > cd <BckSp><BckSp><BckSp><BckSp><BckSp>cd bi<Tab>
+2019-01-03 10:26:20+0530 > ls
+2019-01-03 10:26:20+0530 > vim .gi<Tab>q<Tab><BckSp><Tab><Tab>/<Tab><Tab>c<Tab>
+2019-01-03 10:26:26+0530 > <Down><Down><Down><Down><Down><Down><Esc><RShft>:q<LShft>!
+2019-01-03 10:26:32+0530 > bi<BckSp><BckSp><BckSp><#+2>vim <LShft>C<Tab><LShft>O<Tab><Tab><BckSp><#+16>ls<BckSp><BckSp><BckSp><BckSp>cd .gi<Tab>
+2019-01-03 10:26:49+0530 > ls
+2019-01-03 10:26:49+0530 > cd ../
+2019-01-03 10:26:54+0530 > ls
+2019-01-03 10:26:54+0530 > cd ../../
+2019-01-03 10:26:56+0530 > ls
+2019-01-03 10:26:57+0530 > cd <LShft>IN<Tab>
+2019-01-03 10:26:59+0530 > ls
+2019-01-03 10:26:59+0530 > clear
+2019-01-03 10:27:00+0530 > ls
+2019-01-03 10:27:00+0530 > 
+2019-01-03 10:27:01+0530 > 
+2019-01-03 10:27:01+0530 > g<BckSp><BckSp><BckSp>mkdir bui<BckSp><BckSp><BckSp>bin
+2019-01-03 10:27:09+0530 > mkdir source
+2019-01-03 10:27:13+0530 > cd bin<Tab>
+2019-01-03 10:27:16+0530 > <Left><#+12><Right><Right>\\<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>
+2019-01-03 10:27:52+0530 > chmo<Tab>777 re<Tab>
+2019-01-03 10:27:57+0530 > cd ../so<Tab>
+2019-01-03 10:28:00+0530 > cd -
+2019-01-03 10:28:02+0530 > pwd
+2019-01-03 10:28:03+0530 > export <LShft>A<BckSp><LShft>PATH=<LShft>$<LShft>PATH<LShft>:<LShft><Ins>
+2019-01-03 10:28:16+0530 > cd ../so<Tab>
+2019-01-03 10:28:17+0530 > rep<#+2>o ini<Tab>t -u  -<BckSp>-b rel<LShft>_,<BckSp>m5
+2019-01-03 10:28:52+0530 > 
+2019-01-03 10:29:03+0530 > <LCtrl>c
+2019-01-03 10:29:04+0530 > vim <BckSp><BckSp><BckSp><BckSp><BckSp>vim <LShft>~.ss<Tab><BckSp><BckSp><BckSp>/.ss<Tab><Tab><Tab>i<Tab>.<Tab>
+2019-01-03 10:29:17+0530 > <Esc><RShft>:q<LShft>!
+2019-01-03 10:29:21+0530 > <Up>
+2019-01-03 10:29:45+0530 > <Esc><RShft>:q<LShft>!
+2019-01-03 10:30:30+0530 > <LShft><Ins><BckSp><BckSp><BckSp><BckSp>indiev
+2019-01-03 10:30:39+0530 > 
+2019-01-03 10:30:40+0530 > 
+2019-01-03 10:30:42+0530 > 
+2019-01-03 10:30:43+0530 > <Up><Home><Del><Del><#+19><Del><Del><Del><Del><Del><Del>vim 
+2019-01-03 10:30:49+0530 > <Esc><RShft>:q<LShft>!
+2019-01-03 10:30:54+0530 > ls <BckSp><BckSp><BckSp>cd <LShft>~/.ss<Tab>i<Tab><BckSp><BckSp>
+2019-01-03 10:31:02+0530 > ls
+2019-01-03 10:31:03+0530 > vim <LShft><Ins>
+2019-01-03 10:31:12+0530 > <Esc><RShft>:q<LShft>!
+2019-01-03 10:31:19+0530 > cd -
+2019-01-03 10:31:39+0530 > 
+2019-01-03 10:31:40+0530 > 
+2019-01-03 10:31:40+0530 > clear
+2019-01-03 10:31:41+0530 > 
+2019-01-03 10:31:41+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down>
+2019-01-03 10:31:45+0530 > <LCtrl>c
+2019-01-03 10:31:48+0530 > vim <LShft>~/<BckSp>.<BckSp>/.ss<Tab>co<Tab>
+2019-01-03 10:31:57+0530 > <Ins><Del><Down><Down><Del><Esc><Esc><RShft>:wq<LShft>!
+2019-01-03 10:32:03+0530 > <Up><Up>
+2019-01-03 10:32:04+0530 > repo sybc <BckSp><BckSp><BckSp>nc 
+2019-01-03 10:32:29+0530 > <LCtrl><PgUp>git<BckSp><BckSp><BckSp><BckSp>if o<BckSp><BckSp>config
+2019-01-03 10:52:05+0530 > <LCtrl><LShft>c
+2019-01-03 10:52:16+0530 > <LCtrl><LShft>c
+2019-01-03 10:52:34+0530 > <LCtrl><PgDn>cd packag<Tab>ap<Tab><LShft>Nav<Tab>
+2019-01-03 11:07:50+0530 > git branch
+2019-01-03 11:07:54+0530 > git remote -v
+2019-01-03 11:07:59+0530 > cd ../../ext<Tab><Tab><Tab><BckSp><BckSp><BckSp>../exd<Tab><BckSp><Tab><Tab><Tab>nser<Tab>
+2019-01-03 11:08:17+0530 > git pull bb master
+2019-01-03 11:08:23+0530 > 
+2019-01-03 11:08:24+0530 > 
+2019-01-03 11:08:24+0530 > 
+2019-01-03 11:08:25+0530 > 
+2019-01-03 11:08:25+0530 > <LCtrl><PgDn><LCtrl><PgUp>
+2019-01-03 11:08:29+0530 > 
+2019-01-03 11:08:29+0530 > 
+2019-01-03 11:08:29+0530 > 
+2019-01-03 11:08:29+0530 > <LCtrl>c
+2019-01-03 11:08:30+0530 > 
+2019-01-03 11:08:30+0530 > 
+2019-01-03 11:08:30+0530 > <Up>
+2019-01-03 11:08:30+0530 > 
+2019-01-03 11:08:31+0530 > 
+2019-01-03 11:08:31+0530 > 
+2019-01-03 11:08:32+0530 > 
+2019-01-03 11:08:32+0530 > 
+2019-01-03 11:08:34+0530 > 
+2019-01-03 11:08:34+0530 > 
+2019-01-03 11:08:34+0530 > <LCtrl>c
+2019-01-03 11:08:34+0530 > 
+2019-01-03 11:08:35+0530 > 
+2019-01-03 11:08:35+0530 > cd ../../<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>../ob<Tab><Tab>d<Tab>
+2019-01-03 11:08:43+0530 > <Up><Up>
+2019-01-03 11:08:44+0530 > 
+2019-01-03 11:08:45+0530 > 
+2019-01-03 11:08:46+0530 > <LCtrl>z<Up><BckSp><#+15><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>git ren<BckSp>mote -v
+2019-01-03 11:08:59+0530 > <Up><Up>
+2019-01-03 11:09:04+0530 > 
+2019-01-03 11:13:14+0530 > 
+2019-01-03 11:13:15+0530 > 
+2019-01-03 11:13:15+0530 > clear
+2019-01-03 11:13:16+0530 > 
+2019-01-03 11:13:16+0530 > 
+2019-01-03 11:13:16+0530 > ls
+2019-01-03 11:13:17+0530 > 
+2019-01-03 11:13:17+0530 > 
+2019-01-03 11:13:17+0530 > git clone<BckSp><BckSp><BckSp><BckSp><BckSp><#+19>cd <BckSp><BckSp><BckSp><BckSp><BckSp>cd ../../
+2019-01-03 11:13:27+0530 > ls
+2019-01-03 11:13:27+0530 > cd e<Tab>obd<Tab>
+2019-01-03 11:13:31+0530 > ls
+2019-01-03 11:13:32+0530 > git statu<Tab>
+2019-01-03 11:13:36+0530 > git pull<Tab><BckSp><#+24>git remo<Tab>-v<Tab>
+2019-01-03 11:13:45+0530 > gi<BckSp><BckSp><BckSp><BckSp>git pull<Tab> o<Tab>m<Tab><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp> bb mads<BckSp><BckSp>ster
+2019-01-03 11:13:59+0530 > vim <LShft>~.<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>vim <LShft>~/.ss<Tab>c<Tab>
+2019-01-03 11:14:15+0530 > <Down><Down><Down><Ins><Del><End><Left><End>.indiev.<BckSp><Esc><Esc><RShft>:w<LShft>@<BckSp><LShft>!
+2019-01-03 11:14:33+0530 > <Esc><Esc><Esc><RShft>:wq<LShft>!
+2019-01-03 11:14:37+0530 > <Up><Up>
+2019-01-03 11:14:39+0530 > <Up><Up>
+2019-01-03 11:14:42+0530 > <LAlt>2<LAlt>1<Esc><Esc><LAlt>2<LAlt>1<LAlt>2<LAlt>1<LAlt>2<LCtrl>c
+2019-01-03 11:15:43+0530 > <LAlt>1<Esc><Ins><LShft>#<Down><Down><Home><LShft>#<Down><Home><LShft>#<Esc><Esc><RShft>:wq<LShft>!
+2019-01-03 11:15:50+0530 > <Up><Up>
+2019-01-03 11:15:51+0530 > <LAlt>2<LAlt>1cd ../../
+2019-01-03 12:29:06+0530 > cd pack<Tab>ap<Tab><LShft>Nav<Tab>
+2019-01-03 12:29:12+0530 > <LCtrl>f<LShft>Contacts
+2019-01-03 12:38:57+0530 > 
+2019-01-03 12:38:58+0530 > 
+2019-01-03 12:38:58+0530 > 
+2019-01-03 12:38:59+0530 > 
+2019-01-03 12:38:59+0530 > <BckSp> <LShft>list
+2019-01-03 12:39:09+0530 > <LCtrl><LCtrl>c
+2019-01-03 12:42:04+0530 > <LCtrl>c
+2019-01-03 12:43:05+0530 > f<LCtrl>v<BckSp><LCtrl>c
+2019-01-03 12:44:01+0530 > <LCtrl><Down>
+2019-01-03 12:44:06+0530 > <LCtrl>v<LCtrl>c
+2019-01-03 12:44:12+0530 > <LCtrl>v<LCtrl>sscontact list asynctask<LCtrl>scs <BckSp><BckSp>d ../../../
+2019-01-03 12:44:48+0530 > .bu<Tab><BckSp><BckSp><BckSp><BckSp>. bui<Tab>env<Tab>
+2019-01-03 12:45:26+0530 > lunch 22
+2019-01-03 12:45:31+0530 > cd package<Tab>ap<Tab><LShft>Na<Tab>
+2019-01-03 12:45:44+0530 > mm
+2019-01-03 12:45:48+0530 > <LCtrl>c
+2019-01-03 12:47:29+0530 > c
+2019-01-03 12:47:30+0530 > c
+2019-01-03 12:47:30+0530 > app<LCtrl>v<LCtrl><LCtrl>c
+2019-01-03 12:51:16+0530 > c
+2019-01-03 12:51:16+0530 > c
+2019-01-03 12:51:16+0530 > c
+2019-01-03 12:51:16+0530 > <LCtrl>z<LCtrl><LShft>x<LShft>XZ.g
+2019-01-03 12:52:57+0530 > 0<Right>.<Down><Down><Down><Down><Up>
+2019-01-03 12:53:12+0530 > <LCtrl>x<LCtrl>vs<LCtrl>c
+2019-01-03 12:53:33+0530 > <LCtrl>v<LCtrl>v<LCtrl>ssssmm
+2019-01-03 12:53:47+0530 > <LCtrl>c
+2019-01-03 12:55:22+0530 > c
+2019-01-03 12:55:23+0530 > c
+2019-01-03 12:55:23+0530 > c
+2019-01-03 12:55:24+0530 > c
+2019-01-03 12:55:24+0530 > c
+2019-01-03 12:55:24+0530 > c
+2019-01-03 12:55:24+0530 > c
+2019-01-03 12:55:25+0530 > c
+2019-01-03 12:55:25+0530 > c
+2019-01-03 12:55:25+0530 > c
+2019-01-03 12:55:25+0530 > c
+2019-01-03 12:55:26+0530 > <LCtrl>a<RShft><Del>
+2019-01-03 12:55:32+0530 > <LCtrl>v<BckSp><RShft>><BckSp><BckSp><RShft><<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>le<LCtrl> <#+4><BckSp><BckSp>s
+2019-01-03 13:03:27+0530 > <LCtrl>s<LCtrl>x<LCtrl>s<LCtrl>v<LCtrl>s
+
+Logging stopped at 2019-01-03 14:33:48+0530
+
