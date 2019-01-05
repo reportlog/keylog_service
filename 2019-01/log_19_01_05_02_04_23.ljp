@@ -1,0 +1,37 @@
+Logging started ...
+
+2019-01-05 14:04:23+0530 > 4<LShft>@gmail.com<Tab>vinoth<LShft>@nxp123
+2019-01-05 14:04:31+0530 > <LCtrl>c
+2019-01-05 14:04:42+0530 > <LShft>Hi,
+2019-01-05 14:05:30+0530 > 
+2019-01-05 14:05:30+0530 > <LCtrl>v<LShft>T4160<LShft>QDS <BckSp><BckSp><BckSp><BckSp><LShft>RDB <LShft>DDR <LShft>Initialization <LShft>Problem <LCtrl>c
+2019-01-05 14:06:49+0530 > <LCtrl>v<BckSp><BckSp><LShft>Hi,<Left><Left><Left><Left><Del><Up><Up><LShft><Down><Del><Down>
+2019-01-05 14:07:01+0530 > <Right><#+18><Left><#+16><Left><Left><Right><#+15><Right><Right><Right><Left><Right><#+15><Left><Left><Left><LShft>initiak<BckSp>lization <Right><Right><Right> on <LShft>T42<BckSp>160<LShft>RDB <BckSp>-64 <LShft>Machine by using <LShft>La<BckSp><BckSp> <LShft>Codewarrior a<BckSp><LShft>Flashprogrammer and<BckSp>d <LShft>Lauterbach <LShft>Trace32 <LShft>Script<Right><Right><LShft>On<BckSp><BckSp><LShft>DDR <LShft>initialization done successfully with fool<BckSp><BckSp>llowing <Del><#+14><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del>meand<BckSp>s<Right><#+20><Left><Left><Right><Right><Right><Left><Left><Left><Right><#+19><Left><#+12><Left><Left><Left><Left><Left><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><LShft>_ERR_DETECT<LCtrl>f<LShft>DDR<LShft>_<LShft>()<Left><LShft>ACE<Right><Right><Right><Right><Right><Left><#+39><Right><Right><Del><LShft>A<Right><#+13><Right><Del><LShft>C<Right><#+13><Right><Right><Del><LShft>E<Right><#+15><Left>bit <Right><Right><Right><Right>
+2019-01-05 14:10:34+0530 > <LCtrl>c
+2019-01-05 14:10:38+0530 > <LCtrl>v[]<Left>a<BckSp><LShft>ACE = 1.
+2019-01-05 14:10:57+0530 > 
+2019-01-05 14:10:58+0530 > 
+2019-01-05 14:10:58+0530 > 
+2019-01-05 14:10:58+0530 > 
+2019-01-05 14:10:58+0530 > <LShft>Thanks <LShft>& <LShft>Regards.
+2019-01-05 14:11:08+0530 > <LShft>Vinoth<LShft>S
+2019-01-05 14:11:13+0530 > <LShft>The target reset happens when entr<BckSp>er <BckSp><#+24><BckSp><#+14><BckSp><BckSp><BckSp><BckSp><BckSp><LShft>The <LShft>Target <LShft>Rse<BckSp><Ins><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>arget <LShft>Reset<BckSp><#+12><BckSp><BckSp><BckSp><BckSp><BckSp><LShft>MMU <LShft>Setup <Left><#+14><Left><Down><Ins><Left><Down><LShft>And <Right><#+17><Left><Left><Left>done for <LShft>IFC and <LShft>DDR. <LShft>When access <LShft>DDR <LShft>()<Left>0c<BckSp>x000<Right> <LShft>Memory the tr<BckSp>arget reset.
+2019-01-05 14:12:49+0530 > 
+2019-01-05 14:12:50+0530 > <LShft>What <LShft>Could v<BckSp>be the issue<RShft>?<Left><#+21><Left><BckSp>c<Up><Up><Up><Up><LCtrl>c
+2019-01-05 14:13:08+0530 > <LCtrl>b
+2019-01-05 14:13:15+0530 > 
+2019-01-05 14:13:15+0530 > <Up><Up><Up><Right><Right><Right><Right><LShft><Right><Right><Right><Right><Right><Right><Right><Right><Right><LCtrl>c
+2019-01-05 14:13:20+0530 > <Down><Down><Up><LCtrl>v<Left><#+14><Right>//<Down>c<BckSp>l<LCtrl>c
+2019-01-05 14:14:40+0530 > <LAlt><Tab><LAlt><Tab><LCtrl>v<LCtrl>x
+2019-01-05 14:14:52+0530 > <LCtrl>v<Up><Up><Down><Left><#+18><Right><Right><Del><Del>;<Down><Down><End><Down><Left><LShft><Right><#+26><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><LCtrl>x<Up><Right>
+2019-01-05 14:15:09+0530 > <LCtrl>v<Del><Del><Left><#+29><Left><Left><Left><Left><Left><Left><Up><Up><Up><Down><LShft><Down><LCtrl>b<Down><Down><Down><#+8>
+2019-01-05 14:15:25+0530 > <Up><Up><Up><Up><Up><Up>
+2019-01-05 14:15:27+0530 > <Down><#+10><Down>
+2019-01-05 14:15:29+0530 > <LShft>Flash<Down><Down><Down><Left><#+27><Right><Right><Right><Right><Left><LShft><Right><Right><Left><LShft>E<LShft><Right>8<Right><#+14><Right><Left><LShft><Right>e<Left><#+15><Left><Left><Left><Del>e<Down><Right><#+24><Left><Del><Del>e8<Right><#+13><Right><Del><Del>e8<Down><Down><Down><Down><LCtrl>b
+2019-01-05 14:16:55+0530 > <Down><Down><Down><Up>
+2019-01-05 14:16:56+0530 > 
+2019-01-05 14:16:57+0530 > <Up><Up><LShft>Is it the <BckSp><BckSp><BckSp><BckSp>big issue<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>issue <BckSp><#+3> or <BckSp><BckSp><BckSp><BckSp> <RShft>?<Left><#+13><Left><Left><Left><Left><Left>
+2019-01-05 14:17:26+0530 > <Down><Down><Del><Del><Del><Del><Del><Right><#+78><Down><Down><#+30><LShft>code<BckSp><BckSp><#+11>codewacodelauterc<BckSp>t416t424t424tracemmutlbddr3not<BckSp>r 
+2019-01-05 14:22:07+0530 > 
+2019-01-05 14:22:10+0530 > <LCtrl><LCtrl><Esc><Esc><LCtrl>c
+2019-01-05 14:23:36+0530 > <LCtrl>v 
