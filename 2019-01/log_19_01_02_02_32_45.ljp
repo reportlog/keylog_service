@@ -1,0 +1,484 @@
+Logging started ...
+
+2019-01-02 14:32:45+0530 > ls
+2019-01-02 14:32:55+0530 > vim <LShft>and<Tab><#+1>
+2019-01-02 14:32:59+0530 > <Esc><RShft>:q<Tab>
+2019-01-02 14:33:01+0530 > <Up><Up><Down><Up><Up> ota<BckSp><#+35>vim<BckSp><#+23><F5><LCtrl>make oa<BckSp>tapackage
+2019-01-02 14:33:58+0530 > <LCtrl><LShft>Tcd ke<Tab>
+2019-01-02 14:34:06+0530 > git st<Tab>t<Tab>
+2019-01-02 14:34:08+0530 > <LCtrl><PgUp><PgDn>vim dr<Tab>of<Tab><#+3>fd<Tab><Tab><Tab>.<Tab><#+2>
+2019-01-02 14:34:19+0530 > /<LShft>Ara
+2019-01-02 14:34:21+0530 > i<Right><Left><Right><Right><Right><Right><Right><Right><Right><Right><Right> 2<RShft>:35<Esc><#+4><RShft>:wq
+2019-01-02 14:34:30+0530 > <LCtrl><PgUp><PgDn><PgUp>
+2019-01-02 14:40:20+0530 > <LCtrl><PgDn><LCtrl><PgDn><PgUp><LCtrl><PgDn><LCtrl>aspee<Down>
+2019-01-02 14:41:16+0530 > <LCtrl><PgDn><PgDn><PgUp><PgUp><LCtrl><PgDn><PgUp><LCtrl><PgDn><PgDn><PgDn><PgDn><PgDn><PgUp><LCtrl><PgDn><PgUp><PgUp><PgDn><LCtrl><PgDn><PgDn><PgUp><PgDn><LCtrl><PgUp>goo
+2019-01-02 14:42:25+0530 > <LCtrl>a
+2019-01-02 14:43:05+0530 > <LCtrl><PgDn>
+2019-01-02 15:06:34+0530 > 
+2019-01-02 15:06:34+0530 > 
+2019-01-02 15:06:34+0530 > <LCtrl><PgDn><PgDn><PgUp><PgUp>go
+2019-01-02 15:10:16+0530 > <F5><F5><F5>vim devi<Tab>fs<Tab>/im<Tab>6<Tab>us<Tab>
+2019-01-02 15:12:10+0530 > <LCtrl><LShft>c
+2019-01-02 15:12:24+0530 > <Esc><RShft>:q<Tab>
+2019-01-02 15:15:36+0530 > <LCtrl><PgDn>
+2019-01-02 15:15:38+0530 > 
+2019-01-02 15:15:38+0530 > 
+2019-01-02 15:15:38+0530 > 
+2019-01-02 15:15:39+0530 > cd ../
+2019-01-02 15:15:48+0530 > ls
+2019-01-02 15:15:48+0530 > 
+2019-01-02 15:15:49+0530 > 
+2019-01-02 15:15:49+0530 > go
+2019-01-02 15:16:25+0530 > yoges<Down> dusa<Down>
+2019-01-02 15:16:33+0530 > <PgUp><#+16><BckSp>aravinthkumar<Up>
+2019-01-02 15:16:59+0530 > <Del>
+2019-01-02 15:17:16+0530 > goo
+2019-01-02 15:17:28+0530 > aravinth kumar jaa<BckSp>yaprakasam
+2019-01-02 15:17:51+0530 > <BckSp>
+2019-01-02 15:17:54+0530 > go
+2019-01-02 15:18:31+0530 > google sea<Down> sugg<Down><Down> my <Down><Down><Down>
+2019-01-02 15:18:49+0530 > <Down><Down>ls
+2019-01-02 15:19:49+0530 > <RShft><Del>
+2019-01-02 15:25:05+0530 > <F5><PgDn><PgUp>add
+2019-01-02 15:26:33+0530 > make
+2019-01-02 15:28:01+0530 > 
+2019-01-02 15:28:27+0530 > <LAlt><Tab><PgDn><#+1><PgDn><#+2><PgDn><#+1><PgDn><PgDn><#+2><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><LCtrl><PgUp><PgDn><PgDn><PgUp><LCtrl><PgUp><PgDn><F5><F5><F5><F5><F5><F5><LCtrl>make ota<Tab><#+1>pa<Tab>c<Tab>k<Tab><Tab><Tab><BckSp><#+29>ls
+2019-01-02 15:37:45+0530 > vim <LShft>Bu<Tab><#+3>
+2019-01-02 15:37:47+0530 > <Esc><RShft>:q<Tab>
+2019-01-02 15:37:50+0530 > <BckSp><PgUp><#+1><PgUp><#+1><PgUp><#+3><PgUp><LCtrl>fota
+2019-01-02 15:38:26+0530 > 
+2019-01-02 15:38:26+0530 > 
+2019-01-02 15:38:26+0530 > 
+2019-01-02 15:38:26+0530 > <RShft><Ins>
+2019-01-02 15:39:12+0530 > <F5><F5><F5><F5>cd ou<Tab>t<Tab>p<Tab><Tab><Tab>
+2019-01-02 15:49:40+0530 > 
+2019-01-02 15:49:41+0530 > ls -l
+2019-01-02 15:49:43+0530 > <F5><F5>cd -
+2019-01-02 15:52:30+0530 > cd devi<Tab>fs<Tab>
+2019-01-02 15:52:32+0530 > git st<Tab>t<Tab>
+2019-01-02 15:52:35+0530 > cat tou<Tab><#+1>
+2019-01-02 15:52:40+0530 > ls
+2019-01-02 15:52:49+0530 > cd <BckSp><#+117>cd ../../bu<Tab><#+2>
+2019-01-02 15:53:47+0530 > git stst<BckSp><BckSp><Tab><#+1>at<Tab><#+1><BckSp><BckSp><Tab><#+1>t<Tab><#+2>
+2019-01-02 15:53:54+0530 > git diff
+2019-01-02 15:53:58+0530 > cd -
+2019-01-02 15:54:08+0530 > ls
+2019-01-02 15:54:09+0530 > cat tou<Tab><#+1>
+2019-01-02 15:54:14+0530 > vim <RShft><Ins><LCtrl><LShft>c
+2019-01-02 15:54:32+0530 > 
+2019-01-02 15:54:32+0530 > <PgDn><PgDn><PgDn><Down><Down><Down><Up>i
+2019-01-02 15:54:38+0530 > <RShft><Ins>
+2019-01-02 15:54:39+0530 > <Left><Left><Left><Up><End><Esc><RShft>:wq
+2019-01-02 15:54:55+0530 > 
+2019-01-02 15:54:56+0530 > 
+2019-01-02 15:54:56+0530 > 
+2019-01-02 15:54:56+0530 > 
+2019-01-02 15:54:56+0530 > cd ../../
+2019-01-02 15:55:22+0530 > make
+2019-01-02 15:55:25+0530 > <LCtrl><PgDn><PgDn><PgDn><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Up><Up><Up><Down><Down><Down><Down><Down><#+22><Up><PgDn><PgDn><Down><#+19><Down><#+2><Down><#+25><Down><#+31><Up><Up><Down><LCtrl><PgDn><Down><#+13><Up><Down><Down><Down><Down><Down><Down><#+11><Down><Down><Down><Down><#+12><Down><#+17><Down><#+4><Down><#+16><F5><LCtrl><LCtrl><PgDn>cd ke<Tab>
+2019-01-02 16:01:31+0530 > <LCtrl>rvim
+2019-01-02 16:01:34+0530 > <PgDn><PgDn><PgDn><PgDn><#+1>/<LShft>Ara
+2019-01-02 16:01:38+0530 > <Right><#+19><Right><Right><Left>i\<BckSp><BckSp><BckSp><BckSp><BckSp>ota<Esc><Esc><#+1><RShft>:wq
+2019-01-02 16:01:45+0530 > <LCtrl><PgUp><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down>
+2019-01-02 16:01:54+0530 > <F5><F5><LCtrl><PgDn><Up>
+2019-01-02 16:13:08+0530 > /ota
+2019-01-02 16:13:11+0530 > /<LShft>Aravinth
+2019-01-02 16:13:17+0530 > <Right><#+14><Right><Right><Right><Right>i1<Esc><#+1><RShft>:wq
+2019-01-02 16:13:23+0530 > <LCtrl><PgDn><Up>
+2019-01-02 16:13:26+0530 > <PgDn><PgDn><PgDn><PgDn><PgDn><PgUp><LAlt><Tab><F5><RShft><Del>
+2019-01-02 17:13:55+0530 > <F5><LCtrl><PgDn><#+1><PgUp>vim<BckSp><#+21><LCtrl><PgDn>cd ../devi<Tab>fs<Tab>
+2019-01-02 17:36:11+0530 > git st<Tab>t<Tab>
+2019-01-02 17:36:13+0530 > git diff
+2019-01-02 17:36:17+0530 > ls
+2019-01-02 17:36:53+0530 > cd <BckSp><BckSp><BckSp><BckSp><LCtrl><LShft>T<LCtrl><LShft><BckSp><BckSp><BckSp><LCtrl><PgUp><LShft>Tcd ou<Tab>t<Tab>p<Tab><Tab><Tab>
+2019-01-02 17:37:03+0530 > ls
+2019-01-02 17:37:04+0530 > cd re<Tab><#+1>
+2019-01-02 17:37:06+0530 > ls
+2019-01-02 17:37:07+0530 > cd <Tab>
+2019-01-02 17:37:08+0530 > ls
+2019-01-02 17:37:09+0530 > vim <RShft><Ins>
+2019-01-02 17:38:39+0530 > <Esc><RShft>:q<Tab>
+2019-01-02 17:38:55+0530 > <Up><RShft>
+2019-01-02 17:39:03+0530 > 
+2019-01-02 17:39:14+0530 > 
+2019-01-02 17:39:14+0530 > 
+2019-01-02 17:39:14+0530 > 
+2019-01-02 17:39:14+0530 > 
+2019-01-02 17:39:15+0530 > 
+2019-01-02 17:39:15+0530 > grep -r <RShft>""<Left><RShft><Ins><End> im<Tab>6<Tab><#+3>
+2019-01-02 17:39:20+0530 > <Up><BckSp><BckSp><BckSp><BckSp><BckSp>o<BckSp>to<Tab>r<Tab><#+1>
+2019-01-02 17:39:30+0530 > vim to<Tab>r<Tab>in<Tab>r<Tab>
+2019-01-02 17:39:47+0530 > /<RShft><Ins>
+2019-01-02 17:39:49+0530 > <LCtrl><PgDn><PgUp><Esc><RShft>:q<Tab>
+2019-01-02 17:39:55+0530 > vim <RShft><Ins><BckSp>
+2019-01-02 17:40:02+0530 > <Esc><RShft>:q<Tab>
+2019-01-02 17:40:03+0530 > <LCtrl><PgDn><Esc><RShft>:q<Tab>
+2019-01-02 17:40:06+0530 > ls
+2019-01-02 17:40:06+0530 > find . -name <RShft>*.r
+2019-01-02 17:40:19+0530 > <Up>c
+2019-01-02 17:40:20+0530 > <Up><Left><#+13><Left><Left><Left><Left><BckSp>
+2019-01-02 17:40:32+0530 > <Up><Left><#+16><Left>.
+2019-01-02 17:40:36+0530 > <Up><Left><#+11><Left><Left><Left><Left><Right><Right><Right><BckSp><BckSp><BckSp><BckSp><BckSp>
+2019-01-02 17:40:41+0530 > 
+2019-01-02 17:40:58+0530 > ls
+2019-01-02 17:40:59+0530 > vim <RShft><Ins><BckSp>
+2019-01-02 17:41:10+0530 > <LCtrl><PgDn><LCtrl><PgDn>vim ex<Tab>ser<Tab><#+2>/<Tab><Tab>ser<Tab>re<Tab>
+2019-01-02 17:41:30+0530 > <PgDn><PgDn><#+1><PgUp><Esc><RShft>"<Esc><RShft>:q<Tab>
+2019-01-02 17:41:41+0530 > <Up><BckSp><BckSp><#+22><BckSp><BckSp>in<Tab>ser<Tab><#+1><Tab><Tab>re<Tab>
+2019-01-02 17:41:49+0530 > <LCtrl><PgDn><Down><Down><#+1><Down>i <BckSp><BckSp>
+2019-01-02 17:42:00+0530 > 
+2019-01-02 17:42:00+0530 >     wite<BckSp><BckSp><BckSp>rite <RShft><Ins> 0<Left><#+16><Left><Left>0038<Del><Del>00<Left><Left> <Left><BckSp><BckSp><BckSp><BckSp><Del><Down><Up><End>
+2019-01-02 17:42:32+0530 > <Up><Up>
+2019-01-02 17:42:34+0530 >     <RShft># disable touch in recovery mode<Esc><#+2><RShft>:wq
+2019-01-02 17:43:28+0530 > 
+2019-01-02 17:43:28+0530 > 
+2019-01-02 17:43:28+0530 > 
+2019-01-02 17:43:29+0530 > 
+2019-01-02 17:43:29+0530 > <LCtrl><PgUp><Esc><RShft>:q<Tab>
+2019-01-02 17:43:32+0530 > 
+2019-01-02 17:43:33+0530 > 
+2019-01-02 17:43:33+0530 > 
+2019-01-02 17:43:33+0530 > 
+2019-01-02 17:43:33+0530 > 
+2019-01-02 17:43:33+0530 > make
+2019-01-02 17:43:36+0530 > <LShft>New year 2018 <LShft>Trip - <LShft>Aravinthgo
+2019-01-02 17:44:33+0530 > <RShft><Up><Up><#+37><Up><Up><Up><Up><Up><RShft><Up><Up><Up><#+34><Up><Up><Up><Up><Up><Up><Up><Up><#+20><LCtrl>a<LCtrl>goo
+2019-01-02 17:47:22+0530 > <LCtrl>v
+2019-01-02 17:47:26+0530 > <LCtrl><PgDn><PgUp><PgDn><F5><LCtrl><LCtrl><PgDn>cd ../../ke<Tab>
+2019-01-02 17:51:22+0530 > <LCtrl>rvim d
+2019-01-02 17:51:25+0530 > /<LShft>Ara
+2019-01-02 17:51:28+0530 > <Right><#+22><Left><Left>i<BckSp>2<Esc><#+2><RShft>:wq
+2019-01-02 17:51:33+0530 > <LCtrl><PgUp><Up><Up><Up><Up><Up><Down>
+2019-01-02 17:51:37+0530 > <F5><F5><F5><F5><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>goo
+2019-01-02 18:04:56+0530 > how to update recovery image in android ota update
+2019-01-02 18:05:20+0530 > <LCtrl><PgUp><PgDn><#+1><PgDn><PgUp><#+1><LCtrl><PgUp><PgUp><LShft>New <LShft>Year 2018 1
+2019-01-02 18:06:50+0530 > <LCtrl>a<LCtrl><PgDn><Up>
+2019-01-02 18:08:26+0530 > <PgDn><#+1>/<LShft><Up>
+2019-01-02 18:08:30+0530 > <Right><#+20><Right><Left>i<BckSp>3<Esc><#+1><RShft>:wq
+2019-01-02 18:08:36+0530 > <LCtrl><PgUp><Up>
+2019-01-02 18:08:39+0530 > <LAlt><Tab><LCtrl><PgUp><PgUp><PgUp><PgUp><PgDn><PgUp><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><Down><Down><Down><Down><Down><Down><Down><Down><Down><LCtrl><PgUp>
+2019-01-02 18:13:27+0530 > <F5><F5><F5><F5><F5><LCtrl><PgUp><PgDn><PgDn>ls
+2019-01-02 18:25:46+0530 > vim <RShft><Ins>
+2019-01-02 18:25:53+0530 > <Esc><RShft>:q<Tab>
+2019-01-02 18:25:57+0530 > 
+2019-01-02 18:26:18+0530 > <LCtrl><PgDn><PgDn><PgUp><PgUp><PgUp><PgUp><PgUp><LCtrl><PgUp><PgUp><PgDn><Down><#+17><Down><#+11><Down><PgDn><#+3><PgUp><#+23><LCtrl>aimx6 android ota<BckSp><#+40>recovery <Down> update ob<BckSp>n ota imx6
+2019-01-02 18:27:35+0530 > <LCtrl>fboot
+2019-01-02 18:33:12+0530 > 
+2019-01-02 18:33:13+0530 > 
+2019-01-02 18:33:13+0530 > <LAlt><Tab><Down><Down><Down><Down><Down><Down><Down><#+10><Down><#+12><PgUp><PgUp><Down><Down><Down><Down><Down><Down><PgDn><LCtrl><PgUp><PgDn><PgUp><PgDn><PgDn><PgUp><PgDn><PgDn><PgDn><PgDn><#+10><PgDn><#+37><PgUp><LCtrl><PgUp><PgUp><LCtrl><PgDn>cd ../bi<BckSp>u<Tab><#+1>
+2019-01-02 18:40:36+0530 > git st<Tab>t<Tab>
+2019-01-02 18:40:40+0530 > git diff
+2019-01-02 18:40:43+0530 > git rese<Tab><BckSp> --hard
+2019-01-02 18:40:53+0530 > git log
+2019-01-02 18:40:58+0530 > qgit pull<Tab><#+1>bb<Tab>ma<Tab>
+2019-01-02 18:41:04+0530 > cd ../devi<Tab><#+1>fs<Tab>
+2019-01-02 18:41:15+0530 > git st<Tab>t<Tab>
+2019-01-02 18:41:18+0530 > git diff
+2019-01-02 18:41:21+0530 > 
+2019-01-02 18:41:23+0530 > 
+2019-01-02 18:41:23+0530 > 
+2019-01-02 18:41:23+0530 > git st<Tab>t<Tab>
+2019-01-02 18:41:25+0530 > git ch<Tab>c<Tab><RShft><Ins>
+2019-01-02 18:41:31+0530 > git ch<Tab>c<Tab><#+1><RShft><Ins>
+2019-01-02 18:41:41+0530 > git st<Tab>t<Tab>
+2019-01-02 18:41:45+0530 > git puu<Tab><#+1><BckSp><Tab>ll<Tab>bb<Tab><#+1>ma<Tab>
+2019-01-02 18:41:50+0530 > <LCtrl><PgUp><#+1>make
+2019-01-02 18:41:57+0530 > <LShft>New <LShft>Year 2019 -2 <LShft>Nandi<LCtrl>a<LCtrl>av
+2019-01-02 18:43:26+0530 > <F5><LCtrl>vim im<Tab>6<Tab>in<Tab><#+2>
+2019-01-02 19:07:40+0530 > <Down><Down><Down>i
+2019-01-02 19:07:44+0530 > <Up><RShft><Ins><Up><Home>
+2019-01-02 19:07:47+0530 > <Down><Del><Esc><RShft>:wq
+2019-01-02 19:07:51+0530 > <LCtrl><PgUp><Up><Up>
+2019-01-02 19:07:55+0530 > <LShft>New <LShft>Year 2019 -3 nandi<LCtrl>ac
+2019-01-02 19:10:53+0530 > c
+2019-01-02 19:10:54+0530 > c
+2019-01-02 19:10:54+0530 > c
+2019-01-02 19:10:54+0530 > <LCtrl>v<LAlt><Tab><F5><LCtrl>a<LCtrl><PgDn>cd ../../ke<Tab>
+2019-01-02 19:20:39+0530 > <LCtrl>rvim d
+2019-01-02 19:20:44+0530 > /<LShft>Ara
+2019-01-02 19:20:47+0530 > <Right><#+20><Left>i<BckSp>4<Esc><#+3><RShft>:wq
+2019-01-02 19:20:52+0530 > <LCtrl><PgUp><Up>
+2019-01-02 19:20:54+0530 > 4  <BckSp>wonderla<LCtrl>ac
+2019-01-02 19:21:13+0530 > c
+2019-01-02 19:21:13+0530 > c
+2019-01-02 19:21:14+0530 > <LCtrl>v<BckSp>
+2019-01-02 19:22:56+0530 > 
+2019-01-02 19:23:08+0530 > <LCtrl><PgUp>welcome123<LShft>!@#
+2019-01-03 11:30:13+0530 > <LCtrl>agoo
+2019-01-03 11:30:43+0530 > 
+2019-01-03 11:33:27+0530 > add
+2019-01-03 11:33:55+0530 > goo
+2019-01-03 11:50:55+0530 > big bask<Down>
+2019-01-03 11:51:01+0530 > <PgUp><#+23><Home>how to add goo
+2019-01-03 11:57:11+0530 > how to adver<Down><Down><Down> <Down><Down> free<Down>
+2019-01-03 11:57:26+0530 > go<#+1>
+2019-01-03 12:01:23+0530 > potharekalu<Down>
+2019-01-03 12:01:29+0530 >  <LCtrl><LCtrl><LShft>Jumar<LCtrl>ac
+2019-01-03 12:14:39+0530 > c
+2019-01-03 12:14:40+0530 > c
+2019-01-03 12:14:40+0530 > 
+2019-01-03 12:28:09+0530 > 
+2019-01-03 12:28:10+0530 > git st<Tab>t<Tab>
+2019-01-03 12:30:05+0530 > goo
+2019-01-03 12:30:15+0530 > imx6imx6<LCtrl>ac
+2019-01-03 12:32:07+0530 > git st<Tab>t<Tab>
+2019-01-03 12:34:24+0530 > git diff
+2019-01-03 12:34:28+0530 > 
+2019-01-03 12:34:29+0530 > 
+2019-01-03 12:34:29+0530 > 
+2019-01-03 12:34:29+0530 > 
+2019-01-03 12:34:29+0530 > 
+2019-01-03 12:34:29+0530 > 
+2019-01-03 12:34:30+0530 > 
+2019-01-03 12:34:30+0530 > git st<Tab>t<Tab>
+2019-01-03 12:34:31+0530 > git ch<Tab>c<Tab><RShft><Ins>
+2019-01-03 12:34:37+0530 > gig <BckSp><BckSp>t st<Tab>t<Tab>
+2019-01-03 12:34:42+0530 > git st<Tab>t<Tab>
+2019-01-03 12:35:02+0530 > 
+2019-01-03 12:35:02+0530 > 
+2019-01-03 12:35:03+0530 > 
+2019-01-03 12:35:03+0530 > cd ../
+2019-01-03 12:35:05+0530 > ls
+2019-01-03 12:35:05+0530 > cd bo<Tab>bo<Tab>u<Tab>
+2019-01-03 12:35:09+0530 > ls
+2019-01-03 12:35:10+0530 > gig<BckSp>t st<Tab>t<Tab>
+2019-01-03 12:35:14+0530 > cd ../../../
+2019-01-03 12:35:19+0530 > ls
+2019-01-03 12:35:20+0530 > cd syst<Tab>bt<Tab>
+2019-01-03 12:35:23+0530 > ls
+2019-01-03 12:35:23+0530 > git st<Tab>t<Tab>
+2019-01-03 12:35:26+0530 > git diff
+2019-01-03 12:35:29+0530 > 
+2019-01-03 12:35:31+0530 > 
+2019-01-03 12:35:31+0530 > 
+2019-01-03 12:35:31+0530 > 
+2019-01-03 12:35:32+0530 > cd ../../devi<Tab>fs<Tab>
+2019-01-03 12:35:36+0530 > git st<Tab>t<Tab>
+2019-01-03 12:35:38+0530 > git diff
+2019-01-03 12:35:42+0530 > goo
+2019-01-03 12:36:11+0530 > android ota <PgDn><PgDn><PgDn><PgDn><LCtrl><Left><#+8><PgDn><Down><PgDn><Down><#+3><PgDn><PgDn><PgDn><Down><#+1><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><PgDn><Down><Down>
+2019-01-03 12:45:04+0530 > 
+2019-01-03 12:45:15+0530 > <Down><Down><Down><Up><#+9><Up><Up><Up><PgUp><#+19><PgDn><PgDn><PgDn>bui<Tab><Tab><Tab><BckSp><#+23><LAlt><Tab>welcome123<LShft>!@#
+2019-01-03 14:30:32+0530 > ta
+2019-01-03 14:33:13+0530 > <PgDn><PgDn><PgDn><#+3><PgDn><PgDn><#+2><PgDn><#+1><PgDn><#+2><PgDn><PgDn><PgDn><PgDn><#+2><PgDn><#+2><PgDn><PgDn><PgDn><PgDn><PgUp><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><#+15><PgUp><#+1><PgUp><#+1><Down><Down><Down><Down><Down><Up><Up><#+14><Down><Down><Down><Down><Down><Down><Down><#+10><Down><Down><Down><#+9><Down><Down><Up><Down>cd ../
+2019-01-03 15:08:06+0530 > ls
+2019-01-03 15:08:06+0530 > du -sh <RShft><Ins>
+2019-01-03 15:08:13+0530 > <PgDn><PgDn><PgDn><PgDn><PgUp><#+3><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><#+1><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><#+3><PgDn><#+1><PgDn><#+2><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn>go
+2019-01-03 15:12:58+0530 > go
+2019-01-03 15:14:08+0530 > <PgDn><#+1>ta
+2019-01-03 15:17:18+0530 > <Down><#+4><PgDn>goo
+2019-01-03 15:28:07+0530 > 28592894
+2019-01-03 15:28:35+0530 > <Down><Down><Down>oem
+2019-01-03 15:31:04+0530 > <Down><Down><Down><Down><Down><Down><Down><#+2><Down><#+1><Down><Down><Down><Down><#+1><Down><Down><PgDn><PgDn><PgUp><#+5>cd -
+2019-01-03 16:07:56+0530 > cd devi<Tab>fs<Tab>/to<Tab>
+2019-01-03 16:08:02+0530 > ls
+2019-01-03 16:08:02+0530 > vim fs<Tab><#+2>.<Tab><#+2>
+2019-01-03 16:08:05+0530 > <Esc><RShft>:q<Tab>
+2019-01-03 16:08:19+0530 > cd ../im<Tab>6<Tab><#+1>
+2019-01-03 16:08:24+0530 > ls
+2019-01-03 16:08:25+0530 > vim <RShft><Ins>
+2019-01-03 16:08:29+0530 > <Esc><RShft>:q<Tab>
+2019-01-03 16:08:41+0530 > cd ../to<Tab>
+2019-01-03 16:09:16+0530 > ls
+2019-01-03 16:09:17+0530 > vim fs<Tab><#+1>.<Tab><#+2>
+2019-01-03 16:09:21+0530 > <Esc><RShft>:q<Tab>
+2019-01-03 16:09:29+0530 > 
+2019-01-03 16:09:29+0530 > <LCtrl>c
+2019-01-03 17:10:55+0530 > goo
+2019-01-03 17:10:58+0530 > <LCtrl>v
+2019-01-03 17:11:00+0530 > goo
+2019-01-03 17:12:13+0530 > batter <BckSp><BckSp><BckSp>at<BckSp>r packe<LCtrl>aidc
+2019-01-03 17:12:27+0530 >  battar idly<Down>
+2019-01-03 17:12:48+0530 > <Del><Del><End> in bangalore
+2019-01-03 17:13:47+0530 > cd ../../../syst<Tab>bt<Tab>btif<Tab>blu<Tab>s<Tab>
+2019-01-03 18:10:51+0530 > ls
+2019-01-03 18:10:52+0530 > vim <RShft><Ins>
+2019-01-03 18:10:56+0530 > <PgDn><PgDn><PgDn><#+36><PgUp><PgUp><#+3><PgUp><Esc><RShft>:q<Tab>
+2019-01-03 18:11:19+0530 > <LAlt><Tab>goo
+2019-01-03 18:11:47+0530 > personal loan<LCtrl><PgUp><PgUp><PgUp><PgUp><PgDn><#+1><LCtrl><PgDn> lo<Down>
+2019-01-03 18:12:05+0530 > <LShft>Aravinthkumar<Tab><NumLk><KP8><KP5><NumLk><KP8><KP5><KP0><KP8><KP1><KP3><KP9><KP5><KP0><KP0><Tab>54300<Tab>goo
+2019-01-03 18:15:52+0530 > zumi<Down>
+2019-01-03 18:15:58+0530 > <LCtrl>vzumis <BckSp><BckSp> solutions pvt ltd350000<BckSp>05000m20000
+2019-01-03 18:19:36+0530 > k
+2019-01-03 18:19:44+0530 > v1500d
+2019-01-03 18:21:45+0530 > 4000t
+2019-01-03 18:22:16+0530 > <LAlt><Tab><LCtrl><PgDn><PgDn><PgDn><PgDn>120000
+2019-01-03 18:23:32+0530 > fd
+2019-01-03 18:23:38+0530 > all<BckSp>w<LShft>&sa
+2019-01-03 18:24:20+0530 > 90
+2019-01-03 18:24:24+0530 > 000500000cal<BckSp>7
+2019-01-03 18:25:35+0530 > 30
+2019-01-03 18:25:44+0530 > <KP0>1462<LShft>Jayaprakasamaravinthkumarj1<LShft>@gmail.com<Tab>zumi solutions<Tab><LCtrl><PgUp><PgUp>43<BckSp><BckSp>4347<KP0>goo
+2019-01-03 18:32:14+0530 > eur<Down>
+2019-01-03 18:32:18+0530 > goo
+2019-01-03 18:35:12+0530 > sbi per<Down><Down><Down>
+2019-01-03 18:35:18+0530 > <Up>
+2019-01-03 18:36:29+0530 > <PgDn><#+37><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><Esc><RShft>:q<Tab>
+2019-01-03 18:46:56+0530 > <Down><Down><Down>goo
+2019-01-03 18:55:40+0530 > kodi in ka<Down>
+2019-01-03 18:55:46+0530 >  to tamil
+2019-01-03 18:55:57+0530 > <LCtrl>frespe<LCtrl>abanni vs bandri<Down><BckSp><BckSp><BckSp>ri in kana<Down><BckSp><#+14><Down>
+2019-01-03 19:06:08+0530 > <PgUp><PgUp><PgUp><PgUp> to tamil
+2019-01-03 19:06:22+0530 > <LCtrl>fban
+2019-01-03 19:06:47+0530 > 
+2019-01-03 19:06:51+0530 > 
+2019-01-03 19:06:51+0530 > 
+2019-01-03 19:06:52+0530 > welcome123<LShft>!@#
+2019-01-04 11:31:17+0530 > <F5>goo
+2019-01-04 11:38:59+0530 > politit<Down><Down><BckSp>al issue in ker<Down><RShft>
+2019-01-04 11:39:12+0530 > li
+2019-01-04 11:40:03+0530 > cd ../../../../
+2019-01-04 11:40:50+0530 > cd ../
+2019-01-04 11:40:52+0530 > <LCtrl><PgDn>
+2019-01-04 11:40:54+0530 > 
+2019-01-04 11:40:54+0530 > 
+2019-01-04 11:40:54+0530 > git st<Tab>t<Tab><Tab>
+2019-01-04 11:40:57+0530 > git diff
+2019-01-04 11:41:01+0530 > 
+2019-01-04 11:41:02+0530 > 
+2019-01-04 11:41:02+0530 > 
+2019-01-04 11:41:02+0530 > 
+2019-01-04 11:41:03+0530 > 
+2019-01-04 11:41:03+0530 > cd ./../../
+2019-01-04 11:41:07+0530 > git ke<Tab>
+2019-01-04 11:41:09+0530 > cd ke<Tab>
+2019-01-04 11:41:13+0530 > git st<Tab>t<Tab><#+3>
+2019-01-04 11:41:16+0530 > cd ../
+2019-01-04 11:41:26+0530 > ls
+2019-01-04 11:41:26+0530 > cd syst<Tab>bt<Tab><#+1>
+2019-01-04 11:41:29+0530 > git st<Tab>t<Tab>
+2019-01-04 11:41:32+0530 > cd ../../
+2019-01-04 11:41:52+0530 > repo diff
+2019-01-04 11:41:54+0530 > vim <RShft><Ins>
+2019-01-04 11:42:14+0530 > /<LShft>Telep
+2019-01-04 11:42:18+0530 > nnnnnn<Esc><RShft>:q<Tab>
+2019-01-04 11:42:34+0530 > ls
+2019-01-04 11:42:46+0530 > cd ha<Tab>im<Tab>
+2019-01-04 11:42:51+0530 > git st<Tab>t<Tab>
+2019-01-04 11:42:53+0530 > cd ../<Tab><Tab>li<Tab><#+2>
+2019-01-04 11:43:06+0530 > <Up><Up><Up><Down>
+2019-01-04 11:43:08+0530 > cd ../../
+2019-01-04 11:43:13+0530 > s<BckSp><BckSp>ls
+2019-01-04 11:43:15+0530 > 
+2019-01-04 11:43:22+0530 > 
+2019-01-04 11:43:23+0530 > 
+2019-01-04 11:43:23+0530 > 
+2019-01-04 11:43:23+0530 > cd devi<Tab>fs<Tab>
+2019-01-04 11:43:30+0530 > ls
+2019-01-04 11:43:30+0530 > git st<Tab>t<Tab>
+2019-01-04 11:43:33+0530 > git diff
+2019-01-04 11:43:36+0530 > 
+2019-01-04 11:43:37+0530 > 
+2019-01-04 11:43:37+0530 > ls
+2019-01-04 11:43:38+0530 > kernel syn<Down><Down>
+2019-01-04 11:52:38+0530 > linux
+2019-01-04 11:52:52+0530 > make
+2019-01-04 11:58:08+0530 > ta
+2019-01-04 11:58:26+0530 > <PgDn><#+25><PgDn>git st<Tab>t<Tab>
+2019-01-04 12:05:06+0530 > <LCtrl><PgDn>
+2019-01-04 12:05:09+0530 > 
+2019-01-04 12:05:09+0530 > 
+2019-01-04 12:05:09+0530 > 
+2019-01-04 12:05:10+0530 > v<BckSp><Up>
+2019-01-04 12:05:12+0530 > <Esc><RShft>:q<Tab>
+2019-01-04 12:05:15+0530 > cd ../../../../../../
+2019-01-04 12:05:27+0530 > <LCtrl><PgDn><#+1><RShft><PgUp><PgUp><PgUp><PgUp><#+2><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><#+4><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgUp><#+1><PgDn><PgDn><PgDn><PgDn><PgDn><PgUp><#+17><PgUp><#+23><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgUp><PgDn><#+3>
+2019-01-04 12:26:05+0530 > 
+2019-01-04 12:26:05+0530 > 
+2019-01-04 12:26:06+0530 > 
+2019-01-04 12:26:06+0530 > 
+2019-01-04 12:26:06+0530 > cd <BckSp><BckSp><BckSp><BckSp><LCtrl><PgDn>git diff
+2019-01-04 12:26:12+0530 > git log
+2019-01-04 12:26:15+0530 > <Tab><Tab>qgit diff <RShft><Ins>
+2019-01-04 12:26:23+0530 > git shiw<BckSp><BckSp>ow <RShft><Ins>
+2019-01-04 12:26:35+0530 > go
+2019-01-04 12:26:48+0530 > ota update partiti<Down> 
+2019-01-04 12:26:57+0530 > ta<BckSp><BckSp> table update
+2019-01-04 12:27:14+0530 > go
+2019-01-04 12:28:55+0530 > <LCtrl>v
+2019-01-04 12:28:57+0530 > <LCtrl>fv<LCtrl><LCtrl>vgo
+2019-01-04 12:29:44+0530 > myip
+2019-01-04 12:29:47+0530 > <LCtrl>agoo
+2019-01-04 12:30:29+0530 > ta
+2019-01-04 12:32:39+0530 > ta
+2019-01-04 12:41:02+0530 > <LCtrl><PgDn><PgUp><#+2><PgUp><#+2><PgUp><#+15><PgDn><#+3><PgUp><PgUp><PgDn><#+1>2<LShft>TES - 5th jan
+2019-01-04 12:44:07+0530 > <LCtrl>c
+2019-01-04 12:44:58+0530 > 
+2019-01-04 12:45:04+0530 > <BckSp><LCtrl>v
+2019-01-04 12:45:08+0530 > <PgUp><PgDn><PgDn><PgDn><PgUp><LCtrl>v<LCtrl>c
+2019-01-04 12:49:01+0530 > goo
+2019-01-04 12:49:03+0530 > <LCtrl>v
+2019-01-04 12:49:05+0530 > goo
+2019-01-04 12:51:36+0530 > linux command to search my <BckSp><BckSp><BckSp>name in goog<Down>
+2019-01-04 12:51:50+0530 > <PgUp><#+27>in india get loan without welcome123<LShft>!@#
+2019-01-04 14:19:01+0530 > 
+2019-01-04 14:21:30+0530 > 
+2019-01-04 14:21:30+0530 > 
+2019-01-04 14:21:30+0530 > git st<Tab>t<Tab>
+2019-01-04 14:21:33+0530 > git diff
+2019-01-04 14:21:35+0530 > git log
+2019-01-04 14:21:37+0530 > qgit diff
+2019-01-04 14:21:44+0530 > git a<BckSp>st<Tab>t<Tab>
+2019-01-04 14:21:49+0530 > git d<BckSp>add <RShft><Ins>
+2019-01-04 14:21:56+0530 > git com<Tab>-m <RShft>""<Left><LShft><LShft>Disable the touch in recovery mode
+2019-01-04 14:22:21+0530 > git for<Tab>-1 <LShft>HEAD
+2019-01-04 14:22:30+0530 > git fet<BckSp><BckSp>etch
+2019-01-04 14:22:35+0530 > <Up> bb<Tab><#+1>ma<Tab>
+2019-01-04 14:22:40+0530 > <LCtrl>c
+2019-01-04 14:22:45+0530 > <Up><BckSp><#+17><Tab><#+1><BckSp><#+20>
+2019-01-04 14:22:49+0530 > spin lock
+2019-01-04 14:23:32+0530 > <LShft>Thanks for the opp<Down><LCtrl>ac
+2019-01-04 14:25:58+0530 > <LCtrl>v. <LShft>T<LCtrl>agoo
+2019-01-04 14:26:53+0530 > android board <Down>
+2019-01-04 14:26:58+0530 > <LCtrl>fhdmi<Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><PgUp><PgUp><PgUp><PgUp><PgDn>cd ../../
+2019-01-04 17:25:45+0530 > vim <LShft>An<Tab><#+2>
+2019-01-04 17:25:49+0530 > <Esc><RShft>:q<Tab>
+2019-01-04 17:25:50+0530 > ls
+2019-01-04 17:25:51+0530 > vim and<Tab>
+2019-01-04 17:25:53+0530 > <LCtrl><LShft>c
+2019-01-04 17:25:58+0530 > <Esc><RShft>:q<Tab>
+2019-01-04 17:28:06+0530 > <LCtrl><PgDn><PgUp><PgUp>cd -
+2019-01-04 17:28:17+0530 > <Up><Up><Up><RShft>
+2019-01-04 17:31:25+0530 > go
+2019-01-04 17:39:26+0530 > p<Down>
+2019-01-04 17:39:30+0530 > go
+2019-01-04 17:43:03+0530 > eu<Down>
+2019-01-04 17:43:07+0530 > 
+2019-01-04 17:43:07+0530 >  <BckSp>9
+2019-01-04 17:43:13+0530 > <LCtrl><PgUp><PgDn><PgDn><PgUp><PgUp><PgDn>ls
+2019-01-04 17:47:44+0530 > git diff
+2019-01-04 17:47:47+0530 > git log
+2019-01-04 17:47:52+0530 > qgit diff <RShft><Ins>
+2019-01-04 17:48:21+0530 > 
+2019-01-04 17:48:24+0530 > <#+9>git diff <RShft><Ins>
+2019-01-04 17:48:34+0530 > 
+2019-01-04 17:48:35+0530 > <#+21>qls
+2019-01-04 17:54:52+0530 > cd co<Tab>
+2019-01-04 17:54:55+0530 > ls
+2019-01-04 17:54:55+0530 > cd i<Tab>
+2019-01-04 17:54:58+0530 > ls
+2019-01-04 17:54:59+0530 > vim <RShft><Ins>
+2019-01-04 17:55:06+0530 > <Esc><RShft>:q<Tab>
+2019-01-04 17:55:41+0530 > vim im<Tab>i<Tab>
+2019-01-04 17:55:46+0530 > <Esc><RShft>:q<Tab>
+2019-01-04 17:56:25+0530 > cd ../<BckSp><#+22><LCtrl><PgUp><PgDn><PgDn><PgUp><PgUp><PgDn>go
+2019-01-04 17:58:50+0530 > android ka<BckSp><BckSp>layer<Down>
+2019-01-04 17:58:56+0530 > <LCtrl><PgUp><PgDn><PgDn><PgDn><PgUp><PgUp><PgUp><LCtrl><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn>cd ../
+2019-01-04 18:10:45+0530 > ls
+2019-01-04 18:10:46+0530 > cd re<Tab><#+1>
+2019-01-04 18:10:49+0530 > ls
+2019-01-04 18:10:50+0530 > vim re<Tab>
+2019-01-04 18:10:54+0530 > <Down><#+56><Down><Down><Down><Down><Down><Down><Down><Down><Down><Up><#+21><Up><Up><Up><Down><#+42><Up><Up><Up><End><Up>go
+2019-01-04 18:12:59+0530 > luxem<Down>
+2019-01-04 18:13:02+0530 > <PgUp><#+30>sun<Down>
+2019-01-04 18:14:48+0530 > sunri<Down>
+2019-01-04 18:14:59+0530 > 0o degree trip advise
+2019-01-04 18:17:22+0530 > <PgUp><#+14><BckSp>basix<BckSp>c needs
+2019-01-04 18:18:01+0530 > goo
+2019-01-04 18:20:30+0530 > cora <Down><BckSp><#+16>
+2019-01-04 18:20:34+0530 > rain<BckSp>n and winter <Down> <Left><#+15><Left><Left><Left><Left><Left> 0 degree
+2019-01-04 18:21:26+0530 > <Esc><RShft>:q<Tab>
+2019-01-04 18:22:24+0530 > <LCtrl><PgDn><PgDn>
+
+Logging stopped at 2019-01-04 18:23:33+0530
+
