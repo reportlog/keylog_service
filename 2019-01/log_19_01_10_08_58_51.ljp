@@ -1,0 +1,290 @@
+Logging started ...
+
+2019-01-10 08:58:51+0530 > ions.com
+2019-01-10 08:58:54+0530 > vinothiloveyou
+2019-01-10 08:59:00+0530 > vinothkumar<LShft>@<BckSp>.s19<#+1>94<LShft>@gmail.com<Tab>vinoth<LShft>@nxp123
+2019-01-10 09:00:14+0530 > <LCtrl>g
+2019-01-10 09:06:52+0530 > could do <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>an<BckSp><BckSp>o<BckSp>an do<BckSp><BckSp><BckSp><BckSp><BckSp>ould dopore<BckSp><#+17>borne by companystayed lit<LShft><LShft><LCtrl><LCtrl>c
+2019-01-10 09:11:58+0530 > <LCtrl>av<Tab><Tab><Tab><LShft>Today <BckSp>- 20<BckSp><BckSp>10/1/2019<Tab><LCtrl>a<LShft>!. <BckSp><BckSp><BckSp>1. <LShft>Msakable <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>askable interrupt
+2019-01-10 09:13:15+0530 > 
+2019-01-10 09:13:16+0530 > 2. <LShft>Non <LShft>Maskable <LShft>Interrupt
+2019-01-10 09:13:27+0530 > 
+2019-01-10 09:13:28+0530 > 3. <LShft>Interrupt <LShft>Service <LShft>Routine
+2019-01-10 09:13:40+0530 > 
+2019-01-10 09:13:40+0530 > 4. <LShft>Mutux
+2019-01-10 09:13:45+0530 > 
+2019-01-10 09:13:45+0530 > 5. <LShft>Semaphore
+2019-01-10 09:13:52+0530 > 
+2019-01-10 09:13:52+0530 > 6. <LShft>Volatile
+2019-01-10 09:14:05+0530 > 
+2019-01-10 09:14:06+0530 > 76<BckSp>. <LShft>Non-<LShft>Volatile
+2019-01-10 09:14:14+0530 > 
+2019-01-10 09:14:15+0530 > 8. <LShft>Sa<BckSp>tatic
+2019-01-10 09:14:22+0530 > 
+2019-01-10 09:14:22+0530 > 9. <LShft>Virtual 
+2019-01-10 09:14:42+0530 > <BckSp>keyword
+2019-01-10 09:14:47+0530 > 
+2019-01-10 09:14:48+0530 > 10. <LShft>Yactog
+2019-01-10 09:15:11+0530 > maskablr <Down>
+2019-01-10 09:15:16+0530 > <LCtrl>c
+2019-01-10 09:15:19+0530 > g
+2019-01-10 09:15:22+0530 > <LCtrl>v<LCtrl><LCtrl>        -<LShft><BckSp><BckSp><BckSp><BckSp><BckSp><#+7><BckSp><BckSp>
+2019-01-10 09:17:06+0530 > <Tab>
+2019-01-10 09:17:07+0530 > <Tab><LShft>Maskable <LShft>Interrupt is thr<BckSp>e software in<BckSp><BckSp>interrupt<Down><Down>
+2019-01-10 09:17:31+0530 > 
+2019-01-10 09:17:32+0530 > <CpsLk><CpsLk><Tab><LShft>Non-<LShft>Maskable interrupt is the hardware interrupt<Down><Down>
+2019-01-10 09:17:56+0530 > 
+2019-01-10 09:17:57+0530 > <CpsLk><CpsLk><Tab><LCtrl>c
+2019-01-10 09:18:12+0530 > <LCtrl>v byinterr<Down><Down>
+2019-01-10 09:18:56+0530 > <Left><Left><LShft>()<Left><LShft>MI<Down><Down><Down><Down><Right> <LShft>()<Left><LShft>NMI<Down><Down><Down><Up><End>
+2019-01-10 09:19:16+0530 > 
+2019-01-10 09:19:17+0530 > 
+2019-01-10 09:19:17+0530 > <Up><Down>3<BckSp>3. <LShft>Interrupt <LShft>Vector <LShft>Table
+2019-01-10 09:19:31+0530 > 
+2019-01-10 09:19:31+0530 > <Tab><LAlt><Tab><LCtrl><LCtrl>c
+2019-01-10 09:21:00+0530 > <LCtrl>av<LShft>CPU'e<BckSp>s with interrupt caba<BckSp><BckSp>pa<BckSp><BckSp><BckSp>apability that have reseredhave reserver=<BckSp><BckSp>d te<BckSp>able in memory for each and every softe<BckSp>ware and hardware interrupt.
+2019-01-10 09:22:30+0530 > <Tab><LShft>Vector<RShft>"<Left><Left><Left><Left><Left><Left><Left><RShft>"<Right><Right><Right><Right><Right><Right><Right><Right><Left> context means is point to something.
+2019-01-10 09:22:57+0530 > <Up><Right><#+34><Right><Left><Left><Left><Left>address or <Up><Right><Right><Right><Right><Right><Right><Right> which contains the addrss<Del><Del><Del><Del><BckSp><BckSp><BckSp>ress od<BckSp>f the code for<Right><Right><Right><Right><Right><Right><Del><Del><Del><Del><Del><Del><Del><Del><Del>type of
+2019-01-10 09:24:31+0530 > <Tab><Down>
+2019-01-10 09:24:33+0530 > <Tab> i<BckSp>in thisdirection<Right><#+13><Right>er<Down><Down><Down>
+2019-01-10 09:25:50+0530 > <Tab>ser<Down><BckSp><#+13><BckSp><BckSp><BckSp><BckSp><Up><Up><Up><Up><Up>
+2019-01-10 09:27:20+0530 >  <LShft>()<Left><LShft>IVT<Down><Down><Down><Down><Down><Down><Down> <LShft>()<Left><LShft>ISR<Up><Down><Left><#+29><Left><Left><Left><Left><Left><Left><Del>4<LCtrl><Tab><LShft>
+2019-01-10 09:28:22+0530 > <Tab><LShft>Interrupt <LShft>Service <LShft>Routine also called <LShft>Interrupt <LShft>Handler
+2019-01-10 09:28:46+0530 > <Tab>
+2019-01-10 09:28:47+0530 > <Tab><Up><Up><Tab><Left><Left><LShft>*<Down><Down><Up><Tab>
+2019-01-10 09:28:56+0530 > <Tab><Tab><Left><LShft>* <BckSp><BckSp><BckSp><LShft>*  invi<BckSp>oked <LShft>Interrupt <LShft>Service <LShft>Routine al<BckSp><BckSp>is a software th<BckSp><BckSp>process invoked by interrupt request from harware <BckSp><BckSp><BckSp><BckSp><BckSp>dware device
+2019-01-10 09:30:47+0530 > 
+2019-01-10 09:30:47+0530 > <Tab><Tab><BckSp><BckSp><LShft>*  <LShft>It handle the request and send to the cpu and interrupt the active process <BckSp>
+2019-01-10 09:33:01+0530 > 
+2019-01-10 09:33:01+0530 > <Tab><Tab><BckSp><BckSp><LShft>* <LShft>Once <LShft>ISR complete <Left><#+17>nterrupt <Right><Right><Left>ervice <Right><Right><Left>outine<Right><Right><#+3><Right><#+12> <Up><Up><LShft><Left><Left><Left>CPU<Down><Down><Left><Left><Left><Right><Left><#+42><Right><Right><Tab><BckSp><BckSp><BckSp><BckSp> <End> <Left><Left><Left><Left><Right>res<BckSp><BckSp><BckSp>the process is ressumed<Down><Del><LCtrl>c
+2019-01-10 09:34:17+0530 > 
+2019-01-10 09:34:20+0530 > <Tab><LShft>Reference <LShft>Link<RShft>:<LShft><RCtrl><Left><#+18><Left><LCtrl>b<Down><Up><End> <LCtrl><Left><Left><Left><Left><Right><LCtrl>v<Down><Left>a ss it<Right><#+16>,<Del><Del><Del><Del><Del> <Right><Right><#+13>ing <Del><Del>t.,<Left><#+8><BckSp><Up><#+16><Up><Up>
+2019-01-10 09:36:29+0530 > <Down><#+16><Down><Up><#+30><Up><Up><Right><Right><Right><LShft><Down><Left><Left><Left><Left><Left><LCtrl>b<Down><Down><Down><Down><Down><Up><LShft><Down><LCtrl>b<Down><Down><Down><Down><Down><LShft><Down><LCtrl>b<Up><#+15><Down><Down><End>
+2019-01-10 09:36:50+0530 > <Down><#+16><Down><Down><Down><Right><Right><Right><LShft><Down><Left><Left><Left><Left><LCtrl>b<Down><Down><Down><LCtrl>aresumed<BckSp>5<Up>
+2019-01-10 09:38:37+0530 > 
+2019-01-10 09:38:38+0530 > 
+2019-01-10 09:38:38+0530 > <Down><#+31><Up><#+54><Down><Down><Down><Down><Up><#+17>
+2019-01-10 09:38:44+0530 > 
+2019-01-10 09:38:44+0530 > 
+2019-01-10 09:38:45+0530 > 
+2019-01-10 09:38:45+0530 > 
+2019-01-10 09:38:45+0530 > 
+2019-01-10 09:38:45+0530 > 
+2019-01-10 09:38:45+0530 > 
+2019-01-10 09:38:46+0530 > 
+2019-01-10 09:38:46+0530 > <Up>
+2019-01-10 09:38:47+0530 > <Up><Up><Up><#+38>1. <LShft>Interrupt<LShft><Left><#+16><Right><Right><LCtrl>b<Down>
+2019-01-10 09:39:02+0530 > <Del><Del><Del><Del><Tab><BckSp>
+2019-01-10 09:39:13+0530 > <Esc><#+1><LShft>An intr<BckSp>errupt is the function og<BckSp>f the <LShft>Operating <LShft>System the <LShft>Mut<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LShft>T<BckSp>that provides a multiprocessing ansd<BckSp><BckSp>d <LShft>M<BckSp>multithreading<Down><Down> <Up><Down><Tab><Left>provieds<LCtrl><BckSp><BckSp><BckSp><BckSp>ide<BckSp><#+20>prompt<Up><Tab><LShft>An <LShft>Interrupt <BckSp><#+14><BckSp><BckSp><BckSp><LShft>Interr<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LShft>The <LShft>interrupt is the<BckSp><BckSp><BckSp>a signal that promptd <BckSp><BckSp>s the op<BckSp><BckSp><LShft>Operatings <BckSp><BckSp> <LShft>Syster<BckSp>m to stop workinh in <BckSp><BckSp><BckSp><BckSp><BckSp>g in one process and start on another,<LCtrl>c
+2019-01-10 09:43:40+0530 > an<Left><Del><Del><Del><Del> on work<Right> <LShft>* <Down><Down><Left><LShft>*  <BckSp><BckSp><Right><#+18><Left><Del><Del><Del><Del><Del><Del><Del><Right><#+12><Left><#+20><Right><Right><Right>-<Right><#+18><Right><Right><Left><Del><Del><Del><Del><Del><Del><Del><Del><Del>tasking<LCtrl>ain one procees<BckSp><BckSp>ss<Left><#+23><Del>o<BckSp>i<BckSp>o<Del><#+109><PgUp><#+26>t<Down>
+2019-01-10 09:47:15+0530 > <LCtrl>
+2019-01-10 09:48:17+0530 > 2. <LShft>Types of <LShft>Interrupt <LCtrl><LShft><Left><#+21><LCtrl>b<Right>
+2019-01-10 09:49:14+0530 > 
+2019-01-10 09:49:14+0530 > 
+2019-01-10 09:49:14+0530 > 
+2019-01-10 09:49:14+0530 > <Up><Tab><Up><Tab><LShft>* <LShft>Ha<BckSp><BckSp><BckSp><BckSp><LCtrl>b<LShft>* <LShft>Harware <LShft><BckSp><BckSp><BckSp><BckSp><BckSp>dware <LShft>Interry<BckSp>upt
+2019-01-10 09:49:36+0530 > 
+2019-01-10 09:49:37+0530 > <Tab><LShft>* <LShft>Softa<BckSp>ware <LShft>Interrupt<Up><Up><Left><#+21><Right> <Down><Down><Down><Down><Down><Del><Del>3<Down><Down><Down><Down><#+2><Down><Left><Del>4<Down><Down><Down><Down><Down><Left><Del>5<Down><Down><Down><Down><Down><#+1><Down><Down><Down><Left><Del>6<Down><#+29><Up><#+52><Down><#+14><Up><Right><#+13><Left> <Up><Up><LCtrl><LShft><Right><LCtrl>b<Down><Down><Down>
+2019-01-10 09:50:41+0530 > <LCtrl><LCtrl>
+2019-01-10 09:51:17+0530 > 
+2019-01-10 09:51:18+0530 > <Tab><LShft>* <LShft>External <LShft>Interrupt
+2019-01-10 09:51:29+0530 > 
+2019-01-10 09:51:29+0530 > <Tab><Up><Up><Right><Right> <Down><Down><LShft>* <LShft> <LShft>Intere<BckSp>nal <LShft>Interrupt <LShft>)<BckSp><LShft>()<RCtrl><Left>division by 0 or <LShft>Invalid <LShft>Opcode<Up><Up> <LShft>()<Left> <LShft>()<Left><LShft>execution of  the instruction<Down><Down><Left><LShft><LShft>Illegal <LShft>operation or errornouse of the data or <Down>cause of external interr<Down>
+2019-01-10 09:56:48+0530 > <LCtrl>x <LCtrl>or <LCtrl>v<BckSp><BckSp><BckSp><Down><Down><Down><Del><Del><Del><Del><Del><Del><Del><Del><Del> <LShft>()<Left>external harware <BckSp><BckSp><BckSp><BckSp><BckSp>dware module<Down><Down>internal
+2019-01-10 09:57:44+0530 > <LCtrl><LCtrl><LCtrl><LCtrl>x<Down><Down><LCtrl>v or <Up><Up><Left><#+14><Left><Left><#+14><Left><Left><Left><Del><#+35><Del><Del><Del><Del><Del><Del><Left><Del><Down><Down><#+47>operating <Down> <Down><Down><Down><Down><Down><Down><Down><Down>
+2019-01-10 10:00:41+0530 > <Left>
+2019-01-10 10:01:03+0530 > <#+5>
+2019-01-10 10:01:04+0530 > 
+2019-01-10 10:01:04+0530 > 
+2019-01-10 10:01:04+0530 > 
+2019-01-10 10:01:04+0530 > 
+2019-01-10 10:01:05+0530 > <Up><#+22>1, <LShft>Operating <LShft>Systr<BckSp>em<RShft>:
+2019-01-10 10:01:16+0530 > <Tab><LShft>
+2019-01-10 10:01:17+0530 > <Tab><LShft>* <LShft>A <BckSp><BckSp> <LShft>A loe<BckSp>w-level software tw<BckSp>g<BckSp>hat supports tge<BckSp><BckSp>ge<BckSp>gh<BckSp><BckSp><BckSp>he c=<BckSp>im<BckSp><BckSp>omputer basic function such as sheu<BckSp><BckSp>d<BckSp>edulinh <BckSp><BckSp><BckSp>g tase<BckSp>t<BckSp>k and controlling thr <BckSp><BckSp>e peripharels.<Del><Del><Del><Up><Up><Right><#+10><Right><Right><Right><Right><#+3>n <LShft>Operating <LShft>Systr<BckSp>em is the<Right><#+61><Left><Left><Left>s,
+2019-01-10 10:03:12+0530 > <Tab>
+2019-01-10 10:03:14+0530 > <Tab><Tab><BckSp><Del><Right><#+3><Left><Left><Left><Left><Left><Left><Del><Del><Del><Del><Del><Del><Del><Del>sheduling <Del><Right><#+39><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>erals <BckSp>.schedling <Del>s<LCtrl>b
+2019-01-10 10:04:28+0530 > 2. <LShft>Work fo<BckSp>low of <LShft>Operaing <LShft>Systre<BckSp><#+14><BckSp><BckSp>ating <LShft>System<RShft>:
+2019-01-10 10:04:51+0530 > <Up><Right><#+9><LShft><Right><LShft><Right><Right><Right><LCtrl>b<Down><Down><Up><Tab>
+2019-01-10 10:04:58+0530 > <Tab><Tab><Left><Left>1. <LShft>Power <LShft>On the <LShft>Machi<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp> <LShft>Co<BckSp><LShft>PU or <LShft>Machine or <LShft>Target
+2019-01-10 10:05:30+0530 > 
+2019-01-10 10:05:30+0530 > <Tab><Tab><BckSp><BckSp>2. <LShft>Checking the input and output periperals
+2019-01-10 10:05:54+0530 > 
+2019-01-10 10:05:54+0530 >        3<BckSp><BckSp>3. <Up><Up><Up><Down> <Up><Up><Down><Down><Left><Left><Left><Left> <Up><Up><Down><Down><Up><Up><Down><Down><BckSp><Up><Up><Left><Down><Down><Down><Down><Right><#+11><Left><Left><Left><Right>h<Down><Down><Down><Up>
+2019-01-10 10:06:27+0530 > <Down><#+14>
+2019-01-10 10:06:29+0530 > <Up><Up><Right><#+16><Left><Left><Right><LShft>Initili<BckSp><BckSp><BckSp><BckSp><BckSp>itializa the <LShft><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>e the <LShft>DDR <LShft>RAM
+2019-01-10 10:06:52+0530 > 
+2019-01-10 10:06:52+0530 >       4. <LShft>Load the master boot
+2019-01-10 10:07:06+0530 > 
+2019-01-10 10:07:06+0530 >       <BckSp>5. bootign<BckSp><BckSp><BckSp>ing<Up><#+12><Up><End>
+2019-01-10 10:07:20+0530 > <Tab>
+2019-01-10 10:07:21+0530 > <Tab><Tab><BckSp><BckSp>2. <LShft>Check the boot switck<BckSp>h<Down><Down><Left><#+25><Left><Left><Left><Del>3<Down><Down><Left><Del>4<Down><Down><Left><Del>5<Down><Down><Left><Left> <Del>6<Right><Right><Right><#+6><Left><Del><Del><Del><Del><Del><Del><Del><Up><Up><Right><#+16><Left><Left><Left><Del><#+14><Del>bootloader<Down><Down><Left> <Left>start booting
+2019-01-10 10:08:08+0530 >    
+2019-01-10 10:08:09+0530 >       7. load the kerneloperting sd<BckSp><Down> booti<Down><Down><Down>
+2019-01-10 10:08:40+0530 > <LCtrl><LShft>Power up<RShft> -<LShft>><Down><Down><Down><Left><Up><Left><Down><Down><Up><LShft><Down><Del><Del><Del><Del><Del><Del><Del><Del><Del>   2<Right><Left> <BckSp><Left><Up><Up><Down><Down> <Up><Up><Down><Down><BckSp><Right><Right><Right><Right><Left><LShft>Power <LShft>On <LShft>Test -<LShft>> <LShft>POSIX<LShft>T^<BckSp><LShft>Self 
+2019-01-10 10:10:15+0530 > 
+2019-01-10 10:10:16+0530 > <Tab><Tab><BckSp><BckSp>3. <LShft>Find a <LShft><LShft>Boot device
+2019-01-10 10:10:28+0530 > 
+2019-01-10 10:10:28+0530 > <Tab><Tab><BckSp>3<BckSp>4<BckSp><BckSp>4. <LShft>Load <LShft>Operai<BckSp>ting <LShft>St<BckSp>ystem<LShft><Down><Down><Down><Down><Down><Down><Down><Down><Del><Up><Up><Up><Up><Up><Up><Up><Left><Up><Right><LShft><Right><#+15><Right><Right><Right><Del> <End><BckSp> <LShft>Boot <LShft>Process<RShft>:<Down><Down><Down><Down><Left><Left><Left><Left><#+14><Right><Right><Right><Del><Del><Del><Del><LShft>P<Left><LShft>(<Right><Right><#+12><Left><Left><Left><Left><LShft>) <RShft>:-<Up><Up><Up><Up><Down><Down><Down><Down><Down><Down> <LShft>The<BckSp><BckSp><BckSp>the<End>
+2019-01-10 10:11:43+0530 > 
+2019-01-10 10:11:43+0530 > <CpsLk><CpsLk><CpsLk><CpsLk><CpsLk><CpsLk><Tab><Tab><BckSp><BckSp>4<BckSp>5. <LShft>Transfer the controlkalyanmatrimone<BckSp><BckSp>ny.com
+2019-01-10 10:17:56+0530 > <LShft>Vinoth<CpsLk><Down><Down><#+12><Down><#+50><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down><Down><Down><Up><Down><Down><Up><Up><#+7>VVVVV<#+20>VVV<#+6>PPPPPPPPPPPPVVVVV<Down>VVV
+2019-01-10 10:19:12+0530 > 8095453401VINOTH<BckSp><#+19><CpsLk>vinothvigi.s1994<LShft>@f<BckSp>gmail.com<Tab>vinoth<LShft>@kalyanmatrimony
+2019-01-10 10:20:25+0530 > <Esc><#+1><Esc><LCtrl><LCtrl><LShft><LCtrl>c
+2019-01-10 10:23:39+0530 > <LCtrl>c
+2019-01-10 10:23:40+0530 > g
+2019-01-10 10:23:45+0530 > <LCtrl>v52 ponts <End> level 5<LCtrl><LCtrl>g
+2019-01-10 10:28:30+0530 > opert<BckSp>a<Down> <Down>
+2019-01-10 10:28:38+0530 > 
+2019-01-10 10:29:17+0530 > 3. <LShft>Typed o<BckSp><BckSp><BckSp>s of <LShft>Operating <LShft>System<RShft>:<LShft><Left><#+31><Right><Right><Right><Right><LCtrl>b<Right>
+2019-01-10 10:29:41+0530 > <Tab>
+2019-01-10 10:29:42+0530 > <Tab>1<BckSp><LCtrl>b1. <LShft>Monolithic
+2019-01-10 10:29:53+0530 > 
+2019-01-10 10:29:53+0530 > <Tab><Tab><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp> <LShft>OS
+2019-01-10 10:29:57+0530 > 
+2019-01-10 10:29:58+0530 > <Tab><Tab>2<BckSp><BckSp><BckSp><BckSp><BckSp>2. <LShft>Modular <LShft>Os<BckSp><LShft>S<RShft>
+2019-01-10 10:30:08+0530 > 
+2019-01-10 10:30:09+0530 > <Tab>3. <LShft>Micro <LShft>OS
+2019-01-10 10:30:16+0530 > <Up><Up><Up><Up><Up><Up><Up><Up>
+2019-01-10 10:30:19+0530 > <Down><Down><Del>4<Down><Down><Down><Down><Down><Down><Down><Left><Del>5<Down><Down><Down><Down><Down><Down><Down><Left><Del>6<Down><Down><Down><Down><Down><Left><Del>7<Down><Down><Down><Down><Down><Left><Del>8<Down><Down><#+23><Up><#+18><Down><LCtrl><LShft><Left>9g
+2019-01-10 10:32:39+0530 > operatinf<BckSp>g system concepgt
+2019-01-10 10:32:49+0530 > <LCtrl><LCtrl>
+2019-01-10 10:33:20+0530 > 
+2019-01-10 10:33:20+0530 > 
+2019-01-10 10:33:20+0530 > 
+2019-01-10 10:33:20+0530 > 
+2019-01-10 10:33:20+0530 > <Up><Up><Up><Tab><Tab><Left><LShft>Concept<RShft>:<LShft><Left><#+12><Left><LCtrl>b<Down><Down><Tab><Tab><Tab><BckSp><BckSp><BckSp><BckSp><BckSp>3. <LShft>user<BckSp><BckSp><BckSp><BckSp><LShft>User
+2019-01-10 10:33:43+0530 > 
+2019-01-10 10:33:43+0530 > 
+2019-01-10 10:33:44+0530 > 
+2019-01-10 10:33:44+0530 > 
+2019-01-10 10:33:44+0530 > <Tab><Tab><Left>2. <LShft>Softwaa<BckSp>re
+2019-01-10 10:33:53+0530 > 
+2019-01-10 10:33:53+0530 > 
+2019-01-10 10:33:53+0530 > <Tab><Tab>
+2019-01-10 10:33:55+0530 > <Tab><Tab><BckSp>1. <LShft>Hardware<RShft>:<Up><Up><Up><Up><RShft>:<Up><Up><Up><Up><Up><RShft>:<Down><#+16><Up>
+2019-01-10 10:34:11+0530 > 
+2019-01-10 10:34:11+0530 > <Up><Tab><Tab><Tab><Up><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab> <Down><LShft>CPU , <LShft>RAM , <LShft>I<LShft>O<Up><Up><Up><Up><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Down><Down><Tab><Tab><Tab><Tab><Tab><Tab><Tab><LShft>OS<BckSp><BckSp><LShft>Operating <LShft>Systr<BckSp>em<Up><Tab><Tab><Tab><Tab><Tab><Tab><Up><Tab><Left><LShft>System
+2019-01-10 10:35:18+0530 > <Tab><Tab><#+16><BckSp><BckSp><Up> <LShft>Software  <BckSp>, <LShft>Application <LShft>Softea<BckSp><BckSp>ware<Up><Up><Up><Tab><Tab><Tab><Tab><Tab><Tab><Up><Tab><Tab><#+10><Tab><Left>user1, user2 <BckSp>,.<#+35>usern<Up><Up><LShft><Left><Left><Left><Left><Left><LCtrl>b<Down><Down><Down><Down><Down><LShft><Right><#+12><Right><Right><LCtrl>b<Down><Down><Down><Down><Down><LShft><Right><#+15><Left><LCtrl>b<Up><Up><Up><#+10><Up><Up><Up><Left><Left><Left><Tab><Down><Down><Down><Down><Down><Left><Left><Left><Tab><Up><Up><Up><Up><Up><Up><Down><Del><Del><Del><Down><Down><Down><Down><Down><Del><Del><Del><Down><Down><Down><Down><Down><Down><Up><BckSp><BckSp><BckSp><Tab><Down>
+2019-01-10 10:36:37+0530 > <Tab><Up><Del><Del><Down><Del><Del><Del><Del><Del><Up><#+13><Down><Down>
+2019-01-10 10:36:43+0530 > <Tab><Del><Del><Del><Del><#+9><Del><Del><Del><Del><Del><Down><Down>
+2019-01-10 10:36:48+0530 > <Up><Del><Del><Del><Del><Del><LShft><Down><Del>
+2019-01-10 10:36:53+0530 > <Up><Del><Down>
+2019-01-10 10:36:55+0530 > <Up><Up><Right><Up><Down><LShft><Right><Right><Del><Del><#+20><Up><Up><Up><Up><#+11><Down><Down><LShft><Down><Down><LShft><Down><LShft><Up><Del><Up><Up><Up><LShft><Down><Del>
+2019-01-10 10:37:09+0530 > <Down><Up><Del><Del><#+10><LCtrl>c
+2019-01-10 10:39:48+0530 > <Tab><Tab><Tab><Left><Left><Left><Left><LShft>Reference <LShft>Link<RShft>:<LShft><Left><#+19><LCtrl>b<Up>
+2019-01-10 10:40:07+0530 > <Down><End>
+2019-01-10 10:40:09+0530 > <Tab><Tab><Tab><Tab><Tab><Tab><LCtrl><Tab><LCtrl>v
+2019-01-10 10:40:14+0530 > <Del><PgUp><#+22><PgDn><#+22><PgUp><#+25><Down><#+49><Up><#+48><Down><#+23>3. <LShft>Operaing <BckSp><BckSp><BckSp><#+1><BckSp><BckSp><BckSp><BckSp><BckSp>peartinf<BckSp>g <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>rating <LShft>System<Del><Del><Del><Del><Del><Del><Del> <LShft><Left><#+21><LCtrl>b<Down><#+61><Up><#+42><Up><Down><Left><Left><LShft><Left>4<Down><Down><Down><Down><Down><Down><Down><Down><Down><LShft><Left>5<Down><Down><Down><Down><Down><Down><Down><LShft><Left>6<Down><Down><Down><Down><Down><Down><Down><LShft><Left>7<Down><Down><Down><Down><Down><LShft><Left>8<Down><Down><Down><Down><Down><LShft><Left>9<Down><Down><Down><Down><Down><Down><Down><Down><LShft><Left>10<Up><PgUp><#+22><Down><#+104><PgUp><#+23><LCtrl><LCtrl>g
+2019-01-10 10:47:52+0530 > usb bluet<Down> for aud<Down> dr<Down> in lin<Down>
+2019-01-10 10:48:14+0530 > <LCtrl>andrio<Down> 
+2019-01-10 10:48:28+0530 > <LCtrl><LCtrl><Up><Up><Up><LShft>Hi <LShft>Sir,
+2019-01-10 10:50:58+0530 > <#+19><Del><LShft>Thanks <LShft>& <LShft>Regards,<Down><LShft><Down><Down><Down><#+18><Del><Up><#+18><Del><Del><Up><Up><#+7><Up><LShft>USB <LShft>Bluetooth <LShft>Audio<LShft>USB <LShft>V<BckSp><LShft>Bluetooth <LShft>a<BckSp><LShft>Audio <LShft>Driver <LShft>Update,
+2019-01-10 10:51:55+0530 > <Down><#+9><Del><Tab><Tab><Tab><Tab><LCtrl><LCtrl><Up><Down><LShft>Andriod <LShft><BckSp><BckSp><BckSp><BckSp><BckSp>rio<BckSp><BckSp>i<BckSp>oid <LShft>Version <RShft>:
+2019-01-10 10:52:38+0530 > <Tab><Tab>
+2019-01-10 10:52:39+0530 > <Tab><Tab><Tab><LShft><LShft>Bluett<BckSp>ooth <LShft>Profile<RShft> <RShft>:
+2019-01-10 10:52:52+0530 > 
+2019-01-10 10:52:52+0530 > <Tab><Tab><Tab><LShft>Reference <LShft>Link<RShft>L<BckSp> <RShft>:<Up><Up><Up><Up><Up><Up><Del><Down><#+13><Up><#+16>
+2019-01-10 10:53:09+0530 > <Down><#+16>
+2019-01-10 10:53:11+0530 > <LCtrl>fbluet
+2019-01-10 10:53:28+0530 > <BckSp>
+2019-01-10 10:53:28+0530 > 
+2019-01-10 10:53:29+0530 > 
+2019-01-10 10:53:29+0530 > 
+2019-01-10 10:53:29+0530 > 
+2019-01-10 10:53:30+0530 > 
+2019-01-10 10:53:31+0530 > <Esc>source code 
+2019-01-10 10:54:24+0530 > <LCtrl><LCtrl><LCtrl>faudio
+2019-01-10 10:54:51+0530 > 
+2019-01-10 10:54:52+0530 > 
+2019-01-10 10:54:52+0530 > 
+2019-01-10 10:54:52+0530 > 
+2019-01-10 10:54:52+0530 > 
+2019-01-10 10:54:53+0530 > 
+2019-01-10 10:54:53+0530 > 
+2019-01-10 10:54:53+0530 > <Esc><LCtrl>fusb
+2019-01-10 10:55:04+0530 > 
+2019-01-10 10:55:04+0530 > 
+2019-01-10 10:55:04+0530 > 
+2019-01-10 10:55:05+0530 > 
+2019-01-10 10:55:05+0530 > 
+2019-01-10 10:55:05+0530 > <LCtrl>c
+2019-01-10 10:55:09+0530 > <Tab><Tab><Tab><Tab><Tab><Tab><Tab><LCtrl>v<LCtrl>b<LCtrl>c
+2019-01-10 10:55:40+0530 > 
+2019-01-10 10:55:44+0530 > <Tab><Tab><Tab><Tab><Left><Left><Left><LShft>usb <BckSp><BckSp><BckSp><BckSp><BckSp><LShft>Us<BckSp><LShft>Sb<BckSp><LShft>B <LShft>Bluet<BckSp><BckSp>etooth <LShft>Driver<RShft>:
+2019-01-10 10:56:04+0530 > 
+2019-01-10 10:56:04+0530 > <Tab><Tab><Tab><Tab><Tab><Up><Tab><Tab><Tab><Tab><#+7><Tab><Tab><LCtrl>v<LCtrl>z<LShft>Realtak <Left><Left><Left><Del>e<Right><Right> <Del><LCtrl>c
+2019-01-10 10:56:31+0530 > <LCtrl>v<LAlt><Tab><LCtrl>b
+2019-01-10 10:56:46+0530 > <Tab><Tab><Tab><Tab><Tab><Tab><Tab><LShft>Real<LAlt><Tab><LAlt><Tab>tek <LAlt><Tab><LAlt><Tab>blur<BckSp>etooth <LAlt><Tab><LAlt><Tab>usb driver<LAlt><Tab><LAlt><Tab>s<Down><Down><LShft><Left><#+21><LCtrl>b<Down><Up>
+2019-01-10 10:57:12+0530 > <Tab><Tab><Tab><Up><Up><Up><Up><Up><Down><Down><Down><Down><Down><End>
+2019-01-10 10:57:16+0530 > 
+2019-01-10 10:57:17+0530 > <Up><Down><Tab><Tab><Tab><Tab><Tab><Tab><Tab><LCtrl>b
+2019-01-10 10:58:05+0530 > 
+2019-01-10 10:58:05+0530 > 
+2019-01-10 10:58:05+0530 > 
+2019-01-10 10:58:08+0530 > 
+2019-01-10 10:58:08+0530 > <Tab><Tab><Tab><LShft>B<BckSp><LShft>Chip<RShft>:<LShft><Left><Left><Left><Left><Left><LCtrl>b<Down>
+2019-01-10 10:58:17+0530 > <Tab><Tab><Tab><Tab><Tab><Tab><BckSp><BckSp><BckSp><BckSp><BckSp> <LCtrl>zzz chip
+2019-01-10 10:58:42+0530 > <LCtrl><Up><Up><Down><Down><Tab><Left><Left><Left><Left><Left><Left><LShft>RT<LShft>K 8723<LShft>AU
+2019-01-10 10:59:50+0530 > 
+2019-01-10 10:59:50+0530 > <Tab><Tab><Tab><LShft>Kernel <LShft>Version<LShft><RShft>:<LShft><Left><#+18><Left><Left><Left><LCtrl>b<Left><Del> 
+2019-01-10 11:00:04+0530 > <Tab><Tab><Tab><End>
+2019-01-10 11:00:09+0530 > <Tab><Tab><Tab><Tab>
+2019-01-10 11:00:10+0530 > <Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Up><#+15><Right><#+12><Right><Right><Right><Left>   <Del><Del><Del><Del><Del><Del><Del><Del><LShft><Left><Del><Del><Down><Up><LShft><Left><Left><LCtrl>x<Up><End> <Left><#+15><Left><Left><Left><Left><LCtrl>v<Down><Down><Down> <Up><Del><End> <Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><#+17><Del><Del><Del><Del><Del><Del><Down><Down><Down><Down><Down><Del><Del><Del><Del><Del><LShft><Down><Del><Down><Down><Down><LShft><Down><Del><Down><Down><Down><LShft><Down><Down><Down><Up><Del><Up><Up><#+6>2.6.32 - 3.13.0<Down><Down><Down><Up><Up><Up><Up><Up><Up><Up>
+2019-01-10 11:01:25+0530 > <Down><#+14><Up><Up><End> <LCtrl>fandriod
+2019-01-10 11:01:41+0530 > 
+2019-01-10 11:01:41+0530 > <Esc><LCtrl>fprofile
+2019-01-10 11:02:04+0530 > <BckSp><BckSp><BckSp><BckSp>
+2019-01-10 11:02:05+0530 > 
+2019-01-10 11:02:06+0530 > 
+2019-01-10 11:02:06+0530 > 
+2019-01-10 11:02:06+0530 > 
+2019-01-10 11:02:06+0530 > 
+2019-01-10 11:02:07+0530 > 
+2019-01-10 11:02:07+0530 > 
+2019-01-10 11:02:08+0530 > 
+2019-01-10 11:02:09+0530 > 
+2019-01-10 11:02:09+0530 > 
+2019-01-10 11:02:09+0530 > 
+2019-01-10 11:02:10+0530 > 
+2019-01-10 11:02:10+0530 > <Esc><BckSp><End>/<LShft><BckSp><LShft>E<Right><LShft>AU <LShft>Dongle<Left><#+26><Left><Left><Left><Left><Right><LShft><Right><Right><Right><Right>Hardware <Down><Down><Down><Down><Down><LShft><Down><Down><Del><Del>g
+2019-01-10 11:03:14+0530 > bluetooth profile for rtk8723ae/au
+2019-01-10 11:03:30+0530 > <LCtrl><LCtrl><LCtrl>c
+2019-01-10 11:03:53+0530 > <LCtrl>fv<Esc><LCtrl>c
+2019-01-10 11:04:06+0530 > <LCtrl>fv
+2019-01-10 11:04:19+0530 > 
+2019-01-10 11:04:19+0530 > <Tab><Tab><Tab><Tab><Tab><Tab><LShft>A2<LShft>DP - 
+2019-01-10 11:04:45+0530 > 
+2019-01-10 11:04:46+0530 > 
+2019-01-10 11:04:47+0530 > <LShft>Advanced <LShft>Audio <LShft>Si<BckSp><BckSp><LShft>Distribution <LShft>Profile<Left><#+39><Right><LShft><Left><Left><Left><Left><LCtrl>b<Down><LCtrl>c
+2019-01-10 11:05:38+0530 > <LCtrl><LCtrl><LCtrl>fatt
+2019-01-10 11:05:50+0530 > 
+2019-01-10 11:05:50+0530 > 
+2019-01-10 11:05:50+0530 > <LCtrl>fattrs<LCtrl><LCtrl><BckSp><BckSp><BckSp>head
+2019-01-10 11:06:25+0530 > 
+2019-01-10 11:06:26+0530 > 
+2019-01-10 11:06:26+0530 > 
+2019-01-10 11:06:26+0530 > 
+2019-01-10 11:06:26+0530 > 
+2019-01-10 11:06:26+0530 > 
+2019-01-10 11:06:26+0530 > <Del><Del>zusb bluetooth driver source  for andr<Down> ori<BckSp><Down>
+2019-01-10 11:11:37+0530 > <LCtrl><Del><LShft>U<LShft>SB <LShft>Bluetooth <LShft>A<BckSp><LShft>Driver <LShft><LShft>For <LShft>Andriod <LShft><BckSp><BckSp><BckSp><BckSp><BckSp>roid <LShft>Oreo<RShft>: <Down><Down><Down><Tab><Del><Del><BckSp><BckSp>
+2019-01-10 11:13:36+0530 > <Tab><Tab><Tab><LShft>Andriod <LShft><BckSp><BckSp><BckSp><BckSp><BckSp>roid <LShft>Version<RShft>:<LShft><Left><#+20><LCtrl>b<Right>
+2019-01-10 11:13:52+0530 > <Up>
+2019-01-10 11:13:54+0530 > <End> <LShft>Andriod <LShft>Oreo<Left><#+13><Left><Right><Del><Right>i<Up><Up><Up><Left><#+10><Down><Down><Down><Left><Left><Left><Right><Right><LShft><Left><LShft><Right><Left><LShft><Right><#+18><Left><LCtrl>b<Up><Up><Up><Up><Del><#+14><Del><Del><Del><Del><Del><Del><Del><Up><Up><Up><Left><Left><Left><Left><Del><#+16><Del><Del><Del><Del><Del><Del><Del><Down><#+14><Down><Down><Left><Left><Left><Left><LShft><Down><Del><Down><Down><Down><Down><Up><LShft><Down><Del><Up><Up><Up><Del><Up><#+17><Up><Up><Right><#+20><Right><Right><Right><Right><LShft><Down><Del>
+2019-01-10 11:14:44+0530 > <Down><#+14><Up><Right><#+26><Right><Right><Right><Right><Left> <Right><Right><Tab><Up><Up><Up><Up><LCtrl><LCtrl><LCtrl><LCtrl>andriod <BckSp><BckSp><BckSp><BckSp>oid or<Down> b<BckSp>usb bl<Down><BckSp><BckSp><BckSp>dr<Down> 
+2019-01-10 11:18:29+0530 > <LCtrl> v<BckSp>buidl error
+2019-01-10 11:18:53+0530 > <LCtrl><LCtrl>skype<Esc><#+4><Esc>g
+2019-01-10 11:21:54+0530 > usb bluett<BckSp><Down> drv<BckSp>iver for andriod 
+2019-01-10 11:22:17+0530 > <LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><Del><Del>driver source code
+2019-01-10 11:25:56+0530 > <LCtrl><LCtrl><LCtrl><LCtrl>fblu<LCtrl>foero<BckSp><BckSp><BckSp><BckSp><BckSp>andropr<BckSp><BckSp><BckSp>oid
+2019-01-10 11:28:06+0530 > 
+2019-01-10 11:28:07+0530 > 
+2019-01-10 11:28:07+0530 > 
+2019-01-10 11:28:07+0530 > 
+2019-01-10 11:28:07+0530 > 
+2019-01-10 11:28:08+0530 > 
+2019-01-10 11:28:08+0530 > 
+2019-01-10 11:28:09+0530 > 
+2019-01-10 11:28:09+0530 >  ore<Down><Left>
+2019-01-10 11:29:03+0530 > <LCtrl><LCtrl><LCtrl>t<LCtrl><Esc><Esc><Esc><Esc><Esc><Esc><Esc><Esc><Esc><Esc><Esc><Esc><Esc><Esc><Esc><Esc><Esc><Esc><Esc><Esc><Esc><Esc><Esc><Esc><Esc><Esc><#+20><Esc><Esc><Esc><Esc><Esc><Esc><Esc><LCtrl><LAlt><Del><Del><Del><Del><Del><Del><#+5><LCtrl><LAlt><Del><Del><Del><Del>
+2019-01-10 12:25:07+0530 > <LCtrl><LAlt><LMeta><LCtrl><LAlt><Del><#+2><LCtrl><LAlt><Del><Del><#+93><LCtrl><LAlt><Del><#+115><LCtrl><LCtrl><LAlt><Del><#+60><LCtrl><LAlt><Del><#+36><LCtrl><LAlt><Del><#+3><LCtrl><LAlt><Del><#+22><LCtrl><LAlt><Del><#+70><LCtrl><LAlt>
