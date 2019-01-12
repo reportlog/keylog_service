@@ -1,0 +1,1191 @@
+Logging started ...
+
+2019-01-11 07:41:49+0530 > u\<Home><KP1><KP4><KP7><RCtrl>\]<RShft><Menu><BckSp> NJ+<RShft>P<F11><Del> <F1>3dr<F3>[p=<LCtrl>avinoth<LShft><BckSp><#+20>zs10062013
+2019-01-11 08:50:46+0530 > <LCtrl>ausb bluetooth driver porting for andr<Down> oreo
+2019-01-11 08:52:44+0530 > <LCtrl><LCtrl><LCtrl><LShft>Thank you
+2019-01-11 08:53:29+0530 > 
+2019-01-11 08:53:29+0530 > <Down><LShft>Regards,<LCtrl><LCtrl><LCtrl><LCtrl>fpatc<Esc><#+2><LCtrl><LCtrl>foreo<BckSp><#+15>andrr<BckSp>oid
+2019-01-11 08:56:05+0530 > 
+2019-01-11 08:56:05+0530 > 
+2019-01-11 08:56:05+0530 > 
+2019-01-11 08:56:05+0530 > 
+2019-01-11 08:56:05+0530 > 
+2019-01-11 08:56:06+0530 > 
+2019-01-11 08:56:06+0530 > 
+2019-01-11 08:56:06+0530 > 
+2019-01-11 08:56:07+0530 > 
+2019-01-11 08:56:07+0530 > <LCtrl>fporti<Esc>g
+2019-01-11 08:57:02+0530 > porting usb bluetooth adopter <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>a<BckSp>dapet<BckSp><BckSp>ter for a<BckSp>oreo
+2019-01-11 08:57:35+0530 > <LCtrl><LCtrl><LCtrl><LCtrl><Esc><LShft>Andriod <Esc><LShft>How to port <LShft>USB <LShft>BL<BckSp>lure<BckSp><BckSp>etooth <LShft>Driver for <LShft>USB <LShft>Bluet<LCtrl>c
+2019-01-11 09:01:19+0530 > <LCtrl>av for <LShft>Bl<BckSp><BckSp><LShft>USB <LShft>Bluetooth <LShft>a<BckSp><LShft>Dongle<LShft>Hi <LShft>All<BckSp><BckSp><BckSp><BckSp>, <LShft>I a<BckSp>want to connect <LShft>USB <LShft>Bluetooth <LShft>Dongle with <LShft>Andriod <BckSp><BckSp><BckSp><BckSp>oid versio 8.0 <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>ion 8.0. <LShft>So, <LShft>I want to port the driver for <LShft>USB <LShft>Bluetooth <LShft>Dongle. <LShft>Please <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LShft><LShft>Pl<BckSp><BckSp><LShft>I want the link or steps to porting.port<BckSp><BckSp><BckSp><BckSp>android<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>linuxbluedongl<BckSp><BckSp><BckSp><BckSp><BckSp>oreo<LCtrl>b<LCtrl>b<LCtrl>b<LCtrl>b<LCtrl>b<LCtrl>c
+2019-01-11 09:05:24+0530 > <LCtrl>c
+2019-01-11 09:07:48+0530 > <LCtrl>v<#+1><LCtrl>c
+2019-01-11 09:08:04+0530 > <LCtrl>v<LCtrl>c
+2019-01-11 09:09:01+0530 > usn<BckSp>b bluetooth dongle for andriod <BckSp><BckSp><BckSp><BckSp><BckSp>roid oreo
+2019-01-11 09:09:32+0530 > <LCtrl>fandriod
+2019-01-11 09:09:49+0530 > 
+2019-01-11 09:09:49+0530 > <BckSp><BckSp><BckSp>oid
+2019-01-11 09:09:53+0530 > 
+2019-01-11 09:09:54+0530 > 
+2019-01-11 09:09:58+0530 > 
+2019-01-11 09:09:59+0530 > 
+2019-01-11 09:10:02+0530 > 
+2019-01-11 09:10:03+0530 > 
+2019-01-11 09:10:03+0530 > 
+2019-01-11 09:10:06+0530 > 
+2019-01-11 09:10:06+0530 > 
+2019-01-11 09:10:06+0530 > 
+2019-01-11 09:10:07+0530 > 
+2019-01-11 09:10:07+0530 > 
+2019-01-11 09:10:07+0530 > 
+2019-01-11 09:10:08+0530 > 
+2019-01-11 09:10:08+0530 > 
+2019-01-11 09:10:08+0530 > 
+2019-01-11 09:10:09+0530 > 
+2019-01-11 09:10:09+0530 > 
+2019-01-11 09:10:10+0530 > 
+2019-01-11 09:10:10+0530 > 
+2019-01-11 09:10:10+0530 > 
+2019-01-11 09:10:11+0530 > 
+2019-01-11 09:10:12+0530 > 
+2019-01-11 09:10:12+0530 > 
+2019-01-11 09:10:13+0530 > 
+2019-01-11 09:10:13+0530 > 
+2019-01-11 09:10:14+0530 > 
+2019-01-11 09:10:16+0530 > <BckSp><BckSp><BckSp><BckSp>
+2019-01-11 09:10:21+0530 > <LCtrl>f
+2019-01-11 09:10:29+0530 > 
+2019-01-11 09:10:30+0530 > 
+2019-01-11 09:10:31+0530 > 
+2019-01-11 09:10:36+0530 > 
+2019-01-11 09:10:36+0530 > 
+2019-01-11 09:10:37+0530 > 
+2019-01-11 09:10:38+0530 > <LCtrl>g
+2019-01-11 09:11:34+0530 > <LCtrl>c
+2019-01-11 09:12:26+0530 > <LCtrl>tg
+2019-01-11 09:12:29+0530 > <LCtrl>v<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LCtrl>fember<BckSp>dded
+2019-01-11 09:13:13+0530 > 
+2019-01-11 09:13:14+0530 > 
+2019-01-11 09:13:14+0530 > 
+2019-01-11 09:13:15+0530 > 
+2019-01-11 09:13:15+0530 > 
+2019-01-11 09:13:15+0530 > 
+2019-01-11 09:13:16+0530 > 
+2019-01-11 09:13:16+0530 > 
+2019-01-11 09:13:16+0530 > <BckSp><BckSp><BckSp><BckSp><BckSp><Esc><LCtrl>fport
+2019-01-11 09:17:03+0530 > 
+2019-01-11 09:17:04+0530 > 
+2019-01-11 09:17:04+0530 > 
+2019-01-11 09:17:05+0530 > 
+2019-01-11 09:17:07+0530 > 
+2019-01-11 09:17:07+0530 > 
+2019-01-11 09:17:08+0530 > 
+2019-01-11 09:17:08+0530 > 
+2019-01-11 09:17:09+0530 > <LCtrl>fsoftwa
+2019-01-11 09:18:29+0530 > 
+2019-01-11 09:18:31+0530 > 
+2019-01-11 09:18:31+0530 > 
+2019-01-11 09:18:32+0530 > 
+2019-01-11 09:18:32+0530 > re
+2019-01-11 09:18:35+0530 > 
+2019-01-11 09:18:35+0530 > 
+2019-01-11 09:18:36+0530 > 
+2019-01-11 09:18:36+0530 > 
+2019-01-11 09:18:39+0530 > <LCtrl><LCtrl><LCtrl>fandrio<BckSp>io<BckSp><BckSp><BckSp>oid
+2019-01-11 09:19:54+0530 > 
+2019-01-11 09:19:54+0530 > 
+2019-01-11 09:19:55+0530 > 
+2019-01-11 09:19:55+0530 > android 8<LCtrl><LCtrl>f
+2019-01-11 09:20:34+0530 > <Right> 
+2019-01-11 09:20:37+0530 > 
+2019-01-11 09:20:38+0530 > 
+2019-01-11 09:20:38+0530 > 
+2019-01-11 09:20:38+0530 > 
+2019-01-11 09:20:38+0530 > 
+2019-01-11 09:20:38+0530 > 
+2019-01-11 09:20:38+0530 > 
+2019-01-11 09:20:39+0530 > 
+2019-01-11 09:20:39+0530 > 
+2019-01-11 09:20:39+0530 > 
+2019-01-11 09:20:40+0530 > 
+2019-01-11 09:20:40+0530 > 
+2019-01-11 09:20:40+0530 > 
+2019-01-11 09:20:40+0530 > 
+2019-01-11 09:20:40+0530 > oreo
+2019-01-11 09:20:46+0530 > <LCtrl>ac
+2019-01-11 09:20:49+0530 > <Esc><LCtrl>v<Left><#+9><Left><BckSp><#+20>
+2019-01-11 09:21:10+0530 > andriod <BckSp><BckSp><BckSp><BckSp>oid 8.0
+2019-01-11 09:21:28+0530 > <BckSp><BckSp>
+2019-01-11 09:21:35+0530 > <LCtrl><LCtrl>fv<BckSp><#+9><BckSp>
+2019-01-11 09:21:48+0530 > <BckSp>
+2019-01-11 09:21:50+0530 > 
+2019-01-11 09:21:50+0530 > 
+2019-01-11 09:21:50+0530 > 
+2019-01-11 09:21:50+0530 > 
+2019-01-11 09:21:51+0530 > 
+2019-01-11 09:21:51+0530 > g
+2019-01-11 09:21:56+0530 > usb bluett<BckSp>ooth <LShft>Dongle for rtl8723au
+2019-01-11 09:22:21+0530 > <LCtrl><LCtrl><LCtrl><LCtrl>f
+2019-01-11 09:22:40+0530 > 
+2019-01-11 09:22:40+0530 > 
+2019-01-11 09:22:41+0530 > <Esc>usb bluetoot<Down> dongle for android oreo
+2019-01-11 09:23:38+0530 > <LCtrl>foreo
+2019-01-11 09:23:45+0530 > 
+2019-01-11 09:23:45+0530 > 
+2019-01-11 09:23:46+0530 > 
+2019-01-11 09:23:46+0530 > <BckSp><BckSp><BckSp><BckSp>android
+2019-01-11 09:23:51+0530 > 
+2019-01-11 09:23:53+0530 > 
+2019-01-11 09:23:53+0530 > 
+2019-01-11 09:23:53+0530 > 
+2019-01-11 09:23:53+0530 > 
+2019-01-11 09:23:54+0530 > 
+2019-01-11 09:23:54+0530 > 
+2019-01-11 09:24:04+0530 > 
+2019-01-11 09:24:05+0530 > 
+2019-01-11 09:24:06+0530 > 
+2019-01-11 09:24:07+0530 > 
+2019-01-11 09:24:07+0530 > 
+2019-01-11 09:24:09+0530 > <LCtrl><LCtrl>d
+2019-01-11 09:24:35+0530 > f<Esc><#+1><LCtrl>f
+2019-01-11 09:24:38+0530 > 
+2019-01-11 09:24:39+0530 > 
+2019-01-11 09:24:40+0530 > 
+2019-01-11 09:24:44+0530 > 
+2019-01-11 09:24:46+0530 > driver
+2019-01-11 09:24:49+0530 > <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LCtrl>c
+2019-01-11 09:25:00+0530 > <LShft>Today<RShft>: 11<LShft>_1<LShft>_19<Up><LCtrl>a<LShft>1/<BckSp>. <LCtrl>v
+2019-01-11 09:25:31+0530 > 
+2019-01-11 09:25:31+0530 > 
+2019-01-11 09:25:31+0530 > 
+2019-01-11 09:25:31+0530 > 
+2019-01-11 09:25:32+0530 > 
+2019-01-11 09:25:32+0530 > 
+2019-01-11 09:25:32+0530 > 
+2019-01-11 09:25:32+0530 > <LCtrl>fvzandriof<BckSp>d<BckSp><BckSp><BckSp>oid
+2019-01-11 09:25:48+0530 > 
+2019-01-11 09:25:49+0530 > 
+2019-01-11 09:26:08+0530 > 
+2019-01-11 09:26:11+0530 > 
+2019-01-11 09:26:11+0530 > 
+2019-01-11 09:26:11+0530 > 
+2019-01-11 09:26:12+0530 > 
+2019-01-11 09:26:13+0530 > <LCtrl>fvz
+2019-01-11 09:26:54+0530 > 
+2019-01-11 09:27:07+0530 > 
+2019-01-11 09:27:10+0530 > 
+2019-01-11 09:27:13+0530 >  o<Esc>driver 
+2019-01-11 09:27:37+0530 > <LCtrl><LCtrl>f<Right><BckSp><BckSp>
+2019-01-11 09:27:49+0530 > 
+2019-01-11 09:27:49+0530 > <Esc><LCtrl>x<Home><LCtrl>v <End> andrio<BckSp><BckSp>oid
+2019-01-11 09:28:35+0530 > <LCtrl><LCtrl><Down><Down><Down><Down><Down><Down><Up><#+22><LCtrl><LCtrl>fsofte
+2019-01-11 09:33:58+0530 > <BckSp>ware
+2019-01-11 09:34:00+0530 > 
+2019-01-11 09:34:00+0530 > 
+2019-01-11 09:34:00+0530 > 
+2019-01-11 09:34:00+0530 > 
+2019-01-11 09:34:01+0530 > 
+2019-01-11 09:34:01+0530 > 
+2019-01-11 09:34:01+0530 > 
+2019-01-11 09:34:01+0530 > 
+2019-01-11 09:34:01+0530 > 
+2019-01-11 09:34:01+0530 > 
+2019-01-11 09:34:01+0530 > 
+2019-01-11 09:34:02+0530 > <LCtrl>adriver
+2019-01-11 09:34:12+0530 > 
+2019-01-11 09:34:13+0530 > 
+2019-01-11 09:34:14+0530 > 
+2019-01-11 09:34:17+0530 > 
+2019-01-11 09:34:25+0530 > 
+2019-01-11 09:34:28+0530 > 
+2019-01-11 09:34:31+0530 >  oreo
+2019-01-11 09:34:48+0530 > <LCtrl><LCtrl><LCtrl><LCtrl>fus bluet<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>b b<BckSp><#+21>blueto
+2019-01-11 09:36:11+0530 > 
+2019-01-11 09:36:20+0530 > 
+2019-01-11 09:36:20+0530 > 
+2019-01-11 09:36:20+0530 > 
+2019-01-11 09:36:20+0530 > 
+2019-01-11 09:36:20+0530 > 
+2019-01-11 09:36:21+0530 > 
+2019-01-11 09:36:21+0530 > 
+2019-01-11 09:36:22+0530 > 
+2019-01-11 09:36:22+0530 > 
+2019-01-11 09:36:22+0530 > 
+2019-01-11 09:36:22+0530 > 
+2019-01-11 09:36:23+0530 > 
+2019-01-11 09:36:23+0530 > 
+2019-01-11 09:36:23+0530 > 
+2019-01-11 09:36:24+0530 > 
+2019-01-11 09:36:24+0530 > 
+2019-01-11 09:36:27+0530 > 
+2019-01-11 09:36:29+0530 > 
+2019-01-11 09:36:29+0530 > 
+2019-01-11 09:36:29+0530 > 
+2019-01-11 09:36:30+0530 > 
+2019-01-11 09:36:30+0530 > 
+2019-01-11 09:36:30+0530 > 
+2019-01-11 09:36:30+0530 > 
+2019-01-11 09:36:31+0530 > 
+2019-01-11 09:36:36+0530 > 
+2019-01-11 09:36:36+0530 > 
+2019-01-11 09:36:36+0530 > 
+2019-01-11 09:36:37+0530 > 
+2019-01-11 09:36:37+0530 > 
+2019-01-11 09:36:37+0530 > 
+2019-01-11 09:36:37+0530 > 
+2019-01-11 09:36:41+0530 > 
+2019-01-11 09:36:41+0530 > 
+2019-01-11 09:36:41+0530 > 
+2019-01-11 09:36:42+0530 > 
+2019-01-11 09:36:44+0530 > 
+2019-01-11 09:36:45+0530 > 
+2019-01-11 09:36:45+0530 > 
+2019-01-11 09:36:45+0530 > 
+2019-01-11 09:36:48+0530 > 
+2019-01-11 09:36:49+0530 > 
+2019-01-11 09:36:50+0530 > <LCtrl>c
+2019-01-11 09:37:02+0530 > 2. <LShft>Bluetooth <LShft>Driver<RShft>:
+2019-01-11 09:37:12+0530 > <Tab><Tab>
+2019-01-11 09:37:14+0530 > <Tab><Tab><LCtrl>v
+2019-01-11 09:37:15+0530 > 
+2019-01-11 09:37:15+0530 > 
+2019-01-11 09:37:15+0530 > 
+2019-01-11 09:37:15+0530 > 4<BckSp>3. <LCtrl>c
+2019-01-11 09:37:28+0530 > 
+2019-01-11 09:37:53+0530 > 
+2019-01-11 09:37:53+0530 > cd <LShft>Doc<Tab><LShft>Vin<Tab>
+2019-01-11 09:37:57+0530 > ls
+2019-01-11 09:37:58+0530 > 
+2019-01-11 09:37:58+0530 > 
+2019-01-11 09:37:58+0530 > 
+2019-01-11 09:37:58+0530 > 
+2019-01-11 09:37:59+0530 > <LCtrl>lls
+2019-01-11 09:38:00+0530 > 
+2019-01-11 09:38:01+0530 > 
+2019-01-11 09:38:01+0530 > <BckSp><BckSp>cd<BckSp><BckSp>mkdir <LShft>USB_BLUET<BckSp><#+26>mkdi<Tab>r <LShft>usb<LShft>_bluett<BckSp><BckSp><BckSp>etooth<LShft>_oreo
+2019-01-11 09:38:29+0530 > cd u<Tab>
+2019-01-11 09:38:31+0530 > git clon<Tab><RShft><Ins>
+2019-01-11 09:38:37+0530 > 
+2019-01-11 09:38:40+0530 > 
+2019-01-11 09:38:41+0530 > 
+2019-01-11 09:38:41+0530 > 
+2019-01-11 09:38:41+0530 > 
+2019-01-11 09:38:41+0530 > 
+2019-01-11 09:38:41+0530 > 
+2019-01-11 09:38:42+0530 > 
+2019-01-11 09:38:42+0530 > <Up><Home><Right><#+15><Del><Del><Del><Del>
+2019-01-11 09:38:51+0530 > oreo
+2019-01-11 09:39:10+0530 > 
+2019-01-11 09:39:10+0530 > 
+2019-01-11 09:39:10+0530 > 
+2019-01-11 09:39:11+0530 > <LCtrl><LCtrl>c
+2019-01-11 09:41:28+0530 > <LCtrl><LCtrl>fv
+2019-01-11 09:41:38+0530 > 
+2019-01-11 09:41:40+0530 > 
+2019-01-11 09:41:48+0530 > <LCtrl>c
+2019-01-11 09:41:58+0530 > <LCtrl>av
+2019-01-11 09:42:07+0530 > 
+2019-01-11 09:42:09+0530 > 
+2019-01-11 09:42:12+0530 > <Del><Del><Del>
+2019-01-11 09:42:34+0530 > <Left><#+2>how to port <Right><#+54>
+2019-01-11 09:43:23+0530 > <LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl>f
+2019-01-11 09:46:12+0530 > 
+2019-01-11 09:46:12+0530 > andrio<BckSp><BckSp>oid
+2019-01-11 09:46:20+0530 > 
+2019-01-11 09:46:20+0530 > 
+2019-01-11 09:46:20+0530 > 
+2019-01-11 09:46:22+0530 > <BckSp><BckSp><BckSp><BckSp><#+16>oero<BckSp><BckSp><BckSp>reo
+2019-01-11 09:46:30+0530 > <Esc><LCtrl>c
+2019-01-11 09:47:02+0530 > <LShft>Bluetooth <LShft>Driver porting<RShft>:
+2019-01-11 09:47:17+0530 > <Tab>
+2019-01-11 09:47:18+0530 > <Tab><Tab><Tab><BckSp><BckSp><LCtrl>v 
+2019-01-11 09:47:20+0530 > <Esc>
+2019-01-11 09:47:22+0530 > 
+2019-01-11 09:47:22+0530 > 
+2019-01-11 09:47:22+0530 > 
+2019-01-11 09:47:22+0530 >  <LShft>(<LShft>)<RCtrl><Left>rock chip liu<BckSp>nuc<BckSp>x<LCtrl>c
+2019-01-11 09:49:11+0530 > tv
+2019-01-11 09:49:13+0530 > <LCtrl><LCtrl>fandr
+2019-01-11 09:50:18+0530 > 
+2019-01-11 09:50:19+0530 > 
+2019-01-11 09:50:19+0530 > 
+2019-01-11 09:50:19+0530 > 
+2019-01-11 09:50:20+0530 > 
+2019-01-11 09:50:20+0530 > <Esc><LCtrl>c
+2019-01-11 09:50:37+0530 > <LCtrl><LCtrl><LCtrl>fandr<Esc><#+1><LCtrl>f
+2019-01-11 09:52:09+0530 > <Esc>android or<#+2>eo<LCtrl><LCtrl><LCtrl>fvzio<BckSp><BckSp>oid<LCtrl>androir<BckSp>sd<BckSp><BckSp>s<BckSp>d oreo
+2019-01-11 09:54:35+0530 > <LCtrl><LCtrl><LCtrl><Esc>1994vinoths<Tab>v<BckSp>vinoth<LShft>@o<BckSp><BckSp><#+17>vinoth<LShft>@123<Tab>vinoth<LShft>@123<Tab>vinothkumar.s1994<LShft>@gmail.com<Tab>vinothkumar.s1993<BckSp>4<LShft>@gmail.com<Tab>oreo<Esc>vinothkumar.s1994<LShft>@gmail.com
+2019-01-11 09:58:01+0530 > g
+2019-01-11 09:58:13+0530 > <LCtrl><LCtrl><LCtrl>c
+2019-01-11 09:59:31+0530 > <LCtrl><LCtrl>vvinothkumar
+2019-01-11 09:59:44+0530 > <LShft>Hi<BckSp>i, <LShft>How<BckSp><BckSp><BckSp><LShft>Please provide the steps for b<BckSp>poati<BckSp><BckSp><BckSp>rting a<BckSp>driver in <LShft>USB <LShft>Bluetooth <LShft>Dongle at android oreo<LShft>Poritng<BckSp><BckSp><BckSp><BckSp>ting <LShft>Steps<LCtrl>fpori<BckSp>ti
+2019-01-11 10:02:39+0530 > 
+2019-01-11 10:02:39+0530 > <LCtrl><PgDn><PgDn><#+10><LCtrl>bluetooth driver porting in linux
+2019-01-11 10:08:45+0530 > <LCtrl>g
+2019-01-11 10:09:55+0530 > <LCtrl>fbluetooth
+2019-01-11 10:10:58+0530 > 
+2019-01-11 10:11:00+0530 > 
+2019-01-11 10:11:01+0530 > 
+2019-01-11 10:11:02+0530 > 
+2019-01-11 10:11:03+0530 > 
+2019-01-11 10:11:04+0530 > 
+2019-01-11 10:11:04+0530 > 
+2019-01-11 10:11:05+0530 > 
+2019-01-11 10:11:05+0530 > 
+2019-01-11 10:11:05+0530 > 
+2019-01-11 10:11:06+0530 > 
+2019-01-11 10:11:06+0530 > 
+2019-01-11 10:11:07+0530 > 
+2019-01-11 10:11:10+0530 > 
+2019-01-11 10:11:12+0530 > 
+2019-01-11 10:11:12+0530 > <LCtrl><LCtrl>usb don<BckSp><BckSp><BckSp>bluetooth dongle <LShft><Left><#+31><LCtrl>x<End><BckSp><BckSp><BckSp><BckSp><BckSp><RShft><Ins>
+2019-01-11 10:11:59+0530 > usb 
+2019-01-11 10:12:07+0530 > <LCtrl><PgUp><#+14>ls
+2019-01-11 10:14:02+0530 > cd <Tab>
+2019-01-11 10:14:04+0530 > ls
+2019-01-11 10:14:05+0530 > vim <RShft><Ins>
+2019-01-11 10:14:17+0530 > <RShft>:q
+2019-01-11 10:14:29+0530 > cd dr<Tab>
+2019-01-11 10:14:32+0530 > ls
+2019-01-11 10:14:33+0530 > cd an<Tab>
+2019-01-11 10:14:40+0530 > ls
+2019-01-11 10:14:41+0530 > 
+2019-01-11 10:14:47+0530 > 
+2019-01-11 10:14:48+0530 > cd ../
+2019-01-11 10:14:54+0530 > cd bl<Tab>u<Tab>
+2019-01-11 10:14:57+0530 > ls
+2019-01-11 10:14:58+0530 > grep -inr <RShft>""<Left>usb<Right> <LShft>*
+2019-01-11 10:15:10+0530 > <Up><Left><Left><Left> d<BckSp>b
+2019-01-11 10:15:17+0530 > <LCtrl><LShft>c
+2019-01-11 10:15:35+0530 > <LCtrl>v<Down> for andriod<BckSp><BckSp><BckSp>oid 
+2019-01-11 10:16:14+0530 > <BckSp><BckSp>linux<BckSp><BckSp><BckSp><BckSp><BckSp>driver porting
+2019-01-11 10:16:38+0530 > porting s<BckSp>blut<BckSp>ret<BckSp><BckSp><BckSp>etooth driver<BckSp><#+18><BckSp><BckSp><BckSp><Left><#+18>linux <Right><#+13>driver in usb blur<BckSp>e<Down><Down>
+2019-01-11 10:17:35+0530 > <LCtrl><LCtrl><LCtrl> <LCtrl><LCtrl><LCtrl>for andriod
+2019-01-11 10:18:03+0530 > <LCtrl><LCtrl> oreo
+2019-01-11 10:18:28+0530 > <LCtrl><LCtrl><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><#+13><LCtrl><LShft>c
+2019-01-11 10:20:44+0530 > <LCtrl>c
+2019-01-11 10:20:49+0530 > find -ina<Tab><RShft><Ins>.c
+2019-01-11 10:20:56+0530 > vim <RShft><Ins>
+2019-01-11 10:21:06+0530 > <PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><RShft>:q
+2019-01-11 10:21:15+0530 > <LAlt><Tab><PgDn><PgDn><PgDn><PgUp><PgDn><PgDn><PgUp><#+40><LAlt><Tab><LAlt><Tab><LCtrl>fporting
+2019-01-11 10:22:08+0530 > <LCtrl>aandr<Esc><#+1><LCtrl>f
+2019-01-11 10:22:38+0530 > 
+2019-01-11 10:22:41+0530 > 
+2019-01-11 10:22:42+0530 > 
+2019-01-11 10:22:42+0530 > 
+2019-01-11 10:22:44+0530 > 
+2019-01-11 10:22:45+0530 > 
+2019-01-11 10:22:45+0530 > 
+2019-01-11 10:22:45+0530 > 
+2019-01-11 10:22:46+0530 > usb bluetooth =<BckSp><BckSp><BckSp><BckSp><#+22>usb bluetooth dongle for andro<#+2>id oreo
+2019-01-11 10:23:34+0530 > <LCtrl><LCtrl>8.<BckSp>
+2019-01-11 10:24:57+0530 > <LCtrl>x<LCtrl>v<Esc><Esc><LAlt><LAlt><Tab>
+2019-01-11 10:28:23+0530 > <BckSp><BckSp>
+2019-01-11 10:28:53+0530 > androir<BckSp>d oreo bluetooth dongle
+2019-01-11 10:30:22+0530 > <LShft>Hp<BckSp>ow to <LShft>Pr<BckSp>orting driver in <LShft>USB <LShft>Bluetooth <LShft>S<BckSp><LShft>Dongle for <LShft>A<BckSp><LShft>Andriod <BckSp><BckSp><BckSp><BckSp>oid <LShft>Oreo<RShft>?<LShft>J<BckSp><LShft>Hi, <LShft>I am using <LShft>USB <LShft>Blure<BckSp><BckSp><BckSp>er<BckSp><BckSp><BckSp>luetooth <LShft>S<BckSp><LShft>Dongl<BckSp>le <Left><#+33><Right><Right><Del><Del><Del><Del><Del><Del><Del><Del>want to connect my<BckSp><BckSp><BckSp><End>with <LShft>Andri<BckSp>oid <LShft>Oreo. <LShft>So, <LShft>I want to o<BckSp>poe<BckSp>rt y<BckSp>the driver in <LShft>USB <LShft>Bluetooth <LShft>Dongle. <LShft>But, <LShft>I don't how to port driver in <LShft>USB <LShft>Bluetooth <LShft>Dongle. <LShft>I want to you guys to hel <BckSp>p to port the <LShft>driver in <LShft>USB <LShft>Bluetooth <LShft>Dongel <BckSp><BckSp><BckSp>le to connect with <LShft>Android <LShft>Oreo a<BckSp><BckSp>/<LShft>Linux<LCtrl><LCtrl>c
+2019-01-11 10:40:15+0530 > <LCtrl>v<Down><#+16><PgUp><#+17><Down><#+8><PgUp><#+17><PgUp><#+28>g
+2019-01-11 10:45:07+0530 > how to y<BckSp>use usb bluetooth dongle on andr<Down>
+2019-01-11 10:45:53+0530 > <LCtrl> mov<BckSp>bile
+2019-01-11 10:46:07+0530 > <LCtrl>vinothk<Esc>vinothkua<BckSp>mar.s1994<LShft>@gmail.com<Tab>g
+2019-01-11 10:48:56+0530 > <LCtrl>vinoth<LShft>@android<Tab>vinoth<LShft>@android
+2019-01-11 10:49:24+0530 > <LShft>Porting driver in <LShft>USB <LShft>Bluetooth <LShft>Dongle for andriod <LShft>Oreo<BckSp><Right><#+1>i<LShft>Hi <BckSp>, <LShft>I want to connect <LShft>USB <LShft>Bluetooth <LShft>Dongle with <LShft>B<BckSp><LShft>Andriod <BckSp><BckSp><BckSp><BckSp>oid <LShft><LShft>()<Left><LShft>Androif<BckSp>d <LShft>Version <LShft>8.<BckSp>.0 and above<Right>. <LShft>But<BckSp><BckSp>efore, <LShft>I want to port the driver in <LShft>USB <LShft>Bluetooth <#+1><LShft>Donglere<BckSp><BckSp>. <LShft>But, <LShft>I don't know how to port the drivers in <BckSp><#+13><BckSp><BckSp><BckSp> <LShft>bluetooth driver <BckSp><#+16>ooth drv<BckSp>iver in usb bluettot<BckSp><BckSp><BckSp>ooth dongle. <LShft>I want the steps to port.<LCtrl>b<LCtrl><LCtrl>bandrio<BckSp><BckSp>oid 8<BckSp><BckSp><Down><Down><#+19><BckSp><#+18>oreo<Down>a<BckSp>blueusb-<BckSp><BckSp><BckSp><BckSp>linux<BckSp>to connwct <BckSp><BckSp><BckSp><BckSp>ect with
+2019-01-11 10:58:43+0530 > <LCtrl>coonect my bluetooth dongle <Left><#+25><Left><Left><Left><BckSp>n<End>to andr<Down><Down>
+2019-01-11 10:59:45+0530 >  <LShft><LShft>I
+2019-01-11 10:59:51+0530 > <PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgUp><PgDn><PgDn><LCtrl>f
+2019-01-11 11:01:17+0530 > 
+2019-01-11 11:01:18+0530 > <LShft>Can <LShft>I u<BckSp>connect <LShft>USB <LShft>Don<BckSp><BckSp><BckSp><LShft>Bluett<BckSp>ooth <LShft>Dongle to <LShft>Android <LShft>()<RShft>?<Left><Left><LShft>Andriod <BckSp><BckSp><BckSp><BckSp>oid <LShft>Oreo <LShft>Operating <LShft>Systre<BckSp><BckSp>em<Left><#+22><Left><Left><Left><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LShft>( <LShft>vinothkumar.s1994<LShft>@gmail.com<PgUp><PgUp><#+16><PgUp><#+4><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgUp><PgUp><PgUp><PgUp><PgDn><PgDn><PgDn><PgDn><PgDn>g
+2019-01-11 11:03:19+0530 > g
+2019-01-11 11:03:39+0530 > usb bluett<BckSp>ot<BckSp>oth dongle forum
+2019-01-11 11:03:51+0530 > <LCtrl><LCtrl><LCtrl>vinothkumar.s1994<LShft>@gmail.com<Tab>vinoth<LShft>@andri<BckSp>oid<Tab><Tab>vinoth<LShft>@androidvinothkumar.s1994<LShft>@gmail.com<Tab>vinothkuma<BckSp><BckSp><BckSp><BckSp><LShft>S<BckSp><LShft>S<Tab>vinothkumar<Tab>vinoth<LShft>@androidg
+2019-01-11 11:07:01+0530 > <LShft>How di <BckSp><BckSp>o <LShft>I connect <LShft>USB <LShft>Bluetooth <LCtrl><LShft>Dongle with <LShft>Android <LShft>()<Left><LShft>Oreo<LShft>Hi, <LShft>I am <BckSp><BckSp><BckSp>want to connect <LShft>USB <LShft>Bluetooth <LShft>Dongle with <LShft>Android <LShft>()<Left><LShft>Oreo<Right> . <LShft>So, <LShft>I want to port driver <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>bluett<BckSp>ooth de<BckSp>river in <LShft>USB <LShft>Blu<BckSp>uettot<BckSp><BckSp><BckSp>tt<BckSp><BckSp>oothv<BckSp> <LShft>Dongle. <LShft>I want the s<BckSp>driver as a<BckSp>well as porting steps.<LCtrl>c
+2019-01-11 11:10:31+0530 > ind<Down><Down><Down><Down><Down><Up>
+2019-01-11 11:10:54+0530 > bana<BckSp>ga<BckSp><#+16><LShft>Bangalore<Tab><LShft>Karnataka<Tab>560068vinoth<Tab>s<LShft>Vint<BckSp>oth<LShft>Sharmmi<BckSp><BckSp><BckSp>mi<LCtrl>ac
+2019-01-11 11:12:19+0530 > <LShft>Andriod<RShft>L<BckSp><RShft>:
+2019-01-11 11:12:32+0530 > <BckSp><BckSp><BckSp><BckSp><BckSp>oid<RShft>:
+2019-01-11 11:12:37+0530 > <Tab>
+2019-01-11 11:12:38+0530 > <Tab><Tab><BckSp>1. <LCtrl>v
+2019-01-11 11:12:41+0530 > 
+2019-01-11 11:12:41+0530 > 
+2019-01-11 11:12:41+0530 > 
+2019-01-11 11:12:42+0530 > 
+2019-01-11 11:12:42+0530 > <Tab><Tab><Up><Up><Up><Tab><Tab><BckSp>2.  <LCtrl>c
+2019-01-11 11:13:55+0530 > <LCtrl>vvinoth<LShft>@android
+2019-01-11 11:14:06+0530 > vinothkumar.s1994<LShft>@gmail.com
+2019-01-11 11:14:23+0530 > <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>123
+2019-01-11 11:14:37+0530 > 
+2019-01-11 11:14:38+0530 > 
+2019-01-11 11:14:38+0530 > 
+2019-01-11 11:14:38+0530 > 8095453401
+2019-01-11 11:15:08+0530 > 37379641
+2019-01-11 11:15:39+0530 > <LShft>Vinoth<LShft>Sharmi<Tab>vinoth<LShft>@123
+2019-01-11 11:16:25+0530 > <BckSp><#+22>vinoth<LShft>@android
+2019-01-11 11:16:36+0530 > <LCtrl>avinothkumar.s1994<LShft>@f<BckSp>gmail.com
+2019-01-11 11:16:52+0530 > 
+2019-01-11 11:16:53+0530 > 
+2019-01-11 11:16:53+0530 > <LCtrl><LCtrl>c
+2019-01-11 11:17:58+0530 > <LCtrl>tg
+2019-01-11 11:17:59+0530 > <LCtrl>vskype<Esc><Esc>install skype in linux
+2019-01-11 11:21:16+0530 > <LCtrl><LCtrl><LCtrl><LCtrl>c
+2019-01-11 11:21:35+0530 > <LCtrl><LShft>T
+2019-01-11 11:21:39+0530 > 
+2019-01-11 11:21:39+0530 > <RShft><Ins>
+2019-01-11 11:21:41+0530 > zs10062013
+2019-01-11 11:21:45+0530 > <LAlt><Tab><LCtrl>c
+2019-01-11 11:21:52+0530 > <LAlt><Tab><RShft><Ins>
+2019-01-11 11:21:54+0530 > <LCtrl>c
+2019-01-11 11:22:25+0530 > <LAlt><Tab><LAlt><Tab><LCtrl>fvin
+2019-01-11 11:22:48+0530 > 
+2019-01-11 11:22:48+0530 > <Esc><LCtrl><LCtrl>skype in online
+2019-01-11 11:23:53+0530 > <LAlt><Tab><LCtrl>c
+2019-01-11 11:24:08+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><RShft><Ins>
+2019-01-11 11:24:18+0530 > <LAlt><Tab>open sk<BckSp><#+19>online skype
+2019-01-11 11:24:44+0530 > <LCtrl><LAlt><Tab><LCtrl><LShft>c
+2019-01-11 11:25:13+0530 > <LAlt><Tab><RShft><Ins>
+2019-01-11 11:25:16+0530 > <LCtrl>lskvinothkumar.s1994<LShft>@gmail.com
+2019-01-11 11:26:34+0530 > vinoth<LShft>@ms
+2019-01-11 11:26:38+0530 > <LShft>Hi <LShft>brother<LShft>Hi <LShft><LShft>mama, <LShft><LCtrl>
+2019-01-11 11:27:37+0530 > <LShft>Are you freee<BckSp><RShft>?
+2019-01-11 11:27:47+0530 > <LShft>Hi da, <LShft>Are you freee<BckSp><RShft>?
+2019-01-11 11:28:06+0530 > <LCtrl><LAlt><Tab><Esc><BckSp><BckSp><BckSp>usb bluetooth driver porting on android
+2019-01-11 11:35:15+0530 > <LCtrl><LCtrl><LCtrl><LCtrl><BckSp><BckSp>patch
+2019-01-11 11:37:00+0530 > <BckSp><BckSp><Home>andrios<BckSp>d patch 
+2019-01-11 11:37:34+0530 > <LCtrl>fporting
+2019-01-11 11:38:03+0530 > 
+2019-01-11 11:38:04+0530 > 
+2019-01-11 11:38:06+0530 > 
+2019-01-11 11:38:07+0530 > 
+2019-01-11 11:38:08+0530 > 
+2019-01-11 11:38:09+0530 > 
+2019-01-11 11:38:09+0530 > 
+2019-01-11 11:38:10+0530 > 
+2019-01-11 11:38:11+0530 > 
+2019-01-11 11:38:11+0530 > 
+2019-01-11 11:38:11+0530 > 
+2019-01-11 11:38:11+0530 > 
+2019-01-11 11:38:11+0530 > 
+2019-01-11 11:38:12+0530 > 
+2019-01-11 11:38:12+0530 > 
+2019-01-11 11:38:13+0530 > 
+2019-01-11 11:38:13+0530 > 
+2019-01-11 11:38:13+0530 > 
+2019-01-11 11:38:13+0530 > 
+2019-01-11 11:38:13+0530 > 
+2019-01-11 11:38:13+0530 > 
+2019-01-11 11:38:14+0530 > 
+2019-01-11 11:38:14+0530 > 
+2019-01-11 11:38:14+0530 > 
+2019-01-11 11:38:14+0530 > 
+2019-01-11 11:38:14+0530 > 
+2019-01-11 11:38:15+0530 > 
+2019-01-11 11:38:15+0530 > g
+2019-01-11 11:39:00+0530 > usn<BckSp>b bluetooth dongle installa<Down> gi<BckSp>uide for android
+2019-01-11 11:39:24+0530 > <LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>ide in linux
+2019-01-11 11:44:01+0530 > <LCtrl><LCtrl><LCtrl><PgUp><#+28><PgDn><PgDn><PgDn><PgDn><#+5><PgDn><PgDn><PgDn><PgDn><PgUp>f<BckSp>g<BckSp><BckSp>g
+2019-01-11 11:52:35+0530 > example for usb bluetooth dongle
+2019-01-11 11:52:48+0530 > <Del><Del>
+2019-01-11 11:52:57+0530 > <LCtrl> for andr<Down><BckSp><BckSp>
+2019-01-11 11:53:14+0530 > <LCtrl><LCtrl>c
+2019-01-11 11:53:51+0530 > <LCtrl>v<LCtrl>c
+2019-01-11 11:54:11+0530 > <LCtrl>v as generic <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><#+14><BckSp><#+19><BckSp><BckSp><BckSp><LShft>Please provide the steps according ger<BckSp>neric <LShft>()<Left>usb bluetooth dongle as  and <LShft>Adroid<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LShft>for all <LShft>Andriod <BckSp><BckSp><BckSp><BckSp>oid <LShft>device which is running <LShft>Android <LShft>Oe<BckSp>reo <LShft>Operating system.<BckSp><BckSp><BckSp><Del>g
+2019-01-11 11:56:37+0530 > g
+2019-01-11 11:58:36+0530 > chess.com
+2019-01-11 11:59:06+0530 > chess.com
+2019-01-11 11:59:19+0530 > <CpsLk>VINOTHSARU<CpsLk><Tab>ilovemyinsd<BckSp><#+25>ilovemyindia
+2019-01-11 11:59:38+0530 > pppwi<BckSp>eight
+2019-01-11 12:09:09+0530 > wieght<Left><#+22><Right><Right><Del>v<Left><#+14>ppp
+2019-01-11 12:09:40+0530 > ppp widg<Down> m<BckSp>so<Down>
+2019-01-11 12:15:42+0530 > <LCtrl> code
+2019-01-11 12:15:53+0530 > <LCtrl>driver
+2019-01-11 12:16:05+0530 > <LCtrl> for bluetooth
+2019-01-11 12:16:21+0530 > <LCtrl>fblur<BckSp><Esc><LCtrl>f<Right>e
+2019-01-11 12:16:48+0530 > <Esc><LCtrl><LCtrl>f
+2019-01-11 12:17:58+0530 > 
+2019-01-11 12:17:59+0530 > 
+2019-01-11 12:18:00+0530 > 
+2019-01-11 12:18:00+0530 > 
+2019-01-11 12:18:00+0530 > android 
+2019-01-11 12:18:11+0530 > 
+2019-01-11 12:18:11+0530 > 
+2019-01-11 12:18:11+0530 > 
+2019-01-11 12:18:12+0530 > <LCtrl><LCtrl>c
+2019-01-11 12:42:23+0530 > <LCtrl><Tab><#+17>g
+2019-01-11 12:55:26+0530 > <LShft>USB <LShft>Bluetooth <LShft>Dongle driver for am<BckSp>ndriod<RShft>
+2019-01-11 12:55:45+0530 > <LCtrl>ac
+2019-01-11 12:55:51+0530 > <LCtrl><LCtrl><LCtrl>fdriver
+2019-01-11 12:56:32+0530 > 
+2019-01-11 12:56:33+0530 > 
+2019-01-11 12:56:34+0530 > 
+2019-01-11 12:56:34+0530 > 
+2019-01-11 12:56:35+0530 > 
+2019-01-11 12:56:35+0530 > 
+2019-01-11 12:56:36+0530 > 
+2019-01-11 12:56:36+0530 > 
+2019-01-11 12:56:36+0530 > 
+2019-01-11 12:56:37+0530 > 
+2019-01-11 12:56:37+0530 > 
+2019-01-11 12:56:37+0530 > 
+2019-01-11 12:56:37+0530 > 
+2019-01-11 12:56:37+0530 > 
+2019-01-11 12:56:37+0530 > 
+2019-01-11 12:56:37+0530 > 
+2019-01-11 12:56:38+0530 > <LCtrl><LCtrl>f
+2019-01-11 12:56:52+0530 > 
+2019-01-11 12:56:52+0530 > 
+2019-01-11 12:56:52+0530 > 
+2019-01-11 12:56:52+0530 > <LCtrl><LCtrl><LCtrl><LCtrl>f
+2019-01-11 12:57:15+0530 > 
+2019-01-11 12:57:16+0530 > 
+2019-01-11 12:57:17+0530 > 
+2019-01-11 12:57:17+0530 > 
+2019-01-11 12:57:18+0530 > 
+2019-01-11 12:57:18+0530 > 
+2019-01-11 12:57:21+0530 > 
+2019-01-11 12:57:25+0530 > <LCtrl>c
+2019-01-11 12:57:37+0530 > grep -inr <RShft>""<Left><RShft><Ins><Right> <LShft>*
+2019-01-11 12:57:46+0530 > <LAlt><Tab><LAlt><Tab><Up><Left><Left><Left> v
+2019-01-11 12:57:59+0530 > 
+2019-01-11 12:58:03+0530 > 
+2019-01-11 12:58:03+0530 > <LAlt><Tab>
+2019-01-11 12:58:22+0530 > 
+2019-01-11 12:58:25+0530 > 
+2019-01-11 12:58:26+0530 > 
+2019-01-11 12:58:26+0530 > 
+2019-01-11 12:58:26+0530 > 
+2019-01-11 12:58:27+0530 > 
+2019-01-11 12:58:27+0530 > 
+2019-01-11 12:58:27+0530 > 
+2019-01-11 12:58:28+0530 > <LCtrl>fv<BckSp><#+18>driver
+2019-01-11 12:58:42+0530 > 
+2019-01-11 12:58:42+0530 > <LCtrl><LCtrl>fvz
+2019-01-11 12:59:02+0530 > 
+2019-01-11 12:59:03+0530 > 
+2019-01-11 12:59:05+0530 > 
+2019-01-11 12:59:05+0530 > 
+2019-01-11 12:59:06+0530 > 
+2019-01-11 12:59:06+0530 > 
+2019-01-11 12:59:06+0530 > 
+2019-01-11 12:59:06+0530 > 
+2019-01-11 12:59:07+0530 > 
+2019-01-11 12:59:07+0530 > 
+2019-01-11 12:59:08+0530 > 
+2019-01-11 12:59:09+0530 > 
+2019-01-11 12:59:09+0530 > 
+2019-01-11 12:59:09+0530 > 
+2019-01-11 12:59:09+0530 > 
+2019-01-11 12:59:10+0530 > 
+2019-01-11 12:59:10+0530 > 
+2019-01-11 12:59:11+0530 > 
+2019-01-11 12:59:11+0530 > 
+2019-01-11 12:59:11+0530 > 
+2019-01-11 12:59:12+0530 > 
+2019-01-11 12:59:12+0530 > 
+2019-01-11 12:59:13+0530 > 
+2019-01-11 12:59:13+0530 > 
+2019-01-11 12:59:13+0530 > 
+2019-01-11 12:59:13+0530 > 
+2019-01-11 12:59:13+0530 > 
+2019-01-11 12:59:13+0530 > 
+2019-01-11 12:59:14+0530 > 
+2019-01-11 12:59:14+0530 > 
+2019-01-11 12:59:14+0530 > 
+2019-01-11 12:59:15+0530 > 
+2019-01-11 12:59:15+0530 > 
+2019-01-11 12:59:15+0530 > 
+2019-01-11 12:59:47+0530 > 
+2019-01-11 12:59:49+0530 > <BckSp><#+20>andrio<BckSp><BckSp>oid
+2019-01-11 12:59:57+0530 > 
+2019-01-11 12:59:58+0530 > 
+2019-01-11 12:59:58+0530 > 
+2019-01-11 12:59:58+0530 > 
+2019-01-11 12:59:59+0530 > 
+2019-01-11 12:59:59+0530 > 
+2019-01-11 13:00:00+0530 > 
+2019-01-11 13:00:00+0530 > 
+2019-01-11 13:00:00+0530 > <LCtrl>c
+2019-01-11 13:00:34+0530 > <LCtrl>l
+2019-01-11 13:00:37+0530 > 
+2019-01-11 13:00:37+0530 > grep -inr <RShft>""<Left><RShft><Ins><Right> <LShft>*
+2019-01-11 13:00:44+0530 > 
+2019-01-11 13:00:45+0530 > 
+2019-01-11 13:00:45+0530 > 
+2019-01-11 13:00:46+0530 > 
+2019-01-11 13:00:46+0530 > 
+2019-01-11 13:00:46+0530 > <LAlt><Tab><LCtrl>c
+2019-01-11 13:00:54+0530 > <LAlt><Tab><Up><Left><Left><Left><BckSp><BckSp><BckSp><BckSp><RShft>"<RShft><Ins>
+2019-01-11 13:01:00+0530 > 
+2019-01-11 13:01:02+0530 > 
+2019-01-11 13:01:02+0530 > <LAlt><Tab><LCtrl><LShft>c
+2019-01-11 13:01:13+0530 > <LAlt><Tab><Up><Left><Left><Left><BckSp><BckSp><BckSp><BckSp><RShft><Ins>
+2019-01-11 13:01:17+0530 > <LCtrl>l
+2019-01-11 13:01:24+0530 > 
+2019-01-11 13:01:24+0530 > <LAlt><Tab><LCtrl>c
+2019-01-11 13:01:33+0530 > <LAlt><Tab><Up><Left><Left><Left><BckSp><BckSp><BckSp><BckSp><BckSp><RShft><Ins><LCtrl>c
+2019-01-11 13:01:40+0530 > <Up><Left><Left><Left><Left><Right><RShft><Ins><LCtrl>c
+2019-01-11 13:01:43+0530 > <LAlt><Tab><LCtrl>c
+2019-01-11 13:01:45+0530 > <LAlt><Tab><Up><Left><Left><Left><RShft><Ins><LCtrl>c
+2019-01-11 13:01:49+0530 > 
+2019-01-11 13:01:49+0530 > 
+2019-01-11 13:01:50+0530 > <Up><Left><Left><Left>blist
+2019-01-11 13:01:54+0530 > <LAlt><Tab><LCtrl>c
+2019-01-11 13:02:00+0530 > <LAlt><Tab><Up><Left><Left><Left><Left><Right><BckSp><BckSp><BckSp><BckSp><BckSp><RShft><Ins><LCtrl>c
+2019-01-11 13:02:05+0530 > <Tab><LAlt><Tab><LAlt><Tab><Up><Left><Left><Left><LAlt><Tab><LAlt><Tab>shed<LAlt><Tab><LAlt><Tab><BckSp>n<LAlt><Tab><LAlt><Tab>zhen
+2019-01-11 13:02:19+0530 > <LAlt><Tab><LAlt><Tab>
+2019-01-11 13:02:23+0530 > 
+2019-01-11 13:02:23+0530 > 
+2019-01-11 13:02:23+0530 > <Up><Left><Left><Left><BckSp><BckSp>
+2019-01-11 13:02:26+0530 > <Up><Left><Left><Left><BckSp><BckSp>
+2019-01-11 13:02:30+0530 > <LAlt><Tab><LAlt><Tab><Up><Left><Left><Left><BckSp><BckSp><BckSp><BckSp>version
+2019-01-11 13:02:43+0530 > <LCtrl>c
+2019-01-11 13:02:46+0530 > <Up><Left><Left><Left> 4
+2019-01-11 13:02:48+0530 > <LAlt><Tab><LAlt><Tab><Up><Left><Left><#+1><Left><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>oreo
+2019-01-11 13:03:00+0530 > 
+2019-01-11 13:03:01+0530 > 
+2019-01-11 13:03:02+0530 > ls
+2019-01-11 13:03:10+0530 > rm -rf <RShft><Ins>
+2019-01-11 13:03:20+0530 > ls
+2019-01-11 13:03:21+0530 > <LCtrl>l
+2019-01-11 13:03:23+0530 > 
+2019-01-11 13:03:23+0530 > ls
+2019-01-11 13:03:24+0530 > cd ../
+2019-01-11 13:03:26+0530 > ls
+2019-01-11 13:03:28+0530 > cd ../../
+2019-01-11 13:03:31+0530 > 
+2019-01-11 13:03:31+0530 > 
+2019-01-11 13:03:31+0530 > 
+2019-01-11 13:03:32+0530 > ls
+2019-01-11 13:03:32+0530 > 
+2019-01-11 13:03:33+0530 > 
+2019-01-11 13:03:33+0530 > rm -rf s<Tab>.<Tab>sd<Tab>
+2019-01-11 13:03:43+0530 > <LCtrl>lls
+2019-01-11 13:03:44+0530 > 
+2019-01-11 13:03:44+0530 > 
+2019-01-11 13:03:45+0530 > 
+2019-01-11 13:03:45+0530 > 
+2019-01-11 13:03:45+0530 > <Up><Up><Up><Up><Up><Down><Up><Up><Up><Up><Up><Up><Up><Down>
+2019-01-11 13:03:51+0530 > <LCtrl>c
+2019-01-11 13:04:29+0530 > <Up><Left><Left><Left><Left><Left><Left><Left> <Right><Right><Right><Right> 
+2019-01-11 13:04:33+0530 > <Up><Left><#+8><Left><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>andriod
+2019-01-11 13:06:39+0530 > <LCtrl>c
+2019-01-11 13:06:41+0530 > <Up><Left><Left><Left><Left><Left><BckSp><Right>i
+2019-01-11 13:06:45+0530 > 
+2019-01-11 13:07:36+0530 > 
+2019-01-11 13:07:36+0530 > <Up><Left><Left><Left> version
+2019-01-11 13:07:42+0530 > <LAlt><Tab><LCtrl>c
+2019-01-11 13:08:06+0530 > <LCtrl>l
+2019-01-11 13:08:07+0530 > 
+2019-01-11 13:08:07+0530 > 
+2019-01-11 13:08:07+0530 > <Up><Left><Left><Left><BckSp><#+16><BckSp><BckSp><BckSp>csr <Left>
+2019-01-11 13:08:14+0530 > <LCtrl>c
+2019-01-11 13:08:16+0530 > <Up><Left><#+11><Left> 
+2019-01-11 13:08:18+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LCtrl>c
+2019-01-11 13:08:42+0530 > <Up><Left><Left><Left><Left> <LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><RShft>"<Right><BckSp>oem
+2019-01-11 13:08:56+0530 > <LCtrl>c
+2019-01-11 13:08:58+0530 > <Up><Left><#+13><Right><Right><Right><Left> <Right><Right><Right> 
+2019-01-11 13:09:02+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LCtrl><LCtrl>c
+2019-01-11 13:09:53+0530 > <LAlt><Tab><LCtrl>c
+2019-01-11 13:09:55+0530 > <Up><Left><Left><Left><Left><Right><BckSp><BckSp><BckSp><BckSp><BckSp>dongle
+2019-01-11 13:10:01+0530 > <LCtrl>c
+2019-01-11 13:11:23+0530 > <LAlt><Tab><LCtrl>f
+2019-01-11 13:11:47+0530 > <#+2>
+2019-01-11 13:11:47+0530 > 
+2019-01-11 13:11:48+0530 > 
+2019-01-11 13:11:48+0530 > 
+2019-01-11 13:11:48+0530 > 
+2019-01-11 13:11:49+0530 > 
+2019-01-11 13:11:49+0530 > 
+2019-01-11 13:11:49+0530 > 
+2019-01-11 13:11:50+0530 > 
+2019-01-11 13:11:50+0530 > <LCtrl>d
+2019-01-11 13:12:45+0530 > <LCtrl>f<Esc><#+4><LCtrl>fchip
+2019-01-11 13:12:51+0530 > <BckSp><BckSp><BckSp><BckSp><BckSp>dongler<BckSp>
+2019-01-11 13:12:55+0530 > 
+2019-01-11 13:12:59+0530 > 
+2019-01-11 13:12:59+0530 > 
+2019-01-11 13:13:02+0530 > 
+2019-01-11 13:13:03+0530 > 
+2019-01-11 13:13:03+0530 > 
+2019-01-11 13:13:03+0530 > <LCtrl><LCtrl><LCtrl><LAlt><Tab><LCtrl>l<Up><Left><Left><Left><Left><Left><Left><Left><Left><Left><LCtrl><LShft>c
+2019-01-11 13:13:45+0530 > f<BckSp><BckSp>g
+2019-01-11 13:13:52+0530 > <LCtrl>v
+2019-01-11 13:14:15+0530 > <#+2><LAlt><Tab><LCtrl><LShft>c
+2019-01-11 13:24:38+0530 > <LAlt><Tab><LCtrl>v
+2019-01-11 13:24:43+0530 > <LAlt><Tab><LCtrl><LShft>c
+2019-01-11 13:25:09+0530 > <LAlt><Tab><LCtrl>av
+2019-01-11 13:25:13+0530 > <LAlt><Tab><LCtrl>l<Del><#+28><RShft><LShft>bluetooth<RShft>":<BckSp> <LShft>*
+2019-01-11 13:25:32+0530 > <LCtrl><LShft>c
+2019-01-11 13:26:24+0530 > <LCtrl>v
+2019-01-11 13:26:28+0530 > <LCtrl><LAlt><Tab><LCtrl><LShft>c
+2019-01-11 13:26:45+0530 > <LAlt><Tab><LCtrl>v
+2019-01-11 13:27:00+0530 > <BckSp><#+9><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>
+2019-01-11 13:27:09+0530 > <LCtrl><LCtrl>fbluet
+2019-01-11 13:27:33+0530 > <Esc><LAlt><Tab><LCtrl><LShft>c
+2019-01-11 13:29:16+0530 > <LCtrl>av
+2019-01-11 13:29:22+0530 > <LCtrl><LCtrl><LShft>c
+2019-01-11 13:29:56+0530 > <LAlt><Tab><LCtrl>v
+2019-01-11 13:30:00+0530 >  <LCtrl><LAlt><Tab><LCtrl>l
+2019-01-11 13:30:24+0530 > 
+2019-01-11 13:30:24+0530 > 
+2019-01-11 13:30:24+0530 > <Up><Left><#+17>usb 
+2019-01-11 13:30:27+0530 > <LCtrl><LCtrl><LShft>c
+2019-01-11 13:30:51+0530 > <LCtrl>v
+2019-01-11 13:30:55+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LShft>Hi <LShft>Sir,
+2019-01-11 13:31:33+0530 > 
+2019-01-11 13:31:33+0530 > 
+2019-01-11 13:31:33+0530 > 
+2019-01-11 13:31:33+0530 > <Down><LShft>Than<BckSp><BckSp><BckSp><BckSp><LShft>Regards,<Down><Down><Left><#+11><Left><LShft><Down><#+34><Del><Del><Del><Up><#+10>
+2019-01-11 13:31:49+0530 > 
+2019-01-11 13:31:49+0530 > <Up><Up>
+2019-01-11 13:31:51+0530 > 
+2019-01-11 13:31:51+0530 > <Up><LShft>Please find the link for bluetooth driver<BckSp><#+14><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LShft>Blu<BckSp><BckSp>luetooth driver<RShft>:
+2019-01-11 13:32:21+0530 > <Tab><Tab>
+2019-01-11 13:32:22+0530 > <Tab><Tab><Tab><LCtrl>c
+2019-01-11 13:32:32+0530 > <LCtrl>v
+2019-01-11 13:32:38+0530 > 
+2019-01-11 13:32:38+0530 > 
+2019-01-11 13:32:38+0530 > 
+2019-01-11 13:32:38+0530 > 
+2019-01-11 13:32:38+0530 > <Up><#+14><Up><Up>
+2019-01-11 13:32:40+0530 > <LShft>Porting <LShft>Bluetooth <LShft>Driver <LShft>On <LShft>Bluetooth <LShft>USB<BckSp><#+15><BckSp><BckSp><BckSp><LShft>USB <LShft>Bluetot<BckSp>to<BckSp><BckSp>oth <LShft>Dongle
+2019-01-11 13:33:21+0530 > <Down><#+13><Down>
+2019-01-11 13:33:23+0530 > <LCtrl>c
+2019-01-11 13:33:51+0530 > 
+2019-01-11 13:34:02+0530 > 
+2019-01-11 13:34:02+0530 > 
+2019-01-11 13:34:02+0530 > 
+2019-01-11 13:34:03+0530 > 
+2019-01-11 13:34:03+0530 > 
+2019-01-11 13:34:03+0530 > 
+2019-01-11 13:34:03+0530 > <Up><Left><Left><Left><Left><Right><BckSp><#+14><BckSp><BckSp><BckSp><BckSp><RCtrl><RShft><Ins>
+2019-01-11 13:34:09+0530 > <LCtrl><LShft>Tvim <RShft><Ins>
+2019-01-11 13:34:32+0530 > /usb bluetooth
+2019-01-11 13:34:40+0530 > <LCtrl><LShft>c
+2019-01-11 13:34:55+0530 > /<RShft><Ins>
+2019-01-11 13:34:58+0530 > /<Up>
+2019-01-11 13:35:07+0530 > /<Up>
+2019-01-11 13:35:09+0530 > <RShft>:q
+2019-01-11 13:35:19+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><Up><Left><Left><Left> <LShft>CN
+2019-01-11 13:35:34+0530 > <LAlt><Tab><LCtrl>c
+2019-01-11 13:36:12+0530 > 4. <LShft>Bluetooth <LShft>Chip<RShft>:
+2019-01-11 13:36:27+0530 > <Tab>
+2019-01-11 13:36:28+0530 > <Tab><Tab><LCtrl>v
+2019-01-11 13:36:29+0530 > 
+2019-01-11 13:36:29+0530 > 
+2019-01-11 13:36:30+0530 > 5. <LAlt><Tab><LAlt><Tab><LCtrl>l
+2019-01-11 13:37:36+0530 > 
+2019-01-11 13:37:36+0530 > 
+2019-01-11 13:37:36+0530 > 
+2019-01-11 13:37:36+0530 > 
+2019-01-11 13:37:36+0530 > 
+2019-01-11 13:37:36+0530 > 
+2019-01-11 13:37:37+0530 > <Up><Left><Left><Left><BckSp><#+14><BckSp>andri<BckSp>oid 8
+2019-01-11 13:37:47+0530 > <LCtrl>fporti<BckSp><#+19><Esc><LCtrl><LCtrl>fandr
+2019-01-11 13:39:34+0530 > 
+2019-01-11 13:39:35+0530 > 
+2019-01-11 13:39:36+0530 > 
+2019-01-11 13:39:37+0530 > <LCtrl>f<Right>iod<BckSp><BckSp><BckSp>oid
+2019-01-11 13:40:17+0530 > 
+2019-01-11 13:40:18+0530 > 
+2019-01-11 13:40:21+0530 > <LCtrl>c
+2019-01-11 13:40:27+0530 > <LCtrl>v<LCtrl>flipkart
+2019-01-11 13:42:12+0530 > bluetoo<BckSp><#+22><Down>
+2019-01-11 13:42:26+0530 > <Up><Left><Left><Left><BckSp>
+2019-01-11 13:42:36+0530 > <LCtrl>c
+2019-01-11 13:43:00+0530 > <LCtrl>l
+2019-01-11 13:43:01+0530 > 
+2019-01-11 13:43:01+0530 > <Up><Left><Left><Left><Left><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>version
+2019-01-11 13:43:08+0530 > <Down><LCtrl>c
+2019-01-11 13:43:25+0530 > 
+2019-01-11 13:43:25+0530 > 
+2019-01-11 13:43:26+0530 > 
+2019-01-11 13:43:26+0530 > 
+2019-01-11 13:43:26+0530 > <Up><BckSp><#+15>andriod v<BckSp><BckSp><BckSp><BckSp><BckSp>oid version <LShft>*
+2019-01-11 13:43:40+0530 > <LCtrl>c
+2019-01-11 13:43:41+0530 > <Up> <LShft>*<Left><Left><Left><BckSp>
+2019-01-11 13:43:45+0530 > <LCtrl>c
+2019-01-11 13:43:48+0530 > <Up><Left><Left><BckSp><RShft>"
+2019-01-11 13:43:50+0530 > <Down><Left>
+2019-01-11 13:45:09+0530 > 
+2019-01-11 13:45:09+0530 > 
+2019-01-11 13:45:10+0530 > 
+2019-01-11 13:45:10+0530 > 
+2019-01-11 13:45:10+0530 > 
+2019-01-11 13:45:10+0530 > 
+2019-01-11 13:45:10+0530 > <LCtrl><LCtrl>x<LCtrl><Up><Down><BckSp><BckSp><BckSp><LCtrl>c
+2019-01-11 13:45:17+0530 > 
+2019-01-11 13:45:18+0530 > 
+2019-01-11 13:45:18+0530 > <LCtrl>l
+2019-01-11 13:45:19+0530 > 
+2019-01-11 13:45:19+0530 > <Up><Up>
+2019-01-11 13:45:21+0530 > <LCtrl>
+2019-01-11 13:46:54+0530 > 
+2019-01-11 13:46:54+0530 > 
+2019-01-11 13:46:54+0530 > <LAlt><Tab><LCtrl><LCtrl>fandroi<BckSp><#+18>andr<BckSp><BckSp><#+18><Esc><LCtrl>fandroid
+2019-01-11 13:49:07+0530 > 
+2019-01-11 13:49:08+0530 > 
+2019-01-11 13:49:08+0530 > <Esc><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><Up><Left><Left><Left><BckSp><#+14><BckSp><BckSp><BckSp><BckSp><BckSp>t<BckSp>rtl
+2019-01-11 13:49:43+0530 > <LCtrl>c
+2019-01-11 13:49:45+0530 > <Up><Left><Left><Left>87
+2019-01-11 13:49:49+0530 > <LAlt><Tab><LCtrl>c
+2019-01-11 13:50:28+0530 > <LCtrl><LShft>c
+2019-01-11 13:50:33+0530 > <LAlt><Tab><LCtrl><LCtrl>v <Down> <Down> <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>android
+2019-01-11 13:50:54+0530 > <LCtrl>bluetooth 
+2019-01-11 13:51:07+0530 > <LCtrl><LCtrl><PgDn><PgDn><Left><Left>external 
+2019-01-11 13:53:37+0530 > android <BckSp><#+19>usb bluetooth ch<BckSp><BckSp>dongle for android
+2019-01-11 13:54:41+0530 > <LCtrl><LCtrl>f
+2019-01-11 13:55:40+0530 > 
+2019-01-11 13:55:41+0530 > 
+2019-01-11 13:55:41+0530 > <Esc><LCtrl>f
+2019-01-11 13:57:33+0530 > 
+2019-01-11 13:57:33+0530 > 
+2019-01-11 13:57:33+0530 > <LCtrl><LCtrl>f
+2019-01-11 14:01:02+0530 > 
+2019-01-11 14:01:03+0530 > windo
+2019-01-11 14:01:07+0530 > 
+2019-01-11 14:01:07+0530 > 
+2019-01-11 14:01:08+0530 > <LCtrl>c
+2019-01-11 14:01:28+0530 > c
+2019-01-11 14:01:28+0530 > c
+2019-01-11 14:01:28+0530 > <LCtrl>tv
+2019-01-11 14:01:31+0530 >  andr<Down>
+2019-01-11 14:01:39+0530 > <LCtrl><LCtrl>fvzz
+2019-01-11 14:02:14+0530 > 
+2019-01-11 14:02:15+0530 > 
+2019-01-11 14:02:15+0530 > <LCtrl>f
+2019-01-11 14:02:31+0530 > 
+2019-01-11 14:02:32+0530 > <LCtrl>fvz
+2019-01-11 14:02:52+0530 > 
+2019-01-11 14:02:53+0530 > 
+2019-01-11 14:02:53+0530 > 
+2019-01-11 14:02:53+0530 > <LCtrl><LCtrl>usb bluetooth s<BckSp>dongle for anf<BckSp>driod
+2019-01-11 14:04:29+0530 > bluetooth dongle
+2019-01-11 14:04:43+0530 > <LCtrl><LCtrl>f
+2019-01-11 14:06:13+0530 > 
+2019-01-11 14:06:13+0530 > wind
+2019-01-11 14:06:16+0530 > <Esc><LCtrl>fvzz<LCtrl>l
+2019-01-11 14:06:53+0530 > 
+2019-01-11 14:06:53+0530 > <Up><Left><Left><Left><BckSp><BckSp><BckSp><BckSp><BckSp>ultran
+2019-01-11 14:06:58+0530 > <LAlt><Tab><LAlt><Tab><LCtrl>c
+2019-01-11 14:07:03+0530 > <Up><Left><Left><Left><Left><BckSp>o
+2019-01-11 14:07:05+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LCtrl>c
+2019-01-11 14:07:19+0530 > <LShft>Drivers with <LShft>Chip<LAlt><Tab><LCtrl><LCtrl>f
+2019-01-11 14:09:45+0530 > 
+2019-01-11 14:09:47+0530 > <LCtrl><LCtrl>x<LCtrl><LShft>Reference
+2019-01-11 14:11:42+0530 > 
+2019-01-11 14:11:43+0530 > <LCtrl>v<LCtrl>tflipkart
+2019-01-11 14:24:00+0530 > redmin<BckSp><BckSp><BckSp>mi not<Down><Down> <Down><Down><Down>
+2019-01-11 14:24:22+0530 > <LCtrl><LCtrl><LCtrl><Right><Right><Esc><LCtrl><LCtrl><LCtrl><LCtrl>f
+2019-01-11 14:33:53+0530 > 
+2019-01-11 14:33:53+0530 > 
+2019-01-11 14:33:53+0530 > windo<LCtrl>c
+2019-01-11 14:34:02+0530 > c
+2019-01-11 14:34:02+0530 > <LCtrl>fv<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>windoe<BckSp><BckSp><BckSp><#+14>android
+2019-01-11 14:34:39+0530 > 
+2019-01-11 14:34:40+0530 > 
+2019-01-11 14:34:40+0530 > 
+2019-01-11 14:34:41+0530 > 
+2019-01-11 14:34:41+0530 > <BckSp>
+2019-01-11 14:34:45+0530 > <BckSp><BckSp>
+2019-01-11 14:34:46+0530 > 
+2019-01-11 14:34:47+0530 > 
+2019-01-11 14:34:48+0530 > 
+2019-01-11 14:34:49+0530 > 
+2019-01-11 14:34:54+0530 > 
+2019-01-11 14:34:54+0530 > <LCtrl>f
+2019-01-11 14:35:27+0530 > 
+2019-01-11 14:35:28+0530 > <Up><Left><Left><Left><Left><Right><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>windows
+2019-01-11 14:36:10+0530 > <LCtrl>c
+2019-01-11 14:36:14+0530 > <Up><Up><Left><Left><Left><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>os su
+2019-01-11 14:36:21+0530 > <LCtrl>c
+2019-01-11 14:36:26+0530 > <Up><Left><Left><Left><Left><Left><Left><Left><Left> <Right><#+11><Left>pport
+2019-01-11 14:36:33+0530 > g
+2019-01-11 14:37:07+0530 > stackoverflow
+2019-01-11 14:37:37+0530 > <LCtrl>fbuo<BckSp>ild
+2019-01-11 14:38:17+0530 > 
+2019-01-11 14:38:18+0530 > 
+2019-01-11 14:38:18+0530 >  
+2019-01-11 14:38:20+0530 > <Esc><#+4><LCtrl>a<BckSp>andrio<BckSp><BckSp>oid oreo usb bluett<BckSp>ooth
+2019-01-11 14:39:30+0530 > <BckSp><#+13><BckSp>
+2019-01-11 14:39:45+0530 > <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>
+2019-01-11 14:39:53+0530 > usb bluettoh <BckSp><BckSp><BckSp><BckSp>ooth dongle<LCtrl><LCtrl><LCtrl>tdse
+2019-01-11 14:52:46+0530 >  in electr<Down>
+2019-01-11 14:53:01+0530 > g
+2019-01-11 14:53:33+0530 > porting bluetooth driver
+2019-01-11 14:53:44+0530 > <LCtrl><LCtrl><LCtrl>fporting<LCtrl>c
+2019-01-11 14:56:06+0530 > fv
+2019-01-11 14:56:07+0530 > 
+2019-01-11 14:56:08+0530 > 
+2019-01-11 14:56:18+0530 > 
+2019-01-11 14:56:18+0530 > 
+2019-01-11 14:56:19+0530 > 
+2019-01-11 14:56:20+0530 > 
+2019-01-11 14:56:21+0530 > <LCtrl>g
+2019-01-11 14:57:23+0530 > user guide g<BckSp>for bluetooth driver poe<BckSp>ri<BckSp>ting
+2019-01-11 14:57:44+0530 > <LCtrl><LCtrl><LCtrl><LCtrl><LCtrl>f<Right>
+2019-01-11 14:59:36+0530 > 
+2019-01-11 14:59:37+0530 > <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>
+2019-01-11 14:59:48+0530 > 
+2019-01-11 14:59:50+0530 > 
+2019-01-11 14:59:51+0530 > 
+2019-01-11 14:59:55+0530 > 
+2019-01-11 14:59:59+0530 > 
+2019-01-11 15:00:01+0530 > 
+2019-01-11 15:00:03+0530 > 
+2019-01-11 15:00:04+0530 > 
+2019-01-11 15:00:05+0530 > 
+2019-01-11 15:00:07+0530 > 
+2019-01-11 15:00:11+0530 > 
+2019-01-11 15:00:12+0530 > 
+2019-01-11 15:00:14+0530 > <LCtrl>f
+2019-01-11 15:00:22+0530 > 
+2019-01-11 15:00:26+0530 > 
+2019-01-11 15:00:26+0530 >  in ubd<BckSp><BckSp>sb blu<Down> di<BckSp>ongle
+2019-01-11 15:01:31+0530 > <LCtrl><LCtrl>fandroir<BckSp><BckSp><LCtrl><LCtrl><LCtrl>f
+2019-01-11 15:02:20+0530 > 
+2019-01-11 15:02:20+0530 > 
+2019-01-11 15:02:21+0530 > <LCtrl><LCtrl><LCtrl>f
+2019-01-11 15:02:35+0530 > 
+2019-01-11 15:02:35+0530 > 
+2019-01-11 15:02:35+0530 > driver
+2019-01-11 15:02:48+0530 > 
+2019-01-11 15:02:48+0530 > 
+2019-01-11 15:02:49+0530 > 
+2019-01-11 15:02:50+0530 > 
+2019-01-11 15:02:50+0530 > <BckSp><BckSp><BckSp><#+17>android
+2019-01-11 15:02:56+0530 > <Left>linux 
+2019-01-11 15:03:10+0530 > <LCtrl><LCtrl><LCtrl>f<RShft><RShft>
+2019-01-11 15:03:48+0530 > 
+2019-01-11 15:03:49+0530 > windows
+2019-01-11 15:03:53+0530 > 
+2019-01-11 15:03:53+0530 > <#+1>
+2019-01-11 15:03:55+0530 > <#+1>
+2019-01-11 15:03:55+0530 > 
+2019-01-11 15:03:56+0530 > 
+2019-01-11 15:03:56+0530 > <BckSp><#+23>andr<BckSp><#+18>port
+2019-01-11 15:04:14+0530 > 
+2019-01-11 15:04:15+0530 > 
+2019-01-11 15:04:16+0530 > 
+2019-01-11 15:04:16+0530 > 
+2019-01-11 15:04:16+0530 > 
+2019-01-11 15:04:17+0530 > 
+2019-01-11 15:04:17+0530 > 
+2019-01-11 15:04:17+0530 > 
+2019-01-11 15:04:18+0530 > 
+2019-01-11 15:04:18+0530 > 
+2019-01-11 15:04:20+0530 > 
+2019-01-11 15:04:20+0530 > <BckSp><#+16>install
+2019-01-11 15:04:26+0530 > 
+2019-01-11 15:04:26+0530 > 
+2019-01-11 15:04:26+0530 > 
+2019-01-11 15:04:28+0530 > android<RShft>
+2019-01-11 15:04:48+0530 > <LShft><LCtrl><LCtrl>fbluetooth
+2019-01-11 15:05:19+0530 > 
+2019-01-11 15:05:20+0530 > 
+2019-01-11 15:05:21+0530 > 
+2019-01-11 15:05:21+0530 > 
+2019-01-11 15:05:21+0530 > 
+2019-01-11 15:05:21+0530 > <BckSp><#+22>andr
+2019-01-11 15:05:26+0530 > oreo<BckSp><#+21>porti<BckSp>
+2019-01-11 15:05:45+0530 > 
+2019-01-11 15:05:46+0530 > 
+2019-01-11 15:05:46+0530 > 
+2019-01-11 15:05:47+0530 > 
+2019-01-11 15:05:47+0530 > 
+2019-01-11 15:05:49+0530 > <Del>oreo
+2019-01-11 15:06:29+0530 > <LCtrl><LCtrl><Left>a<BckSp><LShft>Android 
+2019-01-11 15:06:45+0530 > <LCtrl><LCtrl><LCtrl>f<LCtrl>zzzzzzzzzzzzzz
+2019-01-11 15:07:13+0530 > 
+2019-01-11 15:07:13+0530 > g
+2019-01-11 15:07:28+0530 > afr<BckSp><BckSp><BckSp><LCtrl>c
+2019-01-11 15:07:46+0530 > <LCtrl>v<LShft><LShft><LShft>USB <LShft>Bluetooth <LShft>Dongle <RShft>:
+2019-01-11 15:08:39+0530 > <BckSp><BckSp><BckSp><#+12><BckSp><BckSp><BckSp><BckSp> <LShft>RTL8723<LShft>BU
+2019-01-11 15:09:01+0530 > <LShft>Andriod <BckSp><BckSp><BckSp><BckSp>oid<RShft>: <LShft>Redmi not<BckSp><#+14> <LShft>All <BckSp><BckSp><BckSp><BckSp><LShft>Any <LShft>Android <LShft>device <LShft>()<Left>r<BckSp>with <LShft>Andri<BckSp>oif<BckSp>d <LShft>Oreo<Right>
+2019-01-11 15:10:21+0530 > <Up><LShft>Thank you for your reply.<Down><#+5><Up>
+2019-01-11 15:10:33+0530 > <Down><Down><Down><Down>
+2019-01-11 15:10:34+0530 > 
+2019-01-11 15:10:34+0530 > <LShft>Please provide steps for <LShft>RTL8723<LShft>BU andri<BckSp>oid oreo porting on <LShft><LShft><LShft>USB <LShft>Bluetooth <LShft>Dongd<BckSp><BckSp>gle.<BckSp>.<BckSp><BckSp>with external bluetooth <CpsLk><CpsLk>adapter
+2019-01-11 15:12:33+0530 > <LCtrl><LCtrl><Del><Del><Right><#+16><Left><Left><Left>usb <End> for a<BckSp>redmi
+2019-01-11 15:14:18+0530 > <LCtrl><LCtrl>f
+2019-01-11 15:15:11+0530 > 
+2019-01-11 15:15:11+0530 > 
+2019-01-11 15:15:12+0530 > <Esc><LCtrl>fos 
+2019-01-11 15:15:26+0530 > <BckSp><#+15><Esc>android
+2019-01-11 15:17:03+0530 > <LCtrl><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><#+16><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><#+18><Down><#+21><Down><#+16><Down>g
+2019-01-11 15:20:39+0530 > <LCtrl>c
+2019-01-11 15:20:52+0530 > <LCtrl>v<Del><LCtrl>zz<LCtrl>v<LCtrl>c
+2019-01-11 15:23:22+0530 > <LCtrl>tv
+2019-01-11 15:23:23+0530 > <LCtrl>xav
+2019-01-11 15:23:32+0530 > <LCtrl><Down><#+17><Down><Down><#+20><Up><#+14><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><#+48>usb bluetooth <BckSp><#+26>bluetooth usb ap<BckSp>dapter for andriod <BckSp><#+14><BckSp><BckSp><BckSp>andr<BckSp><BckSp><BckSp><BckSp><LCtrl>android orea<BckSp>o<BckSp><BckSp><BckSp><BckSp><BckSp><LCtrl><LCtrl><LCtrl><Esc><#+1> <Esc><LCtrl><Del><Del><Del><Esc><Down><#+28>   
+2019-01-11 15:30:22+0530 > f<RShft>WE
+2019-01-11 15:30:22+0530 > d<RShft><LCtrl><LCtrl><LCtrl>c
+2019-01-11 15:33:44+0530 > c
+2019-01-11 15:33:44+0530 > <LCtrl>tg
+2019-01-11 15:33:47+0530 > <LCtrl>v<LCtrl><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Del>z<Up><Up><Up><Up><Up><LShft>Still, <LShft>I am checking the dr<BckSp><BckSp>bluetooth dr<BckSp><#+14><BckSp><BckSp><BckSp><LShft>Bluetooth <LShft>Driver <LShft><LShft>Pao<BckSp><BckSp>oa<BckSp>t<BckSp>rting <LShft>Steps<Up><Down><Down><Left><Left><#+42><Left><Left><Left><Right><Right><Del><Del><Del><Del><Del><Del><Del><Del><Del> looking into <Del><Del><Del> <LShft>()<Left><Right><#+22><Left><#+11><Right><Right><Left><Left><Left><Left><Left>any <Right><#+11><Right><Right> device<Down><Up> <LShft>(<Right><Right><#+17><Left><Left><LShft>)<LShft>RTL8723<LShft>Aug
+2019-01-11 15:44:07+0530 > g
+2019-01-11 15:46:36+0530 > <#+1>bronze<Down><Up><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><LCtrl><BckSp><BckSp><#+45>connect external usb bluetoo<Down> 
+2019-01-11 15:50:58+0530 > <LCtrl> to androir
+2019-01-11 15:52:05+0530 > <BckSp>d
+2019-01-11 15:52:08+0530 > <LCtrl><LCtrl><LCtrl><Down><Down><Down><#+13><Down><Up><Down><Down><Down><Down><LCtrl><LCtrl><LCtrl>c
+2019-01-11 15:59:25+0530 > <LShft>Hi <LShft><LShft><BckSp>,
+2019-01-11 15:59:34+0530 > <LShft>Pl<BckSp><BckSp>
+2019-01-11 15:59:38+0530 > <BckSp><Tab><LShft>Please checkout <RShft>""<Left><RShft><Ins><LCtrl><LShft><Left><#+17><Right><Right><Right><Right><Left><LCtrl>b<Down>
+2019-01-11 16:00:00+0530 > 
+2019-01-11 16:00:00+0530 > <LShft>Regards,
+2019-01-11 16:00:04+0530 > <LShft>Vinoth<LShft>S<LShft><LShft>U<BckSp><LShft>Bluett<BckSp>ooth <LShft>USb<BckSp><LShft>B <LShft>Dongle <LShft>With <LShft>Andriod<BckSp><BckSp><BckSp>oid<LCtrl>c
+2019-01-11 16:00:51+0530 > 
+2019-01-11 16:00:56+0530 > 
+2019-01-11 16:00:56+0530 > 
+2019-01-11 16:00:56+0530 > <Up><Up><Up><Up><LShft><Down><LCtrl><LCtrl> 
+2019-01-11 16:00:59+0530 > v<Up><Left><LShft>()<Left><LShft>RTL8723<LShft>AU<Right><Right><Right><#+16><Right><LShft>(<End><Left><LShft>)<Left><BckSp>g
+2019-01-11 16:13:25+0530 > g
+2019-01-11 16:15:21+0530 > chess.com
+2019-01-11 16:15:28+0530 > <LCtrl><LCtrl><LCtrl><LShft>Bluer<BckSp>tooth for android 8<LCtrl><LCtrl><LCtrl>xb<Left><Left>
+2019-01-11 16:20:13+0530 > <LCtrl>v<RShft><Del>
+2019-01-11 16:20:27+0530 > <LShft>Bluetooth <LShft>Mae<BckSp>shmellow
+2019-01-11 16:20:44+0530 > <LCtrl>x<LCtrl>v<BckSp><LCtrl><LCtrl>c
+2019-01-11 16:21:36+0530 > <LAlt><Tab><LAlt><Tab><LShft>Poring <BckSp><BckSp><BckSp><BckSp>ting <LShft>Guid<Esc><#+1><LShft>Hi <LShft>Sir,
+2019-01-11 16:22:13+0530 > 
+2019-01-11 16:22:13+0530 > 
+2019-01-11 16:22:14+0530 > 
+2019-01-11 16:22:14+0530 > <Up><#+3><LShft>Please<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LShft>Update for <LCtrl>c
+2019-01-11 16:22:28+0530 > <LCtrl>v,
+2019-01-11 16:22:31+0530 > 
+2019-01-11 16:22:31+0530 > <Down><Down><LShft>Tgha<BckSp><BckSp><BckSp>hanks <LShft>& <LShft>Regards,<Down><LShft><Down><Down><Down><Down><Down><Down><Down><Down><Del><Up><Up><Up>
+2019-01-11 16:22:46+0530 > <Down><#+7><Down><Down><Down><Down><LShft><Down><Down><Down><Down><Down><Down><Down><Del><Down><LShft><Down><Down><LShft><Down><Down><Down><LCtrl>x<Up><#+11><Up><Up><LCtrl>v<Up><Up><Up><Tab><Down><Down><Down><#+13><LShft><Down><#+31><Del><Up><#+12><Down>
+2019-01-11 16:23:05+0530 > 
+2019-01-11 16:23:06+0530 > 
+2019-01-11 16:23:06+0530 > 
+2019-01-11 16:23:06+0530 > 
+2019-01-11 16:23:06+0530 > 
+2019-01-11 16:23:06+0530 > <Up><Up><LCtrl>
+2019-01-11 16:23:09+0530 > 
+2019-01-11 16:23:09+0530 > 
+2019-01-11 16:23:09+0530 > <Up><Up><Up><Up><LShft>Steps <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><Up><Up><Tab><LShft>Steps for <LShft>Porting <LShft><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LShft>Bluetooth <LShft>Driver <End>in <LShft>Bluetooth <LShft>USB <LShft>Dongle,
+2019-01-11 16:24:09+0530 > <Tab>
+2019-01-11 16:24:10+0530 > <Tab>1. <LAlt><Tab><LCtrl>c
+2019-01-11 16:24:14+0530 > <LAlt><Tab>g
+2019-01-11 16:24:18+0530 > <LCtrl>v<LAlt><Tab><LCtrl>c
+2019-01-11 16:24:38+0530 > <LAlt><Tab><LCtrl>av<LAlt><Tab><LCtrl>c
+2019-01-11 16:24:50+0530 > <#+5><LAlt><Tab><LCtrl>av<LAlt><Tab><LCtrl>c
+2019-01-11 16:25:55+0530 > <LAlt><Tab><LCtrl>av<LAlt><Tab><LAlt><Tab><LAlt><Tab><LCtrl>c
+2019-01-11 16:27:42+0530 > <LCtrl>av<LAlt><Tab><LCtrl>c
+2019-01-11 16:28:09+0530 > <LCtrl>v
+2019-01-11 16:28:14+0530 > <BckSp><BckSp><BckSp>8
+2019-01-11 16:28:32+0530 > <LCtrl><LCtrl><Del>
+2019-01-11 17:17:16+0530 > <LCtrl><LCtrl>fbluet
+2019-01-11 17:21:09+0530 > 
+2019-01-11 17:21:09+0530 > 
+2019-01-11 17:21:11+0530 > 
+2019-01-11 17:21:12+0530 > 
+2019-01-11 17:21:12+0530 > 
+2019-01-11 17:21:13+0530 > 
+2019-01-11 17:21:14+0530 > 
+2019-01-11 17:21:14+0530 > 
+2019-01-11 17:21:15+0530 > 
+2019-01-11 17:21:15+0530 > 
+2019-01-11 17:21:16+0530 > 
+2019-01-11 17:21:16+0530 > 
+2019-01-11 17:21:19+0530 > 
+2019-01-11 17:21:19+0530 > 
+2019-01-11 17:21:20+0530 > 
+2019-01-11 17:21:20+0530 > 
+2019-01-11 17:21:21+0530 > 
+2019-01-11 17:21:21+0530 > 
+2019-01-11 17:21:21+0530 > 
+2019-01-11 17:21:21+0530 > 
+2019-01-11 17:21:21+0530 > 
+2019-01-11 17:21:21+0530 > 
+2019-01-11 17:21:22+0530 > 
+2019-01-11 17:21:22+0530 > 
+2019-01-11 17:21:22+0530 > 
+2019-01-11 17:21:23+0530 > 
+2019-01-11 17:21:23+0530 > 
+2019-01-11 17:21:23+0530 > 
+2019-01-11 17:21:24+0530 > 
+2019-01-11 17:21:24+0530 > 
+2019-01-11 17:21:24+0530 > 
+2019-01-11 17:21:26+0530 > 
+2019-01-11 17:21:26+0530 > 
+2019-01-11 17:21:26+0530 > <LCtrl>fbuild
+2019-01-11 17:22:01+0530 > 
+2019-01-11 17:22:01+0530 > 
+2019-01-11 17:22:02+0530 > 
+2019-01-11 17:22:02+0530 > 
+2019-01-11 17:22:02+0530 >  
+2019-01-11 17:22:03+0530 > 
+2019-01-11 17:22:03+0530 > 
+2019-01-11 17:22:04+0530 > 
+2019-01-11 17:22:04+0530 > 
+2019-01-11 17:22:04+0530 > <Esc><LCtrl>rtl8723au
+2019-01-11 17:22:30+0530 > <LCtrl><BckSp>
+2019-01-11 17:22:35+0530 > <LCtrl><LCtrl><LCtrl>c
+2019-01-11 17:23:06+0530 > <Down><Up><Tab><Tab><LCtrl>v
+2019-01-11 17:23:17+0530 > 
+2019-01-11 17:23:17+0530 > g
+2019-01-11 17:24:52+0530 > <LCtrl><LCtrl>c
+2019-01-11 17:25:09+0530 > fvembeddede<BckSp>
+2019-01-11 17:25:24+0530 > 
+2019-01-11 17:25:24+0530 > 
+2019-01-11 17:25:24+0530 > 
+2019-01-11 17:25:24+0530 > 
+2019-01-11 17:25:24+0530 > 
+2019-01-11 17:25:24+0530 > 
+2019-01-11 17:25:24+0530 > <BckSp>
+2019-01-11 17:25:25+0530 > 
+2019-01-11 17:25:26+0530 > <BckSp>
+2019-01-11 17:25:26+0530 > 
+2019-01-11 17:25:26+0530 > <BckSp><BckSp><BckSp><BckSp><#+12>vsdvsdcs
+2019-01-11 17:25:29+0530 > 
+2019-01-11 17:25:29+0530 > <BckSp><#+20>emb
+2019-01-11 17:25:32+0530 > 
+2019-01-11 17:25:33+0530 > 
+2019-01-11 17:25:33+0530 > <Esc><#+1><Del><Down><Del><Del><Del><Del><Del><Del><Del><LShft>Please g<BckSp>find the link for <LShft>Porting <LShft>Guide,<Del><Del><Del><Up><#+19><Down><Down><End><Down><End>
+2019-01-11 17:26:39+0530 > <Up>
+2019-01-11 17:26:40+0530 > <Down><Down><Down><Down><#+21><Up><Up>
+2019-01-11 17:26:44+0530 > <LCtrl><BckSp><BckSp>steo<BckSp>p by step
+2019-01-11 17:27:09+0530 > <LCtrl><LCtrl><LCtrl><LCtrl>fbuild
+2019-01-11 17:27:31+0530 > 
+2019-01-11 17:27:32+0530 > 
+2019-01-11 17:27:33+0530 > 
+2019-01-11 17:27:35+0530 > 
+2019-01-11 17:27:36+0530 > 
+2019-01-11 17:27:36+0530 > 
+2019-01-11 17:27:37+0530 > 
+2019-01-11 17:27:38+0530 > 
+2019-01-11 17:27:38+0530 > <LCtrl>c
+2019-01-11 17:27:50+0530 > <LCtrl>l
+2019-01-11 17:27:54+0530 > 
+2019-01-11 17:27:54+0530 > 
+2019-01-11 17:27:54+0530 > ls
+2019-01-11 17:27:55+0530 > 
+2019-01-11 17:27:56+0530 > 
+2019-01-11 17:27:56+0530 > 
+2019-01-11 17:27:56+0530 > grep <BckSp><#+18>find -in<Tab>a<Tab><RShft><Ins>
+2019-01-11 17:28:05+0530 > <LAlt><Tab><LAlt><Tab><Up><BckSp><#+13><BckSp><BckSp>core
+2019-01-11 17:28:21+0530 > <LAlt><Tab><LAlt><Tab>
+2019-01-11 17:28:27+0530 > 
+2019-01-11 17:28:27+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LCtrl>c
+2019-01-11 17:28:49+0530 > f<BckSp><#+7>g
+2019-01-11 17:29:04+0530 > <BckSp><BckSp><BckSp><BckSp><BckSp>g<BckSp><LCtrl>v<Up><Up><Up><Right><Right><Right><Right><Right><Right><Right><Right>     <Down><Down><Down>
+2019-01-11 17:29:38+0530 > <Down><Up><Tab><LShft>Now <LShft>I an <BckSp><BckSp>m l<BckSp><#+15><BckSp><Del><Del>g
+2019-01-11 17:30:04+0530 > ds2wqsq<#+4>s<LCtrl>afb
+2019-01-11 17:30:15+0530 > <Esc><#+2><LCtrl><Left><Left><BckSp><Right>
+2019-01-11 17:35:21+0530 > <Del><CpsLk><CpsLk><Tab><BckSp><Right><Del>
+2019-01-11 17:35:36+0530 > <Tab><LCtrl>s<#+1><LCtrl>s<LShft>Hi <LShft>Sir,
+2019-01-11 17:36:16+0530 > 
+2019-01-11 17:36:16+0530 > 
+2019-01-11 17:36:16+0530 > 
+2019-01-11 17:36:16+0530 > <LShft>Please find the update document,
+2019-01-11 17:36:27+0530 > 
+2019-01-11 17:36:27+0530 > 
+2019-01-11 17:36:27+0530 > <Down><LShft>Thanks <LShft>& <LShft>Regards.<BckSp>,<Down><LShft><Down><#+39><Del><Up><Up>
+2019-01-11 17:36:42+0530 > 
+2019-01-11 17:36:42+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><Right><Left><Left><Left><Left><Left><Left><Right><Right><Left><Left><Left><Left><Left><Left><Left><Right><Right><Right><Right><Right><Right><Right><Right><Right><Esc>g
+2019-01-11 17:42:25+0530 > isaimini moc<BckSp>viesda
+2019-01-11 17:42:36+0530 > <Esc><Esc><#+1>g
+2019-01-11 18:15:01+0530 > you<BckSp><#+16><Esc><Esc>today rasi<Down><Down>
+2019-01-11 18:15:23+0530 > <LCtrl><LMeta><#+2>lzs10062013
+2019-01-11 18:35:10+0530 > g
+2019-01-11 18:35:43+0530 > <#+1>y<Right><Right><Right><Left><Left><PgDn><PgDn><PgDn><PgDn><#+17><PgDn><#+34>
+
+Logging stopped at 2019-01-12 07:27:48+0530
+
