@@ -1,0 +1,49 @@
+Logging started ...
+
+2019-01-14 16:39:39+0530 > <LCtrl>as<BckSp> and <LShft>tested with <LShft>Android <LShft>Appli
+2019-01-14 16:40:09+0530 > <Down><Up><Left><Left><Left><Left><#+13><Left><Left><Left><Right><LShft><Down><Down><Right><#+28><Right><Right><Right><Del><Down><Down><Left><#+25><Up><Left><Left><Left><Left><Up><End><LShft><Down><Down><Right><#+20><Right><Right><Right><Right><Right><Right><Del><LCtrl>s
+2019-01-14 16:40:51+0530 > <Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><#+15><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down><Up><Up><Down><#+13><Up><Up><Up><Down><Down><Down><Down><#+14><Up><Up><Up><Down><Down><Up><Up><Del>
+2019-01-14 16:41:15+0530 > <LCtrl>s<Right><Left><LShft><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Up><Up><Up><Up><Up><Home><Tab> <#+14>   <LCtrl>s<#+1>
+2019-01-14 16:42:40+0530 > <LShft>Done the <LShft>Wince <LShft><LShft>Drivers <BckSp><#+19><BckSp><BckSp><BckSp>the <LShft>Wince <LShft>Driver test by <LShft>Windows <LShft>Embedded <LShft>Test <LShft>Kit<Up><Up><Right><Down><Down> <LShft>()<Left><LShft>CETK<Up><Right><#+23><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Left><Left><Right><Right><#+16><Left><Left><Left><Right><LShft>Compact <Up><Right><#+17><Left><Down><Left><Left><LShft>Wince <Right><#+11><LCtrl>s<Down><Down><Up><Up><Down><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><BckSp><BckSp>and <LShft>Pheri<LAlt><Tab><LAlt><Tab><BckSp><BckSp><BckSp><BckSp>eri<LAlt><Tab><LAlt><Tab>pheral <LAlt><Tab><LAlt><Tab><LShft>testing<Down><Up><Up><Down><Down><Up><End><Left><Left><Left><Left><Left><Left><BckSp><LShft>T<Down><Down><LCtrl>s<LAlt><Tab><LAlt><Tab><Down><LAlt><Tab><LAlt><Tab><Up><Left><Left><Left><Left><Left><Left><Left><Left><Left><LAlt><Tab><LAlt><Tab><LShft>T4160<LShft>RDB <LShft>Cust
+2019-01-14 16:46:23+0530 > <BckSp><BckSp> <LShft>Board<Down><LCtrl>s<LAlt><Tab><LAlt><Tab><Down><Down><Down><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><Down><Left><#+14><Left><Left><Left><Left><Right><Down><Down><Up><Up><Down><Down><LAlt><Tab><LAlt><Tab><Up><Up><Up><LShft><Down><Down><Down><Down><Down><Left>Port the <LShft>Yacto <LAlt><Tab><LAlt><Tab><LShft>B<LShft>SP <LAlt><Tab><LAlt><Tab>to <LShft>Custom <LShft>Board<Down><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab>
+2019-01-14 16:47:45+0530 > <Up><LShft>Initi
+2019-01-14 16:47:49+0530 >  <LShft>DDR in <LShft>Boot <LAlt><Tab><LAlt><Tab><Esc><LAlt>`<LAlt><Tab><LAlt><Tab><LShft>Code<LCtrl>s<LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab>the <LAlt><Tab><LAlt><Tab><LShft><Down><Down><Left><Del><Del><Down><Down><End>
+2019-01-14 16:48:48+0530 > <LShft>Port and <LShft>Test<LAlt><Tab><LAlt><Tab>ed te<BckSp>he <LAlt><Tab><LAlt><Tab>below interf
+2019-01-14 16:49:06+0530 >  in <LAlt><Tab><LAlt><Tab>the <LShft><LShft>cu<LAlt><Tab><LAlt><Tab>st
+2019-01-14 16:49:17+0530 > <BckSp><BckSp> <LAlt><Tab><LAlt><Tab>board<LAlt><Tab><LAlt><Tab>
+2019-01-14 16:49:30+0530 > <Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LShft>I2<LShft>C<LAlt><Tab><LAlt><Tab>, <LShft>UART, <LShft>USB, <BckSp><#+19><LShft>No<BckSp><LShft>OR and <LShft>NAND <LShft>Flash
+2019-01-14 16:50:08+0530 > <BckSp><BckSp><BckSp>
+2019-01-14 16:50:09+0530 > <LShft>N<BckSp><LShft>SD<BckSp><BckSp><LShft>I2<LShft>C, <LShft>UART, <LShft>USB<LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab>-<LShft>OTG, <LShft>USB-<LShft>HOST and <LShft>Ethernet<LCtrl>s<#+1><LAlt><Tab><LAlt><Tab><LCtrl>s
+2019-01-14 16:52:24+0530 > <Down><Up><LShft><Down><Del><Up><Down>
+2019-01-14 16:52:46+0530 > <Down><Down><#+16><Up><Up><Up>
+2019-01-14 16:52:49+0530 > <Down><#+16><Down><Down><#+21><Down><#+20><Down><#+30><Up><#+11><Down><#+58><LCtrl>s t4 series<LCtrl>s<Left><Left><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><Right><#+13><Right><Right><Left><LCtrl>s, <LShft>SD/<LShft><LShft>Emmc<BckSp><BckSp><BckSp><BckSp>e<LShft>MMC<LCtrl>s<BckSp><LCtrl>s<LShft>Platform <Right><Right><Del><#+24><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Right><#+17><Right><LCtrl>s
+2019-01-14 16:55:59+0530 > <LCtrl>s<BckSp><LCtrl>s<Del><LCtrl>s<Del><LCtrl>s<LCtrl>s<BckSp><BckSp>z<BckSp><BckSp>za<BckSp><Esc><BckSp><BckSp><BckSp><BckSp>z<LShft>Hi <LShft>Sir,
+2019-01-14 16:58:24+0530 > 
+2019-01-14 16:58:24+0530 > <LShft>Please find the updated resume <Left><Down>
+2019-01-14 16:58:38+0530 > 
+2019-01-14 16:58:38+0530 > <LShft>Thanks vdff<Del><LShft>Hi <LShft>S<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LShft>Hi <LShft>Sir,
+2019-01-14 16:59:09+0530 > 
+2019-01-14 16:59:09+0530 > <LShft>Please <LShft><LShft>Fin<BckSp><BckSp><BckSp>fine<BckSp>d the attached<BckSp><BckSp><BckSp><#+6><BckSp><BckSp><BckSp><BckSp><BckSp>updated resume <BckSp>
+2019-01-14 16:59:37+0530 > 
+2019-01-14 16:59:37+0530 > 
+2019-01-14 16:59:37+0530 > <LShft>Thanks <LShft>& <LShft>Regards,
+2019-01-14 16:59:45+0530 > <LShft>Vinoth<LShft>Svsfdvd<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>
+2019-01-14 17:00:19+0530 > <Up><Up><#+1><Up>
+2019-01-14 17:00:21+0530 > <Tab><Down><Down><#+6><LShft>V<BckSp>vinothkumar.s1994<LShft>@gmail.com<Tab>vinoth<LShft>@nxp123
+2019-01-14 17:02:30+0530 > g
+2019-01-14 17:02:48+0530 > ifc<Tab>
+2019-01-14 17:05:34+0530 > vinothkumar.s1994
+2019-01-14 17:47:21+0530 > vinoth<LShft>@gmail.com
+2019-01-14 17:47:29+0530 > vinoth<LShft>@gmail
+2019-01-14 17:47:40+0530 > <LCtrl><LShft>Hi<BckSp><BckSp><LShft>This <BckSp><BckSp><BckSp><BckSp><BckSp><LShft>No f<BckSp><BckSp>, for all <LShft>USB <LShft>Stick g
+2019-01-14 17:50:36+0530 > chess.com
+2019-01-14 17:51:47+0530 > <CpsLk>VI<BckSp><BckSp>VINOTHSARU<CpsLk><Tab>ilovemyindia
+2019-01-14 17:52:03+0530 > g
+2019-01-14 18:45:17+0530 > <Up><#+54>g
+2019-01-14 19:06:56+0530 > vinoth<LShft>@gmail
+2019-01-14 19:07:13+0530 > <LMeta><#+6><LMeta><#+2>l <#+9>
+2019-01-15 10:53:12+0530 > zs10062013
+2019-01-15 10:53:24+0530 > <F9><#+7>
+
+Logging stopped at 2019-01-16 06:08:00+0530
+
