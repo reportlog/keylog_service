@@ -1,0 +1,6 @@
+Logging started ...
+
+2019-01-18 16:24:13+0530 > <BckSp><BckSp><BckSp><Tab><Tab><BckSp><#+23>ls
+2019-01-18 16:24:17+0530 > cd <RShft>~/my<Tab>ker<Tab>inc<Tab>
+2019-01-18 16:24:28+0530 > grep <LShft><Ins> <RShft>* -r
+2019-01-18 16:24:30+0530 > vim <LShft><Ins>
