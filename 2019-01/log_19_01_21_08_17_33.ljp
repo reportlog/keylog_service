@@ -1,0 +1,188 @@
+Logging started ...
+
+2019-01-21 20:17:33+0530 > ls
+2019-01-21 20:18:45+0530 > cp <BckSp><#+5><BckSp><BckSp>mv o<Tab><#+2><BckSp>0<Tab><#+1>1<Tab>a<Tab>kernel-s<BckSp>added.patch
+2019-01-21 20:19:02+0530 > <#+2>
+2019-01-21 20:19:03+0530 > 
+2019-01-21 20:19:03+0530 > 
+2019-01-21 20:19:03+0530 > c<BckSp>cp ker<Tab>-a<Tab><LShft>~/<LShft>De<Tab><LShft>A<Tab><#+2><LShft>O<Tab><#+2>
+2019-01-21 20:19:16+0530 > 
+2019-01-21 20:19:17+0530 > 
+2019-01-21 20:19:17+0530 > 
+2019-01-21 20:19:17+0530 > cd ../../../
+2019-01-21 20:19:20+0530 > 
+2019-01-21 20:19:20+0530 > cd sy<Tab><#+1>bt
+2019-01-21 20:19:22+0530 > 
+2019-01-21 20:19:22+0530 > 
+2019-01-21 20:19:22+0530 > git diff <LShft>> <LShft>~/<LShft>De<Tab><#+1><Tab><Tab><LShft>A<Tab><#+3><LShft>O<Tab><#+2><Tab><Tab>sys<Tab><#+1>tembt<BckSp><BckSp>-bt.patch
+2019-01-21 20:19:43+0530 > 
+2019-01-21 20:19:44+0530 > 
+2019-01-21 20:19:44+0530 > 
+2019-01-21 20:19:44+0530 > 
+2019-01-21 20:19:44+0530 > 
+2019-01-21 20:19:44+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up>
+2019-01-21 20:19:51+0530 > <#+1>git add <RShft><Ins>
+2019-01-21 20:19:57+0530 > <Up><BckSp><#+20><BckSp><RShft><Ins>
+2019-01-21 20:20:02+0530 > git add <RShft><Ins>
+2019-01-21 20:20:06+0530 > git add <RShft><Ins>
+2019-01-21 20:20:10+0530 > git aad<BckSp><BckSp>d  <BckSp><BckSp><BckSp>dd <RShft><Ins>
+2019-01-21 20:20:16+0530 > git add <RShft><Ins>
+2019-01-21 20:20:20+0530 > git add <RShft><Ins>
+2019-01-21 20:20:24+0530 > 
+2019-01-21 20:20:24+0530 > 
+2019-01-21 20:20:24+0530 > <LAlt><Tab><LAlt><Tab><RShft><Ins><Left>00<BckSp><BckSp>bt-a<BckSp><BckSp><BckSp><BckSp>system-bt-added.patch
+2019-01-21 20:20:57+0530 > 
+2019-01-21 20:20:58+0530 > 
+2019-01-21 20:20:58+0530 > cp sy<Tab><#+3>s<Tab><BckSp><#+15>vi s<Tab><#+3><Tab><BckSp><#+11>ls
+2019-01-21 20:21:08+0530 > <Up><Up><Left><BckSp><#+21><RShft><Ins>
+2019-01-21 20:21:23+0530 > ls
+2019-01-21 20:21:25+0530 > git reset <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up>
+2019-01-21 20:21:45+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down>
+2019-01-21 20:21:50+0530 > gti <BckSp><BckSp><BckSp>it add <RShft><Ins>
+2019-01-21 20:22:01+0530 > <Up><BckSp><#+19><BckSp><BckSp><RShft><Ins>
+2019-01-21 20:22:06+0530 > <RShft><Ins>
+2019-01-21 20:22:09+0530 > <Up><Left><#+11><Home>git add 
+2019-01-21 20:22:14+0530 > <Up><BckSp><#+21><BckSp><BckSp><RShft><Ins>
+2019-01-21 20:22:19+0530 > git ad <BckSp>d <RShft><Ins>
+2019-01-21 20:22:25+0530 > git add <RShft><Ins>
+2019-01-21 20:22:29+0530 > 
+2019-01-21 20:22:29+0530 > 
+2019-01-21 20:22:29+0530 > git commit <BckSp><#+17><LAlt><Tab><LAlt><Tab><RShft><Ins>
+2019-01-21 20:22:42+0530 > <#+3>
+2019-01-21 20:22:46+0530 > <LAlt><Tab><LAlt><Tab><Up><Left><#+1><RShft><Ins>
+2019-01-21 20:23:23+0530 > <#+1>
+2019-01-21 20:23:24+0530 > 
+2019-01-21 20:23:24+0530 > 
+2019-01-21 20:23:24+0530 > <LAlt><Tab><LAlt><Tab><RShft><Ins>
+2019-01-21 20:23:35+0530 > ls
+2019-01-21 20:23:37+0530 > <Up><Up> -1
+2019-01-21 20:23:41+0530 > <#+1>vi 0<Tab>
+2019-01-21 20:23:45+0530 > <#+1><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><#+37><Esc><LShft>:q<LShft>!
+2019-01-21 20:23:54+0530 > 
+2019-01-21 20:23:54+0530 > 
+2019-01-21 20:23:54+0530 > mv 0<Tab><#+3>system-bt-added.patch
+2019-01-21 20:24:06+0530 > cp sy<Tab><#+3><LShft>~/<LShft>De<Tab><#+1><LShft>A<Tab><#+2><LShft>O<Tab><#+2>
+2019-01-21 20:24:15+0530 > 
+2019-01-21 20:24:16+0530 > 
+2019-01-21 20:24:16+0530 > 
+2019-01-21 20:24:16+0530 > cd ../../de<Tab>i<Tab>fs<Tab>
+2019-01-21 20:24:21+0530 > 
+2019-01-21 20:24:21+0530 > ls
+2019-01-21 20:24:22+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><BckSp><#+4><BckSp><#+19><Up><Up><Up><BckSp><#+29><BckSp><BckSp>status
+2019-01-21 20:24:35+0530 > git diff <LShft>> <LShft>~/<LShft>De<Tab><LShft>A<Tab><#+2><LShft>O<Tab><#+2>devices-fsl<BckSp><BckSp><BckSp><BckSp>,<BckSp>.pat<BckSp><BckSp><BckSp><BckSp>-fsl,patch
+2019-01-21 20:25:00+0530 > <Up><Left><Left><Left><Left><Left><BckSp>.
+2019-01-21 20:25:04+0530 > ls
+2019-01-21 20:25:08+0530 > rm <RShft><Ins>
+2019-01-21 20:25:13+0530 > gti <BckSp><BckSp><BckSp>it add <RShft><Ins>
+2019-01-21 20:25:25+0530 > git add <RShft><Ins>
+2019-01-21 20:25:29+0530 > git add <RShft><Ins>
+2019-01-21 20:25:33+0530 > git add <RShft><Ins>
+2019-01-21 20:25:38+0530 > git add <RShft><Ins>
+2019-01-21 20:25:43+0530 > <Up><BckSp><#+16><RShft><Ins>
+2019-01-21 20:25:48+0530 > git add <RShft><Ins>
+2019-01-21 20:25:52+0530 > 
+2019-01-21 20:25:52+0530 > 
+2019-01-21 20:25:53+0530 > gti <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down>
+2019-01-21 20:25:59+0530 > <#+1><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><BckSp><BckSp><RShft><Ins>
+2019-01-21 20:26:14+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down>
+2019-01-21 20:26:20+0530 > <#+1>
+2019-01-21 20:26:21+0530 > 
+2019-01-21 20:26:21+0530 > mv <BckSp><BckSp>v 0<Tab><#+4>devie<BckSp>ces-added<BckSp><BckSp><BckSp><BckSp><BckSp>fsl-added.patcjh<BckSp><BckSp>h
+2019-01-21 20:26:40+0530 > 
+2019-01-21 20:26:40+0530 > 
+2019-01-21 20:26:41+0530 > 
+2019-01-21 20:26:41+0530 > 
+2019-01-21 20:26:41+0530 > ls
+2019-01-21 20:26:42+0530 > cp<#+1> de<Tab><LShft>~/<LShft>De<Tab><#+1><LShft>A<Tab><#+2><LShft>P<BckSp><LShft>O<Tab><#+3>
+2019-01-21 20:26:51+0530 > 
+2019-01-21 20:26:51+0530 > 
+2019-01-21 20:26:51+0530 > 
+2019-01-21 20:26:51+0530 > 
+2019-01-21 20:26:52+0530 > cd ../../ve<Tab>nxp-<Tab><#+3>ker<Tab><Tab>
+2019-01-21 20:27:03+0530 > 
+2019-01-21 20:27:03+0530 > 
+2019-01-21 20:27:03+0530 > 
+2019-01-21 20:27:03+0530 > 
+2019-01-21 20:27:03+0530 > 
+2019-01-21 20:27:03+0530 > ls
+2019-01-21 20:27:05+0530 > rm ker<Tab><BckSp><#+23><BckSp>
+2019-01-21 20:27:10+0530 > 
+2019-01-21 20:27:11+0530 > 
+2019-01-21 20:27:11+0530 > gi t<BckSp><BckSp>t status
+2019-01-21 20:27:17+0530 > 
+2019-01-21 20:27:17+0530 > 
+2019-01-21 20:27:17+0530 > gti ad<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>git add <RShft><Ins>
+2019-01-21 20:27:28+0530 > gti a<BckSp><BckSp><BckSp><BckSp>it add <RShft><Ins>
+2019-01-21 20:27:37+0530 > gti a<BckSp><BckSp><BckSp><BckSp>it add <RShft><Ins>
+2019-01-21 20:27:45+0530 > gti a<BckSp><BckSp><BckSp><BckSp>it add <RShft><Ins>
+2019-01-21 20:27:52+0530 > gti <BckSp><BckSp><BckSp>it add <RShft><Ins>
+2019-01-21 20:27:58+0530 > 
+2019-01-21 20:27:59+0530 > 
+2019-01-21 20:27:59+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Left><RShft><Ins>
+2019-01-21 20:28:08+0530 > 
+2019-01-21 20:28:09+0530 > 
+2019-01-21 20:28:09+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down><Down>
+2019-01-21 20:28:17+0530 > mv 0<Tab><#+3>1<Tab>dr<Tab>kernel-drivers.p<BckSp><BckSp>-added.patch
+2019-01-21 20:28:35+0530 > cp ker<Tab>0<BckSp>-<Tab><#+4>d<Tab><LShft>~.<BckSp>/<LShft>De<Tab><LShft>A<Tab><#+1><LShft>O<Tab><#+2>
+2019-01-21 20:28:49+0530 > k<BckSp>ls'<BckSp>
+2019-01-21 20:28:54+0530 > rm ker<Tab><#+3>-a<Tab>
+2019-01-21 20:28:59+0530 > 
+2019-01-21 20:28:59+0530 > 
+2019-01-21 20:28:59+0530 > cd -
+2019-01-21 20:29:13+0530 > 
+2019-01-21 20:29:13+0530 > cd<BckSp><BckSp>ls
+2019-01-21 20:29:14+0530 > vi de<Tab>
+2019-01-21 20:29:17+0530 > <PgDn><#+13><PgUp><PgDn><Esc><LShft>:q<LShft>!
+2019-01-21 20:29:23+0530 > 
+2019-01-21 20:29:23+0530 > 
+2019-01-21 20:29:23+0530 > rm <RShft><Ins>
+2019-01-21 20:29:27+0530 > 
+2019-01-21 20:29:27+0530 > 
+2019-01-21 20:29:27+0530 > gti <BckSp><BckSp><BckSp><BckSp>git status
+2019-01-21 20:29:33+0530 > rm de<Tab><#+3><BckSp><#+22>vi de<Tab>.p<Tab><#+2>
+2019-01-21 20:29:47+0530 > <PgDn><#+13><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgUp><Esc><LShft>:q<LShft>!
+2019-01-21 20:29:53+0530 > 
+2019-01-21 20:29:54+0530 > 
+2019-01-21 20:29:54+0530 > vi fe<BckSp><BckSp>de<Tab><#+2><Tab><Tab>-a<Tab>
+2019-01-21 20:29:59+0530 > <Esc><LShft>:q<LShft>!
+2019-01-21 20:30:01+0530 > rm de<Tab><#+2>-a<Tab><#+3>
+2019-01-21 20:30:04+0530 > gti <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>gi<Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down><Down>
+2019-01-21 20:30:24+0530 > <Up><Up><Up><Down>
+2019-01-21 20:30:26+0530 > git add <RShft><Ins>
+2019-01-21 20:30:31+0530 > git add <RShft><Ins>
+2019-01-21 20:30:36+0530 > git add <RShft><Ins>
+2019-01-21 20:30:40+0530 > git add <RShft><Ins>
+2019-01-21 20:30:44+0530 > gi t<BckSp><BckSp>t add <RShft><Ins>
+2019-01-21 20:30:49+0530 > git add <RShft><Ins>
+2019-01-21 20:30:55+0530 > git add <RShft><Ins>
+2019-01-21 20:30:59+0530 > 
+2019-01-21 20:30:59+0530 > 
+2019-01-21 20:30:59+0530 > git<LAlt><Tab><LAlt><Tab><RShft><BckSp><BckSp><BckSp><BckSp><RShft><Ins><Left><RShft><Ins>
+2019-01-21 20:31:10+0530 > 
+2019-01-21 20:31:12+0530 > 
+2019-01-21 20:31:12+0530 > 
+2019-01-21 20:31:12+0530 > ls
+2019-01-21 20:31:13+0530 > vi <BckSp><BckSp><BckSp><LAlt><Tab><LAlt><Tab><RShft><Ins>
+2019-01-21 20:31:22+0530 > mv 0<Tab><#+2>device-<BckSp>-fsl-added.patch
+2019-01-21 20:31:36+0530 > 
+2019-01-21 20:31:36+0530 > 
+2019-01-21 20:31:36+0530 > vi de<Tab>
+2019-01-21 20:31:38+0530 > <End><End><End><Esc><LShft>:q<LShft>!
+2019-01-21 20:31:41+0530 > 
+2019-01-21 20:31:41+0530 > 
+2019-01-21 20:31:41+0530 > cp de<Tab><LShft>~/<LShft>De<Tab><LShft>A<Tab><#+3><LShft>O<Tab><#+2><Tab><Tab>
+2019-01-21 20:31:48+0530 > 
+2019-01-21 20:31:49+0530 > 
+2019-01-21 20:31:49+0530 > 
+2019-01-21 20:31:49+0530 > ls
+2019-01-21 20:31:53+0530 > cd <BckSp><BckSp><BckSp><BckSp>cd ..
+2019-01-21 20:32:08+0530 > 
+2019-01-21 20:32:08+0530 > scp <LShft>A<BckSp><BckSp> zumi<LShft>@192.168.<BckSp><#+22>pwd<BckSp><BckSp><BckSp>cd <LShft>A<Tab>
+2019-01-21 20:32:23+0530 > 
+2019-01-21 20:32:23+0530 > 
+2019-01-21 20:32:23+0530 > pwd
+2019-01-21 20:32:24+0530 > s<BckSp><BckSp>cd ..
+2019-01-21 20:32:30+0530 > 
+2019-01-21 20:32:30+0530 > scp ls
+2019-01-21 20:32:39+0530 > <AltGr>
+2019-01-21 20:33:38+0530 > vi <Tab><Tab>
