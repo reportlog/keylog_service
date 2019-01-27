@@ -1,0 +1,1466 @@
+Logging started ...
+
+2019-01-24 15:29:25+0530 > <LAlt><Tab>i<Del><Right><Del><Right><Right>i<Del><Del><Del><Del><Del><Del><Del><BckSp><LShft>FE11<LShft>C500<Esc><RShft>:w<LShft>!
+2019-01-24 15:29:52+0530 > <Up>
+2019-01-24 15:30:00+0530 > <RShft>:80
+2019-01-24 15:30:27+0530 > <Right><#+10><Left><Left><Left><Left><Left><LCtrl>vzla instru<Down><Down> exa<Down>
+2019-01-24 15:30:52+0530 > <LCtrl><LCtrl>fla 
+2019-01-24 15:31:07+0530 > 
+2019-01-24 15:31:07+0530 > 
+2019-01-24 15:31:08+0530 > 
+2019-01-24 15:31:09+0530 > 
+2019-01-24 15:31:09+0530 > 
+2019-01-24 15:31:09+0530 > <LAlt><Tab><Right><#+11><Left><Right>i,<LAlt><Tab><LAlt><Tab><Esc><RShft>:w<LShft>!
+2019-01-24 15:31:19+0530 > <Up>
+2019-01-24 15:31:23+0530 > <LAlt><Tab><LCtrl><LCtrl>f
+2019-01-24 15:32:17+0530 > 
+2019-01-24 15:32:28+0530 > 
+2019-01-24 15:32:31+0530 > <LAlt><Tab><Right><#+12><Left>i<Right><Left><Right><Right><Del><Del><Del><Del><Esc><RShft>:wq<BckSp><LShft>!
+2019-01-24 15:33:07+0530 > <LCtrl>l<Up>
+2019-01-24 15:33:11+0530 > <LAlt><Tab><LCtrl><Tab><LCtrl><Tab><LCtrl><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><LCtrl>c
+2019-01-24 15:33:39+0530 > <Tab><LCtrl>c
+2019-01-24 15:33:52+0530 > <LAlt><Tab><Left><#+12>i<BckSp>1<Esc><RShft>:w<LShft>!
+2019-01-24 15:34:04+0530 > <Up>
+2019-01-24 15:34:08+0530 > <Right><Right><Right>i<BckSp><Esc><RShft>:w<LShft>!
+2019-01-24 15:34:37+0530 > <Up>
+2019-01-24 15:34:40+0530 > <LAlt><Tab><LShft>Hi 
+2019-01-24 15:35:23+0530 > 
+2019-01-24 15:35:23+0530 > <LShft>I want to write uart u<BckSp>initialization for uart transmitter to t4160e<BckSp>rdb board<Left><#+55><Left> assembly code for<Right><#+22><Right><Right><Del><Del><Del>and
+2019-01-24 15:37:02+0530 > <BckSp><BckSp><LCtrl><LCtrl><PgUp><#+6><LCtrl>c
+2019-01-24 15:45:59+0530 > uboot<PgUp><PgUp><PgUp><PgUp><LCtrl>fuart
+2019-01-24 15:46:49+0530 > 
+2019-01-24 15:46:49+0530 > 
+2019-01-24 15:46:50+0530 > 
+2019-01-24 15:46:50+0530 > 
+2019-01-24 15:46:50+0530 > 
+2019-01-24 15:46:50+0530 > 
+2019-01-24 15:46:50+0530 > 
+2019-01-24 15:46:50+0530 > <LCtrl>c
+2019-01-24 15:47:11+0530 > <LCtrl>v <Esc><LCtrl>c
+2019-01-24 15:48:52+0530 > <LCtrl>fla 
+2019-01-24 15:49:34+0530 > 
+2019-01-24 15:49:34+0530 > 
+2019-01-24 15:49:34+0530 > g
+2019-01-24 15:50:11+0530 > <LCtrl>v<LCtrl><LCtrl><LCtrl>c
+2019-01-24 15:50:49+0530 > <LAlt><Tab><Left><Left><Left><Left><Left>ddi<RShft><Ins><Left><#+15><Left><Left><Tab><End>
+2019-01-24 15:51:03+0530 > <Esc><RShft>:w<LShft>!
+2019-01-24 15:51:05+0530 > <LCtrl>l<Up>
+2019-01-24 15:51:08+0530 > <LAlt><Tab>g
+2019-01-24 15:51:32+0530 > <LCtrl>v<BckSp><#+23>ldr ins<Down><Down>
+2019-01-24 15:51:39+0530 > <LCtrl><LCtrl><LCtrl>c
+2019-01-24 15:52:12+0530 > <LAlt><Tab><Up><Right><#+7>i<Del><Del><Del><RShft><Ins><Right><Right><Right><Right><Right><Del><Del><Esc><RShft>:wq
+2019-01-24 15:52:26+0530 > <LCtrl>l<Up>
+2019-01-24 15:52:30+0530 > <Up>
+2019-01-24 15:52:33+0530 > /<Up>
+2019-01-24 15:52:39+0530 > <LAlt><Tab>load register f<BckSp>instr<Down> for poe<BckSp>werpc
+2019-01-24 15:53:20+0530 > <LCtrl><LAlt><Tab><Down><#+3><Down><Down><Down><Left><Left>i<Left><BckSp><BckSp><BckSp><BckSp><Del>stw<Esc><#+1><RShft>::<BckSp>w<LShft>!
+2019-01-24 15:53:41+0530 > <LCtrl>l<Up>
+2019-01-24 15:53:45+0530 > <Right><Right><Right><Right><Right><Right>i<Left><Left><BckSp>1<Right><Right><Right><Right><Right><BckSp><BckSp><BckSp>0x<LShft>FE11<LShft>C500<Esc><RShft>:wq
+2019-01-24 15:54:15+0530 > <Up>
+2019-01-24 15:54:17+0530 > <Up>
+2019-01-24 15:54:20+0530 > /<Up>
+2019-01-24 15:54:21+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><Down><Down><Down><Down>i<LAlt><Tab><LAlt><Tab><LCtrl>c
+2019-01-24 15:55:55+0530 > <LAlt><Tab><Up><RShft><Ins><Down><Left><#+16><BckSp>2<Right><Right><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del>0<LShft>(<LShft>)<Left>r1<Left><Left><Left><Left><Left><Left><Left><Left>    <Esc><RShft>:w<LShft>!
+2019-01-24 15:56:23+0530 > <LCtrl>l<Up>
+2019-01-24 15:56:27+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><LCtrl>c
+2019-01-24 15:57:48+0530 > tv instruction
+2019-01-24 15:57:55+0530 > <LAlt><Tab><LAlt><Tab> for powerpc
+2019-01-24 15:59:47+0530 > <LCtrl><LCtrl>c
+2019-01-24 16:01:43+0530 > c
+2019-01-24 16:01:44+0530 > <LAlt><Tab><Up><Down><End>
+2019-01-24 16:01:49+0530 > i<Tab><RShft><Ins><Esc><RShft>:w<LShft>!
+2019-01-24 16:01:55+0530 > <LCtrl>l<Up>
+2019-01-24 16:01:59+0530 > <LCtrl><RShft>:q
+2019-01-24 16:02:18+0530 > <Up><Up>
+2019-01-24 16:02:19+0530 > <Up><Up>
+2019-01-24 16:02:21+0530 > /<Up>
+2019-01-24 16:02:24+0530 > <Down><Down><Down><Right><#+5><Right><Right><Down><Right><#+24><LCtrl>faddress
+2019-01-24 16:03:14+0530 > 
+2019-01-24 16:03:17+0530 > 
+2019-01-24 16:03:18+0530 > 
+2019-01-24 16:03:19+0530 > 
+2019-01-24 16:03:20+0530 > 
+2019-01-24 16:03:20+0530 > 
+2019-01-24 16:03:21+0530 > 
+2019-01-24 16:03:25+0530 > 
+2019-01-24 16:03:26+0530 > 
+2019-01-24 16:03:26+0530 > 
+2019-01-24 16:03:26+0530 > 
+2019-01-24 16:03:26+0530 > 
+2019-01-24 16:03:27+0530 > 
+2019-01-24 16:03:27+0530 > 
+2019-01-24 16:03:27+0530 > 
+2019-01-24 16:03:37+0530 > 
+2019-01-24 16:03:37+0530 > 
+2019-01-24 16:03:37+0530 > 
+2019-01-24 16:03:38+0530 > 
+2019-01-24 16:03:39+0530 > 
+2019-01-24 16:03:41+0530 > 
+2019-01-24 16:03:41+0530 > 
+2019-01-24 16:03:41+0530 > 
+2019-01-24 16:03:41+0530 > 
+2019-01-24 16:03:42+0530 > 
+2019-01-24 16:03:42+0530 > 
+2019-01-24 16:03:42+0530 > 
+2019-01-24 16:03:42+0530 > 
+2019-01-24 16:03:43+0530 > 
+2019-01-24 16:03:47+0530 > 
+2019-01-24 16:03:47+0530 > 
+2019-01-24 16:03:47+0530 > 
+2019-01-24 16:03:48+0530 > 
+2019-01-24 16:03:48+0530 > 
+2019-01-24 16:03:51+0530 > 
+2019-01-24 16:03:52+0530 > 
+2019-01-24 16:03:53+0530 > 
+2019-01-24 16:03:54+0530 > 
+2019-01-24 16:03:55+0530 > 
+2019-01-24 16:03:56+0530 > 
+2019-01-24 16:03:56+0530 > 
+2019-01-24 16:03:57+0530 > 
+2019-01-24 16:03:57+0530 > 
+2019-01-24 16:04:20+0530 > 
+2019-01-24 16:04:21+0530 > 
+2019-01-24 16:04:23+0530 >  <F3><F3><F3><#+18><F3><#+1><F3><F4><#+8><LCtrl><LCtrl><LCtrl><LCtrl>f
+2019-01-24 16:11:16+0530 > 
+2019-01-24 16:11:17+0530 > 
+2019-01-24 16:11:18+0530 > 
+2019-01-24 16:11:18+0530 > 
+2019-01-24 16:11:19+0530 > 
+2019-01-24 16:11:20+0530 > 
+2019-01-24 16:11:20+0530 > 
+2019-01-24 16:11:21+0530 > 
+2019-01-24 16:11:21+0530 > 
+2019-01-24 16:11:21+0530 > 
+2019-01-24 16:11:21+0530 > 
+2019-01-24 16:11:22+0530 > 
+2019-01-24 16:11:23+0530 > 
+2019-01-24 16:11:24+0530 > 
+2019-01-24 16:11:25+0530 > load
+2019-01-24 16:11:28+0530 >  a
+2019-01-24 16:11:31+0530 > 
+2019-01-24 16:11:31+0530 > ddress
+2019-01-24 16:11:35+0530 > <LCtrl>===<LCtrl>==<Down><#+20><Right><#+23>
+2019-01-24 16:12:01+0530 > 
+2019-01-24 16:12:01+0530 > 
+2019-01-24 16:12:01+0530 > 
+2019-01-24 16:12:02+0530 > 
+2019-01-24 16:12:02+0530 > 
+2019-01-24 16:12:02+0530 > 
+2019-01-24 16:12:03+0530 > 
+2019-01-24 16:12:03+0530 > 
+2019-01-24 16:12:03+0530 > 
+2019-01-24 16:12:03+0530 > 
+2019-01-24 16:12:03+0530 > 
+2019-01-24 16:12:33+0530 > 
+2019-01-24 16:12:33+0530 > 
+2019-01-24 16:12:33+0530 > 
+2019-01-24 16:12:33+0530 > 
+2019-01-24 16:12:33+0530 > 
+2019-01-24 16:12:33+0530 > 
+2019-01-24 16:12:34+0530 > 
+2019-01-24 16:12:34+0530 > 
+2019-01-24 16:12:34+0530 > 
+2019-01-24 16:12:34+0530 > 
+2019-01-24 16:12:34+0530 > <LAlt><Tab><LAlt><Tab><LCtrl><LCtrl>c
+2019-01-24 16:13:05+0530 > <RShft>:q
+2019-01-24 16:13:16+0530 > <LCtrl>l
+2019-01-24 16:13:18+0530 > <#+18>grep -inr r<RShft><BckSp><BckSp><RShft> <RShft>""<Left>load<Right> <LShft>*
+2019-01-24 16:13:28+0530 > <Up>
+2019-01-24 16:13:29+0530 > cd ../<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><Up> ../
+2019-01-24 16:13:35+0530 > <Up><Left><#+11><Left> add
+2019-01-24 16:13:40+0530 > 
+2019-01-24 16:13:45+0530 > <Left><#+12><Up><Left><#+19> 
+2019-01-24 16:13:48+0530 > 
+2019-01-24 16:13:49+0530 > <#+15><Up>../
+2019-01-24 16:13:51+0530 > <LCtrl><LShft>vim <RShft><Ins><BckSp><#+9><Tab><Tab><BckSp><BckSp><Tab><Tab><Tab><Tab><BckSp><BckSp>
+2019-01-24 16:14:40+0530 > /load
+2019-01-24 16:14:44+0530 > <Down><Down><Down><Down><Down>/<Up>
+2019-01-24 16:15:01+0530 > /<Up>
+2019-01-24 16:15:03+0530 > <LAlt><Tab><Up><Up><Up><Left><#+13><Left><Left>i
+2019-01-24 16:15:23+0530 >         <Up><RShft><Ins><Esc>i<BckSp>0x<LShft>FE11<LShft>C500<Esc><Down>dddddddd<Left><Up><Down><Esc><RShft>:w<LShft>!
+2019-01-24 16:15:47+0530 > <LCtrl>l<Up>
+2019-01-24 16:15:51+0530 > <LAlt><Tab><LAlt><Tab><Up><Down><Up><Right><#+25><Left><LAlt><Tab><LAlt><Tab><Right><Right><Right><Right><Right><Left><Right><Del><Del><Del><Del>
+2019-01-24 16:16:45+0530 > i
+2019-01-24 16:16:47+0530 > <Up><Tab><LAlt><Tab><LAlt><Tab>ori     <LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab>r3,r3,0x<LShft>C500<Esc><RShft>:w<LShft>!
+2019-01-24 16:17:07+0530 > <LAlt><Tab><LAlt><Tab><Left><#+14><Up>i<BckSp>1<Down><BckSp>1<Down><Right><Right><Up><Right><BckSp>1<Esc><RShft>:w<LShft>!
+2019-01-24 16:17:54+0530 > <LCtrl>l<Up><RShft>
+2019-01-24 16:17:58+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><LCtrl><LShft>c
+2019-01-24 16:19:00+0530 > <LAlt><Tab><End>i<Right>
+2019-01-24 16:19:06+0530 >         <RShft><Ins><Left><Left><Left><Left><BckSp>2<Right><Right><Right><Right><Right>
+2019-01-24 16:19:12+0530 >         <LAlt><Tab><LCtrl><LShft>c
+2019-01-24 16:19:23+0530 > <LAlt><Tab><RShft><Ins><Left><#+15><Left><Left><Left><Left><Left><Del><Right><#+14><Del>1<Right><Right><Right><Right><Right><BckSp>2<LAlt><Tab><LAlt><Tab><Left><Left><Left><Left><Left><BckSp>1<BckSp>2<Right><Right><Right><Right><Right><BckSp>`<BckSp>1
+2019-01-24 16:19:50+0530 > <LCtrl><Esc><RShft>:w<LShft>!
+2019-01-24 16:19:53+0530 > <LCtrl>l<Up>
+2019-01-24 16:19:57+0530 > \<LCtrl>c
+2019-01-24 16:19:58+0530 > <Up><LCtrl>c
+2019-01-24 16:20:00+0530 > 
+2019-01-24 16:20:02+0530 > 
+2019-01-24 16:20:02+0530 > <LCtrl>l
+2019-01-24 16:20:03+0530 > 
+2019-01-24 16:20:03+0530 > <Up>
+2019-01-24 16:20:04+0530 > <RShft>:q
+2019-01-24 16:20:17+0530 > <LCtrl>l<Up><Up>
+2019-01-24 16:20:19+0530 > <Up><Up>
+2019-01-24 16:20:21+0530 > /<Up>
+2019-01-24 16:20:22+0530 > <Down><Down><Right><#+26><Up><Down><Down><Down><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab>/print
+2019-01-24 16:20:45+0530 > <RShft>:q
+2019-01-24 16:20:47+0530 > <LCtrl>l
+2019-01-24 16:20:49+0530 > 
+2019-01-24 16:20:49+0530 > 
+2019-01-24 16:20:49+0530 > 
+2019-01-24 16:20:49+0530 > 
+2019-01-24 16:20:49+0530 > <Up><LCtrl>acs<BckSp>d<Del><Del><Del><LCtrl>e<BckSp><#+27><BckSp><BckSp><BckSp>
+2019-01-24 16:21:01+0530 > 
+2019-01-24 16:21:02+0530 > 
+2019-01-24 16:21:02+0530 > 
+2019-01-24 16:21:02+0530 > 
+2019-01-24 16:21:02+0530 > grep -inr <RShft>""<Left>[<BckSp>print<Down><Right> <LShft>*
+2019-01-24 16:21:12+0530 > 
+2019-01-24 16:21:15+0530 > <Up><Up><Up><Down><Down><Down><Up><Up><Down><Left><Left><Left><BckSp><BckSp><BckSp><BckSp><BckSp>display
+2019-01-24 16:21:26+0530 > <Up> ../
+2019-01-24 16:21:29+0530 > <Up><Up><Up> ../
+2019-01-24 16:21:32+0530 > 
+2019-01-24 16:21:34+0530 > 
+2019-01-24 16:21:34+0530 > 
+2019-01-24 16:21:34+0530 > <Up>../
+2019-01-24 16:21:36+0530 > <Down><LAlt><Tab><LAlt><Tab><Up><Up><Up><Up><Left><Left><Left><Left><Right><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>str
+2019-01-24 16:22:03+0530 > 
+2019-01-24 16:22:04+0530 > <#+18><Up><Left><Left><Left><Left><Right>i
+2019-01-24 16:22:08+0530 > <Up><Left><Left><Left><Left><Right>ng
+2019-01-24 16:22:14+0530 > <LCtrl>l
+2019-01-24 16:22:16+0530 > <#+20><Up>
+2019-01-24 16:22:17+0530 > <Up><Up><Up><#+3><Up><Up><Up><Up><Up><Up><Up><Up><BckSp><#+12>
+2019-01-24 16:22:34+0530 > <Up><Left><Left><Left><Left><BckSp><#+13>value
+2019-01-24 16:22:56+0530 > 
+2019-01-24 16:22:57+0530 > <#+25><Up>
+2019-01-24 16:22:59+0530 > <LAlt><Tab><LAlt><Tab><Down><F5><F5><F5><F5><LCtrl>c
+2019-01-24 16:24:25+0530 > <LCtrl>v<LCtrl><LCtrl><RShft><Del>
+2019-01-24 16:24:35+0530 > <Left><Right><Right><Left><F2><Right><#+18><BckSp><BckSp><BckSp>txt
+2019-01-24 16:24:43+0530 > <LAlt><Tab>g
+2019-01-24 17:20:21+0530 > the shad<Down> movi<Down> <Down><Down><Down> in tamil
+2019-01-24 17:20:57+0530 > <Del>
+2019-01-24 17:21:10+0530 > g
+2019-01-24 17:21:21+0530 > you
+2019-01-24 17:21:25+0530 > the shadow
+2019-01-24 17:21:40+0530 > <CpsLk>AA<BckSp><BckSp><BckSp><CpsLk>assemply in uart
+2019-01-24 17:24:16+0530 > <Left><Del>b
+2019-01-24 17:24:29+0530 > <LCtrl><LCtrl><LCtrl><LCtrl>uart assemb<BckSp>bly
+2019-01-24 17:27:44+0530 > <LCtrl><LCtrl>c
+2019-01-24 17:27:59+0530 > <LShft>Uart <LShft>Assemblt<BckSp>y<RShft>:
+2019-01-24 17:28:10+0530 > 
+2019-01-24 17:28:10+0530 > <LCtrl>v
+2019-01-24 17:28:11+0530 > 
+2019-01-24 17:28:11+0530 > 
+2019-01-24 17:28:11+0530 > 
+2019-01-24 17:28:11+0530 > 
+2019-01-24 17:28:11+0530 > <LAlt><Tab>uart print in poe<BckSp>werpc
+2019-01-24 17:50:43+0530 > <LCtrl><LCtrl><LCtrl><LCtrl>/<Up>
+2019-01-24 17:52:09+0530 > <Down><Down><Down><Down><Down><Down><LAlt><Tab><LAlt><Tab>g
+2019-01-24 17:52:19+0530 > <LCtrl><LShft>V<LCtrl>z<LAlt><Tab><LCtrl><LShft>c
+2019-01-24 17:52:23+0530 > <LAlt><Tab><LCtrl>v instru<Down> <Down><Down> 
+2019-01-24 17:52:35+0530 > <LCtrl><LCtrl><LCtrl><LCtrl>a<LShft>Hi <LShft>Sir,
+2019-01-24 17:53:41+0530 > 
+2019-01-24 17:53:41+0530 > 
+2019-01-24 17:53:41+0530 > 
+2019-01-24 17:53:42+0530 > 
+2019-01-24 17:53:42+0530 > 
+2019-01-24 17:53:42+0530 > <LShft>Thanks <LShft>& <LShft>Regards,
+2019-01-24 17:53:49+0530 > <LShft>Vinoth<LShft>S<Up><Up><Up>
+2019-01-24 17:53:52+0530 > 
+2019-01-24 17:53:53+0530 > <Up><Up><Up><Up>
+2019-01-24 17:53:56+0530 > <#+11><Up><Up><LShft>Query <LShft>Link<RShft>:
+2019-01-24 17:54:03+0530 > <Tab><Tab><Down><Down><Down><Down><LShft>Reference <LShft>Link<RShft>:
+2019-01-24 17:54:19+0530 > 
+2019-01-24 17:54:20+0530 > <Tab><LCtrl>c
+2019-01-24 17:54:23+0530 > <LCtrl>v
+2019-01-24 17:54:26+0530 > 
+2019-01-24 17:54:26+0530 > <Del><Del><Del><Up><#+12><Up><Tab><Down><Tab><LCtrl><LCtrl><LCtrl>c
+2019-01-24 17:54:55+0530 > <LCtrl>v
+2019-01-24 17:54:59+0530 > 
+2019-01-24 17:54:59+0530 > <Tab><LCtrl>c
+2019-01-24 17:55:11+0530 > <LCtrl>v<Right>1. <Down><Left><Right><Down>  <Right><Right><Up><Up><Down><Down><Left>2.<Del><Down><Down><LShft><Down><Down><Down><Down><Del><Down><Down><Down><Right><Right><Right><Right>1. <Up><Up><Up><#+13><Up><Up>
+2019-01-24 17:55:39+0530 > 
+2019-01-24 17:55:39+0530 > <Up><Up><Up><Down><LShft><LShft>La<BckSp><BckSp><LShft>Uart <BckSp> code update,
+2019-01-24 17:55:58+0530 > 
+2019-01-24 17:55:59+0530 > <Tab><LShft><LShft>Still, <LShft>I am doing uart op<BckSp><BckSp>opcode installation <BckSp>. <Down>  <Down>    <LShft>I will update once <LShft>I done.<LShft>But, <LShft><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp> and <LShft>I struugled <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>ggled in <LShft>Uart <BckSp><#+19><BckSp><#+39><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LCtrl>c
+2019-01-24 17:58:00+0530 > <Down><Down>    2. <LCtrl>v
+2019-01-24 17:58:11+0530 > <Up><#+18><LShft><LShft>assemply  <LShft>uart <LShft>Code<BckSp><BckSp><BckSp><BckSp><BckSp> code update,<Left><#+28><Del><LShft>A<Right><#+13><Down><Down><LShft>I done the <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><Del><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp> 
+2019-01-24 17:59:41+0530 > g
+2019-01-24 17:59:50+0530 > str<BckSp><#+14>alternative for str a<BckSp>instruction in powerpc
+2019-01-24 18:00:13+0530 > <LCtrl><LCtrl><LCtrl><LShft><LShft>Power <LShft><BckSp><LShft>PC a<BckSp><LShft>A<BckSp>assembly instruction<LShft>Hi <LShft>All,
+2019-01-24 18:01:01+0530 > 
+2019-01-24 18:01:01+0530 > <LShft>I want <BckSp><BckSp><BckSp><BckSp><BckSp>am workinh<BckSp>g<BckSp>g on <LShft>T4160<LShft>RDB <LShft>machine and <LShft>I want to debug the u-boot <BckSp>. <LShft>I want to write<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp> print c<BckSp>some value from procee<BckSp>ssor c<BckSp>assembly file<BckSp><BckSp><BckSp><BckSp>section. <LShft>I wa<BckSp><BckSp><BckSp><BckSp>
+2019-01-24 18:02:13+0530 > <LShft>I want to some alternate solution for <BckSp><#+15><BckSp><BckSp><BckSp>instruction for <LShft>PO<BckSp>p<BckSp>ower<LShft>PC
+2019-01-24 18:02:37+0530 > 
+2019-01-24 18:02:37+0530 > <Up>1. <LShft><LCtrl><LCtrl>c
+2019-01-24 18:03:02+0530 > <LCtrl>v<LCtrl>z
+2019-01-24 18:03:07+0530 > ldr r1, -0<BckSp><BckSp>=0x<LShft>FE11<LShft>C500 
+2019-01-24 18:03:26+0530 > ldr <Del><LShft>L<BckSp>ldr, str, tstfor following <Del><Del><Del>to<Down><Left><#+15><Left><Left>
+2019-01-24 18:04:38+0530 >      <Right><Right><Right><Right><Right>
+2019-01-24 18:04:41+0530 >    <LCtrl>zzz<Up>powerpc<Left><#+10><Left><Left><Left><LShft><Right><#+19><Right><Right><Right><Right><LCtrl>b<Down><Up><Del><LShft>P<Right><Right><Left><Left><Left><LShft><Right><LCtrl>b<Right><Right><Right><Right><Right><Right><Left><LShft><Right><Right>PC<Down><Down><Up><LShft>Instructioin <BckSp><BckSp><BckSp>n a<BckSp>are<LShft><Left><#+16><Left><Left><Left><Left><Del><Up><Right><#+44><Right><Right><Right><Right>instruction <LShft>)<LShft><BckSp><LShft>() <Down><Down><LShft><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><LCtrl>x<Up><Up><Right><#+53><Right><Right><Right><Right><Right><Right><Right><LCtrl>v<LShft><Left><#+15><Left><Left><Left><LCtrl>b<Up><BckSp><BckSp> for thea<BckSp><BckSp>at <LShft>I want to initializa<BckSp>e the <LShft>uart traans<BckSp><BckSp><BckSp>nsmit <BckSp>.
+2019-01-24 18:06:44+0530 > <Up><Down><Down><Down><Up><Right><#+16><Left><Left><Del><Del><Del><Del><Del><Down><Down><Up><Up><End><BckSp><#+12><BckSp><BckSp><BckSp>
+2019-01-24 18:07:01+0530 > 
+2019-01-24 18:07:01+0530 > 
+2019-01-24 18:07:01+0530 > <LCtrl>c
+2019-01-24 18:07:05+0530 > <Up><LShft>I followed this thread,
+2019-01-24 18:07:21+0530 > <Tab><RShft><Ins>
+2019-01-24 18:07:24+0530 > 
+2019-01-24 18:07:24+0530 > <Del><Del><Del><Del><Del><Del><Del><Down><Down><Down>
+2019-01-24 18:07:28+0530 > <LShft>Tha<BckSp><BckSp><BckSp><LShft>Regards, <LShft>Vinoth<LShft>S<LCtrl>x<Del><Del><Down><Down>
+2019-01-24 18:07:43+0530 > <LCtrl>v
+2019-01-24 18:07:44+0530 > 
+2019-01-24 18:07:44+0530 > 
+2019-01-24 18:07:44+0530 > <Up><Del>powerpclautertrace32t424t4160<LCtrl>c
+2019-01-24 18:09:17+0530 > 
+2019-01-24 18:09:21+0530 > <Tab><BckSp>3. <LCtrl>v
+2019-01-24 18:09:26+0530 > <Left><Left> <Left> <BckSp><LShft>I done the <BckSp><#+10><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LShft>Still <LShft>I am workinh<BckSp>g on <LShft>uat<BckSp>rt initialization <LShft>UART tx<Left><Left><Left><Left><Del><Del><Del><Del><Del><Del><Del>.<Del><Down><LCtrl><LCtrl>z<LShft><Down><Del><LShft>Uart in po<BckSp><BckSp><#+13><BckSp><LShft>UART in <BckSp>itialization <BckSp><RShft>:chess
+2019-01-24 18:14:15+0530 > <CpsLk>VINOTHSARU<CpsLk><Tab>ilovemyindia
+2019-01-24 18:14:30+0530 > <LMeta><#+4>lzs10=<BckSp><#+20>zs10062013
+2019-01-25 08:42:49+0530 > vinothiloveyou
+2019-01-25 08:43:21+0530 > vinothkumar.s1994<LShft>@gmail.com<Tab>vinoth<LShft>@nxp123
+2019-01-25 08:44:08+0530 > <LCtrl><LCtrl>chess
+2019-01-25 08:48:58+0530 > <CpsLk>VINOTHSARU<CpsLk><Tab>ilovemyindia
+2019-01-25 08:49:20+0530 > powerpc assembly instruction to uart transmite<BckSp><Down>
+2019-01-25 09:26:39+0530 > <LCtrl><LCtrl>g
+2019-01-25 09:28:16+0530 > upcoming tamil fes<Down><BckSp>9
+2019-01-25 09:28:29+0530 > <LCtrl><Esc><Esc>zumileaveahr
+2019-01-25 09:33:54+0530 > <LCtrl>c
+2019-01-25 09:34:17+0530 > <LCtrl>vg
+2019-01-25 09:39:30+0530 > upcoming tamil fes<Down><BckSp>9
+2019-01-25 09:39:54+0530 > <LCtrl><LCtrl><LCtrl>fstrin
+2019-01-25 09:46:28+0530 > g
+2019-01-25 09:46:35+0530 > 
+2019-01-25 09:46:37+0530 > 
+2019-01-25 09:46:37+0530 > 
+2019-01-25 09:47:03+0530 > 
+2019-01-25 09:47:07+0530 > 
+2019-01-25 09:47:08+0530 > 
+2019-01-25 09:47:11+0530 > 
+2019-01-25 09:47:12+0530 > 
+2019-01-25 09:47:15+0530 > 
+2019-01-25 09:47:16+0530 > <BckSp><#+21>uart<BckSp><BckSp><#+19>uaa<BckSp>rt<BckSp><#+17>register<BckSp><#+22>dump<BckSp><#+16>load ass<BckSp><BckSp>ddress<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>
+2019-01-25 09:47:48+0530 > 
+2019-01-25 09:47:50+0530 > 
+2019-01-25 09:47:51+0530 > 
+2019-01-25 09:47:52+0530 > 
+2019-01-25 09:47:53+0530 > 
+2019-01-25 09:47:54+0530 > 
+2019-01-25 09:48:10+0530 > 
+2019-01-25 09:48:10+0530 > 
+2019-01-25 09:48:11+0530 > 
+2019-01-25 09:48:12+0530 > 
+2019-01-25 09:48:12+0530 > 
+2019-01-25 09:48:12+0530 > 
+2019-01-25 09:48:15+0530 > 
+2019-01-25 09:48:15+0530 > 
+2019-01-25 09:48:16+0530 > 
+2019-01-25 09:48:16+0530 > 
+2019-01-25 09:48:17+0530 > 
+2019-01-25 09:48:17+0530 > 
+2019-01-25 09:48:17+0530 > 
+2019-01-25 09:48:17+0530 > 
+2019-01-25 09:48:17+0530 > 
+2019-01-25 09:48:18+0530 > 
+2019-01-25 09:48:19+0530 > 
+2019-01-25 09:48:20+0530 > 
+2019-01-25 09:48:20+0530 > 
+2019-01-25 09:48:21+0530 > 
+2019-01-25 09:48:22+0530 > 
+2019-01-25 09:48:23+0530 > 
+2019-01-25 09:48:23+0530 > 
+2019-01-25 09:48:23+0530 > 
+2019-01-25 09:48:23+0530 > 
+2019-01-25 09:48:24+0530 > 
+2019-01-25 09:48:25+0530 > 
+2019-01-25 09:48:25+0530 > 
+2019-01-25 09:48:25+0530 > 
+2019-01-25 09:48:26+0530 > 
+2019-01-25 09:48:26+0530 > 
+2019-01-25 09:48:26+0530 > 
+2019-01-25 09:48:34+0530 > 
+2019-01-25 09:48:34+0530 > 
+2019-01-25 09:48:36+0530 > 
+2019-01-25 09:48:37+0530 > 
+2019-01-25 09:48:37+0530 > 
+2019-01-25 09:48:39+0530 > 
+2019-01-25 09:48:39+0530 > 
+2019-01-25 09:48:40+0530 > 
+2019-01-25 09:48:40+0530 > 
+2019-01-25 09:48:41+0530 > 
+2019-01-25 09:48:41+0530 > 
+2019-01-25 09:48:42+0530 > 
+2019-01-25 09:48:43+0530 > 
+2019-01-25 09:48:44+0530 > 
+2019-01-25 09:48:45+0530 > 
+2019-01-25 09:48:45+0530 > 
+2019-01-25 09:48:46+0530 > 
+2019-01-25 09:48:46+0530 > 
+2019-01-25 09:48:47+0530 > 
+2019-01-25 09:48:47+0530 > 
+2019-01-25 09:48:48+0530 > 
+2019-01-25 09:48:48+0530 > 
+2019-01-25 09:48:49+0530 > 
+2019-01-25 09:48:49+0530 > 
+2019-01-25 09:48:50+0530 > 
+2019-01-25 09:48:50+0530 > 
+2019-01-25 09:48:50+0530 > 
+2019-01-25 09:48:52+0530 > 
+2019-01-25 09:48:52+0530 > <#+15><LCtrl><Left><Left><Right><#+22><Right>s
+2019-01-25 09:51:51+0530 > <Left><Down><F2><BckSp>
+2019-01-25 09:51:59+0530 > www.
+2019-01-25 09:52:07+0530 > 
+2019-01-25 09:52:09+0530 > 
+2019-01-25 09:52:09+0530 > 
+2019-01-25 09:52:09+0530 > <F5><#+4><F5><F5><F5><#+24><F5><F5><F5><F5><F5><F5><F5><F5><F5><F5><F5><F5><F5><LCtrl>t<Esc><Esc><LCtrl>fb
+2019-01-25 09:53:26+0530 > vinothsekar.m<LShft>@gmail.com<Tab>vinoth<LShft>@123\\
+2019-01-25 09:53:45+0530 > vinoth<BckSp><#+18>vinoth<LShft>@123
+2019-01-25 09:53:55+0530 > <Esc><LCtrl><Esc><#+1><Esc><Esc><Esc><LCtrl><LCtrl><LCtrl><LCtrl><Esc><#+2><Esc><Esc><LCtrl><Esc><Esc><LCtrl>g
+2019-01-25 10:47:10+0530 > example <BckSp><#+20>arm assembly lam<BckSp>ngua<Down> for uart 
+2019-01-25 10:47:34+0530 > <LCtrl><LCtrl>c
+2019-01-25 10:48:01+0530 > <LCtrl>tg
+2019-01-25 10:48:03+0530 > <LCtrl>v comm<BckSp><BckSp><BckSp><BckSp>inst<Down> <BckSp><BckSp><BckSp><BckSp><Down>
+2019-01-25 10:48:17+0530 > <LCtrl>offset
+2019-01-25 10:48:37+0530 > 
+2019-01-25 10:48:38+0530 > 
+2019-01-25 10:48:38+0530 > 
+2019-01-25 10:48:40+0530 > 
+2019-01-25 10:48:41+0530 > 
+2019-01-25 10:48:41+0530 > 
+2019-01-25 10:48:41+0530 > 
+2019-01-25 10:48:41+0530 > 
+2019-01-25 10:48:42+0530 > 
+2019-01-25 10:48:42+0530 > 
+2019-01-25 10:48:42+0530 > 
+2019-01-25 10:48:42+0530 > 
+2019-01-25 10:48:42+0530 > 
+2019-01-25 10:48:42+0530 > <LCtrl>aimmediate
+2019-01-25 10:48:51+0530 > 
+2019-01-25 10:48:52+0530 > 
+2019-01-25 10:48:52+0530 > 
+2019-01-25 10:48:52+0530 > 
+2019-01-25 10:48:53+0530 >  
+2019-01-25 10:48:56+0530 > o
+2019-01-25 10:49:01+0530 > 
+2019-01-25 10:49:01+0530 > 
+2019-01-25 10:49:02+0530 > <BckSp><BckSp>g
+2019-01-25 10:49:19+0530 > powerpc instruction for load with immediate offset
+2019-01-25 10:49:39+0530 > <LCtrl><Up><Up><Up><Up>i<Right>
+2019-01-25 10:50:00+0530 >         ldr <LAlt><Tab><LAlt><Tab><LAlt><Tab><Tab>r1, 0x<LShft>FE11<LShft>C500<Esc>
+2019-01-25 10:50:22+0530 > <#+2><RShft>:w<LShft>!
+2019-01-25 10:50:25+0530 > <LCtrl>l
+2019-01-25 10:50:29+0530 > 
+2019-01-25 10:50:29+0530 > <Up>
+2019-01-25 10:50:30+0530 > u<LAlt><Tab><LAlt><Tab><LAlt><Tab><LCtrl><LCtrl>f
+2019-01-25 10:51:29+0530 > 
+2019-01-25 10:51:30+0530 >  <LCtrl>z <LCtrl>z<Right><#+1> o
+2019-01-25 10:51:37+0530 > 
+2019-01-25 10:51:38+0530 > 
+2019-01-25 10:51:38+0530 > <Esc><#+1><LCtrl>f
+2019-01-25 10:52:16+0530 > 
+2019-01-25 10:52:17+0530 > <Right>f
+2019-01-25 10:52:20+0530 > 
+2019-01-25 10:52:20+0530 > 
+2019-01-25 10:52:23+0530 > 
+2019-01-25 10:52:23+0530 > 
+2019-01-25 10:52:24+0530 > <LCtrl>c
+2019-01-25 10:52:29+0530 > <LCtrl>t<LCtrl>v powerpc instre<BckSp>uction
+2019-01-25 10:52:41+0530 > <LCtrl><LCtrl><LCtrl><LCtrl>c
+2019-01-25 10:53:08+0530 > <LAlt><Tab>/<RShft><Ins>
+2019-01-25 10:53:11+0530 > /<Up>
+2019-01-25 10:53:27+0530 > /<Up>
+2019-01-25 10:53:35+0530 > /<Up>
+2019-01-25 10:53:43+0530 > n<Right><#+18><Left><Left><Left><Left><Left>/r9
+2019-01-25 10:54:03+0530 > /<Up>
+2019-01-25 10:54:05+0530 > /<Up>
+2019-01-25 10:54:06+0530 > /<Up>
+2019-01-25 10:54:08+0530 > /<Up>
+2019-01-25 10:54:09+0530 > /<Up>
+2019-01-25 10:54:10+0530 > /<Up>
+2019-01-25 10:54:12+0530 > /<Up>
+2019-01-25 10:54:15+0530 > /<Up><Up>
+2019-01-25 10:54:17+0530 > nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn<LAlt><Tab><LAlt><Tab>/<Up><Up><Up>
+2019-01-25 10:56:28+0530 > <Down><Down><Down><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><Left><Left><Left><Left><Left><Left><Left>i<Del><Del><Del>l<Right><Right><Right><Right><Right>  <Down><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><Up><Down><End>
+2019-01-25 10:56:58+0530 >         lwz     <LAlt><Tab><LAlt><Tab>r2, <LAlt><Tab><LAlt><Tab><BckSp>0<LShft>()<Left>r1<Esc><Down><RShft>:w<LShft>!
+2019-01-25 10:57:18+0530 > <LCtrl>l<Up>
+2019-01-25 10:57:22+0530 > <Up><Up><Up><Left><Left><Left><Del><Del><Esc><RShft>:w<LShft>!
+2019-01-25 10:57:45+0530 > <LCtrl>l<Up>
+2019-01-25 10:57:49+0530 > <Right><Right><Right><Right><Right><Right><Right>  <Left><Up>i<Right><Right><End>   ;<Ins><Ins><Down><Down><#+17><Down><#+26><Down><#+16><Up><#+64><Down><#+18><Down><Down><Down><Down><BckSp><LShft>?<BckSp>/<LShft>**/<Left><Left> <LShft>Uaaa<BckSp><BckSp>rt hi<LAlt><Tab><LAlt><Tab>ght <BckSp><BckSp> halfw<LAlt><Tab><LAlt><Tab>ord <LShft>(<LShft>)<Left>16bit<Right> <Down> /<LShft>**/<Left><Left> <LShft>Uart <Up><LShft>TX<Down><Left><Left><LShft>Tx <Up><Left> <Down>low halfword <LShft>(<LShft>)<Left>16bit<Right> <Down><Esc><Down><Up><#+1><RShft>:w<LShft>!
+2019-01-25 10:59:47+0530 > <LCtrl>l<Up>
+2019-01-25 10:59:51+0530 > <Down><LAlt><Tab><LAlt><Tab><Left><#+15><Left><Left>dd<Up><Up>p<Down><Down><Esc><RShft>:wq
+2019-01-25 11:00:34+0530 > <Up>
+2019-01-25 11:00:35+0530 > /<Up>
+2019-01-25 11:00:37+0530 > <LCtrl>l<Up>
+2019-01-25 11:00:42+0530 > <LCtrl>c
+2019-01-25 11:00:50+0530 > <LShft>Power<LShft>P<LShft>C assemply <BckSp><BckSp><BckSp><BckSp>bly instruction<RShft>:
+2019-01-25 11:01:18+0530 > 
+2019-01-25 11:01:19+0530 > <Up><Up><LShft><Down><LCtrl>b<Down><Up><Tab><LCtrl>v<Up><Up><Up><Up><Up><Up><Up><LShft><Left><#+14><Left><Left><Left><Left><Left><LCtrl>b<Down><Del><Tab><LCtrl>z<Up><Right><#+21><Left><Left><Left><Left><Right>  <Del><Down><Del> <Del><Del><Del><Del><Up><Up><Up><Left><#+33>1. <Down><Down><Down><Left><Left>2.<Left><Left><Up><Up><Up><Del><Del>1<LShft><Left><LShft><Right><Right><Right><LCtrl>b<Down><Down><Down><Right><Right> <Up><Up><Down><Down><Down><Down><Down><Up><Up><Up><Up><Up><Del><Down><Down><Down><Down><LCtrl>c
+2019-01-25 11:02:27+0530 > <LCtrl>v<BckSp>
+2019-01-25 11:02:39+0530 > <LCtrl>mov
+2019-01-25 11:02:59+0530 > 
+2019-01-25 11:02:59+0530 > 
+2019-01-25 11:03:00+0530 > 
+2019-01-25 11:03:00+0530 > 
+2019-01-25 11:03:00+0530 > 
+2019-01-25 11:03:01+0530 > 
+2019-01-25 11:03:01+0530 > 
+2019-01-25 11:03:01+0530 > 
+2019-01-25 11:03:01+0530 > 
+2019-01-25 11:03:02+0530 > 
+2019-01-25 11:03:02+0530 > 
+2019-01-25 11:03:02+0530 > 
+2019-01-25 11:03:02+0530 > 
+2019-01-25 11:03:03+0530 > 
+2019-01-25 11:03:03+0530 > 
+2019-01-25 11:03:03+0530 > 
+2019-01-25 11:03:04+0530 > 
+2019-01-25 11:03:04+0530 > 
+2019-01-25 11:03:04+0530 > 
+2019-01-25 11:03:04+0530 > 
+2019-01-25 11:03:04+0530 > 
+2019-01-25 11:03:04+0530 > 
+2019-01-25 11:03:05+0530 > <LCtrl><LCtrl>c
+2019-01-25 11:04:04+0530 > c
+2019-01-25 11:04:04+0530 > <LCtrl>v<BckSp><BckSp><LCtrl>c
+2019-01-25 11:04:43+0530 > <LAlt><Tab><LCtrl>v<Up><Left><Left><Left><BckSp>     <Down><Down><#+10><Up><Left><#+14><Left><Left><Left><BckSp> <Down><BckSp> <Up><Right><#+18><Down><Down>
+2019-01-25 11:05:08+0530 > 
+2019-01-25 11:05:08+0530 > 
+2019-01-25 11:05:08+0530 > 
+2019-01-25 11:05:08+0530 > 
+2019-01-25 11:05:09+0530 > 
+2019-01-25 11:05:09+0530 > 
+2019-01-25 11:05:09+0530 > <Up><#+18><Up><Up><Up><Right><Right><Right><Left><Down><Right><Right><Right><Right><Right><Right><LShft><Down><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><Right><LCtrl>x<Up><Up><LCtrl>v<Down><Down><Down><Down><LShft><Down><Down><Down><Down><Down><Down><Down><Down><Del><Up><Up><Up><Left><#+8><Up><Left><Left><Left><Left><Left><Left><Tab><Down><Left><Left><Left><Left><Left><Left><Tab><Down><Del><Up><Up><Up><#+13><LShft><Down><Down><Down><Up><Up><Up><Up><Down><Down><LShft><Down><#+2><Down><Down><Down><Down><Down><Down><Down><Del><Up><Up><Up><Up><Up><Up><Up><Up><Up><Left><Left><LShft><Right><#+5><Right><Right><Right><#+11><Left><Right><Right><Right><Left><Left><LShft><Right><#+16><Left><Left><LCtrl>c
+2019-01-25 11:05:56+0530 > <Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Left><#+10><Left><Left><LShft><Right><#+14><LCtrl>v<Up><Up><LShft><Down><Del><Down><Right><Up><Right><Right><Left><BckSp>    <Down><Del>   <BckSp><Down><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Up><Right><Up><Right><#+11><Left><Left><Down><Del>2<Down><Left><Del>2<Down><Down><#+25><Up><Up><Up><Up><LCtrl>zzzzyy<Del>2<Down><Left><Del>2<Down><Down><Down><Down><Down><Down><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab>source 
+2019-01-25 11:07:21+0530 > <BckSp>
+2019-01-25 11:07:22+0530 > 
+2019-01-25 11:07:23+0530 > 
+2019-01-25 11:07:23+0530 > 
+2019-01-25 11:07:23+0530 > <BckSp><#+17>move
+2019-01-25 11:07:30+0530 > 
+2019-01-25 11:07:30+0530 > 
+2019-01-25 11:07:30+0530 > 
+2019-01-25 11:07:31+0530 > 
+2019-01-25 11:07:34+0530 > 
+2019-01-25 11:07:34+0530 > 
+2019-01-25 11:07:35+0530 > 
+2019-01-25 11:07:35+0530 > 
+2019-01-25 11:07:35+0530 > 
+2019-01-25 11:07:36+0530 > 
+2019-01-25 11:07:36+0530 > 
+2019-01-25 11:07:37+0530 > 
+2019-01-25 11:07:38+0530 > 
+2019-01-25 11:07:38+0530 > 
+2019-01-25 11:07:38+0530 > 
+2019-01-25 11:07:38+0530 > 
+2019-01-25 11:07:43+0530 > 
+2019-01-25 11:07:44+0530 > 
+2019-01-25 11:07:46+0530 > 
+2019-01-25 11:07:49+0530 > 
+2019-01-25 11:07:53+0530 > 
+2019-01-25 11:07:54+0530 > 
+2019-01-25 11:07:55+0530 > 
+2019-01-25 11:07:55+0530 > 
+2019-01-25 11:08:02+0530 > 
+2019-01-25 11:08:03+0530 > 
+2019-01-25 11:08:04+0530 > 
+2019-01-25 11:08:04+0530 > 
+2019-01-25 11:08:05+0530 > 
+2019-01-25 11:08:05+0530 > 
+2019-01-25 11:08:07+0530 > 
+2019-01-25 11:08:09+0530 > 
+2019-01-25 11:08:11+0530 > 
+2019-01-25 11:08:11+0530 > <LCtrl>g
+2019-01-25 11:09:04+0530 > mov instruction for powerpc
+2019-01-25 11:09:13+0530 > <LCtrl><LCtrl><LCtrl><LCtrl><LCtrl>c
+2019-01-25 11:09:49+0530 > <LCtrl>fv<LAlt><Tab>
+2019-01-25 11:10:05+0530 > <#+19><Up><#+12><Up><Up><Up><Up><Up><LAlt><Tab><LAlt><Tab><Up><Down>power pc<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><Up><Up><Up><Up><Up><Up><Up><Up><LAlt><Tab><LAlt><Tab><Down><Down><Down><Down><Up><Up><Up><Up><Up>example<RShft>:<Down><Down><Down><Down><Down><Down><Down>powerpc instrucion<RShft>:
+2019-01-25 11:10:37+0530 > <LCtrl>v<Left><Left><LAlt><Tab><LAlt><Tab><Left><Del><Del>
+2019-01-25 11:10:43+0530 > <Del><Tab><BckSp><LAlt><Tab><LAlt><Tab>    <BckSp> 
+2019-01-25 11:10:48+0530 >    mr r2, <LShft>#0x01     /<LShft>**/<Left><Left> load value <Left><#+15><Left><Del><Del><Del><Del><Left> move value<Del><Del><Del><Del><Del><Del><Del><Del><BckSp><BckSp><BckSp><#+11><BckSp><BckSp><BckSp> load value to r2 <Down>   mr r2, r1<LShft>]<Left><Left><Left><LShft>{<BckSp>[<End>      /<LShft>**/<Left><Left> load address of r1 to r2 <Down><Up><Left><Left><Left><Left><Up><Up><LShft><Left><Down><LShft><Down><Down><Left><Left><Right><Up><Down><LShft><Down><Left><Left><Left><Left><Left><Right><LCtrl>c
+2019-01-25 11:12:23+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><Tab><Tab><Down><Down><Down><Down><End>i<Right><Down><Esc><Down>dddd<Up><Right><Right><Right><Right><Right><Right><Right><Right>dd<Up><End>i<Right>
+2019-01-25 11:12:48+0530 >         <RShft><Ins><Left><#+35><Left><Left>     <Down>        <Up><End><Left><#+25><Left><Del><Down><LAlt><Tab><LCtrl>c
+2019-01-25 11:13:07+0530 > <LAlt><Tab><RShft><Ins><Left><#+38><Left><Left><Left><Left><Left><Left><Left> <Right>    <Up><Up><Right><Down><Down><Right><Up><Right><Del><Down><Del><Down><Up><End>
+2019-01-25 11:13:24+0530 > <Esc><Esc><RShft>:w<LShft>!
+2019-01-25 11:13:26+0530 > <LCtrl>;<BckSp><LCtrl>l
+2019-01-25 11:13:32+0530 > 
+2019-01-25 11:13:32+0530 > <Up>
+2019-01-25 11:13:33+0530 > <RShft>:81
+2019-01-25 11:13:50+0530 > <Right><#+16><Left>i<Del><Del><Del><Del><Del>''<Left><LShft>A<Esc><RShft>:w<LShft>!
+2019-01-25 11:14:04+0530 > <LCtrl>l<Up>
+2019-01-25 11:14:08+0530 > <Left><Right>i<Right><BckSp><Del><BckSp>0x01<Esc><RShft>:w<LShft>!
+2019-01-25 11:14:38+0530 > <LCtrl>l<Up><#+1>
+2019-01-25 11:14:44+0530 > <Right><#+11><Left>i  <Up><Down><Down><Up><Up><Up><Down><Down><Down><Esc><RShft>:w<LShft>!
+2019-01-25 11:15:26+0530 > <Down><Down><Up><LAlt><Tab><LAlt><Tab><LCtrl><RShft>:q
+2019-01-25 11:15:37+0530 > <LCtrl><Up><Up>
+2019-01-25 11:15:39+0530 > <Up><Up>
+2019-01-25 11:15:40+0530 > /<Up><#+1>
+2019-01-25 11:15:42+0530 > <Down><Down><Down><Down><Up><Right><Right><Right><Left><Left><Up><Up><Left><Left><Left><Left><Left><Left>i<BckSp><BckSp><BckSp><Esc><#+2><RShft>:w<LShft>!
+2019-01-25 11:16:04+0530 > <Up>
+2019-01-25 11:16:09+0530 > <RShft>:q
+2019-01-25 11:16:25+0530 > <Up><Up>
+2019-01-25 11:16:26+0530 > <Up><Up>
+2019-01-25 11:16:27+0530 > /<Up>
+2019-01-25 11:16:28+0530 > <RShft>:q
+2019-01-25 11:16:32+0530 > i<Right>'<Right>'<Esc><RShft>:w<LShft>!
+2019-01-25 11:16:42+0530 > <Up>
+2019-01-25 11:16:45+0530 > i<Left><Left><Right><Right><BckSp>acci value
+2019-01-25 11:17:32+0530 > <Esc><#+1><LCtrl>c
+2019-01-25 11:18:12+0530 > <LAlt><Tab><RShft><Ins><LShft>L<Esc><RShft>:w<LShft>!
+2019-01-25 11:18:18+0530 > <Up>
+2019-01-25 11:18:22+0530 > <Left><Left><Left><LAlt><Tab><Down><Down><LAlt><Tab>g
+2019-01-25 11:19:33+0530 > example for mr <BckSp><#+26>mr in<BckSp><BckSp>powerpc instr<Down>
+2019-01-25 11:19:50+0530 > <LCtrl><LCtrl>fmr
+2019-01-25 11:20:26+0530 > load value for powerpc instruction
+2019-01-25 11:21:20+0530 > <LCtrl><LCtrl><LCtrl>c
+2019-01-25 11:22:01+0530 > <LAlt><Tab><Up><End>i<Right>
+2019-01-25 11:22:07+0530 >         <RShft><Ins>  <#+6>  r2, <LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab>0, 0xa   /<LShft>**/<Left><Left> <Esc><Down>dd<RShft>:w<LShft>!
+2019-01-25 11:22:37+0530 > <LCtrl>l<Up>
+2019-01-25 11:22:41+0530 > <Up><Up>
+2019-01-25 11:23:00+0530 > <Up><Up>
+2019-01-25 11:23:01+0530 > /<Up>
+2019-01-25 11:23:02+0530 > <Down><Down><Down><Right><Right><#+20><Down><Up><Down><Right><Right><Right><Right><Right><Up><Up><Up><Down><Right><#+14><LAlt><Tab><LAlt><Tab><Right><#+18><Right>ilpa<BckSp><BckSp>oad 0xa into r3<BckSp>2 <Esc><RShft>:w<LShft>!
+2019-01-25 11:23:47+0530 > <Down>i<End>
+2019-01-25 11:23:50+0530 >         print char
+2019-01-25 11:24:21+0530 > <LCtrl><LCtrl>fprint
+2019-01-25 11:25:01+0530 > 
+2019-01-25 11:25:02+0530 > 
+2019-01-25 11:25:02+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LCtrl>fmr
+2019-01-25 11:26:47+0530 > 
+2019-01-25 11:26:48+0530 > 
+2019-01-25 11:26:48+0530 > <LAlt><Tab><LAlt><Tab><LCtrl><LCtrl><LCtrl><LCtrl>c
+2019-01-25 11:27:40+0530 > <Up><Up><Down>3. <LShft>Power<LShft>PC assembly instruction with example<RShft>: <LCtrl>vabbb<LCtrl><LCtrl>c
+2019-01-25 11:29:14+0530 > <LCtrl>tg
+2019-01-25 11:29:16+0530 > <LCtrl>v in<BckSp><BckSp>powerpc in<Down>
+2019-01-25 11:29:25+0530 > <LCtrl>g
+2019-01-25 11:29:37+0530 > str instr<Down>
+2019-01-25 11:29:42+0530 > <LCtrl><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LCtrl><LShft>c
+2019-01-25 11:30:38+0530 > <LAlt><Tab><LCtrl>v<Del><Up><Up><Up><Up><Down><#+10><Down><Del><Del><Del><Del><Down><Del><Del><Del><Del><Down><Del><Del><Del><Del><Del><Down><Del><Del><Del><Del><Up><Up><Down><Down><Up> <Down><Up><Down><LShft><Down><Del><Up><#+20><Up><Up><Up><LShft><Down><Down><Down><Down><Down><Down><Down><Del><Up><Up><Up><Up><Up><Up><Up><LShft><Down><Down><Down><Down><Down><Down><Down><Del><Down><Right><Right><Right><Right><Right><Down><Down><Down><Down><Down><Down><Down><LShft>Powerpc<RShft>:
+2019-01-25 11:31:19+0530 > <LAlt><Tab><Up>dd<Esc>dd<Esc><RShft>:w<LShft>!
+2019-01-25 11:31:31+0530 > i<LAlt><Tab><LCtrl>c
+2019-01-25 11:32:51+0530 > <LCtrl>v<LCtrl>z<LCtrl>zz<Up>4. <LShft>Power<LShft>PC asseembly <BckSp><BckSp><BckSp><BckSp>bly <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>embly instruction wir<BckSp>th example<RShft>: <LCtrl>v
+2019-01-25 11:33:32+0530 > 
+2019-01-25 11:33:32+0530 > <LCtrl>fstore
+2019-01-25 11:33:52+0530 > 
+2019-01-25 11:33:52+0530 > 
+2019-01-25 11:33:53+0530 > 
+2019-01-25 11:33:53+0530 > 
+2019-01-25 11:33:58+0530 > <LCtrl>fstore
+2019-01-25 11:34:12+0530 > 
+2019-01-25 11:34:15+0530 > <LCtrl>c
+2019-01-25 11:34:27+0530 > <LCtrl>tg
+2019-01-25 11:34:29+0530 > <LCtrl>v instruction <Down> 
+2019-01-25 11:34:39+0530 > <LCtrl><LCtrl><LAlt><Tab>    <Up><Up><Down>    <Left>stb     <LAlt><Tab><LAlt><Tab>r2, []<Left>r1<LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LCtrl>c
+2019-01-25 11:35:50+0530 > <LAlt><Tab><LAlt><Tab><RShft><Ins><LAlt><Tab><Down><Up><Up><Up><Up><Down><Del><Tab><BckSp>  <BckSp><End>    /<LShft>**/<Left><Left> <LShft>Store byte <Left><Left><#+33><Left><Left><Left><LShft><Down><Left><Left><Left><Left><Left><Left><Right><LCtrl>c
+2019-01-25 11:36:20+0530 > <LAlt><Tab><RShft><Ins><Left><#+35><Left><Left><Left> <Esc><RShft>:w<LShft>!
+2019-01-25 11:36:29+0530 > <LCtrl>l<Up>
+2019-01-25 11:36:33+0530 > <RShft>:82
+2019-01-25 11:36:53+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><Right><#+16><Right>i0<Del><LShft>(<Right><Right><Right><BckSp><LShft>)<Esc><Right>i<Del><Esc><RShft>:w<LShft>!
+2019-01-25 11:37:16+0530 > <LCtrl>l<Up>
+2019-01-25 11:37:20+0530 > <RShft>:q
+2019-01-25 11:37:34+0530 > <Up><Up>
+2019-01-25 11:37:35+0530 > <Up><Up>
+2019-01-25 11:37:36+0530 > /<Up>
+2019-01-25 11:37:38+0530 > <Down><Down><F5><F5><F5><F5><F5><F5><F5><LCtrl>c
+2019-01-25 11:38:54+0530 > <LCtrl>v<RShft><Del>
+2019-01-25 11:39:00+0530 > <Left><F2><Right><#+17><BckSp><BckSp><BckSp>txt
+2019-01-25 11:39:07+0530 > <F5><F5><F5><Esc><#+1><F5><F5><Up><Up>
+2019-01-25 11:39:33+0530 > <LAlt><Tab><F5><F5><F5><F5><Down><Down><Right><Up><Right><Right><Right><Right><F5><F5><F5><LCtrl>c
+2019-01-25 11:40:13+0530 > <RShft><Del>
+2019-01-25 11:40:19+0530 > <LCtrl>v<Left><Right><Left><F3><F2><Right><#+25><LShft><Left><Left><Left>txt
+2019-01-25 11:40:36+0530 > <Esc><LCtrl><LCtrl>a<LShft>Hi <LShft>Logi,
+2019-01-25 11:42:07+0530 > 
+2019-01-25 11:42:07+0530 > 
+2019-01-25 11:42:07+0530 > 
+2019-01-25 11:42:07+0530 > <LShft><BckSp><LShft>Please flash this binary and if it possible please provide team viwer <BckSp><BckSp><BckSp><BckSp>ewer sees<BckSp><BckSp><BckSp><BckSp><BckSp>.
+2019-01-25 11:42:45+0530 > 
+2019-01-25 11:42:45+0530 > 
+2019-01-25 11:42:45+0530 > 
+2019-01-25 11:42:45+0530 > <LShft>Thanks <LShft>& <LShft>Regards,
+2019-01-25 11:42:52+0530 > <LShft>Vinoth<LShft>S<Up><Up><Up>
+2019-01-25 11:42:56+0530 > <Up><Up><LAlt><Tab>cd <Tab><Tab><RShft>T<Tab><Tab><Tab>
+2019-01-25 11:44:47+0530 > ls
+2019-01-25 11:44:48+0530 > vim u<Tab>.m<Tab>
+2019-01-25 11:44:53+0530 > <PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><Up><#+14><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><#+100><PgDn><#+18><PgDn><#+18><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><Up><#+54><Up><#+19><Up><#+25><Up><#+29><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><Down><#+13><Down><Down><LCtrl>l
+2019-01-25 11:47:21+0530 > 
+2019-01-25 11:47:21+0530 > 
+2019-01-25 11:47:21+0530 > 
+2019-01-25 11:47:21+0530 > 
+2019-01-25 11:47:21+0530 > cd -
+2019-01-25 11:47:24+0530 > 
+2019-01-25 11:47:24+0530 > 
+2019-01-25 11:47:25+0530 > 
+2019-01-25 11:47:25+0530 > 
+2019-01-25 11:47:25+0530 > grep -inr <RShft>""<Left>sram<Right> <LShft>*
+2019-01-25 11:47:33+0530 > 
+2019-01-25 11:47:35+0530 > 
+2019-01-25 11:47:35+0530 > 
+2019-01-25 11:47:35+0530 > 
+2019-01-25 11:47:36+0530 > 
+2019-01-25 11:47:36+0530 > 
+2019-01-25 11:47:36+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LCtrl><LShft>c
+2019-01-25 11:47:59+0530 > <RShft>:q
+2019-01-25 11:48:06+0530 > 
+2019-01-25 11:48:07+0530 > 
+2019-01-25 11:48:07+0530 > 
+2019-01-25 11:48:07+0530 > find -ina<Tab><RShft><Ins>
+2019-01-25 11:48:12+0530 > cd ../
+2019-01-25 11:48:14+0530 > <Up><Up>
+2019-01-25 11:48:15+0530 > 
+2019-01-25 11:48:17+0530 > 
+2019-01-25 11:48:17+0530 > 
+2019-01-25 11:48:17+0530 > 
+2019-01-25 11:48:17+0530 > <Up>.c
+2019-01-25 11:48:20+0530 > 
+2019-01-25 11:48:21+0530 > 
+2019-01-25 11:48:21+0530 > loca<Tab>t<Tab><RShft><Ins>.c
+2019-01-25 11:48:26+0530 > 
+2019-01-25 11:48:31+0530 > 
+2019-01-25 11:48:31+0530 > 
+2019-01-25 11:48:31+0530 > 
+2019-01-25 11:48:31+0530 > 
+2019-01-25 11:48:31+0530 > <LCtrl><LShft>c
+2019-01-25 11:48:42+0530 > <LCtrl>l
+2019-01-25 11:48:48+0530 > 
+2019-01-25 11:48:48+0530 > find -ina<Tab><RShft><Ins><LCtrl><LCtrl>a<Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del>vim<Tab><Tab><End><Tab><Tab><Tab>
+2019-01-25 11:49:03+0530 > <RShft>:q
+2019-01-25 11:49:05+0530 > <Up>re<Tab>s<Tab><Tab>
+2019-01-25 11:49:09+0530 > <Down><Right><#+21><Up><Up><Down><Up><#+16><RShft>:q
+2019-01-25 11:49:57+0530 > grep -inr <RShft>"<RShft>"<Left><RShft><Ins><Right> <LShft>*
+2019-01-25 11:50:05+0530 > <Up><Up>
+2019-01-25 11:51:03+0530 > <Down><Up><Right><#+22><Right><Right>/<RShft><Ins>
+2019-01-25 11:52:00+0530 > /<Up>
+2019-01-25 11:52:01+0530 > /<Up>
+2019-01-25 11:52:02+0530 > nnnnnn<RShft>:q
+2019-01-25 11:52:17+0530 > <Up><Up><Left><Left><Left><BckSp><#+11><BckSp><BckSp><BckSp><BckSp><RShft><Ins>
+2019-01-25 11:52:23+0530 > <LCtrl>c
+2019-01-25 11:52:25+0530 > <Up><Left><Left><Left><Left><Left> <Right><#+2><Right> 
+2019-01-25 11:52:28+0530 > <Up><Down><LCtrl>l
+2019-01-25 11:52:54+0530 > <#+19><Up><Up><Up><Up>
+2019-01-25 11:52:58+0530 > vim <RShft><Ins><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>
+2019-01-25 11:53:20+0530 > <RShft>:139
+2019-01-25 11:53:22+0530 > <Right><#+40><Left><Left><Left><Left><Left><Left><Left><Right>i<BckSp>1<Esc><RShft>:w<LShft>!
+2019-01-25 11:53:33+0530 > /<Up><Up>
+2019-01-25 11:53:41+0530 > /<Up>
+2019-01-25 11:53:43+0530 > <Down><#+21><LCtrl><LShft>c
+2019-01-25 11:53:48+0530 > <LAlt><Tab><LAlt><Tab><LCtrl>v<LAlt><Tab><Up><#+17><Up><Up><Up><Esc>ddddddd<Down><Esc><RShft>:w<LShft>!
+2019-01-25 11:54:05+0530 > <LCtrl>l<Up><Up>
+2019-01-25 11:54:10+0530 > <RShft>:q
+2019-01-25 11:54:41+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down><Up><Down><Up><BckSp><#+26>cd -
+2019-01-25 11:54:57+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up>
+2019-01-25 11:55:04+0530 > <Up><Up><Up><Up><Down><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down>
+2019-01-25 11:55:13+0530 > /<Up>
+2019-01-25 11:55:15+0530 > <RShft>:q
+2019-01-25 11:55:31+0530 > <Up>
+2019-01-25 11:55:33+0530 > /<RShft><Ins>
+2019-01-25 11:55:35+0530 > <RShft>:q
+2019-01-25 11:55:54+0530 > cd ..<BckSp><BckSp>-
+2019-01-25 11:55:58+0530 > <Up><Up><Up><Up><Up><Up><Down>
+2019-01-25 11:56:01+0530 > /<Up>
+2019-01-25 11:56:03+0530 > /<Down><Down><Up><Up><Esc><Esc><Down><#+56><Down><Down><Down><Down><#+8><Down><Down><#+30><Down><Down><Down><Down><Down><Down><#+31><Down><Down><Down><#+33><Down><#+3><Down><Up><#+19><Up><Up><Up><Up><Right><#+40><Left><Left><Left><Left><Left><Down><#+36><Up><#+14><Up>/ox<BckSp><BckSp>0x100
+2019-01-25 11:56:45+0530 > /<Up>
+2019-01-25 11:56:48+0530 > /<Up>0000
+2019-01-25 11:56:52+0530 > /<Up>
+2019-01-25 11:56:54+0530 > <Right><#+7><Right><Right>i<BckSp>f<Esc><RShft>:w<LShft>!
+2019-01-25 11:57:02+0530 > <Down><Down><Down><Down><Down><Down><Down><Down>/<RShft><Ins>
+2019-01-25 11:57:11+0530 > /<Up>
+2019-01-25 11:57:12+0530 > /<Up>
+2019-01-25 11:57:13+0530 > /<Up>
+2019-01-25 11:57:14+0530 > /<Up>
+2019-01-25 11:57:15+0530 > <Right><#+36><Left><Left><Left><Left><Left><Left>/<RShft><RShft><Ins>
+2019-01-25 11:57:27+0530 > /<Up>
+2019-01-25 11:57:28+0530 > /<Up>
+2019-01-25 11:57:29+0530 > <RShft>:q
+2019-01-25 11:57:33+0530 > 
+2019-01-25 11:57:34+0530 > 
+2019-01-25 11:57:34+0530 > 
+2019-01-25 11:57:34+0530 > grep -inr <RShft>""<Left><RShft><Ins><Right> <LShft>*
+2019-01-25 11:57:40+0530 > <LCtrl>l
+2019-01-25 11:59:26+0530 > <#+19>grep -int<BckSp>r <RShft>""<Left><RShft><Ins><Right> <LShft>*
+2019-01-25 11:59:35+0530 > <Down><LCtrl>l
+2019-01-25 12:00:58+0530 > <#+18><Up><Left><Left><Left><BckSp><#+13><BckSp><BckSp><BckSp><BckSp><RShft>"sram
+2019-01-25 12:01:05+0530 > <Down><Down>
+2019-01-25 12:03:39+0530 > 
+2019-01-25 12:03:41+0530 > <#+18><Up><Up><Left><Left><Left><BckSp><BckSp><BckSp><BckSp><RShft><Ins>
+2019-01-25 12:03:46+0530 > 
+2019-01-25 12:04:24+0530 > <#+15><LCtrl>vim <RShft><Ins>
+2019-01-25 12:05:39+0530 > /<Up><Up>
+2019-01-25 12:05:44+0530 > <Up><Up><Up><RShft>?<BckSp>/<Up><Up>
+2019-01-25 12:05:49+0530 > /<Up><Up><Up><Up><Up><Up><Up><Up><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LShft>SRAM
+2019-01-25 12:05:57+0530 > /<RShft><Ins>
+2019-01-25 12:06:08+0530 > /<Up>
+2019-01-25 12:06:08+0530 > /<Up>
+2019-01-25 12:06:09+0530 > /<Up>
+2019-01-25 12:06:10+0530 > /<Up>
+2019-01-25 12:06:11+0530 > /<Up>
+2019-01-25 12:06:11+0530 > <RShft>:q
+2019-01-25 12:06:13+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Down>
+2019-01-25 12:06:23+0530 > /sram
+2019-01-25 12:06:25+0530 > /sdram
+2019-01-25 12:06:28+0530 > /<LShft>SDRAM
+2019-01-25 12:06:32+0530 > //<BckSp><Up>
+2019-01-25 12:06:45+0530 > /<Up>
+2019-01-25 12:06:46+0530 > /<Up>
+2019-01-25 12:06:47+0530 > /<Up>
+2019-01-25 12:06:49+0530 > /<LShft>SRAM
+2019-01-25 12:06:53+0530 > /<Up>
+2019-01-25 12:06:59+0530 > /<Up>
+2019-01-25 12:07:00+0530 > <RShft>:q
+2019-01-25 12:07:05+0530 > 
+2019-01-25 12:07:06+0530 > 
+2019-01-25 12:07:06+0530 > 
+2019-01-25 12:07:06+0530 > g<BckSp><Up><LCtrl>a<Del><Del><Del>cd<LCtrl>e<BckSp><#+14><BckSp>
+2019-01-25 12:07:13+0530 > 
+2019-01-25 12:07:14+0530 > 
+2019-01-25 12:07:14+0530 > grep -inr <RShft>""<Left><LShft>SRAM<Right> <LShft>*
+2019-01-25 12:07:22+0530 > <LCtrl><LShft>c
+2019-01-25 12:08:27+0530 > <Down>
+2019-01-25 12:08:36+0530 > <#+31><Up><Up><Down><Left><Left><Left><BckSp><BckSp><BckSp><BckSp><RShft><Ins>
+2019-01-25 12:08:41+0530 > vim <RShft><Ins>
+2019-01-25 12:09:37+0530 > /<RShft><Ins><Up><Down><Down><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><Esc><RShft>:q
+2019-01-25 12:09:47+0530 > <Up>
+2019-01-25 12:09:54+0530 > /<RShft><Ins>
+2019-01-25 12:09:56+0530 > /<Up>
+2019-01-25 12:09:59+0530 > /<Up>
+2019-01-25 12:10:00+0530 > /<Up>
+2019-01-25 12:10:02+0530 > /<Up>
+2019-01-25 12:10:05+0530 > /<Up>
+2019-01-25 12:10:06+0530 > /<Up>
+2019-01-25 12:10:09+0530 > /<Up>
+2019-01-25 12:10:09+0530 > /<Up>
+2019-01-25 12:10:17+0530 > /<Up>
+2019-01-25 12:10:18+0530 > <Left><#+18><Left><Left><Right><Right>/<RShft><Ins>
+2019-01-25 12:10:33+0530 > /<Up>
+2019-01-25 12:10:35+0530 > /<Up>
+2019-01-25 12:10:36+0530 > nn<Right><#+38><Left><Left><Left><Left>nnnnn<Right><#+36><Left><Left><Left><Left>i<BckSp>1<Esc><RShft>:w<LShft>!
+2019-01-25 12:11:04+0530 > <LCtrl>l<Up><Up><Down>
+2019-01-25 12:11:08+0530 > <Up><Up>
+2019-01-25 12:11:31+0530 > <RShft>:q
+2019-01-25 12:11:53+0530 > <Up>
+2019-01-25 12:11:55+0530 > <Up>
+2019-01-25 12:11:59+0530 > e<RShft>:q
+2019-01-25 12:12:03+0530 > /<Up>
+2019-01-25 12:12:06+0530 > u<Esc><RShft>:w<LShft>!
+2019-01-25 12:12:19+0530 > <Down><#+2><Down><Down><Down><Down><#+21><Down><#+11><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><RShft>:q
+2019-01-25 12:13:10+0530 > cd ../..
+2019-01-25 12:13:13+0530 > 
+2019-01-25 12:13:14+0530 > v<BckSp>cd <RShft>T<Tab>
+2019-01-25 12:13:16+0530 > 
+2019-01-25 12:13:16+0530 > ls
+2019-01-25 12:13:17+0530 > vim <Tab>u<Tab>.m<Tab>
+2019-01-25 12:13:21+0530 > 
+2019-01-25 12:13:22+0530 > <Esc><RShft>:q
+2019-01-25 12:13:49+0530 > 
+2019-01-25 12:13:49+0530 > 
+2019-01-25 12:13:50+0530 > 
+2019-01-25 12:13:50+0530 > 
+2019-01-25 12:13:50+0530 > cd ../../../
+2019-01-25 12:13:52+0530 > 
+2019-01-25 12:13:52+0530 > 
+2019-01-25 12:13:52+0530 > cd ../
+2019-01-25 12:13:53+0530 > 
+2019-01-25 12:13:54+0530 > 
+2019-01-25 12:13:54+0530 > 
+2019-01-25 12:13:54+0530 > cd con<Tab>
+2019-01-25 12:13:57+0530 > 
+2019-01-25 12:13:57+0530 > grep <RShft>"<LShft><Ins><LShft><Ins><BckSp><#+10><BckSp><BckSp><BckSp>efff<BckSp>40000<BckSp><BckSp><BckSp><BckSp><RShft>" <RShft>* -r
+2019-01-25 12:14:14+0530 > <Up><Left><#+9><Left><Left><Left><Left><BckSp><BckSp><BckSp><RShft>EFF
+2019-01-25 12:14:19+0530 > <Up><Down>cd ..
+2019-01-25 12:14:28+0530 > <Up><Up>
+2019-01-25 12:14:29+0530 > <LCtrl>c
+2019-01-25 12:14:30+0530 > <Up><Left><Left><Left><Left><Left><Left>0000
+2019-01-25 12:14:33+0530 > <Up><Left><#+11><Left><Left><Left><Left><BckSp>0
+2019-01-25 12:14:45+0530 > 
+2019-01-25 12:14:46+0530 > <#+25><Up>
+2019-01-25 12:14:47+0530 > vim <LShft><Ins><BckSp><#+11><BckSp><BckSp>
+2019-01-25 12:15:17+0530 > /<LShft><Ins>
+2019-01-25 12:15:19+0530 > <Down><#+10><Down><#+9><Down><#+9><Down><#+12><Down>ls
+2019-01-25 12:15:58+0530 > cd com<Tab><Tab><Tab><BckSp><#+19>gind <BckSp><BckSp><BckSp><BckSp><BckSp>find -name l<BckSp>lds
+2019-01-25 12:16:13+0530 > <Up><Left><Left><Left><RShft>*
+2019-01-25 12:16:15+0530 > vim <LShft><Ins><BckSp><Tab>
+2019-01-25 12:16:39+0530 > <Down><#+34><Down><Down><Down><Down><#+21><Down><#+2><Down><#+21><Down><#+21><Down><#+18><Down><#+17><Down><#+6><Down><#+22><PgUp><PgUp><Up><#+9>/0xf<BckSp><RShft>F000000
+2019-01-25 12:17:45+0530 > <RShft>:q
+2019-01-25 12:18:05+0530 > ls
+2019-01-25 12:18:07+0530 > vi<BckSp><BckSp><BckSp><BckSp>cd ..<BckSp><#+16>cd ..
+2019-01-25 12:18:22+0530 > s
+2019-01-25 12:18:23+0530 > ls
+2019-01-25 12:18:24+0530 > vim <RShft>Ma<Tab>
+2019-01-25 12:18:26+0530 > i<Esc><#+2><RShft>:wq<RShft>!
+2019-01-25 12:18:31+0530 > <Up><Up><Up><Up>
+2019-01-25 12:18:38+0530 > <RShft>:q
+2019-01-25 12:19:06+0530 > 
+2019-01-25 12:19:07+0530 > 
+2019-01-25 12:19:07+0530 > grep <RShft>TEXT_BASE * -r
+2019-01-25 12:19:13+0530 > 
+2019-01-25 12:20:16+0530 > 
+2019-01-25 12:20:16+0530 > 
+2019-01-25 12:20:16+0530 > 
+2019-01-25 12:20:17+0530 > vim <LShft><Ins>
+2019-01-25 12:20:18+0530 > /<RShft>TEXT_B
+2019-01-25 12:20:22+0530 > nnnnnn/<RShft>RAM
+2019-01-25 12:20:45+0530 > <Down><Down><Down><Down><Down><Down><Up><Up><Up><Up><Down><#+21>cd -
+2019-01-25 12:21:00+0530 > <Up><Up><Up><Up><Up><Up><Up>
+2019-01-25 12:21:03+0530 > 
+2019-01-25 12:21:03+0530 > <PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><#+9><PgDn><PgDn><PgDn><#+12><PgDn><#+124><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><Up><#+10><PgUp><PgUp><Down><Down><Down><Down><Down><#+9><Down><#+6><Down><#+10><Down><#+12><Down><Down><Down><RShft>:q
+2019-01-25 12:21:58+0530 > 
+2019-01-25 12:21:58+0530 > 
+2019-01-25 12:21:58+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><RShft>:q
+2019-01-25 12:22:45+0530 > 
+2019-01-25 12:22:46+0530 > 
+2019-01-25 12:22:46+0530 > 
+2019-01-25 12:22:46+0530 > grep <LShft><Ins> <RShft>* -r
+2019-01-25 12:22:51+0530 > grep <LShft><Ins> <RShft>* -r
+2019-01-25 12:23:02+0530 > grep <LShft><Ins> <RShft>* -r
+2019-01-25 12:24:20+0530 > <LCtrl><Home><LCtrl>f<RShft>Me<LCtrl>fmemory map<LCtrl>f<RShft>SRAM<LCtrl>f<RShft>SRAM
+2019-01-25 12:26:56+0530 > <Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Up><Up><Up><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><LCtrl>f<RShft>C<LCtrl>f<RShft>C000<Down><Down><Down><Down><Down><Down><Down><Down><Down><Up><Up><Up><Up><Up><Up><Up><Up><Up><LAlt><Tab>
+2019-01-25 12:29:31+0530 > 
+2019-01-25 12:29:32+0530 > 
+2019-01-25 12:29:32+0530 > cd inc<Tab>con<Tab>
+2019-01-25 12:29:35+0530 > 
+2019-01-25 12:29:35+0530 > 
+2019-01-25 12:29:35+0530 > grep <RShft>"oxc<BckSp><BckSp><BckSp>0xc-<BckSp>0000000<RShft>" * -r
+2019-01-25 12:29:45+0530 > <Up><Left><#+11><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><RShft>SRAM
+2019-01-25 12:31:05+0530 > 
+2019-01-25 12:31:58+0530 > 
+2019-01-25 12:31:58+0530 > 
+2019-01-25 12:31:58+0530 > <#+9><Up><Up>
+2019-01-25 12:32:00+0530 > <Up><Left><#+11><Left><Left><Left><Left><Left><Left><Left><BckSp>1
+2019-01-25 12:33:30+0530 > <LCtrl>c
+2019-01-25 12:34:45+0530 > <LAlt><Tab><LAlt><Tab><Tab><Tab><LCtrl>ffv<LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab>cd ..
+2019-01-25 12:36:09+0530 > grpe<BckSp><BckSp><BckSp><BckSp><BckSp>cd ar<Tab><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>cd ../ar<Tab>ar<BckSp><BckSp>po<Tab>
+2019-01-25 12:36:19+0530 > 
+2019-01-25 12:36:20+0530 > 
+2019-01-25 12:36:20+0530 > 
+2019-01-25 12:36:20+0530 > grep <RShft>"LASW<BckSp><BckSp>w<RShft><BckSp><RShft>W" * -r
+2019-01-25 12:36:26+0530 > vim <LShft><Ins><BckSp>
+2019-01-25 12:37:07+0530 > /<RShft>LAW
+2019-01-25 12:37:09+0530 > nn<RShft>:q
+2019-01-25 12:37:52+0530 > 
+2019-01-25 12:37:52+0530 > 
+2019-01-25 12:37:52+0530 > grep <LShft><Ins> <RShft>* -r
+2019-01-25 12:37:55+0530 > cd -
+2019-01-25 12:37:58+0530 > <Up><Up>
+2019-01-25 12:37:59+0530 > cd -
+2019-01-25 12:38:09+0530 > <Up><Down><Down><Down><Down>cd <Up><Up><Up><Up><Up>
+2019-01-25 12:38:20+0530 > nn<Down><#+33><Down><#+4><Down><#+5><Down><#+14><Down><#+11><Down><#+10><Down><#+23><Down><#+10><Down><Down><Down><Up><#+24><Up><#+10><LAlt><Tab><LAlt><Tab><Down><#+24><Down><Down><Down><#+14><LAlt><Tab><Up><#+4><LAlt><Tab><Down><#+8><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><BckSp><BckSp><BckSp>cd ../cpm<Tab><BckSp><BckSp><BckSp>ic<Tab><BckSp><Tab>c<Tab><Tab><BckSp><BckSp><BckSp><Tab>conf<Tab>
+2019-01-25 12:40:13+0530 > 
+2019-01-25 12:40:13+0530 > 
+2019-01-25 12:40:13+0530 > grep <LShft><Ins> <RShft>* -r
+2019-01-25 12:40:16+0530 > cd -
+2019-01-25 12:40:39+0530 > cd .<Up><Up>
+2019-01-25 12:40:41+0530 > grep <LShft><Ins> <RShft>* -r
+2019-01-25 12:41:06+0530 > 
+2019-01-25 12:42:05+0530 > 
+2019-01-25 12:42:06+0530 > 
+2019-01-25 12:42:06+0530 > 
+2019-01-25 12:42:06+0530 > 
+2019-01-25 12:42:06+0530 > cd <BckSp><#+20>g<BckSp><BckSp><BckSp>cd ../inc<Tab>con<Tab>
+2019-01-25 12:42:13+0530 > 
+2019-01-25 12:42:14+0530 > 
+2019-01-25 12:42:14+0530 > grep <LShft><Ins> <RShft>* -r
+2019-01-25 12:42:18+0530 > <RShft>Compile <RShft>TR<BckSp>4240 <Home><Del><Del><Del><Del><Del><Del><Del><Del><End> <RShft>Compile <RShft>Uboot for <RShft><RShft>Nor flash and <RShft>SRAM
+2019-01-25 12:43:09+0530 > <LCtrl><LCtrl><LCtrl>f<RShft>SRAM
+2019-01-25 12:43:58+0530 > 
+2019-01-25 12:43:59+0530 > 
+2019-01-25 12:44:00+0530 > 
+2019-01-25 12:44:03+0530 > 
+2019-01-25 12:44:04+0530 > 
+2019-01-25 12:44:05+0530 > 
+2019-01-25 12:44:05+0530 > 
+2019-01-25 12:44:06+0530 > 
+2019-01-25 12:44:07+0530 > 
+2019-01-25 12:44:08+0530 > 
+2019-01-25 12:44:09+0530 > 
+2019-01-25 12:44:10+0530 > <LCtrl>f<RShft>SRA<<BckSp><RShft>M
+2019-01-25 12:44:47+0530 > 
+2019-01-25 12:44:50+0530 > 
+2019-01-25 12:44:51+0530 > 
+2019-01-25 12:44:52+0530 > 
+2019-01-25 12:44:53+0530 > 
+2019-01-25 12:44:55+0530 > 
+2019-01-25 12:44:56+0530 > 
+2019-01-25 12:44:56+0530 > 
+2019-01-25 12:44:56+0530 > 
+2019-01-25 12:44:57+0530 > 
+2019-01-25 12:44:57+0530 > 
+2019-01-25 12:44:58+0530 > 
+2019-01-25 12:44:58+0530 > 
+2019-01-25 12:44:58+0530 > 
+2019-01-25 12:44:59+0530 > 
+2019-01-25 12:44:59+0530 > 
+2019-01-25 12:45:00+0530 > 
+2019-01-25 12:45:00+0530 > <LAlt><Tab><LAlt><Tab><PgUp><PgUp><#+110><LAlt><Tab>cd -<LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab>vim <LShft><Ins><BckSp><BckSp><#+9><BckSp><BckSp><BckSp><BckSp><Home><Del><Del><Del><Del>
+2019-01-25 12:47:17+0530 > <RShft>:q
+2019-01-25 12:47:18+0530 > <Up><Down>cd ../..
+2019-01-25 12:47:24+0530 > <Up><Up><Up><Down><RShft>
+2019-01-25 12:47:26+0530 > <RShft>:
+2019-01-25 12:47:27+0530 > <RShft>;q
+2019-01-25 12:47:29+0530 > <Esc><Esc><Esc><RShft>:q
+2019-01-25 12:47:31+0530 > 
+2019-01-25 12:47:32+0530 > <Up><Home><Right><Right><Right><Right><Del><Del><Del><Del><Del><Del><Del>
+2019-01-25 12:47:39+0530 > /<RShft>LOW
+2019-01-25 12:47:42+0530 > <PgDn><Down><#+22>/<LShft><Ins>
+2019-01-25 12:47:55+0530 > <Down>/<RShft>P
+2019-01-25 12:48:12+0530 > <RShft>:q
+2019-01-25 12:48:13+0530 > vi m<BckSp><BckSp>m <RShft>T<Tab>.<Tab><Tab>co<Tab>
+2019-01-25 12:48:27+0530 > /<LShft><Ins>
+2019-01-25 12:48:29+0530 > nnnnnnn<RShft>:q
+2019-01-25 12:48:35+0530 > <Up><Up>
+2019-01-25 12:48:36+0530 > /<LShft><Ins><RShft>85<RShft>xx
+2019-01-25 12:48:43+0530 > <Down><#+53><Down><#+11><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><Up><#+20><Down><#+18><Up><#+22><Up><#+9><Up><#+8><Up><#+13><Down><#+6><Down><Down><Down><#+13><Down><Down><Down><Down><Down><#+11><Down><#+56><RShft>:q
+2019-01-25 12:49:39+0530 > cd bo<Tab><Tab><Tab>nfr<Tab><Tab><Tab>tr<Tab><BckSp>4<Tab>r<Tab><Tab><Tab>
+2019-01-25 12:50:02+0530 > ls
+2019-01-25 12:50:03+0530 > vim ddr<Tab>c<Tab>
+2019-01-25 12:50:06+0530 > <PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><Down><#+20><Down><Down><RShft>:q
+2019-01-25 12:50:14+0530 > 
+2019-01-25 12:50:14+0530 > 
+2019-01-25 12:50:14+0530 > 
+2019-01-25 12:50:14+0530 > cd ../../
+2019-01-25 12:50:17+0530 > 
+2019-01-25 12:50:17+0530 > 
+2019-01-25 12:50:17+0530 > cd ..
+2019-01-25 12:50:18+0530 > vim inc<Tab>onc<Tab><BckSp><BckSp><BckSp>con<Tab>f<Tab><RShft>s<Tab><RShft>R<Tab><Tab><BckSp><RShft>T<Tab><Tab>4<Tab><Tab><Tab><RShft>R<Tab>
+2019-01-25 12:50:33+0530 > <Up><#+13><Down><#+27><End><Left><Left><Left><Left><RShft>*nnn/<Up><Up><Down>
+2019-01-25 12:52:18+0530 > n/<RShft>DRAM
+2019-01-25 12:52:29+0530 > <End><Esc>yyp<Up>i//<Down><End><Left><#+11><BckSp><BckSp><RShft>FE<Esc><RShft>:w<RShft>!
+2019-01-25 12:52:44+0530 > <Up>
+2019-01-25 12:53:03+0530 > <Up><Left><#+37>i<BckSp><LShft>* <Right><#+52> <LShft>*/<Esc><RShft>:w<LShft>!
+2019-01-25 12:54:16+0530 > <Up>
+2019-01-25 12:54:21+0530 > <Up><Up>
+2019-01-25 12:54:45+0530 > <RShft>:q
+2019-01-25 12:55:07+0530 > <Up>
+2019-01-25 12:55:09+0530 > /<Up>
+2019-01-25 12:55:11+0530 > <RShft>:q
+2019-01-25 12:55:39+0530 > <Up>
+2019-01-25 12:55:42+0530 > /<Up>
+2019-01-25 12:55:45+0530 > <RShft>:q
+2019-01-25 12:56:25+0530 > 
+2019-01-25 12:56:26+0530 > 
+2019-01-25 12:56:26+0530 > 
+2019-01-25 12:56:26+0530 > vim <RShft>Te<Tab><Tab><BckSp><Tab>c<Tab><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>.c<Tab>
+2019-01-25 12:56:32+0530 > /<LShft><Ins>
+2019-01-25 12:56:34+0530 > <RShft>:q
+2019-01-25 12:56:37+0530 > cd <RShft>T<Tab>
+2019-01-25 12:56:40+0530 > 
+2019-01-25 12:56:40+0530 > grep <LShft><Ins> <RShft>* -r
+2019-01-25 12:56:43+0530 > vo, <BckSp><BckSp><BckSp>i<BckSp><BckSp><BckSp>cd ..
+2019-01-25 12:56:58+0530 > ls
+2019-01-25 12:56:59+0530 > vim bo<Tab><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><RShft>T<Tab>bo<Tab><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>-<Tab><BckSp>u<Tab>.c<Tab>
+2019-01-25 12:57:13+0530 > n<End><Left><Left><Left><Left><Left><Left><Right>i<BckSp><BckSp><RShft>RE<BckSp><BckSp><RShft>FE<Esc><#+1><RShft>:wq<RShft>!
+2019-01-25 12:57:24+0530 > c<#+3><Up><Up>
+2019-01-25 12:57:31+0530 > <RShft>:q
+2019-01-25 12:57:56+0530 > <Up>
+2019-01-25 12:57:58+0530 > /<Up>
+2019-01-25 12:58:00+0530 > <Up>
+2019-01-25 12:59:30+0530 > n/<Up><Up>
+2019-01-25 12:59:33+0530 > <RShft>:q
+2019-01-25 12:59:45+0530 > <Up><Up><Up><Down><Down><Up><Up><Up><Up><Up><Down><Up><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>u<Tab>.m<Tab>
+2019-01-25 12:59:56+0530 > 
+2019-01-25 12:59:56+0530 > <PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><#+15><PgDn><#+6><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><#+16><PgDn><#+18><PgDn><#+19><PgDn><#+46><PgUp><PgUp><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgUp><Up><#+52><Up><#+11><Up><#+10><Up><#+3><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><PgDn><PgDn><PgDn><PgDn><PgDn>/n<BckSp>bss
+2019-01-25 13:01:19+0530 > <Up><#+37><Up><#+14><Down><Up><#+18><Up><#+15><Down><#+51><Down><#+11><Down><#+17><Down><#+15><Down><#+11><Down><#+14><Up><#+61><Up><#+13><Up><#+6><Up><#+10><RShft>Data section in 
+2019-01-25 13:02:49+0530 > <LCtrl><LCtrl><LCtrl>c
+2019-01-25 13:03:20+0530 > <LCtrl>fv<LAlt><Tab><Up><Up><#+13><Down><#+24><Up><#+34><Up><#+7><Up><#+10><Up><#+17><Up><#+12><Up><#+18><Up><Up><#+14><Up><#+16><Up><#+12><Up><#+6><Up><#+19><Down><#+15><Up><Right><#+10><RShft>*nn<Up><#+31><Down><#+10><Up><#+34><Up><#+24>/bss
+2019-01-25 13:04:41+0530 > nnnnnnnn<Up><RShft>*<Up><#+18><Down><Down><Down><Down><RShft>:q
+2019-01-25 13:05:13+0530 > 
+2019-01-25 13:05:13+0530 > 
+2019-01-25 13:05:13+0530 > grep <LShft><Ins> <RShft>* -r
+2019-01-25 13:05:16+0530 > cd ../..
+2019-01-25 13:05:22+0530 > <Up><Up>
+2019-01-25 13:05:23+0530 > <LCtrl>v <RShft>U-boot spl
+2019-01-25 13:06:27+0530 > <LCtrl><LCtrl>
+2019-01-25 13:07:53+0530 > 
+2019-01-25 13:07:54+0530 > 
+2019-01-25 13:07:54+0530 > 
+2019-01-25 13:07:54+0530 > vim t<RShft><BckSp><RShft>TE<Tab><BckSp><Tab>u-<Tab>.c<Tab>
+2019-01-25 13:08:01+0530 > /<#+3><RShft><Up><Up><Up><Up>
+2019-01-25 13:08:09+0530 > <Right><#+32>i<BckSp><BckSp>00<Esc><RShft>:wq<RShft>!
+2019-01-25 13:08:18+0530 > 
+2019-01-25 13:08:18+0530 > 
+2019-01-25 13:08:18+0530 > 
+2019-01-25 13:08:18+0530 > 
+2019-01-25 13:08:18+0530 > <Up>
+2019-01-25 13:08:24+0530 > e<Right><#+5><Up><Up><Down><Down><Down><#+14><Down><Right><#+30><Right><Left>i<F12><F11><RShft>:q
+2019-01-25 13:08:46+0530 > 
+2019-01-25 13:08:55+0530 > 
+2019-01-25 13:08:55+0530 > 
+2019-01-25 13:08:56+0530 > 
+2019-01-25 13:08:56+0530 > ls
+2019-01-25 13:08:58+0530 > cd con<Tab>
+2019-01-25 13:09:04+0530 > ls
+2019-01-25 13:09:05+0530 > ls -l t42<Tab><Tab><Tab><Tab><Tab><BckSp><Tab><Tab><Tab><BckSp><Tab><Tab><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>i<BckSp><RShft><Ins><LShft>_<Esc><RShft>:w<LShft>!
+2019-01-25 13:09:50+0530 > <Up>
+2019-01-25 13:09:58+0530 > <Down>ls
+2019-01-25 13:10:03+0530 > cd ../
+2019-01-25 13:10:08+0530 > ls
+2019-01-25 13:10:10+0530 > cd <RShft><Ins>
+2019-01-25 13:10:37+0530 > ls
+2019-01-25 13:10:38+0530 > cd sp<Tab>
+2019-01-25 13:10:43+0530 > ls
+2019-01-25 13:10:44+0530 > vu<BckSp><BckSp><BckSp>vim u<Tab>.,<Tab><BckSp>m<Tab>
+2019-01-25 13:10:56+0530 > <PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><#+20><PgDn><#+22><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><RShft>:q
+2019-01-25 13:11:14+0530 > 
+2019-01-25 13:11:14+0530 > 
+2019-01-25 13:11:14+0530 > 
+2019-01-25 13:11:15+0530 > cd ../../
+2019-01-25 13:11:18+0530 > vo, <BckSp><BckSp><BckSp>im in<Tab>s<Tab><BckSp>con<Tab>f<Tab>s<Tab><RShft>T<Tab>r<Tab><BckSp><RShft>R<BckSp><RShft>$<Tab><Tab><BckSp>4<Tab><RShft>RD<Tab>
+2019-01-25 13:11:44+0530 > /<RShft>TEXT_B
+2019-01-25 13:11:48+0530 > n<Down><#+19><Up><Esc>yyp<Up>i<RShft>#<BckSp>//<Down><Up><BckSp><RShft>*<End> <RShft>*/<Down><Left><Left><Left><BckSp><BckSp><BckSp><BckSp><BckSp><RShft>FE000<Esc><RShft>:w<RShft>!
+2019-01-25 13:12:23+0530 > <Up>
+2019-01-25 13:12:43+0530 > <RShft>:q
+2019-01-25 13:13:25+0530 > <Up>
+2019-01-25 13:13:27+0530 > <PgDn>
+2019-01-25 13:13:28+0530 > <PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><RShft>:q
+2019-01-25 13:13:44+0530 > 
+2019-01-25 13:13:44+0530 > 
+2019-01-25 13:13:44+0530 > vim<Up><BckSp><BckSp><BckSp><BckSp>c<Tab>
+2019-01-25 13:13:47+0530 > <RShft>:q
+2019-01-25 13:13:53+0530 > <Up><Up><Up><Up><Up><Up><Down><Down><Down><BckSp><#+23><BckSp><RShft>SD<Tab>u<Tab>.<Tab>c<Tab><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><Tab><Tab>u<Tab><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>spl<Tab><Tab><Tab>u<Tab>.a<Tab><BckSp>ma<Tab>
+2019-01-25 13:14:33+0530 > <PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgUp><Down><#+4><Down><#+2><Down><Down><#+2><Down><#+31><Down><#+36><Down><#+33><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn>/ddr
+2019-01-25 13:15:13+0530 > <RShft>:1
+2019-01-25 13:15:18+0530 > nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn<PgDn><#+27><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><Down><#+12>/uart
+2019-01-25 13:16:29+0530 > <Home><Home>
+2019-01-25 13:16:32+0530 > <Home><PgUp><PgUp><PgUp><PgUp><#+53>/uart
+2019-01-25 13:16:40+0530 > /serial
+2019-01-25 13:16:42+0530 > nnnnnnnnnnnnnnnnnnnnnn/prit<BckSp>nt
+2019-01-25 13:17:05+0530 > nnnnnnnn<LMeta><LMeta><LMeta><LMeta><LMeta><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LCtrl>c
+2019-01-25 13:17:44+0530 > <LCtrl><RShft><Del>
+2019-01-25 13:17:51+0530 > <LCtrl><LCtrl>v<F2><Right><#+19><BckSp><BckSp><BckSp>txt
+2019-01-25 13:17:59+0530 > <LAlt><Tab><Del><LAlt><Tab><Esc><LAlt><Tab><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LShft>SPL <LShft>Binary<RShft>: and if it possible provide team viewer..<BckSp><F5>chess
+2019-01-25 14:05:23+0530 > <CpsLk>VINOTHSARU<CpsLk><Tab>ilovemyindia
+2019-01-25 14:06:03+0530 > u376za<LAlt><Tab><LAlt><Tab>/<Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down>
+2019-01-25 14:13:30+0530 > <RShft>:q
+2019-01-25 14:14:12+0530 > <Up><Up><Up><Up><Up><Up><Up><Down><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down><Down><Down><Down><BckSp><#+34><RShft>:q
+2019-01-25 14:14:34+0530 > <Up><LCtrl>a<Del><Del><Del>cd<LCtrl>e<BckSp><BckSp><BckSp><BckSp><#+14><BckSp><BckSp><BckSp><BckSp>
+2019-01-25 14:14:44+0530 > ls
+2019-01-25 14:14:45+0530 > <LAlt><Tab><LCtrl>c
+2019-01-25 14:14:59+0530 > <LAlt><Tab><RShft><Ins><Left><#+18>-<Tab>.<BckSp><Right><#+17><Left><Left><BckSp>
+2019-01-25 14:15:09+0530 > vim u<Tab>-<Tab>.<Tab><BckSp><BckSp><BckSp><BckSp><BckSp>.<Tab>
+2019-01-25 14:15:18+0530 > <Down>/<Up><Up><Up><Up><Up>
+2019-01-25 14:15:25+0530 > <PgDn><#+14><PgUp><PgDn>/<Up>
+2019-01-25 14:17:28+0530 > /<Up>
+2019-01-25 14:17:31+0530 > <PgUp><#+74><PgUp><#+112><PgUp><#+64><PgUp><PgUp><PgUp><#+18><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><#+26><PgDn><#+98><PgDn><PgDn>/<Up>
+2019-01-25 14:19:51+0530 > <PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><#+5>/<RShft><Ins>
+2019-01-25 14:20:11+0530 > /<Up>
+2019-01-25 14:20:12+0530 > <Up><#+39><Down><#+9>/<Up>
+2019-01-25 14:20:18+0530 > /<Up>
+2019-01-25 14:20:19+0530 > /<Up>
+2019-01-25 14:20:19+0530 > <Up><Up><Down><#+20><PgUp><#+87>/<Up>
+2019-01-25 14:23:13+0530 > /<Up><Up><Up><Up><Up><Down><Down>
+2019-01-25 14:23:18+0530 > <PgUp><#+49>/<Up><Up><Up>
+2019-01-25 14:25:06+0530 > <RShft><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab>g
+2019-01-25 14:33:29+0530 > priyanka kanthi<Down> 
+2019-01-25 14:33:38+0530 > <Right><Right><Esc><#+1><Esc><Esc><Right><Right><Right><Right><Right><Right><Right><Right><Right><Left><Right><Right><Right><Right><Right>g
+2019-01-25 14:43:23+0530 > family poli<Down><Down>
+2019-01-25 14:43:33+0530 > <LCtrl>ay
+2019-01-25 14:44:41+0530 > youtube
+2019-01-25 14:45:13+0530 > <Right><Right><Right><Right><Right><Right><Right><Right><Left><Left>holloywo<BckSp><#+22>fight sc<Down>
+2019-01-25 14:52:40+0530 > <LAlt><Tab><Right><Right><Right><Right><Right><LAlt><Tab><LAlt><Tab><LAlt><Tab><LCtrl><LShft>Tls
+2019-01-25 14:59:28+0530 > cd v<BckSp>b<Tab>fr<Tab><Tab><Tab>t4r<Tab>
+2019-01-25 14:59:38+0530 > ls
+2019-01-25 14:59:39+0530 > vim <RShft><Ins>
+2019-01-25 14:59:45+0530 > <Down><Down><Down><Down><Down><Down><#+25><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><RShft>:q
+2019-01-25 15:00:14+0530 > grep -inr <RShft>""<Left><LShft>CSPR<LShft>_<LShft>CS
+2019-01-25 15:00:53+0530 > <Up> <LShft>*
+2019-01-25 15:00:55+0530 > <Up> ../
+2019-01-25 15:00:58+0530 > <Up>../
+2019-01-25 15:01:01+0530 > <Up>../
+2019-01-25 15:01:08+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab>you<Down><Down>
+2019-01-25 15:08:25+0530 > <LAlt><Tab><LAlt><Tab><Tab><Tab><Tab><Tab><Tab><Tab><LAlt><Tab><Tab><Tab><Tab><Tab><Tab>vim <RShft><Ins><BckSp><BckSp><BckSp><BckSp><BckSp>
+2019-01-25 15:18:55+0530 > <RShft>:332
+2019-01-25 15:18:58+0530 > /<RShft><Ins>
+2019-01-25 15:19:04+0530 > /<Up>
+2019-01-25 15:19:05+0530 > /<Up>
+2019-01-25 15:19:06+0530 > /<Up>
+2019-01-25 15:19:07+0530 > /<Up>
+2019-01-25 15:19:09+0530 > /<Up>
+2019-01-25 15:19:11+0530 > /<Up>
+2019-01-25 15:19:15+0530 > /<Up>
+2019-01-25 15:19:16+0530 > /<Up>
+2019-01-25 15:19:21+0530 > /<Up>
+2019-01-25 15:19:22+0530 > /<Up><Esc><Down><#+14><Down>/<Up>
+2019-01-25 15:19:36+0530 > /<Up><Esc><Up><Up><Down><Down>/oxcooo<BckSp><#+12>.<BckSp>/0x0c<BckSp><BckSp>c0<#+10>
+2019-01-25 15:19:51+0530 > <RShft>:q
+2019-01-25 15:19:53+0530 > <LCtrl>l
+2019-01-25 15:19:54+0530 > <#+15><Up><Up><Left><#+9><Left><Left><Left><Left><Del><Del><Del><Del>0x<LShft>C0000000
+2019-01-25 15:20:06+0530 > <LCtrl>l
+2019-01-25 15:20:29+0530 > <#+17><Up><Left><Left><Left><Left><BckSp><#+13><BckSp><Del><LShft>SRAM
+2019-01-25 15:20:38+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab>g<RShft>
+2019-01-25 15:21:28+0530 > 
+2019-01-25 15:21:28+0530 > sram in i<BckSp><BckSp>itia<Down> in t4240rdb eboot
+2019-01-25 15:21:44+0530 > <LAlt><Tab><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Left><Left><Left><Right>i<BckSp><BckSp><RShft>E8<Esc><RShft>:w<RShft>!
+2019-01-25 15:24:56+0530 > <Up>
+2019-01-25 15:25:00+0530 > <RShft>:q
+2019-01-25 15:25:39+0530 > <Up>
+2019-01-25 15:25:42+0530 > <RShft>:q
+2019-01-25 15:25:44+0530 > <Up><Up>
+2019-01-25 15:25:48+0530 > <Up><Up>
+2019-01-25 15:25:50+0530 > <Up><Down><Right><Right><Right><Right>i<BckSp><BckSp>40<Left><Left><BckSp><BckSp><RShft>FF<Esc><RShft>:w<RShft>!
+2019-01-25 15:26:25+0530 > <Up>
+2019-01-25 15:26:31+0530 > <LAlt><Tab><F5><F5><F5><F5><Esc><Esc><LAlt><Tab><RShft>:q
+2019-01-25 15:27:29+0530 > <Up><Up>
+2019-01-25 15:27:30+0530 > <Up><Up>
+2019-01-25 15:27:32+0530 > <LCtrl><LShft>cd -
+2019-01-25 15:27:48+0530 > cd <LShft>T4<Tab>de<Tab>u<Tab><Tab>-<Tab><BckSp><BckSp><Tab><Tab>
+2019-01-25 15:28:00+0530 > ls
+2019-01-25 15:28:01+0530 > vim u<Tab>.m<Tab>
+2019-01-25 15:28:06+0530 > <RShft>:q
+2019-01-25 15:28:08+0530 > <Up><BckSp><BckSp><BckSp><BckSp>d<Tab>
+2019-01-25 15:28:13+0530 > /<Up>
+2019-01-25 15:28:29+0530 > /<RShft><Ins>
+2019-01-25 15:28:37+0530 > /<Up><Up><Up><Down>
+2019-01-25 15:28:41+0530 > <RShft>:q
+2019-01-25 15:28:45+0530 > <RShft>:q
+2019-01-25 15:28:49+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><F5><F5><F5><LShft>Hi <LShft>Logi,
+2019-01-25 15:29:21+0530 > 
+2019-01-25 15:29:21+0530 > 
+2019-01-25 15:29:21+0530 > <Up>
+2019-01-25 15:29:23+0530 > <LShft>Please flash this binary <BckSp>.
+2019-01-25 15:29:32+0530 > 
+2019-01-25 15:29:32+0530 > <Down><Down><LShft>Regards,<Up><Up><LAlt><Tab><LCtrl>c
+2019-01-25 15:29:39+0530 > <RShft><Del>
+2019-01-25 15:29:44+0530 > <LCtrl>v<Down><Right><F2><Right><#+14><BckSp><BckSp><BckSp>txt
+2019-01-25 15:29:53+0530 > <LAlt><Tab><LAlt><Tab><Up><LAlt><Tab>chess
+2019-01-25 15:32:26+0530 > <CpsLk>VINOTHSARU<CpsLk><Tab>ilovemyi<BckSp><#+19>ilovemyindia
+2019-01-25 15:32:43+0530 > fb
+2019-01-25 15:51:41+0530 > vinoth<LShft>@123
+2019-01-25 15:51:52+0530 > 
+2019-01-25 15:53:49+0530 > /<Up>
+2019-01-25 15:54:48+0530 > <LAlt><Tab>trace32 erase all sector
+2019-01-25 16:11:13+0530 > <LCtrl><LCtrl>ferase
+2019-01-25 16:11:22+0530 > 
+2019-01-25 16:11:23+0530 > 
+2019-01-25 16:11:25+0530 > /<RShft><Ins>
+2019-01-25 16:19:31+0530 > /<Up>
+2019-01-25 16:19:37+0530 > /<Up>
+2019-01-25 16:19:38+0530 > /<RShft><Ins>
+2019-01-25 16:23:44+0530 > <Down><Down><Down><Down><Down>/<RShft><Ins>
+2019-01-25 16:25:48+0530 > /<Up>
+2019-01-25 16:25:49+0530 > <Down><#+15><Up><Down><Down><#+26><Down><#+10>/<RShft><Ins>
+2019-01-25 16:32:03+0530 > /<Up>
+2019-01-25 16:32:06+0530 > <Down><Down><Down><Down><Down><Down>/<Up><Up><BckSp><BckSp><BckSp><BckSp>2680
+2019-01-25 16:34:51+0530 > /serial
+2019-01-25 16:35:29+0530 > /<Up><Up>
+2019-01-25 16:35:37+0530 > <RShft>:q
+2019-01-25 16:40:51+0530 > grep -inr <RShft>""<Left><RShft><Ins> <BckSp><Right> <LShft>*
+2019-01-25 16:40:58+0530 > vu<BckSp>im <RShft><Ins>
+2019-01-25 16:41:28+0530 > <RShft>:225
+2019-01-25 16:41:30+0530 > <Up><#+53><Down><#+30><Down><#+41><Up><#+29><Up><#+14><Up><#+26><Up><Down><#+58><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up>/<RShft><Ins>
+2019-01-25 16:42:20+0530 > /<Esc><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><#+20><Down><#+19><Down><#+41>/<RShft><Ins>
+2019-01-25 16:43:42+0530 > /<Up>
+2019-01-25 16:43:44+0530 > /<Up>
+2019-01-25 16:43:45+0530 > /<Up>
+2019-01-25 16:43:47+0530 > /<Up>
+2019-01-25 16:43:48+0530 > /<Up>
+2019-01-25 16:43:49+0530 > /<Up>
+2019-01-25 16:43:50+0530 > nnnn<#+18>nnnnnn/<RShft><Ins>
+2019-01-25 16:48:33+0530 > /<Up>
+2019-01-25 16:48:36+0530 > /<Up>
+2019-01-25 16:48:38+0530 > /<Up>
+2019-01-25 16:48:40+0530 > <Down><Down><Down><Down><Down><#+5><Down><Down><Down><Down><Down><Right><#+10><Down><Down><Down><Down><Down><Down><Down><Up><Down><Down><Down><LCtrl>l
+2019-01-25 16:49:04+0530 > 
+2019-01-25 16:49:04+0530 > grep -inr <RShft>""<Left><RShft><Ins><Right> <LShft>*
+2019-01-25 16:49:11+0530 > /<Up><Up><BckSp><#+10><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><RShft><Ins>
+2019-01-25 16:50:13+0530 > <Down><#+20><Up><Up><Up><Up><Up><Up><Right><#+23><Right><Left>/<RShft><Ins>
+2019-01-25 16:51:40+0530 > /<Up>
+2019-01-25 16:51:42+0530 > /<Up>
+2019-01-25 16:51:43+0530 > <Down>/<Up>
+2019-01-25 16:52:11+0530 > /<Up>
+2019-01-25 16:52:17+0530 > /<Up>
+2019-01-25 16:52:18+0530 > /<Up>
+2019-01-25 16:52:21+0530 > n/<RShft><Ins>
+2019-01-25 16:55:06+0530 > <Down><Down><Down><Down><LAlt><Tab>g
+2019-01-25 16:59:32+0530 > <LCtrl>v<LCtrl>zstw power<BckSp>pc <Down> instr<Down>
+2019-01-25 16:59:46+0530 > <LCtrl><LCtrl>fstw
+2019-01-25 17:00:11+0530 > 
+2019-01-25 17:00:11+0530 > <LAlt><Tab><LAlt><Tab><LCtrl><LShft>c
+2019-01-25 17:02:40+0530 > <LAlt><Tab><LCtrl><LShft>T<Up>
+2019-01-25 17:02:52+0530 > <Down><#+36><RShft>:q
+2019-01-25 17:03:03+0530 > <Up><Up><Up><Up><Down>
+2019-01-25 17:03:10+0530 > /<Up><BckSp><#+10><BckSp><LShft>LAW0
+2019-01-25 17:03:15+0530 > /<Up><BckSp>
+2019-01-25 17:03:17+0530 > /<Up>
+2019-01-25 17:03:22+0530 > /<Up>
+2019-01-25 17:03:24+0530 > /<Up>
+2019-01-25 17:03:24+0530 > /<RShft><Ins><BckSp><BckSp>00
+2019-01-25 17:03:33+0530 > /<Up>
+2019-01-25 17:03:36+0530 > /<Up>
+2019-01-25 17:03:37+0530 > /<Up>
+2019-01-25 17:03:37+0530 > /<Up>
+2019-01-25 17:03:39+0530 > /<Up>
+2019-01-25 17:03:40+0530 > <RShft>:q
+2019-01-25 17:03:42+0530 > <Up><Left><Up><Left><Left><Left><BckSp><BckSp><BckSp><BckSp><LShft>LAW0
+2019-01-25 17:03:48+0530 > vim <RShft><Ins><BckSp><BckSp><BckSp><BckSp>
+2019-01-25 17:04:00+0530 > <RShft>:86
+2019-01-25 17:04:03+0530 > <LCtrl>grep -inr <RShft>""<Left><RShft><Ins><Right> <LShft>*
+2019-01-25 17:05:11+0530 > vim <RShft><Ins>
+2019-01-25 17:05:20+0530 > /<Up><#+1>
+2019-01-25 17:05:24+0530 > <RShft>:q
+2019-01-25 17:08:09+0530 > vim <RShft><Ins><Tab>
+2019-01-25 17:08:52+0530 > <RShft>:96
+2019-01-25 17:08:54+0530 > <Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down>/<RShft><Ins>
+2019-01-25 17:10:22+0530 > /<Up>
+2019-01-25 17:10:25+0530 > /<Up>
+2019-01-25 17:10:36+0530 > /<Up>
+2019-01-25 17:10:39+0530 > /<Up>
+2019-01-25 17:10:40+0530 > <Left><Left><Left>i<Left>// <LShft>Vino<BckSp><BckSp><BckSp><BckSp><LShft>Zumi<Esc><RShft>:w<LShft>!
+2019-01-25 17:10:52+0530 > <LCtrl>l<Up>
+2019-01-25 17:10:57+0530 > <LAlt><Tab><RShft>:q
+2019-01-25 17:11:43+0530 > <Up><Up>
+2019-01-25 17:11:45+0530 > <Up><Up>
+2019-01-25 17:11:46+0530 > <Up><Up>/<Up><#+1>
+2019-01-25 17:11:49+0530 > <Down><Down><Down><Down><Down><Down><Down><#+13><Up><Up><Up><Right><#+29><Left><Left>/<Up>
+2019-01-25 17:12:04+0530 > /<Up>
+2019-01-25 17:12:05+0530 > /<Up>
+2019-01-25 17:12:07+0530 > <LAlt><Tab><RShft><Del>
+2019-01-25 17:12:30+0530 > <F5><F5><F5><F5><F5><LCtrl>c
+2019-01-25 17:12:41+0530 > <Esc><LCtrl>v<F2><Left><#+23><Right><#+26><BckSp><BckSp><BckSp>txt
+2019-01-25 17:12:58+0530 > <LAlt><Tab>/<Up>
+2019-01-25 17:17:36+0530 > <Up><Down><Up><Up><Up><Up><#+15><Up><Up><Left><#+24><Left><Left><Down><Right><#+12><Up><Left><#+14><Left><Left><Left>i<Left><#+16>//<Down><Up><Left><Esc>yy<Down><Up>p<Del><Del><Right><#+15>i<BckSp>1<Esc><RShft>:w<CpsLk><LShft>!
+2019-01-25 17:18:30+0530 > <Up>
+2019-01-25 17:18:34+0530 > <RShft>:Q
+2019-01-25 17:19:08+0530 > <RShft>:Q
+2019-01-25 17:19:10+0530 > <RShft>:<CpsLk>q
+2019-01-25 17:19:12+0530 > <Up><Up>
+2019-01-25 17:19:13+0530 > <Up><Up>
+2019-01-25 17:19:14+0530 > /<Up>
+2019-01-25 17:19:16+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><F5><F5><LCtrl>c
+2019-01-25 17:19:34+0530 > <RShft><Del>
+2019-01-25 17:19:38+0530 > <LCtrl>v<LAlt><Tab><LAlt><Tab><RShft><Del>
+2019-01-25 17:20:58+0530 > <LCtrl>c
+2019-01-25 17:21:03+0530 > <LCtrl>v<F2><Right><#+18><BckSp><BckSp><BckSp>txt
+2019-01-25 17:21:12+0530 > /<RShft><Ins>
+2019-01-25 17:24:28+0530 > /<Up>
+2019-01-25 17:24:29+0530 > /<Up>
+2019-01-25 17:24:31+0530 > /<Up>
+2019-01-25 17:24:35+0530 > i<Left><Right>//<Esc><Up><#+17><Up><Up><Up><Up><Up><Down><Left><Left><#+40><Up>dd<Right><Right><Right><Right><Right><Right><Right><Right><Right><Right>i<BckSp>0<Esc><#+1><RShft>:w<LShft>!
+2019-01-25 17:24:57+0530 > i<Down><#+17><Down><Down><End><Down><Left><#+19>zumi <Esc><RShft>:w<LShft>!
+2019-01-25 17:25:13+0530 > <Up>
+2019-01-25 17:25:17+0530 > <Left><#+10><Left><#+5><Right><Left><#+17><Up><Left>i<Down><#+55><Up><#+76><Down><#+21><Down><Down><Down><Down><Down><Down><Right><#+17><Down><Down><Down><Left><Down><#+10><Up><Up><Up><Down><#+30><Up><#+26><Up><Up><Up><Up><Up><Up><Up><Right><#+15><Down><Right><#+11><Left><Left>i<BckSp><BckSp><BckSp><Right><#+18><Right><Right><Right><Left><#+12><Left><Down><Up><Left><#+13><Left><Left><Del><Del><Del><Del><Del>/<RShft><Ins><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><Esc><#+1>/<RShft><Ins>
+2019-01-25 17:26:52+0530 > /<Up>
+2019-01-25 17:26:55+0530 > /<Up>
+2019-01-25 17:26:56+0530 > /<Up>
+2019-01-25 17:27:01+0530 > <Down>i<Tab>//<LShft>Zun<BckSp>mi<Up>
+2019-01-25 17:27:13+0530 >  <#+27>   break<RShft>:<Esc><RShft>:w<LShft>!
+2019-01-25 17:27:21+0530 > <Up>
+2019-01-25 17:27:24+0530 > i<Right><BckSp>;<Esc><Up><Left><Left><Left><Left><Left><Left><Left><LShft>****<RShft><Down><Up><Down><End>i<Right><#+2> //<LShft>Zum,i<BckSp><BckSp>i<Esc><RShft>:w<LShft>!
+2019-01-25 17:28:17+0530 > <LCtrl>l<Up><#+1>
+2019-01-25 17:28:21+0530 > <RShft>:q
+2019-01-25 17:28:41+0530 > <Up><Up>
+2019-01-25 17:28:42+0530 > <Up><Up>
+2019-01-25 17:28:44+0530 > /<Up>
+2019-01-25 17:28:45+0530 > <LAlt><Tab><RShft><Del>
+2019-01-25 17:29:01+0530 > <F5><F5><F5><F5><LCtrl>c
+2019-01-25 17:29:11+0530 > <LCtrl>v<F2><Right><#+20><BckSp><BckSp><BckSp>txt
+2019-01-25 17:29:20+0530 > <LAlt><Tab><PgDn><PgDn><Down><#+25><PgUp><PgDn>/<RShft><Ins>
+2019-01-25 17:39:16+0530 > /<Up>
+2019-01-25 17:39:17+0530 > <Down><#+32><Down><#+36><Down><Down><Down><Down><Down><Down><Down><#+20><Up><#+16><Down><#+48><Up><#+57><Down><#+60><Down><#+11><Up><#+11><PgDn><PgDn><PgDn><PgUp><PgUp><PgUp><PgUp>/serial
+2019-01-25 17:55:21+0530 > <LShft>**<PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><#+15><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp>/40078
+2019-01-25 18:08:05+0530 > /<RShft><Ins>
+2019-01-25 18:08:20+0530 > <RShft>:q
+2019-01-25 18:08:22+0530 > grep -inr <RShft>""<Left><RShft><Ins><Right> <LShft>*
+2019-01-25 18:08:30+0530 > 
+2019-01-25 18:08:48+0530 > <RShft>:q
+2019-01-25 18:08:49+0530 > <Up><Down>vim <RShft><Ins>
+2019-01-25 18:09:22+0530 > <RShft>:1153
+2019-01-25 18:09:24+0530 > /<RShft><Ins>
+2019-01-25 18:11:25+0530 > /<Up>
+2019-01-25 18:11:26+0530 > nnnnnnnnnn<Down><#+25><Up><#+12><Down><#+25><Up><#+20><Up><Up><Up><Down><Up><Down><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><Down><#+50>/41caf<BckSp>4
+2019-01-25 18:20:48+0530 > <Down><#+31><Up><#+15><Down><Up><Up><BckSp><#+33><RShft>:q
+2019-01-25 18:21:50+0530 > 
+2019-01-25 18:21:51+0530 > 
+2019-01-25 18:21:51+0530 > 
+2019-01-25 18:21:51+0530 > grep -inr <RShft>""<Left><RShft><Ins><Right> <LShft>*
+2019-01-25 18:21:57+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><BckSp><#+19>vim <LShft>T4<Tab><LShft>S<Tab>sp<Tab>u<Tab>-<Tab>.m<Tab>
+2019-01-25 18:22:35+0530 > /<RShft><Ins>
+2019-01-25 18:22:38+0530 > /<Up><BckSp>
+2019-01-25 18:22:40+0530 > /<Up><BckSp><BckSp>
+2019-01-25 18:22:42+0530 > <LAlt><Tab><LAlt><Tab>
+2019-01-25 18:23:28+0530 > <LCtrl>c
+2019-01-25 18:23:29+0530 > 
+2019-01-25 18:23:30+0530 > 
+2019-01-25 18:23:30+0530 > cd <RShft><Ins>
+2019-01-25 18:23:34+0530 > <Up><Up>
+2019-01-25 18:23:35+0530 > vim <RShft><Ins>
+2019-01-25 18:23:50+0530 > <RShft>:668
+2019-01-25 18:23:53+0530 > <RShft>:q
+2019-01-25 18:24:15+0530 > vim <RShft><Ins>
+2019-01-25 18:24:33+0530 > /<RShft><Ins>
+2019-01-25 18:24:34+0530 > <Down><#+26>/<Up>
+2019-01-25 18:24:39+0530 > /<RShft><Ins>
+2019-01-25 18:24:45+0530 > /<Up>
+2019-01-25 18:24:47+0530 > /<RShft><Ins>
+2019-01-25 18:24:51+0530 > /<Up>
+2019-01-25 18:24:52+0530 > /<Up>
+2019-01-25 18:24:54+0530 > <RShft>:q
+2019-01-25 18:25:00+0530 > grep -inr <RShft>""<Left><RShft><Ins><Right> <LShft>*
+2019-01-25 18:25:07+0530 > 
+2019-01-25 18:25:08+0530 > 
+2019-01-25 18:25:08+0530 > vim 57<Tab><BckSp><BckSp>cp<Tab>.<Tab>
+2019-01-25 18:25:20+0530 > <RShft>:578
+2019-01-25 18:25:22+0530 > <RShft>:<BckSp>/<RShft><Ins>
+2019-01-25 18:25:35+0530 > /<Up>
+2019-01-25 18:25:41+0530 > <Down><Down><Down><Down><Down><Down><Down><Down><Up><Left><#+11><RShft>:q
+2019-01-25 18:25:51+0530 > <Down><Up><Up><Up><Up><Down><Up><Up><Up><Up><Down><Down><Esc>
+2019-01-25 18:32:17+0530 > <#+26><Up><Up><Up><Down><Down><BckSp><#+32>grep -inr <RShft>""<Left><RShft><Ins><Right> <LShft>*
+2019-01-25 18:32:27+0530 > <LCtrl>c
+2019-01-25 18:32:43+0530 > 
+2019-01-25 18:32:44+0530 > <#+16>cd ../
+2019-01-25 18:32:47+0530 > <Up><Up>
+2019-01-25 18:32:48+0530 > <LCtrl>c
+2019-01-25 18:32:50+0530 > 
+2019-01-25 18:32:50+0530 > 
+2019-01-25 18:32:50+0530 > 
+2019-01-25 18:32:50+0530 > 
+2019-01-25 18:32:50+0530 > 
+2019-01-25 18:32:50+0530 > vim <RShft><Ins>
+2019-01-25 18:32:57+0530 > /<Up><Up><Up><Up><Up><Up><Down><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down><Up>
+2019-01-25 18:33:05+0530 > <Down><#+43><Up><#+27>/<RShft><Ins>
+2019-01-25 18:33:15+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Left><#+14><Up>i<End>
+2019-01-25 18:33:22+0530 > 
+2019-01-25 18:33:23+0530 > 
+2019-01-25 18:33:23+0530 > 
+2019-01-25 18:33:23+0530 > 
+2019-01-25 18:33:23+0530 > 
+2019-01-25 18:33:23+0530 > 
+2019-01-25 18:33:23+0530 > <Up><Up><Up><Up><Up>int <LShft>*p = 0x<LShft>FE11<LShft>C500;
+2019-01-25 18:33:41+0530 > 
+2019-01-25 18:33:41+0530 > p = ''<Left>a<Right> ;
+2019-01-25 18:33:51+0530 > <Up><Tab><Up><Up><Left><#+13><Left><Tab><Down><Down><Down><Down><Down>        <Esc>/printf
+2019-01-25 18:34:02+0530 > /<Up><Up>
+2019-01-25 18:34:11+0530 > /<Up>
+2019-01-25 18:34:13+0530 > <Down><#+44><Up><#+81><Down><#+30><Down><Down><Down><Up><Up><Up><Up><Up><Down><Down><Down><Down><Up>
+2019-01-25 18:35:00+0530 > <Down><Up><BckSp><#+36>vf<BckSp><BckSp><BckSp><BckSp><BckSp>cd ../../
+2019-01-25 18:35:42+0530 > 
+2019-01-25 18:35:42+0530 > 
+2019-01-25 18:35:42+0530 > 
+2019-01-25 18:35:42+0530 > 
+2019-01-25 18:35:42+0530 > <Up>
+2019-01-25 18:35:43+0530 > 
+2019-01-25 18:35:44+0530 > 
+2019-01-25 18:35:44+0530 > 
+2019-01-25 18:35:44+0530 > cd boa<Tab>fr<Tab>t4r<Tab>
+2019-01-25 18:35:50+0530 > ls
+2019-01-25 18:35:51+0530 > vim dd<BckSp><BckSp>spl<Tab>
+2019-01-25 18:35:56+0530 > <PgDn><Up><Down><Up><#+1><Down><#+26><Down><RShft>:q
+2019-01-25 18:36:09+0530 > <LAlt><Tab>g
+2019-01-25 18:36:16+0530 > putc<Down><Down> <Down>
+2019-01-25 18:36:31+0530 > <LCtrl> exa<LCtrl>getc<Down>
+2019-01-25 18:37:07+0530 > <LCtrl><LAlt><Tab><LAlt><Tab><LAlt><Tab><Tab><Up>
+2019-01-25 18:37:27+0530 > <PgDn><Up><#+2><Up><Up><Up><Up><Up><Up>i<RShft><Ins><Left><#+26><Tab><Right><#+11><Right><Right><Del><Del><Esc><RShft>:w<LShft>!
+2019-01-25 18:38:06+0530 > <Up>
+2019-01-25 18:38:10+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><F5><F5><F5><F5><LCtrl>c
+2019-01-25 18:38:35+0530 > <LCtrl><RShft><Del>
+2019-01-25 18:38:40+0530 > <LCtrl>v<F2><Right><#+18><BckSp><BckSp><BckSp>txt
+2019-01-25 18:38:47+0530 > <LAlt><Tab><LCtrl>dd<LAlt><Tab><LCtrl>tstore addressin pointer in c
+2019-01-25 18:44:48+0530 > <Up><Up><Right>i<RShft>*<Esc><Up><Up><Right><Right><#+1><Right><Right><Right><Right><Right><Left><Left><Left><Left><Left><Left><Left>ivolatile <Esc><RShft>:w<LShft>!
+2019-01-25 18:46:15+0530 > <RShft>:w<LShft>!
+2019-01-25 18:46:27+0530 > <Up>
+2019-01-25 18:46:31+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><F5><F5><F5><F5><LCtrl>c
+2019-01-25 18:47:06+0530 > <RShft><Del>
+2019-01-25 18:47:10+0530 > <LCtrl>v<F2><Right><#+19><BckSp><BckSp><BckSp>txt
+2019-01-25 18:47:16+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><RShft>:q
+2019-01-25 18:50:21+0530 > <Up><Up>
+2019-01-25 18:50:22+0530 > <Up><Up>
+2019-01-25 18:50:24+0530 > /<RShft><Ins>
+2019-01-25 18:50:26+0530 > n<Down><#+34><Up><#+23><Up><Up><Up><Up><Up><LMeta><#+6>l<KP2><KP1><KP0><#+7> 
+
+Logging stopped at 2019-01-27 06:12:02+0530
+
