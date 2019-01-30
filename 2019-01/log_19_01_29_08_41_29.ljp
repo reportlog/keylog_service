@@ -1,0 +1,80 @@
+Logging started ...
+
+2019-01-29 08:41:29+0530 > p<Down>
+2019-01-29 12:38:19+0530 > <LShft>Welcome<LShft>!23
+2019-01-29 12:38:51+0530 > pa<LShft>Rail <LShft>Tester <LShft>SRT <LShft>Application<LShft>Hi <LShft>Sir,
+2019-01-29 12:39:29+0530 > 
+2019-01-29 12:39:29+0530 > <Tab><Tab><LShft>Please find the attached application.
+2019-01-29 12:39:44+0530 > 
+2019-01-29 12:39:44+0530 > <Tab><Tab><LShft>In this application,
+2019-01-29 12:39:55+0530 > <Tab><Tab>1<LShft>)<LShft>Storing the data <#+1>only when the<BckSp><BckSp><BckSp>flaw occurs and olny <BckSp><BckSp><BckSp><BckSp>nly in forward direction of odometer.
+2019-01-29 12:40:52+0530 > <Tab><Tab>2<LShft>)is implemented <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LCtrl>s<LShft>Reading the file is faster.
+2019-01-29 12:42:43+0530 > 
+2019-01-29 12:42:44+0530 > <Tab><Tab><LShft>Please test the application and give your feedback.
+2019-01-29 12:43:03+0530 > 
+2019-01-29 12:43:04+0530 > 
+2019-01-29 12:43:04+0530 > 
+2019-01-29 12:43:04+0530 > <LShft>Thanks <LShft>^<BckSp><LShft>& <LShft>Regards,
+2019-01-29 12:43:15+0530 > <LShft>Puneeth.<LShft>K<Left> compared to old application<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>www.yayehiya<RShft>@zumisolutions.com
+2019-01-29 13:08:46+0530 > <KP9><KP8><KP4><KP1><KP7><KP8><KP6><KP3><KP1><KP2>9841786312<RShft>@yehiya
+2019-01-29 13:09:03+0530 > pavb application
+2019-01-29 13:10:51+0530 > 
+2019-01-29 13:10:52+0530 > 
+2019-01-29 13:10:52+0530 > hi,<BckSp> <#+4>sir <#+3>, <#+2><BckSp>
+2019-01-29 13:11:20+0530 > 
+2019-01-29 13:11:23+0530 > please <#+1>find the attached application ./<BckSp>
+2019-01-29 13:11:51+0530 >  
+2019-01-29 13:11:58+0530 > 11<BckSp><BckSp>application changes
+2019-01-29 13:12:15+0530 > 11.meter<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><RShft>Meter <#+1>textbox<Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><Right>added <#+3><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right>, callibsorlid<BckSp>st<Left><Left><Left><Left><Left><Left> <Right><Right><Right><Right><Right><Left><Left><Left><Left><Left><Left> <BckSp><BckSp>s<Left> <Right><Right><BckSp><Right><Right><Right><Right><Right><Right> converted,u<BckSp><RShft>Unite<BckSp> number changed int <BckSp>o<Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right>i<BckSp> in <RShft>TEST <RShft>SETUP<Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left>
+2019-01-29 13:15:21+0530 > <Up>1.<Down><Left><Left>2.<Right><#+26><Right><Right><Right><Left><#+2>
+2019-01-29 13:15:33+0530 > <Up><Down>3<Up><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Down><Up><Right><Right><Right><Right><#+5><Left><Left><Left><Left><Left><Left><Left><Right><#+13><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right> in <RShft>CALLIBRATE <#+1><RShft>WINDOW<Right><BckSp>.<Up><BckSp><BckSp>.<Down><Down> <BckSp><BckSp><BckSp>  <RShft>WELCOME <RShft>WINDOIW.<Left><Left><BckSp><Right><Right><Right>4.added<Left> window<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><RShft>WINDOW<LCtrl>c
+2019-01-29 13:17:24+0530 > c
+2019-01-29 13:17:25+0530 > c
+2019-01-29 13:17:25+0530 > c
+2019-01-29 13:17:25+0530 > c
+2019-01-29 13:17:25+0530 > <BckSp><BckSp><BckSp><BckSp><BckSp><LCtrl>v<Left><Left><Left><Left><Right><Right><Right><Left><Left><Left><Left><Left><Left><Left><BckSp><BckSp><BckSp><BckSp><BckSp><CpsLk>PA<Left><#+2><BckSp><Right><#+35><Left><Left><Left><Left><Right><Right><Right><Right><Right><Right><Right><Right><Left><Left><Left><Left><Left><Left><Left><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><RShft>free<BckSp><BckSp><BckSp><BckSp>FREEZE <#+2>SAVE <Right><Right><Right><Right><Right><Right><Right><Right><Right><KP5>5<LCtrl>c
+2019-01-29 13:18:34+0530 > c
+2019-01-29 13:18:34+0530 > c
+2019-01-29 13:18:34+0530 > c
+2019-01-29 13:18:34+0530 > c
+2019-01-29 13:18:34+0530 > <LCtrl>V<BckSp><Right><#+35><Right><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><RShft>open <#+1><RShft>e<BckSp>ED<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>OPEN EDIT
+2019-01-29 13:19:09+0530 > 
+2019-01-29 13:19:10+0530 > <LCtrl>..<#+1><BckSp><BckSp><BckSp>TXT<BckSp><BckSp><BckSp><CpsLk>txtplease test your appli<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>the application and give your feedback.<RShft>:
+2019-01-29 13:21:41+0530 > yehiya<RShft>@<KP9><KP8><KP4><KP1><KP7><KP8><KP6><KP3><KP1><KP2>9841786312<RShft>@yehiya
+2019-01-29 14:52:07+0530 > <#+1>po<BckSp><Down>
+2019-01-29 17:26:49+0530 > <LShft>Welcomez<#+2><BckSp><LShft>!23
+2019-01-29 17:27:01+0530 > p<LShft>CNF <LShft>Files<LShft>Hi <LShft>Sir,
+2019-01-29 17:27:25+0530 > 
+2019-01-29 17:27:25+0530 > <Tab><Tab><LShft>{<BckSp>\<BckSp><LShft>Please find the attachment.
+2019-01-29 17:27:48+0530 > 
+2019-01-29 17:27:48+0530 > 
+2019-01-29 17:27:48+0530 > <LShft>Regards,
+2019-01-29 17:27:52+0530 > <LShft>Puneeth.<LShft>Kuri uri film
+2019-01-29 17:31:13+0530 > manikarnika film
+2019-01-29 17:32:07+0530 > www.yahoo.com
+2019-01-29 18:51:00+0530 > <#+3>yehiya<RShft>@<Down>9841786312<RShft>@yehiyapa <Del><Del><Right><Right><Right><Right><Right><Right><BckSp><BckSp><BckSp>txtvb application
+2019-01-29 18:52:49+0530 > 
+2019-01-29 18:52:49+0530 > 
+2019-01-29 18:52:49+0530 > 
+2019-01-29 18:52:50+0530 > 
+2019-01-29 18:52:50+0530 > 
+2019-01-29 18:52:50+0530 > hi sir,
+2019-01-29 18:52:58+0530 > 
+2019-01-29 18:52:59+0530 > <Up><Up><Right><BckSp>\<BckSp><RShft>H<Right><Right><Right><BckSp>\<BckSp><RCtrl><RShft><RShft>S<Right><Right><Right>
+2019-01-29 18:53:11+0530 > <LCtrl>
+2019-01-29 18:53:16+0530 > please find the attached application <Left>.
+2019-01-29 18:53:37+0530 > 
+2019-01-29 18:53:37+0530 > in thi<Left><Left><Left><Left><Left><Left><Right><BckSp><RCtrl><RShft><RShft><RShft>I<Right><Right><Right><Right><Right>s application <BckSp>, meter and kilometer  valui<BckSp>e <BckSp><RShft>Freeze <RShft>Save w<BckSp><RShft>Window<Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><Right><BckSp><Right><Right><Right><Right><Right><Right><Right><Right><Left> is <BckSp><#+21><BckSp>saving of<Left><Left><Left><Left><Left><Left><Left><Left><Right><Right><Right><Right><Right><Right><Right><Right> meter value in .prs file is implemented <#+1>and <RShft>GPS data<Left><Left><Left><Right><Right><Right><Right><Left><Left><Left><Right><Right><Right><Right><Right><#+31><Left><Left>.
+2019-01-29 18:56:43+0530 > 
+2019-01-29 18:56:45+0530 > please test the application and give yoyu<BckSp><BckSp>ur feedback.<BckSp><RShft>Pp<Down>
+2019-01-29 18:58:30+0530 > <LShft>Welcome<LShft>!23
+2019-01-29 18:58:38+0530 > <LCtrl><LCtrl>sza<LShft>Pen<BckSp><BckSp><BckSp><LShft>Task <LShft>Detail <BckSp>s<LShft>Rail <LShft>Tester <LShft>SRT projr-=<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LShft>Project <LShft>HG<BckSp>i <LShft>Sir,
+2019-01-29 19:01:50+0530 > 
+2019-01-29 19:01:50+0530 > <Tab><Tab><LShft>Pleaa<BckSp>sew<BckSp> go thorugh  <#+5>the attached document. 
+2019-01-29 19:02:12+0530 > 
+2019-01-29 19:02:12+0530 > 
+2019-01-29 19:02:13+0530 > <LShft>Regrd<BckSp><BckSp>ards, 
+2019-01-29 19:02:20+0530 > <LShft>Pi<BckSp>uneeth.<LShft>K bwlo<BckSp><BckSp><BckSp>elow
+
+Logging stopped at 2019-01-29 19:04:58+0530
+
