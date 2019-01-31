@@ -1,0 +1,48 @@
+Logging started ...
+
+2019-01-31 17:25:59+0530 > <LCtrl>fv
+2019-01-31 17:31:14+0530 > 
+2019-01-31 17:31:14+0530 > 
+2019-01-31 17:31:14+0530 > 
+2019-01-31 17:31:15+0530 > <Up><Up><Up><Up><Down><LCtrl>v<LCtrl>c
+2019-01-31 17:31:28+0530 > <LCtrl>vget<LCtrl> <Down><Down><Down>
+2019-01-31 17:31:45+0530 > <KP0><LCtrl>zzzz<BckSp><#+12><BckSp><BckSp><BckSp><LCtrl><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>get<LCtrl> <Down><Down><Down>
+2019-01-31 17:32:42+0530 > <KP1><LCtrl>c
+2019-01-31 17:32:49+0530 > <LCtrl>v<LCtrl>v<LCtrl>c
+2019-01-31 17:33:03+0530 > <LCtrl>v<LCtrl>v<LCtrl>s<BckSp><LCtrl>s<LCtrl>d
+2019-01-31 17:33:38+0530 > s<LCtrl>v<LCtrl>c
+2019-01-31 17:34:46+0530 > <LCtrl>v<LCtrl>c
+2019-01-31 17:34:54+0530 > <LCtrl>v<LCtrl>d
+2019-01-31 17:35:04+0530 > ss<LCtrl>ss<LCtrl><BckSp><LCtrl><LShft>Fs<BckSp><BckSp>
+2019-01-31 18:04:02+0530 > <LCtrl>v<Up><Right><Right><Right>
+2019-01-31 18:05:02+0530 > <LCtrl>v
+2019-01-31 18:05:06+0530 > <LCtrl>c
+2019-01-31 18:05:09+0530 > <LCtrl>v<LCtrl>s
+2019-01-31 18:06:06+0530 > <LCtrl>v<BckSp><BckSp><BckSp><BckSp>  <LCtrl>c
+2019-01-31 18:06:28+0530 > 
+2019-01-31 18:06:32+0530 > <LCtrl>v<LCtrl>v<LCtrl>v<BckSp><BckSp><BckSp><BckSp><LCtrl><LShft>F<LCtrl>s<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LShft>FF<LCtrl>v<LCtrl>sss<LCtrl>v<LCtrl>s<LShft>Fs
+2019-01-31 18:11:52+0530 > 
+2019-01-31 18:11:52+0530 > 
+2019-01-31 18:11:52+0530 > <Up><Up><LCtrl>v<LCtrl>c
+2019-01-31 18:12:01+0530 > <LCtrl>v<BckSp><RShft>)<LCtrl><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>get<LCtrl> <BckSp><LCtrl><BckSp><BckSp><BckSp><LCtrl> ge<LCtrl>zzzzzz<LCtrl>zzzzz<LCtrl>
+2019-01-31 18:14:34+0530 > <LCtrl>vm<LShft>Sou<LCtrl> <BckSp><BckSp><BckSp><LCtrl> s<LCtrl>c
+2019-01-31 18:14:48+0530 > <LCtrl>v<BckSp><BckSp><LCtrl>s<LCtrl>c
+2019-01-31 18:15:31+0530 > <LCtrl>v<BckSp>false<LCtrl><LShft>Fpa<LCtrl> y<BckSp><BckSp><BckSp>,<BckSp>m<LShft>Pa<LCtrl> <BckSp><BckSp><RShft>_<LShft>P<BckSp><BckSp><LCtrl> <LCtrl>c
+2019-01-31 18:16:15+0530 > <LCtrl>c
+2019-01-31 18:16:58+0530 > f<BckSp><BckSp><BckSp>==<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LShft><LCtrl>F
+2019-01-31 18:18:15+0530 > <BckSp>true<LCtrl>c
+2019-01-31 18:18:32+0530 > <#+1>c
+2019-01-31 18:18:33+0530 > c
+2019-01-31 18:18:33+0530 > <BckSp><LCtrl>v<BckSp><LCtrl>v<BckSp><LCtrl>v<BckSp><LCtrl>v<BckSp><LCtrl>v<BckSp><LCtrl>v<BckSp><LCtrl>v<BckSp><LCtrl>v<BckSp><LCtrl>v<LCtrl>c
+2019-01-31 18:19:08+0530 > <LCtrl>v<BckSp>false
+2019-01-31 18:19:26+0530 > <LCtrl>c
+2019-01-31 18:19:38+0530 > <LCtrl>v<BckSp>false<LCtrl>s<BckSp>
+2019-01-31 18:19:58+0530 > <LCtrl>d
+2019-01-31 18:20:03+0530 > s
+2019-01-31 18:20:16+0530 > <BckSp><BckSp><BckSp><BckSp>
+2019-01-31 18:20:30+0530 > <BckSp><BckSp><BckSp>
+2019-01-31 18:20:39+0530 > 
+2019-01-31 18:20:43+0530 > 
+2019-01-31 18:20:49+0530 > 
+2019-01-31 18:20:51+0530 > <LCtrl><LShft>F<BckSp><RShft>}}<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LShft><LCtrl>F<BckSp><BckSp><BckSp><BckSp><BckSp><LCtrl><LShft>F<LCtrl><LShft>F
+2019-01-31 18:22:11+0530 > <BckSp><LCtrl>s
