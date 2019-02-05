@@ -1,0 +1,180 @@
+Logging started ...
+
+2019-02-05 05:39:34+0530 > zs10062013
+2019-02-05 09:33:40+0530 > <#+1><Up><#+1>
+2019-02-05 09:34:27+0530 > <#+2><Up><Up><Up><Down><Down><Up><Down><Up><Down><Up><Down><Up><Down><Up><Up><Down><Up><Down><Up><Down><Down><Up><Down><Up><BckSp><BckSp>33
+2019-02-05 09:34:48+0530 > <#+1>yes'
+2019-02-05 09:34:50+0530 > zs10062013
+2019-02-05 09:34:54+0530 > <#+1>
+2019-02-05 09:34:55+0530 > 
+2019-02-05 09:34:55+0530 > 
+2019-02-05 09:34:56+0530 > <Up><BckSp><BckSp>33
+2019-02-05 09:35:00+0530 > yes
+2019-02-05 09:35:01+0530 > <#+1>zs10062013
+2019-02-05 09:35:04+0530 > 
+2019-02-05 09:35:05+0530 > 
+2019-02-05 09:35:05+0530 > 
+2019-02-05 09:35:05+0530 > 
+2019-02-05 09:35:06+0530 > cd <LShft>~/<LShft>Pr<Tab><LShft>A<Tab><#+1>a<Tab><BckSp><#+28><BckSp>my<Tab><#+1><Tab><Tab>ha<Tab><#+2>re<Tab>w<Tab><#+2>r<Tab>
+2019-02-05 09:40:19+0530 > 
+2019-02-05 09:40:19+0530 > rm <BckSp>dir <Tab><Tab>iw<BckSp><BckSp>wi<Tab><#+5><Tab><BckSp><#+10>m -r f<BckSp><BckSp>f wi<Tab><#+3><Tab><Tab><BckSp><#+17>ls
+2019-02-05 09:40:33+0530 > cd -
+2019-02-05 09:40:35+0530 > 
+2019-02-05 09:40:35+0530 > 
+2019-02-05 09:40:35+0530 > cd my<Tab><#+1>
+2019-02-05 09:40:37+0530 > <LCtrl>rsou<Tab><#+3>
+2019-02-05 09:40:40+0530 > <#+1><LCtrl>rlunch
+2019-02-05 09:40:45+0530 > make -j4
+2019-02-05 09:40:50+0530 > cd <LShft>~/<LShft>Pr<Tab><LShft>A<Tab>a<Tab>
+2019-02-05 09:55:50+0530 > 
+2019-02-05 09:55:50+0530 > 
+2019-02-05 09:55:50+0530 > vi ha<Tab><Tab><Tab>ri<Tab><#+2><Tab><Tab>r<Tab>il<Tab><Tab><Tab>r<Tab>c
+2019-02-05 09:56:56+0530 > <PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgUp><PgUp><PgUp><Down><#+17><Down><#+15><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><Up><#+46><Up><#+19><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><Down><#+15>/init
+2019-02-05 09:57:36+0530 > <#+1><Esc><LShft>:q<LShft>!
+2019-02-05 09:57:46+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><Tab><LAlt><Tab>cd e<Tab>wp<Tab>
+2019-02-05 09:59:01+0530 > 
+2019-02-05 09:59:01+0530 > 
+2019-02-05 09:59:01+0530 > cd wp<Tab>
+2019-02-05 09:59:03+0530 > ls
+2019-02-05 09:59:03+0530 > vi <LShft>A<BckSp><LShft>A<Tab><#+4>
+2019-02-05 09:59:11+0530 > <PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn>/wpa<LShft>_s
+2019-02-05 09:59:27+0530 > m<#+1>mmmmmn<#+3>nnn<Esc><#+1><LShft>:q<LShft>!
+2019-02-05 09:59:58+0530 > 
+2019-02-05 09:59:58+0530 > 
+2019-02-05 09:59:58+0530 > 
+2019-02-05 09:59:59+0530 > <LAlt><Tab><LAlt><Tab><Tab><LAlt><Tab><LCtrl>f
+2019-02-05 10:00:12+0530 > <LCtrl>f<BckSp>wificd -
+2019-02-05 10:00:59+0530 > 
+2019-02-05 10:01:00+0530 > 
+2019-02-05 10:01:00+0530 > cd ../../
+2019-02-05 10:01:02+0530 > cd ha<Tab><#+1>
+2019-02-05 10:01:04+0530 > grep -rns <LShft>"<RShft><Ins><RShft><Ins><LShft>"
+2019-02-05 10:01:09+0530 > <LAlt><Tab><LAlt><Tab><PgDn><PgDn>g
+2019-02-05 10:01:51+0530 > <RShft><Ins>
+2019-02-05 10:01:53+0530 > <LAlt><Tab><Tab><LAlt>`<LCtrl>fc
+2019-02-05 10:02:56+0530 > <LCtrl>v<LCtrl><LAlt><Tab><Tab><LAlt><Tab><Tab><LAlt><Tab><LAlt><Tab><Tab><LCtrl>fc
+2019-02-05 10:03:09+0530 > <LCtrl>v<LAlt><Tab><LAlt><Tab><Tab><LAlt><Tab><LAlt><Tab><Tab><LCtrl>f<BckSp><RShft><Ins>grep -rns <RShft><Ins><LShft>"<Left><#+12><LShft>"
+2019-02-05 10:03:57+0530 > <LCtrl>c
+2019-02-05 10:03:59+0530 > locate <RShft><Ins>
+2019-02-05 10:04:02+0530 > <LCtrl>c
+2019-02-05 10:04:09+0530 > <#+1>
+2019-02-05 10:04:33+0530 > 
+2019-02-05 10:04:33+0530 > 
+2019-02-05 10:04:33+0530 > locate <RShft><Ins><BckSp><#+88><BckSp><BckSp>e cfg80211.ko
+2019-02-05 10:04:48+0530 > 
+2019-02-05 10:05:00+0530 > 
+2019-02-05 10:05:00+0530 > 
+2019-02-05 10:05:00+0530 > 
+2019-02-05 10:05:01+0530 > 
+2019-02-05 10:05:01+0530 > 
+2019-02-05 10:05:01+0530 > vi ve<BckSp><#+14>cd ve<Tab>nxp-<Tab><#+5>ker<Tab><Tab><Tab>dr<Tab>ne<Tab>w<Tab>i<Tab><Tab>re<Tab><Tab><Tab>rt<Tab><#+3>
+2019-02-05 10:05:15+0530 > ls
+2019-02-05 10:05:16+0530 > 
+2019-02-05 10:05:18+0530 > vi i<Tab><Tab>f<Tab>
+2019-02-05 10:05:28+0530 > <Esc><#+1><LShft>:q<LShft>!
+2019-02-05 10:05:31+0530 > vi o<Tab><#+1><Tab><Tab>l<Tab><#+1><Tab><Tab><BckSp><#+33>so<BckSp><#+13>cd -
+2019-02-05 10:05:48+0530 > 
+2019-02-05 10:05:48+0530 > 
+2019-02-05 10:05:49+0530 > 
+2019-02-05 10:05:49+0530 > 
+2019-02-05 10:05:49+0530 > 
+2019-02-05 10:05:49+0530 > source build/e<Tab>
+2019-02-05 10:05:55+0530 > lunch 16
+2019-02-05 10:06:00+0530 > 
+2019-02-05 10:06:08+0530 > 
+2019-02-05 10:06:08+0530 > make -<BckSp>bootimage
+2019-02-05 10:06:14+0530 > '<LCtrl>c
+2019-02-05 10:06:15+0530 > <Up>
+2019-02-05 10:06:16+0530 > cd ../ke<Tab><#+4>dr<Tab>ne<Tab>wi<Tab><#+3><Tab>re<Tab><Tab><Tab>r<Tab>t<Tab><Tab><Tab>
+2019-02-05 10:06:44+0530 > ls
+2019-02-05 10:06:45+0530 > vi o<Tab><#+2><Tab><Tab>l<Tab><#+1><Tab><Tab><BckSp><#+26>cd
+2019-02-05 10:07:06+0530 > cd <LShft>A<Tab><#+2>n<Tab><#+4><Tab>ker<Tab><#+2>.<BckSp>/d<Tab><#+2>m<BckSp>ne<Tab>w<Tab>ire<Tab><Tab><Tab>r<Tab><#+2>lw<Tab><#+1><Tab><Tab><Tab>8<Tab><#+1><Tab><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>7<Tab><#+3>b<Tab><Tab>/<Tab><Tab><Tab><Tab><Home><Del><Del>vi<End><Tab><Tab>os<Tab><#+2><Tab><Tab>li<Tab><#+1><Tab><Tab><Tab><Tab><BckSp><#+3><BckSp><#+17><BckSp><BckSp><Tab><Tab><Tab><Tab><Tab>n<BckSp><#+18><BckSp><Home><Del><Del>ls -l a<BckSp><BckSp>a
+2019-02-05 10:08:15+0530 > <Up><Home><Del><Del><Del><Del><Del><Del><Del>vo <BckSp><BckSp>i <End>i<Tab><#+4>
+2019-02-05 10:08:27+0530 > <PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><#+1><Esc><#+1><LShft>:q<LShft>!
+2019-02-05 10:08:39+0530 > 
+2019-02-05 10:08:39+0530 > 
+2019-02-05 10:08:39+0530 > <Up><BckSp><#+26><BckSp><BckSp><Tab><Tab><LShft>M<Tab><#+3><Tab>a<Tab>
+2019-02-05 10:08:58+0530 > /cfg80211
+2019-02-05 10:09:03+0530 > n<#+2>nnn<Esc><LShft>:q<LShft>!
+2019-02-05 10:09:09+0530 > 
+2019-02-05 10:09:09+0530 > 
+2019-02-05 10:09:10+0530 > 
+2019-02-05 10:09:10+0530 > cd <LShft>ve<Tab>nxp-<Tab><#+2>k<Tab>dr<Tab>ne<Tab>wi<Tab>re<Tab>rt<Tab><#+3>
+2019-02-05 10:09:29+0530 > 
+2019-02-05 10:09:29+0530 > ls
+2019-02-05 10:09:30+0530 > make
+2019-02-05 10:09:33+0530 > make arch=arm<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LShft>A<LShft>RCH=arm
+2019-02-05 10:09:46+0530 > export <LShft>ARCH=arm
+2019-02-05 10:09:54+0530 > make
+2019-02-05 10:09:57+0530 > <#+1>make
+2019-02-05 10:10:16+0530 > ls
+2019-02-05 10:10:25+0530 > make cle<Tab><#+4>
+2019-02-05 10:10:28+0530 > make
+2019-02-05 10:10:30+0530 > ls
+2019-02-05 10:10:34+0530 > export <LShft>ARCH=arm
+2019-02-05 10:10:45+0530 > make
+2019-02-05 10:10:49+0530 > <#+1>cd -
+2019-02-05 10:11:15+0530 > 
+2019-02-05 10:11:15+0530 > cd <BckSp><BckSp><BckSp>locate 87<Tab><#+3>23bu.ko
+2019-02-05 10:11:26+0530 > 
+2019-02-05 10:11:34+0530 > <#+1>
+2019-02-05 10:11:34+0530 > vi <BckSp><#+13>cd ve<Tab><#+3>nxp-<Tab><#+2>ker<Tab>
+2019-02-05 10:11:57+0530 > 
+2019-02-05 10:11:57+0530 > make menuconfig
+2019-02-05 10:12:01+0530 > <#+1><Right>
+2019-02-05 10:12:11+0530 > 
+2019-02-05 10:12:11+0530 > cd dr<Tab><#+2>ne<Tab>wi<Tab><#+3>re<Tab><Tab><Tab>rt<Tab>
+2019-02-05 10:12:19+0530 > make
+2019-02-05 10:12:20+0530 > make <BckSp><BckSp><#+12>make menuconfig
+2019-02-05 10:12:29+0530 > make 
+2019-02-05 10:12:34+0530 > me<BckSp><#+7><BckSp>export <LShft>ARCH=arm
+2019-02-05 10:12:43+0530 > export <LShft>C<BckSp><#+17><LShft><LCtrl>rexport <LShft>C<LShft>ROSS<BckSp><#+34><BckSp><#+9><LCtrl>c
+2019-02-05 10:13:00+0530 > 
+2019-02-05 10:13:01+0530 > 
+2019-02-05 10:13:01+0530 > 
+2019-02-05 10:13:02+0530 > 
+2019-02-05 10:13:02+0530 > e<BckSp><BckSp>history
+2019-02-05 10:13:10+0530 > <LCtrl><LShft>F<LShft>CROSS_COMPILE<BckSp><LShft>E
+2019-02-05 10:13:19+0530 > 
+2019-02-05 10:13:32+0530 > <RShft><Ins><Home>export
+2019-02-05 10:13:38+0530 > <#+1>
+2019-02-05 10:13:38+0530 > 
+2019-02-05 10:13:38+0530 > make
+2019-02-05 10:13:40+0530 > <#+2>cd ../../../
+2019-02-05 10:13:45+0530 > 
+2019-02-05 10:13:45+0530 > cd ..
+2019-02-05 10:13:47+0530 > 
+2019-02-05 10:13:47+0530 > 
+2019-02-05 10:13:47+0530 > 
+2019-02-05 10:13:48+0530 > cd <BckSp><BckSp><BckSp><BckSp>make <BckSp><BckSp><#+15>cd -
+2019-02-05 10:14:02+0530 > 
+2019-02-05 10:14:03+0530 > 
+2019-02-05 10:14:03+0530 > cd -
+2019-02-05 10:14:04+0530 > 
+2019-02-05 10:14:04+0530 > 
+2019-02-05 10:14:05+0530 > cd ./.<BckSp><BckSp>./../../
+2019-02-05 10:14:09+0530 > 
+2019-02-05 10:14:09+0530 > 
+2019-02-05 10:14:09+0530 > make bootiimage<BckSp><#+10>image
+2019-02-05 10:14:16+0530 > <LAlt><Tab><Tab><LAlt><LAlt><Tab>vi m<Tab><#+4>y<Tab><#+3>de<Tab><#+1><BckSp><#+22>cd m<Tab><#+4>y<Tab><#+2>
+2019-02-05 10:16:26+0530 > 
+2019-02-05 10:16:26+0530 > 
+2019-02-05 10:16:26+0530 > vi de<Tab><#+4>i<Tab>fs<Tab>/e<Tab><#+2>6<Tab><#+4><Tab>s<Tab><#+4><LShft>B<Tab><#+2>
+2019-02-05 10:16:34+0530 > <PgDn><LAlt><Tab><LAlt><Tab><LAlt><Tab><Esc><LShft>:q<LShft>!
+2019-02-05 10:18:42+0530 > 
+2019-02-05 10:18:42+0530 > 
+2019-02-05 10:18:42+0530 > vi <BckSp><#+11>sou<Tab>bu<Tab><#+3>/e<Tab><#+1>
+2019-02-05 10:18:49+0530 > <#+2>lunch 16<BckSp><BckSp>ev<Tab><Tab>6<Tab><Tab>s<Tab><#+3>u<Tab>
+2019-02-05 10:19:02+0530 > 
+2019-02-05 10:19:07+0530 > 
+2019-02-05 10:19:07+0530 > <LAlt><Tab><LAlt><Tab>vi h<Tab><#+2>wp<Tab><#+2><BckSp><BckSp>re<Tab><#+3>wl<Tab><#+1>rt<Tab><#+1><Tab><Tab>wp<Tab><#+3><Tab><Tab><LShft>A<#+1><Tab><#+4>
+2019-02-05 10:19:30+0530 > <#+1><Esc><LShft>:q<LShft>!
+2019-02-05 10:19:40+0530 > 
+2019-02-05 10:19:40+0530 > 
+2019-02-05 10:19:41+0530 > grep -rns <BckSp><#+17>cd e<Tab><#+2>
+2019-02-05 10:20:02+0530 > grep -rns <LShft>"<RShft><Ins><LShft>"
+2019-02-05 10:20:06+0530 > <LAlt><Tab>g
+2019-02-05 10:23:33+0530 > <RShft><Ins>
+2019-02-05 10:23:34+0530 >  <#+1> <BckSp>rea<#+1>ltek
+2019-02-05 10:24:37+0530 > www<#+1>w<RShft><Ins>
+2019-02-05 10:29:26+0530 > <LCtrl>ftimeout
