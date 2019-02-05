@@ -6,3 +6,6 @@ Logging started ...
 2019-02-04 12:34:35+0530 > 
 2019-02-04 12:34:36+0530 > grep -rns <LShft>"<RShft><Ins><LCtrl>c
 2019-02-04 12:34:40+0530 > <Up><Up><Up><Up><#+1><BckSp><BckSp>grep -rns <LShft>"<LAlt><Tab>
+
+Logging stopped at 2019-02-04 12:34:48+0530
+
