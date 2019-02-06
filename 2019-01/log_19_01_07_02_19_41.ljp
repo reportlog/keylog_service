@@ -1,0 +1,96 @@
+Logging started ...
+
+2019-01-07 14:19:41+0530 > l -5degrcc<BckSp><BckSp>ee celcius<Left><#+17><Left><Left><Left> 
+2019-01-07 14:19:58+0530 > goo
+2019-01-07 14:23:05+0530 > booking<Down>
+2019-01-07 14:23:09+0530 > 
+2019-01-07 14:24:21+0530 > 
+2019-01-07 14:24:21+0530 > 
+2019-01-07 14:24:21+0530 > cd <LShft>PR<Tab><#+5><BckSp>r<Tab>
+2019-01-07 14:24:24+0530 > ls
+2019-01-07 14:24:24+0530 > 
+2019-01-07 14:24:24+0530 > 
+2019-01-07 14:24:25+0530 > 
+2019-01-07 14:24:25+0530 > cd <LShft>U<Tab>
+2019-01-07 14:24:26+0530 > ls
+2019-01-07 14:24:26+0530 > 
+2019-01-07 14:24:27+0530 > 
+2019-01-07 14:24:27+0530 > sou<Tab><#+1>bui<Tab><#+2>e<Tab>
+2019-01-07 14:24:30+0530 > <LCtrl><LShft>T
+2019-01-07 14:24:32+0530 > 
+2019-01-07 14:24:32+0530 > 
+2019-01-07 14:24:32+0530 > 
+2019-01-07 14:24:33+0530 > ls
+2019-01-07 14:24:33+0530 > cd devi<Tab>fs<Tab>
+2019-01-07 14:24:36+0530 > git st<Tab>t<Tab>
+2019-01-07 14:24:38+0530 > git log
+2019-01-07 14:24:42+0530 > qluxme<BckSp><#+17> gare cen<Del>=-<#+2>=<#+1><BckSp><#+19><BckSp>
+2019-01-07 14:25:57+0530 > <Del>go
+2019-01-07 14:27:58+0530 > aadh<BckSp><BckSp><BckSp><BckSp>ea<BckSp><BckSp><BckSp>637505
+2019-01-07 14:28:58+0530 > <PgUp><PgUp><PgUp><LCtrl>ffem<LCtrl>ffem
+2019-01-07 14:40:57+0530 > 
+2019-01-07 14:40:58+0530 > 
+2019-01-07 14:41:00+0530 > 
+2019-01-07 14:41:00+0530 > 
+2019-01-07 14:41:00+0530 > 
+2019-01-07 14:41:01+0530 > 
+2019-01-07 14:41:02+0530 > <LCtrl><PgDn><PgDn><LCtrl><PgDn><LCtrl><PgDn><LCtrl><LShft>Aravinthkumar<Tab><LShft>Jayaprakasameurop<LCtrl>c
+2019-01-07 14:50:30+0530 > <LCtrl>v<BckSp><BckSp><LCtrl>ago
+2019-01-07 14:51:06+0530 > <NumLk><NumLk><KP9><KP9><KP4><KP4><KP7><KP3><KP6><KP1><KP3><KP7><PgDn><PgDn><PgDn><PgUp><#+27><PgDn><PgUp>go
+2019-01-07 14:54:45+0530 > <LCtrl>v
+2019-01-07 14:54:46+0530 > we<BckSp><BckSp><BckSp>welcome123<LShft>!@#
+2019-01-07 16:51:18+0530 > git pull<Tab><#+1>bb<Tab>ma<Tab>
+2019-01-07 16:58:43+0530 > <LCtrl>xgit log
+2019-01-07 16:59:08+0530 > qgit diff
+2019-01-07 16:59:17+0530 > <BckSp><Up><BckSp><BckSp><BckSp><BckSp>show <RShft><Ins>
+2019-01-07 16:59:23+0530 > ls
+2019-01-07 16:59:28+0530 > git re<Tab>s<Tab>--hard <RShft><Ins>
+2019-01-07 16:59:37+0530 > <Up><Up><Up><Up><Up><Up>
+2019-01-07 16:59:40+0530 > git log
+2019-01-07 16:59:46+0530 > qls
+2019-01-07 16:59:53+0530 > git pa<Tab><BckSp><BckSp>app<Tab>00<Tab>
+2019-01-07 17:00:07+0530 > git log
+2019-01-07 17:00:10+0530 > qgit st<Tab>t<Tab>
+2019-01-07 17:00:14+0530 > git diff
+2019-01-07 17:00:16+0530 > git add <RShft><Ins>
+2019-01-07 17:00:23+0530 > git com<Tab>-m <RShft>""<Left><RShft><Ins>
+2019-01-07 17:00:46+0530 > git log
+2019-01-07 17:00:49+0530 > qgit show <RShft><Ins>
+2019-01-07 17:00:56+0530 > git pus<Tab>uj<Tab><BckSp><BckSp>bb<Tab>ma<Tab>
+2019-01-07 17:01:06+0530 > <LCtrl>fwi
+2019-01-07 17:02:16+0530 > -fi
+2019-01-07 17:02:27+0530 > 
+2019-01-07 17:02:41+0530 > 
+2019-01-07 17:02:44+0530 > goo
+2019-01-07 17:04:10+0530 > luxmem<Down> publi<Down><Down>
+2019-01-07 17:04:36+0530 >  fa<BckSp><LCtrl>ffree<LCtrl><PgUp><F4>lun<BckSp><BckSp><BckSp><BckSp>cd ../../ex<Tab>obd<Tab>
+2019-01-07 17:18:55+0530 > ls
+2019-01-07 17:18:56+0530 > git diff<RShft>
+2019-01-07 17:19:01+0530 > cd ../ser<Tab>
+2019-01-07 17:19:04+0530 > git diff
+2019-01-07 17:19:07+0530 > cd ../../
+2019-01-07 17:21:02+0530 > cd ke<Tab>
+2019-01-07 17:21:06+0530 > ls
+2019-01-07 17:21:07+0530 > git st<Tab>t<Tab>
+2019-01-07 17:21:11+0530 > cal160<RShft><CpsLk><KP8><KP0>
+2019-01-07 17:22:16+0530 > git log
+2019-01-07 17:22:48+0530 > qgit diff <BckSp><BckSp><BckSp><BckSp><BckSp>show <RShft><RShft><RShft><Ins>
+2019-01-07 17:23:05+0530 > cd ys<BckSp><BckSp>syst<Tab>bt<Tab>l<BckSp>btif<Tab>blu<Tab>
+2019-01-07 17:35:06+0530 > ls
+2019-01-07 17:35:06+0530 > 
+2019-01-07 17:35:07+0530 > 
+2019-01-07 17:35:07+0530 > cd s<Tab>
+2019-01-07 17:35:08+0530 > ls
+2019-01-07 17:35:09+0530 > vim <RShft><Ins>
+2019-01-07 17:35:17+0530 > <PgDn><PgDn><PgDn><PgDn><PgDn><LAlt><Tab><LAlt><Tab><PgDn><Down>stand<LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab>go
+2019-01-07 17:45:20+0530 > <Down><#+32><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down>airtel euro<Down><Down>
+2019-01-07 17:47:57+0530 > lu<KP9><KP9><KP4><KP4><KP7><KP3><KP6><KP1><KP3><KP7><LCtrl>agoo
+2019-01-07 17:51:11+0530 > bit select<BckSp><#+29>set bit<Down>
+2019-01-07 17:51:41+0530 > <Left>normal <End> not working all the <Down>
+2019-01-07 17:52:48+0530 > <Esc><RShft>:q<Tab>
+2019-01-07 18:59:33+0530 > <LCtrl><PgDn>
+2019-01-07 18:59:34+0530 > go
+2019-01-07 18:59:38+0530 > 
+
+Logging stopped at 2019-01-07 19:00:27+0530
+
