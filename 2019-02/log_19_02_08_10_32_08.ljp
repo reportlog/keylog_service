@@ -1,0 +1,207 @@
+Logging started ...
+
+2019-02-08 10:32:08+0530 > l be <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp> .ko<Left><Left><Left><LShft>{<Right><Right><Right><Right><Left><LShft>} file <Left><Left><Left><Left><Left><Left><Left><Left><Left><#+13><Left><BckSp><BckSp><BckSp>the<End>will be inserted from <Left><#+23><Left><#+17><BckSp><LShft>M<Left><Left><Left><Right><Left><Right><BckSp><BckSp><BckSp><Right><#+18><Left><Left><Right><#+20><Right><Right><Right><Right><Right><Right><Left><#+36><Right>
+2019-02-08 10:35:06+0530 >  <#+9>
+2019-02-08 10:35:10+0530 > <Down>
+2019-02-08 10:35:11+0530 > <Up><Up><Right><#+2><End><Tab><LAlt><Tab><Esc><LShft>:q<LShft>!
+2019-02-08 10:35:20+0530 > cd ../../../fr<Tab>op<Tab>ne<Tab>w<Tab><#+1>
+2019-02-08 10:36:29+0530 > 
+2019-02-08 10:36:29+0530 > 
+2019-02-08 10:36:30+0530 > vi li<Tab><#+1>h<Tab><#+3>wi<Tab><#+2>c<Tab>
+2019-02-08 10:36:38+0530 > <#+1><PgDn><PgDn><PgDn><BckSp><BckSp><BckSp><BckSp><RShft><Ins> in <Left><Left><Left><Left><Left><Right><LShft>(<LAlt><LAlt><Tab><LAlt><Tab><Tab><LAlt><Tab><Tab><LAlt><Tab><Left><LShft>)<Right><Right><Right> <BckSp><BckSp><BckSp>inf<BckSp> <LAlt><Tab><Esc><LShft>:q<LShft>!
+2019-02-08 10:39:08+0530 > <LAlt><Tab><RShft><Ins>/<LAlt><Tab><LAlt><Tab><RShft><Ins><Up><Left><Left><Left><Left><Left><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><Up>
+2019-02-08 10:44:46+0530 > 
+2019-02-08 10:44:46+0530 > <LShft>SOme permiss<BckSp>sions problems <Left><#+23><Left><BckSp>o<End>coming from <RShft><Ins> <Left><#+32><Left>not loading kernel automatically <Left><#+24><Left><Left><Left><Left><Left><Left><Left>is <BckSp><BckSp><BckSp><Left><Down><Down><Down>
+2019-02-08 10:49:53+0530 > 
+2019-02-08 10:49:53+0530 > 
+2019-02-08 10:49:53+0530 > 
+2019-02-08 10:49:54+0530 > 
+2019-02-08 10:49:54+0530 > <Up><Up><Up><Up><Up><Down><Down><Up><Up><Right><#+19><Right><Right><Right><Right><Right><Up><Right><#+17><Left> module<Right><Down><BckSp><#+60><BckSp><BckSp><BckSp>nedd<BckSp><BckSp><BckSp><BckSp>need<BckSp><BckSp><BckSp><BckSp>ned<BckSp>ee<BckSp>ded in <RShft><Ins> <BckSp>, because<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp> <BckSp><BckSp><LShft>) form<BckSp><BckSp><BckSp><BckSp>from loading lern<BckSp><BckSp><BckSp><BckSp>kernel module while i am turing wifi devic<BckSp><#+12><BckSp><BckSp> on wifi in android device,<BckSp> in <RShft><Ins><LShft>()
+2019-02-08 10:54:19+0530 > 
+2019-02-08 10:54:20+0530 > <Up><Up><Right><#+18><Left><Left><Left>n<End>
+2019-02-08 10:54:38+0530 > 
+2019-02-08 10:54:38+0530 > <Up><#+21><Down><Down><Down><#+8><Up><Up><Up><Right><#+35><Right><Right><Left><BckSp> <BckSp>, <LAlt><Tab><LAlt><Tab>
+2019-02-08 10:55:50+0530 > 
+2019-02-08 10:55:51+0530 > <Up><Up><Up><Down><Down><Down><LAlt><Tab><LAlt><Tab><LAlt><Tab>
+2019-02-08 10:56:07+0530 > 
+2019-02-08 10:56:08+0530 > 
+2019-02-08 10:56:08+0530 > 
+2019-02-08 10:56:08+0530 > <LAlt><Tab>
+2019-02-08 10:56:15+0530 > 
+2019-02-08 10:56:15+0530 > <RShft><Ins> <BckSp><BckSp><LShft>$ ins<BckSp><BckSp><BckSp>inmod <BckSp><BckSp><BckSp><BckSp>smod <LAlt><Tab>exit
+2019-02-08 10:56:41+0530 > 
+2019-02-08 10:56:42+0530 > 
+2019-02-08 10:56:42+0530 > insmod /sy<Tab><#+2><BckSp><#+15><LAlt><Tab>/system/s<BckSp><BckSp>/8723bu.ko -<LShft>> not at<BckSp><BckSp>taking <LShft>& i give sudo <BckSp><BckSp><BckSp><BckSp><BckSp>roo t<BckSp><BckSp>t permission, inmod is <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>smod is taking module<BckSp>
+2019-02-08 10:57:47+0530 >  <#+14>
+2019-02-08 10:57:49+0530 >  <#+18><End>
+2019-02-08 10:57:59+0530 > <LAlt><Tab>
+2019-02-08 10:58:03+0530 > <LAlt><Tab><RShft><Ins>su
+2019-02-08 10:58:16+0530 > <RShft><Ins>insm<BckSp><BckSp><BckSp><BckSp><Up><Right><Right><BckSp><BckSp>suinsmod <BckSp><BckSp> <BckSp>d /system <BckSp>/<BckSp>/s<BckSp>8723bu.ko
+2019-02-08 10:59:08+0530 > 
+2019-02-08 10:59:08+0530 >  <#+14>    <LShft>Loade<BckSp>ed <LShft>MOud<BckSp><BckSp><BckSp><BckSp><LShft>Module.
+2019-02-08 10:59:42+0530 > 
+2019-02-08 10:59:42+0530 > <LShft>Regards,
+2019-02-08 10:59:49+0530 > <LShft>Santhana <LShft>Kumar <LShft>S<LShft>{cooo<BckSp><BckSp><BckSp><BckSp><BckSp><Up><#+19><Down><#+40>git status
+2019-02-08 11:03:43+0530 > <#+1>git diff <RShft><Ins>
+2019-02-08 11:04:39+0530 > git diff <RShft><Ins>
+2019-02-08 11:04:48+0530 > 
+2019-02-08 11:04:58+0530 > <#+13>
+2019-02-08 11:05:00+0530 > <#+19>
+2019-02-08 11:05:01+0530 > <#+12>
+2019-02-08 11:05:02+0530 > q
+2019-02-08 11:05:03+0530 > 
+2019-02-08 11:05:03+0530 > 
+2019-02-08 11:05:03+0530 > git diff <RShft><Ins>
+2019-02-08 11:05:28+0530 > <LAlt><Tab><LAlt><Tab>g
+2019-02-08 11:07:53+0530 > <RShft><Ins>
+2019-02-08 11:07:54+0530 >  <Down>
+2019-02-08 11:08:01+0530 > <BckSp><#+12><BckSp><BckSp><BckSp>android <BckSp>.harware.wifi.services
+2019-02-08 11:08:23+0530 > 
+2019-02-08 11:08:29+0530 > 
+2019-02-08 11:08:29+0530 > 
+2019-02-08 11:08:29+0530 > 
+2019-02-08 11:08:30+0530 > cd 0<BckSp>-
+2019-02-08 11:08:32+0530 > 
+2019-02-08 11:08:32+0530 > 
+2019-02-08 11:08:32+0530 > cd ../../../har<Tab><#+1>inter<Tab>blue<Tab><Tab><Tab>de<Tab>
+2019-02-08 11:08:43+0530 > 
+2019-02-08 11:08:43+0530 > 
+2019-02-08 11:08:44+0530 > 
+2019-02-08 11:08:44+0530 > ls
+2019-02-08 11:08:45+0530 > vi a<BckSp>a<Tab><#+4>n<Tab><#+4>
+2019-02-08 11:08:49+0530 > <#+1><Esc><LShft>:q<LShft>!
+2019-02-08 11:08:57+0530 > 
+2019-02-08 11:08:57+0530 > cd -
+2019-02-08 11:08:58+0530 > 
+2019-02-08 11:08:58+0530 > 
+2019-02-08 11:08:59+0530 > 
+2019-02-08 11:08:59+0530 > cd -
+2019-02-08 11:09:00+0530 > 
+2019-02-08 11:09:01+0530 > cd ../../../../
+2019-02-08 11:09:04+0530 > 
+2019-02-08 11:09:04+0530 > 
+2019-02-08 11:09:04+0530 > 
+2019-02-08 11:09:04+0530 > grep -rns <LAlt><Tab><LAlt><Tab><LShft>"<RShft><Ins><LShft>"
+2019-02-08 11:09:18+0530 > <LAlt><Tab><Up><Left><BckSp><#+14><BckSp><LShft>C<LShft>AP_BE<BckSp><BckSp>NET_DM<BckSp><BckSp>ADMIN
+2019-02-08 11:09:42+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab>cd inter<Tab>wi<Tab>1<Tab><#+1>1<Tab><#+1>de<Tab>
+2019-02-08 11:10:05+0530 > 
+2019-02-08 11:10:05+0530 > vi w<BckSp>a<Tab><#+2>
+2019-02-08 11:10:07+0530 > <LAlt><Tab><BckSp>
+2019-02-08 11:10:41+0530 > <BckSp>cap<LAlt><Tab><LAlt><Tab><LShft>_net <BckSp><LShft>_admin <Down><Up> <Down>
+2019-02-08 11:11:49+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><RShft><Ins> cap<LShft>_net<LShft>_admin permisisions
+2019-02-08 11:12:22+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><RCtrl><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><#+30><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><LAlt><Tab><Esc><LShft>:q<LShft>!
+2019-02-08 11:14:36+0530 > 
+2019-02-08 11:14:36+0530 > locate <RShft><Ins>
+2019-02-08 11:14:38+0530 > vi <RShft><Ins>
+2019-02-08 11:14:47+0530 > <PgDn><LAlt><Tab><Down><#+12><Up><Up><Up><Down><Down><#+12><Up><#+12><Up><Up><Up><Up><Up><Up><Up><Down><#+13><Down><Down><LAlt><Tab><Down><#+47><Down><#+9><Down><#+23><Down><#+5><Down><#+12>/wifi
+2019-02-08 11:15:24+0530 > <LAlt><Tab>g
+2019-02-08 11:16:20+0530 > <RShft><Ins>
+2019-02-08 11:16:23+0530 > <Down><Down><Down><Down><Down><Up><Up><Up><Up><Up><Up><Up><Up><LAlt><Tab><Up><Up><Up><Up><Up><Up><Down><Down><Down><Down><Down><Down><Down><Left><Left><Left><Up><#+73><Down><#+14><PgDn><PgDn><PgDn><PgDn><PgUp><PgUp><PgDn><LAlt><Tab><PgDn><PgDn><PgDn><PgDn><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgDn><LAlt><Tab><Up><#+10><Up><Down><Down><Down><Down><Up><LAlt><Tab><Down><#+11><Down><Up><Up><#+12><Up><Up><Up><Down><Down>i/<LShft>*<Down><#+14><Down><Down><Down><Down><Down><LShft>*/<Esc><#+1><Up><Up><Up><Up><Up>/<LShft>*<BckSp><BckSp>i/<LShft>*<Up><Up><Up><Up><Up><Up><LShft>*/<Esc><#+1><LShft>:wq<LShft>!
+2019-02-08 11:19:34+0530 > 
+2019-02-08 11:19:34+0530 > 
+2019-02-08 11:19:35+0530 > cd -
+2019-02-08 11:19:40+0530 > 
+2019-02-08 11:19:41+0530 > cd ../ve<Tab>n<BckSp>xp<Tab><#+2>-<Ins><Ins><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>nxp-<Tab>ker<Tab>d<BckSp>ker<Tab><#+1>m<Tab><#+4><Home><Del><Del>vi<End>p<BckSp>o<Tab><#+2><Tab><Tab>.<Tab>
+2019-02-08 11:20:02+0530 > <PgDn><PgDn><PgDn><PgDn><PgDn>/<LShft>Z<BckSp><LShft>CAP_SYS_MODULE
+2019-02-08 11:20:12+0530 > <Left><#+14><Left><Up>i <#+13><BckSp><BckSp><LShft>#<LShft>ZUMI<BckSp><BckSp><BckSp><BckSp><BckSp><Esc><#+1><Down><Right><Right><#+1><Right><BckSp><Right>i<BckSp><BckSp><Down>//<Esc><#+1><LShft>:w<LShft>!
+2019-02-08 11:20:37+0530 > /<Up>
+2019-02-08 11:20:39+0530 > <Left><#+15><Left>i<BckSp><BckSp><Down>i//<Esc><#+1><Left><Left><Right><BckSp><Right>i<BckSp><Esc><LShft>:w<LShft>!
+2019-02-08 11:20:51+0530 > /<Up>
+2019-02-08 11:20:54+0530 > nnnnn<Esc><LShft>:wq<LShft>!
+2019-02-08 11:20:58+0530 > 
+2019-02-08 11:20:59+0530 > sour<Tab><#+3>ce <BckSp><BckSp><BckSp>bui<Tab><#+4>/e<Tab>
+2019-02-08 11:21:06+0530 > <#+2>
+2019-02-08 11:21:10+0530 > 
+2019-02-08 11:21:10+0530 > 
+2019-02-08 11:21:10+0530 > lunch 16
+2019-02-08 11:21:12+0530 > <#+1>
+2019-02-08 11:21:16+0530 > 
+2019-02-08 11:21:17+0530 > 
+2019-02-08 11:21:17+0530 > make -j8
+2019-02-08 11:21:19+0530 > <Up><Up><Up>
+2019-02-08 11:21:29+0530 > <#+1><PgDn><PgDn><PgDn><PgUp><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab>/wifi
+2019-02-08 11:25:32+0530 > 
+2019-02-08 11:28:38+0530 > 
+2019-02-08 11:28:38+0530 > 
+2019-02-08 11:28:38+0530 > 
+2019-02-08 11:28:39+0530 > 
+2019-02-08 11:30:06+0530 > 
+2019-02-08 11:30:06+0530 > 
+2019-02-08 11:30:06+0530 > 
+2019-02-08 11:30:06+0530 > 
+2019-02-08 11:30:07+0530 > 
+2019-02-08 11:30:07+0530 > 
+2019-02-08 11:30:07+0530 > 
+2019-02-08 11:30:07+0530 > 
+2019-02-08 11:30:07+0530 > 
+2019-02-08 11:30:07+0530 > 
+2019-02-08 11:30:08+0530 > 
+2019-02-08 11:30:08+0530 > 
+2019-02-08 11:30:08+0530 > 
+2019-02-08 11:30:08+0530 > 
+2019-02-08 11:30:08+0530 > 
+2019-02-08 11:30:09+0530 > 
+2019-02-08 11:30:09+0530 > 
+2019-02-08 11:30:09+0530 > <LCtrl>c
+2019-02-08 11:30:11+0530 > <#+1><LCtrl>c
+2019-02-08 11:30:13+0530 > c
+2019-02-08 11:30:14+0530 > <Esc><#+1><LShft>:q<LShft>!
+2019-02-08 11:30:17+0530 > 
+2019-02-08 11:30:17+0530 > 
+2019-02-08 11:30:17+0530 > <LCtrl>c
+2019-02-08 11:30:24+0530 > c
+2019-02-08 11:30:24+0530 > <#+14><Up>
+2019-02-08 11:30:32+0530 > <#+1><Up><BckSp>7
+2019-02-08 11:30:48+0530 > <#+2>yes
+2019-02-08 11:30:50+0530 > z<#+1><BckSp>zs10062013
+2019-02-08 11:30:55+0530 > <#+1>
+2019-02-08 11:30:58+0530 > 
+2019-02-08 11:30:58+0530 > 
+2019-02-08 11:30:59+0530 > 
+2019-02-08 11:30:59+0530 > cle<Tab><#+1>
+2019-02-08 11:31:01+0530 > 
+2019-02-08 11:31:01+0530 > 
+2019-02-08 11:31:01+0530 > cd <LShft>~/<LShft>Pr<Tab><LShft>A<Tab>a<Tab>
+2019-02-08 11:31:04+0530 > 
+2019-02-08 11:31:04+0530 > 
+2019-02-08 11:31:05+0530 > 
+2019-02-08 11:31:05+0530 > 
+2019-02-08 11:31:05+0530 > sou<Tab><#+2>bui<Tab><#+2>/e<Tab>
+2019-02-08 11:31:09+0530 > 
+2019-02-08 11:31:12+0530 > 
+2019-02-08 11:31:13+0530 > lucnh 16
+2019-02-08 11:31:15+0530 > <LCtrl>c
+2019-02-08 11:31:16+0530 > <Up><Left><Left><Left><Left><BckSp><BckSp>nc
+2019-02-08 11:31:19+0530 > 
+2019-02-08 11:31:25+0530 > 
+2019-02-08 11:31:25+0530 > make -j8
+2019-02-08 11:31:28+0530 > <LCtrl><LShft>T<Up>
+2019-02-08 11:31:41+0530 > <LCtrl>c
+2019-02-08 11:31:44+0530 > <#+1><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><BckSp><#+18>make -j8
+2019-02-08 11:32:03+0530 > <RCtrl><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgDn><PgDn><Down><Up>
+2019-02-08 11:32:47+0530 > <#+1>y<#+1>es
+2019-02-08 11:32:50+0530 > zs10062013
+2019-02-08 11:32:54+0530 > cle<Tab>
+2019-02-08 11:32:57+0530 > 
+2019-02-08 11:32:57+0530 > 
+2019-02-08 11:32:58+0530 > sou<Tab><#+3><BckSp><#+16>cd <LShft>~/p<LShft>r<Tab><#+1><BckSp><BckSp><LShft>Pr<Tab><LShft>A<Tab>a<Tab>
+2019-02-08 11:33:06+0530 > 
+2019-02-08 11:33:06+0530 > 
+2019-02-08 11:33:06+0530 > 
+2019-02-08 11:33:06+0530 > sou<Tab><#+1>bu<Tab><#+3>/e<Tab>
+2019-02-08 11:33:10+0530 > lunch 16
+2019-02-08 11:33:12+0530 > 
+2019-02-08 11:33:13+0530 > 
+2019-02-08 11:33:14+0530 > make -j8
+2019-02-08 11:33:17+0530 > make 
+2019-02-08 11:33:36+0530 > <LCtrl>c
+2019-02-08 11:33:38+0530 > <LCtrl>c
+2019-02-08 11:33:39+0530 > <#+1><LCtrl>c
+2019-02-08 11:33:40+0530 > 
+2019-02-08 11:33:41+0530 > 
+2019-02-08 11:33:41+0530 > 
+2019-02-08 11:33:41+0530 > reboot
+2019-02-08 11:33:58+0530 > 
+
+Logging stopped at 2019-02-08 11:34:01+0530
+
