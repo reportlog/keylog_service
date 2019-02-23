@@ -1,0 +1,29 @@
+Logging started ...
+
+2019-02-23 13:26:09+0530 > <Up><Up><Down>
+2019-02-23 13:26:13+0530 > <RShft>:q
+2019-02-23 13:26:27+0530 > cd <LShft>T4<Tab>
+2019-02-23 13:26:30+0530 > 
+2019-02-23 13:26:31+0530 > 
+2019-02-23 13:26:31+0530 > <RShft><Ins><Left><#+19><Left><Left><Left><BckSp><BckSp><BckSp><BckSp><Right><#+13><Right><Right><Right><Right><Right><BckSp><BckSp><BckSp><BckSp>
+2019-02-23 13:26:39+0530 > vim <RShft><Ins>
+2019-02-23 13:26:44+0530 > /re<BckSp><BckSp><BckSp><Down><Down><Down><Down><Down><Down><LShft>***<Down><Down><LShft>*****<Up><Down><#+35><PgDn><#+112><PgDn><#+32><PgDn><PgDn><PgUp><#+13><PgUp><PgDn><PgUp><#+2><Up><#+17><PgDn><PgDn><PgDn><PgDn><PgUp><Up><#+16><Up><Right><#+16><Left><Left><LShft>******<Up><#+21><Left><#+15><Left><LShft><Left><#+15><LShft>******<Right><#+21><Down><#+16><Right><#+21><Right><Right>/reset
+2019-02-23 13:27:40+0530 > nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn<PgDn><#+94><PgDn><#+233><PgDn><PgDn><PgDn><#+54><PgDn><PgDn><#+39><RShft>:eff4
+2019-02-23 13:28:28+0530 > /<Up><BckSp><BckSp><BckSp><BckSp><BckSp>eff4<BckSp>f4000
+2019-02-23 13:28:40+0530 > /<Up>
+2019-02-23 13:28:43+0530 > /<Up><BckSp><#+11><BckSp>f400
+2019-02-23 13:28:48+0530 > <Left><#+33><Up><Up><Up>/reset<LShft>_ve
+2019-02-23 13:28:59+0530 > <Down><Down><Down><PgDn><#+29><PgDn><#+30><PgDn><PgDn><PgDn><PgDn><#+42><PgDn><PgDn><#+39><PgDn><PgDn><PgDn><#+29><PgDn><PgDn><PgDn><PgDn><#+48><PgDn><#+96><PgDn><#+81><RShft>:q
+2019-02-23 13:29:46+0530 > vf<BckSp><BckSp><BckSp>cd ../
+2019-02-23 13:29:50+0530 > 
+2019-02-23 13:29:50+0530 > vim in<Tab><LShft>Co<Tab><BckSp><BckSp>co<Tab>n<Tab><Tab><Tab>f<Tab>/t<Tab><BckSp><LShft>T4<Tab><Tab><Tab><Tab><BckSp><#+34>find -ina<Tab><LShft>T4160<BckSp><BckSp><BckSp>240<LShft>RDB.h
+2019-02-23 13:30:17+0530 > vim <RShft><Ins>
+2019-02-23 13:30:25+0530 > /<Up><Down>/<RShft><BckSp><RShft><Ins>
+2019-02-23 13:31:01+0530 > nnnn<Up><Up><Down>nnn/<Up>
+2019-02-23 13:31:07+0530 > <Down><PgDn><PgDn><PgUp><Down><#+13>/<RShft><Ins>
+2019-02-23 13:31:29+0530 > /<Up>
+2019-02-23 13:31:33+0530 > nnnnn<RShft>:q
+2019-02-23 13:31:43+0530 > <Up><Up><Up><Down><Up><Up><Down><Down><Down><Down>cd -
+2019-02-23 13:31:48+0530 > <Up><Up><Up><Up><Up>
+2019-02-23 13:31:51+0530 > /<RShft><Ins>
+2019-02-23 13:31:52+0530 > <F12>
