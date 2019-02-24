@@ -1,0 +1,244 @@
+Logging started ...
+
+2019-02-23 13:36:17+0530 > <RShft>:q
+2019-02-23 13:36:39+0530 > ifoc<Tab><BckSp><BckSp>co<Tab>
+2019-02-23 13:36:43+0530 > ping 192.168.1.53
+2019-02-23 13:38:50+0530 > <LCtrl>c
+2019-02-23 13:38:59+0530 > <LCtrl><LShft>Tcd
+2019-02-23 13:39:11+0530 > cd my<Tab><Tab><Tab><Tab><Tab>devi<Tab><Tab><Tab>fs<Tab><Tab><Tab>/<Tab><Tab>imx6<Tab><Tab><Tab>
+2019-02-23 13:40:26+0530 > s<BckSp><BckSp>ls
+2019-02-23 13:40:28+0530 > e<Tab><BckSp><BckSp>vun ==<BckSp><BckSp><BckSp><BckSp><BckSp>im sabre<Tab>sd<Tab>s<BckSp>d<Tab>
+2019-02-23 13:41:28+0530 > <Down><Down><Down><#+59><RShft>:q<Tab>
+2019-02-23 13:41:34+0530 > cd ..
+2019-02-23 13:41:44+0530 > ls
+2019-02-23 13:41:45+0530 > s<BckSp><BckSp>cd sab<Tab>sd<Tab>6dq<Tab><Tab><Tab>
+2019-02-23 13:41:59+0530 > ls
+2019-02-23 13:42:00+0530 > vim ini<Tab>fr<Tab>dd<BckSp>sd<BckSp><BckSp><BckSp>sd<Tab>
+2019-02-23 13:42:15+0530 > <Down><Down><Down><Down><Down><Down><RShft>:q<Tab>
+2019-02-23 13:42:20+0530 > grep -rns 7 <RShft>*
+2019-02-23 13:43:00+0530 > <LCtrl><LShft><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><LCtrl><LShft><Down><Down><Down><Up><Up><Down><Down><Down><Down><Down><Down><#+1>cd ..
+2019-02-23 13:44:11+0530 > cd im<Tab>6<Tab><Tab><Tab>
+2019-02-23 13:44:15+0530 > <Up><Up><Up>
+2019-02-23 13:44:17+0530 > ad<BckSp>ndroid <BckSp>7<BckSp> 7 emmc size 1<RShft>:q
+2019-02-23 13:45:18+0530 > <RShft>:q
+2019-02-23 13:45:20+0530 > 
+2019-02-23 13:45:21+0530 > 
+2019-02-23 13:45:21+0530 > 
+2019-02-23 13:45:21+0530 > ls -l
+2019-02-23 13:45:23+0530 > <LAlt><Tab><Left><Left><Left><Left><Left> re
+2019-02-23 13:46:03+0530 >  nxp
+2019-02-23 13:46:09+0530 > <LCtrl>c
+2019-02-23 13:46:23+0530 > <LAlt><LMeta><Tab><LAlt><Tab><LCtrl><PgUp><LCtrl><PgDn><PgDn><PgDn>grep -rms <BckSp><BckSp><BckSp>ns <RShft><Ins> <RShft>*
+2019-02-23 13:46:37+0530 > vim <RShft><Ins><Left><Left><BckSp> <RShft>+
+2019-02-23 13:46:54+0530 > <Esc><Esc><Esc><RShft>:q
+2019-02-23 13:47:03+0530 > <LAlt><Tab><LAlt><Tab>grep <LShft>PAT<BckSp>RTITION <RShft>*
+2019-02-23 13:47:47+0530 > cd ..
+2019-02-23 13:47:53+0530 > <Up><Up>
+2019-02-23 13:47:55+0530 > <Up><Left><Left><Left><#+13><Left><Left> -rns <BckSp>
+2019-02-23 13:48:03+0530 > <Up><Left><Left><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>partition
+2019-02-23 13:48:30+0530 > <LCtrl><LShft><LCtrl><Down>vim <Up><Left><Left><Left><Right><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp> <KP7><KP.> <Left><Right><Right><BckSp><Left><RShft>"<Left><Left><Left><Left><Right><RShft>"
+2019-02-23 13:51:16+0530 > <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>emmc partition <Down>
+2019-02-23 13:54:57+0530 >   imx6q
+2019-02-23 13:55:11+0530 > <LCtrl>c
+2019-02-23 13:56:04+0530 > <LAlt><Tab><Down>grep -rns <RShft><Ins> <RShft>:<BckSp><RShft>*
+2019-02-23 13:56:22+0530 > vim <RShft><Ins><Left><Left><BckSp> <RShft>+
+2019-02-23 13:56:51+0530 > <RShft>:q<Tab>
+2019-02-23 13:56:54+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><Down><LAlt><Tab><LAlt><Tab>com<Tab><BckSp><BckSp><BckSp><BckSp>vim vo<BckSp><BckSp><BckSp> com<Tab>m<Tab><BckSp>p<Tab><Tab><Tab>
+2019-02-23 14:01:50+0530 > <Up><Up><Up><Up><Down><Down><Esc><RShft>:q<Tab>
+2019-02-23 14:02:08+0530 > <Up>
+2019-02-23 14:10:47+0530 > <Up><Up><Up><Down><#+17><Up><#+25><RShft>:L<BckSp>q
+2019-02-23 14:10:56+0530 > <Up>
+2019-02-23 14:13:48+0530 > <Down><Down><Down><Down><Up><Up><Up><Up><Up><Up><Up><RShft>:q<Tab>
+2019-02-23 14:14:02+0530 > <Up><BckSp><#+16><Tab><Tab><Tab><BckSp><#+20><Tab><Tab><BckSp><#+25><Tab><Tab><BckSp><#+26><Tab><Tab><BckSp><#+32><BckSp><BckSp><Tab><Tab>par<Tab><Tab><Tab>
+2019-02-23 14:14:34+0530 > <Up><#+17><Down><#+25><RShft>:q<Tab>
+2019-02-23 14:14:43+0530 > <LAlt><Tab><BckSp><BckSp><BckSp><BckSp>sd
+2019-02-23 14:14:54+0530 > <Left>card
+2019-02-23 14:15:03+0530 > <Left><Left>4gb 
+2019-02-23 14:15:47+0530 > goo
+2019-02-23 14:17:16+0530 > gpt table <BckSp><#+19>waite gpt table to mmc
+2019-02-23 14:17:31+0530 > 
+2019-02-23 14:17:31+0530 >  imx6 mfgyt<BckSp><BckSp>tool
+2019-02-23 14:17:46+0530 > di<LAlt><Tab><LAlt><Tab><Tab><BckSp><BckSp><BckSp><BckSp>r<BckSp><BckSp><BckSp>exit
+2019-02-23 14:22:28+0530 > <LAlt><Tab>pwd
+2019-02-23 14:25:22+0530 > <LCtrl><LShft>c
+2019-02-23 14:25:26+0530 > <LShft>So<BckSp><BckSp><BckSp><LShft>Qwave <LShft>Source cid<BckSp><BckSp>ode patg<RShft><BckSp>h<RShft>:<Up><Up><LCtrl>a1. <LCtrl>v
+2019-02-23 14:26:25+0530 > 
+2019-02-23 14:26:25+0530 > <LAlt><Tab>
+2019-02-23 14:26:33+0530 > 
+2019-02-23 14:26:33+0530 > cd ../../
+2019-02-23 14:26:36+0530 > 
+2019-02-23 14:26:36+0530 > 
+2019-02-23 14:26:36+0530 > cd git 
+2019-02-23 14:26:39+0530 > cd boa<Tab><Tab>fre<Tab><Tab>t4r<Tab>
+2019-02-23 14:26:51+0530 > ls
+2019-02-23 14:26:52+0530 > pwd
+2019-02-23 14:26:55+0530 > <LCtrl><LShft>c
+2019-02-23 14:26:59+0530 > 
+2019-02-23 14:27:02+0530 > 2. <LCtrl>v
+2019-02-23 14:27:06+0530 > 
+2019-02-23 14:27:06+0530 > 
+2019-02-23 14:27:06+0530 > 
+2019-02-23 14:27:06+0530 > 
+2019-02-23 14:27:06+0530 > <Up><Up>3. <LShft>Patches<RShft>: <LAlt><Tab>pwd
+2019-02-23 14:27:21+0530 > <LCtrl><LShft>c
+2019-02-23 14:27:24+0530 > <LAlt><Tab><RShft><Ins>
+2019-02-23 14:27:27+0530 > 
+2019-02-23 14:27:27+0530 > 4. <LAlt><Tab>pwd
+2019-02-23 14:27:32+0530 > <LCtrl><LShft>c
+2019-02-23 14:27:35+0530 > <LAlt><Tab>build<RShft>: <LCtrl>v
+2019-02-23 14:27:40+0530 > 
+2019-02-23 14:27:40+0530 > 5. <LShft>Script<RShft>: <LAlt><Tab>g=h<BckSp><BckSp><BckSp><LCtrl><LShft><Left><Left><LCtrl>c
+2019-02-23 14:28:03+0530 > <LAlt><Tab><LAlt><Tab><Tab><LCtrl>v ..<BckSp><BckSp><Del><Down><Down><Up><Up><Up><LCtrl>b<LAlt><Tab>ya
+2019-02-23 14:28:58+0530 > <LAlt><Tab><LAlt><Tab>vim dd<Tab>c
+2019-02-23 14:30:01+0530 > /<Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down>
+2019-02-23 14:30:11+0530 > <Down><Down><Down><#+15><Down><#+10><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down><#+26><Up><#+15><Down><Down><Up><#+16><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down><Down><RShft>:q
+2019-02-23 14:30:42+0530 > <LCtrl>l
+2019-02-23 14:30:44+0530 > <#+17>grep -inr <RShft>""<RCtrl><Left><RShft><Ins><Right> <LShft>*
+2019-02-23 14:30:59+0530 > <Up> ../
+2019-02-23 14:31:02+0530 > <Up>../
+2019-02-23 14:31:04+0530 > <Up>../
+2019-02-23 14:31:07+0530 > <Down><Left>vim ddr.c
+2019-02-23 14:31:38+0530 > <RShft>?:<BckSp><BckSp><RShft>:373
+2019-02-23 14:31:42+0530 > <Up><#+41><Down><#+45><Up><Up><Up><Up><Up><Right><#+18><Down><Down><#+16><LCtrl><LShft>c
+2019-02-23 14:32:46+0530 > g
+2019-02-23 14:32:54+0530 > <LCtrl>v
+2019-02-23 14:32:55+0530 > <LCtrl><LAlt><Tab><LAlt><Tab><LCtrl><LCtrl><LCtrl><LAlt><Tab><RShft>:q
+2019-02-23 14:33:07+0530 > vim f<BckSp>d<Tab>h
+2019-02-23 14:33:11+0530 > <Down><#+47><Down><Down><#+19><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up>g
+2019-02-23 14:33:34+0530 > ddr date <BckSp><BckSp>a rat in <RShft><BckSp><BckSp><BckSp><BckSp>e u<BckSp>in <RShft><Ins>
+2019-02-23 14:33:49+0530 > <LCtrl><LCtrl>c
+2019-02-23 14:34:46+0530 > <LCtrl>v<LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LCtrl>c
+2019-02-23 14:37:13+0530 > <LCtrl>z<Up><Down><Down>6. <LShft>DDR <LShft>Freaq<BckSp><BckSp>quency<RShft>: <LCtrl>v
+2019-02-23 14:38:01+0530 > 
+2019-02-23 14:38:01+0530 > 7. <LCtrl>c
+2019-02-23 14:38:07+0530 > <RShft>:q
+2019-02-23 14:38:09+0530 > cd ../../../
+2019-02-23 14:38:13+0530 > 
+2019-02-23 14:38:13+0530 > 
+2019-02-23 14:38:13+0530 > 
+2019-02-23 14:38:13+0530 > vim <RShft><Ins>
+2019-02-23 14:38:15+0530 > <LAlt><Tab><LAlt><Tab><RShft>:162
+2019-02-23 14:38:25+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab>/<RShft><Ins>
+2019-02-23 14:38:54+0530 > nnnnnnnnnn<Up><Up><Up><Up><Up><Up><Right><#+30><Left><Left><LShft>*********************nnnnnnnnnn<Down><Down><Right><Down><Right><#+25><Right><Right><Right><LShft><Right><LShft>**<Right><Right><Right><Right><#+12><Right><Left><Left><Left><Right><LShft>*********<RShft>:q
+2019-02-23 14:40:15+0530 > grep -inr <RShft>""<Left><RShft><Ins><Right><#+1><Left><Up><Up><Down>
+2019-02-23 14:40:23+0530 > /<Up>
+2019-02-23 14:40:24+0530 > <RShft>:1
+2019-02-23 14:40:30+0530 > <RShft>:q
+2019-02-23 14:40:32+0530 > <Up><Up><Left><Up><Up><Up><Left><Left><#+25><Left><Left><Del><#+13><Del><Del><Del><Del><RShft><Ins><Right><#+10><Del><#+21>
+2019-02-23 14:40:42+0530 > <Up><Up><Up><Down>
+2019-02-23 14:40:59+0530 > /<Up>
+2019-02-23 14:41:01+0530 > nnnnnnnnnnnn<Left><Left><Left><Left><Left><Left><LShft>**<Up><Up><LShft>*<Down><Down><Down><Up><Right><#+37><RShft>:q
+2019-02-23 14:41:37+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><LAlt><Tab><LCtrl>c
+2019-02-23 14:42:04+0530 > c
+2019-02-23 14:42:04+0530 > <LAlt><Tab><BckSp><#+18>
+2019-02-23 14:42:07+0530 > <#+15>grep =-<BckSp><BckSp>-inr <RShft>""<Left><RShft><Ins><Right> <LShft><Left><Left><BckSp><Right> <LShft>*<BckSp><Up><Up><Up><Down><Up><Up><Up><Up><Up><Left><Left><#+19><Down><Down><Down><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down><Down><Up><Up><Up><Up><Up><Up><Down><Down><Down><Down><Down><Down>
+2019-02-23 14:42:36+0530 > vim dd<Tab>c
+2019-02-23 14:42:40+0530 > <RShft>/<Up><Up><Up><Up><Up><Up><Up><Up><Up><Down><Down><Down>
+2019-02-23 14:42:47+0530 > <RShft>:q
+2019-02-23 14:42:53+0530 > <LCtrl>lcd -
+2019-02-23 14:42:55+0530 > <#+17>grep -inr <RShft>""<Left><RShft><Ins> <BckSp><Right> <LShft><Up><Up><Up><Up>
+2019-02-23 14:43:06+0530 > /<RShft><Ins>
+2019-02-23 14:43:07+0530 > <Down><Down><#+19><Up><Right><#+14><Right><Right><LShft>*<Right><#+21><Right><Right><Left><Left><#+7><Right><Right><Right><Left><#+22><LShft>**<Right><Right><#+13><Right><Right><Right><Right><Right><#+10><Right><LShft>***nnnnnnn<Right><#+22><LShft>**************<Down><#+17>nn<Down><#+18><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Left><#+17><Left><Left><Left><Left><RShft>:q
+2019-02-23 14:44:38+0530 > <LCtrl>l
+2019-02-23 14:44:39+0530 > <#+16><Up><Down>grep -inr <RShft>""<Left><RShft><Ins><Right> <LShft>*
+2019-02-23 14:44:49+0530 > vim <RShft><Ins>
+2019-02-23 14:45:27+0530 > <RShft>:416
+2019-02-23 14:45:31+0530 > yyp<Up>i/<LShft>* <Right><#+42> <LShft>*/<Down><Esc><RShft>:wq
+2019-02-23 14:45:46+0530 > <Up>
+2019-02-23 14:46:09+0530 > /<Up>
+2019-02-23 14:46:11+0530 > <Down><Right><#+36><Up><Left><#+12><Down><Down>i<Right><Del><Del><Del><Del><Del><Del><Del><Del>60000000<Esc><RShft>:wq
+2019-02-23 14:46:43+0530 > <Up><Up><Up>
+2019-02-23 14:46:47+0530 > /<Up>
+2019-02-23 14:46:49+0530 > nn<RShft>:q
+2019-02-23 14:46:56+0530 > <Up><Up>
+2019-02-23 14:46:57+0530 > /<Up>
+2019-02-23 14:46:59+0530 > <Down><Down><RShft>:q
+2019-02-23 14:47:07+0530 > <Up><Up>
+2019-02-23 14:47:10+0530 > /<RShft><Ins>
+2019-02-23 14:47:11+0530 > <Down><Up><Up><Down><Down><Down><Up><Right><#+51><Up><Down>i<Right>
+2019-02-23 14:47:24+0530 > <Tab><Tab>printf<LShft>();<Left><Left><RShft>""<Left><LShft>DDR <LShft>Controller <LShft>Frea<BckSp><BckSp><BckSp><BckSp><LShft>Frequencu<BckSp>y<RShft>: <LShft>%d\t\<BckSp><BckSp>r\n<Right>, <RShft><Ins><Left><#+41><Right><#+14> driver from hearder file<Down><Down>
+2019-02-23 14:48:20+0530 > <Tab><Tab><RShft><Ins><Left><#+38><Left><Left><Left><Left><Right><Left><#+12><Right><Left><#+15><Left><Del><#+14><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del>as sys clock<Esc>/<RShft><Ins>
+2019-02-23 14:48:45+0530 > /<Up>
+2019-02-23 14:48:46+0530 > /<Up>
+2019-02-23 14:48:51+0530 > /<Up>
+2019-02-23 14:48:52+0530 > /<Up>
+2019-02-23 14:48:53+0530 > /<Up>
+2019-02-23 14:48:54+0530 > /<Up>
+2019-02-23 14:48:55+0530 > /<Up>
+2019-02-23 14:48:56+0530 > <RShft>:wq
+2019-02-23 14:48:58+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Down><Up>
+2019-02-23 14:49:11+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up>
+2019-02-23 14:49:15+0530 > /<Up><Up><Down>
+2019-02-23 14:49:17+0530 > /<Up><Up><Up><Up><Up><Up><Up><Up><Down>
+2019-02-23 14:49:23+0530 > <Down>i
+2019-02-23 14:49:26+0530 > <Up><Down><Tab>if<LShft>()<Left><RShft><Ins><Left><#+14><Right><Right><Del>6<Del>0<Del>0<Del>0<Left><Left><Left><Left><Esc><RShft>:q
+2019-02-23 14:49:49+0530 > <RShft>:wq
+2019-02-23 14:49:50+0530 > cd -
+2019-02-23 14:49:53+0530 > <RShft><RShft><Up><Up><Up><Up><Down><Up><Up>
+2019-02-23 14:49:58+0530 > /<Up><Up><Up>
+2019-02-23 14:50:02+0530 > <RShft>:q
+2019-02-23 14:50:06+0530 > <Up><Up><Up><Up>
+2019-02-23 14:50:10+0530 > <Up><Up><Up><Up><Down><Up>
+2019-02-23 14:50:12+0530 > /<Up><Up>
+2019-02-23 14:50:16+0530 > <Down><Down><Left><Left><#+12>i<Del><#+11><Del><Del><Del><Del><RShft><Ins><Left><Left><Left><Left><Left><#+12><Right><Right><RShft><Ins> = <Left>-<BckSp>=<Down><Up><Right><#+19><Left>
+2019-02-23 14:50:45+0530 > 
+2019-02-23 14:50:45+0530 > 
+2019-02-23 14:50:45+0530 > <Up><Up><Tab><Tab><LShft>Printf<LShft>();<Left><Left><RShft>""<Left><LShft>DDR <LShft>Contoler<BckSp><BckSp>ler freq<BckSp><BckSp><#+11>r frquec<BckSp><BckSp>ency id <BckSp>s <BckSp><BckSp><BckSp>s set\r\n<Right><Right><Right>
+2019-02-23 14:51:23+0530 > <Tab>else
+2019-02-23 14:51:26+0530 > <Tab><Tab><Up><Down><Left><Tab><Left><Tab><RShft><Ins><Left><#+24><Left><Left><Right><Del>     <Right><#+14><Del><Right><#+17><Left><Left>;<Esc><RShft>:wq
+2019-02-23 14:51:49+0530 > <LCtrl>c
+2019-02-23 14:52:01+0530 > <LAlt><Tab><Up><#+1><Up><Up>
+2019-02-23 14:52:04+0530 > <Up><Down>cd -
+2019-02-23 14:52:11+0530 > <#+21><Up><Up><Up><Up><Up><Up><Up><Up>
+2019-02-23 14:52:15+0530 > /<RShft><Ins>
+2019-02-23 14:52:17+0530 > nnnnnnnnnnnnnnnn<#+12>nnn<Up><#+25><Down><#+16><Right><#+60><Left>i<BckSp>ul<Down><Down><Down><Left><#+17><Left><BckSp>ul<Esc><RShft>:wq
+2019-02-23 14:53:51+0530 > <Up><Up><Down><Up><Up><Up><LCtrl>a<Del><Del>vim<LCtrl>eddr.c
+2019-02-23 14:54:02+0530 > /<Up><Up><Up><Up><Down><Up>
+2019-02-23 14:54:07+0530 > /<Up><Up><Up>
+2019-02-23 14:54:10+0530 > <Down><Down><Down><Down><Down><Down><Down><Down><Left><#+14><Left><Del>ip<Up><Up><Up><Up><Up><Right><#+7><Right><BckSp>p<Esc><RShft>:wq
+2019-02-23 14:54:23+0530 > <Down><Up>
+2019-02-23 14:54:34+0530 > <LCtrl>l
+2019-02-23 14:54:52+0530 > <#+10>ls
+2019-02-23 14:54:53+0530 > 
+2019-02-23 14:54:53+0530 > 
+2019-02-23 14:54:53+0530 > <LAlt><Tab><LAlt><Tab><Up><Up><Up>
+2019-02-23 14:55:01+0530 > /<RShft><Ins><LAlt><Tab><LCtrl>c
+2019-02-23 14:55:05+0530 > <LAlt><Tab><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><RShft><Ins>
+2019-02-23 14:55:08+0530 > nnnnnnnnnnnnnnnnnn<Up><#+29><Up><Up><Down><#+33><Down><Up><Right><#+41><Right>i<Right>
+2019-02-23 14:55:35+0530 > 
+2019-02-23 14:55:35+0530 > <Tab>printf<LShft>();<Left><Left><RShft>""<Left><RShft><Ins><Up><#+29><Up><Up><Up><Up><Left><#+14><Left><RShft><Ins> <Right><#+16><RShft>: <LShft>%d\r\n<Right>.<BckSp>,<RShft><Ins><BckSp><BckSp><BckSp><BckSp><BckSp><#+10><BckSp><BckSp><BckSp><RShft><Ins><Left><#+23><Left> tpp1<BckSp><BckSp>1<Esc>/<Up>
+2019-02-23 14:56:46+0530 > nnnn<Down><#+25><Up><#+22><Down><#+32><Down><Down>nnnnnnn<RShft>:wq
+2019-02-23 14:57:08+0530 > <Up>
+2019-02-23 14:57:11+0530 > <Up>
+2019-02-23 14:57:47+0530 > <RShft>:q
+2019-02-23 14:57:57+0530 > <LCtrl>l<Up>
+2019-02-23 14:58:02+0530 > <Up><Up><Down><Left><Left><Left><Left><Left><Left><BckSp><#+15><BckSp><BckSp><BckSp>
+2019-02-23 14:58:27+0530 > <LShft>Hi <LShft>Logi,
+2019-02-23 15:00:14+0530 > 
+2019-02-23 15:00:15+0530 > <LShft>Please flsah <BckSp><BckSp><BckSp><BckSp>ash this image<LShft>()<Left><Left> <Right><LShft>md<BckSp>odified ddr clock frequecy <Left><Left><Left><Left><Right>n<Right><Right><BckSp><Right><Left>y<Right><BckSp><Right> an d<BckSp><BckSp>d provide the log,
+2019-02-23 15:01:02+0530 > <Down><LShft>Regards,<Down><Down><Down><Up><Left><#+11><Left><LShft><Down><#+12><Down><Down><Down><Del>ll<F5><F5><F5><F5><Up><#+1><Down><Up><Up>
+2019-02-23 15:01:56+0530 > <Up><Up>
+2019-02-23 15:02:37+0530 > <LAlt><Tab><LAlt><Tab><Esc><LCtrl>c
+2019-02-23 15:03:02+0530 > <LCtrl>v<F2><Right><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><Del>.<Del><Del><Del>txt<Left><Left><Left><Left><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>3
+2019-02-23 15:03:28+0530 > <LAlt><Tab><LAlt><Tab><Up><Up><Up><Up><Down>
+2019-02-23 15:04:19+0530 > /<Up><Up>
+2019-02-23 15:04:22+0530 > <Down><Down><Down><Down><Down><Down><Down><Down>dd<Up><Up><Up><Up><Up><Up><Up>p<Down><Left><Left><Left>i
+2019-02-23 15:04:34+0530 > <Esc><RShft>:wq
+2019-02-23 15:04:39+0530 > <Up><Up>
+2019-02-23 15:04:42+0530 > <Up><Up>
+2019-02-23 15:04:54+0530 > <F5><F5><F5><F5><F5><Esc><LCtrl>c
+2019-02-23 15:05:23+0530 > <LCtrl>v<F2><Left><Right><#+10><Right><Right><Del><#+13><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del>3<Right><LShft><Right><Right><Right>txt
+2019-02-23 15:05:46+0530 > <Esc><LCtrl><RShft><Del>
+2019-02-23 15:05:57+0530 > <Left><Right><Right><RShft><Del>
+2019-02-23 15:06:01+0530 > <Left><F2><Right><Left><Right><BckSp><#+11><BckSp><BckSp><BckSp><BckSp><BckSp><#+11><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>3<Right><LShft><Right><Right><Right>txt
+2019-02-23 15:06:14+0530 > <LAlt><Tab>
+2019-02-23 15:09:22+0530 > his<Tab>
+2019-02-23 15:13:09+0530 > <Down>vim <RShft><Ins>
+2019-02-23 15:13:52+0530 > <RShft>:q
+2019-02-23 15:13:54+0530 > pwd
+2019-02-23 15:13:57+0530 > <Down><Up><Down><LCtrl>l
+2019-02-23 15:42:34+0530 > 
+2019-02-23 15:42:34+0530 > 
+2019-02-23 15:42:34+0530 > unam<Tab>-r
+2019-02-23 15:42:38+0530 > <Up><BckSp>a
+2019-02-23 15:42:40+0530 > <LMeta><#+29>l<RShft><Menu><#+27><RShft><Menu><Menu><#+3><RShft><RShft><Menu><Menu><#+9><Menu><Up><#+13><Menu><Menu><Up><Menu><#+33><Menu><#+2><Up><Up><Menu><#+2><RCtrl><Down><#+1>wa<LShft><LCtrl><LCtrl><LMeta><LMeta><LAlt><LCtrl><LShft><LCtrl><LCtrl><LCtrl>aa  <CpsLk> <CpsLk><CpsLk>
