@@ -1,0 +1,79 @@
+Logging started ...
+
+2019-02-25 17:45:12+0530 > ou<Tab><Tab><Tab>t<Tab><Tab><Tab><Tab>p<Tab><Tab><Tab>s<Tab>dd=<BckSp><BckSp><Tab><Tab>
+2019-02-25 17:45:28+0530 > ls
+2019-02-25 17:45:29+0530 > c<#+3>dc <BckSp><BckSp> ../../../
+2019-02-25 17:45:37+0530 > cd ..
+2019-02-25 17:45:39+0530 > ls
+2019-02-25 17:45:41+0530 > cd ar<Tab><BckSp><BckSp>c<Tab><BckSp><BckSp><BckSp>k<Tab>ar<Tab><Tab>a<Tab>rm<Tab><Tab>/<Tab><Tab>d<Tab><Tab>t<Tab><Tab><BckSp><BckSp>b<Tab>dt<Tab>
+2019-02-25 17:46:29+0530 > <LCtrl>ll
+2019-02-25 17:46:31+0530 > ld<BckSp>s<LShft>|grep sabresd
+2019-02-25 17:46:40+0530 > <Up><#+1><Up><#+12><Up><#+12><Up><#+4><Up><Up><#+13><Up><#+11><Up><#+13><Up><#+9><Up><#+7><Up><Up><Down><#+61>vi <KP0><KP0><BckSp><BckSp><BckSp><BckSp><BckSp><Up><Left><#+18><Left><Left><Left><Left> 
+2019-02-25 17:47:55+0530 > /ether
+2019-02-25 17:47:59+0530 > /ethernet
+2019-02-25 17:48:04+0530 > <Esc><RShft>:wq
+2019-02-25 17:48:05+0530 > <Up><Up><Up><LShft>|grep .dtsi
+2019-02-25 17:48:30+0530 > <Up><Home>vi 
+2019-02-25 17:48:52+0530 > /eth
+2019-02-25 17:48:56+0530 > <Esc><RShft>:q
+2019-02-25 17:49:11+0530 > <End><Home>vi 
+2019-02-25 17:50:13+0530 > /eth
+2019-02-25 17:50:20+0530 > <Esc><RShft>:q
+2019-02-25 17:50:21+0530 > grep -rns eth
+2019-02-25 17:51:22+0530 > <Up>ernet
+2019-02-25 17:51:35+0530 > <Up><LShft>|grep imx6qd
+2019-02-25 17:53:57+0530 > <Up><BckSp><#+13><BckSp>sabresd
+2019-02-25 17:54:09+0530 > <Up><Up><BckSp><#+9><BckSp><BckSp>sabresd
+2019-02-25 17:54:16+0530 > <Up><LShft>|grep dtsi
+2019-02-25 17:54:28+0530 > <Up><BckSp><#+7>s
+2019-02-25 17:54:35+0530 > <Up><#+2><Up><Down><#+24>ls
+2019-02-25 17:56:42+0530 > ls<LShft>|grep dtts<BckSp><BckSp>s
+2019-02-25 17:56:49+0530 > <Up>i
+2019-02-25 17:56:52+0530 > <Up><LShft>|grep sabresd
+2019-02-25 17:56:58+0530 > <Up><Home>vi 
+2019-02-25 17:57:32+0530 > /eth
+2019-02-25 17:57:37+0530 > <Esc><RShft>:q
+2019-02-25 17:57:39+0530 > <Up><BckSp><#+14><BckSp><#+13><BckSp>b<Tab>a<Tab><Tab><Tab><BckSp><BckSp>s<Tab>s<Tab>-<Tab>b<Tab><Tab>a<Tab>
+2019-02-25 17:58:06+0530 > /eth<Tab><BckSp>
+2019-02-25 17:58:12+0530 > <Esc><RShft>:q
+2019-02-25 17:58:32+0530 > man git
+2019-02-25 18:01:06+0530 > <Down><#+3><Down><#+11><Down><Down><Down><Down><#+3><Down><#+1><Down><#+3><Down><#+5><Down><#+31>q<Down><#+1><Left><Up><#+2><Down><#+36>
+2019-02-25 18:07:22+0530 > 
+2019-02-25 18:07:23+0530 > gre<BckSp><BckSp><BckSp><#+1>vim imx6q<Tab><Tab>nd<Tab><Tab><Tab>-sa<Tab>sd<Tab><Tab>.dt<Tab>
+2019-02-25 18:08:16+0530 > /eth0
+2019-02-25 18:08:21+0530 > /fec
+2019-02-25 18:08:24+0530 > <Down><Down><Down><Down><Down><Down><Right><Right><Right><#+15>i<BckSp><BckSp><BckSp><BckSp>disabled<Esc><RShft>:wq<BckSp>
+2019-02-25 18:08:50+0530 > /fec
+2019-02-25 18:08:56+0530 > nnn<Esc><RShft>:q
+2019-02-25 18:09:02+0530 > cd ../../../..
+2019-02-25 18:09:15+0530 > cd ..
+2019-02-25 18:09:17+0530 > cd <BckSp><BckSp><#+10>make <LShft><KP0><BckSp><NumLk><LShft><KP0><BckSp><BckSp><BckSp><BckSp>dtb
+2019-02-25 18:09:46+0530 > make<BckSp><#+20>sou<Tab><BckSp><#+16>m
+2019-02-25 18:12:23+0530 > <LCtrl>c
+2019-02-25 18:12:41+0530 > <LCtrl>v
+2019-02-25 18:12:45+0530 > 
+2019-02-25 18:12:55+0530 > <Home>.
+2019-02-25 18:13:07+0530 > <Up><Up><Up><Up><BckSp><#+34>source <Tab><Tab>b<Tab><Tab>u<Tab>/<Tab>en<Tab>
+2019-02-25 18:13:32+0530 > lunch 10
+2019-02-25 18:13:37+0530 > make -j8
+2019-02-25 18:13:42+0530 > q<LCtrl>azq
+2019-02-25 18:26:46+0530 > sudo mni<BckSp><BckSp>inicom
+2019-02-25 18:27:00+0530 > zs10062013
+2019-02-25 18:27:04+0530 > 
+2019-02-25 18:27:24+0530 > 
+2019-02-25 18:27:25+0530 > <Up>
+2019-02-25 18:27:28+0530 > 
+2019-02-25 18:27:33+0530 > 
+2019-02-25 18:27:33+0530 > 
+2019-02-25 18:27:33+0530 > 
+2019-02-25 18:27:33+0530 > 
+2019-02-25 18:27:34+0530 > 
+2019-02-25 18:27:42+0530 > 
+2019-02-25 18:27:42+0530 > 
+2019-02-25 18:27:42+0530 > id<BckSp>fconfig
+2019-02-25 18:27:55+0530 > <LCtrl>
+2019-02-25 18:28:11+0530 > 
+2019-02-25 18:28:11+0530 > 
+2019-02-25 18:28:11+0530 > <LCtrl>azq
+2019-02-25 18:28:30+0530 > list i<BckSp>of drivers on sabre sd
+2019-02-25 18:29:18+0530 > <LCtrl>cdcd k<Tab><Tab><Tab>
