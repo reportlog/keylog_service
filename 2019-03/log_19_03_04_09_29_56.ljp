@@ -1,0 +1,38 @@
+Logging started ...
+
+2019-03-04 09:29:56+0530 > <BckSp><#+12><BckSp><BckSp>p<Tab>o<Tab><Tab>b<Tab>d<Tab>f<Tab>
+2019-03-04 09:30:04+0530 > 
+2019-03-04 09:30:05+0530 > 
+2019-03-04 09:30:05+0530 > gg
+2019-03-04 09:31:11+0530 > ya<LCtrl>ya
+2019-03-04 09:31:20+0530 > vinothkumar.s199<BckSp><BckSp><BckSp><BckSp><BckSp><LShft>@zumisolutions.com
+2019-03-04 09:31:42+0530 > vinothiloveyou
+2019-03-04 09:31:48+0530 > vinothl<BckSp>kumar<BckSp>r.s1994
+2019-03-04 09:32:23+0530 > vinothi<BckSp><BckSp><BckSp><#+17>vinoth<LShft>@gmail
+2019-03-04 09:32:32+0530 > <LAlt><Tab><LAlt><Tab><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><Left><Left>setup-<BckSp><LShft>_<LAlt><Tab><LAlt><Tab><Left><#+11><Left><Left><Del>-<Right><Right><Right><Right><Right><Del>-<LCtrl>s<Down><Left><Left><Left><Left><Left><Down><Down><#+6><Down><Down><Up><Up><LCtrl>c
+2019-03-04 09:34:52+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LCtrl>v<LCtrl>z<LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LCtrl>bitbake -c <LAlt><Tab><LAlt><Tab>cleanstate <LAlt><Tab><LAlt><Tab><Left><Left><Right><Right><F2><Left><Left><Left><Left><Left><Left>s<Right><Right><Right><Right><Right> <LAlt><Tab><LAlt><Tab>u-boot
+2019-03-04 09:35:58+0530 > <LCtrl>s<LAlt><Tab><Down><Down><Down><#+6><Up><Up><Down><Down><Up><LAlt><Tab><Up><Down><Down><Down><Down><Down><Left><Left><Right><LCtrl>x<Down><Down><LCtrl>v<Up><Up><Right><LCtrl>x<Down><Down><LCtrl>v<Up><Up><Up><Up><Left><LCtrl>x<Down><Down><Down><Up><LCtrl>v<Up><Up><Right><LCtrl>x<Down><Down><LCtrl>v<Up><Up><Right><Right><LCtrl>x<Down><Down><LCtrl>v<Up><Up><Up><Up><Left><Left><Right><Left><LCtrl>x<Down><Down><LCtrl>v<Up><Up><Right><LCtrl>x<Down><Down><LCtrl>v<Up><Up><Down><Up><LAlt><Tab><LAlt><Tab>bitbake <LAlt><Tab><LAlt><Tab>-c patch <LAlt><Tab><LAlt><Tab>u-boot
+2019-03-04 09:36:59+0530 > <Down><LAlt><Tab><Down><#+37><Down><Down><Down><LAlt><Tab><LAlt><Tab><LAlt><Tab><Up><Left><Down><LCtrl>x<Up><LCtrl>v<Down><Right><LCtrl>x<Up><LCtrl>v<Down>bitbake -c cle
+2019-03-04 09:37:27+0530 > <Up><F2><Right><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>virtual/kernel<LAlt><Tab><LAlt><Tab>
+2019-03-04 09:37:42+0530 > v<BckSp>bitbake -c pat
+2019-03-04 09:37:52+0530 > <Up><F2><Right><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LAlt><Tab><LAlt><Tab>virtual/kernel
+2019-03-04 09:38:06+0530 > <Up><Up><LCtrl><LCtrl><LCtrl>s<LAlt><Tab><LCtrl>c
+2019-03-04 09:38:25+0530 > <LAlt><Tab><LCtrl>x<Down><LCtrl>v<Up><Right><Right><Left><LCtrl>x<Down><LCtrl>v<Up><Right><Right><LCtrl>x<Down><LCtrl>v<Up><Left><Left><LAlt><Tab><LCtrl>c
+2019-03-04 09:38:41+0530 > <LAlt><Tab><LCtrl>v<LCtrl>zmake <LShft>ARCH=<LAlt><Tab><LAlt><Tab>poer<BckSp><BckSp>wer<LAlt><Tab><LAlt><Tab>pc menuconfig
+2019-03-04 09:39:02+0530 > <Up><LCtrl><LCtrl>s<LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab>-f <LCtrl>s<LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><Left><#+26><Down><Down><Down><Down><Down><Down><Down><Down><#+14><LCtrl>s<Down><#+22><LCtrl>ag
+2019-03-04 09:39:50+0530 > vinothkumar.s19954<BckSp><BckSp>4<LShft>@gmail.com<Tab>vinoth<LShft>@nxp123
+2019-03-04 09:41:04+0530 > <LCtrl>c
+2019-03-04 09:42:24+0530 > fv
+2019-03-04 09:42:26+0530 > 
+2019-03-04 09:42:26+0530 > 
+2019-03-04 09:42:26+0530 > <LCtrl>c
+2019-03-04 09:42:41+0530 > fvno<BckSp><BckSp><LAlt><Tab><LCtrl>c
+2019-03-04 09:45:49+0530 > <LAlt><Tab><LCtrl>fv<LAlt><Tab><LAlt><Tab><LAlt><Tab><LCtrl>c
+2019-03-04 09:49:29+0530 > <Right><Right><#+17><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><Up><Up><Up><Up><Up><Up><Up><Up><Right><Right><Down><Left><Down><Down><Down><Down><Down><Down><Left><Left><Right><LAlt><Tab><LAlt><Tab><Up>ping <Up><Up><Up><Up><Right><Left><F2><LShft><Left><#+15><Left><Left><LShft><Left><LCtrl>c
+2019-03-04 09:49:59+0530 > <Down>
+2019-03-04 09:50:01+0530 > <Down><Down><Down><F2><LCtrl>v
+2019-03-04 09:50:05+0530 > <Up><Right><Left><LCtrl><LCtrl>s<LCtrl>c
+2019-03-04 09:50:19+0530 > <LCtrl><LCtrl>v<LCtrl>s<Left><#+14><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LCtrl><LCtrl><LCtrl><LAlt><Tab><LAlt><Tab><LCtrl>c
+2019-03-04 09:52:28+0530 > fv
+2019-03-04 09:52:30+0530 > 
+2019-03-04 09:52:30+0530 > 
