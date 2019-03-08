@@ -1,0 +1,22 @@
+Logging started ...
+
+2019-03-08 14:55:12+0530 > <Up><BckSp><#+12><Tab><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><Tab><BckSp><#+8><BckSp><BckSp><BckSp><BckSp>.<Tab><BckSp><Tab>
+2019-03-08 14:56:51+0530 > <RShft>:q
+2019-03-08 14:56:57+0530 > <Up><LShft><Tab>-<BckSp><Tab><Tab><LShft>_<Tab>
+2019-03-08 14:57:04+0530 > <RShft>:q
+2019-03-08 14:57:07+0530 > <Up><Up>
+2019-03-08 14:57:11+0530 > <Down><#+22><Up><Down><Up>yy<Down><Down>pppi<Down>
+2019-03-08 14:57:19+0530 > <Up><Up><Up><Up><Right><#+32><BckSp>2<Up><Down><Down><BckSp><BckSp><BckSp>322<Down><BckSp><BckSp><BckSp>340<Right><#+18><Left><BckSp>v<BckSp>c<Up><Up><Down><BckSp>c<Esc><RShft>:wq
+2019-03-08 14:57:36+0530 > vim m<Tab>a<Tab>
+2019-03-08 14:57:41+0530 > <PgDn><#+19><End><PgDn><#+26><PgUp><RShft>:q
+2019-03-08 14:57:49+0530 > <Up><Tab><Tab><LShft>_<Tab>p<Tab><BckSp><BckSp><BckSp><#+24>mv ma<Tab> ma<Tab><LShft>_<LShft>BA
+2019-03-08 14:58:02+0530 > c<BckSp>mv ma<Tab><LShft>P<Tab>ma<Tab><BckSp>
+2019-03-08 14:58:11+0530 > vim ma<Tab>
+2019-03-08 14:58:13+0530 > <End><PgDn><#+40><PgUp><Up><Up><Right><#+13><Up><Right><Right><#+15><LShft>*<Up><#+24><Up><#+16><Down><Down><Down><Down><Down><#+20><Down><Down><Down><Up><Up><Up><Down><Down><#+20><RShft>:wq
+2019-03-08 14:58:38+0530 > cd ../../<BckSp><BckSp><BckSp>ar<Tab><Tab>a<BckSp><BckSp><Tab><Tab><BckSp><#+20>cd ../
+2019-03-08 14:58:54+0530 > cd  l<Tab><BckSp><#+26>cd ../../
+2019-03-08 14:59:01+0530 > cd lin<Tab>ar<Tab><BckSp><BckSp><Tab><Tab>a<Tab><Tab><BckSp>gi<Tab><Tab>a<Tab><Tab>a<Tab><BckSp>p<Tab>o<Tab><Tab><Tab>b<Tab>dt<Tab>
+2019-03-08 14:59:20+0530 > vim t4<Tab>r<Tab><BckSp><Tab>2<Tab><Tab><Tab><BckSp><#+18>cd f<Tab>
+2019-03-08 14:59:27+0530 > vim t4<Tab>r<Tab>.<Tab>
+2019-03-08 14:59:36+0530 > <PgDn><#+14><PgDn><PgDn><PgUp><PgUp><PgUp><PgDn><PgDn><Up><#+11><Up><#+20><Up><#+18><Down><#+56><Down><Down><Down><Down><Down><Down><Down><Down><Down><Up><#+10><Right><#+22><Down><Down><#+21><Up><#+19><Down><Left><Left><#+13>dddddddddddddddd<Up><#+73><Down><#+54><Up><#+16><Up><Up><Up><Up><Up><Up><Up><Up><Up><Right>dddddddddddddddddd<RShft>:q<LShft>!
+2019-03-08 15:01:14+0530 > 
