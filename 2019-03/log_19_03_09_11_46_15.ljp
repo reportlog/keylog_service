@@ -1,0 +1,29 @@
+Logging started ...
+
+2019-03-09 11:46:15+0530 > ssh zumi<LShft>@192.168.1.33
+2019-03-09 11:46:26+0530 > yes
+2019-03-09 11:46:28+0530 > zs10062013
+2019-03-09 11:46:35+0530 > 
+2019-03-09 11:46:43+0530 > 
+2019-03-09 11:46:43+0530 > 
+2019-03-09 11:46:44+0530 > cd my<Tab><Tab><Tab>
+2019-03-09 11:46:50+0530 > ls
+2019-03-09 11:46:51+0530 > mail.zumisolutions.com
+2019-03-09 11:47:42+0530 > aravinthkumar<LShft>@zumisolutions.comaravindeep
+2019-03-09 11:48:45+0530 > <LCtrl>c
+2019-03-09 11:53:24+0530 > c
+2019-03-09 11:53:24+0530 > c
+2019-03-09 11:53:24+0530 > oo<BckSp><BckSp><BckSp>google.com
+2019-03-09 11:53:32+0530 > <LCtrl>v
+2019-03-09 11:53:42+0530 > <LCtrl>fldo<RShft>_soc
+2019-03-09 11:55:33+0530 > <LAlt><Tab><Tab><Tab>cd boo<Tab><#+1>boo<Tab><#+2><Tab><#+1>
+2019-03-09 11:56:10+0530 > 
+2019-03-09 11:56:10+0530 > 
+2019-03-09 11:56:10+0530 > grep-<BckSp> in<BckSp><BckSp>-int<BckSp>r <RShft>""<Left><Up><Down><Left><LAlt><Tab><LAlt><Tab><RShft><Ins><LCtrl>c
+2019-03-09 11:56:29+0530 > <Up><Left><BckSp><#+18><BckSp><BckSp><BckSp><#+20><BckSp><BckSp><BckSp><#+17><BckSp><BckSp><BckSp><BckSp><BckSp>ldo<LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><RShft>_soc<End> <RShft>*
+2019-03-09 11:56:58+0530 > <LAlt><Tab><LAlt><Tab><Up><Left><Left><Left><BckSp><BckSp><BckSp>pu
+2019-03-09 11:57:17+0530 > \vim <RShft><Ins><BckSp><Left><Left><Left><BckSp> <RShft>+<Left><#+34><Left><BckSp>
+2019-03-09 11:58:04+0530 > <Down><#+33><Down><Down><Down><#+21>
+
+Logging stopped at 2019-03-09 12:01:08+0530
+
