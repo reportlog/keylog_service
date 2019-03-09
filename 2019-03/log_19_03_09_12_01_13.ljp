@@ -1,0 +1,34 @@
+Logging started ...
+
+2019-03-09 12:01:13+0530 > <LCtrl><LShft>Tssh zumi<LShft>@192.168.1.40
+2019-03-09 12:01:39+0530 > yes
+2019-03-09 12:01:42+0530 > zs10062013
+2019-03-09 12:01:48+0530 > \<BckSp>cd <#+1><LShft>O<Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><BckSp>o<Tab><Tab><Tab>o<Tab><#+1><Tab><Tab>ti<Tab><Tab><Tab>bu<Tab><Tab><Tab><Tab><Tab>i<Tab><Tab><Tab><BckSp>u<Tab><Tab><Tab>-<Tab>/<Tab><Tab><Tab>-<Tab><#+3><BckSp><Tab><#+2><Tab>2<Tab><Tab><Tab>
+2019-03-09 12:02:30+0530 > ls
+2019-03-09 12:02:31+0530 > <LCtrl><PgDn><PgDn>grep -inr ldo<RShft>_p[<BckSp>u <RShft>*
+2019-03-09 12:02:47+0530 > 
+2019-03-09 12:03:29+0530 > <LCtrl>c
+2019-03-09 12:03:47+0530 > vim <BckSp><#+18>cd <BckSp><BckSp><BckSp><BckSp><BckSp>vim <RShft><Ins><Left><Right><BckSp><Left><Left><Left><BckSp> <RShft>+
+2019-03-09 12:04:13+0530 > <Down><Up><Up><Up><Up><Up><#+28><Down><#+23><Down><Up><Up><Up><Up><Up><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Up><#+15><Down><#+14><Down><Down><Down><Down><Down><#+15><Down><Down><Down><Down><Down><Down><Up><#+43><Up><Up><#+33><PgUp><PgUp><PgDn><PgDn><PgDn><#+1><PgDn><PgDn><PgUp><#+1><Down><#+20><Down><#+10><PgDn><PgDn><PgUp><LCtrl><PgUp><PgDn><PgUp><Esc><RShft>:q<Tab>
+2019-03-09 12:05:12+0530 > <LCtrl><PgDn><RShft>:1
+2019-03-09 12:05:19+0530 > .<Esc><Esc>/<RShft><Ins>
+2019-03-09 12:05:23+0530 > 
+2019-03-09 12:05:25+0530 > nn<Up><#+2><Up><Up><Up><#+39><Up><#+31><Down><#+32><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down><#+19>nn<Down><Down><Down><Down><Up><Up><Up>n<LAlt><Tab>n<Up><#+30><Up><Down><Down><Down><Down><Down><Up><Right><#+37><LAlt><Tab><LAlt><Tab><LCtrl>c
+2019-03-09 12:07:06+0530 > c
+2019-03-09 12:07:07+0530 > c
+2019-03-09 12:07:07+0530 > c
+2019-03-09 12:07:07+0530 > <LAlt><Tab><Esc><RShft>:q<Tab>
+2019-03-09 12:07:16+0530 > 
+2019-03-09 12:07:17+0530 > 
+2019-03-09 12:07:17+0530 > 
+2019-03-09 12:07:17+0530 > grep- <BckSp><BckSp> -r <BckSp><BckSp>inr <#+1><RShft><Ins><Left><Left><Left><Left><BckSp><#+18>grep -inr <End> <RShft>*
+2019-03-09 12:07:35+0530 > <LAlt><LCtrl><LShft>++<LCtrl><LShft>+++<LCtrl>c
+2019-03-09 12:16:57+0530 > <LCtrl>fvgootamilrockerrs.ch
+2019-03-09 12:20:08+0530 > gooo<BckSp>gle.com
+2019-03-09 12:23:35+0530 > android ivi jop <BckSp><BckSp>b bangalore
+2019-03-09 12:23:58+0530 > hyperviso<Down>
+2019-03-09 12:24:49+0530 > 
+2019-03-09 12:50:30+0530 > <Del><LCtrl>x<LCtrl>v
+
+Logging stopped at 2019-03-09 12:51:19+0530
+
