@@ -1,0 +1,76 @@
+Logging started ...
+
+2019-03-22 05:02:12+0530 > <KP.><#+24>
+2019-03-22 09:30:36+0530 > 
+2019-03-22 09:30:36+0530 > 
+2019-03-22 09:30:36+0530 > 
+2019-03-22 09:30:36+0530 > 
+2019-03-22 09:30:37+0530 > zs10062013
+2019-03-22 09:30:47+0530 > <#+1><Up>`
+2019-03-22 09:30:54+0530 > <#+1><LCtrl>c
+2019-03-22 09:30:55+0530 > <Up><BckSp>
+2019-03-22 09:30:56+0530 > <#+1>yes
+2019-03-22 09:30:58+0530 > <#+2>zs10062013
+2019-03-22 09:31:01+0530 > cd <LShft>~/<LShft>Pr<Tab><LShft>a<#+1><BckSp><LShft>A<Tab>a<Tab>
+2019-03-22 09:31:46+0530 > 
+2019-03-22 09:31:46+0530 > 
+2019-03-22 09:31:46+0530 > cd de<Tab><#+2>i<Tab><#+1>f<Tab><#+1>e<Tab>6<Tab><#+1>
+2019-03-22 09:31:52+0530 > 
+2019-03-22 09:31:52+0530 > 
+2019-03-22 09:31:53+0530 > 
+2019-03-22 09:31:53+0530 > ls
+2019-03-22 09:31:54+0530 > vi m<Tab><#+5>a<Tab>
+2019-03-22 09:32:05+0530 > <#+1><Down><#+52><Up><#+64><Esc><LShft>:wq<LShft>!
+2019-03-22 09:32:14+0530 > 
+2019-03-22 09:32:14+0530 > 
+2019-03-22 09:32:14+0530 > 
+2019-03-22 09:32:14+0530 > 
+2019-03-22 09:32:15+0530 > 
+2019-03-22 09:32:15+0530 > 
+2019-03-22 09:32:15+0530 > 
+2019-03-22 09:32:15+0530 > cp <LShft>~/<LShft>G<Tab><Tab><#+5><LShft>P<Tab><#+1><LShft>de<Tab><#+1>f<Tab>e<Tab>in<Tab><#+3>.'<BckSp>
+2019-03-22 09:32:32+0530 > <Up><Left><Left><BckSp><#+17><Tab><BckSp><#+23><Right><#+1><Right><BckSp>cd<BckSp><BckSp><BckSp><BckSp>cd ../imx6<Tab><#+2>
+2019-03-22 09:32:46+0530 > 
+2019-03-22 09:32:47+0530 > 
+2019-03-22 09:32:47+0530 > cp <Up><Up><Left><Left><Left><#+5><Right><BckSp><#+15><BckSp><BckSp>im<Tab><#+2>im<Tab>
+2019-03-22 09:32:55+0530 > <Up><BckSp><#+10><BckSp><BckSp>e<Tab><#+2>.
+2019-03-22 09:32:59+0530 > 
+2019-03-22 09:32:59+0530 > 
+2019-03-22 09:32:59+0530 > 
+2019-03-22 09:33:00+0530 > 
+2019-03-22 09:33:00+0530 > cd ../../../
+2019-03-22 09:33:02+0530 > 
+2019-03-22 09:33:02+0530 > 
+2019-03-22 09:33:03+0530 > sou<Tab><#+2>bu<Tab>/e<Tab>
+2019-03-22 09:33:10+0530 > <#+4>lunch 16
+2019-03-22 09:33:14+0530 > <#+3>make -j8
+2019-03-22 09:33:20+0530 > <Up>
+2019-03-22 09:33:50+0530 > <#+1>yes
+2019-03-22 09:33:51+0530 > <#+1>zs10062013
+2019-03-22 09:33:54+0530 > <#+1>
+2019-03-22 09:33:55+0530 > 
+2019-03-22 09:33:55+0530 > 
+2019-03-22 09:33:55+0530 > 
+2019-03-22 09:33:55+0530 > cd <LShft>~/<LShft>Pr<Tab><LShft>A<Tab>a<Tab>
+2019-03-22 09:33:59+0530 > cd har<Tab>inter<Tab><#+1>gn<Tab>
+2019-03-22 09:34:03+0530 > grep -rns <LShft>"<RShft><Ins><LShft>"
+2019-03-22 09:34:07+0530 > <#+2><LAlt><Tab><LAlt><Tab><Tab><LAlt><Tab><Tab>grep -rns <LShft>:<BckSp><LShft>"<RShft><Ins><LShft>"
+2019-03-22 09:34:30+0530 > vi <RShft><Ins>
+2019-03-22 09:34:41+0530 > /<RShft><Ins>
+2019-03-22 09:34:42+0530 > n<#+1>n<#+1>n<LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><Tab><LAlt><Tab><Tab><RCtrl><PgUp><PgUp><PgDn><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgDn><PgDn><PgDn><PgDn><RCtrl><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgDn><LAlt><Tab>/<RShft><Ins>
+2019-03-22 09:36:21+0530 > /<RShft><Ins><Left><#+20><Left><BckSp>
+2019-03-22 09:36:25+0530 > n<#+3>n<LAlt><Tab><LAlt><Tab><Tab><LAlt><Tab><Tab><LCtrl>fv<BckSp><#+21><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LAlt><Tab>vi ha<Tab>imx<Tab><#+4>li<Tab><Tab><Tab><LShft>A<Tab><#+1>
+2019-03-22 09:37:56+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><Esc><#+1><LShft>:q<LShft>!
+2019-03-22 09:38:29+0530 > 
+2019-03-22 09:38:29+0530 > <Up><BckSp><#+13><BckSp>gps<Tab><#+4>
+2019-03-22 09:38:33+0530 > <PgDn><#+1><Up><#+3><Up><#+9><Up><Up><Esc><#+1><LShft>:q<LShft>!
+2019-03-22 09:38:43+0530 > 
+2019-03-22 09:38:44+0530 > 
+2019-03-22 09:38:44+0530 > 
+2019-03-22 09:38:44+0530 > <LAlt><Tab><LAlt><Tab><Up><Up>
+2019-03-22 09:38:58+0530 > <LAlt><Tab>g
+2019-03-22 09:40:02+0530 > <RShft><Ins>
+2019-03-22 09:40:03+0530 > 
+
+Logging stopped at 2019-03-22 09:46:38+0530
+
