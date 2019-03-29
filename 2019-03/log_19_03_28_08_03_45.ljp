@@ -1,0 +1,86 @@
+Logging started ...
+
+2019-03-28 08:03:45+0530 > zs10062013
+2019-03-28 09:35:16+0530 > <BckSp><#+35>ifco<Tab>
+2019-03-28 09:48:10+0530 > <LCtrl>c
+2019-03-28 10:39:28+0530 > <Esc><LCtrl>v<LCtrl>i2c<LCtrl>===<LCtrl>======<LCtrl><LCtrl>=<LCtrl><Down><Down><Down><Down><Down><Down><Down><Down><Down><F3><Down><Right><Right><Right><Right><LCtrl><LCtrl><Down><Down><Down><Down><Down><Down><#+15><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Up><#+34><Left><Left><Left>1<Down><Down><Down><Down><Down>
+2019-03-28 10:45:31+0530 > 
+2019-03-28 10:45:32+0530 > 
+2019-03-28 10:45:33+0530 > 
+2019-03-28 10:45:33+0530 > 
+2019-03-28 10:45:33+0530 > 
+2019-03-28 10:45:33+0530 > 
+2019-03-28 10:45:34+0530 > 
+2019-03-28 10:45:35+0530 > 
+2019-03-28 10:45:35+0530 > 
+2019-03-28 10:45:35+0530 > <LCtrl>c
+2019-03-28 10:47:32+0530 > fv<LCtrl>c
+2019-03-28 10:47:34+0530 > fv<LCtrl>c
+2019-03-28 10:53:13+0530 > fvc
+2019-03-28 10:53:15+0530 > fv<Down><Down><Down><Down><LCtrl>fi2c3<LCtrl>fi2c3<BckSp>0<BckSp><#+4>1<BckSp>2<BckSp>3<BckSp>1  <LCtrl><LShft>Tsudo minicom
+2019-03-28 11:28:15+0530 > zs10062013
+2019-03-28 11:28:20+0530 > <Up>
+2019-03-28 11:28:29+0530 > <Up>
+2019-03-28 11:29:21+0530 > <Up> -s
+2019-03-28 11:29:25+0530 > <Down><Down>
+2019-03-28 11:29:27+0530 > a
+2019-03-28 11:29:29+0530 > 
+2019-03-28 11:29:30+0530 > <Down><Down><Down><Down><Down>
+2019-03-28 11:29:33+0530 > <Up>
+2019-03-28 11:29:55+0530 > <Down><Down>
+2019-03-28 11:29:57+0530 > 
+2019-03-28 11:29:58+0530 > <Down><Down><Down><Down><Down>
+2019-03-28 11:30:00+0530 >  0<LShft><LCtrl>a<End><LCtrl>v<LCtrl>z<LMeta><Tab><LMeta><Tab><Tab><LAlt><Tab><LAlt><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><LCtrl>f<LShft>Minicom
+2019-03-28 11:43:56+0530 > <LCtrl>azl<BckSp><#+22><LCtrl><LShft>Tcd <LShft><Ins>
+2019-03-28 11:52:46+0530 > ls
+2019-03-28 11:52:48+0530 > p<BckSp>lo<BckSp><BckSp>mkdir logs
+2019-03-28 11:52:58+0530 > cd logs
+2019-03-28 11:53:01+0530 > pwd
+2019-03-28 11:53:03+0530 > <LShft><Ins>/1.txt
+2019-03-28 11:53:17+0530 >  0 0<LCtrl>azl
+2019-03-28 11:57:59+0530 > <LCtrl>fopen <LCtrl>f<LCtrl>f<LCtrl>c
+2019-03-28 12:11:53+0530 > f<Esc><LCtrl>x<LCtrl>z<LCtrl>x<Up><Del><Del><Del><Del><Del><Del><Del><LCtrl>
+2019-03-28 12:13:02+0530 > <Down><Del>
+2019-03-28 12:13:04+0530 > <LCtrl>s
+2019-03-28 12:13:13+0530 > 
+2019-03-28 12:13:13+0530 > 
+2019-03-28 12:13:13+0530 > 
+2019-03-28 12:13:13+0530 > <Up><Up><Up><Left><Left><LCtrl>v<LCtrl>x<Del><Del><Del><Down><#+74><Up><#+27><Up><Up><LCtrl>v
+2019-03-28 12:13:42+0530 > <Up><Del><LCtrl>sg
+2019-03-28 12:17:10+0530 > difference bitbake <Esc><Down><Left>
+2019-03-28 12:24:53+0530 > 
+2019-03-28 12:24:53+0530 > 
+2019-03-28 12:24:53+0530 > <Up><Up><Right><Right><Up><Up><Up><Tab><Left>if<LShft>()<Left><LCtrl>c
+2019-03-28 12:25:02+0530 > <LCtrl>v <LShft><LShft>>= sizeof<LShft>()<Left>dw<Down><Down>
+2019-03-28 12:25:17+0530 > <Right><Right>
+2019-03-28 12:25:18+0530 > <LCtrl>s<LAlt><Tab><Down>
+2019-03-28 12:26:20+0530 > <Left><Left>/<LShft>**/<Left><Left><Left><Right><LShft>C<BckSp> <LShft>Check <LShft>Valid block enough to procced <LCtrl>s<Right><Right><Down>
+2019-03-28 12:26:46+0530 > <LShft>{
+2019-03-28 12:26:48+0530 > <LShft>}<Up><Down><Up>
+2019-03-28 12:26:52+0530 > <Down><Down>e<BckSp><BckSp>else
+2019-03-28 12:26:57+0530 > 
+2019-03-28 12:26:57+0530 > ret
+2019-03-28 12:27:00+0530 >  <LShft>();<Left><Left><LShft>F
+2019-03-28 12:27:05+0530 > <LCtrl>s<Up><Up><Up><Up><Down><LShft><LCtrl>c
+2019-03-28 12:27:20+0530 > <Down><Down><Down><Down><Down><Down><Down><Down><Tab><Left><LCtrl>v
+2019-03-28 12:27:25+0530 > <Up><Up><Up><Up><Right><Right><Right><Left><Left><Left><Left><Left><Down><Left><LShft><Down><Del><Right><Right><Left><Tab><Down><Tab><Right><#+16><Right><#+26><Left><Left><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Right><#+11><Del><#+3><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Left><Left><Left><#+9><Left><LCtrl>snumber of valid block is <Del><Del><BckSp><BckSp><BckSp><LShft>Enough good block avi;a<BckSp><BckSp>lable<LCtrl>s<LCtrl>c
+2019-03-28 12:30:18+0530 > 
+2019-03-28 12:30:20+0530 > <LShft>{
+2019-03-28 12:30:22+0530 > <LCtrl>v<Down>
+2019-03-28 12:30:25+0530 > <Left><LShft>}<Up><Up><Up><Up><Down><Del><Del><Del><Up><Up><Up><Up><Up><Down><Down><Down><Down><Down><Down><Up><Up><Up><Up><Up><Up><Tab><Down><Down><Down><Down><Down><Down><Left><Left><Left><Left><Tab><Down>
+2019-03-28 12:30:40+0530 > <Up><Up><Right><#+49><Right><Left>not <LCtrl>s<LAlt><Tab> 0 0<LAlt><Tab><LCtrl><Tab><Tab><Tab><LAlt><Tab><Tab>gm<Down>
+2019-03-28 13:26:58+0530 > sdad92
+2019-03-28 13:27:15+0530 > kayalkings
+2019-03-28 13:27:19+0530 >  0 0 146192.168.1.2
+2019-03-28 15:03:41+0530 > 7255.255.255.0
+2019-03-28 15:04:12+0530 > 010 0 146192.168.1.2
+2019-03-28 15:05:53+0530 > 7255.255.255.0
+2019-03-28 15:06:01+0530 > 00<AltGr> 46192.15<BckSp>68.1.2
+2019-03-28 15:36:20+0530 > 7255
+2019-03-28 15:36:24+0530 > 7255.255.255.0
+2019-03-28 15:36:32+0530 > 00 46192.168.1.1
+2019-03-28 16:00:41+0530 > 7255.255.255.0
+2019-03-28 16:00:49+0530 > 07y0    0 -0 0 0 0 0 a70 a6sss7y0 a77y0<Up><#+2><LCtrl><Up><PgUp><PgUp><PgUp><PgUp><PgUp><End><#+2> a00
+
+Logging stopped at 2019-03-29 08:49:16+0530
+
