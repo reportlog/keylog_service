@@ -1,0 +1,85 @@
+Logging started ...
+
+2019-04-02 18:21:55+0530 > sl<BckSp><BckSp>ls
+2019-04-02 18:21:57+0530 > cd ..
+2019-04-02 18:22:04+0530 > s<BckSp>ks<BckSp>l<BckSp><BckSp>ls
+2019-04-02 18:22:07+0530 > cd <LShft>Q<Tab><#+2>w<Tab><#+3>
+2019-04-02 18:22:14+0530 > ls
+2019-04-02 18:22:15+0530 > cd <LShft>Q<Tab><#+5>
+2019-04-02 18:22:17+0530 > 
+2019-04-02 18:22:17+0530 > 
+2019-04-02 18:22:18+0530 > ls
+2019-04-02 18:22:18+0530 > cd ..
+2019-04-02 18:22:23+0530 > ls
+2019-04-02 18:22:24+0530 > c d<BckSp><BckSp><BckSp>cd ..
+2019-04-02 18:22:27+0530 > cd <BckSp><BckSp><#+2><BckSp>ls
+2019-04-02 18:22:30+0530 > vi r<Tab><#+3>
+2019-04-02 18:22:42+0530 > <Esc><LShft>:q<LShft>!
+2019-04-02 18:22:43+0530 > 
+2019-04-02 18:22:43+0530 > l<BckSp><BckSp><BckSp>cd <LShft><LShft>U<Tab><#+2>
+2019-04-02 18:22:48+0530 > ls
+2019-04-02 18:22:48+0530 > cd ..
+2019-04-02 18:22:50+0530 > rm <LShft>U<Tab><#+1>
+2019-04-02 18:22:52+0530 > l<BckSp><BckSp>rm <LShft>-rf <LShft>Un<Tab>
+2019-04-02 18:22:57+0530 > ls
+2019-04-02 18:22:57+0530 > cd <LShft>P<Tab><#+2>
+2019-04-02 18:23:02+0530 > ls
+2019-04-02 18:23:03+0530 > l<#+1>s -la
+2019-04-02 18:23:06+0530 > cd ..
+2019-04-02 18:23:14+0530 > ls
+2019-04-02 18:23:14+0530 > cd <LShft>Q<LShft>Wa<LShft><BckSp>Q<BckSp><LShft>A<Tab><#+2>
+2019-04-02 18:23:23+0530 > l
+2019-04-02 18:23:23+0530 > s<BckSp><BckSp><BckSp>cd <LShft>N<Tab><#+2>
+2019-04-02 18:23:27+0530 > ls
+2019-04-02 18:23:27+0530 > cd ..
+2019-04-02 18:23:29+0530 > ls
+2019-04-02 18:23:30+0530 > cd <LShft>Do<Tab>
+2019-04-02 18:23:32+0530 > ls
+2019-04-02 18:23:33+0530 > cd <LShft>W<Tab><#+2>
+2019-04-02 18:23:44+0530 > ks
+2019-04-02 18:23:45+0530 > ls
+2019-04-02 18:23:46+0530 > cd /<BckSp>../
+2019-04-02 18:23:53+0530 > ls
+2019-04-02 18:23:54+0530 > <LAlt><Tab><RCtrl><PgUp><PgUp><RCtrl><PgUp><RCtrl><PgDn><PgDn><PgDn><PgDn><#+12><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgUp>g
+2019-04-02 18:24:31+0530 > c29xpcie
+2019-04-02 18:24:36+0530 > <LCtrl>v<BckSp> <Down><Home><BckSp> <Down><Home><BckSp> <Down><Left><Left><Left><Left><BckSp> <Down><BckSp>0<Home><BckSp> <#+1><Down><Home><BckSp> <Down><Home><BckSp> <Down><Home><BckSp> <#+1><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab>
+2019-04-02 18:26:40+0530 > <#+1><Right><#+25><Down><#+8><Up><Up><Up><Down><Left><#+14><Down><Up><Up><LAlt><Tab><LAlt><Tab><Right><#+12><Right><#+23><Left><Left>
+2019-04-02 18:26:55+0530 > <#+2><Right><#+17><Down><Down><Left><#+13><Left><BckSp> <#+1><Down><Home><BckSp> <Up><Up> <#+9><Left><Right><BckSp><BckSp><BckSp><BckSp><BckSp> <Left><#+13><Left><Tab><Tab><Down><Left><#+13><Left><Left><Left><Tab><Tab><Right><#+15><Up><Left><Left><Tab><Tab><Down><Left><#+13><Left><Tab><Tab><Tab><BckSp><Right><#+11><Right><Left><Tab><Tab><Up><Left><Left><Left><Left><Tab><Down><Left><#+26><Down><Right><Right><Tab><Tab><Right><#+15><Tab><Tab><Right><#+12><Right><Down><Left><#+7><Left><Left><BckSp>   <Down><Down><Home><Tab><Tab><BckSp><BckSp><BckSp> <Tab><Tab><Down><Home><Tab><BckSp><BckSp><Tab><Tab><Up><Up><Up><Right><#+14><Right><Right><Right><Right><Right><Left><Left><Tab><Down><Left><Left><Left><Left><Tab><Down><Left><Left><Left><Left><Tab><Down><Down><Home><Tab><BckSp><BckSp><Tab><Down><Down><Home><Tab><BckSp><BckSp><Tab><Tab><Down><Home><BckSp><Tab><Tab><Down><Home><Tab><BckSp><BckSp><Tab><Down><Left><#+12><Left><Down><Left><BckSp><Tab><Tab><Down><Home><BckSp><Tab><Tab><Down><Home><BckSp><Tab><Tab><Down><Down><Home><Tab><BckSp><BckSp><Tab><Tab><LAlt><Tab><LAlt><Tab><Tab><Tab><LCtrl>v<Tab><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><RShft><Ins><LCtrl>s<#+1><BckSp><LShft>Na<BckSp><LShft>AND -<LShft><BckSp><BckSp>-<LShft>Flash-<LShft>Memory-<LShft>Map.txt
+2019-04-02 18:29:17+0530 > 
+2019-04-02 18:29:21+0530 > <Up><Up><End>
+2019-04-02 18:29:23+0530 > <Down><Down><Down><Down>
+2019-04-02 18:29:26+0530 > <Down>
+2019-04-02 18:29:28+0530 > <Down>
+2019-04-02 18:29:29+0530 > <Down>
+2019-04-02 18:29:30+0530 > <Down>
+2019-04-02 18:29:31+0530 > <Down>
+2019-04-02 18:29:32+0530 > <Up><#+13><Up><Up><Up>-<#+66><Down>  \<#+5><BckSp><LShft>|<#+4><BckSp><BckSp><Down>-<#+64>--<Up><LShft><RShft>|<Up><Left><RShft>|<Down><Down><BckSp><RShft>|<Home><Tab><Up><Left><Home><Tab><Up><Home><Tab><Home><Up><Down>
+2019-04-02 18:30:26+0530 > <Down><Down><Down><Tab><Down><Down><Home><Tab><Down><Down><Home><Tab><Down><Down><Home><Tab><#+1><Down><Down><Home><Tab><Down><Down><Home><Tab><Right><#+33><Left><#+18><Up><#+9><Up><Up><Up><Up><Up><Up><Up><Up><Down><Right><#+42><BckSp><BckSp>
+2019-04-02 18:30:49+0530 > 
+2019-04-02 18:30:51+0530 > <Up><Up><Up><Up><Right><#+65><Right><Right><BckSp><Down><Right><BckSp><Down>-<LCtrl>s<LCtrl>s<RCtrl><PgDn><PgDn><PgDn><PgUp>
+2019-04-02 18:31:41+0530 > 
+2019-04-02 18:31:41+0530 > 
+2019-04-02 18:31:41+0530 > 
+2019-04-02 18:31:41+0530 > 
+2019-04-02 18:31:41+0530 > 
+2019-04-02 18:31:42+0530 > 
+2019-04-02 18:31:42+0530 > 
+2019-04-02 18:31:42+0530 > 
+2019-04-02 18:31:42+0530 > 
+2019-04-02 18:31:42+0530 > 
+2019-04-02 18:31:42+0530 > <Up><Up><Up><Up><Up><#+9><Up>
+2019-04-02 18:31:46+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><RCtrl><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgUp>g
+2019-04-02 18:49:07+0530 > yono sbi 
+2019-04-02 18:49:12+0530 > g
+2019-04-02 18:49:47+0530 > yo<#+1>no sbi account signup
+2019-04-02 18:49:57+0530 > g
+2019-04-02 18:50:26+0530 > yono sbi <BckSp>.com
+2019-04-02 18:50:34+0530 > g
+2019-04-02 18:51:12+0530 > <#+1>yono s<Down>
+2019-04-02 18:51:17+0530 > g
+2019-04-02 18:53:24+0530 > <#+1>proxy <Down>
+2019-04-02 18:53:27+0530 > tamilrockers.com
+2019-04-02 18:53:36+0530 > 
+
+Logging stopped at 2019-04-03 05:00:18+0530
+
