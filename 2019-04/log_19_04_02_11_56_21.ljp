@@ -1,0 +1,215 @@
+Logging started ...
+
+2019-04-02 11:56:21+0530 > <Down> 12110
+2019-04-02 12:09:05+0530 > 
+2019-04-02 12:09:05+0530 > 
+2019-04-02 12:09:06+0530 > 
+2019-04-02 12:09:06+0530 > <Up><Up><Up><Up><Up><LShft>Hi <BckSp><BckSp><BckSp><CpsLk><LShft>h<CpsLk>i <LShft>Syed<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><CpsLk>I <LShft>sYED,
+2019-04-02 12:09:23+0530 > 
+2019-04-02 12:09:23+0530 > <LShft>pLEASE FOLO<BckSp>LOE <BckSp><BckSp>W THE STEPS,
+2019-04-02 12:09:34+0530 > 
+2019-04-02 12:09:34+0530 > 
+2019-04-02 12:09:35+0530 > 
+2019-04-02 12:09:35+0530 > <Up><Up><LShft>cONE<BckSp><BckSp><BckSp><BckSp><BckSp>
+2019-04-02 12:09:41+0530 > 1. <LShft>cONNECT T<BckSp>ETHERNET CABLE  BETWEEN <LShft>pc AND <LShft>bOARD USING <LShft>eTHERNET <LShft>hUB
+2019-04-02 12:11:03+0530 > 2. <BckSp><BckSp><BckSp>THE <LShft>sET <LShft>iP<BckSp><BckSp><LShft>ip ADDRESS AS<BckSp>CCO<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp> <Right><Right><Right><Right><Right><Right>S TO THE BOARD AND THE PC FOR <LShft>DHCP CONNECTION3. <LShft>oPEN TFTP SERVER AND SET IP ADDRESS OF THE <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>PROVIDE THE FO<BckSp><BckSp>INPUT
+2019-04-02 12:12:47+0530 > 4. <LShft>oNCE EVERYTHIG DONE<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>HING DONE ST<BckSp><BckSp><BckSp><BckSp><BckSp>NE POWER O<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>PLEASE FLL<BckSp><BckSp>OLLOW THIS STEPS,
+2019-04-02 12:13:27+0530 > <Tab>I<LShft>><BckSp>. <BckSp><BckSp><BckSp>1<LShft>). <LShft>sTOP IN U0<BckSp>0<BckSp>-BOOT
+2019-04-02 12:13:47+0530 > <Tab>2<LShft>). <LShft>eNABLE <LShft>dhcp
+2019-04-02 12:13:56+0530 >     3<LShft>) <LShft>eNABLE <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>. <LShft>eNABLE <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LShft>nk FROM <LShft>emac
+2019-04-02 12:14:16+0530 > <Tab>4<LShft>).  <LShft>iN <LShft>vISUAL <LShft>sTUDIO <LShft>pLATFORM <LShft>cO<BckSp><BckSp>
+2019-04-02 12:14:37+0530 > <Tab><Tab><Tab><LShft>cLICK -<LShft>> <LShft>tARGET -<LShft>> <LShft>aTTACH <LShft>dEVICE
+2019-04-02 12:15:05+0530 > <Tab><Tab><Tab><Up><Up><Up><Down><Up><Down><Up><Right><#+14><Right><Right><Right><Left>
+2019-04-02 12:15:13+0530 > <Tab>4<LShft>) <LShft>wAIT FOR <LCtrl><LShft>c
+2019-04-02 12:15:48+0530 > <LAlt><Tab><LCtrl>V<LCtrl>Z<LAlt><Tab><LAlt><Tab><RShft>""<Left><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LShft>sENT <LShft>bOOT<Tab><BckSp><LAlt><Tab><LAlt><Tab><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LShft>oote <LAlt><Tab><LAlt><Tab><BckSp><BckSp><LShft>e<CpsLk>m<LShft>E<BckSp><CpsLk><LShft>e<CpsLk><Right><Right><Left> comm<BckSp><BckSp><BckSp><BckSp><CpsLk>LOG<Tab>5<LShft>). <LShft>oNCE EVERYTHIG DONE DETACH DEVICE AND RUN <Left><#+15><Right><Right>REBOOT<LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab> FROM <LShft>nETR<BckSp>WORK <LAlt><Tab><LAlt><Tab><LShft>sETTINGD<BckSp>S<Down> FROM <LAlt><Tab><LAlt><Tab><LShft>sELECT <LAlt><Tab><LAlt><Tab><LShft>bOOT <LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LShft>dEVICE<LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LShft>iNTERNAL<LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab>Z<Right><Right><Right><Right><Right><Right> TO UPDATE NK FROM EBOOT<LShft>nk<LShft>e<LShft>booor<BckSp><BckSp><LShft>t <BckSp><Down><LCtrl>VS<Left><BckSp><LShft>n<LShft>k<LShft>_uPDATE<LShft>_FROM<LShft>_EBOOT<Down> 0<Down> 1<LCtrl><LShft>c
+2019-04-02 12:21:47+0530 > <LCtrl>FV2<Esc>0<LAlt><Tab><BckSp><BckSp>FROM PLATFORM
+2019-04-02 12:23:07+0530 > 
+2019-04-02 12:23:07+0530 > <Up><LShft>aND <LShft>aL<BckSp><BckSp>ALSO <LShft><LShft>i ATTACHED THE LOG FOR YOUR REFERENCE.<F2><LCtrl>Ac
+2019-04-02 12:23:50+0530 > <Left><Left><LShft>()<Left><LCtrl>V<LCtrl>L
+2019-04-02 12:32:35+0530 > 
+2019-04-02 12:32:35+0530 > 
+2019-04-02 12:32:35+0530 > LS
+2019-04-02 12:32:37+0530 > CD <BckSp><BckSp><BckSp><BckSp><LCtrl><LShft>tCD ../
+2019-04-02 12:32:52+0530 > <Up><Down>LS
+2019-04-02 12:32:56+0530 > CD <LShft>SO<Tab>
+2019-04-02 12:33:00+0530 > LS
+2019-04-02 12:33:01+0530 > CD M<Tab>FR<Tab>
+2019-04-02 12:33:04+0530 > LS
+2019-04-02 12:33:05+0530 > CD M<Tab>A<Tab><BckSp><BckSp><BckSp>C <BckSp><BckSp> C<Tab>O<Tab>
+2019-04-02 12:33:15+0530 > LS
+2019-04-02 12:33:16+0530 > CD MA<Tab>
+2019-04-02 12:33:19+0530 > LS
+2019-04-02 12:33:20+0530 > VIM <RShft><Ins>
+2019-04-02 12:33:29+0530 > E<Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Up><RShft>:Q
+2019-04-02 12:33:50+0530 > <Up><Down>GREP -INR <RShft>""<Left><RShft><Ins><Right> <Left><Left><Left><Left><Right><BckSp><BckSp><Right> <LShft>*
+2019-04-02 12:34:02+0530 > <Up><Left><Left><Left><RShft>" <Right><End><BckSp><BckSp>
+2019-04-02 12:34:10+0530 > <Up><Left><Left><Left><BckSp><BckSp><BckSp><BckSp>
+2019-04-02 12:34:14+0530 > VIM <RShft><Ins>
+2019-04-02 12:34:42+0530 > <RShft>:Q
+2019-04-02 12:35:05+0530 > <Up><Up><Up><Up><Up>
+2019-04-02 12:35:09+0530 > E<Down><#+23><Up><Up><Up><Up><Up><Up><Up><Up>YYP<Right><#+18><Right><Right>I<BckSp><BckSp>AND<Right><#+16><Right><Right><Right><LShft>nand_<Esc><RShft>:WQ
+2019-04-02 12:35:41+0530 > <LCtrl>L
+2019-04-02 12:35:43+0530 > 
+2019-04-02 12:35:43+0530 > <Up><Up><Up><Left><Left><Left> 
+2019-04-02 12:35:48+0530 > <Up><Up>
+2019-04-02 12:36:15+0530 > E<Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Right><#+26>I<BckSp><BckSp>AND<Esc><RShft>:WQ
+2019-04-02 12:36:24+0530 > <Up><Up><Up><Up><Up><Up><Up><Down>
+2019-04-02 12:36:32+0530 > <LCtrl>L<Up>
+2019-04-02 12:50:45+0530 > E<Down><#+15><Down><Down>I//<Esc><RShft><BckSp><BckSp><Down><Left><#+21><Esc><Left><Left>DD<RShft>:WQ
+2019-04-02 12:51:02+0530 > <LCtrl>L<Up>
+2019-04-02 12:51:07+0530 > <Up>
+2019-04-02 12:53:55+0530 > E<Down><#+18><Up><Up><Right><#+31><Right><Right><Right><Left><Del><Del><Del><Del><Del><Up><Left><Right><BckSp><BckSp><BckSp>I<Right><Right><BckSp><BckSp><Del>OR<Esc><RShft>:WQ
+2019-04-02 12:54:19+0530 > <LCtrl>L<Up>
+2019-04-02 12:54:24+0530 > <LCtrl>FNAND WRIE<BckSp><BckSp><BckSp><BckSp><BckSp>.W<BckSp><BckSp> FLAS<Down><#+2><Up><#+8><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down><Down><Down><Down><Down><Down><Down><Up><#+14><Up><Up><Up><Up><Up><Up>G
+2019-04-02 13:04:55+0530 > BUILD NAND IMAGE IN T4240RDB
+2019-04-02 13:05:09+0530 > <LCtrl><LAlt><Tab><Up>
+2019-04-02 13:05:38+0530 > E<Down><#+15><Down><Right><#+33><Left>I<LShft>nand_<Up><Left><BckSp><BckSp>AND<Esc><RShft>:WQ
+2019-04-02 13:05:52+0530 > <LCtrl>;<BckSp><BckSp><LCtrl>L<Up><Up><Down>
+2019-04-02 13:06:01+0530 > <LCtrl><LShft>tCD ../../../
+2019-04-02 13:06:34+0530 > 
+2019-04-02 13:06:34+0530 > 
+2019-04-02 13:06:34+0530 > CD ../<LShft>t<Tab><BckSp>
+2019-04-02 13:06:40+0530 > LS
+2019-04-02 13:06:41+0530 > CD B<Tab>2<Tab>
+2019-04-02 13:06:46+0530 > LS
+2019-04-02 13:06:47+0530 > CD <Tab>T<Tab>WO<Tab>
+2019-04-02 13:06:51+0530 > LS
+2019-04-02 13:06:52+0530 > CD T4<Tab>
+2019-04-02 13:06:56+0530 > LS
+2019-04-02 13:06:58+0530 > LS
+2019-04-02 13:07:06+0530 > CD U<Tab>-<Tab><BckSp><Tab>
+2019-04-02 13:07:42+0530 > LS
+2019-04-02 13:07:43+0530 > CD <Tab>
+2019-04-02 13:07:44+0530 > LS
+2019-04-02 13:07:45+0530 > CD <Tab>G<Tab>
+2019-04-02 13:07:48+0530 > LS
+2019-04-02 13:07:49+0530 > CD <RShft><Ins>
+2019-04-02 13:07:53+0530 > LS
+2019-04-02 13:07:54+0530 > VIM <LShft>ma<Tab><BckSp><Tab>
+2019-04-02 13:08:03+0530 > <Down><#+22><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><RShft>:Q
+2019-04-02 13:08:15+0530 > MAK<Tab> M<Tab><BckSp>MEN<Tab>
+2019-04-02 13:08:51+0530 > <Down><Down><LShft></NAND
+2019-04-02 13:09:01+0530 > 
+2019-04-02 13:09:30+0530 > <Right>
+2019-04-02 13:09:32+0530 > 
+2019-04-02 13:09:33+0530 > 
+2019-04-02 13:09:34+0530 > 
+2019-04-02 13:09:34+0530 > LS
+2019-04-02 13:09:36+0530 > VIM .C<Tab>
+2019-04-02 13:09:40+0530 > /<LShft>nand
+2019-04-02 13:09:45+0530 > NNNNNNN<RShft>:Q
+2019-04-02 13:09:57+0530 > <Up>
+2019-04-02 13:10:01+0530 > <LCtrl>L
+2019-04-02 13:10:48+0530 > 
+2019-04-02 13:10:48+0530 > LS
+2019-04-02 13:10:50+0530 > CD ../
+2019-04-02 13:10:52+0530 > LS
+2019-04-02 13:10:53+0530 > CD ../
+2019-04-02 13:10:59+0530 > FIG<BckSp>NF <BckSp><BckSp>D -INA<Tab><RShft><Ins>
+2019-04-02 13:11:08+0530 > CD <RShft><Ins><Del><BckSp><BckSp>
+2019-04-02 13:11:21+0530 > LS
+2019-04-02 13:11:22+0530 > LS 0<BckSp>-L <LShft>t416<Tab><Tab><Tab><BckSp><#+26>VIM DIF<Tab><BckSp><BckSp><BckSp><BckSp>DF=<BckSp><BckSp>IF<Tab><RShft><Ins> <RShft><Ins>
+2019-04-02 13:12:24+0530 > <RShft>:Q
+2019-04-02 13:12:43+0530 > <RShft>:Q
+2019-04-02 13:12:44+0530 > CP <RShft><Ins> <RShft><Ins><Left><#+21><Left><Del><Del><Del><LShft>rdb
+2019-04-02 13:13:02+0530 > VU<BckSp>IM <RShft><Ins>
+2019-04-02 13:13:10+0530 > <Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Up><#+10><Up><Up><RShft>:Q
+2019-04-02 13:13:24+0530 > VIM <RShft><Ins>
+2019-04-02 13:13:31+0530 > <RShft>:Q
+2019-04-02 13:13:36+0530 > <Up><Left><#+23><Right>DIFF <RShft><Ins> 
+2019-04-02 13:13:49+0530 > <RShft>:Q
+2019-04-02 13:14:06+0530 > <RShft>:Q
+2019-04-02 13:14:07+0530 > <Up><Up><Up>
+2019-04-02 13:14:10+0530 > <Down><Down><Down><Up><Up><Down><Right><#+23><Right><Right>I<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>160<Left><Left><Left><Esc><Right><Right><Right><Right>I<LShft>rdb<Esc><RShft>:WQ
+2019-04-02 13:14:26+0530 > <Up><Up>
+2019-04-02 13:14:27+0530 > <RShft>:Q
+2019-04-02 13:14:33+0530 > <RShft>:Q
+2019-04-02 13:14:35+0530 > <Up>
+2019-04-02 13:14:39+0530 > <Up><Up>
+2019-04-02 13:15:20+0530 > <Down><Down><Down><Down><Down><RShft>:Q
+2019-04-02 13:15:28+0530 > XS<BckSp><BckSp>CD ../
+2019-04-02 13:15:39+0530 > LS
+2019-04-02 13:15:40+0530 > CD -
+2019-04-02 13:15:52+0530 > <Up><Up><Up><Up>
+2019-04-02 13:15:54+0530 > <Down><Down><Down><Down><Down><Down><Down><Down><Down><RShft>LQ<RShft>:Q<Down><Down><Down><Up><Down><Up><Up>
+2019-04-02 13:16:03+0530 > <Up><LCtrl>A<Del><Del><Del>LS -L <Up>
+2019-04-02 13:16:21+0530 > E<Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Right><#+26><Left><Del><#+22><Del><Del><Del><Del>I<RShft><Ins><Up><Up><Esc><RShft>:WQ
+2019-04-02 13:16:33+0530 > <Up><Up><Down>
+2019-04-02 13:16:38+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><BckSp><#+25><BckSp><RShft><Ins><LShft>_1
+2019-04-02 14:21:58+0530 > VIM <RShft><Ins>
+2019-04-02 14:22:04+0530 > <Down><Down><Right><#+21><Left>I<Del><Del><Del><Del><Del><Del>160<Esc><RShft>:W<LShft>!
+2019-04-02 14:22:16+0530 > \I<Right><LShft>rdb<Esc><RShft>:WQ
+2019-04-02 14:22:22+0530 > <Up><Up><Down>
+2019-04-02 14:22:28+0530 > <LCtrl>CD ../
+2019-04-02 14:23:50+0530 > <Up>
+2019-04-02 14:23:51+0530 > CD GI<Tab>
+2019-04-02 14:23:53+0530 > G<BckSp><BckSp>FIND -INA<Tab><RShft><Ins>
+2019-04-02 14:23:59+0530 > <Up><Left><#+14><Left><Del>
+2019-04-02 14:24:02+0530 > VIM <RShft><Ins>
+2019-04-02 14:24:08+0530 > <RShft>:1399
+2019-04-02 14:24:11+0530 > <Right><Right><Right><Up><Up><Up><Up><Right><Up><Down><Up><Right><#+37>I<Right><#+2>;<Esc><RShft>:WQ
+2019-04-02 14:24:27+0530 > <LCtrl><LCtrl>L<Up>
+2019-04-02 14:24:33+0530 > LD
+2019-04-02 14:24:58+0530 > LS
+2019-04-02 14:25:00+0530 > VF<BckSp><BckSp><BckSp>CD <RShft><Ins>
+2019-04-02 14:25:09+0530 > LS
+2019-04-02 14:25:10+0530 > LS -L <RShft><Ins>
+2019-04-02 14:27:16+0530 > LS L<BckSp>-L <RShft><Ins>
+2019-04-02 14:27:26+0530 > VIM <RShft><Ins>
+2019-04-02 14:27:42+0530 > <PgDn><PgDn><#+4><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><#+14><PgDn><#+18><PgUp><PgUp><#+2><PgUp><PgUp><PgUp><PgDn><#+57><PgDn><#+50><PgDn><#+37><PgUp><PgUp><PgUp><PgUp><PgDn><PgDn><PgDn><PgDn><PgDn><PgUp><PgUp><PgUp><PgUp><#+6><PgUp><PgUp><RShft>:W<BckSp>Q
+2019-04-02 14:28:17+0530 > <LCtrl>c
+2019-04-02 14:29:19+0530 > <LAlt><Tab><LAlt><Tab><Tab><RShft><Ins><BckSp><#+24><BckSp><Tab><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab> <LShft>> 1.TXT<LAlt><Tab><Tab><LAlt><Tab><BckSp><BckSp><BckSp>DIS
+2019-04-02 14:30:32+0530 > VIM 1<Tab>
+2019-04-02 14:30:36+0530 > <PgDn><#+129><PgDn><#+38><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgUp><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgUp><PgDn><PgDn><PgDn><PgDn><PgDn><#+46>T4240<LCtrl>F<LCtrl>FNAND<LAlt><Tab><LAlt><Tab><LAlt><Tab>/<RShft><Ins>
+2019-04-02 14:34:24+0530 > <LAlt><Tab><LCtrl>c
+2019-04-02 14:34:32+0530 > FVFV
+2019-04-02 14:34:36+0530 > <Down><#+41><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><BckSp><BckSp><BckSp> <BckSp><BckSp> <BckSp><RShft>:Q
+2019-04-02 14:37:55+0530 > VIM ../<LShft>t<Tab><LShft>R<Tab><BckSp><LShft>r<Tab>D<Tab>U<Tab><Tab><Tab>.D<Tab>
+2019-04-02 14:38:13+0530 > <RShft>:Q
+2019-04-02 14:38:19+0530 > <Up><Up>
+2019-04-02 14:38:21+0530 > /<RShft><Ins>
+2019-04-02 14:38:24+0530 > <LCtrl><LShft>c
+2019-04-02 14:38:36+0530 > <LCtrl>V<LAlt><Tab><RShft>:1<Esc>
+2019-04-02 14:39:43+0530 > <RShft>:Q<Esc>
+2019-04-02 14:39:45+0530 > <RShft>:Q
+2019-04-02 14:39:47+0530 > F<BckSp>GREP -INR <RShft>""<RShft><Left><RShft><Ins><RShft><Right> <LShft>*
+2019-04-02 14:40:06+0530 > <Down><LCtrl>L<Up><Down><Up> ../
+2019-04-02 14:40:29+0530 > <Up><Up><Up><Up><Up><Up>
+2019-04-02 14:43:21+0530 > <Up><Up><Up><Up><Up><Up>
+2019-04-02 14:44:31+0530 > <Up><Up><Up><Up>
+2019-04-02 14:44:33+0530 > <RShft>:Q
+2019-04-02 14:44:36+0530 > <Up><Up><Up><Up><Up>
+2019-04-02 14:44:42+0530 > <Right><Right><Up><Up><Up><Up><Up><Up><Up>
+2019-04-02 14:44:50+0530 > <Up><Up><Up><Up><Up><Up>
+2019-04-02 14:47:50+0530 > G
+2019-04-02 14:52:04+0530 > NAND WRI<Down><BckSp><BckSp><BckSp><BckSp><BckSp>IN T4240 YACTO
+2019-04-02 14:52:17+0530 > <LCtrl>c
+2019-04-02 14:53:21+0530 > <LAlt><Tab><LAlt><Tab><Tab><LCtrl>D<BckSp>FIND -INA<Tab><RShft><Ins>
+2019-04-02 14:53:35+0530 > CD ../
+2019-04-02 14:53:37+0530 > <Up><Up>
+2019-04-02 14:53:38+0530 > CD ..
+2019-04-02 14:53:42+0530 > <Up><Up>
+2019-04-02 14:53:43+0530 > LS
+2019-04-02 14:53:45+0530 > CD ./<BckSp>,<BckSp>./
+2019-04-02 14:53:50+0530 > <Up><Up><Up>
+2019-04-02 14:53:52+0530 > CD ../
+2019-04-02 14:53:55+0530 > <Up><Up>
+2019-04-02 14:53:56+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><Tab>II=<BckSp><BckSp><LCtrl>X<LCtrl><LCtrl>V WRITE<LAlt><Tab> EXA<LCtrl><LAlt><Tab><LAlt><Tab><LAlt><Tab><Tab><Up>
+2019-04-02 15:09:19+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><PgDn><#+373><PgDn><#+425><PgDn><PgDn><#+152><RShft>:1111<BckSp>
+2019-04-02 15:11:42+0530 > <RShft>:10000
+2019-04-02 15:11:46+0530 > <RShft>:1000000
+2019-04-02 15:11:51+0530 > <Down><Down><Up><Up><Up><Up><Up><#+14><Up><#+7><Up><#+126><Up><Up><Up><Up><#+26><PgUp><#+21><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgUp><LCtrl>c
+2019-04-02 15:12:42+0530 > FV
+2019-04-02 15:12:44+0530 > 
+2019-04-02 15:12:44+0530 > 
+2019-04-02 15:12:48+0530 > 
+2019-04-02 15:12:49+0530 > 
+2019-04-02 15:12:49+0530 > 
+2019-04-02 15:12:50+0530 > <LCtrl>c
+2019-04-02 15:13:02+0530 > FV
+2019-04-02 15:13:06+0530 > 
+2019-04-02 15:13:09+0530 > 
+2019-04-02 15:13:10+0530 > <LMeta><#+4>L
+
+Logging stopped at 2019-04-03 04:59:46+0530
+
