@@ -1,0 +1,430 @@
+Logging started ...
+
+2019-04-02 11:07:18+0530 > <BckSp>tftp flashing in powerpc
+2019-04-02 11:09:29+0530 > <LCtrl>ftftpg
+2019-04-02 11:10:31+0530 > used<BckSp> tft<Down> in u-boot
+2019-04-02 11:10:45+0530 > <LCtrl><LCtrl> <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>windows
+2019-04-02 11:11:18+0530 > g
+2019-04-02 11:16:49+0530 > <#+1>tftp full<Down>
+2019-04-02 11:16:55+0530 > <RCtrl><PgUp><PgUp><PgDn><LCtrl><BckSp>powerpc<BckSp><#+11> yocto powerpc
+2019-04-02 11:40:17+0530 > <LCtrl>ftftpg
+2019-04-02 11:46:16+0530 > <RShft><Ins>
+2019-04-02 11:46:17+0530 > cd cd cd    cdcdcdcdcd<Up><Up><Up>
+2019-04-02 11:53:15+0530 > <LCtrl>c
+2019-04-02 11:53:16+0530 > <Up><BckSp>0
+2019-04-02 11:53:18+0530 > <#+2>yes
+2019-04-02 11:53:20+0530 > <#+3>zs10062013
+2019-04-02 11:53:23+0530 > <#+1>
+2019-04-02 11:53:24+0530 > 
+2019-04-02 11:53:24+0530 > cle<Tab>
+2019-04-02 11:53:25+0530 > 
+2019-04-02 11:53:25+0530 > 
+2019-04-02 11:53:25+0530 > cd <LShft>~/<LShft>Do<Tab><#+2><Tab>c<Tab><#+1><LShft>V<Tab><#+2><Tab><LShft>Q<Tab><#+2><Tab>w<Tab><Tab><Tab><Tab><Tab>bu<Tab><#+3>24<Tab><Tab>
+2019-04-02 11:53:40+0530 > s<BckSp>ls
+2019-04-02 11:53:42+0530 > cd tmp<Tab><#+2>
+2019-04-02 11:53:45+0530 > ls
+2019-04-02 11:53:46+0530 > cd de<Tab>
+2019-04-02 11:53:48+0530 > ls
+2019-04-02 11:53:48+0530 > cd i<#+1>m<Tab><#+1>
+2019-04-02 11:53:50+0530 > ls
+2019-04-02 11:53:51+0530 > cd ../../
+2019-04-02 11:53:54+0530 > 
+2019-04-02 11:53:54+0530 > cd wo<Tab><#+2>
+2019-04-02 11:53:56+0530 > ls
+2019-04-02 11:53:57+0530 > cd t42<Tab><#+4>
+2019-04-02 11:54:01+0530 > ls
+2019-04-02 11:54:01+0530 > cd u<LAlt><Tab><LAlt><Tab>-b<Tab><#+2>
+2019-04-02 11:54:12+0530 > ls
+2019-04-02 11:54:12+0530 > cd 2<Tab>gi<Tab>
+2019-04-02 11:54:15+0530 > ls
+2019-04-02 11:54:16+0530 > cd <BckSp><#+17>locate <LAlt><Tab><LAlt><Tab>init.txt
+2019-04-02 11:54:33+0530 > <LCtrl>c
+2019-04-02 11:54:37+0530 > vi <RShft><Ins>
+2019-04-02 11:55:02+0530 > <Down><#+3><PgDn><PgUp><#+1><Up><#+1><Esc><LShft>:q<LShft>
+2019-04-02 11:56:58+0530 > !<LAlt><Tab><RCtrl><PgDn><PgDn><PgDn><PgDn><RCtrl><PgUp><PgUp><PgUp><PgUp><PgUp><#+1><PgDn><PgDn><RCtrl><RCtrl><PgDn>g
+2019-04-02 12:06:47+0530 > man tftp
+2019-04-02 12:06:51+0530 > c;<BckSp>le<Tab>
+2019-04-02 12:08:15+0530 > cd
+2019-04-02 12:08:16+0530 > cd<BckSp><BckSp><#+3>ls
+2019-04-02 12:08:19+0530 > vi e<Tab><#+5>n<BckSp>mb<Tab><#+3>
+2019-04-02 12:08:25+0530 > <PgDn><PgDn><PgDn><PgUp><#+39><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgUp><PgDn><PgUp><PgDn><PgUp><PgUp><#+1><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><#+1><PgDn><PgUp><PgUp><Esc><LShft>:q<LShft>!
+2019-04-02 12:09:49+0530 > 
+2019-04-02 12:09:49+0530 > 
+2019-04-02 12:09:49+0530 > vi <RShft><Ins>
+2019-04-02 12:10:17+0530 > <PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><#+10><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><#+11><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><#+23><PgUp><PgUp><PgUp><#+65><PgDn><PgDn><PgDn><Esc><LShft>:q<LShft>!
+2019-04-02 12:10:47+0530 > 
+2019-04-02 12:10:47+0530 > 
+2019-04-02 12:10:48+0530 > <Tab><LAlt><Tab><BckSp><BckSp>
+2019-04-02 12:25:26+0530 > <Right>
+2019-04-02 12:25:27+0530 > <Right><BckSp><Right>
+2019-04-02 12:25:30+0530 > <Right>
+2019-04-02 12:25:31+0530 > <Right><#+11><BckSp><BckSp><RCtrl><RCtrl><PgDn><RCtrl><PgDn><PgUp><PgUp><RCtrl><PgDn><PgDn><PgDn><PgDn><PgDn>mn<BckSp>anoj<LShft>Z<LShft>V<LShft>Na<BckSp><LShft>AND Flash<LShft>Hi,
+2019-04-02 12:50:45+0530 > 
+2019-04-02 12:50:46+0530 >    <LShft>I need to flash u-boot form<BckSp><BckSp><BckSp><BckSp><BckSp> <BckSp> image from <LShft>Nand flash, <LShft>Please<RCtrl><Left><#+14><Left><Left><Left><Left><Right><BckSp><BckSp><BckSp><LShft>AND<Right><#+14><Right><Right><Right><Right><Left><#+10><Left> in <LShft>Power <BckSp><LShft>Pc <BckSp> <BckSp> <LShft>{ <LShft>T4240<LShft>RDB<Left><Left><Left>-<Right><Right><Right><Right><Left><LShft>}<Left> <Right><#+12><Right><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LShft>I verified one <BckSp><#+13><BckSp><BckSp>re<BckSp><BckSp><BckSp><BckSp>for <BckSp><BckSp><BckSp><BckSp><LShft>For me, <LShft>I am <BckSp><#+12><BckSp> <LShft>Nand <LShft>Flash<Left><Left><Left><Left><Left><Left><BckSp><BckSp><BckSp><LShft>AND<End> <LShft>I referring this document to usin <BckSp>g <LShft>Nand <LShft>Flash <Left><#+10><Left><BckSp><BckSp><BckSp><LShft>AND<Right><Right><Right><Left><#+16><Left><Left><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>page<BckSp>e<End><BckSp>. <LShft>Plea<BckSp>ase <LShft>Che<BckSp><BckSp><BckSp>check <LShft>*<BckSp><LShft>& <LShft>Tell<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LShft>Ver<BckSp><BckSp><BckSp>verified <LShft>& tell me it is possible.<BckSp> or not, <LShft>Otherwise <LShft>Please support me.
+2019-04-02 12:53:50+0530 > 
+2019-04-02 12:53:50+0530 > <LShft>Regards,
+2019-04-02 12:53:53+0530 > <LShft>Santhana <LShft>Kumar <LShft>S
+2019-04-02 12:54:02+0530 > 
+2019-04-02 12:54:02+0530 > <LShft>Referring <LShft>Na<BckSp><LShft>AND <LShft>Flash in this pa<BckSp><BckSp>link
+2019-04-02 12:54:18+0530 > <LAlt><Tab><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><Tab><LAlt><Tab><Tab><RCtrl><PgDn><PgDn><PgDn><PgDn><PgDn><RShft><Ins><Home>
+2019-04-02 12:54:51+0530 > <Up>
+2019-04-02 12:54:52+0530 > <Down><Down><Down><#+2><Down><Up><#+13><Down><#+21><Down><#+11><Left><BckSp><BckSp><BckSp>160<Del><Right><Right><Right>-64<LShft>B
+2019-04-02 12:56:14+0530 > <Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><LShft>And if itp<BckSp> possiblr<BckSp>e <Up><Down><Right><#+8><Left><Left><Left><Left><Left><Right><Del>p<Right><#+10><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del>provide this steps<Right>
+2019-04-02 12:56:44+0530 > <LShft>Now u-boot run on nor <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LShft><LShft>And also <LShft>I wanr<BckSp>t to know <LShft>I want to <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>build image for nand<Left><#+11><Right><#+10><Right><Right>.<Left><#+25><Left><Left><Left><#+10><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><LShft><Left><Down><Del><Del><Del><Del><Del><Down><#+7><RCtrl><PgUp><PgUp><PgUp><PgUp><RCtrl><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgUp>cd
+2019-04-02 13:01:14+0530 > 
+2019-04-02 13:01:14+0530 > 
+2019-04-02 13:01:14+0530 > 
+2019-04-02 13:01:14+0530 > cd <LShft>~/<LShft>D`<Tab><#+2><BckSp>o<Tab><Tab>c<Tab><Tab><Tab><LShft>Vin<Tab><Tab><Tab><LShft>Q<LShft>W<Tab><#+4><Tab><LShft>A<Tab><#+3><Tab><Tab><BckSp><#+40><BckSp>
+2019-04-02 13:01:36+0530 > 
+2019-04-02 13:01:36+0530 > 
+2019-04-02 13:01:36+0530 > ls
+2019-04-02 13:01:37+0530 > cd <LShft>~/<LShft>Vino<Tab><#+2><Tab><Tab><BckSp><BckSp><BckSp><BckSp><LShft>Doc<Tab>
+2019-04-02 13:01:47+0530 > ls
+2019-04-02 13:01:47+0530 > cd <LShft>V<Tab><#+2>
+2019-04-02 13:01:50+0530 > ls
+2019-04-02 13:01:50+0530 > cd <LShft><LShft>P<LShft>D<Tab><#+3>
+2019-04-02 13:01:56+0530 > ls
+2019-04-02 13:01:57+0530 > cd ..
+2019-04-02 13:02:04+0530 > ls
+2019-04-02 13:02:04+0530 > cd <LShft>Q<LShft>W<Tab><#+3><Tab><LShft>A<Tab><#+2>
+2019-04-02 13:02:14+0530 > ls
+2019-04-02 13:02:15+0530 > cd <LShft>D<Tab><#+2>
+2019-04-02 13:02:17+0530 > ls
+2019-04-02 13:02:18+0530 > cd ..
+2019-04-02 13:02:23+0530 > ls
+2019-04-02 13:02:23+0530 > cd <LShft>N<Tab><#+2>
+2019-04-02 13:02:26+0530 > ls
+2019-04-02 13:02:26+0530 > vi <LShft>Q<Tab><#+5>
+2019-04-02 13:02:32+0530 > <#+3><Esc><LShft>:q<LShft>!
+2019-04-02 13:02:35+0530 > 
+2019-04-02 13:02:35+0530 > 
+2019-04-02 13:02:35+0530 > ls
+2019-04-02 13:02:36+0530 > cd ..
+2019-04-02 13:02:38+0530 > ls
+2019-04-02 13:02:39+0530 > cd <LShft>E<Tab><#+1>
+2019-04-02 13:02:42+0530 > ls
+2019-04-02 13:02:43+0530 > cd ..
+2019-04-02 13:02:44+0530 > sl
+2019-04-02 13:02:45+0530 > <BckSp><BckSp><LCtrl>ls
+2019-04-02 13:02:47+0530 > cd <LShft>D<Tab><#+3>
+2019-04-02 13:02:51+0530 > ls
+2019-04-02 13:02:52+0530 > cd <LShft>W<Tab><#+3>
+2019-04-02 13:03:04+0530 > ls
+2019-04-02 13:03:04+0530 > vi <LShft>P<Tab><#+3>
+2019-04-02 13:03:11+0530 > <#+4><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><#+22><PgDn><Esc><#+1><LShft>;q<LShft>
+2019-04-02 13:03:17+0530 > !<Esc><LShft>:q<LShft>!
+2019-04-02 13:03:18+0530 > 
+2019-04-02 13:03:18+0530 > 
+2019-04-02 13:03:18+0530 > 
+2019-04-02 13:03:19+0530 > cd ..
+2019-04-02 13:03:21+0530 > sl<BckSp><BckSp>ls
+2019-04-02 13:03:23+0530 > cd <LShft>D<Tab><#+2>
+2019-04-02 13:03:31+0530 > cd <LShft>Do<Tab><#+2><Tab><Tab>c
+2019-04-02 13:03:36+0530 > <#+1>cd <LShft>D<Tab><#+3><LShft>U<Tab><#+4>
+2019-04-02 13:03:41+0530 > s
+2019-04-02 13:03:42+0530 > ls
+2019-04-02 13:03:43+0530 > cd -
+2019-04-02 13:03:45+0530 > 
+2019-04-02 13:03:45+0530 > 
+2019-04-02 13:03:45+0530 > <#+21>s<BckSp><#+1>ls
+2019-04-02 13:03:48+0530 > cd ...
+2019-04-02 13:03:50+0530 > cd ..
+2019-04-02 13:03:51+0530 > ls
+2019-04-02 13:03:52+0530 > cd ..
+2019-04-02 13:03:53+0530 > ls
+2019-04-02 13:03:54+0530 > cd<BckSp><#+11>cd<BckSp><#+11>cd l<Tab>
+2019-04-02 13:04:02+0530 > s
+2019-04-02 13:04:02+0530 > ls
+2019-04-02 13:04:03+0530 > cd ..
+2019-04-02 13:04:06+0530 > ls
+2019-04-02 13:04:06+0530 > cd <BckSp><#+12>
+2019-04-02 13:04:18+0530 > <#+3>
+2019-04-02 13:04:18+0530 > ls
+2019-04-02 13:04:19+0530 > cd<BckSp>le<Tab>
+2019-04-02 13:04:23+0530 > 
+2019-04-02 13:04:23+0530 > 
+2019-04-02 13:04:23+0530 > 
+2019-04-02 13:04:24+0530 > <RCtrl><PgUp><PgUp><RCtrl><RCtrl><PgUp><RCtrl><PgUp><PgUp><RCtrl><RCtrl><PgUp><RCtrl><PgUp><PgUp><PgUp><PgUp><PgUp><PgDn><PgDn><LCtrl>fnand<BckSp>t4240 nand c<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>rdb nand flash
+2019-04-02 13:15:26+0530 >  yocto
+2019-04-02 13:15:35+0530 > <LCtrl>fnand<BckSp><LShft>Using <LShft>Nand flash in t4240 <BckSp>rdb
+2019-04-02 13:17:25+0530 > <BckSp><LShft>Using <LShft>Nadn<BckSp><BckSp>nd <LShft>F<BckSp><BckSp><BckSp><BckSp><BckSp><LShft>AND Flash in <LShft>Powerp<#+1>c
+2019-04-02 13:20:53+0530 > <#+1><RCtrl><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgUp><LAlt><Tab><RCtrl><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgDn><PgDn>zs100962<BckSp><#+17>zs10062-<BckSp><#+14>zs10062013
+2019-04-02 14:38:13+0530 > <#+1>cd <LShft>Q<Tab><#+1>w<Tab><Tab><Tab><Tab>buil<Tab><#+3>23<Tab><BckSp>4<Tab><#+2>
+2019-04-02 14:40:16+0530 > cd tmp<Tab><#+1>
+2019-04-02 14:40:19+0530 > ls
+2019-04-02 14:40:19+0530 > <LAlt><Tab><LAlt><Tab>cd wo<Tab><Tab><Tab>/<Tab><Tab>t42<Tab><#+2><Tab><Tab>
+2019-04-02 14:40:41+0530 > 
+2019-04-02 14:40:41+0530 > cd u-b<Tab><#+2>
+2019-04-02 14:40:44+0530 > ls
+2019-04-02 14:40:44+0530 > cd 2<Tab><#+2>
+2019-04-02 14:40:46+0530 > cd gi
+2019-04-02 14:40:50+0530 > <Up>t
+2019-04-02 14:40:52+0530 > ls
+2019-04-02 14:40:53+0530 > <RCtrl><PgDn><#+20><PgDn><PgDn><PgDn><PgDn><PgDn><#+15><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgUp><RCtrl><PgUp><RCtrl><PgUp><BckSp>ui<BckSp>sig<BckSp>ng nand flash in <LShft>Yocto poerc<BckSp>p<BckSp><BckSp><BckSp>werpc
+2019-04-02 14:54:03+0530 > <#+1><LCtrl><LCtrl><LCtrl>git d<BckSp>status
+2019-04-02 14:58:19+0530 > <#+1>gti dif f<BckSp><BckSp>f <RShft><Ins>
+2019-04-02 14:59:02+0530 > <Up><Left><#+28><Left><Left><BckSp><Right>t
+2019-04-02 14:59:08+0530 > <#+3>gti di<BckSp><#+15>fi<BckSp><#+13>gti <BckSp><#+8>git diff <RShft><Ins>
+2019-04-02 14:59:26+0530 > <BckSp>qt4240-<LShft>R<BckSp><BckSp><LShft>RDB
+2019-04-02 15:07:41+0530 > ca <BckSp> <BckSp>t /dev/m<Tab><Tab><Tab><BckSp><#+7><BckSp><#+10><BckSp><#+14><BckSp><#+2><BckSp><BckSp><BckSp>  <Tab><LAlt><Tab><LCtrl>ls
+2019-04-02 15:15:55+0530 > <LAlt><Tab><LShft>"<RShft><Ins><LShft>"
+2019-04-02 15:16:12+0530 > <BckSp><Home><BckSp><BckSp>
+2019-04-02 15:16:23+0530 > <LAlt><Tab><LAlt><Tab><LShft>"<RShft><Ins><LShft>"
+2019-04-02 15:16:37+0530 > <LCtrl><LCtrl><LCtrl><LCtrl>fnand<BckSp><#+14><LShft>NAND
+2019-04-02 15:17:50+0530 > <LAlt><Tab><RCtrl><PgDn><PgDn><PgDn><PgDn><#+13><PgDn><PgUp><RCtrl><PgDn>
+2019-04-02 15:23:55+0530 > <LCtrl>v<#+1>
+2019-04-02 15:27:40+0530 > 
+2019-04-02 15:27:40+0530 > <Up><Up><LShft>T<LShft>FT<BckSp><BckSp><BckSp><LShft>TFTP pr<BckSp><BckSp><BckSp><LShft>:<Left> <Down><Down><Right><#+6><End><#+1>
+2019-04-02 15:27:58+0530 > 
+2019-04-02 15:27:58+0530 > <LAlt><Tab><Tab><Tab><LAlt><Tab><Tab><LAlt><Tab><LAlt><Tab><LCtrl>v
+2019-04-02 15:28:49+0530 > <Down><End>
+2019-04-02 15:28:51+0530 > <LCtrl>s<BckSp><LShft>Boot<LShft>_<BckSp>-form<BckSp><BckSp><BckSp>rom-tftp
+2019-04-02 15:29:05+0530 >  <#+12><Left><#+29><Left>``<BckSp><BckSp><Tab><Tab><Right><#+19><Right><Right><Right><LCtrl>s<LAlt><Tab><LCtrl><LShft>T<#+1><LCtrl><LShft>T<#+1><BckSp>nan<BckSp><BckSp><BckSp><BckSp>nand flasg<BckSp>h mwm<BckSp><BckSp>emoru <BckSp><BckSp>yg
+2019-04-02 15:34:51+0530 > <RShft><Ins>
+2019-04-02 15:34:52+0530 > <LShft>"<Home><LShft>"
+2019-04-02 15:35:00+0530 > 
+2019-04-02 15:36:48+0530 > 
+2019-04-02 15:36:49+0530 > 
+2019-04-02 15:36:49+0530 > 
+2019-04-02 15:36:50+0530 > 
+2019-04-02 15:36:50+0530 > <LShft>Na<BckSp><LShft>AND FLas<BckSp><BckSp><BckSp><BckSp><LShft>Flash in some toher <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp> other
+2019-04-02 15:37:05+0530 > 
+2019-04-02 15:37:05+0530 > <RShft><Ins><LCtrl>s<LAlt><Tab><LCtrl><LCtrl><BckSp><#+1> t4240<LShft>R<LShft>DB
+2019-04-02 15:38:09+0530 > <LCtrl>f<LShft>NAND<LCtrl><LCtrl>f<LShft>LOADadd<BckSp><BckSp><BckSp>ddr<BckSp><BckSp><BckSp>addr
+2019-04-02 15:40:48+0530 > 
+2019-04-02 15:40:48+0530 > 
+2019-04-02 15:40:59+0530 > 
+2019-04-02 15:40:59+0530 > 
+2019-04-02 15:46:50+0530 > 
+2019-04-02 15:46:50+0530 > <Up><Up><LCtrl>v<Home>
+2019-04-02 15:46:54+0530 > 
+2019-04-02 15:46:54+0530 > 
+2019-04-02 15:46:55+0530 > <Up><#+3><Up><LShft>Referrence
+2019-04-02 15:47:02+0530 > -<#+14><BckSp><#+15>
+2019-04-02 15:47:06+0530 > =<#+110><Down><Down><Down><Down><Left><Right><Left><Left><Left><Left><Left><Left><Right><Left><LShft>Flasing r<BckSp>from
+2019-04-02 15:47:22+0530 > <BckSp> <Left><#+1><Left><#+8><Left><#+13><Down><Down><Left><#+19><Left>
+2019-04-02 15:47:29+0530 > 
+2019-04-02 15:47:29+0530 > 
+2019-04-02 15:47:30+0530 > 
+2019-04-02 15:47:30+0530 > <Up><Down><#+16><Down><Down><Down><Down><Up><LShft><Right><#+21><Down><Down><Down><Down><LCtrl>x<Up><#+20>
+2019-04-02 15:47:39+0530 > <LCtrl>v<Up><#+6>=<#+114><BckSp><BckSp><#+9><BckSp><Down><Up>
+2019-04-02 15:47:52+0530 > 
+2019-04-02 15:47:52+0530 > <Up><Up><Up><Up><Up><Up><Up>
+2019-04-02 15:47:56+0530 > <Down><#+14><Down><Down><Up><Right><#+16><Down><Down><Down><Down><Down><Up><Left><End>
+2019-04-02 15:48:06+0530 > =<#+19>=====<Down><Down><Down><Down><Down><Down><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up>
+2019-04-02 15:48:14+0530 > =<#+28>=<#+84>=<Down><Down><Down><Down><Down>=<#+92><BckSp><BckSp><Up><Up><Up><Up><Up><Up><LShft>{ bootargs <LShft>}<Left><#+14><Left> <Down><#+7><Down><Down>
+2019-04-02 15:48:41+0530 > 
+2019-04-02 15:48:42+0530 > <Down><#+6><LCtrl>sg
+2019-04-02 15:49:19+0530 > nand flash memory maping <Down> address in <LShft>Q<BckSp><#+1>t4240rdb
+2019-04-02 15:49:37+0530 > <#+2><LCtrl><LCtrl><LCtrl>fnand
+2019-04-02 15:50:51+0530 > g
+2019-04-02 15:52:28+0530 > <LShft>"<RShft><Ins><LShft>"
+2019-04-02 15:52:30+0530 > <LCtrl>fnand<LCtrl>fnand
+2019-04-02 15:59:49+0530 > 
+2019-04-02 15:59:49+0530 > 
+2019-04-02 15:59:50+0530 > 
+2019-04-02 15:59:50+0530 > 
+2019-04-02 15:59:50+0530 > 
+2019-04-02 15:59:51+0530 > 
+2019-04-02 15:59:52+0530 > 
+2019-04-02 15:59:52+0530 > 
+2019-04-02 15:59:53+0530 > 
+2019-04-02 15:59:53+0530 > 
+2019-04-02 15:59:53+0530 > 
+2019-04-02 15:59:54+0530 > 
+2019-04-02 15:59:55+0530 > 
+2019-04-02 15:59:55+0530 > 
+2019-04-02 15:59:55+0530 > 
+2019-04-02 15:59:55+0530 > 
+2019-04-02 15:59:56+0530 > <BckSp><CpsLk><#+10>NAND FLASH =<#+12>=<BckSp><#+33><LShft>n<#+1>adn=<BckSp><#+21><CpsLk><LShft>NADN<BckSp><BckSp>ND Flash using<BckSp><BckSp><BckSp><BckSp><BckSp>in yocto por<BckSp>wer pc
+2019-04-02 16:00:30+0530 > <BckSp>withou <BckSp>t nand fk<BckSp>lash memory map address hot<BckSp>w to flash
+2019-04-02 16:01:02+0530 > <#+1><LCtrl>fb<BckSp>nand
+2019-04-02 16:01:31+0530 > <LCtrl>flcoate<BckSp><#+14>find =<BckSp>-name <RShft><Ins>.h<RShft>
+2019-04-02 16:04:04+0530 > vi <RShft><Ins>
+2019-04-02 16:04:10+0530 > 
+2019-04-02 16:04:11+0530 > /<LAlt><Tab><LAlt><Tab><LShft>LOAD_ADD
+2019-04-02 16:04:21+0530 > n<#+2>nnnnnnnnnnnn<LAlt><Tab><LAlt><Tab>/<RShft><Ins>
+2019-04-02 16:04:46+0530 > <Down><Down><Down><Down><#+12><Up><#+13><Up><Up><Up><LAlt><Tab><Esc><LShft>:q<LShft>!
+2019-04-02 16:18:24+0530 > 
+2019-04-02 16:18:25+0530 > 
+2019-04-02 16:18:25+0530 > 
+2019-04-02 16:18:25+0530 > 
+2019-04-02 16:18:25+0530 > loax==<BckSp><#+23>find -name <LAlt><Tab><LAlt><Tab>t4240<LAlt><Tab><LAlt><Tab>rdb.conf
+2019-04-02 16:18:41+0530 > <#+2><LAlt><Tab><LAlt><Tab>loctae <BckSp><BckSp><BckSp><BckSp>ate <RShft><Ins>
+2019-04-02 16:18:51+0530 > <#+1><LCtrl>c
+2019-04-02 16:18:52+0530 > <Up><BckSp><#+10><BckSp> <LAlt><Tab><LAlt><Tab>t43<BckSp>240<LAlt><Tab><LAlt><Tab>rdb-6<LAlt><Tab>4b.conf
+2019-04-02 16:19:12+0530 > <#+2><LAlt><Tab><LAlt>4<LAlt><Tab><LAlt><Tab>b.conf
+2019-04-02 16:19:20+0530 > <#+2>vi <RShft><Ins>
+2019-04-02 16:19:36+0530 > 
+2019-04-02 16:19:37+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab>
+2019-04-02 16:20:28+0530 > <LShft>Patches
+2019-04-02 16:20:30+0530 > =<#+17>=<#+42>
+2019-04-02 16:20:35+0530 > 
+2019-04-02 16:20:35+0530 > <RShft><Ins><LAlt><Tab><LAlt><Tab><RShft><Ins><Home>
+2019-04-02 16:20:46+0530 > <Down>
+2019-04-02 16:20:48+0530 > <LAlt><Tab>t424ordb
+2019-04-02 16:23:55+0530 > <Esc><#+3><LShft>:q<LShft>!
+2019-04-02 16:29:17+0530 > 
+2019-04-02 16:29:17+0530 > 
+2019-04-02 16:29:18+0530 > grep -rs<BckSp>ns <LShft>"<RShft><Ins><LShft>"
+2019-04-02 16:29:22+0530 > <LAlt><Tab><LAlt><Tab>vi <RShft><BckSp><#+2> <RShft><Ins><BckSp><#+18><Tab><Tab>t42<Tab><#+1>r<Tab><#+3>.<Tab><#+2>
+2019-04-02 16:30:07+0530 > <Esc><#+2><Esc><LShft>:q<LShft>!
+2019-04-02 16:30:16+0530 > <Up><BckSp><#+8><BckSp><BckSp>-64<Tab><#+1><Tab>
+2019-04-02 16:30:22+0530 > 
+2019-04-02 16:30:22+0530 > <LAlt><Tab><LAlt><Tab><Esc><LShft>:q<LShft>!
+2019-04-02 16:30:49+0530 > <LAlt><Tab><LAlt><LAlt><Tab><LAlt><Tab><LAlt><Tab><F5><#+7><RCtrl><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgUp>vinot<RCtrl><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgDn><PgUp><PgDn><PgDn><PgDn><PgDn><PgDn><PgUp><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgUp>g
+2019-04-02 16:45:46+0530 > j<BckSp>hud linux
+2019-04-02 16:45:56+0530 > g
+2019-04-02 16:46:03+0530 > hud and<Down>
+2019-04-02 16:46:07+0530 > <BckSp>how to set<BckSp><BckSp><BckSp>printen<BckSp><BckSp> <RShft><RShft><Ins><BckSp><#+15><BckSp><BckSp>fdtfile in power pc
+2019-04-02 16:47:52+0530 > <LCtrl>ffd<LCtrl><BckSp><LShft>FDT<LShft>A<LShft>F<LShft><LShft>FDF<LCtrl>ffdtadd<BckSp>
+2019-04-02 16:50:12+0530 > <BckSp><BckSp>taddr in yocto powerpd<BckSp>c
+2019-04-02 16:50:23+0530 > <LCtrl>ffdtadd<BckSp><BckSp><BckSp><BckSp>nand flash <BckSp><#+17>use nand flash in t4240rdb
+2019-04-02 16:51:41+0530 > <#+1><RCtrl><PgDn><PgUp><PgUp><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><Tab><LAlt><Tab><Tab><PgUp><PgUp><PgUp><#+23><PgUp><#+9><PgDn><PgDn><#+20><PgDn><PgDn><PgDn><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><Down><#+10><Down><Down><LAlt><Tab><LAlt><Tab><Tab><LAlt><Tab><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LCtrl>f<BckSp>nand flash mem<BckSp><BckSp><BckSp>or<PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgUp><PgDn><PgDn><PgDn><#+14><PgUp><PgUp><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgUp><PgUp><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgUp><PgDn><PgDn><PgDn><PgDn><PgDn><PgUp><PgUp><PgUp><PgUp><PgDn><PgDn><PgDn><PgDn><PgDn><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><#+5><PgUp><#+15><PgUp><#+6><PgUp><PgUp><PgUp><PgUp><PgDn><PgDn><PgUp><PgDn><PgDn><PgDn><PgUp><PgDn><PgDn><PgUp><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><BckSp>nand flash mem<BckSp><BckSp><BckSp>or<BckSp><BckSp>andls
+2019-04-02 17:21:47+0530 > cd ../<BckSp><BckSp><BckSp><BckSp><#+13>ls
+2019-04-02 17:21:53+0530 > cd de<Tab><BckSp>=<#+8><BckSp><#+15>cd ,<BckSp><BckSp> ../../
+2019-04-02 17:22:00+0530 > 
+2019-04-02 17:22:00+0530 > l<BckSp><#+1>cd ..
+2019-04-02 17:22:02+0530 > cd de<Tab><BckSp><#+29>ls
+2019-04-02 17:22:06+0530 > cd ..
+2019-04-02 17:22:11+0530 > ls
+2019-04-02 17:22:13+0530 > cd ..
+2019-04-02 17:22:15+0530 > ls
+2019-04-02 17:22:16+0530 > cd de<Tab><#+2>
+2019-04-02 17:22:18+0530 > ls
+2019-04-02 17:22:18+0530 > cd imx<Tab><#+1>
+2019-04-02 17:22:20+0530 > <Up><BckSp>a<Tab>
+2019-04-02 17:22:22+0530 > ls
+2019-04-02 17:22:24+0530 > cd t42<Tab><#+2>
+2019-04-02 17:22:26+0530 > ls
+2019-04-02 17:22:27+0530 > ls -la 
+2019-04-02 17:22:31+0530 > <LAlt><Tab><Left><#+10><Left><Right><#+10><Right>-5<BckSp>64b
+2019-04-02 17:23:46+0530 > <BckSp><LShft>"<Right><BckSp><End><LShft>"
+2019-04-02 17:23:56+0530 > <LShft>Using <LShft>Na<LShft><BckSp>AND Flash
+2019-04-02 17:24:16+0530 > <#+2> in t
+2019-04-02 17:24:22+0530 > <Left><BckSp><LShft>T
+2019-04-02 17:24:26+0530 >  <LShft>Yocto <LShft>Powerpc
+2019-04-02 17:24:56+0530 > <LAlt><Tab><LAlt><Tab>locate <BckSp><#+14><LCtrl><LShft>T<Up><Up><Up><Up><Up><Up><BckSp>0
+2019-04-02 17:32:05+0530 > yes
+2019-04-02 17:32:07+0530 > <#+1>zs10062013
+2019-04-02 17:32:10+0530 > <#+1>l<BckSp>clea
+2019-04-02 17:32:14+0530 > cle<Tab><#+2>
+2019-04-02 17:32:16+0530 > locate <RShft><Ins>
+2019-04-02 17:32:18+0530 > <LAlt><Tab><LAlt><Tab><RShft>locate <RShft><Ins>
+2019-04-02 17:32:33+0530 > <LAlt><Tab>locate <LShft>T.xml
+2019-04-02 17:34:28+0530 > <#+2><LAlt><Tab><PgDn><PgDn><PgDn><PgDn><PgDn><PgUp><PgUp><PgUp><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgUp>g
+2019-04-02 17:46:38+0530 > <#+1>efr1<BckSp>32bg<Down>
+2019-04-02 17:46:52+0530 >  at commands'
+2019-04-02 17:47:07+0530 > <BckSp>
+2019-04-02 17:47:10+0530 > <LShft>"<Home><LShft>"
+2019-04-02 17:47:14+0530 > <LCtrl><LCtrl><LCtrl>fmobile<BckSp>how to givw<BckSp>e <BckSp> <BckSp><BckSp><BckSp><BckSp><BckSp><#+18>efrb<BckSp>32bg13 communu<BckSp>icating with mobu<BckSp>ile
+2019-04-02 17:49:26+0530 > <#+2><BckSp> <LShft>Bt 
+2019-04-02 17:49:42+0530 > <BckSp>=<BckSp><BckSp><BckSp>
+2019-04-02 17:51:16+0530 > <BckSp><LShft>Bluetooth ch<BckSp>connecting with efrbg<BckSp><BckSp>32b13
+2019-04-02 17:52:02+0530 > <Left>=<BckSp><Right><Right><BckSp>
+2019-04-02 17:52:10+0530 >  chip
+2019-04-02 17:52:38+0530 > <LShft>"<Home><LShft>"
+2019-04-02 17:52:46+0530 > <BckSp><BckSp><BckSp><BckSp><BckSp><LShft>"
+2019-04-02 17:52:51+0530 > <BckSp>
+2019-04-02 17:52:55+0530 > <BckSp><LShft>EFRBG<BckSp><BckSp>321<BckSp>bg13<Down><Down><Down>
+2019-04-02 17:53:19+0530 > <PgDn><#+2><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgUp><PgUp><LCtrl>fmobile<LAlt><Tab><RCtrl><PgDn>lo<BckSp><BckSp>vin
+2019-04-02 18:04:41+0530 > <LShft>Qorq sdk<LShft>Hi,
+2019-04-02 18:04:51+0530 > 
+2019-04-02 18:04:51+0530 >  <#+3><LShft>PFA,
+2019-04-02 18:04:55+0530 > 
+2019-04-02 18:04:55+0530 > <LShft><BckSp><BckSp><BckSp>.
+2019-04-02 18:04:58+0530 > 
+2019-04-02 18:04:58+0530 > <LShft>Regards,
+2019-04-02 18:05:02+0530 > <LShft>Sabn<BckSp><BckSp>nthana <LShft>Kumar <LShft>Sq<PgDn><RCtrl><PgDn><PgDn>locate <RShft><Ins>
+2019-04-02 18:07:50+0530 > locate <LShft>Yacto
+2019-04-02 18:07:59+0530 > <Up><BckSp><BckSp><BckSp><BckSp><BckSp><LShft>T4160<LShft>RDB
+2019-04-02 18:08:16+0530 > <#+3><LAlt><Tab><LAlt><Tab>locate <RShft><Ins>
+2019-04-02 18:09:14+0530 > <LAlt><Tab><LAlt><Tab>cd <LShft>V<Tab><#+2><BckSp><#+9><BckSp><BckSp><LShft>Doc<Tab><#+2><LShft>V<Tab><#+2><Tab><Tab>
+2019-04-02 18:09:29+0530 > ls
+2019-04-02 18:09:29+0530 > cd <LShft>R<Tab><#+2>
+2019-04-02 18:09:38+0530 > ls
+2019-04-02 18:09:40+0530 > vi 5<Tab><#+3>
+2019-04-02 18:09:48+0530 > <Esc><LShft>:q<LShft>
+2019-04-02 18:09:51+0530 > 
+2019-04-02 18:09:52+0530 > 
+2019-04-02 18:09:52+0530 > <BckSp><BckSp>ls
+2019-04-02 18:09:55+0530 > <#+1>cd<BckSp>d <LShft>T41<Tab>
+2019-04-02 18:10:00+0530 > ls
+2019-04-02 18:10:00+0530 > vi <LShft>T<Tab><#+3>
+2019-04-02 18:10:03+0530 > <PgDn><#+13><PgDn><#+57><Esc><#+1><LShft>:q<LShft>!
+2019-04-02 18:10:12+0530 > 
+2019-04-02 18:10:13+0530 > 
+2019-04-02 18:10:13+0530 > 
+2019-04-02 18:10:13+0530 > 
+2019-04-02 18:10:13+0530 > s
+2019-04-02 18:10:14+0530 > ls
+2019-04-02 18:10:15+0530 > cd -
+2019-04-02 18:10:17+0530 > 
+2019-04-02 18:10:17+0530 > 
+2019-04-02 18:10:17+0530 > ls
+2019-04-02 18:10:18+0530 > cd ..
+2019-04-02 18:10:20+0530 > ls
+2019-04-02 18:10:20+0530 > cd <LShft>Wp<Tab><#+3><BckSp>o<Tab><#+2><Tab><BckSp><BckSp><LShft>Re<Tab><#+2><LShft>Wo<Tab><#+2>
+2019-04-02 18:10:28+0530 > l
+2019-04-02 18:10:29+0530 > sl<BckSp><BckSp><BckSp>vi <LShft>Z<LShft>S<Tab><#+4>
+2019-04-02 18:10:34+0530 > <#+1><Esc><LShft>:q<LShft>!
+2019-04-02 18:10:37+0530 > 
+2019-04-02 18:10:38+0530 > 
+2019-04-02 18:10:38+0530 > 
+2019-04-02 18:10:38+0530 > 
+2019-04-02 18:10:38+0530 > 
+2019-04-02 18:10:39+0530 > 
+2019-04-02 18:10:39+0530 > cd ..
+2019-04-02 18:10:44+0530 > ls
+2019-04-02 18:10:45+0530 > cd ..
+2019-04-02 18:10:47+0530 > ls
+2019-04-02 18:10:47+0530 > cd <LShft>Q<LShft>W<Tab><#+3>a<Tab>
+2019-04-02 18:10:57+0530 > ls
+2019-04-02 18:10:57+0530 > ls -la 
+2019-04-02 18:11:04+0530 > cd q<Tab><#+3><BckSp><LShft>Q<Tab><#+4>
+2019-04-02 18:11:10+0530 > ls
+2019-04-02 18:11:10+0530 > vi <LShft>Po<Tab><BckSp><#+31>ls -la
+2019-04-02 18:11:18+0530 > vi <LShft>P<Tab><#+3>
+2019-04-02 18:11:23+0530 > <Esc><LShft>:q<LShft>!
+2019-04-02 18:11:25+0530 > 
+2019-04-02 18:11:25+0530 > 
+2019-04-02 18:11:25+0530 > 
+2019-04-02 18:11:25+0530 > 
+2019-04-02 18:11:25+0530 > 
+2019-04-02 18:11:25+0530 > 
+2019-04-02 18:11:26+0530 > cd ..
+2019-04-02 18:11:32+0530 > 
+2019-04-02 18:11:32+0530 > <#+2>mdk<BckSp>k<BckSp><BckSp>d<BckSp>kdir <LShft>Yocto-<LShft>T<BckSp><BckSp>
+2019-04-02 18:11:44+0530 > cd <LShft>Y<Tab>
+2019-04-02 18:11:46+0530 > ls
+2019-04-02 18:11:47+0530 > mkdi <BckSp>r <LShft>Documents
+2019-04-02 18:11:53+0530 > cd <LShft>D<Tab><#+1>
+2019-04-02 18:11:55+0530 > ks
+2019-04-02 18:11:55+0530 > <BckSp><LCtrl>c
+2019-04-02 18:11:57+0530 > scp zumi<LShft>@192.168.1.40<LShft>:pwd
+2019-04-02 18:12:07+0530 > cd ../../
+2019-04-02 18:12:21+0530 > 
+2019-04-02 18:12:21+0530 > 
+2019-04-02 18:12:21+0530 > ls
+2019-04-02 18:12:22+0530 > mv <LShft>Q<Tab><#+3>w<Tab><BckSp> <LShft><BckSp><BckSp><BckSp><BckSp><LShft><BckSp>W<Tab><#+3>a<Tab> <LShft>Q<Tab><LShft>W<Tab><#+3>ave<Tab><#+1><BckSp><#+4><Left><#+10><BckSp><BckSp>-
+2019-04-02 18:12:42+0530 > ls
+2019-04-02 18:12:43+0530 > cd <LShft>Q<Tab><#+3><LShft>W<Tab><#+4>a<Tab><#+1>
+2019-04-02 18:12:49+0530 > ls
+2019-04-02 18:12:50+0530 > cd <LShft>Q<LShft>W<Tab><#+3>
+2019-04-02 18:12:53+0530 > ls
+2019-04-02 18:12:54+0530 > ls -la
+2019-04-02 18:13:03+0530 > pwd
+2019-04-02 18:13:08+0530 > <RShft><Ins>/mv <LShft>Po<Tab><#+3><LShft>P<Tab><#+3><Left><#+14><BckSp><BckSp><LShft>_
+2019-04-02 18:13:30+0530 > <RShft><Ins> .
+2019-04-02 18:13:41+0530 > yes
+2019-04-02 18:13:43+0530 > <#+2>zs10062013
+2019-04-02 18:13:46+0530 > <#+1>
+2019-04-02 18:13:47+0530 > 
+2019-04-02 18:13:47+0530 > vi <LShft>P<Tab><#+2>
+2019-04-02 18:14:33+0530 > <Esc><LShft>:q<LShft>!
+2019-04-02 18:14:35+0530 > 
+2019-04-02 18:14:35+0530 > 
+2019-04-02 18:14:36+0530 > <BckSp><#+1><LShft>Pori<BckSp>ting-<LShft>U<BckSp><BckSp><LShft>Porting<LCtrl>ssss<LCtrl>sssss
+
+Logging stopped at 2019-04-02 18:19:00+0530
+
