@@ -1,0 +1,149 @@
+Logging started ...
+
+2019-04-04 05:45:07+0530 > 
+2019-04-04 09:58:14+0530 > zs10062-<BckSp><BckSp><#+38>zs10062013
+2019-04-04 09:58:30+0530 > <#+2>
+2019-04-04 09:58:31+0530 > 
+2019-04-04 09:58:37+0530 > <#+41>
+2019-04-04 09:58:39+0530 > <Up>
+2019-04-04 09:58:40+0530 > <#+1>yes
+2019-04-04 09:58:42+0530 > <#+1>zs10062013
+2019-04-04 09:58:45+0530 > 
+2019-04-04 09:58:46+0530 > 
+2019-04-04 09:58:46+0530 > 
+2019-04-04 09:58:46+0530 > 
+2019-04-04 09:58:47+0530 > 
+2019-04-04 09:58:47+0530 > 
+2019-04-04 09:58:47+0530 > c;<BckSp>le<Tab>
+2019-04-04 09:58:49+0530 > 
+2019-04-04 09:58:49+0530 > 
+2019-04-04 09:58:49+0530 > cd <LShft>~/<LShft><LShft>Do<Tab><#+2><Tab>c<Tab><LShft>Vin<Tab><Tab><Tab><LShft>Q<BckSp><LShft>Re<Tab><#+2>
+2019-04-04 09:59:00+0530 > <Tab>ls
+2019-04-04 09:59:01+0530 > <RShft><Up>
+2019-04-04 09:59:15+0530 > <#+1>yes
+2019-04-04 09:59:16+0530 > <#+1>zs10062013
+2019-04-04 09:59:19+0530 > 
+2019-04-04 09:59:19+0530 > 
+2019-04-04 09:59:19+0530 > 
+2019-04-04 09:59:20+0530 > 
+2019-04-04 09:59:20+0530 > cle<Tab>
+2019-04-04 09:59:21+0530 > 
+2019-04-04 09:59:21+0530 > 
+2019-04-04 09:59:21+0530 > cd <LShft>~/<BckSp><#+13>ex<BckSp><BckSp>logout
+2019-04-04 09:59:28+0530 > cd<BckSp><BckSp><BckSp>mkdir <LShft>Logs
+2019-04-04 09:59:36+0530 > cd <LShft>Lo<Tab><#+1>
+2019-04-04 09:59:39+0530 > 
+2019-04-04 09:59:39+0530 > 
+2019-04-04 09:59:39+0530 > mkdir <LShft>inoth<BckSp><BckSp><BckSp><BckSp><BckSp><LShft>Vinoth<LShft>-logs
+2019-04-04 09:59:51+0530 > 
+2019-04-04 09:59:51+0530 > 
+2019-04-04 09:59:51+0530 > cd <LShft>V<Tab>
+2019-04-04 09:59:54+0530 > 
+2019-04-04 09:59:54+0530 > 
+2019-04-04 09:59:54+0530 > pwd
+2019-04-04 09:59:59+0530 > scp zumi<LShft>@192.16<BckSp>8<BckSp>168.1.42<LShft>:<RShft><Ins> .<BckSp><#+3><BckSp>/<RShft><Ins> .
+2019-04-04 10:00:30+0530 > <Up><Home><Right><Right><#+15><Right><Left><BckSp>
+2019-04-04 10:00:39+0530 > yes
+2019-04-04 10:00:41+0530 > <#+1>zs10062013
+2019-04-04 10:00:44+0530 > <Up><Left><Left><BckSp><#+38><BckSp><BckSp><BckSp><BckSp><BckSp>sa<RCtrl><PgUp><BckSp><BckSp><RShft><Ins>
+2019-04-04 10:00:56+0530 > yes
+2019-04-04 10:00:58+0530 > zs10062013
+2019-04-04 10:01:01+0530 > 
+2019-04-04 10:01:02+0530 > 
+2019-04-04 10:01:02+0530 > 
+2019-04-04 10:01:02+0530 > cd ../../
+2019-04-04 10:01:07+0530 > 
+2019-04-04 10:01:07+0530 > 
+2019-04-04 10:01:07+0530 > ls
+2019-04-04 10:01:08+0530 > mk<BckSp><BckSp><BckSp>cd <LShft>Q<Tab><#+1>
+2019-04-04 10:01:12+0530 > ls
+2019-04-04 10:01:12+0530 > 
+2019-04-04 10:01:13+0530 > 
+2019-04-04 10:01:13+0530 > 
+2019-04-04 10:01:13+0530 > <RCtrl><PgUp>cd
+2019-04-04 10:01:16+0530 > 
+2019-04-04 10:01:17+0530 > cd <LShft>~/<LShft>Do<Tab><#+4>w<Tab>
+2019-04-04 10:01:24+0530 > 
+2019-04-04 10:01:24+0530 > ls
+2019-04-04 10:01:24+0530 > ls -la sa<Tab><Tab><Tab><Tab><BckSp><BckSp><LShft>S<Tab><#+4><Tab><Tab><BckSp><BckSp> q<Tab><Tab>
+2019-04-04 10:01:39+0530 > 
+2019-04-04 10:01:39+0530 > 
+2019-04-04 10:01:39+0530 > pwd
+2019-04-04 10:01:42+0530 > <Up><Up><Up><Up><Up><Up><Up><Down><BckSp><#+62>wnloads/<RCtrl><PgUp><RShft><Ins> .
+2019-04-04 10:02:02+0530 > yes
+2019-04-04 10:02:03+0530 > <#+1>zs10062013
+2019-04-04 10:02:06+0530 > 
+2019-04-04 10:02:07+0530 > 
+2019-04-04 10:02:07+0530 > 
+2019-04-04 10:02:07+0530 > 
+2019-04-04 10:02:07+0530 > 
+2019-04-04 10:02:07+0530 > <LCtrl><BckSp><LCtrl>v<LCtrl>x<LCtrl>v<BckSp><LShft>Santa-<LShft>Docs
+2019-04-04 10:05:14+0530 > <LCtrl>x<LCtrl>v<PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgUp><PgUp><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgUp><PgDn><PgDn><PgDn><PgDn><PgUp><PgUp><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><#+5><PgUp><#+53><PgUp><#+14><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn>cd
+2019-04-04 10:07:03+0530 > 
+2019-04-04 10:07:03+0530 > 
+2019-04-04 10:07:03+0530 > 
+2019-04-04 10:07:03+0530 > cle<Tab>
+2019-04-04 10:07:04+0530 > 
+2019-04-04 10:07:05+0530 > <#+1>cd <LShft>~/<LShft>Do<Tab><Tab>c<Tab><LShft>Vi<Tab><#+1><Tab><Tab><LShft>Q<Tab><#+2><Tab>w<Tab><Tab><Tab><Tab>bu<Tab><#+3>2<BckSp>160<Tab><#+1><Tab><Tab>t<Tab><#+1><Tab><Tab>w<Tab><#+2>/<Tab><Tab><Tab>y<#+1><BckSp><#+12><BckSp><#+48><Tab><Tab><Tab><LShft>Q<Tab><Tab>w<Tab><Tab><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><Tab><Tab><Tab><Tab><LCtrl>fd<#+4>aa<BckSp>ta<RCtrl><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgDn><BckSp><BckSp>lo<LShft>Please send your logs, <BckSp><BckSp>. <LShft>I want to understand.
+2019-04-04 10:15:18+0530 > 
+2019-04-04 10:15:18+0530 > <LShft>Regars<BckSp>ds,
+2019-04-04 10:15:23+0530 > <LShft>Sa<BckSp>nthana<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>anthana <LShft>Kumar <LShft>S<RCtrl><PgUp><Tab><Tab><Tab><Tab><BckSp><#+5><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LCtrl>c
+2019-04-04 10:15:47+0530 > c
+2019-04-04 10:15:47+0530 > c
+2019-04-04 10:15:48+0530 > <Up><BckSp>3
+2019-04-04 10:16:32+0530 > yes
+2019-04-04 10:16:34+0530 > <#+1>zs10062013
+2019-04-04 10:16:37+0530 > cd <LShft>~/<LShft>Pr<Tab><LShft><BckSp><#+11><LShft>V<BckSp><LShft>Do<Tab><#+3>c<Tab><LShft>Vin<Tab><#+2><Tab><Tab><LShft>Q<Tab><#+2>w<Tab><Tab><Tab><Tab>bu<Tab><#+3>23<Tab><#+4><BckSp>4<Tab><Tab><Tab>t<Tab><#+2>wp<Tab><BckSp><Tab>o<Tab><BckSp>/<Tab><Tab>t42<Tab><#+5><Tab><Tab>
+2019-04-04 10:17:08+0530 > 
+2019-04-04 10:17:09+0530 > l
+2019-04-04 10:17:09+0530 > 
+2019-04-04 10:17:10+0530 > 
+2019-04-04 10:17:10+0530 > 
+2019-04-04 10:17:10+0530 > 
+2019-04-04 10:17:10+0530 > 
+2019-04-04 10:17:10+0530 > <LAlt><Tab><RShft><Ins>
+2019-04-04 10:20:27+0530 > cd u<Tab><#+1><Tab>-<Tab><#+1><Tab><Tab><Tab><Tab>gi<Tab>
+2019-04-04 10:23:02+0530 > 
+2019-04-04 10:23:02+0530 > ls
+2019-04-04 10:23:03+0530 > cd dr<Tab>mt<Tab><Tab><Tab>na<Tab><#+4><Tab><Tab>
+2019-04-04 10:23:12+0530 > 
+2019-04-04 10:23:12+0530 > ks
+2019-04-04 10:23:13+0530 > ls
+2019-04-04 10:23:14+0530 > vi <BckSp><BckSp><BckSp><BckSp>grep -rns <LMeta><Tab><Esc><Esc><LAlt><Tab><LAlt><Tab><LShft>"<RShft><Ins><LShft><Left><Right><LShft>"<Left><#+19><Left><LShft>"
+2019-04-04 10:23:29+0530 > vi <RShft><Ins>
+2019-04-04 10:23:38+0530 > /<RShft><Ins>
+2019-04-04 10:23:41+0530 > /f<BckSp><LShft>Flash time
+2019-04-04 10:23:49+0530 > <#+3>/<Up><BckSp><BckSp><BckSp><BckSp>
+2019-04-04 10:23:52+0530 > n<#+2><Up><#+40><Down><#+16><Up><RShft>*<#+1><Up><#+29><Down><#+8><Down><RShft>*<#+1><RShft>**<#+1><Up><#+28><Up><#+14><Up><#+11><Up><#+15><Down><#+9><Down><Down><Down><Down><#+48><Down><#+2><Down><LAlt><Tab><LAlt><Tab>/<RShft><Ins>
+2019-04-04 10:24:50+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab>/<RShft><Ins>
+2019-04-04 10:25:06+0530 > <LAlt><Tab><LAlt><Tab><Esc><#+2><LShft>:q<LShft>!
+2019-04-04 10:26:56+0530 > 
+2019-04-04 10:26:56+0530 > cd ../../../
+2019-04-04 10:26:59+0530 > 
+2019-04-04 10:26:59+0530 > 
+2019-04-04 10:26:59+0530 > cd <LAlt><Tab><LAlt><Tab>ar<Tab>o<BckSp>pow<Tab><LAlt><Tab><LAlt><Tab>inc<Tab>a<Tab><LAlt><Tab><LAlt><Tab><Up><Down><Home><Del><Del>vi<End><LAlt><Tab><LAlt><Tab>fs<Tab><#+4>if<Tab><Tab><Tab><Tab><BckSp><BckSp><Tab><Tab><Tab><BckSp><#+17><BckSp><#+25>locate fsl<LShft>_ifc.h
+2019-04-04 10:27:35+0530 > <#+3><LCtrl>c
+2019-04-04 10:27:38+0530 > <#+1>vi <RShft><Ins>
+2019-04-04 10:27:56+0530 > <LAlt><Tab><LAlt><Tab>/<LShft>NND<BckSp><BckSp>AND
+2019-04-04 10:28:01+0530 > <LAlt><Tab><LAlt><Tab>/<RShft><Ins>
+2019-04-04 10:28:14+0530 > <#+1><LAlt><Tab><LAlt><Tab><Down><#+29><Down><#+11><Down><#+11><LAlt><Tab><Down><#+11><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><Esc><#+1><LShft>:q<LShft>!
+2019-04-04 10:28:54+0530 > 
+2019-04-04 10:28:54+0530 > git status
+2019-04-04 10:28:57+0530 > <LAlt><Tab><LAlt><Tab>git did<BckSp>ff <RShft><Ins>
+2019-04-04 10:29:34+0530 > grep -rns <LShft>"<RShft><Ins><LShft>"
+2019-04-04 10:29:55+0530 > vi <RShft><Ins>
+2019-04-04 10:30:05+0530 > /<RShft><Ins>
+2019-04-04 10:30:06+0530 > <Esc><LShft>:q<LShft>!
+2019-04-04 10:30:19+0530 > <LAlt><Tab><LCtrl>fv<LShft>"<RShft><Ins><LShft>"
+2019-04-04 10:30:33+0530 > <RCtrl><PgDn><PgDn><LCtrl>fjack<RCtrl><PgUp><LAlt><Tab><LAlt><Tab><Tab><Up><Up><Up><Home><Del><Del><#+10><Del>vi
+2019-04-04 10:34:11+0530 > <LAlt><Tab><LAlt><Tab><Tab><LAlt><Tab><LAlt><Tab><Tab>/<RShft><Ins>
+2019-04-04 10:34:22+0530 > <Up><Down><Down><Up><Up><Down><#+19><Up><#+13><Up><Up><Up><Up><Up><Up><RShft>*<Up><#+55><Down><#+75><Up><#+20><Up><Up><Up><Up><Up><Up><Up><Up><Down><Down><Up><Up><Down><Down><Up><Up><Down><Up><Down><Up><Down><Up><Down><Up><Up><#+13><Up><#+51><Down><#+24><Down><#+15><Down><#+20><LAlt><Tab><LAlt><Tab><LAlt><Tab><Tab><LAlt><Tab><Up><#+20><LAlt><Tab><LAlt><Tab>n<#+2>n<#+2><Down><#+20><Down><#+15><Down><Up><#+9><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><Down><#+10><Down><Down><Down><Tab><LAlt><Tab><Down><#+21><LAlt><Tab><Up><#+23><Up><Up><RShft>*/<RShft><Ins>
+2019-04-04 10:36:52+0530 > <LAlt><Tab><Tab><LCtrl>fv<LAlt><Tab><LAlt><Tab><Tab><LCtrl>fv<LAlt><Tab><LAlt><Tab><LCtrl>fv/<RShft><Ins>
+2019-04-04 10:38:34+0530 > <LCtrl>f<BckSp><LCtrl>a<Del><LAlt><Tab><LAlt><Tab>fsl<LShft>_ifc<LShft>_wiar<BckSp><BckSp><BckSp>at<BckSp>it
+2019-04-04 10:39:11+0530 > <LAlt><Tab><Tab><Esc><LShft>:q<LShft>!
+2019-04-04 10:39:32+0530 > 
+2019-04-04 10:39:32+0530 > 
+2019-04-04 10:39:33+0530 > 
+
+Logging stopped at 2019-04-04 10:39:43+0530
+
