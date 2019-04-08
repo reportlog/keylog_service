@@ -1,0 +1,72 @@
+Logging started ...
+
+2019-04-07 05:33:55+0530 > <RShft><RCtrl><RShft><RShft><RCtrl><RShft><RShft><Left><#+7>zs10062013
+2019-04-08 09:41:10+0530 > <LShft>Yes its<BckSp>'s core<BckSp>rect <BckSp>, <LShft>Flash ta<BckSp><#+10><BckSp><LShft>In <LShft>Nand <LShft>Flash table y<BckSp>, we have to add the flash able id or not<Left><#+12><Up><End><Left><#+9>t<Right><#+9><Right><#+1><Right><Right><Right><Right><Right><Right><Right><Right><Right><LShft>? <LShft>Please et<BckSp><BckSp>tell<BckSp><#+10><BckSp><BckSp><BckSp><BckSp><BckSp><Up><Right><#+35><Right><Left><BckSp><BckSp><BckSp>our<Down><Left><#+20><Left><#+14><Down><Up><Down><Right><#+5><Left><#+3><Left><#+16><Up><Right><#+2><Down><Right><#+8><Right><Right> for <LShft>O<BckSp>our device 
+2019-04-08 09:43:53+0530 > z<#+4><Down><Down><Down><Up><Up><Down><Down><Up><Down><Down><Down><#+1><Down><Down><Down><Down><Down><Down><Up><Up><Up><Down><Up><Up><Down><Down><Up><Down><Down>g
+2019-04-08 10:13:53+0530 > non vola<Down>
+2019-04-08 10:13:57+0530 > 
+2019-04-08 10:19:37+0530 > <#+19><Up><#+2>
+2019-04-08 10:19:39+0530 > <#+3><Up><BckSp>3
+2019-04-08 10:19:43+0530 > <#+2><LCtrl>c
+2019-04-08 10:19:44+0530 > <Up><BckSp><BckSp>34
+2019-04-08 10:19:47+0530 > <#+3>yes
+2019-04-08 10:19:50+0530 > zs10062013
+2019-04-08 10:19:55+0530 > <#+3>
+2019-04-08 10:19:56+0530 > 
+2019-04-08 10:19:56+0530 > 
+2019-04-08 10:19:57+0530 > <Up>
+2019-04-08 10:19:59+0530 > <#+1>yes
+2019-04-08 10:20:01+0530 > zs10062013
+2019-04-08 10:20:04+0530 > <#+1>
+2019-04-08 10:20:05+0530 > 
+2019-04-08 10:20:05+0530 > <Up><BckSp><BckSp>36
+2019-04-08 10:20:34+0530 > yes
+2019-04-08 10:20:36+0530 > zs1007<BckSp>62013
+2019-04-08 10:20:41+0530 > <#+1><LCtrl>c
+2019-04-08 10:20:43+0530 > <Up>
+2019-04-08 10:20:46+0530 > yes
+2019-04-08 10:20:47+0530 > <#+2>zs10062013
+2019-04-08 10:20:50+0530 > <#+1>
+2019-04-08 10:20:51+0530 > 
+2019-04-08 10:20:51+0530 > cd <LShft>~/<LShft>Doc<Tab><#+1><LShft>Vin<Tab><#+3><Tab><LShft>Qw<Tab><Tab><Tab><Tab>bu<Tab><#+3>24<Tab><#+3><Tab><Tab>tmp<Tab><#+1>wor<Tab><#+1>/<Tab><Tab><Tab>t42<Tab><#+5>
+2019-04-08 10:21:11+0530 > <#+20>;s<BckSp><BckSp><BckSp>ls
+2019-04-08 10:21:14+0530 > <#+1>
+2019-04-08 10:21:14+0530 > 
+2019-04-08 10:21:14+0530 > cd lin<Tab><#+3>
+2019-04-08 10:21:18+0530 > 
+2019-04-08 10:21:18+0530 > 
+2019-04-08 10:21:18+0530 > <#+22>l<BckSp><BckSp>cd <Tab><Tab><Tab>git<Tab>
+2019-04-08 10:21:24+0530 > 
+2019-04-08 10:21:24+0530 > 
+2019-04-08 10:21:24+0530 > <#+10>ls
+2019-04-08 10:21:26+0530 > <#+12>cd dr<Tab><BckSp><#+18>vi dr<Tab><#+1>mtc<Tab><#+1><BckSp>d<Tab>na<Tab><Tab><Tab>fs<Tab><#+5><Tab>l<Tab>if<Tab>
+2019-04-08 10:21:42+0530 > <#+2><PgDn><PgDn><PgDn><PgDn><LAlt><Tab><LCtrl>fv<#+1><LCtrl>f<Del><BckSp><Esc><LAlt><Tab><LAlt><Tab><Tab><LAlt><Tab><Tab>g
+2019-04-08 10:40:29+0530 > <RShft><Ins> <Down>
+2019-04-08 10:40:31+0530 >  <Home>what o<Down>
+2019-04-08 10:40:42+0530 > <PgDn><Down><Down><#+3><Down><Down><Down><#+11><Down><Up><#+14><Up><Down><Down><Down><Down><Down><Down><Down><Down><#+10><Down><Down><Down><BckSp>how to check nand parmaters ub<BckSp><BckSp>in ;i<BckSp><BckSp>linux 
+2019-04-08 10:48:42+0530 > g
+2019-04-08 10:49:10+0530 > nand page buff<Down>
+2019-04-08 10:49:15+0530 > g
+2019-04-08 10:50:03+0530 > <#+2>non vola<Down>
+2019-04-08 10:50:08+0530 > <LCtrl><CpsLk><Del><RShft><Ins><Home><Right><#+17><Right><Right><BckSp><#+19>
+2019-04-08 10:51:13+0530 > <#+4><LCtrl>FV<#+2><LAlt><Tab>G
+2019-04-08 11:11:15+0530 > T4240RDB-R<BckSp><BckSp> NOR FAL<BckSp><BckSp>LASH<CpsLk>
+2019-04-08 11:11:29+0530 > <#+2><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgUp>g
+2019-04-08 11:25:08+0530 > pset <#+1>b<#+1>s<BckSp>g
+2019-04-08 11:25:37+0530 > pe<BckSp>set bang
+2019-04-08 11:34:57+0530 > embedded government<Down>
+2019-04-08 11:35:05+0530 > g
+2019-04-08 11:45:04+0530 > g
+2019-04-08 11:45:15+0530 > <#+2>pesit tamilnadu
+2019-04-08 11:45:24+0530 > g
+2019-04-08 11:46:38+0530 > <LShft>If <LShft>I clear comedkg<BckSp>uget
+2019-04-08 11:46:50+0530 > <#+2> <Left><#+12><Left><Left>ed<End> fees will ho<BckSp>igh or low
+2019-04-08 11:47:15+0530 > <#+2>g
+2019-04-08 11:50:53+0530 > where i want to do ece bachelor 
+2019-04-08 11:51:08+0530 > <#+1>  enginne<BckSp><BckSp>eering collegs<BckSp>e<BckSp>es
+2019-04-08 11:51:25+0530 > g
+2019-04-08 11:52:14+0530 > cbse board counsellu<Down>
+2019-04-08 11:52:23+0530 > g
+2019-04-08 11:52:42+0530 > cbse board counselling cl<BckSp>oleges
+2019-04-08 11:52:53+0530 > cbse<#+1> st<BckSp><#+16>how cbse student <BckSp>s get into a iit colleges
+2019-04-08 11:57:20+0530 > 
