@@ -1,0 +1,55 @@
+Logging started ...
+
+2019-04-10 12:49:05+0530 > <Up><Up><Up>
+2019-04-10 12:53:27+0530 > <Esc><F5><F5><F5><F5><F5><F5><F5><F5><F5><Esc>v<LShft>Kernel<LAlt><Tab><LAlt><Tab><LAlt><Tab><KP-><#+3><KP+><KP6><KP9>cd ../
+2019-04-10 13:17:09+0530 > ls
+2019-04-10 13:17:10+0530 > cd g<Tab>
+2019-04-10 13:17:12+0530 > <Up><Up><Up><Up><Up><Down><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down>
+2019-04-10 13:17:26+0530 > /ddr2
+2019-04-10 13:17:31+0530 > <RShft>:q
+2019-04-10 13:17:38+0530 > <Up><LCtrl>a<Del><Del><Del>git diff
+2019-04-10 13:17:45+0530 > <LCtrl>l
+2019-04-10 13:17:48+0530 > 
+2019-04-10 13:17:48+0530 > <Up><Up>
+2019-04-10 13:17:55+0530 > /<Up>
+2019-04-10 13:17:57+0530 > <Down><#+6><Up><Down><Down><Up><#+10><Left><#+24><Up><Left><Del><Del><Down><Down><Down><Down><Down><Right><#+17>i<Right>
+2019-04-10 13:18:07+0530 > /<LShft>*<LCtrl><Esc><RShft>:wq
+2019-04-10 13:18:13+0530 > <RCtrl><RCtrl><LShft><CpsLk><#+35>SY<LShft><LShft>cOMW <BckSp><BckSp><#+15><CpsLk><LShft>Comr <BckSp><BckSp>e to <LShft>Watsup<BckSp><BckSp><BckSp><BckSp><BckSp>hatsappg
+2019-04-10 15:51:30+0530 > imitate<LCtrl>aoers<BckSp><BckSp><BckSp><BckSp><BckSp>persuade<LShft>What us <BckSp><BckSp><BckSp>is the status it <BckSp><BckSp><BckSp>os <BckSp><BckSp><BckSp>id<BckSp>s it boot <BckSp>ing properly ie <BckSp><BckSp><BckSp>or nt<BckSp><BckSp>n<#+1>i<BckSp>ot <RShft>?<Left><BckSp><Down>
+2019-04-10 15:53:39+0530 > <Up><Up>
+2019-04-10 15:53:40+0530 > <Up><Up><Up><LShft>Hi,
+2019-04-10 15:53:44+0530 > , ]<BckSp><BckSp><RShft>I<End>
+2019-04-10 15:54:04+0530 > 
+2019-04-10 15:54:05+0530 > <LShft>If ir <BckSp><BckSp>t ok <LShft>I will give one<BckSp><BckSp><BckSp>e<BckSp>latest eboot with 2 ddr controller .<Left><Right><Right><Right><Right><Right> and k<BckSp>linux<Left><#+9><Right><Right><Right><Left><#+13><Left><Left><LShft><Left><Left><Left><Left><Left>E-boot<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>u-boot<Right><#+10><Left><Right><Right><Del><LShft>L<Right><#+11><Right><Right><Right><Right><Right><Right><LShft><Right><Right><Right>DDRdtb <LShft>Ok <LShft>Logi,
+2019-04-10 16:20:43+0530 > 
+2019-04-10 16:20:43+0530 > <LShft>I will senf<BckSp>d <BckSp><#+8><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><Up>
+2019-04-10 16:21:01+0530 > /<Up>
+2019-04-10 16:21:02+0530 > <RShft>:q
+2019-04-10 16:21:05+0530 > <Up><Up>
+2019-04-10 16:21:10+0530 > <Up><Up>
+2019-04-10 16:21:49+0530 > <LCtrl><LCtrl>c
+2019-04-10 16:23:24+0530 > <LAlt><Tab><RShft><Ins>
+2019-04-10 16:24:14+0530 > <Up><Left><#+10><Left><BckSp><#+15><BckSp><BckSp><BckSp><BckSp>
+2019-04-10 16:24:30+0530 > <F5><F5><F5><F5><F5><F5><F5><Esc><Esc><Esc><Esc><Esc><Esc><Esc><Esc><Esc><Esc><Esc><LAlt><Tab>rm -rf <LShft>*
+2019-04-10 16:26:51+0530 > ls
+2019-04-10 16:26:52+0530 > <LAlt><Tab><LAlt><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Up><Up><Up><Up>
+2019-04-10 16:27:00+0530 > <Up><Up><Up><Up>
+2019-04-10 16:27:38+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><Esc><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><F5><F5><F5><LCtrl><LAlt><Tab><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LShft>Logi,
+2019-04-10 16:31:00+0530 > 
+2019-04-10 16:31:00+0530 > <LShft>Pleas<BckSp><BckSp><BckSp><BckSp><BckSp><LShft>Flash this image <BckSp>s includes ddr2 <BckSp><BckSp><BckSp><BckSp><BckSp>2ddr <BckSp><BckSp><BckSp><BckSp> ddr3 controllers and give your feedback<Right> which<LAlt><Tab><LAlt><Tab>cd .<BckSp><#+18><LCtrl><LShft>Tcd so<Tab><BckSp><#+3><BckSp>../so<Tab>me<Tab><BckSp><BckSp><Tab>d<BckSp>f<Tab>e<Tab><BckSp>r<Tab>/<Tab><Tab>ma<Tab>xc<Tab><BckSp><BckSp><Tab>c<Tab><BckSp><BckSp><BckSp>co<Tab>ma<Tab>
+2019-04-10 16:32:32+0530 > ls
+2019-04-10 16:32:33+0530 > vim <BckSp><#+28><BckSp><BckSp><RShft><Ins>
+2019-04-10 16:32:43+0530 > e<Down><#+15><Down><Down><Down><Down><Down><Down><Down><Down><Down><#+22><Up><#+16><Up><Up><Up><Up><Down><Right><#+21><Right><Left>i<BckSp><BckSp><BckSp><BckSp>nor<Esc><RShft>:wq
+2019-04-10 16:33:05+0530 > cd ../...<BckSp>
+2019-04-10 16:33:18+0530 > <Up>
+2019-04-10 16:33:19+0530 > cd wo<Tab><Tab><BckSp><BckSp><BckSp><BckSp><#+12>cd bu<Tab>2<Tab>wo<Tab><BckSp><BckSp>t<Tab><Tab><Tab>wo<Tab>/<Tab><Tab>t<Tab>u<Tab><BckSp><Tab><Tab>y<BckSp>u-<Tab><Tab>
+2019-04-10 16:33:42+0530 > ls
+2019-04-10 16:33:43+0530 > cd d<Tab>u<Tab>
+2019-04-10 16:33:47+0530 > ls
+2019-04-10 16:33:47+0530 > rm -rf <LShft>(<BckSp><LShft>*
+2019-04-10 16:33:52+0530 > <Up><Up>
+2019-04-10 16:33:56+0530 > <Up><Up><Up><Up><Up>
+2019-04-10 16:34:17+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><Up><Up><Up><Up><Up>
+2019-04-10 16:34:41+0530 > <LAlt><Tab><LAlt><Tab><Tab><F5><F5><F5><F5><LAlt><Tab><LAlt><Tab><LAlt><Tab>right<BckSp><#+17>is it wright<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>rightg
+2019-04-10 16:44:19+0530 > wise<LCtrl>c
+2019-04-10 18:39:59+0530 > <LCtrl><LCtrl>f<LCtrl>v
