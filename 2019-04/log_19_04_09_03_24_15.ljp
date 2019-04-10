@@ -1,0 +1,166 @@
+Logging started ...
+
+2019-04-09 15:24:15+0530 > <PgUp><F5><PgDn><#+5><PgDn><PgDn><PgDn><F5><F5><RCtrl><PgDn><PgDn><F5><RCtrl><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><#+4><PgUp><PgUp><PgUp><PgDn><F5><RCtrl><PgUp><F5><RCtrl><PgUp><PgUp><PgUp><PgUp><PgDn><F5><PgDn><PgUp><PgUp><PgUp><PgUp><PgUp><PgDn><PgDn><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><F5><RCtrl><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgDn><PgUp><F5><RCtrl><PgUp><PgUp><PgDn><PgDn><PgUp><F5><PgUp><PgUp><PgUp><PgDn><F5><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><F5><PgUp><PgUp><PgUp><F5><PgUp><PgUp><F5><RCtrl><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgUp><PgDn><PgDn><PgDn><PgUp><RCtrl><PgDn><LAlt><Tab><LAlt><Tab><LAlt><Esc><Up>
+2019-04-09 15:26:22+0530 > <#+4>yes<BckSp><#+13><LCtrl>c
+2019-04-09 15:26:26+0530 > <Up><BckSp>6
+2019-04-09 15:26:28+0530 > <#+2>yes
+2019-04-09 15:26:30+0530 > <#+3>zs10062013
+2019-04-09 15:26:34+0530 > <#+4>
+2019-04-09 15:26:34+0530 > 
+2019-04-09 15:26:35+0530 > cle<Tab>
+2019-04-09 15:26:36+0530 > 
+2019-04-09 15:26:36+0530 > cd <LShft>~/<LShft>Doc<Tab><#+4>v<Tab><BckSp><LShft>Vin<Tab><#+2><LShft>Qw<Tab><#+1><Tab><Tab><Tab>bu<Tab><#+4>2<Tab><#+1><Tab><Tab>tm<Tab><#+1>wo<Tab><#+1>/<Tab><Tab>t42<Tab><#+1><Tab><Tab>
+2019-04-09 15:26:55+0530 > <#+15>ls
+2019-04-09 15:26:57+0530 > <#+4>
+2019-04-09 15:26:58+0530 > 
+2019-04-09 15:26:58+0530 > <LAlt><Tab><LAlt><Tab> m<LCtrl><LShft>T<Up>
+2019-04-09 15:52:31+0530 > <LCtrl>c
+2019-04-09 15:52:33+0530 > <Up><Up><BckSp>6
+2019-04-09 15:52:35+0530 > <#+1>yes
+2019-04-09 15:52:37+0530 > zs10062013<#+1>
+2019-04-09 15:52:41+0530 > <#+1>
+2019-04-09 15:52:41+0530 > 
+2019-04-09 15:52:41+0530 > cle<Tab>
+2019-04-09 15:52:43+0530 > cd <LShft>~/<LShft>Pr<Tab><LShft>A<Tab>a<Tab>de<BckSp>ha<Tab><BckSp><BckSp><BckSp>ha<Tab><#+1><Tab><Tab>imx<Tab><Tab><Tab><Tab>
+2019-04-09 15:52:56+0530 > ;s
+2019-04-09 15:52:57+0530 > ls
+2019-04-09 15:52:58+0530 > vi ath<Tab><#+3>
+2019-04-09 15:53:01+0530 > <#+1><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn>/open
+2019-04-09 15:53:08+0530 > n<#+2>n<#+2>n<#+3><Down><#+31><Up><#+13><Up><Up><Down><#+16><Up><#+12><Up><Up><Up><Up><Up><Down><Down><Down><Down><Down><Down><#+16><Down><Down><Down><Down><Down><Down><Down><Down><#+10><Down><Down><Up><#+21><Up><Up><Up><Down><Down><Down><Down><Down><Down><Down><#+9><Down><#+16><Down><Down><Down><Down><Esc><#+1><LShft>"<Esc><LShft>:q<LShft>!
+2019-04-09 15:53:39+0530 > 
+2019-04-09 15:53:40+0530 > 
+2019-04-09 15:53:40+0530 > <LAlt><Tab>g
+2019-04-09 16:24:01+0530 > j<BckSp>ho w<BckSp><BckSp>w o give excep<#+1>tion in kernel<Left><#+12> error <Left><#+8><Left><Left><Left><BckSp>
+2019-04-09 16:24:19+0530 >  <#+1>code
+2019-04-09 16:25:18+0530 > g
+2019-04-09 16:26:20+0530 > pointer excepri<BckSp><Down> <Down><Down><Down><Down> in kernel<Down>
+2019-04-09 16:26:35+0530 > <BckSp>null poiinyer<Down> in c<BckSp>kerne<Down>
+2019-04-09 16:28:07+0530 > man ioctl
+2019-04-09 16:29:29+0530 > <#+2><LAlt><Tab><LAlt><Tab><LAlt><Tab>q<Up><Up>
+2019-04-09 16:32:38+0530 > /ra<BckSp>ead<LShft>(
+2019-04-09 16:32:41+0530 > n<#+1>n<#+1>n<#+1>n<#+1>n<#+2><Esc><LAlt><Tab><LAlt><Tab><Esc><LShft>:q<LShft>!
+2019-04-09 16:32:51+0530 > 
+2019-04-09 16:32:51+0530 > <LAlt><Tab><LAlt><Tab><Up>
+2019-04-09 16:44:24+0530 > /sprintf
+2019-04-09 16:44:27+0530 > <#+3>n<#+3>n<#+1>n<#+1><LAlt><Tab><LAlt><Tab><Tab><#+1><LAlt><Tab><LAlt><Tab><Esc><LShft>;<Esc><LShft>:q<LShft>!
+2019-04-09 16:44:58+0530 > 
+2019-04-09 16:44:58+0530 > vi ../../../devic<Tab><#+1>fs<Tab>e<Tab>6s<Tab>in<Tab>r<Tab>
+2019-04-09 16:45:09+0530 > /athr<LShft>_hook
+2019-04-09 16:45:13+0530 > /hook
+2019-04-09 16:45:16+0530 > <Esc><LShft>:q<LShft>!
+2019-04-09 16:45:19+0530 > 
+2019-04-09 16:45:19+0530 > 
+2019-04-09 16:45:20+0530 > <LAlt><Tab>zumi<LShft><LShft>@2345582
+2019-04-09 16:57:42+0530 > <#+1>zumi2345582
+2019-04-09 16:57:54+0530 > <#+1><End>sazumi<LShft>@2345582
+2019-04-09 16:58:31+0530 > zumi2=<LShft>@=<BckSp><#+16>zumi<LShft>@2345582
+2019-04-09 16:58:45+0530 > <#+3>sazumi<LShft>@2345582
+2019-04-09 16:59:05+0530 > <#+1>cd ../../../
+2019-04-09 17:11:27+0530 > 
+2019-04-09 17:11:27+0530 > 
+2019-04-09 17:11:28+0530 > cd ve<Tab>nxp-<Tab><#+3>ker<Tab>
+2019-04-09 17:11:33+0530 > 
+2019-04-09 17:11:33+0530 > 
+2019-04-09 17:11:33+0530 > ls
+2019-04-09 17:11:34+0530 > g
+2019-04-09 17:11:58+0530 > imx unit te<Down>
+2019-04-09 17:12:03+0530 > <LAlt><Tab>locate wdt<RShft>_driver<RShft>_test
+2019-04-09 17:13:06+0530 > <LCtrl>c
+2019-04-09 17:13:08+0530 > vim <LShft><Ins>
+2019-04-09 17:13:13+0530 > <Down><#+44><Down><#+13><Down><Down><Down><#+7><Down><#+5><Up><#+36><Down><#+27><Down><#+10><Up><#+44>/test
+2019-04-09 17:13:59+0530 > vn<Esc>uu<RCtrl><Down><#+25>ls
+2019-04-09 17:14:38+0530 > cd ;li<BckSp><BckSp><BckSp>li<Tab><Tab><Tab><Tab>go<BckSp>i<Tab>
+2019-04-09 17:14:46+0530 > 
+2019-04-09 17:14:46+0530 > ls
+2019-04-09 17:14:47+0530 > 
+2019-04-09 17:14:47+0530 > 
+2019-04-09 17:14:48+0530 > ls
+2019-04-09 17:14:50+0530 > 
+2019-04-09 17:14:50+0530 > 
+2019-04-09 17:14:50+0530 > 
+2019-04-09 17:14:50+0530 > 
+2019-04-09 17:14:51+0530 > vim <BckSp><BckSp><BckSp><BckSp><BckSp>cd dr<Tab>wa<Tab>
+2019-04-09 17:14:57+0530 > vim im<Tab><Tab>x<Tab>
+2019-04-09 17:15:01+0530 > /<LShft><Ins><BckSp>
+2019-04-09 17:15:11+0530 > <PgDn><PgDn>./write
+2019-04-09 17:15:24+0530 > nnnnnnnnnnnnn/<RShft>_open
+2019-04-09 17:15:34+0530 > <PgDn><#+19><PgUp><Up><Up><Up><Up><Up><Up><Up><Up><Down><Up><Up><Up><Up><Up><Down><Down><Down><Down><Down><Up><Down><Down><Down><Down><Right><#+40><Right><Right><Right><Right><RShft>*<Down><#+34><Down><#+10><Down><#+8><Down><#+7><Up><#+7><Up><Up><#+5><Up><Up><Down><#+19><Up><Down><#+16><Down><#+19><Up><#+55><Down><#+17><Up><#+11><Up><Up><Up><Up><Right><#+13><RShft>*<Down>/<LShft><Ins>
+2019-04-09 17:16:40+0530 > <RShft>:q
+2019-04-09 17:16:42+0530 > 
+2019-04-09 17:16:42+0530 > 
+2019-04-09 17:16:42+0530 > grep <LShft><Ins> <RShft>* -r
+2019-04-09 17:16:45+0530 > <Up><Up><LShft><PgUp><PgDn>vo, <BckSp><#+28>vim s<BckSp>wd<Tab>t<Tab>.c<Tab>
+2019-04-09 17:17:11+0530 > /<LShft><Ins>
+2019-04-09 17:17:15+0530 > <Down><Down><Down><Down><Down>/<RShft>_write
+2019-04-09 17:17:40+0530 > <RShft>*<Down><#+30><Up><Up><Up><Up><Right><Right><RShft>*nnnn<Down><#+1><Down><Down><Down><Down><Down>nn<RShft>:q
+2019-04-09 17:18:22+0530 > <Up><Up><Up>
+2019-04-09 17:18:25+0530 > n/<Up><Up><Up><Up><Down><Up><Up>
+2019-04-09 17:18:34+0530 > <Down><Down><Down><Down><Left><#+2><Down><RShft>*nnnnnnn<Up><RShft>*<PgDn><PgUp><PgUp><Up><#+17><Up><Up><Up><Up><Up><Up><Up><Right><#+21><Down><Down><Left><#+14><RShft>*<Down><Down><Down><Down><Down><Down><Up><RShft>*<Right><Right><Right><Up><Up><Up><Up><Up><Up><Up><Up><Up><RShft>*<Left><Left><Left><Left><Left><RShft>*nnnnn<Up><#+31><Down><#+30>nnnnnnn<Up><Up><Up><Up><Up><Up><Up><RShft>*<LAlt><Tab><Up>
+2019-04-09 17:26:04+0530 > <#+2><LCtrl>c
+2019-04-09 17:26:06+0530 > <Up><BckSp>6
+2019-04-09 17:26:08+0530 > ye
+2019-04-09 17:26:09+0530 > <#+3>yes
+2019-04-09 17:26:11+0530 > zs10062013
+2019-04-09 17:26:15+0530 > <#+2>
+2019-04-09 17:26:15+0530 > 
+2019-04-09 17:26:15+0530 > locat e<BckSp><BckSp>e <RShft><RShft><Ins>
+2019-04-09 17:26:19+0530 > <LCtrl>c
+2019-04-09 17:26:21+0530 > vi <RShft><Ins>
+2019-04-09 17:26:27+0530 > <PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><Esc><LShft>:q<LShft>!
+2019-04-09 17:26:36+0530 > 
+2019-04-09 17:26:36+0530 > 
+2019-04-09 17:26:36+0530 > 
+2019-04-09 17:26:36+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><BckSp>g
+2019-04-09 17:49:36+0530 > <#+2><LShft>Vood
+2019-04-09 17:49:38+0530 >  alexa<BckSp><BckSp><BckSp><BckSp><BckSp> a<BckSp>device
+2019-04-09 17:49:57+0530 > <#+1>g
+2019-04-09 17:51:13+0530 > s<#+2>erena<#+1> tech<BckSp><#+19>differen<BckSp>ece<BckSp><BckSp><BckSp><BckSp>ence between iot and device dr<Down>
+2019-04-09 17:51:38+0530 > <Esc><LShft>:<BckSp><LCtrl><LShft>T<Up>
+2019-04-09 17:59:47+0530 > yes
+2019-04-09 17:59:48+0530 > <#+2>zs10062013
+2019-04-09 17:59:51+0530 > <#+1><LAlt><Tab><BckSp>firmware <Left><#+13><Right><#+14>sor<BckSp>urce coed<BckSp><BckSp>de for device dro<BckSp><BckSp><BckSp>
+2019-04-09 18:00:57+0530 > cd <LShft>~/<LShft>Pr<Tab><#+1><LShft>A<Tab>a<Tab>
+2019-04-09 18:02:22+0530 > 
+2019-04-09 18:02:22+0530 > ls
+2019-04-09 18:02:23+0530 > cd de<Tab><#+3><BckSp><#+14>locate <BckSp><#+20>cd <BckSp><BckSp><BckSp>vi de<Tab><#+2>i<Tab>fs<Tab>e<Tab>6<Tab><LShft>B<Tab><#+1>
+2019-04-09 18:02:41+0530 > 
+2019-04-09 18:02:41+0530 > <PgDn><Esc><LShft>:q<LShft>!
+2019-04-09 18:03:20+0530 > 
+2019-04-09 18:03:20+0530 > 
+2019-04-09 18:03:20+0530 > <Up><Left><#+19><Right><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>s<Tab><#+5>sd<Tab><#+3>6d<Tab>
+2019-04-09 18:03:29+0530 > <#+1><PgDn><Esc><LShft>:q<LShft>!
+2019-04-09 18:03:41+0530 > 
+2019-04-09 18:03:41+0530 > cd
+2019-04-09 18:03:42+0530 > 
+2019-04-09 18:03:42+0530 > cd my<Tab><#+2>de<Tab><#+2>i<Tab>fs<Tab><#+2>/sa<Tab><#+4>sd<Tab><#+2>6d<Tab><#+1>
+2019-04-09 18:03:50+0530 > 
+2019-04-09 18:03:50+0530 > 
+2019-04-09 18:03:51+0530 > vi <LShft>B<Tab>
+2019-04-09 18:03:52+0530 > 
+2019-04-09 18:03:53+0530 > <PgDn><#+1><Down><#+20><Down><Down><Down><Right><#+58><Right><Right><Right><Right><Right><Left><#+8><Right><#+3><Left><BckSp>.bin<LAlt><Tab><Esc><LShft>:q<LShft>!
+2019-04-09 18:04:22+0530 > 
+2019-04-09 18:04:22+0530 > 
+2019-04-09 18:04:22+0530 > locate <RShft><Ins>
+2019-04-09 18:04:24+0530 > <LCtrl>c
+2019-04-09 18:04:28+0530 > <#+1>vi <RShft><Ins><BckSp><#+18><BckSp><#+13><BckSp><BckSp><BckSp><Tab><Tab><LShft>A<Tab><#+2>
+2019-04-09 18:04:41+0530 > <Esc><#+1><LShft>:q<LShft>!
+2019-04-09 18:04:43+0530 > <Up><BckSp><#+12><BckSp><BckSp><Up><Up><Down><Down><Down><Up><Tab><Tab>f<Tab><Tab><Tab><BckSp>how to edi bcm firmware source code
+2019-04-09 18:05:15+0530 > <#+3><Right>t
+2019-04-09 18:05:21+0530 > g
+2019-04-09 18:09:42+0530 > convp
+2019-04-09 18:09:44+0530 > .com
+2019-04-09 18:09:50+0530 > g
+2019-04-09 18:11:09+0530 > cat brand\<BckSp>
+2019-04-09 18:11:14+0530 >  sg
+2019-04-09 18:14:31+0530 > ca<#+1>ter<Down><Down>
+2019-04-09 18:14:34+0530 >  shoe<BckSp><#+17> shoes
+2019-04-09 18:14:42+0530 > g
+2019-04-09 18:14:50+0530 > <#+2>how to buy shipping shoes in ban<Down><Down>
+2019-04-09 18:15:00+0530 > <Left><#+9><Left><Left>ill<BckSp><BckSp>egal <Left><Left><Left><Left><Left>l
+2019-04-09 18:15:30+0530 > =<BckSp>bin <BckSp><BckSp><BckSp><BckSp><BckSp>.bin 
+2019-04-09 18:27:20+0530 > <#+2><LShft>"<Home><LShft>"
+2019-04-09 18:27:25+0530 > g
+2019-04-09 18:28:23+0530 > what is frimware.bin <Down>
+2019-04-09 18:28:32+0530 >  in linux devices
+2019-04-09 18:28:45+0530 > v56v<#+3>5<#+30>
+2019-04-10 07:52:02+0530 > 
