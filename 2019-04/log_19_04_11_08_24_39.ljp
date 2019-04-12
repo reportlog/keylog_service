@@ -1,0 +1,92 @@
+Logging started ...
+
+2019-04-11 08:24:39+0530 > zs10062013
+2019-04-11 09:30:44+0530 >  0<Down><LCtrl>c
+2019-04-11 11:47:00+0530 > <LCtrl>l
+2019-04-11 11:47:09+0530 > <#+11>grep -inr <RShft>""<Left><RShft><Ins><Right> <LShft>*
+2019-04-11 11:47:17+0530 > ls
+2019-04-11 11:47:28+0530 > cd <BckSp><#+18><RShft><Ins><RShft>" <LShft>*<LCtrl>a<RShft>"<Up><Down><Left><Left><Left><Left><#+35>grep -inr 
+2019-04-11 11:47:47+0530 > <LCtrl>c
+2019-04-11 11:48:18+0530 > <Up><Left><Left><Left><Left><Right><BckSp>
+2019-04-11 11:48:21+0530 > <LCtrl>c
+2019-04-11 11:48:25+0530 > ls
+2019-04-11 11:48:27+0530 > cd d<Tab>
+2019-04-11 11:48:29+0530 > ls
+2019-04-11 11:48:30+0530 > cd m<Tab><Tab>t<Tab>
+2019-04-11 11:48:33+0530 > ls
+2019-04-11 11:48:34+0530 > <Up><Up><Up><Up><Up><Up>
+2019-04-11 11:48:40+0530 > 
+2019-04-11 11:48:42+0530 > 
+2019-04-11 11:48:42+0530 > cd ../
+2019-04-11 11:48:45+0530 > <Up><Up>
+2019-04-11 11:48:47+0530 > cd ../../
+2019-04-11 11:49:04+0530 > <Up>
+2019-04-11 11:49:06+0530 > <Up>
+2019-04-11 11:49:07+0530 > cd wo<Tab>/t<Tab>u<Tab>-<Tab><Tab><Tab>gi<Tab>
+2019-04-11 11:49:17+0530 > <Up><Up><Up>
+2019-04-11 11:49:19+0530 > <Down>vim <RShft><Ins>
+2019-04-11 11:49:46+0530 > <Down><#+47><RShft>:q
+2019-04-11 11:49:55+0530 > <LCtrl>l
+2019-04-11 11:49:59+0530 > 
+2019-04-11 11:49:59+0530 > grep -inr <RShft>""<Left><RShft><Ins><Down><Right> <LShft>*
+2019-04-11 11:50:06+0530 > minicom
+2019-04-11 11:52:21+0530 > <Down> 0<LCtrl><Down><LCtrl>vfromcd ../../
+2019-04-11 12:25:17+0530 > 
+2019-04-11 12:25:17+0530 > cd ../
+2019-04-11 12:25:20+0530 > <Up><Up><Up><Up><Up><Down><BckSp><#+41>cd <Tab>li<Tab><Tab><Tab>gi<Tab>
+2019-04-11 12:25:33+0530 > ls
+2019-04-11 12:25:34+0530 > vim a<Tab>po<Tab>t<Tab><BckSp><Tab><Tab>b<Tab>d<Tab>r<Tab><BckSp>t<Tab>fs<Tab><LCtrl>p<Tab><BckSp>t4<Tab>r<Tab>-<Tab><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LShft>_<Tab><Tab><BckSp><Tab><Tab><LCtrl>c
+2019-04-11 12:26:20+0530 > <LAlt><Tab><BckSp><#+11><BckSp><BckSp><RShft><Ins>
+2019-04-11 12:26:23+0530 > /ddr2
+2019-04-11 12:26:26+0530 > <Left><#+22><Down><Down><Down><Left><Del><Del><Up><#+10><Up><Up>i/<LShft>*<Esc><RShft>:wq
+2019-04-11 12:26:36+0530 > <Up><Up><Down><Down>ls
+2019-04-11 12:26:45+0530 > rm -rf <LShft>*
+2019-04-11 12:26:49+0530 > <Up><#+2><Up><Up><Down><Up>
+2019-04-11 12:26:57+0530 > <Up><Up><Up><Up><Up>
+2019-04-11 12:27:22+0530 > <LAlt><Tab><LAlt><Tab><F5><F5><F5><F5><F5><F5><LAlt><Tab><LAlt><Tab><F5><F5><LAlt><Tab><LCtrl>c
+2019-04-11 12:34:23+0530 > <LCtrl>fv<LCtrl><LShft>T<LShft>U-boot
+2019-04-11 12:34:53+0530 > <LShft>Kernel
+2019-04-11 12:35:00+0530 > u-boot
+2019-04-11 12:35:05+0530 > cd ../..
+2019-04-11 12:35:10+0530 > <Up>
+2019-04-11 12:35:12+0530 > 
+2019-04-11 12:35:12+0530 > 
+2019-04-11 12:35:12+0530 > 
+2019-04-11 12:35:12+0530 > cd t<Tab>u<Tab>-<Tab><Tab><Tab>g<Tab>
+2019-04-11 12:35:25+0530 > ls
+2019-04-11 12:35:26+0530 > <LCtrl>l
+2019-04-11 12:35:27+0530 > 
+2019-04-11 12:35:28+0530 > grep -inr <RShft>"<RShft><RShft>"<Left><LShft>ZUMI<KP1><Right> <LShft>*
+2019-04-11 12:35:41+0530 > vim <RShft><Ins>
+2019-04-11 12:35:56+0530 > <LCtrl><RShft>:866
+2019-04-11 12:35:59+0530 > <RShft>:q
+2019-04-11 12:36:03+0530 > vim <RShft><Ins>
+2019-04-11 12:36:16+0530 > <RShft>:q
+2019-04-11 12:36:17+0530 > <RShft>:q
+2019-04-11 12:36:19+0530 > 
+2019-04-11 12:36:20+0530 > 
+2019-04-11 12:36:20+0530 > vim dr<Tab>m<Tab>t<Tab>n<Tab>a<Tab><Tab>fs<Tab><Tab><Tab>l<Tab>i<Tab>
+2019-04-11 12:36:38+0530 > <RShft>:<Up><Up>
+2019-04-11 12:36:40+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><Tab><LCtrl>fv
+2019-04-11 12:36:56+0530 > 
+2019-04-11 12:36:56+0530 > <LAlt><Tab><LAlt><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><RShft>:q
+2019-04-11 12:37:23+0530 > g<Esc><LShft>Hi <LShft>I <BckSp><BckSp><BckSp> <LShft>Monali, <LShft>I done <LShft>DD<BckSp><Right><Right><LShft>DR <BckSp><BckSp><Right><Right><LShft>R  in<LAlt>u<Esc><Esc> u-boot source and <LShft>I will sent the file to your reference <LShft>I a<LCtrl>zam <BckSp><BckSp><BckSp>t<BckSp><BckSp><BckSp>t<LShft>
+2019-04-11 12:40:29+0530 > 
+2019-04-11 12:40:29+0530 > 
+2019-04-11 12:40:29+0530 > <LShft>I am<BckSp><BckSp><BckSp><BckSp><LShft>for u-boot burn used lauterbach<LShft><Left><#+30><Left><Left><Left><LCtrl>c
+2019-04-11 12:40:49+0530 > <LAlt><Tab><BckSp><LCtrl>v<Left><#+30><Left><Left><Left> <Right><#+22><LShft><Right><#+17><Right><Right><#+17><Right><Right><Right><LCtrl>x<Left><#+27><Left><Left><Left><LCtrl><Left><Left><Left><LCtrl>v <Left><Left><#+37><Left><Left><Left><#+10><Left><LCtrl>c
+2019-04-11 12:41:56+0530 > <LAlt><Tab><LCtrl>av<LAlt><Tab><LCtrl>v
+2019-04-11 12:42:19+0530 > 
+2019-04-11 12:42:20+0530 > 
+2019-04-11 12:42:21+0530 > <LCtrl>lvim ba<Tab><BckSp><Tab>fr<Tab>dd<Tab><BckSp><BckSp>t4<Tab>2<Tab><BckSp><BckSp><BckSp><Tab><Tab>t4<Tab><Tab>3<BckSp>r<Tab><Tab><Tab>dd<Tab>c
+2019-04-11 12:42:55+0530 > <LCtrl><LAlt><Tab><LCtrl>v<Del><Del><LCtrl>zz<LCtrl>z<LCtrl>zzzzzzz<Del><LCtrl>z<#+19><Up><Up><Up><Up><Up><Del><Del><Del><Del><Del><Del><Del><Del><Del><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LCtrl>c
+2019-04-11 12:44:52+0530 > <Tab><LMeta><LAlt><Tab><LAlt><Tab><LAlt><Tab><LCtrl>v
+2019-04-11 12:45:01+0530 > 
+2019-04-11 12:45:02+0530 > <Left><LShft>() <Left><Left><LShft>Pleasde <BckSp><BckSp><BckSp>e provide your mail<Right><#+20>
+2019-04-11 12:45:40+0530 > <LShft>Did <BckSp><BckSp><BckSp><BckSp><LShft> <LShft>ID<Down><Up><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><RShft>:q
+2019-04-11 12:55:38+0530 > <Down><Down><Down><Down><Down><Left><Left>    0<Down> 46192.<Esc><Esc><Esc><Esc><Esc><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>0<BckSp><BckSp><BckSp><BckSp><BckSp>
+2019-04-11 13:04:25+0530 > 6192,<BckSp>.168.100.1<BckSp>2
+2019-04-11 13:05:19+0530 > 07y0 0<LMeta><#+2>l
+
+Logging stopped at 2019-04-12 08:26:07+0530
+
