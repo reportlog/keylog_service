@@ -1,0 +1,100 @@
+Logging started ...
+
+2019-04-17 09:46:42+0530 > zs10062013
+2019-04-17 09:49:26+0530 > 
+2019-04-17 10:14:22+0530 > 7.<LShft>Sensors <LShft><RShft>()<Left><LShft>Energy and <LShft>Air quality<Down><LShft>AP<BckSp><BckSp><BckSp> <LShft>AP
+2019-04-17 10:15:27+0530 > 8.<LShft>SE<BckSp>ensors <LShft>Passwords<LCtrl>s<Del><LCtrl>s<BckSp><#+16><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LCtrl>z<LCtrl>z<Del><LShft>Sensor <LShft>U<BckSp><BckSp><LCtrl>c
+2019-04-17 10:30:50+0530 > <LCtrl>v<LShft>Sensor<Left><Left><Left><Left><Left><Left><LShft>Energy <Down><Left><#+11>/<LShft>Air <LShft>Qualityfirmware<Left><Left><Left><Left><Left><Left><Left><Left> <Down><Right><Right><Right><Right><Del><Del><Del><Del><Del><Del><BckSp><LCtrl>szs10062013
+2019-04-17 10:40:46+0530 > <LCtrl>s<LCtrl>s<LShft>assaigned<End> and send room status to server<LShft>NO<End> and send unse<BckSp><BckSp><BckSp><BckSp><LShft>Ack to server<LCtrl>s<Del><Del><Del><Del><Del><Del><Del><Del><Down><Right><Right><Right><Right> before updating<Up><Right> or any oherr<BckSp> <BckSp><BckSp><BckSp><BckSp>her <BckSp><BckSp><BckSp><BckSp>ther data<LCtrl>s<LShft>Use <LShft>Case<RShft>:
+2019-04-17 10:51:25+0530 > 
+2019-04-17 10:51:27+0530 > <LShft>Flowchart depicts the firmware update to
+2019-04-17 10:51:49+0530 > 
+2019-04-17 10:51:49+0530 >  <#+12>    <LShft>Lo<BckSp><BckSp><LShft>Hub when room status is unassaigned.<Left><Left><#+10><Del><Right><Right><Right><Right><BckSp><BckSp><BckSp><Left><BckSp><LCtrl>s
+2019-04-17 10:57:49+0530 > <LShft>Befoer<BckSp><BckSp>re updating image <LShft>Hub backups he <BckSp><BckSp><BckSp>the<End>
+2019-04-17 10:59:07+0530 > <BckSp>
+2019-04-17 10:59:10+0530 > <BckSp><BckSp>e
+2019-04-17 10:59:14+0530 > 
+2019-04-17 10:59:14+0530 > <Tab><End> <#+12>   running configurations <BckSp>.<LCtrl>s<LCtrl>s
+2019-04-17 11:01:05+0530 > <LShft>Update the firmware to <LShft>HUb <BckSp><BckSp> <BckSp><LShft>B memory.<LCtrl>s6.<LShft>Firmware <BckSp><RShft>_<LShft>Update<RShft>_to<RShft>_<LShft>Sensos<BckSp>rs<LShft>Firmware<RShft>_<LShft>update<RShft>_to<RShft>_sensors<LCtrl>s<LCtrl>c
+2019-04-17 11:11:45+0530 > <LCtrl>v<End><BckSp><BckSp><BckSp><BckSp><BckSp> <LShft>Sens<BckSp><BckSp><BckSp><BckSp><LShft>SENSORS<RShft>()<Left><LShft>ENERGy<BckSp><LShft>Y/<LShft>AIR <LShft>QUALITY<End><BckSp><BckSp><#+9><LCtrl>z<Del><Del><Del><Del><Del><Del><Del><Del><End><BckSp><BckSp><BckSp><BckSp>se<BckSp><BckSp>respective sensor<RShft>(<RShft>)<Left><LShft>Energy/<LShft>Air <LShft>Quality<BckSp><BckSp><BckSp><BckSp>respective sensor<LShft><Up><Up><Up><LCtrl>x<Del><Del><LCtrl>vs<LCtrl>s<LCtrl>x<Del><LCtrl>v<End> and sens<BckSp>d <LShft>ACK to server<LCtrl>s<LShft>Use <LShft>Case<RShft>:
+2019-04-17 11:17:22+0530 > <LShft>Flowchart depicts th <BckSp>e firmware update to <LShft>Lock<End> from <LShft>Hub<End><LCtrl>s<LCtrl>szs10062013
+2019-04-17 11:26:54+0530 >  <LCtrl>zzzzzzz<LAlt><Tab><LAlt><Tab><Tab><End>
+2019-04-17 12:01:43+0530 > 
+2019-04-17 12:01:45+0530 > <LShft>I <BckSp>f the <LShft>Lock is unassaigned <Left><#+11><Right><Del><End>push the image to <LShft>Lock.<LCtrl>s<BckSp><BckSp><BckSp><BckSp><LShft>Room<LCtrl>s<Left><Del><Del><Del><Del>update<LCtrl>s<LCtrl>c
+2019-04-17 12:03:39+0530 > <LCtrl>c
+2019-04-17 12:03:42+0530 > <LCtrl>v<Left><Left><BckSp><BckSp><BckSp><BckSp><LShft>Sensors<Del><#+9><Del><Del><#+9><Del><Del><Del><Del><Del><Del><Del><LShft>Sensors are alive<BckSp><BckSp><BckSp><BckSp><BckSp>connectes<BckSp>ed<Left><BckSp><BckSp><BckSp><BckSp>respective loc<BckSp><BckSp><BckSp>sensors<Left><#+13><Left><Left><#+10><Left><Left>
+2019-04-17 12:05:32+0530 > <BckSp>
+2019-04-17 12:05:35+0530 > 
+2019-04-17 12:05:35+0530 > <BckSp><BckSp><BckSp><LCtrl>s<Del><LShft>Validate the sensr<BckSp>or connection status<Del><LShft>Alive<BckSp><BckSp><BckSp><BckSp><BckSp><LShft>Yes<LShft>Ignore <BckSp><#+8><BckSp><BckSp><BckSp><BckSp><LShft>Send sensor connection failure to <Left><Left><Left>status <Right><#+2><Right> server<LShft><LCtrl>s<LCtrl>s7.<LCtrl>s<RShft>_to<RShft>_<LShft>Hub<LCtrl>c
+2019-04-17 12:21:42+0530 > <LCtrl>v<LCtrl>z<Del><LCtrl>v<Right><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LShft>Lck<Left><Left>o<Right><Right>/<LShft>Sensors<LCtrl>s<Del><Right><Del><Del><LCtrl>s<LMeta><#+1>lzs10062013
+2019-04-17 14:02:03+0530 > brand factory banglore offers
+2019-04-17 14:27:53+0530 > <BckSp><BckSp><BckSp>10000redbus
+2019-04-17 14:44:59+0530 > astron shares are <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp> value is decreasing
+2019-04-17 14:52:13+0530 > <Left><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LShft>Data<Left><BckSp><BckSp><LCtrl>s<BckSp><BckSp><BckSp><BckSp><BckSp><LShft>Wait for <BckSp><#+9><BckSp><BckSp><BckSp><BckSp><LShft>Check for <LShft>Keep <LShft>Alive <Left><#+9><Left><Left><BckSp><BckSp><BckSp><BckSp><Right><BckSp><Right><Right><Right><Right><Right> status from sensors<LShft>If connection <LShft>Established<RShft>?<LShft>Yes<LShft>NO<LShft>Wai for <LShft>Sensor <BckSp>s <Left><#+12><Left><Left><Left><Left>t<End>data from<BckSp><BckSp><BckSp><#+10><BckSp><BckSp><BckSp><Left><#+11><Right><LShft><LShft>Respective<End>s data<Up> <LShft>Validate if any sensor data is missing<LShft>Yes<LShft>Turn <LShft>ON <LShft>Alarm and sens <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LShft>NO<LCtrl>zzz<Del><LShft><LShft>Push <LShft>Sensor <LShft>Data and stst<BckSp><BckSp>aus of sensor <Left><#+9><Left><Left><Left><Left><Left><Left><Left>t<Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right> to <LShft>Server<Right>s<LCtrl>s<Del><Del><Del><Del><Del><LCtrl>s<LCtrl>szs10062013
+2019-04-17 15:38:50+0530 > zs10062013
+2019-04-17 16:35:59+0530 > <LCtrl>z<LCtrl>s<BckSp><BckSp>md<LShft>Sensor<RShft>_data<RShft>_to<RShft>_<LShft>Hub<LCtrl>x<LCtrl>v<LShft>Use <LShft>Case<RShft>:
+2019-04-17 16:43:45+0530 > <LShft>Flowchart depicts he<BckSp><BckSp>the sensor data to <BckSp><BckSp><BckSp>received to <LShft>Hub<End>
+2019-04-17 16:44:30+0530 > 
+2019-04-17 16:44:31+0530 > <LShft>If any sensor data is mssing <Left><#+9><Left>i<End><LShft>Alarm will be turned <LShft>ON and
+2019-04-17 16:45:33+0530 > 
+2019-04-17 16:45:34+0530 >  <#+12>  continues to be <LShft>ON till the problem is rectifir<BckSp>es<BckSp>d.<End> and glow th <BckSp><BckSp><BckSp>the <LShft>Led<BckSp><BckSp><LShft>ED <BckSp><LCtrl>s4.how to create a folder in draw.io
+2019-04-17 16:50:01+0530 > <LShft>Energy<RShft>_<LShft>Sensor<LShft>Air<RShft>_<LShft>Quality<LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LShft>Use <LShft>Cases<BckSp><RShft>:
+2019-04-17 17:01:18+0530 > <LShft>F<LShft>low chart depicts the configuration of <LShft>Energt <BckSp><BckSp>y <LShft>Sensor<End>
+2019-04-17 17:03:09+0530 > 
+2019-04-17 17:03:10+0530 > <LShft>Proper validation of the config data will be done and stored
+2019-04-17 17:07:33+0530 > 
+2019-04-17 17:07:33+0530 >  <#+12>   in the memory.<LCtrl>s<LShft>Use <LShft>Case<RShft>:
+2019-04-17 17:08:36+0530 > <LShft>Flow chart depicts the <LShft>HUB <BckSp><BckSp><BckSp><BckSp>energy sensoe<BckSp>r availabilty
+2019-04-17 17:09:05+0530 > 
+2019-04-17 17:09:06+0530 >  <#+11>     i<Right><Right>
+2019-04-17 17:09:22+0530 > 
+2019-04-17 17:09:23+0530 >  <#+13>  to it's particular <LShft>HUB
+2019-04-17 17:09:36+0530 > 
+2019-04-17 17:09:37+0530 > <Up><BckSp><LShft><LCtrl>s<LShft>Yes<LCtrl>s<LShft>Use <LShft>Case<RShft>:
+2019-04-17 17:10:58+0530 > <LShft>Flow chart depicts the data sensto <BckSp><BckSp><BckSp><BckSp>d to <LShft>HUB
+2019-04-17 17:11:38+0530 > 
+2019-04-17 17:11:39+0530 >  <#+11>    periodically.
+2019-04-17 17:11:46+0530 > <LShft>Proper validation wu<BckSp>ill be done for any missing <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>
+2019-04-17 17:12:11+0530 >  <#+4>
+2019-04-17 17:12:13+0530 > <BckSp><BckSp><BckSp>
+2019-04-17 17:12:15+0530 > 
+2019-04-17 17:12:16+0530 >  <#+12>   misssing <BckSp><BckSp><BckSp><BckSp><BckSp>ing info and will <Left><#+16>sensor <End>be pushed to <LShft>HUB<BckSp><BckSp><BckSp>
+2019-04-17 17:12:54+0530 >  <#+12>
+2019-04-17 17:12:56+0530 >  <#+14> <LShft>HUB.<LCtrl>s<LShft>Use <LShft>Case<RShft>:
+2019-04-17 17:14:01+0530 > <LShft>Flow chart depicts the command info from <LShft>Hub to <LShft><LShft>Enerf<BckSp>f<BckSp>gy sensor<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><#+8><BckSp><BckSp><BckSp><LCtrl>z<End>
+2019-04-17 17:14:47+0530 > 
+2019-04-17 17:14:50+0530 > <Del><Del><Del><Del><Left>/turn <LShft>On<BckSp><LShft>N<Left><Left><Left><Left><Left><Left><Left><Left> <Right> <LCtrl>s<LShft>If any command is received proper action will be taken.<LCtrl>s<LShft>Use <LShft>Case<RShft>:<RShft>
+2019-04-17 17:18:48+0530 > 
+2019-04-17 17:18:49+0530 > <LShft>Flowchart depicts the <LShft>firmware update to <LShft>Energy <LShft><BckSp><LShft>Sensor<Left><#+10><Right> <End>
+2019-04-17 17:19:32+0530 > 
+2019-04-17 17:19:33+0530 > <LShft>Proper validation t<BckSp>of the version will be done and then updated<BckSp><BckSp>w<BckSp>e operation <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>
+2019-04-17 17:23:08+0530 > 
+2019-04-17 17:23:08+0530 >  <#+14>  pe<BckSp>rocess will be taken place.<LCtrl>s<LShft>Use <LShft>Case<RShft>:
+2019-04-17 17:24:29+0530 > <LShft>Flowchart depicts the configuration operation 
+2019-04-17 17:24:58+0530 > 
+2019-04-17 17:24:58+0530 >  <#+12>    of <LShft>Air quality.<BckSp> sensor.
+2019-04-17 17:25:14+0530 > <LShft>Proper validatio <BckSp>m<BckSp>n of the config data will be done.<LCtrl>s<LShft>Use <LShft>Case<RShft>:
+2019-04-17 17:26:23+0530 > <LShft>Flowchart depiucts <BckSp><BckSp><BckSp><BckSp><BckSp>cts the <LShft>Air quality availability status <BckSp> to it's <LShft>HUB.<LCtrl>s<LCtrl>s<LShft>Use <LShft>Case<RShft>:
+2019-04-17 17:27:43+0530 > <LShft>Flowchart depicts the data<BckSp><BckSp><BckSp><BckSp>sensor data to <LShft>Hub.
+2019-04-17 17:29:39+0530 > 
+2019-04-17 17:29:40+0530 > <LShft>It will display the sensor data on the scree<BckSp><BckSp><BckSp><BckSp><BckSp>display screen
+2019-04-17 17:30:07+0530 > 
+2019-04-17 17:30:07+0530 >  <#+12>    and also pushes the data to <LShft>HUB.<LCtrl>s<LShft>Use <LShft>Case<RShft>:
+2019-04-17 17:30:57+0530 > <LShft>Flowchart depicts the fimware update <Left><#+11><Left><Left><Left><Left><Left><Left><Right>r<End>to a<BckSp><LShft>Air <LShft>Quality sensor<End>
+2019-04-17 17:31:47+0530 > 
+2019-04-17 17:31:47+0530 >  <#+10><LShft>Proper validation of the update version will be done and update <BckSp><BckSp>ed<End>
+2019-04-17 17:32:34+0530 > 
+2019-04-17 17:32:34+0530 >  <#+11><Up><Right><Right><Right><Right><Right><Right><Right><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><Down>      to memory.<LCtrl>sma<Down><Down><Down><Down><Down>
+2019-04-17 18:15:47+0530 > <LShft>Yahoozumi<LShft>@5
+2019-04-17 18:16:01+0530 > <LMeta><#+3>lzs10062013
+2019-04-17 18:23:15+0530 > <LCtrl>z<Del><Del><Del><LCtrl>z<LCtrl>zz<LCtrl>s<LCtrl>s<LCtrl>s<LCtrl>s<LCtrl><LCtrl>sm<Down>
+2019-04-17 18:56:58+0530 > <LShft>Yahoozumi<LShft>@5<BckSp><BckSp><Del>7 <#+12>       2.<LShft>Done <LShft>Energy sensor flowcharts      3.<LShft>Done <LShft>Aier<BckSp><BckSp>r <LShft>Quality sensor flowcharts<BckSp>8<LCtrl>sma<LShft><LShft>Hai,
+2019-04-17 18:59:01+0530 > 
+2019-04-17 18:59:01+0530 >   <LShft>PFA--ra
+2019-04-17 18:59:28+0530 > s
+2019-04-17 18:59:33+0530 > <LShft><LShft>Hardware <LShft>Information<LShft>Hai <BckSp><BckSp><BckSp>ello <LShft>Raf<BckSp>ghu/<LShft>Sandy,
+2019-04-17 19:00:09+0530 > 
+2019-04-17 19:00:09+0530 >     <LShft>We ar <BckSp>e w<BckSp><BckSp><BckSp><BckSp><BckSp>want to know if sny <BckSp><BckSp><BckSp><BckSp>any hardware has been fixed w.r.t <LShft>Microcontroller/<LShft>Microprocessor,<LShft>BLE and <LShft>Wifi chipsets.<LShft>So that if possible we will buy anu<BckSp>y <BckSp><BckSp><BckSp><BckSp>reference boar<BckSp><#+36><BckSp><BckSp><BckSp><BckSp><BckSp><LShft>S<LShft>So that we will be working on he <BckSp><BckSp><BckSp>the reference boards.
+
+Logging stopped at 2019-04-17 19:08:18+0530
+
