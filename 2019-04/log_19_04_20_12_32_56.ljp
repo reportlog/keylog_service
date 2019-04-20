@@ -1,0 +1,31 @@
+Logging started ...
+
+2019-04-20 12:32:57+0530 > <LCtrl>c
+2019-04-20 12:35:07+0530 > <LAlt><Tab>cd ../u<Tab><BckSp>u<Tab><BckSp><BckSp><#+17><CpsLk>CD ../U<Tab>
+2019-04-20 12:35:17+0530 > L
+2019-04-20 12:35:18+0530 > <LCtrl><LShft>v<Left><#+12><Left><LShft>_VBOOT
+2019-04-20 12:35:26+0530 > <LCtrl>c
+2019-04-20 12:35:32+0530 > <LAlt><Tab><LCtrl><LShft>v<LAlt><Tab><LCtrl><LShft>c
+2019-04-20 12:36:15+0530 > <LAlt><Tab><LCtrl>T<LShft><LShft>V
+2019-04-20 12:36:20+0530 > <RShft>bbb 
+2019-04-20 12:36:44+0530 > <Del><LAlt><Tab><LAlt><Tab><LCtrl>W<Del><Del><LCtrl><LShft>tUIM<LAlt><Tab><LAlt><Tab><BckSp><BckSp><BckSp>DTBS<BckSp><LCtrl><LAlt><Tab>CD ..
+2019-04-20 12:43:22+0530 > CD <LCtrl>L<LShft>L
+2019-04-20 12:43:25+0530 > L<Tab><Up><Tab>
+2019-04-20 12:43:28+0530 > L
+2019-04-20 12:43:29+0530 > CD AR<Tab>A<Tab>R<Tab>M<Tab><Tab><Tab>/B<Tab><Tab><Tab>
+2019-04-20 12:43:45+0530 > L
+2019-04-20 12:43:46+0530 > CD D<Tab>
+2019-04-20 12:44:07+0530 > ;
+2019-04-20 12:44:07+0530 > L
+2019-04-20 12:44:08+0530 > <Up><LShft>|GREP DTB
+2019-04-20 12:44:14+0530 > <Up><BckSp><BckSp><BckSp>AM335X
+2019-04-20 12:44:30+0530 > <LShft><LCtrl>c
+2019-04-20 12:44:43+0530 > <LAlt><Tab>
+2019-04-20 12:44:46+0530 > <LCtrl>LL<LShft>|GREP <LCtrl><LShft>v
+2019-04-20 12:44:53+0530 > <LAlt><Tab><LAlt><LAlt><LAlt><Tab><LCtrl>LCD ../../../../
+2019-04-20 12:46:30+0530 > CD ../U<Tab>
+2019-04-20 12:46:33+0530 > L
+2019-04-20 12:46:34+0530 > L<BckSp>FIN<BckSp><BckSp><BckSp>LOCATE U-BOOT.IMG
+2019-04-20 12:46:58+0530 > <LCtrl>c
+2019-04-20 12:47:58+0530 > <LAlt><Tab><LCtrl><LShft>v
+2019-04-20 12:48:00+0530 > <LShft><Del><LCtrl>
