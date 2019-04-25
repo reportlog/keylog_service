@@ -1,0 +1,32 @@
+Logging started ...
+
+2019-04-25 15:33:23+0530 > <Del><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgUp><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgUp><PgDn><#+12><PgDn><PgDn><PgDn><PgUp><PgUp><PgUp><PgUp><PgUp><Up><#+14><Up><#+16><Down><#+5><Down><Down><#+10><Down><#+11><Down><#+6><Down><#+10><Up><Up><Up><Up><Up><Up><Up><Up><#+8><Up><Up><Up><#+14><Up><PgUp><PgUp><Down><Down><Down><#+25><PgUp><PgUp><PgUp><PgUp><Down><Down><Down><Down><Del><LMeta><#+2>d<LCtrl><Del><LCtrl>a-14<CpsLk>GB<Up>
+2019-04-25 15:49:43+0530 > <CpsLk>zs10062013
+2019-04-25 15:49:54+0530 > <PgDn><PgDn><PgDn><PgDn><Up><#+8><Down><#+8><Down><Down><#+9><Down><Down><PgUp><PgUp><PgDn><PgDn><PgDn><PgDn><#+7><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn>115200<BckSp><BckSp><CpsLk>USB0 SET<BckSp><#+9><CpsLk>setenv bootcmd boota mmc1
+2019-04-25 16:03:31+0530 > setenv bootargs console=ttymxc3,115200 init=/init video=mxcfbo<BckSp>0<RShft>:<BckSp><#+9><BckSp><#+8><BckSp><#+51>setenv bootargs console=ttymxc3,115200 androidboot.console=ttymxc3 consoleblank=0 vmalloc=128<CpsLk>M <CpsLk>init=init/<BckSp><BckSp><BckSp><BckSp><BckSp>/init video=mxcfb0<RShft>:dev=hdmi,1920x1080<CpsLk>M<CpsLk><LShft>@60,bpp=32 video=mxcfb1<RShft>:off video=mxcfb2<RShft>:off video=mxcfb3<RShft>:off androidboot.hardware=freescale cma=512<CpsLk>M<CpsLk> galcore.contiguous<CpsLk>S<CpsLk>ize=67108864 androidboot.selinux=permissive
+2019-04-25 16:10:12+0530 > saveenv
+2019-04-25 16:10:19+0530 > boot
+2019-04-25 16:10:58+0530 >  reset
+2019-04-25 16:13:51+0530 > <Up><Up> <Up><Up><Up><Down><Down><Up><PgDn><PgDn><PgDn><PgUp><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><#+3><PgUp><#+8><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><LCtrl>c
+2019-04-25 16:21:11+0530 > <LCtrl>v
+2019-04-25 16:21:16+0530 > <PgDn>setenv bootcmd boota mmc1
+2019-04-25 16:23:51+0530 > setenv bootargs console=ttymxc3,115200 androidboot.console=ttymxc3 consolblank=0 vmalloc=128<CpsLk>M<RShft>:<CpsLk>off video<Left><#+19><Left><#+13><Right><#+11><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right> init=/init video=mxcfb0<End><BckSp><#+8><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>dev <BckSp>=hdmi,1920x1080<CpsLk>M<RShft>@60,<CpsLk>bpp=32 video=mxcfb1<RShft>:off video=mxcfb2<RShft>:off video-mxcfb3<RShft>:off androidboot.hardware=freescale cma=512<CpsLk>M <CpsLk>galcore.contiguous<CpsLk>S<CpsLk>ize=67108864 androidboot.sel<BckSp><#+10><BckSp><BckSp><#+8><BckSp><BckSp><BckSp>
+2019-04-25 16:28:01+0530 > saveenv
+2019-04-25 16:28:07+0530 > reboot
+2019-04-25 16:28:14+0530 > boot
+2019-04-25 16:28:20+0530 > g
+2019-04-25 16:28:40+0530 > switch to ldo<Down>
+2019-04-25 16:28:47+0530 > 
+2019-04-25 16:30:12+0530 > arm<RShft>_freq=1000
+2019-04-25 16:30:25+0530 > <Up><Up><Up><BckSp><#+22>boot
+2019-04-25 16:30:38+0530 > ldo ldo<RShft>_active=off
+2019-04-25 16:31:30+0530 > ldo<RShft>_active=on
+2019-04-25 16:31:50+0530 > boot
+2019-04-25 16:32:10+0530 >  ldo<RShft>_
+2019-04-25 16:32:56+0530 > ldo<RShft>_active=on
+2019-04-25 16:33:06+0530 > ldo<RShft>_active=off
+2019-04-25 16:33:15+0530 > boot
+2019-04-25 16:33:17+0530 > <PgDn><PgDn><PgDn><PgDn><#+9><PgDn><PgUp>
+
+Logging stopped at 2019-04-25 16:37:57+0530
+
