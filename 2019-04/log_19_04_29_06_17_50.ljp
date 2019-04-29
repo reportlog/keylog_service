@@ -1,0 +1,59 @@
+Logging started ...
+
+2019-04-29 18:17:50+0530 > 
+2019-04-29 18:17:50+0530 > <Up><Up><Up><Home><End>
+2019-04-29 18:18:50+0530 > <Up><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><BckSp>2 <End><BckSp><BckSp><BckSp><BckSp><BckSp>ext4
+2019-04-29 18:19:23+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down><#+4>sudo make <CpsLk>ARCH=<CpsLk>arm <CpsLk>CROSS<RShft>_COMPILE=<CpsLk>arm-linux-gnueabihf-<CpsLk>INSTALL<RShft>_MOD<RShft>_PATH=<CpsLk>mnt/ext4 modules<RShft>_install
+2019-04-29 18:21:04+0530 > 
+2019-04-29 18:21:30+0530 > <Up>
+2019-04-29 18:25:24+0530 > <Up><Left><#+9><Left><#+7><Left><Left><Left><Left><Right><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>image<Left><#+18><Left><Left><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>image<End>
+2019-04-29 18:25:57+0530 > <Up><Left><#+32><Left><BckSp><RShft>I<Right><#+19><Right><BckSp><RShft>I<End>
+2019-04-29 18:26:14+0530 > <End><#+10><Up><Left><#+20><Left><#+11><Left><#+14><Left><#+4><Up><Up>
+2019-04-29 18:26:48+0530 > <Up><Left><#+31><Left><#+15><Left><Left><Left><Left>home/zumi.<BckSp>/<Right><#+23><Left>home/zumi/<End>
+2019-04-29 18:27:26+0530 > df -<RShft>H
+2019-04-29 18:27:49+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><#+11><Up><#+5>
+2019-04-29 18:28:16+0530 > <LCtrl>c
+2019-04-29 18:30:10+0530 > g
+2019-04-29 18:30:13+0530 > <LCtrl>v <Down> im<Down>
+2019-04-29 18:30:23+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down><Up>
+2019-04-29 18:35:57+0530 > <Del>mnt<Up><Left><#+8><Left><Left><Left><Left><Left>home/zumi/<End>
+2019-04-29 18:37:16+0530 > <Up><Up>
+2019-04-29 18:37:26+0530 > ds -<RShft>H
+2019-04-29 18:37:47+0530 > <Up><Up><Up><Up><Up><Up><Up><Down>
+2019-04-29 18:37:50+0530 > <Up><Up><Up><Up><Up><Up><Up><Down>
+2019-04-29 18:38:08+0530 > <Up><Up><Up><Up><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left> <End>
+2019-04-29 18:38:30+0530 > <LCtrl>c
+2019-04-29 18:38:49+0530 > g
+2019-04-29 18:38:54+0530 > <LCtrl>v<BckSp><#+21><LCtrl>v
+2019-04-29 18:39:07+0530 > <Up><BckSp><#+39>fsck /dev/sdd1
+2019-04-29 18:39:58+0530 > <Up><Home>sudo <End>
+2019-04-29 18:40:09+0530 > <Up><BckSp><#+16> e2fsck -b 8183 /dev/sdd1
+2019-04-29 18:41:04+0530 > <Up><BckSp>2
+2019-04-29 18:41:13+0530 > lsblk
+2019-04-29 18:41:58+0530 > dmesg
+2019-04-29 18:44:16+0530 > <Up>
+2019-04-29 18:45:58+0530 > <Up>
+2019-04-29 18:46:07+0530 > <Up>
+2019-04-29 18:46:10+0530 > <Up><Up><Up><Up><Up><Up><Up><Left><#+15><Right><BckSp>c<End>
+2019-04-29 18:46:20+0530 > 
+2019-04-29 18:47:06+0530 > <Left><#+18><Left><BckSp>c<End><Left><#+12><Left><Left><Left><Left><Left><Left><Left><Left><BckSp><End>
+2019-04-29 18:47:57+0530 > echo <RShft>"er<BckSp><BckSp>version<RShft>" <RShft>| xfs<RShft>_db /dev/sdc1
+2019-04-29 18:49:07+0530 > sudo fsck.ext4 -v /dev/sdc2
+2019-04-29 18:50:01+0530 > sudo e2fsck -b 32768 /dev/sdc2
+2019-04-29 18:50:49+0530 > <Up><Left><#+8><Left><#+8><Left><Left><BckSp><BckSp><BckSp><BckSp><BckSp>8193<End>
+2019-04-29 18:51:20+0530 > <Up><Left><#+9><Left><#+6><Left><Left><Left><Left><End><BckSp>1
+2019-04-29 18:51:33+0530 > <Up><Left><#+9><Left><Left><Left><Left><BckSp><BckSp><BckSp><BckSp>32768<End>
+2019-04-29 18:51:44+0530 > sudo mke2fs -n d<BckSp>/dev/sdc
+2019-04-29 18:52:30+0530 > y
+2019-04-29 18:52:39+0530 > sudo e2fsck -b block<RShft>_number /dev/sdc
+2019-04-29 18:53:50+0530 > <Up>
+2019-04-29 18:54:03+0530 > <Up>
+2019-04-29 18:54:05+0530 > <Up><Left><#+19><Left><Left><Left><Left><BckSp>32768 <End><Up><Up><Down><Down><Left><#+21><Left><Left><BckSp><BckSp><BckSp><BckSp><BckSp>b<Right><#+15><Right><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>32768<End>
+2019-04-29 18:54:48+0530 > <Up><Left><#+11><Left><Left><Left><Left><Left><Left><BckSp><BckSp><BckSp><End>
+2019-04-29 18:55:00+0530 > <Up><Left><#+13><Left><Left><Left><Left><BckSp>
+2019-04-29 18:55:09+0530 > <Up><Up><Up><Left><#+14><Left><Left><BckSp><End>
+2019-04-29 18:55:26+0530 > <Up>
+2019-04-29 18:55:44+0530 > 
+
+Logging stopped at 2019-04-29 18:59:53+0530
+
