@@ -57,3 +57,6 @@ Logging started ...
 2019-04-29 18:12:51+0530 > <Up><Up><Down><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down><Up><Up><Down><Down><Down><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down>
 2019-04-29 18:13:24+0530 > sudo mount /dev/sdd1 mnt/fat32
 2019-04-29 18:14:10+0530 > 
+
+Logging stopped at 2019-04-29 18:14:29+0530
+
