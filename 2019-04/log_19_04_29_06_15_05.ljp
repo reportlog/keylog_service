@@ -1,0 +1,7 @@
+Logging started ...
+
+2019-04-29 18:15:06+0530 > w
+2019-04-29 18:15:18+0530 > sudo mount<Left><#+9><Right>u<End> mnt/fate<BckSp><BckSp>t32
+2019-04-29 18:15:54+0530 > <Up><Left><#+11><Right><End><BckSp><#+10><BckSp><BckSp><BckSp><#+9><BckSp><BckSp><BckSp><BckSp>mount /dev/sdd1 mnt/fat32
+2019-04-29 18:16:26+0530 > sudo blockdev --rareadpt /dev/sdd
+2019-04-29 18:17:11+0530 > 
