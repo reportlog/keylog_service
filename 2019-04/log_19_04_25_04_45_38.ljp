@@ -1,0 +1,1256 @@
+Logging started ...
+
+2019-04-25 16:45:38+0530 > <Up>
+2019-04-25 16:46:01+0530 > zs10062013
+2019-04-25 16:46:11+0530 > <Up>
+2019-04-25 16:46:23+0530 > <Up><Up><Down>
+2019-04-25 16:46:39+0530 > <Up><Up><Down>
+2019-04-25 16:47:03+0530 > <Up><Up><Up><Up><BckSp>c
+2019-04-25 16:47:11+0530 > zs10062013
+2019-04-25 16:47:16+0530 > <Up><Left><#+12><BckSp><BckSp>
+2019-04-25 16:47:58+0530 > d
+2019-04-25 16:48:07+0530 > 1
+2019-04-25 16:48:15+0530 > d
+2019-04-25 16:48:17+0530 > 2
+2019-04-25 16:48:19+0530 > d
+2019-04-25 16:48:24+0530 > 3
+2019-04-25 16:48:25+0530 > d
+2019-04-25 16:48:27+0530 > 4
+2019-04-25 16:48:30+0530 > d
+2019-04-25 16:48:31+0530 > 5
+2019-04-25 16:48:34+0530 > d
+2019-04-25 16:48:35+0530 > 6
+2019-04-25 16:48:37+0530 > d
+2019-04-25 16:48:38+0530 > 7
+2019-04-25 16:48:39+0530 > d
+2019-04-25 16:48:41+0530 > 8
+2019-04-25 16:48:42+0530 > d
+2019-04-25 16:48:43+0530 > 9
+2019-04-25 16:48:44+0530 > d
+2019-04-25 16:48:45+0530 > 10
+2019-04-25 16:48:47+0530 > d
+2019-04-25 16:48:48+0530 > 11
+2019-04-25 16:48:54+0530 > w
+2019-04-25 16:48:57+0530 > <Up><Up>
+2019-04-25 16:49:01+0530 > <Up>
+2019-04-25 16:49:11+0530 > 115200<BckSp><BckSp><CpsLk>USB0 <CpsLk>setenv bootcmd boota mmc1
+2019-04-25 17:02:43+0530 > saveenv
+2019-04-25 17:02:48+0530 > boot
+2019-04-25 17:02:50+0530 >  <CpsLk><CpsLk>setenv bootargs console=ttymxc3,115200 androidboot.console=ttymxc3 consoleblank=0 vmalloc=128<CpsLk>M <CpsLk>init=/init video=mxcfb0<RShft>:dev=hdmi,1920x1080<CpsLk>M<RShft>@60,<CpsLk>bpp=32 video=mxcfb1<RShft>:off vide0=mxcfb2<RShft>:off video=mxcfb3<RShft>:off androidboot.hardware=freescale cma=512<CpsLk>M <CpsLk>galcore.contiguous<CpsLk>S<CpsLk>ize=67108864
+2019-04-25 17:11:26+0530 > saveenv
+2019-04-25 17:11:33+0530 > boot
+2019-04-25 17:11:36+0530 > <Up><Up><Up><Up><Up><Up> logcat
+2019-04-25 17:19:44+0530 > boota
+2019-04-25 17:20:01+0530 > boota mmc1 boot
+2019-04-25 17:20:31+0530 >  help env
+2019-04-25 17:23:28+0530 > env default -a
+2019-04-25 17:23:42+0530 > <Up><Up><Up><Up><Down><BckSp><#+23>boo<BckSp><#+11>saveenv
+2019-04-25 17:23:54+0530 > boot
+2019-04-25 17:23:58+0530 > boot
+2019-04-25 17:24:02+0530 >  anroidboot=<BckSp>.selinux=permissive
+2019-04-25 17:27:26+0530 > setenforce 0
+2019-04-25 17:31:34+0530 > help
+2019-04-25 17:31:39+0530 > bdinfo
+2019-04-25 17:31:55+0530 > spl
+2019-04-25 17:32:07+0530 > mtest
+2019-04-25 17:32:34+0530 >  setenv selinux permissive<BckSp><#+4><BckSp><#+8><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>disabled
+2019-04-25 17:37:39+0530 > boor<BckSp>t
+2019-04-25 17:37:44+0530 >  setenv bootargs android.selinux=diable
+2019-04-25 17:40:39+0530 > saveenv
+2019-04-25 17:40:47+0530 > boot
+2019-04-25 17:41:22+0530 >  env fefault <BckSp><#+9><BckSp><BckSp>default -f
+2019-04-25 17:48:14+0530 > <Up><BckSp>a
+2019-04-25 17:48:21+0530 > <CpsLk><CpsLk>zs20<BckSp><#+13>zs10062013
+2019-04-26 08:59:55+0530 > <CpsLk><CpsLk>zs10062013
+2019-04-26 10:27:40+0530 > <PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><Up><#+8><CpsLk>115200<BckSp><BckSp>USB0115200<BckSp><BckSp>USB0 <PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><#+21><PgDn><PgDn><PgDn><#+1><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><Down><#+14><Down><#+7><Down>SETENV <BckSp><#+16><CpsLk>setenv bootcmd boota mmc2
+2019-04-26 10:36:12+0530 > setenv bootargs console=ttymxc0,115200 androidboot.console=ttymxc0 consoleblank=0 vmalloc=128<CpsLk>M <CpsLk>init=/init video=mxcfb0;dev=hdmi,1920x1080<CpsLk>M<RShft>@<CpsLk>60,bpp=32 video=mxcfb1<RShft>:off video=mxcfb2<RShft>:off video=mxcfb3<RShft>:off androidboot.hardware=freescale cma=448<CpsLk>M<CpsLk> galcore.contiguous<CpsLk>S<CpsLk>ize=33554432 androidboot.selinux=permissive
+2019-04-26 10:40:05+0530 > saveenv
+2019-04-26 10:40:12+0530 > boot
+2019-04-26 10:40:18+0530 > g
+2019-04-26 10:50:21+0530 > android 8 imx<Down> not<Down>
+2019-04-26 10:50:38+0530 >  env default -a
+2019-04-26 10:55:30+0530 > boot
+2019-04-26 10:55:34+0530 > mfg tool andr<Down> imx<Down>
+2019-04-26 10:57:08+0530 > imx<Down><Down> software<Down>
+2019-04-26 10:58:11+0530 > <CpsLk><CpsLk>hakeem12308g
+2019-04-26 11:03:51+0530 > selinux loaded file c<Down>
+2019-04-26 11:04:08+0530 > waitpid fail imx6q
+2019-04-26 11:06:08+0530 > <PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><#+14><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><#+12><PgDn><#+14><PgDn><#+10><PgDn><#+8><PgUp><PgDn><PgUp> boot log
+2019-04-26 11:08:23+0530 > <PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><#+9><PgDn><PgDn><#+12><PgDn><#+16><PgDn><PgDn><#+7><PgDn><Up><#+7><Up><Down><#+10><Down><#+10><Down><#+6><Down><#+14><Down><#+9><Down><#+13><Down><#+14><Down><#+12><Down><#+11><Up><#+9><Down><#+14><PgDn><Down><#+9><Down><#+12><Down><#+11><Down><#+2><Down><#+11><Down><#+18><Down><#+15><Down><#+6><Down><#+7><Down><#+24><Down><#+13><Down><#+18><Down><#+23><Down><#+21><Down><#+11><Down><#+13><Down><#+14><Down><#+14><Down><#+15><Down><#+18><Down><#+12><Down><#+12><Down><#+11><Down><#+8><Down><#+11><Down><#+6><Down><#+15><Down><Down><#+6><Down><#+6><Down><#+8><Down><#+13><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><#+10><PgDn><#+15><PgDn><#+14><PgDn><#+15><PgDn><#+13><PgDn><#+14><PgDn><#+12><PgDn><#+13><PgDn><#+20><PgUp> android 8
+2019-04-26 11:25:23+0530 > <BckSp><BckSp><CpsLk>USB0115200 SETENV <BckSp><#+15><CpsLk>setenv bootargs
+2019-04-26 11:42:00+0530 > setenv fastboot<RShft>_dev mmc2
+2019-04-26 11:42:26+0530 > setenv bootcmd boota mmc2
+2019-04-26 11:42:43+0530 > saveenv
+2019-04-26 11:42:53+0530 > boot
+2019-04-26 11:42:59+0530 > untrusted app <BckSp><RShft>_2imx android 8 
+2019-04-26 11:47:21+0530 > <Down><Down><Down><#+11><Down><#+16><Down><#+9><Down><#+17><Down><#+7><Down><#+14><Down><#+11><Down><#+1><Down><PgDn><Up><Up><Down><#+15><Down><#+8><PgDn><PgUp><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><Down><Down><PgDn><PgDn><PgDn><PgUp><PgDn><PgDn><PgDn><PgDn> bbot stop
+2019-04-26 11:50:58+0530 > <CpsLk>PFN <Left><Left><Left><Left> <CpsLk><End> busy
+2019-04-26 12:03:51+0530 > <CpsLk><CpsLk>zs10062013
+2019-04-26 12:52:05+0530 > 115200<BckSp><BckSp><CpsLk>USB0<CpsLk><CpsLk><CpsLk>zs10062013
+2019-04-26 14:54:00+0530 > <PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgUp><PgUp><PgUp><#+12>g
+2019-04-26 15:08:33+0530 >  freescale i.mx6q rev 1.2 automo<Down><Left><#+10><Left><Left><Left>966mhz 
+2019-04-26 15:10:22+0530 > <PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><#+25><PgDn><PgDn><#+16><PgDn><#+13><CpsLk>MX6 <CpsLk>sabre sd <Down> prebuilt image
+2019-04-26 15:16:28+0530 > <LCtrl>c
+2019-04-26 15:20:01+0530 > g
+2019-04-26 15:20:05+0530 > <LCtrl>v image for imx<Left>q
+2019-04-26 15:27:08+0530 > boot
+2019-04-26 15:30:07+0530 > siml<BckSp>ple linux kernal for imx sabre sd board
+2019-04-26 15:30:55+0530 >  g
+2019-04-26 15:33:47+0530 > u-boot 2017<Down>
+2019-04-26 15:34:01+0530 >  to u boot 2017.07
+2019-04-26 15:34:20+0530 > <PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgUp><PgDn><PgDn><PgDn><PgUp><PgDn><Up><#+7><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><#+12><PgDn><#+13><PgDn><#+12><PgDn>how to create u boot<Down> for<Down><Down><Down>
+2019-04-26 15:36:51+0530 > q sabre sd
+2019-04-26 15:37:00+0530 > <LCtrl>c
+2019-04-26 15:38:19+0530 > 
+2019-04-26 15:38:29+0530 > ls
+2019-04-26 15:40:27+0530 > cd u-boot
+2019-04-26 15:40:39+0530 > <LCtrl>c
+2019-04-26 15:40:44+0530 > 
+2019-04-26 15:40:53+0530 > <LCtrl>c
+2019-04-26 15:40:57+0530 > 
+2019-04-26 15:41:14+0530 > 
+2019-04-26 15:41:45+0530 > <Up><Up>
+2019-04-26 15:42:01+0530 > u<PgDn><PgDn><PgDn><PgDn><PgDn><#+1><PgDn><#+8><PgDn><#+2><PgDn><#+13><PgDn><#+15><PgDn><#+12><PgDn><#+12><PgDn><#+15><PgDn><PgDn><#+12><PgDn><PgDn><#+8><PgDn><#+11><PgDn><PgDn><#+8><PgDn><#+9><PgDn><#+10><PgDn><#+10><PgDn><#+12><PgDn><#+12><PgDn><#+27><PgUp><PgUp><#+13><PgUp><#+11><PgUp><PgUp><PgUp><PgDn><PgUp><PgUp><#+10><PgUp><#+9><PgUp><PgUp><#+13><PgUp><#+12>ii<BckSp>m<BckSp><BckSp>mx<PgDn><PgDn><PgUp><PgDn><PgDn><PgDn><#+12><PgDn><#+49><PgDn><#+20><Up>
+2019-04-26 15:52:18+0530 > g
+2019-04-26 15:52:37+0530 > <LCtrl>v
+2019-04-26 15:52:39+0530 > andro<Down> 8  imx<Down> <BckSp>q sa<Down> 
+2019-04-26 16:00:08+0530 > 115200<BckSp><BckSp><CpsLk>USB0 <CpsLk>mmc part
+2019-04-26 16:08:51+0530 > <Up><Left><#+7><Left><Left>2
+2019-04-26 16:09:09+0530 > <PgDn><Down><Down><Up><#+11><Del><Del><Del><Del><CpsLk><CpsLk>hakeem12308<LCtrl>a<LCtrl><Del><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgDn><PgDn><PgUp><PgUp><PgUp><PgUp><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgUp><Down><#+4><Down><Down><Down><Down><Down><#+11><Down><#+12><PgDn><PgDn><PgDn><PgUp><PgUp><PgUp><PgUp><PgDn><LCtrl>cd ..
+2019-04-26 16:31:32+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down><Down>
+2019-04-26 16:31:38+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down>
+2019-04-26 16:31:53+0530 > <LCtrl>c
+2019-04-26 16:32:42+0530 > g
+2019-04-26 16:32:46+0530 > <LCtrl>v linux flas<Down>
+2019-04-26 16:33:05+0530 > mfg tool for linux
+2019-04-26 16:34:02+0530 > how flash emmc through linux pc
+2019-04-26 16:35:47+0530 > <Up><Up><Up><Up><Up><Up><Down><Down><Down><Down>
+2019-04-26 16:37:09+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><BckSp><#+16>ldisk
+2019-04-26 16:37:22+0530 > lfdisk
+2019-04-26 16:37:36+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Down><Left><#+26><BckSp><#+23>imx6q 
+2019-04-26 16:38:16+0530 > <LCtrl><Up><Up><Up><Up><Up><Up><Down>
+2019-04-26 16:45:02+0530 > <Up><Up><Up><Up><Up><Up><Down>
+2019-04-26 16:45:09+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down><BckSp><#+12><BckSp><#+9><BckSp><#+8><BckSp><BckSp><BckSp><BckSp>dev/sdc
+2019-04-26 16:46:02+0530 > zs10062013
+2019-04-26 16:46:10+0530 > <Up><Up>
+2019-04-26 16:46:13+0530 > <Up><Up>1
+2019-04-26 16:46:40+0530 > <Up><BckSp>2
+2019-04-26 16:46:47+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down><BckSp>c
+2019-04-26 16:47:23+0530 > <Up><Left><#+11><Left><Left><BckSp><BckSp><BckSp> 
+2019-04-26 16:47:33+0530 > d
+2019-04-26 16:47:38+0530 > 1
+2019-04-26 16:47:40+0530 > d
+2019-04-26 16:47:42+0530 > m
+2019-04-26 16:47:47+0530 > i
+2019-04-26 16:47:54+0530 > p
+2019-04-26 16:48:10+0530 > w
+2019-04-26 16:48:17+0530 > <Up><Up>
+2019-04-26 16:48:21+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up>
+2019-04-26 16:49:29+0530 > <Up><Up><Up><Down>
+2019-04-26 16:49:37+0530 > <Up><Up><Down><Left><#+11><Left><BckSp><BckSp><BckSp>
+2019-04-26 16:49:46+0530 > d
+2019-04-26 16:49:48+0530 > d
+2019-04-26 16:49:56+0530 > d
+2019-04-26 16:49:58+0530 > p
+2019-04-26 16:50:00+0530 > w
+2019-04-26 16:50:08+0530 > <Up><Up>
+2019-04-26 16:50:35+0530 > <Up><Up>
+2019-04-26 16:50:41+0530 > d
+2019-04-26 16:50:46+0530 > w
+2019-04-26 16:50:50+0530 > <Up><Up>
+2019-04-26 16:51:43+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down>
+2019-04-26 16:51:49+0530 > <Up><Up>
+2019-04-26 16:51:59+0530 > <Left><#+10><Left><Left><BckSp><BckSp><BckSp><BckSp><BckSp><End>
+2019-04-26 16:53:03+0530 > zs10062013
+2019-04-26 16:53:10+0530 > <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LCtrl>z<Down><LCtrl>s<BckSp><BckSp><BckSp><BckSp><BckSp><LCtrl>s<Up>
+2019-04-26 16:55:49+0530 > <PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><#+1><PgDn><PgDn><PgUp><PgDn><PgDn><PgDn><PgDn><#+10><PgDn><#+9><PgDn><PgDn><PgUp><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgUp><PgUp><PgDn><PgDn><PgDn><PgDn><PgDn><PgUp><PgUp><PgUp><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgUp>115200<BckSp><BckSp><CpsLk>USB0 <CpsLk>setenv bootcmd boota mmc2
+2019-04-26 17:32:55+0530 > set<BckSp><BckSp><BckSp>saveenv
+2019-04-26 17:33:45+0530 > bbo<BckSp><BckSp>oot
+2019-04-26 17:33:50+0530 > hh setenv bootargs console=ttymxco,115200 androidboot.console=ttymxc0<Left><#+31><BckSp>0<End> consoleblank=0 vmalloc=128<CpsLk>M <CpsLk>init=/init video=mxcfb0<RShft>:dev=hdmi,1920x1080<CpsLk>M<LShft>@60,<CpsLk>bpp=32 video=mxcfb1<RShft>:off video=mxcfb2<RShft>:off video=mxcfb3<RShft>:off androiboot.hardware=freescale cma=448<CpsLk>M GALORE<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><CpsLk>galcore.contiguous<CpsLk>A<BckSp>S<CpsLk>ize=33554432 androidboot.selinux=permissive
+2019-04-26 17:45:14+0530 > saveenv
+2019-04-26 17:45:21+0530 > m<BckSp>boot
+2019-04-26 17:45:28+0530 >  env f<BckSp>default -a
+2019-04-26 17:53:01+0530 > <Up><Up><Down>setenv extra<RShft>_bootargs video=mxcfb0<RShft>:dev=hdmi,1920x1080<CpsLk>M<RShft>@60 <CpsLk>video=mxcfb1<RShft>:off video=mxcfb2<RShft>:off video=mxcfb3<RShft>:off
+2019-04-26 17:55:10+0530 > setenv video<RShft>_args
+2019-04-26 17:55:26+0530 > setenv bootargs<RShft>_android<RShft>"android.hardware=freescale<RShft>"
+2019-04-26 17:56:51+0530 > <Up><BckSp><Left><#+21><Left><Left><Left><Left><Left><BckSp> <End>
+2019-04-26 17:57:26+0530 > bootargs<RShft>_once=androidboot.cache=format androidboot.data.cache=format<Left><#+11><Left><#+8><Left><#+10><Right><#+10><Right><Right><Right><Right><Right><Right><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><End>
+2019-04-26 17:58:58+0530 > <Up><Left><#+32><Left><#+26>setenv 
+2019-04-26 17:59:29+0530 > <Up><Left><#+40><Left><Left><Right><BckSp> 
+2019-04-26 17:59:40+0530 > boo<BckSp><#+9>saveenv
+2019-04-26 17:59:55+0530 > boot
+2019-04-26 17:59:59+0530 > <Up>
+2019-04-26 18:00:03+0530 >  echo
+2019-04-26 18:04:37+0530 > echo /sys/power/wake<RShft>_lock
+2019-04-26 18:04:56+0530 > boot
+2019-04-26 18:05:00+0530 >  echo <RShft>"<CpsLk>N<RShft>"<CpsLk> <RShft>> /sys/module/printk/parameters/console<RShft>_suspend
+2019-04-26 18:07:06+0530 > boot
+2019-04-26 18:07:11+0530 > e echo freeze /mem/disk <RShft>> /sys/power/state
+2019-04-26 18:15:04+0530 > boot
+2019-04-26 18:17:20+0530 > echo printenv
+2019-04-26 18:19:01+0530 >    <CpsLk><CpsLk>zs10062013
+2019-04-27 08:57:11+0530 > <CpsLk><CpsLk> setenv bootargs
+2019-04-27 09:02:39+0530 > setenv fastboot<RShft>_dev mmc2
+2019-04-27 09:02:58+0530 > setenv bootcmd boota mmc2
+2019-04-27 09:03:13+0530 > setenv bootargs console=ttymxc0,115200 androidboot.console=ttymxc0 consoleblank=0 vmalloc=128<CpsLk>M <CpsLk>init=/init video=mxcfb0<RShft>:dev=hdmi,1920x1080<CpsLk>M<CpsLk><RShft>@60,1<BckSp>bpp=32 video=mxcfb1<RShft>:off video=mxcfb2<RShft>:off video=mxcfb3<RShft>:off androidboot.hardware=freescae cma=448<RShft>M galcore.contiguous<CpsLk>S<CpsLk>ize=33554432 androidboot.selinux=permissive
+2019-04-27 09:07:12+0530 > saveenv
+2019-04-27 09:07:18+0530 > boot
+2019-04-27 09:07:43+0530 >  enc<BckSp>v default -a
+2019-04-27 09:09:41+0530 > <Up><Down>boot
+2019-04-27 09:09:48+0530 > <Esc><KP1><KP1><KP5><KP2><KP0><KP0><Right><BckSp><BckSp><CpsLk>USB0
+2019-04-27 09:35:35+0530 > 
+2019-04-27 09:35:36+0530 > 
+2019-04-27 09:35:36+0530 > 
+2019-04-27 09:35:36+0530 > 
+2019-04-27 09:35:37+0530 > 
+2019-04-27 09:35:39+0530 > 
+2019-04-27 09:35:46+0530 > 
+2019-04-27 09:35:47+0530 > 
+2019-04-27 09:35:47+0530 > 
+2019-04-27 09:35:48+0530 > 
+2019-04-27 09:35:48+0530 > 
+2019-04-27 09:35:50+0530 > 
+2019-04-27 09:35:51+0530 > 
+2019-04-27 09:35:51+0530 > 
+2019-04-27 09:35:53+0530 > 
+2019-04-27 09:35:53+0530 > 
+2019-04-27 09:35:53+0530 > 
+2019-04-27 09:35:53+0530 > 
+2019-04-27 09:35:57+0530 > 
+2019-04-27 09:35:57+0530 > 
+2019-04-27 09:35:58+0530 > <#+8>
+2019-04-27 09:35:58+0530 > 
+2019-04-27 09:35:59+0530 > 
+2019-04-27 09:35:59+0530 > 
+2019-04-27 09:35:59+0530 > 
+2019-04-27 09:35:59+0530 > 
+2019-04-27 09:36:02+0530 > 
+2019-04-27 09:36:07+0530 > 
+2019-04-27 09:36:07+0530 > 
+2019-04-27 09:36:07+0530 > 
+2019-04-27 09:36:15+0530 > 
+2019-04-27 09:36:15+0530 > 
+2019-04-27 09:36:15+0530 > 
+2019-04-27 09:36:15+0530 > 
+2019-04-27 09:36:16+0530 > 
+2019-04-27 09:36:19+0530 > 
+2019-04-27 09:36:19+0530 > 
+2019-04-27 09:36:19+0530 > 
+2019-04-27 09:36:22+0530 > 
+2019-04-27 09:36:22+0530 > 
+2019-04-27 09:36:22+0530 > 
+2019-04-27 09:36:24+0530 > 
+2019-04-27 09:36:24+0530 > 
+2019-04-27 09:36:25+0530 > 
+2019-04-27 09:36:25+0530 > 
+2019-04-27 09:36:26+0530 > 
+2019-04-27 09:36:31+0530 > 
+2019-04-27 09:36:31+0530 > 
+2019-04-27 09:36:33+0530 > 
+2019-04-27 09:36:36+0530 > 
+2019-04-27 09:36:36+0530 > 
+2019-04-27 09:36:55+0530 > 
+2019-04-27 09:36:55+0530 > 
+2019-04-27 09:36:56+0530 > 
+2019-04-27 09:36:56+0530 > 
+2019-04-27 09:36:56+0530 > 
+2019-04-27 09:37:07+0530 > 
+2019-04-27 09:37:07+0530 > 
+2019-04-27 09:37:07+0530 > 
+2019-04-27 09:37:07+0530 > 
+2019-04-27 09:37:08+0530 > 
+2019-04-27 09:37:08+0530 > 
+2019-04-27 09:37:08+0530 > 
+2019-04-27 09:37:08+0530 > 
+2019-04-27 09:37:08+0530 > 
+2019-04-27 09:37:08+0530 > 
+2019-04-27 09:37:09+0530 > 
+2019-04-27 09:37:09+0530 > 
+2019-04-27 09:37:09+0530 > 
+2019-04-27 09:37:09+0530 > 
+2019-04-27 09:37:42+0530 > 
+2019-04-27 09:37:43+0530 > 
+2019-04-27 09:37:43+0530 > 
+2019-04-27 09:37:43+0530 > 
+2019-04-27 09:37:43+0530 > LS
+2019-04-27 09:37:45+0530 > <CpsLk>ls
+2019-04-27 09:37:50+0530 > reboot
+2019-04-27 09:38:40+0530 > 
+2019-04-27 09:38:40+0530 > 
+2019-04-27 09:38:41+0530 > 
+2019-04-27 09:38:41+0530 > 
+2019-04-27 09:38:41+0530 > 
+2019-04-27 09:38:42+0530 > 
+2019-04-27 09:38:42+0530 > 
+2019-04-27 09:38:42+0530 > 
+2019-04-27 09:38:42+0530 > 
+2019-04-27 09:38:42+0530 > 
+2019-04-27 09:38:43+0530 > 
+2019-04-27 09:38:43+0530 > 
+2019-04-27 09:38:44+0530 > <LCtrl><LShft>T<#+1>sudo minicom
+2019-04-27 09:39:26+0530 > zs10062013
+2019-04-27 09:39:33+0530 > 
+2019-04-27 09:39:34+0530 > 
+2019-04-27 09:39:34+0530 > 
+2019-04-27 09:39:35+0530 > 
+2019-04-27 09:39:35+0530 > 
+2019-04-27 09:39:35+0530 > 
+2019-04-27 09:39:36+0530 > 
+2019-04-27 09:39:36+0530 > 
+2019-04-27 09:39:36+0530 > re
+2019-04-27 09:39:39+0530 > 
+2019-04-27 09:39:39+0530 > 
+2019-04-27 09:39:40+0530 > 
+2019-04-27 09:39:40+0530 > 
+2019-04-27 09:39:40+0530 > 
+2019-04-27 09:39:40+0530 > 
+2019-04-27 09:39:40+0530 > 
+2019-04-27 09:39:41+0530 > 
+2019-04-27 09:39:41+0530 > 
+2019-04-27 09:39:41+0530 > 
+2019-04-27 09:39:41+0530 > 
+2019-04-27 09:39:42+0530 > 
+2019-04-27 09:39:42+0530 > 
+2019-04-27 09:39:42+0530 > 
+2019-04-27 09:39:42+0530 > 
+2019-04-27 09:39:43+0530 > 
+2019-04-27 09:39:54+0530 > 
+2019-04-27 09:39:54+0530 > 
+2019-04-27 09:39:54+0530 > 
+2019-04-27 09:39:54+0530 > 
+2019-04-27 09:39:59+0530 > 
+2019-04-27 09:39:59+0530 > 
+2019-04-27 09:40:00+0530 > 
+2019-04-27 09:40:00+0530 > 
+2019-04-27 09:40:00+0530 > 
+2019-04-27 09:40:00+0530 > 
+2019-04-27 09:40:09+0530 > 
+2019-04-27 09:40:19+0530 > seten<BckSp><#+13><LCtrl>c
+2019-04-27 09:40:35+0530 > <Left><#+30><End>
+2019-04-27 09:41:00+0530 > <Up><Up><BckSp> <Down><Home><BckSp><LCtrl>z<BckSp><LCtrl>z<LCtrl>c
+2019-04-27 09:43:11+0530 > <BckSp><#+70>   
+2019-04-27 09:43:46+0530 > 
+2019-04-27 09:43:46+0530 > 
+2019-04-27 09:43:46+0530 > 
+2019-04-27 09:43:46+0530 > 
+2019-04-27 09:43:47+0530 > <Up><LCtrl>c
+2019-04-27 09:43:55+0530 > <Left><#+28><Left><Left><Left><BckSp><BckSp><End><End> <End><Right><Right><Right><BckSp><BckSp><Right><Right><Right><Right><Right><Right>           
+2019-04-27 09:45:04+0530 > 
+2019-04-27 09:45:04+0530 > 
+2019-04-27 09:45:04+0530 > 
+2019-04-27 09:45:05+0530 > <Up><#+1> <#+3> <BckSp><#+28><BckSp><BckSp><BckSp><BckSp><LCtrl>c
+2019-04-27 09:46:00+0530 > 
+2019-04-27 09:46:04+0530 > 
+2019-04-27 09:46:05+0530 > 
+2019-04-27 09:46:05+0530 > 
+2019-04-27 09:46:05+0530 > 
+2019-04-27 09:46:05+0530 > 
+2019-04-27 09:46:05+0530 > 
+2019-04-27 09:46:05+0530 > <LCtrl>c
+2019-04-27 09:46:11+0530 >   <LCtrl>c
+2019-04-27 09:46:22+0530 >  <LCtrl>c
+2019-04-27 09:46:38+0530 >  <LCtrl>c
+2019-04-27 09:46:53+0530 >  
+2019-04-27 09:47:02+0530 > printenv
+2019-04-27 09:47:08+0530 > boot
+2019-04-27 09:47:34+0530 > 
+2019-04-27 09:48:59+0530 > 
+2019-04-27 09:49:01+0530 > 
+2019-04-27 09:49:01+0530 > 
+2019-04-27 09:49:01+0530 > 
+2019-04-27 09:49:02+0530 > 
+2019-04-27 09:49:04+0530 > 
+2019-04-27 09:49:04+0530 > 
+2019-04-27 09:49:04+0530 > 
+2019-04-27 09:49:06+0530 > 
+2019-04-27 09:49:07+0530 > 
+2019-04-27 09:49:08+0530 > 
+2019-04-27 09:49:09+0530 > 
+2019-04-27 09:49:09+0530 > reboot
+2019-04-27 09:49:16+0530 > 
+2019-04-27 09:50:23+0530 > wins<BckSp><BckSp><BckSp><BckSp>n
+2019-04-27 09:54:58+0530 > reboot
+2019-04-27 09:55:04+0530 > 
+2019-04-27 09:55:07+0530 > <LCtrl>c
+2019-04-27 09:55:27+0530 > 
+2019-04-27 09:55:33+0530 > <LCtrl>c
+2019-04-27 09:55:45+0530 >    
+2019-04-27 09:56:46+0530 > ptit<BckSp><BckSp><BckSp><BckSp>printenv
+2019-04-27 09:56:59+0530 > 115200<BckSp><BckSp><CpsLk>USB0
+2019-04-27 09:57:47+0530 > <Up>PRINTENV
+2019-04-27 09:57:56+0530 > <BckSp><BckSp><BckSp><LCtrl>c
+2019-04-27 09:58:20+0530 > P<BckSp><CpsLk>printenv
+2019-04-27 09:58:28+0530 > saveenv
+2019-04-27 09:58:39+0530 > boot
+2019-04-27 09:58:43+0530 > 
+2019-04-27 09:59:04+0530 > 
+2019-04-27 09:59:08+0530 > 
+2019-04-27 09:59:13+0530 > 
+2019-04-27 09:59:15+0530 > 
+2019-04-27 09:59:16+0530 > 
+2019-04-27 09:59:16+0530 > 
+2019-04-27 09:59:21+0530 > 
+2019-04-27 09:59:23+0530 > 
+2019-04-27 09:59:23+0530 > 
+2019-04-27 09:59:24+0530 > 
+2019-04-27 09:59:24+0530 > 
+2019-04-27 09:59:24+0530 > 
+2019-04-27 09:59:24+0530 > 
+2019-04-27 09:59:25+0530 > 
+2019-04-27 09:59:25+0530 > 
+2019-04-27 09:59:26+0530 > 
+2019-04-27 09:59:27+0530 > 
+2019-04-27 09:59:28+0530 > 
+2019-04-27 09:59:28+0530 > 
+2019-04-27 09:59:29+0530 > 
+2019-04-27 09:59:32+0530 > 
+2019-04-27 09:59:34+0530 > 
+2019-04-27 09:59:36+0530 > 
+2019-04-27 09:59:37+0530 > 
+2019-04-27 09:59:38+0530 > 
+2019-04-27 09:59:39+0530 > 
+2019-04-27 09:59:40+0530 > 
+2019-04-27 09:59:42+0530 > ls
+2019-04-27 09:59:45+0530 > 
+2019-04-27 09:59:53+0530 > 
+2019-04-27 09:59:54+0530 > 
+2019-04-27 09:59:54+0530 > 
+2019-04-27 09:59:54+0530 > 
+2019-04-27 09:59:55+0530 > 
+2019-04-27 09:59:55+0530 > 
+2019-04-27 09:59:55+0530 > 
+2019-04-27 09:59:55+0530 > 
+2019-04-27 09:59:56+0530 > 
+2019-04-27 09:59:56+0530 > 
+2019-04-27 09:59:56+0530 > 
+2019-04-27 09:59:56+0530 > 
+2019-04-27 09:59:56+0530 > 
+2019-04-27 09:59:56+0530 > 
+2019-04-27 09:59:57+0530 > 
+2019-04-27 09:59:57+0530 > 
+2019-04-27 09:59:57+0530 > 
+2019-04-27 09:59:57+0530 > 
+2019-04-27 10:01:02+0530 > reboot
+2019-04-27 10:01:07+0530 > 
+2019-04-27 10:02:01+0530 > 
+2019-04-27 10:02:03+0530 >     
+2019-04-27 10:04:55+0530 > 
+2019-04-27 10:04:55+0530 > 
+2019-04-27 10:04:56+0530 > 
+2019-04-27 10:04:56+0530 > 
+2019-04-27 10:05:04+0530 > 
+2019-04-27 10:05:04+0530 > 
+2019-04-27 10:05:04+0530 > reboot
+2019-04-27 10:05:17+0530 >   printenv
+2019-04-27 10:05:41+0530 > hdmi confi<Down> android 8 imx
+2019-04-27 10:06:22+0530 > <Up><Up><Down><Up>
+2019-04-27 10:08:26+0530 > 115200<BckSp><BckSp><CpsLk>USB0 PRINT<BckSp><#+15><CpsLk>printenv
+2019-04-27 10:10:15+0530 > sony lcd pixel hdmi
+2019-04-27 10:11:05+0530 > <Up>
+2019-04-27 10:12:07+0530 > boot
+2019-04-27 10:12:10+0530 > g
+2019-04-27 10:13:22+0530 > <CpsLk>HDMI <CpsLk>video isnot <Down> i.mx
+2019-04-27 10:18:25+0530 > 
+2019-04-27 10:21:50+0530 > 
+2019-04-27 10:21:55+0530 > <PgUp><PgUp><PgUp><#+11><PgUp><#+21><PgUp><PgUp><PgUp><PgUp><PgDn><PgDn><PgUp><#+19><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><#+11><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><#+12><PgUp><#+8><PgUp><PgUp><PgDn><PgDn><PgDn><PgDn><Down>setenv bootargs <Up><Up><Up><Up><LCtrl><LShft>Tsudo minic<BckSp>com
+2019-04-27 10:29:29+0530 > zs10062013
+2019-04-27 10:29:35+0530 > 
+2019-04-27 10:29:36+0530 > 
+2019-04-27 10:29:36+0530 > prin<Tab><#+1>
+2019-04-27 10:29:46+0530 > '
+2019-04-27 10:29:52+0530 > 
+2019-04-27 10:29:53+0530 > 
+2019-04-27 10:29:53+0530 > 
+2019-04-27 10:29:54+0530 > 
+2019-04-27 10:29:54+0530 > 
+2019-04-27 10:29:55+0530 > <LCtrl>c
+2019-04-27 10:29:55+0530 > <#+1> 
+2019-04-27 10:29:56+0530 > 
+2019-04-27 10:29:56+0530 > 
+2019-04-27 10:29:56+0530 > 
+2019-04-27 10:29:56+0530 > 
+2019-04-27 10:29:56+0530 > 
+2019-04-27 10:29:57+0530 > 
+2019-04-27 10:30:10+0530 > 
+2019-04-27 10:30:10+0530 > <LCtrl>a<#+4>t<LCtrl><LShft>T<#+1><Up>
+2019-04-27 10:30:19+0530 > zs10062013
+2019-04-27 10:30:23+0530 > 
+2019-04-27 10:30:23+0530 > 
+2019-04-27 10:30:24+0530 > 
+2019-04-27 10:30:24+0530 > 
+2019-04-27 10:30:24+0530 > 
+2019-04-27 10:30:24+0530 > 
+2019-04-27 10:30:24+0530 > c<#+2><BckSp>reboot
+2019-04-27 10:30:28+0530 > 
+2019-04-27 10:30:29+0530 > 
+2019-04-27 10:30:29+0530 > 
+2019-04-27 10:30:36+0530 > 
+2019-04-27 10:30:36+0530 > 
+2019-04-27 10:30:36+0530 > pri<Tab>
+2019-04-27 10:30:50+0530 > 
+2019-04-27 10:30:53+0530 > 
+2019-04-27 10:30:53+0530 > 
+2019-04-27 10:30:54+0530 > boot
+2019-04-27 10:31:05+0530 > 
+2019-04-27 10:31:57+0530 > <LAlt><Tab><LAlt><Tab><Tab><Tab>
+2019-04-27 10:32:31+0530 > <LCtrl><LShft><Up><Up><Up><#+181><Down><LCtrl><LShft><Up><#+87><Up><Up><#+2><Up><Up><#+127><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><#+14><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><#+20><Up><Up><Up><Up><Up><Up><Up><#+19><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><#+21><Up><Up><Up><#+18>F<LShft>HF<BckSp>fm<BckSp><BckSp>dmi
+2019-04-27 10:33:45+0530 > 
+2019-04-27 10:33:46+0530 > <Esc><Down><LCtrl><LShft><LCtrl><LShft>F
+2019-04-27 10:33:55+0530 > 
+2019-04-27 10:33:57+0530 > 
+2019-04-27 10:33:57+0530 > 
+2019-04-27 10:33:58+0530 > 
+2019-04-27 10:33:59+0530 > 
+2019-04-27 10:34:01+0530 > 
+2019-04-27 10:34:04+0530 > <Esc><LCtrl><LShft><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><LAlt><Tab><LAlt><Tab><LAlt><Tab><Tab><Down><Up><LAlt><Tab><Down><Up><Up>
+2019-04-27 10:34:41+0530 > 
+2019-04-27 10:34:41+0530 > 
+2019-04-27 10:34:41+0530 > <LCtrl><LShft>F
+2019-04-27 10:34:48+0530 > 
+2019-04-27 10:34:48+0530 > 
+2019-04-27 10:34:49+0530 > 
+2019-04-27 10:34:49+0530 > 
+2019-04-27 10:34:49+0530 > 
+2019-04-27 10:34:50+0530 > 
+2019-04-27 10:34:50+0530 > 
+2019-04-27 10:34:53+0530 > 
+2019-04-27 10:35:03+0530 > <Esc><LCtrl><LShft><Down><Down><Down><Down><Down><Down><#+23><Down>
+2019-04-27 10:35:48+0530 > editenv
+2019-04-27 10:35:52+0530 > <Up><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>prienv
+2019-04-27 10:35:59+0530 > printenv
+2019-04-27 10:36:03+0530 > exu<BckSp><BckSp><BckSp>edit bootargs
+2019-04-27 10:36:19+0530 > <Left><#+17><Right><#+20><Left><#+35><Right><#+19><Right><Right><Right><Left><#+81><Left><Left><Left><Left><Left><#+26><Right><#+43><Right><Right><Right><#+75><Right><Right><Right><Right><Right><Right>
+2019-04-27 10:36:45+0530 > 
+2019-04-27 10:36:46+0530 > 
+2019-04-27 10:36:46+0530 > 
+2019-04-27 10:36:46+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><LAlt><Tab>prdecte<BckSp><BckSp>dec<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>dectedtext<Left><Left><Left><Left><Left><Left>d<BckSp><BckSp>t
+2019-04-27 10:37:21+0530 > zumi
+2019-04-27 10:37:30+0530 > 1986harish
+2019-04-27 10:37:39+0530 > <LCtrl>c
+2019-04-27 10:37:58+0530 > c
+2019-04-27 10:37:58+0530 > c
+2019-04-27 10:37:58+0530 > 
+2019-04-27 10:38:02+0530 > 
+2019-04-27 10:38:03+0530 > <Up><Up><Up><Up><Down><Down><Down><Up><Up><Up><BckSp> <Left><Right><Down><Down><Down><LCtrl>v<Up><Up><Up><Up><Up><Up><Up><Up><Down><Down><Down><Down><Up><Up><Up><Left><Left><#+17><Left><Left><Right><LCtrl><LShft><Left><Left><Left><Left><Left><Left><Left><Left><Left><LCtrl>c
+2019-04-27 10:38:36+0530 > c
+2019-04-27 10:38:36+0530 > <Down><Down><Down><Down><Down><Down><Up><Right><#+23><Right><Right><LCtrl><LShft><Right><LCtrl>v<Down><Down><Down><LShft><Up><Up><Up><Right><LCtrl>c
+2019-04-27 10:38:47+0530 > c
+2019-04-27 10:38:48+0530 > <LAlt><Tab><Tab><RShft><Ins>
+2019-04-27 10:38:52+0530 > saveenv
+2019-04-27 10:38:57+0530 > boot
+2019-04-27 10:39:01+0530 > <Down><Up><Down>
+2019-04-27 10:50:04+0530 > g
+2019-04-27 10:51:37+0530 > linu<Down> chara<Down> how to build
+2019-04-27 10:51:55+0530 > <LCtrl>c
+2019-04-27 10:57:02+0530 > <LCtrl>v android 8
+2019-04-27 10:57:13+0530 > <PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgDn><PgDn><PgDn><PgUp><PgUp><PgUp><PgUp><PgUp><PgDn>
+2019-04-27 11:01:49+0530 > /var/log/messages
+2019-04-27 11:02:10+0530 > lsmod
+2019-04-27 11:02:30+0530 > 
+2019-04-27 11:02:37+0530 > dmeg<BckSp>sg
+2019-04-27 11:02:48+0530 > <Up><Left><#+12>sudo 
+2019-04-27 11:02:55+0530 > insmod
+2019-04-27 11:03:05+0530 > help
+2019-04-27 11:03:21+0530 > <Up><Up> -help
+2019-04-27 11:03:28+0530 > ls -l/dev
+2019-04-27 11:04:16+0530 > <PgDn><PgDn>sssimple<RShft>_driversid<Del>b<CpsLk>D<Del>SI<BckSp><BckSp><CpsLk>simple<RShft>_driverss<BckSp>i<BckSp><BckSp><BckSp><BckSp>sim<BckSp><BckSp><BckSp><BckSp>
+2019-04-27 11:18:09+0530 > 
+2019-04-27 11:18:09+0530 > 
+2019-04-27 11:18:09+0530 > 
+2019-04-27 11:18:09+0530 > 
+2019-04-27 11:18:10+0530 > cd simple<RShft>_driver
+2019-04-27 11:19:22+0530 > ls -l
+2019-04-27 11:19:26+0530 > sudo make
+2019-04-27 11:19:46+0530 > zs10062013
+2019-04-27 11:19:55+0530 > ls -l
+2019-04-27 11:20:05+0530 > sudo insmod hello<RShft>_world<RShft>_module.ko
+2019-04-27 11:20:55+0530 > lsmod
+2019-04-27 11:21:06+0530 > dmesg
+2019-04-27 11:21:39+0530 > lsmod
+2019-04-27 11:23:02+0530 > sudo rmmod hello<RShft>_world<RShft>_module.ko
+2019-04-27 11:23:38+0530 > sudo rmmod hello<RShft>_world<RShft>_module
+2019-04-27 11:24:19+0530 > lsmod
+2019-04-27 11:24:28+0530 > dmesg
+2019-04-27 11:24:40+0530 > g
+2019-04-27 11:26:19+0530 > how to load kernal module in t<BckSp>android target board i.mx
+2019-04-27 11:26:41+0530 > <PgDn><PgDn><#+13><PgUp><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgUp><#+18><PgUp><#+4><PgDn><#+6><PgUp><PgDn><#+10><PgDn><PgDn><#+11><PgDn><PgDn><#+13><PgDn><#+17><PgDn><#+11><PgDn><#+11><PgDn><#+16><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><#+5><PgUp><PgDn><PgDn><#+13><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgDn><PgUp>gcc<Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab> <RShft><Ins><BckSp><#+35>ls
+2019-04-27 11:30:30+0530 > df
+2019-04-27 11:30:32+0530 > vi<#+1>g
+2019-04-27 11:38:16+0530 > <PgUp><#+11><PgUp><PgUp><PgUp><PgUp><PgDn><BckSp>writing g a de<BckSp><BckSp>vhar d<BckSp><#+8><BckSp><BckSp><BckSp><BckSp> char dr<Down><Down><Up>
+2019-04-27 11:38:54+0530 > <PgDn><PgDn><PgDn><PgDn><PgDn><PgDn>android <Down><Down><Down><Down><Down><BckSp><#+12><BckSp><BckSp><BckSp><BckSp><BckSp>8 im<BckSp>.mx<Down>
+2019-04-27 11:44:54+0530 >  nxp
+2019-04-27 11:45:18+0530 > wh<CpsLk><CpsLk>hakeem12308<LCtrl>v <CpsLk><CpsLk>sourcw<BckSp>e
+2019-04-27 11:49:43+0530 >  file
+2019-04-27 11:49:49+0530 > <LCtrl>c
+2019-04-27 11:53:29+0530 > <LCtrl>v
+2019-04-27 11:53:34+0530 > <Del><LCtrl><Del>android user <BckSp><BckSp><BckSp><#+17>imx6 android <Right> user guide
+2019-04-27 12:22:57+0530 > <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>mfg tool
+2019-04-27 12:23:33+0530 > <RCtrl>----<LCtrl>fsource code
+2019-04-27 12:24:51+0530 > 
+2019-04-27 12:24:53+0530 > 
+2019-04-27 12:24:57+0530 > <LCtrl>c
+2019-04-27 12:25:13+0530 > c
+2019-04-27 12:25:13+0530 > c
+2019-04-27 12:25:13+0530 > <LCtrl>c
+2019-04-27 12:25:35+0530 > c
+2019-04-27 12:25:36+0530 > <LCtrl>v
+2019-04-27 12:25:45+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><Tab><Tab><Tab><Tab><LCtrl>t<LCtrl><LCtrl><LShft>T;s<BckSp><BckSp>s<BckSp>is
+2019-04-27 12:28:22+0530 > ls
+2019-04-27 12:28:24+0530 > cd m<Tab>y<BckSp><#+12><BckSp><Tab><BckSp><#+15><BckSp><BckSp>cd p<Tab><BckSp><LShft>P<Tab>r<Tab><Tab><Tab><BckSp><#+19>exit
+2019-04-27 12:28:52+0530 > mai<BckSp><BckSp><BckSp><BckSp>ya
+2019-04-27 12:31:42+0530 > <RShft><Home><Del>harish<LShft>@zumisolutions.com<LShft>E<BckSp><LShft>Harish<RShft>_2019
+2019-04-27 12:32:32+0530 > <LCtrl>c
+2019-04-27 12:35:41+0530 > c
+2019-04-27 12:35:41+0530 > c
+2019-04-27 12:35:41+0530 > <LCtrl>v
+2019-04-27 12:35:46+0530 >  <Up><BckSp><BckSp><BckSp><BckSp><BckSp><Left><Left><Left><Left><Left><Left><Left><Left><Left>mobile <Down><Down>
+2019-04-27 12:36:07+0530 > <Esc>harish<LShft>@zumisolutions.com<LShft><LShft>Harish<LShft>_123<BckSp><#+19>g
+2019-04-27 12:57:52+0530 > linux device driver
+2019-04-27 12:58:05+0530 > <RCtrl><CpsLk><CpsLk>zs10062013
+2019-04-27 14:21:00+0530 > buil<Down> image
+2019-04-27 14:21:47+0530 > <PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><Down><Down><#+10><Down><#+8><Down><Down><Down><Down><#+6><Down><#+14><Down><#+20><Down><Down><#+1><Down><Down><#+6><Down><#+9><Down><Down><Down><Down><Down><Del><LCtrl>v
+2019-04-27 14:39:34+0530 > <BckSp><#+26><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>/
+2019-04-27 14:39:54+0530 > 
+2019-04-27 14:40:44+0530 > <PgDn><#+10><PgDn><PgDn><#+8><PgDn><PgDn><PgUp><PgUp><PgDn><PgDn>g
+2019-04-27 14:41:40+0530 > what is cur<Down><Down><Down><Down>
+2019-04-27 14:41:50+0530 > g
+2019-04-27 14:44:58+0530 > <LCtrl>v<BckSp>
+2019-04-27 14:45:01+0530 > <PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgUp>g
+2019-04-27 14:45:47+0530 > whatn<BckSp> is rpo<BckSp><BckSp>epo l<Down>
+2019-04-27 14:46:03+0530 > ifc<Tab>
+2019-04-27 14:50:29+0530 > df -h
+2019-04-27 14:50:32+0530 > cd <RShft><Ins>
+2019-04-27 14:51:10+0530 > 
+2019-04-27 14:51:11+0530 > 
+2019-04-27 14:51:11+0530 > 
+2019-04-27 14:51:11+0530 > <Up><Up>
+2019-04-27 14:52:00+0530 > mount
+2019-04-27 14:52:03+0530 > 
+2019-04-27 14:52:04+0530 > 
+2019-04-27 14:52:04+0530 > <LCtrl>d
+2019-04-27 14:52:17+0530 > sudo su
+2019-04-27 14:52:30+0530 > zs10062013
+2019-04-27 14:52:38+0530 > cd <BckSp><BckSp><BckSp>cd /<Tab><Tab><BckSp><RShft><Home><RShft><Up><Down><Down><RShft><Ins>cd <RShft><Ins>
+2019-04-27 14:53:06+0530 > 
+2019-04-27 14:53:07+0530 > 
+2019-04-27 14:53:07+0530 > 
+2019-04-27 14:53:07+0530 > 
+2019-04-27 14:53:07+0530 > l
+2019-04-27 14:53:08+0530 > 
+2019-04-27 14:53:08+0530 > 
+2019-04-27 14:53:08+0530 > <LAlt><Tab><LAlt><Tab><Tab><LCtrl><LShft>Tcd /me<Tab><Tab><Tab>zu<Tab><Tab><Tab>7<Tab>
+2019-04-27 14:53:44+0530 > <Up><Home><Del><Del>df -h
+2019-04-27 14:53:52+0530 > cho<Tab><BckSp><#+16>sudo cho<Tab>zumi<RShft>:zumi /me<Tab>z<Tab>7<Tab><Home><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right> -<RShft>R 
+2019-04-27 14:54:18+0530 > zs10062013
+2019-04-27 14:54:27+0530 > cd /me<Tab><Tab>z<Tab>7<Tab>
+2019-04-27 14:54:35+0530 > ls
+2019-04-27 14:54:36+0530 > cd <BckSp><BckSp><BckSp><BckSp><LCtrl>tt<LAlt><LCtrl><LAlt><Tab><LAlt><Tab><LCtrl>t<LCtrl><LShft>Tls
+2019-04-27 14:55:09+0530 > directory<RShft>_namerenmae<BckSp><BckSp><BckSp><BckSp>name di<BckSp><BckSp>file<Down> for extern<Down>
+2019-04-27 14:57:38+0530 > cd ..
+2019-04-27 14:59:03+0530 > cd /
+2019-04-27 14:59:27+0530 > cd /
+2019-04-27 14:59:34+0530 > cd /
+2019-04-27 14:59:41+0530 > l<BckSp>cat /pr<Tab>par<Tab>
+2019-04-27 15:01:13+0530 > df -h
+2019-04-27 15:01:19+0530 > <LAlt><Tab><Up>
+2019-04-27 15:01:33+0530 > <Up>
+2019-04-27 15:01:36+0530 > <Up>
+2019-04-27 15:01:39+0530 > um<BckSp><BckSp><BckSp>mount
+2019-04-27 15:01:44+0530 > <LAlt><Tab><LAlt><Tab><Tab> through coma<BckSp>mad line
+2019-04-27 15:02:10+0530 > <LCtrl>c
+2019-04-27 15:02:35+0530 > <LAlt><Tab><LAlt><Tab><Tab><RShft><Ins> /de<Tab>sda5 <LAlt><Tab><LAlt><Tab><Tab><LAlt><Tab><Tab><RShft>AND<BckSp><BckSp><BckSp><RShft>MY<BckSp><BckSp><RShft>ANDROID
+2019-04-27 15:02:56+0530 > <LAlt><Tab><LAlt>123<#+1>1uo<BckSp>mo<Tab> /de<Tab>sda5
+2019-04-27 15:03:20+0530 > <Up><Up>
+2019-04-27 15:03:22+0530 > df<BckSp><BckSp>sync
+2019-04-27 15:03:26+0530 > <LAlt><Tab><PgDn><PgDn><PgDn><PgUp><PgUp><LCtrl>fsource code
+2019-04-27 15:04:07+0530 > <PgUp><#+14><PgDn><PgUp><PgDn><PgDn><PgDn><PgDn><PgUp><PgUp><PgUp><PgDn><Down><#+15><Down><#+11><Down><#+6><Down><#+8>ls
+2019-04-27 15:07:39+0530 > <Up><Up><Up><Up><Up><Up><BckSp><#+18><BckSp><#+14><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>
+2019-04-27 15:08:35+0530 > ls
+2019-04-27 15:08:37+0530 > cd <CpsLk>ANDROID
+2019-04-27 15:08:46+0530 > LS
+2019-04-27 15:08:48+0530 > <CpsLk>ls
+2019-04-27 15:08:54+0530 > 
+2019-04-27 15:09:37+0530 > zs10062013
+2019-04-27 15:09:47+0530 > y
+2019-04-27 15:09:51+0530 > 
+2019-04-27 15:11:47+0530 > 
+2019-04-27 15:12:37+0530 > y
+2019-04-27 15:12:41+0530 > 
+2019-04-27 15:13:27+0530 > 
+2019-04-27 15:13:49+0530 > y
+2019-04-27 15:13:53+0530 > 
+2019-04-27 15:14:51+0530 > 
+2019-04-27 15:15:19+0530 > 
+2019-04-27 15:17:02+0530 > 
+2019-04-27 15:17:22+0530 > y
+2019-04-27 15:17:25+0530 > 
+2019-04-27 15:18:44+0530 > 
+2019-04-27 15:19:02+0530 > 
+2019-04-27 15:20:58+0530 > hakeem12308mkdir <CpsLk>MY<RShft>_ANDROID
+2019-04-27 15:26:39+0530 > CD<BckSp><BckSp><CpsLk>cd <CpsLk>MY<RShft>_ANDROID
+2019-04-27 15:27:03+0530 > CD<BckSp><BckSp><BckSp><CpsLk>cd ..
+2019-04-27 15:40:11+0530 > <LCtrl>c
+2019-04-27 15:40:26+0530 > <Left><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>meerasahib
+2019-04-27 15:40:41+0530 > <LCtrl>c
+2019-04-27 15:40:47+0530 > <Left><Left><#+2><BckSp><#+9><BckSp><#+10><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><Right><BckSp>meerasahibm<RShft>@zumisolutions.com<End>
+2019-04-27 15:41:15+0530 > cd <CpsLk>MY<RShft>_ANDROID
+2019-04-27 15:43:01+0530 > <Left><#+12><Left><#+15><Left><Left>I<BckSp><CpsLk>i<End>
+2019-04-27 15:43:26+0530 > ls
+2019-04-27 15:43:31+0530 > 
+2019-04-27 15:44:09+0530 > cat <LShft>~/b<Tab><#+2><Tab>in<Tab><Tab>/<Tab><Tab><BckSp><#+22>mkdir ni<BckSp><BckSp>bin
+2019-04-27 15:45:27+0530 > ls
+2019-04-27 15:45:31+0530 > cd im<Tab>
+2019-04-27 15:46:40+0530 > ls
+2019-04-27 15:46:40+0530 > <#+1>g
+2019-04-27 15:50:22+0530 > what is bin fo<Down> image
+2019-04-27 15:51:13+0530 > g
+2019-04-27 15:52:37+0530 > cd ..
+2019-04-27 15:53:27+0530 > ls
+2019-04-27 15:56:58+0530 > <Left><#+9><Left><Left><Left><Left><BckSp><End>
+2019-04-27 15:58:09+0530 > <PgDn><PgDn><PgDn><PgDn><PgUp><PgUp><PgDn><PgDn><PgUp><PgUp><PgUp><Down><#+9><Down><Down><Down><LCtrl>c
+2019-04-27 16:00:53+0530 > g
+2019-04-27 16:00:57+0530 > <LCtrl>v
+2019-04-27 16:00:59+0530 > <LAlt><Tab><LAlt><Tab><Tab><LAlt><Tab><Tab><LAlt><Tab><Up><Up><Up><Up><LAlt><Tab><Up><Down><Down><Down><Down><BckSp><BckSp><BckSp><BckSp>ls<BckSp><BckSp><BckSp><BckSp><Up><BckSp><#+15>ls
+2019-04-27 16:04:01+0530 > cd b<Tab>
+2019-04-27 16:04:06+0530 > ls
+2019-04-27 16:04:07+0530 > cd <BckSp><BckSp><BckSp><BckSp><RShft><Ins><BckSp><BckSp><#+13><BckSp>
+2019-04-27 16:04:14+0530 > <Up><Home><Right><#+35><Right><BckSp>-<Right><#+9><Right><BckSp>-
+2019-04-27 16:04:29+0530 > 
+2019-04-27 16:04:41+0530 > 
+2019-04-27 16:04:41+0530 > 
+2019-04-27 16:04:41+0530 > 
+2019-04-27 16:04:42+0530 > ls /ho<Tab><Tab><Tab>z<Tab><Tab>bi<Tab><Tab><Tab>/r<Tab><Tab><Tab><BckSp><Tab><Tab><BckSp><BckSp><BckSp><BckSp>us<Tab><BckSp><#+12><BckSp><BckSp>sb<Tab><Tab><Tab><BckSp><Tab><Tab><BckSp><BckSp><Tab>us<Tab><BckSp><#+13><BckSp><BckSp><BckSp><BckSp><#+28>pwd
+2019-04-27 16:05:11+0530 > c<BckSp><BckSp>whoami
+2019-04-27 16:05:15+0530 > 
+2019-04-27 16:05:17+0530 > 
+2019-04-27 16:05:17+0530 > <LAlt><Tab><LAlt><Tab>ls
+2019-04-27 16:05:46+0530 > <RShft><Ins><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp> <RShft><Ins>
+2019-04-27 16:05:58+0530 > <Up><Up><LCtrl>c
+2019-04-27 16:06:05+0530 > cd <LAlt><Tab><LAlt><Tab>..
+2019-04-27 16:06:10+0530 > <Up><Up><Up><Up><BckSp><BckSp><BckSp><RShft><Ins><Home><RShft><Ins> 
+2019-04-27 16:06:28+0530 > ls
+2019-04-27 16:06:34+0530 > cd <Up><Up><Left><#+21><Right><#+19><Right><Right><Right><Right><BckSp><BckSp><BckSp>
+2019-04-27 16:06:41+0530 > <LAlt><Tab><LAlt><Tab>ls
+2019-04-27 16:06:48+0530 > cd b<Tab>
+2019-04-27 16:06:50+0530 > ls
+2019-04-27 16:06:50+0530 > <LAlt><Tab><LAlt><Tab><Up><Up><Up><LAlt><Tab><LAlt><Tab><LCtrl><BckSp><BckSp>cd ..
+2019-04-27 16:07:04+0530 > <RShft><Ins><Tab><Tab>bi<Tab>repo
+2019-04-27 16:07:15+0530 > ls
+2019-04-27 16:07:18+0530 > cd b<Tab>
+2019-04-27 16:07:20+0530 > ls
+2019-04-27 16:07:20+0530 > <LAlt><Tab><LAlt><Tab>chmo<Tab> <RShft>+x <LAlt><Tab><LAlt><Tab>re<Tab>
+2019-04-27 16:07:28+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab>re<Tab><Tab>p<Tab><Tab>\<#+4><BckSp><#+15><BckSp><BckSp><BckSp><BckSp><Tab><BckSp><#+22>rep<Tab><BckSp><#+22><Up><Up><Up><Up><Up><BckSp><#+35><BckSp><RShft>~/bin/repo
+2019-04-27 16:08:31+0530 > <LAlt><Tab><LCtrl>c
+2019-04-27 16:08:42+0530 > <LAlt><Tab><RShft><Ins>
+2019-04-27 16:08:44+0530 > echo dooty <RShft>> 1.txt
+2019-04-27 16:08:58+0530 > vim 1.<Tab>
+2019-04-27 16:09:01+0530 > <RShft>:q
+2019-04-27 16:09:03+0530 > rm 1.<Tab>
+2019-04-27 16:09:05+0530 > <LAlt><Tab><LCtrl>c
+2019-04-27 16:09:27+0530 > <LAlt><Tab>rep<Tab><Tab><Tab><BckSp><#+16>ls
+2019-04-27 16:09:36+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><LCtrl><LShft><LShft>Tcd ..
+2019-04-27 16:09:54+0530 > ls
+2019-04-27 16:09:55+0530 > re<Tab><Tab>p<Tab><Tab><BckSp><#+16><LAlt>1rm -rf <RShft>~/bi<Tab>re<BckSp><BckSp>/re<Tab>
+2019-04-27 16:10:08+0530 > rep<Tab><Tab><BckSp><#+25>rep<Tab><BckSp><#+26>b<Tab><BckSp>re<Tab><Tab><BckSp><BckSp><#+6><LAlt>212<Tab><LCtrl>c
+2019-04-27 16:10:38+0530 > <LAlt><Tab><LAlt>1<Up><Up><Up><Up><Up><Up><Up><Up><Down><Down><Up><Up><Up><Up><Up><Up><Up><Down>
+2019-04-27 16:10:48+0530 > ls
+2019-04-27 16:10:50+0530 > <LAlt>2re<Tab><Tab>p<Tab><Tab><BckSp><#+21><LAlt>1cd ..
+2019-04-27 16:11:00+0530 > <RShft><Ins><BckSp><BckSp><BckSp><BckSp><BckSp>/<RShft><Ins>/b<Tab>in<Left><#+31><Left><Left><BckSp>
+2019-04-27 16:11:16+0530 > <LAlt>21<LAlt>2<RShft><Ins>
+2019-04-27 16:11:28+0530 > cd ../..
+2019-04-27 16:11:31+0530 > re<Tab><Tab>p<Tab><Tab><Tab><LCtrl><LShft><LCtrl><LShft>Trep<Tab><Tab><BckSp><#+16>rep<Tab><LAlt>2<Tab><Tab><BckSp><#+19><BckSp><BckSp><BckSp><LAlt>2<LAlt>23<RShft><Ins>
+2019-04-27 16:12:28+0530 > rep<Tab><Tab><Tab><LAlt><Tab>
+2019-04-27 16:15:13+0530 > <Up><Up><Up><Down><Down><Down><Left><#+32><Left><Left><Left><Left><Left><Left><BckSp>media/zumi/<CpsLk>ANDROID/MY<RShft>_ANROID<End>
+2019-04-27 16:16:11+0530 > <Up><Up><Up><Down><BckSp><BckSp><BckSp><Left><#+29><Left><#+8><Left><Left><Left><Left><Left><Left><Left><BckSp><#+13><BckSp><#+11><BckSp><#+9><BckSp><BckSp><BckSp><BckSp><End>
+2019-04-27 16:16:55+0530 > <Up><Down><Up><Up><Up><Down><BckSp><#+12>L<BckSp><CpsLk>ls
+2019-04-27 16:17:55+0530 > man <LCtrl><LShft>V<BckSp><#+48><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><RShft>
+2019-04-27 16:22:41+0530 > <Up><Left><Left><Left><Left><Left><Left><Left><BckSp>
+2019-04-27 16:22:45+0530 > <Up><Left><#+10><BckSp><#+9><Del><#+14><LCtrl><LShft>V
+2019-04-27 16:23:22+0530 > <Up><Down><LCtrl>c
+2019-04-27 16:23:33+0530 > <Left><#+59><Right><Right><#+28><Left><#+9><Right><Right><Right><Right><BckSp><#+14><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><Right><BckSp><End>
+2019-04-27 16:24:08+0530 > 
+2019-04-27 16:24:33+0530 > <Del><Del><BckSp><Up><Left><Down><Left><#+12><Left><Left><Left><Left><BckSp><Right><BckSp><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Tab><Left><Right><BckSp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><Down><Down><Down><#+4><Down><Down><#+7><Down><#+7><Down><Down><Down><Down><#+10><Down><Down><Down><Down><Down><Down><Down><Down><Up><#+11><Up><#+11><Up><Up><#+8><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><#+10><Down><Down><Down><Down><Down><#+10><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><#+2><Down><Down><#+11><Down><Down><#+19><Up><#+20><Up><#+23><Down><#+36><Down><#+6><Down><#+11><Down><Down><Down>g
+2019-04-27 17:21:11+0530 >  li<Down>
+2019-04-27 17:21:22+0530 > g
+2019-04-27 17:31:16+0530 > android source<Down> imx<Down> devi<Down> drivr
+2019-04-27 17:31:34+0530 > <PgUp><PgUp><PgUp><PgUp><LCtrl><LCtrl><Del>g
+2019-04-27 17:45:45+0530 > meerasahibm ggitu<BckSp><Down><Down>
+2019-04-27 17:46:00+0530 > <BckSp>
+2019-04-27 17:46:04+0530 > meerasahibm
+2019-04-27 17:46:47+0530 > <BckSp>m<RShft>@gmail.com
+2019-04-27 17:46:59+0530 > <BckSp><#+9><BckSp><BckSp><BckSp><BckSp>
+2019-04-27 17:47:07+0530 > <BckSp><BckSp><#+19>arduino
+2019-04-27 17:47:17+0530 > git lin<Down><Left><Left><Left><Left><Left>download <Down><Down>
+2019-04-27 17:48:32+0530 > <PgUp><PgUp><PgUp><PgDn><PgDn><PgDn><PgUp><BckSp><BckSp><BckSp><BckSp><BckSp>df <RShft>A<Tab> -h
+2019-04-27 18:14:23+0530 > <Up><Left><Right><Left>s<Left><#+14><Left><BckSp>u
+2019-04-27 18:14:31+0530 > 
+2019-04-27 18:14:32+0530 > 
+2019-04-27 18:14:32+0530 > 
+2019-04-27 18:14:32+0530 > 
+2019-04-27 18:14:32+0530 > 
+2019-04-27 18:14:32+0530 > 
+2019-04-27 18:14:33+0530 > <LAlt>1<LAlt>23212312<LAlt><Tab><RCtrl><RShft><Menu><KP-><RCtrl><RShft><KP9><CpsLk><KP8><KP/><RCtrl><RShft>!<F1>Q<RCtrl><RShft><F2><F3><F4><F5>)_<RCtrl><RShft><BckSp>+|<RCtrl><RShft><KP8><KP/><NumLk><KP9><CpsLk><KP-><RCtrl><RShft><KP-><KP+>
+2019-04-29 04:47:53+0530 > <KP3><RCtrl><Left>[  <AltGr>nbv<LAlt><LMeta><LCtrl><LShft><Tab>1<F7><AltGr><AltGr><Up><AltGr>;./<RCtrl><RShft><AltGr><Menu> 
+2019-04-29 04:48:02+0530 > |<Left><Del><AltGr><Down><Left><KP9><CpsLk><KP8><KP/><KP+><KP0><KP.><#+9><LCtrl><LShft><CpsLk><Up><BckSp><#+13><CpsLk><CpsLk><CpsLk>zs2010062013
+2019-04-29 08:34:53+0530 > zs20<BckSp><#+13>zs10062013
+2019-04-29 08:35:08+0530 > <Up><Up><Down><Down><Up><Up><Up><Up><Up><Up><Down><Down><Down><Up><Down><Down><Up><BckSp><BckSp><CpsLk><CpsLk>export <CpsLk>MY<RShft>_ANDROID=<CpsLk>android<RShft>_build
+2019-04-29 08:45:09+0530 > 
+2019-04-29 08:46:22+0530 > <LCtrl>c
+2019-04-29 08:46:52+0530 > 
+2019-04-29 08:46:59+0530 > <LCtrl>c
+2019-04-29 08:47:15+0530 > 
+2019-04-29 08:47:21+0530 > g
+2019-04-29 09:01:38+0530 > source file in android<RShft>_build
+2019-04-29 09:01:52+0530 > <Down><#+15><Down><#+18><Down><#+18><Down><#+19><Down><#+17><Down><#+17><Down><#+14><Down><#+23><Down><#+16><Down><#+21><PgDn><PgDn><PgDn><PgUp><PgUp><Down><#+7><Down><#+10><Down><#+12><Down><#+12><Down><#+12><Down><#+11><Down><#+15><Down><#+17><Down><#+13><Down><#+11><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><#+8><PgDn><#+10><PgDn><#+9><PgDn><#+9><PgDn><#+1><PgDn><#+10><PgDn><#+12><PgUp><PgUp><PgDn><Up><#+10>g
+2019-04-29 09:06:16+0530 > <LCtrl>v<Down>
+2019-04-29 09:06:23+0530 > <PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><Up><#+14><Up><Down><Down><Down><#+11><Down><#+2><Down><Down><Down><Down><Down><Down><#+2><Down><Down><Down><Down><#+9><Down><#+16><Down><#+3><Down><#+10><Down><PgDn><PgDn><PgUp><PgDn><PgDn><PgDn><PgDn><PgDn><Up><#+15><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><Down><Down><#+5><Down><#+10><Down><#+9><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><#+10><PgDn><PgDn><PgDn><PgDn><#+1><PgDn><#+6><PgDn><#+8><PgDn><#+10><PgDn><#+10><PgDn><#+15><PgDn><#+12><PgDn><#+17><PgDn><#+12><PgDn><#+19><PgUp><#+13><PgDn><PgDn><PgDn><PgDn><PgDn><Down><Down><#+10><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><#+9><PgDn><PgDn><PgDn><PgDn><#+11><PgDn><#+11><PgUp><#+10><PgUp><PgDn><#+11><PgDn><#+11><PgDn><#+13><PgDn><PgUp><Down><#+9><Down><#+1><Down><Down><Down><#+2><Down><PgDn><PgDn><PgDn><PgDn><#+9><PgDn><PgUp><Down><Down><Down><Down><Down><Down><#+4><Down><#+5><Down><#+9><Down><#+9><Down><#+11><PgDn><Down><#+16><PgDn><PgDn><PgDn><PgDn><PgDn><#+9><PgDn><PgDn><#+10><PgUp><PgUp><Down><#+9><Down><Down><#+8><Down><#+10><Down><#+7><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><#+13><PgUp><PgUp><PgDn><PgDn><PgDn><#+1><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><#+2><PgDn><#+11><PgDn><#+11><PgDn><Down><Up><#+6><Up><Down><#+10><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><#+11><PgDn><PgDn><#+2><PgDn><#+12><PgDn><#+1><Up><#+4><PgDn><PgDn><PgDn><PgUp><PgUp><PgUp><PgUp><Down><#+13><Down><PgDn><PgDn><PgDn><Down><Down><#+1><Down><Down><PgDn><PgDn><PgDn><Down><Down><#+3><Down><#+3><Down><#+13><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><#+6><PgDn><#+10><PgDn><#+10><PgDn><#+11><PgDn><#+10><PgDn><#+8><PgUp><PgUp><PgUp><PgDn><#+10><PgDn><#+9><PgDn><#+13><PgDn><PgDn><#+11><PgDn><#+13><PgDn><PgDn><#+5><PgDn><#+14><PgDn><#+14><PgDn><#+13><PgDn><#+12><PgDn><PgDn><PgDn><#+15><PgDn><#+14><PgDn><PgDn><#+5><PgUp><PgDn><PgDn><PgDn><PgUp><Up><#+9><Down><Up><#+11><Up><#+10><Down><#+15><Down><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><#+1><PgDn><#+9><PgDn><#+10><PgUp><PgUp><PgDn><PgDn><PgDn><PgDn><PgDn><#+10><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><Up><#+10><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgUp><PgDn><#+1><PgDn><#+5><PgDn><PgDn><PgDn><PgDn><#+10><PgDn><#+10><PgUp><PgUp><PgUp><PgUp><PgDn><PgDn><#+9><PgDn><#+9><PgUp><PgUp><PgDn><PgDn><PgDn><PgDn><#+11><PgDn><#+1><PgDn><#+5><PgDn><#+2><PgDn><PgDn><PgDn><PgDn><PgDn><PgUp><PgDn><PgDn><PgDn><#+9><PgDn><#+5><PgDn><PgDn><#+12><PgUp><PgDn><#+9><PgDn><#+13><PgDn><#+14><PgUp><PgUp><PgUp><PgUp><PgUp><PgDn><#+12><PgDn><PgDn><PgDn><#+3><PgDn><#+14><PgDn><#+15><PgDn><#+20><PgDn><#+14><PgDn><#+16><PgDn><#+25><PgDn><PgDn><#+10><PgUp><PgUp><PgUp><PgUp><PgDn><#+31><PgDn><#+15><PgDn><#+17><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgDn><#+21><PgDn><#+49><PgDn><#+43><PgDn><#+26><PgDn><#+24><PgDn><PgDn><PgUp><PgDn><#+1><PgDn><#+10><PgUp><PgUp><PgUp><PgUp><PgUp><PgDn><Up><#+8><PgDn><#+11><PgDn><#+11><PgDn><#+1><PgDn><PgDn><#+11><PgDn><#+10><PgDn><#+2><PgUp><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><#+1><PgDn><PgUp><PgUp><Down><#+13><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><#+2><PgDn><#+12><PgDn><#+3><PgDn><PgDn><PgDn><#+3><PgDn><#+1><PgDn><#+10><PgDn><#+2><PgDn><#+7><PgDn><PgDn><#+1><PgDn><PgDn><PgDn><PgDn><#+11><PgUp><PgUp><PgDn><PgDn><PgDn><PgDn><PgDn><PgUp><PgDn><#+2><PgDn><PgDn><#+4><PgDn><#+9><PgDn><PgDn><PgDn><#+7><PgDn><#+12><PgDn><#+14><PgDn><#+18><PgDn><#+10><PgDn><#+16><PgDn><#+16><PgDn><#+17><PgDn><#+21><PgDn><#+18><PgDn><PgDn><PgDn><PgUp><PgUp><PgUp><PgUp><#+8><PgUp><PgUp><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><#+10><PgDn><PgDn><#+10><PgDn><#+2><PgDn><PgDn><PgDn><#+10><PgDn><PgDn><#+11><PgDn><#+12><PgDn><#+15><PgDn><#+13><PgDn><#+21>find <RShft>*.c
+2019-04-29 10:32:56+0530 > <Up><Left><Left><Left><Left><Right><Left> -r
+2019-04-29 10:33:18+0530 > man find
+2019-04-29 10:33:23+0530 > <Down><#+1><LCtrl>---<LCtrl>0<Down><#+14><Down><#+20><Down><#+12><Down><#+22><Down><#+37><Down><#+20><Down><#+16><Down><#+71><Down><#+38><Down><#+5><Down><Down><#+20><Down><#+18><Down><#+24><Down><#+3>q<Up>
+2019-04-29 10:33:54+0530 > <Right><#+4><Left><Left><Down><Down><#+17><Down><#+6><Down><#+10><Down><#+10><Down><#+8><Down><#+10><Down><#+13><Down><#+12><Down><#+10><Down><#+10><Down><#+19><Down><#+12>q<Up><Up><Up>
+2019-04-29 10:34:41+0530 > find . 8<BckSp><LCtrl>8 <LShft>*.c
+2019-04-29 10:36:17+0530 > <LCtrl>c
+2019-04-29 10:36:28+0530 > <Up>q<BckSp><Left><Left><Left><End><#+7><BckSp><#+20>g
+2019-04-29 10:38:00+0530 > driver files in android open source
+2019-04-29 10:38:22+0530 > <CpsLk><CpsLk>zs10062013
+2019-04-29 11:49:58+0530 > g
+2019-04-29 11:50:52+0530 > me<CpsLk><CpsLk>zs10062013
+2019-04-29 13:16:20+0530 > <Up><Up><Down>
+2019-04-29 13:31:05+0530 > <CpsLk><CpsLk>zs10062013
+2019-04-29 14:26:11+0530 > <Up>
+2019-04-29 14:26:30+0530 > <Up>
+2019-04-29 14:50:56+0530 > 
+2019-04-29 14:54:29+0530 > <CpsLk><CpsLk>zs1<BckSp><#+10>zs10062013
+2019-04-29 14:54:45+0530 > y
+2019-04-29 14:55:16+0530 > <LCtrl>c
+2019-04-29 14:56:29+0530 > cd 
+2019-04-29 14:56:39+0530 > mkdir tmp
+2019-04-29 14:56:54+0530 > cd tmp
+2019-04-29 14:57:04+0530 > <LCtrl>c
+2019-04-29 14:57:13+0530 > 
+2019-04-29 14:57:18+0530 > 
+2019-04-29 14:57:40+0530 > 
+2019-04-29 14:57:55+0530 > ls
+2019-04-29 14:58:01+0530 > <Up><Up><Left><Left><BckSp><BckSp><BckSp><BckSp>12671<Left><#+8><Left><Left><BckSp>9<End>
+2019-04-29 14:58:25+0530 > 
+2019-04-29 14:58:37+0530 > 
+2019-04-29 14:59:25+0530 > 
+2019-04-29 15:04:36+0530 > cd ..
+2019-04-29 15:05:02+0530 > <BckSp><#+21>
+2019-04-29 15:05:22+0530 > 
+2019-04-29 15:05:35+0530 > 
+2019-04-29 15:05:51+0530 > 
+2019-04-29 15:06:02+0530 > www<Right>
+2019-04-29 15:08:35+0530 > linux kernel <BckSp><#+21>raspberry pi kernel <Down>
+2019-04-29 15:09:04+0530 > nn<BckSp>i<BckSp><BckSp><BckSp><LCtrl><LShft>Tcd
+2019-04-29 15:11:09+0530 > ls
+2019-04-29 15:11:10+0530 > 
+2019-04-29 15:13:29+0530 > ls
+2019-04-29 15:17:01+0530 > cd ffmpeg-0.10.7
+2019-04-29 15:17:23+0530 > ls
+2019-04-29 15:17:26+0530 > 
+2019-04-29 15:17:46+0530 > <Up>
+2019-04-29 15:18:04+0530 > 
+2019-04-29 15:19:43+0530 > <Up><Down>
+2019-04-29 15:24:13+0530 > <LCtrl>c
+2019-04-29 15:24:25+0530 > cd ..
+2019-04-29 15:24:29+0530 > ls
+2019-04-29 15:25:26+0530 > 
+2019-04-29 15:26:28+0530 > ifconfig
+2019-04-29 15:27:28+0530 > ls
+2019-04-29 15:27:48+0530 > cd pjsip-apps
+2019-04-29 15:28:14+0530 > ls
+2019-04-29 15:28:21+0530 > cd bin
+2019-04-29 15:28:25+0530 > ls
+2019-04-29 15:28:28+0530 > <Left><Left><BckSp>1<End><BckSp>37
+2019-04-29 15:30:16+0530 > <Up><Left><#+9><Left><#+10><Left><#+13><Left><#+15><Up><Down>
+2019-04-29 15:31:24+0530 > <Left><#+5><Up><Left><#+21><Left><#+24><Left><#+10><Left><#+14><Left><Left><Left><Left><Left><Left><Right><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>x86<RShft>_64<End>
+2019-04-29 15:32:01+0530 > <Up>
+2019-04-29 15:32:16+0530 > <Up><Up><Up><Up><Up><Down><Down><Up><Down><Down><Up><Up><Down><Down><Down><Down><Up>
+2019-04-29 15:35:58+0530 > <LCtrl>v
+2019-04-29 15:36:33+0530 > <Up><Left><#+13><Up><Down><Left><#+12><Left><#+13><Left><Left><#+10><Down><Up><Left><#+8><Right><Right><Right><BckSp><#+37><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp> --capture-dev 11 --playback-dev 11 --stereo  --ec-tail 0 --clock-rate 8000 sip<RShft>:192<RShft>:168<RShft>:1<RShft>:36
+2019-04-29 15:40:39+0530 > <Up>
+2019-04-29 15:41:10+0530 > <Up><BckSp>37
+2019-04-29 15:41:26+0530 > <Up><Left><BckSp><End>
+2019-04-29 15:41:39+0530 > <Up><Up><Up>g
+2019-04-29 15:43:49+0530 > pjsip<Down><Down><Down><Up>\<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>lin<Down>
+2019-04-29 15:44:05+0530 > <PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><#+1><PgDn><PgDn><#+10>
+2019-04-29 15:45:39+0530 > zs10062013
+2019-04-29 15:45:47+0530 > <Home>g<End>
+2019-04-29 15:46:04+0530 > 
+2019-04-29 15:50:16+0530 > ls
+2019-04-29 15:50:42+0530 > 
+2019-04-29 15:51:01+0530 > 
+2019-04-29 15:51:17+0530 > <Up>
+2019-04-29 15:51:39+0530 > ls
+2019-04-29 15:52:03+0530 > 
+2019-04-29 15:52:11+0530 > g
+2019-04-29 15:52:28+0530 > <LCtrl>v
+2019-04-29 15:52:35+0530 > 
+2019-04-29 15:54:02+0530 > <LCtrl>c
+2019-04-29 15:54:36+0530 > 
+2019-04-29 15:54:45+0530 > 1
+2019-04-29 15:55:36+0530 > y
+2019-04-29 15:55:41+0530 > y
+2019-04-29 15:55:44+0530 > y
+2019-04-29 15:55:47+0530 > y
+2019-04-29 15:55:52+0530 > y
+2019-04-29 15:55:56+0530 > y
+2019-04-29 15:56:00+0530 > y
+2019-04-29 15:56:06+0530 > <LCtrl>x<LCtrl>c
+2019-04-29 15:56:12+0530 > <Up><Up>
+2019-04-29 15:56:16+0530 > <Up><Up><Up><Up>
+2019-04-29 15:57:03+0530 > 
+2019-04-29 15:57:18+0530 > <Down><Up><Down><#+22><Down><#+4><Up><#+36><Down><Right><Right><Right>
+2019-04-29 15:58:25+0530 > 
+2019-04-29 15:58:27+0530 > 
+2019-04-29 15:58:30+0530 > <Right><#+7><Right><Right>
+2019-04-29 15:58:35+0530 > 
+2019-04-29 15:58:36+0530 > <Right>
+2019-04-29 15:58:38+0530 > 
+2019-04-29 15:58:40+0530 > 
+2019-04-29 15:58:55+0530 > <Up>
+2019-04-29 15:59:02+0530 > <Up><Up><Up>
+2019-04-29 15:59:09+0530 > <Up><Up><Up><Up><Up>
+2019-04-29 15:59:13+0530 > <Up><Up><Up>
+2019-04-29 15:59:18+0530 > 1
+2019-04-29 16:00:05+0530 > n
+2019-04-29 16:00:17+0530 > y
+2019-04-29 16:00:21+0530 > y
+2019-04-29 16:00:25+0530 > y
+2019-04-29 16:00:33+0530 > n
+2019-04-29 16:00:39+0530 > y
+2019-04-29 16:00:43+0530 > n
+2019-04-29 16:00:47+0530 > y
+2019-04-29 16:00:50+0530 > y
+2019-04-29 16:00:53+0530 > 
+2019-04-29 16:01:13+0530 > y
+2019-04-29 16:01:21+0530 > 
+2019-04-29 16:01:24+0530 > 
+2019-04-29 16:01:26+0530 > 
+2019-04-29 16:01:27+0530 > 
+2019-04-29 16:01:28+0530 > 
+2019-04-29 16:01:29+0530 > 
+2019-04-29 16:01:31+0530 > 
+2019-04-29 16:01:32+0530 > 
+2019-04-29 16:01:33+0530 > 
+2019-04-29 16:01:33+0530 > 
+2019-04-29 16:01:34+0530 > 
+2019-04-29 16:01:35+0530 > 
+2019-04-29 16:01:36+0530 > 
+2019-04-29 16:01:36+0530 > 
+2019-04-29 16:01:37+0530 > 
+2019-04-29 16:01:37+0530 > 
+2019-04-29 16:01:38+0530 > 
+2019-04-29 16:01:38+0530 > 
+2019-04-29 16:01:39+0530 > 
+2019-04-29 16:01:39+0530 > 
+2019-04-29 16:01:40+0530 > 
+2019-04-29 16:01:40+0530 > 
+2019-04-29 16:01:41+0530 > 
+2019-04-29 16:01:41+0530 > 
+2019-04-29 16:01:42+0530 > 
+2019-04-29 16:01:42+0530 > 
+2019-04-29 16:01:43+0530 > 
+2019-04-29 16:01:43+0530 > 
+2019-04-29 16:01:44+0530 > 
+2019-04-29 16:01:44+0530 > 
+2019-04-29 16:01:44+0530 > 
+2019-04-29 16:01:45+0530 > 
+2019-04-29 16:01:45+0530 > 
+2019-04-29 16:01:45+0530 > 
+2019-04-29 16:01:46+0530 > 
+2019-04-29 16:01:46+0530 > 
+2019-04-29 16:01:47+0530 > 
+2019-04-29 16:01:47+0530 > 
+2019-04-29 16:01:48+0530 > 
+2019-04-29 16:01:48+0530 > 
+2019-04-29 16:01:49+0530 > 
+2019-04-29 16:01:49+0530 > 
+2019-04-29 16:01:50+0530 > 
+2019-04-29 16:01:51+0530 > 
+2019-04-29 16:01:52+0530 > 
+2019-04-29 16:01:52+0530 > 
+2019-04-29 16:01:53+0530 > 
+2019-04-29 16:01:53+0530 > 
+2019-04-29 16:01:54+0530 > 
+2019-04-29 16:01:54+0530 > 
+2019-04-29 16:01:54+0530 > 
+2019-04-29 16:01:55+0530 > 
+2019-04-29 16:01:55+0530 > 
+2019-04-29 16:01:58+0530 > 
+2019-04-29 16:01:58+0530 > 
+2019-04-29 16:01:59+0530 > 
+2019-04-29 16:01:59+0530 > 
+2019-04-29 16:01:59+0530 > 
+2019-04-29 16:02:00+0530 > 
+2019-04-29 16:02:00+0530 > 
+2019-04-29 16:02:00+0530 > 
+2019-04-29 16:02:01+0530 > 
+2019-04-29 16:02:01+0530 > 
+2019-04-29 16:02:01+0530 > 
+2019-04-29 16:02:01+0530 > 
+2019-04-29 16:02:02+0530 > 
+2019-04-29 16:02:02+0530 > 
+2019-04-29 16:02:02+0530 > 
+2019-04-29 16:02:02+0530 > 
+2019-04-29 16:02:03+0530 > 
+2019-04-29 16:02:03+0530 > 
+2019-04-29 16:02:03+0530 > 
+2019-04-29 16:02:04+0530 > 
+2019-04-29 16:02:04+0530 > 
+2019-04-29 16:02:04+0530 > 
+2019-04-29 16:02:05+0530 > 
+2019-04-29 16:02:05+0530 > 
+2019-04-29 16:02:05+0530 > 
+2019-04-29 16:02:06+0530 > 
+2019-04-29 16:02:06+0530 > 
+2019-04-29 16:02:06+0530 > 
+2019-04-29 16:02:06+0530 > 
+2019-04-29 16:02:07+0530 > 
+2019-04-29 16:02:07+0530 > 
+2019-04-29 16:02:07+0530 > 
+2019-04-29 16:02:07+0530 > 
+2019-04-29 16:02:08+0530 > 
+2019-04-29 16:02:08+0530 > 
+2019-04-29 16:02:08+0530 > 
+2019-04-29 16:02:08+0530 > 
+2019-04-29 16:02:09+0530 > 
+2019-04-29 16:02:09+0530 > 
+2019-04-29 16:02:10+0530 > 
+2019-04-29 16:02:10+0530 > 
+2019-04-29 16:02:10+0530 > 
+2019-04-29 16:02:10+0530 > 
+2019-04-29 16:02:10+0530 > 
+2019-04-29 16:02:12+0530 > 
+2019-04-29 16:02:12+0530 > 
+2019-04-29 16:02:12+0530 > 
+2019-04-29 16:02:13+0530 > 
+2019-04-29 16:02:13+0530 > 
+2019-04-29 16:02:13+0530 > 
+2019-04-29 16:02:14+0530 > 
+2019-04-29 16:02:14+0530 > 
+2019-04-29 16:02:14+0530 > <#+9>
+2019-04-29 16:02:16+0530 > 
+2019-04-29 16:02:16+0530 > 
+2019-04-29 16:02:16+0530 > 
+2019-04-29 16:02:16+0530 > 
+2019-04-29 16:02:16+0530 > 
+2019-04-29 16:02:17+0530 > 
+2019-04-29 16:02:17+0530 > 
+2019-04-29 16:02:17+0530 > 
+2019-04-29 16:02:17+0530 > 
+2019-04-29 16:02:18+0530 > 
+2019-04-29 16:02:18+0530 > 
+2019-04-29 16:02:18+0530 > 
+2019-04-29 16:02:18+0530 > 
+2019-04-29 16:02:18+0530 > 
+2019-04-29 16:02:19+0530 > 
+2019-04-29 16:02:19+0530 > 
+2019-04-29 16:02:19+0530 > 
+2019-04-29 16:02:20+0530 > 
+2019-04-29 16:02:20+0530 > 
+2019-04-29 16:02:20+0530 > 
+2019-04-29 16:02:21+0530 > 
+2019-04-29 16:02:21+0530 > 
+2019-04-29 16:02:21+0530 > 
+2019-04-29 16:02:22+0530 > 
+2019-04-29 16:02:23+0530 > 
+2019-04-29 16:02:24+0530 > 
+2019-04-29 16:02:24+0530 > 
+2019-04-29 16:02:25+0530 > 
+2019-04-29 16:02:25+0530 > 
+2019-04-29 16:02:26+0530 > 
+2019-04-29 16:02:26+0530 > 
+2019-04-29 16:02:27+0530 > 
+2019-04-29 16:02:27+0530 > 
+2019-04-29 16:02:27+0530 > 
+2019-04-29 16:02:28+0530 > 
+2019-04-29 16:02:28+0530 > 
+2019-04-29 16:02:29+0530 > 
+2019-04-29 16:02:29+0530 > 
+2019-04-29 16:02:30+0530 > 
+2019-04-29 16:02:30+0530 > 
+2019-04-29 16:02:30+0530 > 
+2019-04-29 16:02:31+0530 > 
+2019-04-29 16:02:31+0530 > 
+2019-04-29 16:02:31+0530 > 
+2019-04-29 16:02:32+0530 > 
+2019-04-29 16:02:32+0530 > 
+2019-04-29 16:02:32+0530 > 
+2019-04-29 16:02:33+0530 > 
+2019-04-29 16:02:33+0530 > 
+2019-04-29 16:02:33+0530 > 
+2019-04-29 16:02:33+0530 > 
+2019-04-29 16:02:34+0530 > 
+2019-04-29 16:02:34+0530 > 
+2019-04-29 16:02:34+0530 > 
+2019-04-29 16:02:34+0530 > 
+2019-04-29 16:02:35+0530 > 
+2019-04-29 16:02:35+0530 > 
+2019-04-29 16:02:35+0530 > 
+2019-04-29 16:02:35+0530 > 
+2019-04-29 16:02:36+0530 > 
+2019-04-29 16:02:36+0530 > 
+2019-04-29 16:02:36+0530 > 
+2019-04-29 16:02:36+0530 > 
+2019-04-29 16:02:37+0530 > 
+2019-04-29 16:02:37+0530 > 
+2019-04-29 16:02:37+0530 > 
+2019-04-29 16:02:38+0530 > 
+2019-04-29 16:02:38+0530 > 
+2019-04-29 16:02:38+0530 > 
+2019-04-29 16:02:38+0530 > 
+2019-04-29 16:02:39+0530 > 
+2019-04-29 16:02:41+0530 > 
+2019-04-29 16:02:42+0530 > 
+2019-04-29 16:02:42+0530 > 
+2019-04-29 16:02:42+0530 > 
+2019-04-29 16:02:42+0530 > 
+2019-04-29 16:02:43+0530 > 
+2019-04-29 16:02:43+0530 > 
+2019-04-29 16:02:44+0530 > 
+2019-04-29 16:02:44+0530 > 
+2019-04-29 16:02:44+0530 > 
+2019-04-29 16:02:45+0530 > 
+2019-04-29 16:02:45+0530 > 
+2019-04-29 16:02:45+0530 > 
+2019-04-29 16:02:46+0530 > 
+2019-04-29 16:02:46+0530 > 
+2019-04-29 16:02:47+0530 > 
+2019-04-29 16:02:48+0530 > 
+2019-04-29 16:02:48+0530 > 
+2019-04-29 16:02:49+0530 > 
+2019-04-29 16:02:50+0530 > 
+2019-04-29 16:02:51+0530 > 
+2019-04-29 16:02:51+0530 > 
+2019-04-29 16:02:51+0530 > 
+2019-04-29 16:02:51+0530 > 
+2019-04-29 16:02:52+0530 > 
+2019-04-29 16:02:52+0530 > 
+2019-04-29 16:02:52+0530 > 
+2019-04-29 16:02:52+0530 > 
+2019-04-29 16:02:52+0530 > 
+2019-04-29 16:02:53+0530 > 
+2019-04-29 16:02:53+0530 > 
+2019-04-29 16:02:53+0530 > <Up>
+2019-04-29 16:02:57+0530 > 
+2019-04-29 16:05:01+0530 > <Up><BckSp>7
+2019-04-29 16:05:08+0530 > <Up>
+2019-04-29 16:15:00+0530 > <Up><Left><#+19><Left><#+50><Right><BckSp><BckSp><KP1><KP0><NumLk><Left><#+6><BckSp><BckSp><BckSp><Right><BckSp>7<Home><Right><#+14><Down><Up><BckSp><BckSp>46
+2019-04-29 16:19:41+0530 > <Up><Up><Up>
+2019-04-29 16:21:14+0530 > <Up><BckSp><#+75>
+2019-04-29 16:24:08+0530 > <Up><BckSp><#+39>ls
+2019-04-29 16:24:37+0530 > <Up><Up>
+2019-04-29 16:24:46+0530 > <Up><Down>ls
+2019-04-29 16:24:57+0530 > cd ..
+2019-04-29 16:25:02+0530 > ls
+2019-04-29 16:25:06+0530 > cd ..
+2019-04-29 16:25:10+0530 > ls
+2019-04-29 16:25:13+0530 > cd pjsip-<Tab>
+2019-04-29 16:25:25+0530 > ls
+2019-04-29 16:25:26+0530 > cd bi<Tab><Tab><Tab>
+2019-04-29 16:25:32+0530 > ls
+2019-04-29 16:25:33+0530 > ./p<Tab><Tab>ua<Tab>
+2019-04-29 16:25:41+0530 > <Up>
+2019-04-29 16:26:05+0530 > ls
+2019-04-29 16:26:09+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Left><#+18><Up>
+2019-04-29 16:29:41+0530 > ls
+2019-04-29 16:29:56+0530 > <Up><Up><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><Right><BckSp><BckSp><BckSp><BckSp>2837
+2019-04-29 16:34:00+0530 > 
+2019-04-29 16:37:29+0530 > 
+2019-04-29 16:38:13+0530 > tt<Up>
+2019-04-29 16:38:49+0530 > 
+2019-04-29 16:39:21+0530 > 
+2019-04-29 16:39:34+0530 > 
+2019-04-29 16:39:54+0530 > 
+2019-04-29 16:40:05+0530 > 
+2019-04-29 16:40:25+0530 > <Del><Up>
+2019-04-29 16:40:57+0530 > <Up><Up><Down><LCtrl>c
+2019-04-29 16:46:08+0530 > 
+2019-04-29 16:46:21+0530 > <LCtrl>c
+2019-04-29 16:46:27+0530 > 
+2019-04-29 16:46:32+0530 > <LCtrl>c
+2019-04-29 16:46:38+0530 > 
+2019-04-29 16:46:46+0530 > <LCtrl>c
+2019-04-29 16:46:53+0530 > 
+2019-04-29 16:46:58+0530 > <Up><Up><Up><Up><#+6><Down><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><#+7><Up><#+3><Up><Up><Up><Up><Up><Up><Up><Up><Up><#+12><Up><Up><Up><Up><#+7><Up><#+12><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><#+12><Up><#+11><Up><#+11><Up><Down><Down><Up><#+10><Up><#+8><Up><#+7><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><BckSp><#+9>lsblk
+2019-04-29 16:49:08+0530 > g
+2019-04-29 16:50:24+0530 > sdcard part<Down> for ras<Down> ker<Down>
+2019-04-29 16:50:40+0530 > sudo g<BckSp>fdisk -l
+2019-04-29 16:51:49+0530 > zs10062013
+2019-04-29 16:51:57+0530 >  fdi<Left>with 
+2019-04-29 16:53:56+0530 > <LCtrl>c
+2019-04-29 16:55:39+0530 > <Left><#+18><Right><Right><Right><BckSp>c<End>
+2019-04-29 16:55:57+0530 > <LCtrl>c
+2019-04-29 16:56:05+0530 > <BckSp>c<End>
+2019-04-29 16:56:13+0530 > p
+2019-04-29 16:56:59+0530 > n
+2019-04-29 16:57:39+0530 > p
+2019-04-29 16:57:51+0530 > 1
+2019-04-29 16:57:55+0530 > 
+2019-04-29 16:58:03+0530 > <RShft>+256<CpsLk>M
+2019-04-29 16:58:19+0530 > P
+2019-04-29 16:58:39+0530 > <CpsLk>p
+2019-04-29 16:58:42+0530 > n
+2019-04-29 16:58:49+0530 > p
+2019-04-29 16:58:53+0530 > 2
+2019-04-29 16:58:55+0530 > 2<CpsLk>G<CpsLk><RShft>+<BckSp><BckSp><BckSp><BckSp><RShft>+2g<BckSp><CpsLk>G<CpsLk>
+2019-04-29 16:59:16+0530 > <Up><Down><BckSp><#+14><RShft>+1.8<CpsLk>G
+2019-04-29 17:00:07+0530 > <Up><BckSp><#+13><RShft>+1.5<LShft>g<BckSp>G
+2019-04-29 17:00:19+0530 > <RShft><RShft>+1G
+2019-04-29 17:00:32+0530 > 
+2019-04-29 17:01:01+0530 > <RShft>+2G
+2019-04-29 17:01:19+0530 > <CpsLk>p
+2019-04-29 17:01:22+0530 > t
+2019-04-29 17:02:11+0530 > 1
+2019-04-29 17:02:15+0530 > c
+2019-04-29 17:02:18+0530 > p
+2019-04-29 17:02:24+0530 > w
+2019-04-29 17:02:49+0530 > sudo mkfs.vfat /dev/sdc1
+2019-04-29 17:03:27+0530 > <Up><Left><#+12><Left><Left><BckSp><BckSp><BckSp><BckSp>ex4<End><BckSp>2
+2019-04-29 17:03:49+0530 > <Up><Left><#+11><Left><Left><Left>t<End>
+2019-04-29 17:04:00+0530 > <Up><Up><Up><Up><Up><Up>
+2019-04-29 17:04:31+0530 > <Up><Up>
+2019-04-29 17:04:42+0530 > <Up>
+2019-04-29 17:08:25+0530 > <Up><LCtrl>c
+2019-04-29 17:08:52+0530 > <LCtrl>v
+2019-04-29 17:08:58+0530 > <Up><Up><Up><Down><Down>
+2019-04-29 17:11:54+0530 > f<Up><Up><Down><Up><Up><Up><Up><Up><Up><Up><Down>
+2019-04-29 17:12:25+0530 > p
+2019-04-29 17:12:27+0530 > d
+2019-04-29 17:12:37+0530 > 1
+2019-04-29 17:12:40+0530 > d
+2019-04-29 17:12:46+0530 > n
+2019-04-29 17:13:08+0530 > p
+2019-04-29 17:13:09+0530 > 1
+2019-04-29 17:13:12+0530 > 
+2019-04-29 17:13:36+0530 > <RShft>+256<RShft>M
+2019-04-29 17:13:44+0530 > n
+2019-04-29 17:13:59+0530 > p
+2019-04-29 17:14:04+0530 > 2
+2019-04-29 17:14:06+0530 > 
+2019-04-29 17:14:07+0530 > <RShft>+2<RShft>G
+2019-04-29 17:14:12+0530 > t
+2019-04-29 17:14:19+0530 > 1
+2019-04-29 17:14:22+0530 > b
+2019-04-29 17:14:33+0530 > t
+2019-04-29 17:14:39+0530 > 2
+2019-04-29 17:14:56+0530 > <CpsLk>L
+2019-04-29 17:15:10+0530 > 83
+2019-04-29 17:15:31+0530 > <CpsLk>w
+2019-04-29 17:15:39+0530 > umount /dev/sdc
+2019-04-29 17:16:19+0530 > sudo mkfs.vfat -n <CpsLk>BOOT <CpsLk>/dev/sdc1
+2019-04-29 17:16:51+0530 > sudo mkfs.ext4 =<BckSp><RShft>_<BckSp>-<CpsLk>L ROOT <CpsLk>/dev/sdc2
+2019-04-29 17:17:47+0530 > <Up><Up><Up><Up><Up><Up><Down>
+2019-04-29 17:18:36+0530 > <Up><Up><Up><Down><Down>
+2019-04-29 17:18:50+0530 > <Up><Up><Up><Up><Up><Up><Down>
+2019-04-29 17:18:59+0530 > d
+2019-04-29 17:19:01+0530 > d
+2019-04-29 17:19:03+0530 > d
+2019-04-29 17:19:07+0530 > w
+2019-04-29 17:19:10+0530 > <Up><Up>
+2019-04-29 17:19:12+0530 > 
+
+Logging stopped at 2019-04-29 17:26:42+0530
+
