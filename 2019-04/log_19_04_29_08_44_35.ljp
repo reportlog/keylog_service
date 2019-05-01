@@ -1,0 +1,289 @@
+Logging started ...
+
+2019-04-29 20:44:35+0530 > <CpsLk><CpsLk>zs2<BckSp><#+13>zs10062013
+2019-04-30 08:51:04+0530 > <CpsLk>RASPBERRY PI GADGET TO WIFI MOBILERASP<BckSp><#+20>RASPBERRY PI SETTINGS<Up>
+2019-04-30 08:54:00+0530 > <RShft>&<BckSp><RShft>$<CpsLk><CpsLk>PATH
+2019-04-30 08:56:41+0530 > <LCtrl>c
+2019-04-30 08:58:43+0530 > 
+2019-04-30 08:58:49+0530 > <CpsLk>zs10062013
+2019-04-30 08:58:57+0530 > <Left><#+54><Left><BckSp><#+13><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><End>
+2019-04-30 09:02:18+0530 > source .bashrc
+2019-04-30 09:02:39+0530 > <RShft>$<CpsLk>PATH
+2019-04-30 09:02:48+0530 > SUDO FDISK -I<BckSp><#+22><CpsLk>sudo fdisk -l
+2019-04-30 09:08:06+0530 > <RShft>$<CpsLk>KERNEL
+2019-04-30 09:14:03+0530 > CD TOOLS
+2019-04-30 09:24:03+0530 > <CpsLk>cd tools
+2019-04-30 09:24:07+0530 > ls
+2019-04-30 09:24:08+0530 > cd bin
+2019-04-30 09:24:11+0530 > cd bin
+2019-04-30 09:24:15+0530 > cd arm-bcm2708
+2019-04-30 09:24:41+0530 > ls
+2019-04-30 09:24:43+0530 > cd 
+2019-04-30 09:25:04+0530 > ls
+2019-04-30 09:25:06+0530 > cd bin
+2019-04-30 09:25:11+0530 > ls
+2019-04-30 09:25:13+0530 > source .bashrc
+2019-04-30 09:25:50+0530 > <Up><Up><BckSp><#+9><RShft>$<CpsLk>PATH
+2019-04-30 09:26:08+0530 > 
+2019-04-30 09:26:48+0530 > <RShft>&<BckSp><RShft>$PATH
+2019-04-30 09:27:46+0530 > 
+2019-04-30 09:28:01+0530 > G
+2019-04-30 09:32:29+0530 > KERNEL.IMG RA<Down>
+2019-04-30 09:32:42+0530 > <Up><Down><Down>CD ..
+2019-04-30 09:50:35+0530 > CD ../..
+2019-04-30 09:50:39+0530 > CD ..
+2019-04-30 09:50:42+0530 > CD..
+2019-04-30 09:50:43+0530 > CD..
+2019-04-30 09:50:44+0530 > CD..
+2019-04-30 09:50:45+0530 > <CpsLk>cd ../..
+2019-04-30 09:50:49+0530 > cd ..
+2019-04-30 09:50:52+0530 > cd..
+2019-04-30 09:50:53+0530 > cd..
+2019-04-30 09:50:54+0530 > cd ./
+2019-04-30 09:50:59+0530 > cd../...
+2019-04-30 09:51:05+0530 > cd ..
+2019-04-30 09:51:10+0530 > cd linux
+2019-04-30 09:51:16+0530 > ls
+2019-04-30 09:51:19+0530 > 
+2019-04-30 09:51:47+0530 > zs10062013
+2019-04-30 09:51:55+0530 > <LCtrl>c
+2019-04-30 09:54:20+0530 > 
+2019-04-30 09:54:29+0530 > g
+2019-04-30 09:55:45+0530 > kernel7.img building image for ras<Down><Down><Down>
+2019-04-30 09:56:04+0530 > <Up><Up><Down><Down>
+2019-04-30 10:02:40+0530 > g
+2019-04-30 10:03:12+0530 > kernel7.img<Down>
+2019-04-30 10:03:23+0530 > <End> d<Down>
+2019-04-30 10:03:41+0530 > df -h
+2019-04-30 10:04:41+0530 > 
+2019-04-30 10:05:00+0530 > cd ..
+2019-04-30 10:05:39+0530 > 
+2019-04-30 10:05:47+0530 > <Up><Left><#+13><Left><#+34><Left><Left><Left>home/zumi/<Right><#+23><Left>home/zumi/<End>
+2019-04-30 10:06:18+0530 > <Up><Up><Left><#+43><Left><Left><BckSp><BckSp>mv<End>
+2019-04-30 10:07:23+0530 > <Up><Left><Left><Left><Left><Left><#+27><Left><Right><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>kere<BckSp>nel<Right><#+20><Right><Right><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>kernel<End>
+2019-04-30 10:07:54+0530 > <Up><Left><#+28><Left>7<Right><#+19><Right><Right><Right>7<End>
+2019-04-30 10:08:08+0530 > <Left><#+7><Left><Left><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>kernel7<End>
+2019-04-30 10:08:41+0530 > cd linux
+2019-04-30 10:08:45+0530 > <Up><Up>
+2019-04-30 10:08:53+0530 > <Up><Left><#+22><Left><#+21><BckSp><BckSp>mv<End>
+2019-04-30 10:09:36+0530 > <Up><Left><#+15><Left><Left><Left><Left><Left><Left><Left><Left>home/zumi/<End>
+2019-04-30 10:10:08+0530 > <Up><Left><#+46><Left><Right><BckSp><BckSp>cp<End>
+2019-04-30 10:10:22+0530 > <Up><Left><#+27><Left><Left><Left>/<End>
+2019-04-30 10:10:32+0530 > <Left><#+9><Left><Left><Left><Left>/home/zumi/<End>
+2019-04-30 10:11:30+0530 > <Left><#+20><Right>/home/zumi/<End>
+2019-04-30 10:12:02+0530 > <Up>
+2019-04-30 10:13:21+0530 > 
+2019-04-30 10:13:38+0530 > <Up><Left><#+19><Left>/home/zumi/<End>
+2019-04-30 10:13:47+0530 > 
+2019-04-30 10:14:20+0530 > <Up><Left><#+9><Left><Left><Left><Left>/home/zumi/<End>
+2019-04-30 10:14:45+0530 > <Up><BckSp><BckSp><BckSp><BckSp><BckSp>ext4<End>
+2019-04-30 10:15:02+0530 > <LCtrl>api<RShft>_build<Up><Up><Up><Down><Down><Up><BckSp><#+13>
+2019-04-30 10:21:21+0530 > <Up>
+2019-04-30 10:29:56+0530 > df -h
+2019-04-30 10:30:03+0530 > sudi <BckSp><BckSp>0<BckSp>o fdisk -l
+2019-04-30 10:30:21+0530 > zs10062013
+2019-04-30 10:30:30+0530 > <Up>
+2019-04-30 10:30:49+0530 > <LCtrl>mmeerasahibm<RShft>@zumisolutions.com<Tab><CpsLk>M<CpsLk>eera<RShft>_12<LShft>@<LShft>#<LCtrl>g
+2019-04-30 10:38:19+0530 > pjsip
+2019-04-30 10:38:23+0530 > ppp<BckSp><BckSp>jsip<LCtrl>tmpy<BckSp>tmpcd tmp
+2019-04-30 10:44:16+0530 > ls
+2019-04-30 10:44:18+0530 > <LCtrl>c
+2019-04-30 10:45:18+0530 > 
+2019-04-30 10:45:23+0530 > aectest
+2019-04-30 10:47:08+0530 > cd ..
+2019-04-30 10:49:09+0530 > cd ..
+2019-04-30 10:49:12+0530 > <BckSp><BckSp><BckSp><BckSp><BckSp><#+6><BckSp><#+35><BckSp><BckSp><BckSp><BckSp><BckSp>
+2019-04-30 10:49:26+0530 > <Up><Down>ls
+2019-04-30 10:49:32+0530 > <Up><Up><Left><#+11><Left><#+9><Left><#+2><Left><Left><Left><Left><Left><Left><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>-x86<RShft>_64<Left><Left><Left><Left><Left><Left><Left><BckSp><BckSp><BckSp>ststest<End>
+2019-04-30 10:50:17+0530 > <Up><Left><#+12><Left><#+18><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><Right><BckSp><BckSp>
+2019-04-30 10:50:34+0530 > <Up><Up><Left><#+24><Up><Up><Left><#+25><Up><Down><Down><Up><Up><Up><Up><Up><Down><Down><Down><Down><Down><Up><Left><#+11><BckSp><#+37><End><BckSp><#+19><BckSp><BckSp><BckSp><BckSp><BckSp><RShft>:1<RShft>:46<Left><#+39><Left><#+11><Left><Left><Left><#+9><Left><Left><Left><Left><Left><Left><Left><Left><Left><BckSp><BckSp><BckSp><BckSp><BckSp><Right><BckSp>x86<RShft>_64<End>
+2019-04-30 10:52:12+0530 > <Up><Left><#+53><Left><#+12><Left><Left><Left><BckSp><BckSp><BckSp>ystest<End>
+2019-04-30 10:52:44+0530 > <Up><Left><#+71><Right><Right><Right><Right>s<End>
+2019-04-30 10:52:55+0530 >  <LCtrl>c
+2019-04-30 10:55:56+0530 > <Up>
+2019-04-30 10:56:01+0530 > <LCtrl>x<LCtrl>c
+2019-04-30 10:56:14+0530 > <Up><Home>sudo 
+2019-04-30 10:56:22+0530 > zs10062013
+2019-04-30 10:56:29+0530 > 00
+2019-04-30 10:56:40+0530 > 10
+2019-04-30 10:56:48+0530 > 1
+2019-04-30 10:56:54+0530 > 1
+2019-04-30 10:56:57+0530 > 
+2019-04-30 10:57:01+0530 > 
+2019-04-30 10:57:02+0530 > 
+2019-04-30 10:57:02+0530 > 
+2019-04-30 10:57:03+0530 > 1
+2019-04-30 10:57:04+0530 > 1
+2019-04-30 10:57:07+0530 > 1
+2019-04-30 10:57:08+0530 > 1
+2019-04-30 10:57:11+0530 > 1
+2019-04-30 10:57:13+0530 > 1
+2019-04-30 10:57:15+0530 > <LCtrl>x<LCtrl>c
+2019-04-30 10:57:17+0530 > <Up>
+2019-04-30 10:57:40+0530 > 09
+2019-04-30 10:57:51+0530 > <LCtrl>c
+2019-04-30 10:57:56+0530 > <Up><Up><Up><Up>
+2019-04-30 10:58:15+0530 > <Up>
+2019-04-30 10:58:37+0530 > 
+2019-04-30 10:58:39+0530 > <Up>
+2019-04-30 10:58:40+0530 > <Up><Left><#+11><Left><#+3><Left><Left><Left><Left><Left><Left><Left><Left><Left><BckSp><#+15><BckSp><#+12><BckSp><#+8><BckSp><#+8><BckSp><BckSp><BckSp>--stereo --ec-tail 0 --clock-rate 8000 <End>
+2019-04-30 10:59:52+0530 > ldsik
+2019-04-30 11:10:27+0530 > lsblk
+2019-04-30 11:10:42+0530 > sudo<BckSp><BckSp><BckSp><BckSp>cd linix
+2019-04-30 11:12:11+0530 > cd linux
+2019-04-30 11:12:16+0530 > sudo mount /dev/sdb1 mnt fat32
+2019-04-30 11:12:55+0530 > zs10062013
+2019-04-30 11:13:02+0530 > <Up><Left><#+1><Left><Left><Left><Left><BckSp>/<Left><#+1><Left><Left><Left>/home/zumi/<End>
+2019-04-30 11:13:32+0530 > <Up><Left><#+18><Left><Left><Left><Left><BckSp>2 <End><BckSp><BckSp><BckSp><BckSp><BckSp>ext4
+2019-04-30 11:13:53+0530 > <Up><Down><Up><Up><Down><Up><Up><Up><Up><BckSp><#+16>sudo fdisk -l
+2019-04-30 11:14:35+0530 > <Up><Up><Up><Up><Up><BckSp><#+18>df -h
+2019-04-30 11:15:03+0530 > mount
+2019-04-30 11:15:14+0530 > 
+2019-04-30 11:15:35+0530 > cd ..
+2019-04-30 11:17:31+0530 > 
+2019-04-30 11:17:38+0530 > <Up><Left><#+10><Left><Left><Left><Left><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>kernel7<Left><#+22><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>kernel7<End>
+2019-04-30 11:18:07+0530 > <Up><Left><#+6><Left><Left><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>kernel7<Left><#+13><Left><Left><Left><Left><#+1><End>
+2019-04-30 11:18:32+0530 > <Up><Left><#+28><Left><#+9><Left><Left><Left><Left><Left><Left><Left>/home <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>/linux/<End>
+2019-04-30 11:19:03+0530 > <Up><Left><#+38><Left><Left><Left><Left><Left><BckSp><End>
+2019-04-30 11:19:11+0530 > <Up><Left><#+27><Left><Left><Left><Left><Left>linux/<End>
+2019-04-30 11:19:32+0530 > <Up><Left><#+43><Left><Left>linux/<End>
+2019-04-30 11:19:52+0530 > <Up><Left><#+16>
+2019-04-30 11:20:07+0530 > <Up><Left><#+42><Left><#+5><Left><Left><Left><Left>linux/<End>
+2019-04-30 11:20:24+0530 > g
+2019-04-30 11:29:21+0530 > rasp<Down><Down> ras<Down>
+2019-04-30 11:29:42+0530 > g
+2019-04-30 11:31:17+0530 > <LCtrl>v
+2019-04-30 11:31:20+0530 > <BckSp><#+14><BckSp><#+8><BckSp><BckSp><BckSp><BckSp><BckSp>
+2019-04-30 11:31:28+0530 > g
+2019-04-30 11:35:31+0530 > pjsip<Down><Down>
+2019-04-30 11:35:47+0530 > how to use pjsip in u<Down>
+2019-04-30 11:43:19+0530 > 
+2019-04-30 11:45:30+0530 > <Up><Left><#+16><Right><Right><BckSp><End>
+2019-04-30 11:45:40+0530 > <Up><Left><Up><Home>sudo 
+2019-04-30 11:45:47+0530 > zs10062013
+2019-04-30 11:45:54+0530 > <LCtrl>c
+2019-04-30 11:46:17+0530 > 
+2019-04-30 11:46:22+0530 > <Up><BckSp><BckSp><BckSp>
+2019-04-30 11:46:34+0530 > <Up>install
+2019-04-30 11:46:45+0530 > <LCtrl>c
+2019-04-30 11:46:53+0530 > 
+2019-04-30 11:46:59+0530 > <Up><Home>sudo <End>
+2019-04-30 11:47:14+0530 > cd ..
+2019-04-30 11:47:19+0530 > <Up>
+2019-04-30 11:49:42+0530 > <Up>
+2019-04-30 11:49:44+0530 > <Up><Up><Up>
+2019-04-30 11:49:50+0530 > zs10062013
+2019-04-30 11:49:57+0530 > 10
+2019-04-30 11:50:09+0530 > 1
+2019-04-30 11:50:17+0530 > 09
+2019-04-30 11:50:22+0530 > 
+2019-04-30 11:50:26+0530 > <LCtrl>c
+2019-04-30 11:50:28+0530 > <Up><Up><Down><Up><Home>sudo 
+2019-04-30 11:50:40+0530 > <Up><Left><End><BckSp><#+19>
+2019-04-30 11:51:05+0530 > <Up><BckSp><#+28><BckSp><BckSp><BckSp><#+7><BckSp><BckSp>
+2019-04-30 11:51:15+0530 > <Up><Up><Up>/24<End>
+2019-04-30 11:51:59+0530 > <Up>
+2019-04-30 11:53:14+0530 > <Up><BckSp><BckSp><BckSp>
+2019-04-30 11:54:08+0530 > ls
+2019-04-30 11:55:36+0530 > <Up><Up><Up><Up><Up><Down><Down><BckSp><#+2><BckSp><#+11>./<BckSp><#+11>zs10062013
+2019-04-30 11:57:29+0530 > <Up><Del><Del><BckSp><#+15><BckSp><#+36><BckSp><BckSp><BckSp><Left><#+14><Left><#+11><Left><Left><Left><Left><Left><Left><BckSp><BckSp><BckSp>sip<Right>test-<End>
+2019-04-30 11:58:16+0530 > g
+2019-04-30 12:10:21+0530 > rasp<Down> to r<Down> through sip protoco<Down>
+2019-04-30 12:10:40+0530 > pj
+2019-04-30 12:12:56+0530 > <Up><BckSp><#+13><BckSp><#+31><BckSp><#+8><BckSp><#+44>ls
+2019-04-30 12:16:50+0530 > <Up><Up><BckSp><#+23><BckSp><#+28><BckSp><BckSp><BckSp>
+2019-04-30 12:17:01+0530 > zs10062013
+2019-04-30 12:17:08+0530 > <Up>eabihf
+2019-04-30 12:17:34+0530 > <Up><Up><Up>
+2019-04-30 12:17:37+0530 > <Up><Up><Left><#+19><Left><#+7><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><BckSp><BckSp><BckSp><BckSp><BckSp>pjsystest<End>
+2019-04-30 12:18:35+0530 > <Up><BckSp><BckSp><#+5><BckSp><BckSp><BckSp><BckSp>
+2019-04-30 12:18:44+0530 > <PgUp><PgUp><PgUp><PgUp><PgUp><PgDn><PgUp><PgUp><PgUp><PgUp>ifconfig
+2019-04-30 12:20:43+0530 > 09
+2019-04-30 12:22:25+0530 > <LCtrl>c
+2019-04-30 12:22:27+0530 > zs10062013
+2019-04-30 12:54:20+0530 > meerasahibm<RShft>@zumisolutions.com<Tab><CpsLk>M<CpsLk>eera<RShft>_12<RShft>@<RShft>#<CpsLk><CpsLk>zs201<BckSp><#+15>zs10062013
+2019-04-30 14:16:24+0530 > 
+2019-04-30 14:47:01+0530 > <CpsLk><CpsLk>zs10062013
+2019-04-30 16:51:18+0530 > zs10062013
+2019-04-30 17:55:51+0530 > <Up>
+2019-04-30 17:56:26+0530 > zs10062013
+2019-04-30 17:56:35+0530 > 09
+2019-04-30 17:56:40+0530 > <LCtrl>x<LCtrl>c
+2019-04-30 17:56:43+0530 > <Up><Up><Up><Up>
+2019-04-30 17:56:50+0530 > <Up><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>
+2019-04-30 17:56:55+0530 > <Up><Home><Right><Right><Right><Right><BckSp><#+8><BckSp><Right><BckSp><End>
+2019-04-30 17:59:47+0530 > g
+2019-04-30 18:02:17+0530 > <LCtrl>v
+2019-04-30 18:02:20+0530 > <BckSp>
+2019-04-30 18:02:24+0530 >  pjsip
+2019-04-30 18:02:30+0530 > <LCtrl><Down><#+22><Down><#+11><Down><Down><Down><#+2><Down><#+10><Down><Down><Down><Down><Down><Down><Down><Down><#+8><Down><#+9><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><#+12><Down><#+6><Down><Down><LCtrl>c
+2019-04-30 18:52:35+0530 > asterisk
+2019-04-30 18:52:52+0530 > zs10062013
+2019-04-30 18:52:58+0530 > <Up><BckSp><#+9><BckSp><BckSp><BckSp><BckSp>libv4l-dev
+2019-04-30 18:53:21+0530 > <Up><BckSp><#+4><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>bx264-dev
+2019-04-30 18:53:35+0530 > <Up><BckSp><#+7><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>ssl-dev
+2019-04-30 18:53:45+0530 > <Up><BckSp><#+6><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>asound2-dev
+2019-04-30 18:53:57+0530 > <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><#+12><BckSp><BckSp>
+2019-04-30 18:54:58+0530 > <Up><Left><#+25><Up><Down><Left><#+27><Left><#+58><Left><Left><Left><Left><Left><Left><Left>.<End>
+2019-04-30 18:55:19+0530 > <F12><CpsLk><CpsLk>zs10062013
+2019-05-01 08:55:02+0530 > cd ..
+2019-05-01 08:55:44+0530 > cd ..
+2019-05-01 08:55:47+0530 > make uninstall
+2019-05-01 08:55:57+0530 > <Up><BckSp><#+12><BckSp>clean
+2019-05-01 08:56:14+0530 > <Up><Left><#+14>sudo 
+2019-05-01 08:56:27+0530 > zs106
+2019-05-01 08:56:38+0530 > <LCtrl>c
+2019-05-01 08:56:42+0530 > <Up><Up><Up><Up><Up>
+2019-05-01 09:08:39+0530 > <Up><BckSp><#+39><BckSp><#+22><BckSp><BckSp><BckSp><BckSp>
+2019-05-01 09:08:46+0530 > cd bi<BckSp><BckSp><#+1><BckSp><BckSp><BckSp>cd<BckSp><BckSp><BckSp>ls
+2019-05-01 09:08:55+0530 > cd pjsip-apps
+2019-05-01 09:09:09+0530 > cd bin
+2019-05-01 09:09:12+0530 > <Up><Up><Up><Up>
+2019-05-01 09:09:16+0530 > g
+2019-05-01 09:12:23+0530 > <LCtrl>v<Down><Down>
+2019-05-01 09:12:30+0530 > <PgDn><PgDn><PgDn><LCtrl>v<LCtrl>f<LCtrl>v
+2019-05-01 09:13:00+0530 > <PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><End><BckSp><#+11><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>
+2019-05-01 09:13:57+0530 > <LCtrl>f<LCtrl>f<LCtrl>v
+2019-05-01 09:20:57+0530 > <BckSp><#+28>addre<BckSp><#+15>bind
+2019-05-01 09:21:13+0530 > <LCtrl>v
+2019-05-01 09:21:38+0530 > <LCtrl>fbind
+2019-05-01 09:23:04+0530 > <BckSp><LCtrl>vaddress
+2019-05-01 09:23:15+0530 > 
+2019-05-01 09:24:08+0530 > <BckSp>a
+2019-05-01 09:24:15+0530 > <BckSp><#+26><LCtrl>vaddress
+2019-05-01 09:25:39+0530 > g
+2019-05-01 09:27:03+0530 > <LCtrl>v
+2019-05-01 09:27:07+0530 > how to kill existing apps socket
+2019-05-01 09:30:58+0530 > 
+2019-05-01 09:31:49+0530 > lsof -i<RShft>:8080
+2019-05-01 09:32:29+0530 > netstat -tulpn
+2019-05-01 09:33:23+0530 >  pjsip
+2019-05-01 09:36:53+0530 > kill -9 5060
+2019-05-01 09:43:56+0530 > <Up>
+2019-05-01 09:44:05+0530 > <Up>
+2019-05-01 09:44:14+0530 > zs10062013
+2019-05-01 09:44:22+0530 > <LCtrl>c
+2019-05-01 09:45:34+0530 > <Up><Up>
+2019-05-01 09:45:39+0530 > <Up><Left><#+7><Right><Right><Up>
+2019-05-01 09:45:48+0530 > <LCtrl>c
+2019-05-01 09:45:52+0530 > <Up><Up>
+2019-05-01 09:45:58+0530 > <Up><BckSp><#+46><BckSp><#+10>nu
+2019-05-01 09:46:12+0530 > <Up><BckSp><#+38>ls
+2019-05-01 09:46:19+0530 > ./cd ..
+2019-05-01 09:46:42+0530 > cd ..
+2019-05-01 09:46:46+0530 > cd ..
+2019-05-01 09:46:48+0530 > make dep
+2019-05-01 09:46:56+0530 > make
+2019-05-01 09:47:02+0530 > ls
+2019-05-01 09:47:06+0530 > cd pjsip-apps
+2019-05-01 09:47:18+0530 > ls
+2019-05-01 09:47:20+0530 > vd <BckSp><#+11>cd bin
+2019-05-01 09:47:29+0530 > ls
+2019-05-01 09:47:30+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up>
+2019-05-01 09:47:46+0530 > <Up><Up>
+2019-05-01 09:47:59+0530 > <Up><Up>
+2019-05-01 09:48:11+0530 > <Up>
+2019-05-01 09:48:12+0530 > <Up>
+
+Logging stopped at 2019-05-01 09:49:47+0530
+
