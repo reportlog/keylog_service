@@ -1,0 +1,74 @@
+Logging started ...
+
+2019-05-02 09:56:41+0530 > zs10062013
+2019-05-02 10:54:04+0530 > <LMeta><#+7>lzs10062013
+2019-05-02 11:23:18+0530 > zs10062013
+2019-05-02 11:30:56+0530 > linux camera <Down><Down><Down><Down>
+2019-05-02 11:33:59+0530 > <Down><Down><Up><Down><Down><Down><Down><Down><Down><Down><Down><Down>zs10062013
+2019-05-02 12:18:26+0530 > <LCtrl>c
+2019-05-02 12:29:23+0530 > <#+1>cd <LShft>Down<Tab>sri<Tab>k<Tab>l<Tab>dri<Tab>
+2019-05-02 12:29:35+0530 > cd med<Tab>
+2019-05-02 12:29:42+0530 > grep -ar <RShft>""<Left><LShft><Ins><Right><LShft>*
+2019-05-02 12:29:52+0530 > <LAlt><Tab><Up><BckSp> <LShft>*
+2019-05-02 12:30:42+0530 > cd ..
+2019-05-02 12:30:50+0530 > <Up><Up>
+2019-05-02 12:30:53+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab>suzuki gixxer <Down><Down><Down> 2019 la<BckSp><BckSp> launch
+2019-05-02 12:34:56+0530 > zs10062013
+2019-05-02 12:52:52+0530 > <AltGr><Esc><LMeta><#+5>;lzs10062013
+2019-05-02 14:32:06+0530 > zs10062013
+2019-05-02 14:43:38+0530 > <LShft>Yahoozumi<LShft>@5
+2019-05-02 15:23:59+0530 > zs10062013
+2019-05-02 15:38:49+0530 > mipi linu<BckSp>es
+2019-05-02 15:44:40+0530 > <LMeta><#+11>lzs10062013
+2019-05-02 17:38:45+0530 > <LShft>Hi <LShft>Raghu,<Left><#+11><Del>ello<End><BckSp>/<BckSp>,
+2019-05-02 17:47:11+0530 > 
+2019-05-02 17:47:11+0530 >     <LCtrl>c
+2019-05-02 17:47:23+0530 > <LCtrl>va.
+2019-05-02 17:47:46+0530 > =<RShft>><LShft>srikanth<LShft><Left><#+11><Left><Left><Left><LCtrl>b<End><LCtrl>x<LCtrl>v<LCtrl>x
+2019-05-02 17:49:34+0530 > <LCtrl>v<BckSp><BckSp><LCtrl>v<BckSp><BckSp><LCtrl>c
+2019-05-02 17:49:46+0530 > c
+2019-05-02 17:49:47+0530 > <LCtrl>v<LShft>We a<BckSp><BckSp><BckSp><BckSp><LCtrl>b<LShft>We aree <BckSp><BckSp> accc<BckSp><#+9><BckSp><BckSp><BckSp>will accept this point and will add to sens<BckSp>d the <Left><#+12><Left><Left><BckSp><BckSp>the additional code t <BckSp>o<End><BckSp><BckSp><BckSp><BckSp><BckSp> in thr <BckSp><BckSp>e <LShft>Ack packet o<BckSp>to<BckSp><BckSp><BckSp>.<Left><#+25><Left><Left><#+15><Left><Left><Left><Left><BckSp><BckSp><BckSp>an<Right><#+13><Right><#+13><Left><Left><Left><Del><Del><Del><Del><Del><Del><Del><Del><End><BckSp> while sending to guest mobile.<LCtrl>c
+2019-05-02 17:52:51+0530 > 
+2019-05-02 17:52:58+0530 > 
+2019-05-02 17:52:59+0530 > <LCtrl>v<Home><Up>b.<LCtrl>c
+2019-05-02 17:53:13+0530 > 
+2019-05-02 17:53:16+0530 > 
+2019-05-02 17:53:16+0530 > <LCtrl>v<LCtrl>b<LShft><LShft>As hari eplained <BckSp><BckSp>d<Left><#+12><Right>s<BckSp>x<End> we <BckSp><BckSp><BckSp><LCtrl>bwe are using the functional code for differentiating between the operations <BckSp><BckSp> <BckSp>s carrie<BckSp>ed betweeen <Left><Left><BckSp> <BckSp><End>different <BckSp><#+12><BckSp><LShft>
+2019-05-02 17:55:41+0530 >  i<BckSp> <#+18>1.<LShft>Mobile to <LShft>Lock
+2019-05-02 17:56:04+0530 >  <#+13>        2.<LShft>Lock to <LShft>H<LShft>ub
+2019-05-02 17:56:17+0530 >  <#+14>      3.<LShft>Mobl<BckSp>ile to <LShft>Hub<BckSp><Del><LCtrl>z<LAlt><Tab><LAlt><Tab><Del><LCtrl>s.
+2019-05-02 18:06:11+0530 >  <#+10>      <LShft>As the software team will receive only <LShft>Ack packet from <LShft>BLE they no need to worry about function code <BckSp> only thery <BckSp><BckSp><BckSp>y need to check for the command byte and status byte to know whether that command operation is sus<BckSp>ccessful or not. device,<BckSp><BckSp><BckSp><BckSp>25<BckSp><BckSp>02<Left><Left><Left><BckSp>5<Del>.<Del>.<Del><Del><BckSp><BckSp><BckSp><BckSp>.<Down><LShft>We <BckSp><BckSp><BckSp><LShft>Completed the changes as per the review comments.<BckSp><#+20><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>the <LShft>BLE rotoco;l<BckSp><#+10><BckSp>protocol sheet.
+2019-05-02 18:26:15+0530 > <BckSp><BckSp>
+2019-05-02 18:26:19+0530 > 
+2019-05-02 18:26:20+0530 > <BckSp><BckSp><BckSp><Down><Down><LShft><LShft>Looking forward to work if any <Left><#+7><Left><Left><Left><Left><Left><Right><Left><Left> on hardware<End>thing was finalized.<LCtrl>s<LCtrl>sssss<F2>2may<LCtrl>c
+2019-05-02 18:28:13+0530 > <LCtrl>v<BckSp><BckSp>02<Right><Right><Right><BckSp>5<Up><Down><Left><Right><Up><Down><Up><Up><Up><Up><Down><Down><Down><Up><Right><Right><BckSp>\<#+5><BckSp><#+64><BckSp><BckSp><#+38><LShft>BLE package clarification  <BckSp>with client<Tab><Tab><Tab><Tab>`<BckSp><KP5>`<Ins><BckSp><Tab><Up><Up><Down><Up><Up><Left><Left><Left><Left><Left><Left><Left><Left><Left><BckSp>reived ==<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>ved <BckSp><BckSp><BckSp>iw<BckSp>ewd <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>reveived revi<LCtrl>c
+2019-05-02 18:32:58+0530 > <LAlt><Tab><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LCtrl>ved <Left><#+12><Left><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>according to re<BckSp><BckSp><Right><#+11> comments of client <BckSp>, <Up><Left><Up><Left><#+9><BckSp><LShft>A<Down><Down><Right><Right><Right><Right><Right><Right> made c<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>clarified the <LShft>BLE packet forma<#+1>tion to client<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>with application team<Down><Down><Down><Up><Up><Up><Down><Left><#+13><Left><Left><Left><BckSp><BckSp><BckSp><BckSp><BckSp>
+2019-05-02 18:35:49+0530 > <LCtrl>x<LCtrl>v2<LShft>Flowchat<BckSp>rt<BckSp><#+11><BckSp><LShft>Energy and <LShft>Air <LShft>Quality sensor changes <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LShft>Flowchart changes<Tab><LShft>D<Right><Tab><Left><LShft>s<Right><Tab><Left>02<Right>2<Tab><Up><Up><Down><Up><Up><Left><#+12> <Left><LShft>Re<BckSp><BckSp><Right><BckSp>
+2019-05-02 18:37:33+0530 > <LCtrl>s
+2019-05-02 18:37:36+0530 > <Up><Left><Left><BckSp><LShft>1<LCtrl>s<RShft><Up><Up><Left><#+14><LCtrl>c
+2019-05-02 18:38:21+0530 > <LCtrl><BckSp><LCtrl>v<LCtrl>c
+2019-05-02 18:39:35+0530 > <LCtrl>v<LCtrl>sss<BckSp><LCtrl>v<Right><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>2`<BckSp><Tab><LCtrl>c
+2019-05-02 18:43:06+0530 > <LCtrl>v<Up><Down><LShft>D<Right><Tab><Left><LShft>N<Right><Right>`<Left><Left><Left><Left><Left><Left><Left><Left><Left><BckSp><BckSp><KP0><KP2><BckSp><KP5>02<Right>`<BckSp><KP2><BckSp><KP2><BckSp><KP5><Up><Up><Up><Left><#+14><Left> <Left><LShft>Reviews<BckSp>ed<Down><Down><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><KP2><LCtrl>c
+2019-05-02 18:45:12+0530 > <LCtrl>v<LCtrl>snitish.latni<LShft>@zumisolutions.com<Tab><LShft>Nitish<RShft>_2019log0<BckSp>og<BckSp><BckSp><BckSp>log<BckSp><BckSp><BckSp><BckSp>
+2019-05-02 18:48:57+0530 > 
+2019-05-02 18:48:58+0530 > 
+2019-05-02 18:48:58+0530 > 
+2019-05-02 18:49:05+0530 > <BckSp><Left><#+46>
+2019-05-02 18:49:15+0530 > <Up>
+2019-05-02 18:49:16+0530 > 
+2019-05-02 18:49:16+0530 > 
+2019-05-02 18:49:16+0530 > 
+2019-05-02 18:49:16+0530 > 
+2019-05-02 18:49:16+0530 > 
+2019-05-02 18:49:17+0530 > 
+2019-05-02 18:49:17+0530 > 
+2019-05-02 18:49:17+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><LShft>Hi <BckSp>,
+2019-05-02 18:49:22+0530 > <Tab>   <LShft>PFA
+2019-05-02 18:49:33+0530 > 
+2019-05-02 18:49:34+0530 > <LShft>Regards, 
+2019-05-02 18:49:37+0530 > <LShft>Nitish<BckSp><#+10>,
+2019-05-02 18:49:46+0530 > 
+2019-05-02 18:49:47+0530 > 
+
+Logging stopped at 2019-05-02 18:50:46+0530
+
