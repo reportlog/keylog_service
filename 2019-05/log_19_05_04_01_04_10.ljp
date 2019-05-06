@@ -1,0 +1,188 @@
+Logging started ...
+
+2019-05-04 13:04:10+0530 > cd ../ras<Tab><Tab><Tab><Tab><RShft>_d<Tab><Tab><Tab>
+2019-05-04 13:04:28+0530 > 
+2019-05-04 13:04:28+0530 > k<BckSp>ls
+2019-05-04 13:04:30+0530 > 
+2019-05-04 13:04:30+0530 > cd li<Tab><#+1>
+2019-05-04 13:04:34+0530 > ls
+2019-05-04 13:04:35+0530 > 
+2019-05-04 13:04:35+0530 > cd ../
+2019-05-04 13:05:04+0530 > 
+2019-05-04 13:05:04+0530 > 
+2019-05-04 13:05:04+0530 > ls
+2019-05-04 13:05:06+0530 > cd ..
+2019-05-04 13:05:18+0530 > ls
+2019-05-04 13:05:19+0530 > <#+1>cd new<Tab><#+5><Tab><Tab>
+2019-05-04 13:05:44+0530 > 
+2019-05-04 13:05:44+0530 > ls
+2019-05-04 13:05:46+0530 > cd re<Tab><#+2>
+2019-05-04 13:05:53+0530 > ls
+2019-05-04 13:05:54+0530 > cd ../
+2019-05-04 13:05:58+0530 > 
+2019-05-04 13:05:58+0530 > ls
+2019-05-04 13:06:00+0530 > ls
+2019-05-04 13:06:13+0530 > 
+2019-05-04 13:06:13+0530 > cd re<Tab><#+3><Tab><Tab><Tab>
+2019-05-04 13:06:19+0530 > ls
+2019-05-04 13:06:21+0530 > cd ../
+2019-05-04 13:06:33+0530 > 
+2019-05-04 13:06:34+0530 > ls
+2019-05-04 13:06:36+0530 > cd ../<#+4>
+2019-05-04 13:07:57+0530 > 
+2019-05-04 13:07:58+0530 > 
+2019-05-04 13:07:58+0530 > ls
+2019-05-04 13:08:00+0530 > dc <BckSp><BckSp>cd <BckSp><#+14>cd u<#+2><BckSp>u<Tab><Tab><Tab><BckSp><#+3><BckSp><BckSp><BckSp><BckSp>ls
+2019-05-04 13:08:33+0530 > 
+2019-05-04 13:08:34+0530 > cd <BckSp><#+13>ls
+2019-05-04 13:08:46+0530 > 
+2019-05-04 13:08:46+0530 > 
+2019-05-04 13:08:46+0530 > 
+2019-05-04 13:08:48+0530 > 
+2019-05-04 13:08:48+0530 > ls
+2019-05-04 13:08:50+0530 > 
+2019-05-04 13:08:51+0530 > 
+2019-05-04 13:08:51+0530 > cd r<Tab><#+1><LShft>_d<Tab>
+2019-05-04 13:09:04+0530 > ls
+2019-05-04 13:09:04+0530 > cd ke<BckSp><BckSp>li<Tab>
+2019-05-04 13:09:07+0530 > 
+2019-05-04 13:09:07+0530 > 
+2019-05-04 13:09:08+0530 > grep -rns <LShft>"47<LShft>"
+2019-05-04 13:09:13+0530 > <LCtrl>c
+2019-05-04 13:09:15+0530 > <#+1><Up><Left><#+1><Left><Left>56
+2019-05-04 13:09:19+0530 > <LCtrl>c
+2019-05-04 13:09:25+0530 > <Up><Left><BckSp><BckSp><BckSp><BckSp>mma1
+2019-05-04 13:09:29+0530 > <LCtrl>c
+2019-05-04 13:09:31+0530 > <Up><Left><BckSp><BckSp><BckSp><BckSp>camera
+2019-05-04 13:09:34+0530 > <#+1><LCtrl>c
+2019-05-04 13:09:37+0530 > <#+4>
+2019-05-04 13:09:39+0530 > 
+2019-05-04 13:09:39+0530 > cd dr<Tab><Tab>me<Tab><Tab>d<Tab><Tab><Tab>i2<Tab><Tab><Tab><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><Tab>
+2019-05-04 13:09:57+0530 > ls
+2019-05-04 13:09:58+0530 > grep -nr s<BckSp><BckSp>s<BckSp><BckSp><BckSp>rns <LShft>"47<LShft>"
+2019-05-04 13:10:11+0530 > <#+2><Up><Left><Left><Left>56
+2019-05-04 13:10:16+0530 > \\\cd<F11><#+3><BckSp><#+15>cd i2<Tab><#+2>
+2019-05-04 13:10:39+0530 > ls
+2019-05-04 13:10:39+0530 > vi o<Tab><Tab><Tab>56<Tab><#+2><Tab>45<Tab>
+2019-05-04 13:10:48+0530 > <PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><Esc><LShft>:q<LShft>!
+2019-05-04 13:10:58+0530 > 
+2019-05-04 13:10:58+0530 > vi <LShft>Kc<Tab>
+2019-05-04 13:11:00+0530 > /45
+2019-05-04 13:11:03+0530 > nnnnn<Esc><LShft>:q<LShft>!
+2019-05-04 13:11:10+0530 > 
+2019-05-04 13:11:10+0530 > 
+2019-05-04 13:11:10+0530 > 
+2019-05-04 13:11:11+0530 > ls
+2019-05-04 13:11:11+0530 > vi ov<Tab><Tab>zs10062013
+2019-05-04 13:29:58+0530 > <#+1><BckSp><#+13>cd ../../../
+2019-05-04 13:30:04+0530 > 
+2019-05-04 13:30:04+0530 > 
+2019-05-04 13:30:04+0530 > cd ../
+2019-05-04 13:30:13+0530 > 
+2019-05-04 13:30:13+0530 > cd ../nw<BckSp>e<Tab>
+2019-05-04 13:30:17+0530 > lls
+2019-05-04 13:30:18+0530 > ls
+2019-05-04 13:30:21+0530 > grep -rns <LShft>Ov5645
+2019-05-04 13:30:28+0530 > <Up><Left><Left><Left><Left><BckSp><LShft>V
+2019-05-04 13:30:33+0530 > <Up><Left><Left><Left><Left><BckSp><BckSp>ov
+2019-05-04 13:30:37+0530 > <#+2><Up><Left><Left><Left><Left><BckSp><BckSp>
+2019-05-04 13:30:40+0530 > cd c<Tab><#+4>
+2019-05-04 13:30:44+0530 > ls
+2019-05-04 13:30:44+0530 > ls -la 
+2019-05-04 13:30:48+0530 > cd ../
+2019-05-04 13:30:54+0530 > 
+2019-05-04 13:30:54+0530 > 
+2019-05-04 13:30:55+0530 > ls
+2019-05-04 13:30:59+0530 > 
+2019-05-04 13:30:59+0530 > <#+1>
+2019-05-04 13:30:59+0530 > 
+2019-05-04 13:31:00+0530 > 
+2019-05-04 13:31:00+0530 > vi bc<Tab>
+2019-05-04 13:31:03+0530 > <Esc><LShft>L<Esc><LShft>:q<LShft>!
+2019-05-04 13:31:07+0530 > 
+2019-05-04 13:31:07+0530 > 
+2019-05-04 13:31:07+0530 > cd ../
+2019-05-04 13:31:10+0530 > 
+2019-05-04 13:31:10+0530 > cd <Tab><Tab><Tab>li<Tab><BckSp><BckSp>re<BckSp>as<Tab><#+2><LShft>_<BckSp><LShft>_d<Tab>
+2019-05-04 13:31:19+0530 > ls
+2019-05-04 13:31:20+0530 > cd l<Tab><#+1>
+2019-05-04 13:31:24+0530 > ls
+2019-05-04 13:31:24+0530 > cd ar<Tab>ar<Tab><#+2>m/bo<Tab><#+2>dt<Tab><#+2>
+2019-05-04 13:31:31+0530 > ls
+2019-05-04 13:31:31+0530 > vi bc<Tab><Tab><Tab>n2<Tab><Tab>710<Tab><Tab>.d<Tab><#+1>
+2019-05-04 13:31:43+0530 > <Esc><#+2><LShft>:q<LShft>!
+2019-05-04 13:31:46+0530 > <Up><BckSp><BckSp><BckSp><BckSp><BckSp>
+2019-05-04 13:32:02+0530 > <Esc><LShft>:q<LShft>!
+2019-05-04 13:32:04+0530 > 
+2019-05-04 13:32:04+0530 > <Up>r<Tab><#+3><BckSp><BckSp><BckSp><Tab><#+1>-<Tab><#+1><Tab><Tab>3<Tab><#+4>.d<Tab>s
+2019-05-04 13:32:19+0530 > /45
+2019-05-04 13:32:22+0530 > '/cam
+2019-05-04 13:32:24+0530 > <Esc><LShft>:q<LShft>!
+2019-05-04 13:32:26+0530 > <Up>
+2019-05-04 13:32:27+0530 > /cam
+2019-05-04 13:32:28+0530 > /0v
+2019-05-04 13:32:31+0530 > /ov
+2019-05-04 13:32:33+0530 > <Up><#+1>/<Up>56
+2019-05-04 13:32:39+0530 > <Up>/56
+2019-05-04 13:32:42+0530 > <Esc><LShft>:q<LShft>!
+2019-05-04 13:32:43+0530 > 
+2019-05-04 13:32:44+0530 > 
+2019-05-04 13:32:44+0530 > grep -rns 5645
+2019-05-04 13:32:48+0530 > <LCtrl>c
+2019-05-04 13:32:55+0530 > <Up><LShft>:<BckSp><LShft>"<Left><#+8><Left><Right><LShft>"
+2019-05-04 13:33:00+0530 > <LCtrl>c
+2019-05-04 13:33:05+0530 > vi bcm2712<BckSp>0<Tab><Tab>-rp<Tab><#+1>-<BckSp>c<Tab><#+3>s
+2019-05-04 13:33:16+0530 > /56
+2019-05-04 13:33:19+0530 > /45
+2019-05-04 13:33:21+0530 > <Esc><LShft>:q<LShft>!
+2019-05-04 13:33:22+0530 > <Up>
+2019-05-04 13:33:25+0530 > /i1<BckSp>2c
+2019-05-04 13:33:27+0530 > <Esc><LShft>:q<LShft>!
+2019-05-04 13:33:31+0530 > 
+2019-05-04 13:33:31+0530 > vi <RShft><Ins>
+2019-05-04 13:33:41+0530 > /4<BckSp>56
+2019-05-04 13:33:44+0530 > /45
+2019-05-04 13:33:45+0530 > /47
+2019-05-04 13:33:47+0530 > <#+2><Esc><LShft>:q<LShft>!
+2019-05-04 13:33:49+0530 > 
+2019-05-04 13:33:49+0530 > 
+2019-05-04 13:33:49+0530 > ls
+2019-05-04 13:33:50+0530 > grep -rns 5645
+2019-05-04 13:33:55+0530 > <Up><Left><Left><Right><Right><BckSp>7
+2019-05-04 13:34:00+0530 > <#+3>cd o<Tab><#+3><Tab><Tab>
+2019-05-04 13:34:10+0530 > ls
+2019-05-04 13:34:11+0530 > vi o<Tab><Tab><Tab>-o<Tab><#+2>
+2019-05-04 13:34:17+0530 > <PgDn><PgDn><PgUp><PgUp><Esc><LShft>:q<LShft>!
+2019-05-04 13:34:36+0530 > 
+2019-05-04 13:34:37+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><#+4><LAlt><Tab><#+13>g<#+1>
+2019-05-04 13:34:59+0530 > i2cde<Down> <Down><Down><Down><Down>
+2019-05-04 13:35:09+0530 >  not showing de<Down><Down><Down>
+2019-05-04 13:35:18+0530 > <LAlt><Tab><Up>
+2019-05-04 13:38:44+0530 > zs10062013
+2019-05-04 17:16:55+0530 > <RShft>:q
+2019-05-04 17:17:06+0530 > exit<BckSp><BckSp><BckSp><BckSp><BckSp><LAlt><Tab><#+1><Tab><LShft>Welcome<LShft>!23
+2019-05-04 17:17:44+0530 > pa<LShft>Rail <LShft>Tester <LShft>SRT <LShft>Application<LShft>Hi <LShft>Sir,
+2019-05-04 17:18:33+0530 > 
+2019-05-04 17:18:33+0530 > <Tab><Tab><LShft>Please find the attached <LShft>SRT <LShft>A<BckSp>application,
+2019-05-04 17:18:53+0530 > 
+2019-05-04 17:18:53+0530 > <Tab><Tab><LShft>Here, <BckSp><BckSp> following changes are done.
+2019-05-04 17:19:19+0530 > <Tab><Tab>1<LShft>)format of meter and <LShft>KM<LShft> value has been changed.
+2019-05-04 17:20:46+0530 > <Tab><Tab><LShft>2<LShft>)gate 1 and gate 2 position are changed <CpsLk><CpsLk>as per the requirement.
+2019-05-04 17:21:16+0530 > 
+2019-05-04 17:21:16+0530 > 
+2019-05-04 17:21:16+0530 > <LShft>Plea<BckSp><BckSp><BckSp><BckSp><Tab><Tab><LShft>Please test the application ad <BckSp><BckSp>nd give your feedback.
+2019-05-04 17:21:37+0530 > 
+2019-05-04 17:21:37+0530 > 
+2019-05-04 17:21:37+0530 > <LShft>Reagr<BckSp><BckSp><BckSp>gards,
+2019-05-04 17:21:45+0530 > <LShft>Puneeth.<LShft>K<LShft>Welcome<LShft>!23
+2019-05-04 17:24:42+0530 > <Left><Left><Left><Left><Left><BckSp><BckSp><BckSp><LShft>May<Left><Left><Left><Left><BckSp><BckSp>04
+2019-05-04 17:25:54+0530 > l<BckSp><#+14><LShft>Done<BckSp>10<KP1><KP5>junk while ge<BckSp><#+10><BckSp><BckSp> value getting whhen <BckSp><BckSp><BckSp><BckSp>en <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp> from the odometer.<LCtrl>z26<LShft>Add 14 channel fro<BckSp><BckSp><BckSp>instead of 7 channels for <LShft>Rail <LShft>Tester <LShft>DRT<LShft>(double rail <LShft>tester<LShft><LShft>).<LShft>Done100<LShft>%<LShft>P<Right>2d<LShft>Str<BckSp>ore <BckSp><BckSp><BckSp><BckSp><BckSp>oe <BckSp><BckSp>re 14 channel data instead of 7 channel data in <LShft>DRT<BckSp><BckSp><BckSp><LShft>Rail <LShft>TEste<BckSp><BckSp><BckSp><BckSp>ester <LShft>DRT(double rail tester<LShft>)<KP2><KP9>/055/19<Left><Left><Left><BckSp>30/05/1929/05/1930/05/1927<Right><BckSp>4<BckSp>4<BckSp>4<BckSp>4change meter amd <BckSp><BckSp><BckSp>nd <LShft>KM <Left><#+14><Left><Left><Left><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>display<Right><Right><Right><#+11><Right><Right><Right><Right><Right>value with always 4 digit value.<LShft>Done100<LShft>%<LShft>P<Right>1d<KP0><KP2>/05/1902/05/1902/05/1902/05/1928<LShft>Start drawing gate1 and gate2 line from <BckSp><BckSp><BckSp><BckSp><BckSp>as from the eneterd valuein <BckSp><BckSp><BckSp> in vb application.<LShft>Done<BckSp><BckSp><BckSp><BckSp>per<LCtrl>x <LCtrl>v<Left><Left><Left><Left><BckSp><Right><Right><Right>e100<LShft>%<LShft>P1d03/<BckSp><BckSp>2d05/1903/05/19<BckSp>403/05/1904/05/19<LCtrl><LCtrl><LCtrl>s<LCtrl>sye<LShft>WSR document<LShft>Hi,
+2019-05-04 17:50:36+0530 > 
+2019-05-04 17:50:36+0530 > <Tab><Tab><LShft>PFA,
+2019-05-04 17:50:39+0530 > 
+2019-05-04 17:50:39+0530 > 
+2019-05-04 17:50:40+0530 > <LShft>Regards,
+2019-05-04 17:50:43+0530 > <LShft>Puneeth.<LShft>K<LMeta>l
+
+Logging stopped at 2019-05-04 18:57:36+0530
+
