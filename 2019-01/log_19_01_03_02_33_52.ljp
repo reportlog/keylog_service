@@ -1,0 +1,312 @@
+Logging started ...
+
+2019-01-03 14:33:52+0530 > mm
+2019-01-03 15:11:15+0530 > <LCtrl>c
+2019-01-03 15:14:26+0530 > c
+2019-01-03 15:14:27+0530 > c
+2019-01-03 15:14:27+0530 > c
+2019-01-03 15:14:27+0530 > c
+2019-01-03 15:14:27+0530 > c
+2019-01-03 15:14:28+0530 > c
+2019-01-03 15:14:28+0530 > c
+2019-01-03 15:14:29+0530 > c
+2019-01-03 15:14:29+0530 > c
+2019-01-03 15:14:29+0530 > c
+2019-01-03 15:14:29+0530 > c
+2019-01-03 15:14:30+0530 > <LCtrl>a<RShft><Del>
+2019-01-03 15:14:52+0530 > git status
+2019-01-03 15:18:44+0530 > git commi <BckSp>t - a<BckSp><BckSp>am <RShft>""<Left><LShft>1<BckSp><LShft>Gauges changes speedometer
+2019-01-03 15:19:26+0530 > git pus <BckSp>h<BckSp><#+6><BckSp><BckSp><BckSp>add --re<Tab><Tab><BckSp><#+24>mm
+2019-01-03 15:20:20+0530 > git branch
+2019-01-03 15:20:51+0530 > mm
+2019-01-03 15:21:22+0530 > <LCtrl>s<LCtrl><LShft>Tsy<BckSp><BckSp><BckSp><LCtrl><LShft>T<LShft>System<LShft>U
+2019-01-03 15:22:05+0530 > <LCtrl><LCtrl>scd ../../../
+2019-01-03 15:23:58+0530 > cd pac<Tab>ap<Tab>fs<Tab><LShft>F<Tab>
+2019-01-03 15:24:09+0530 > git log
+2019-01-03 15:24:13+0530 > <LCtrl><LShft>c
+2019-01-03 15:24:29+0530 > c
+2019-01-03 15:24:29+0530 > c
+2019-01-03 15:24:29+0530 > <LCtrl>zgit check<Tab><LShft><LCtrl>V
+2019-01-03 15:24:38+0530 > git log
+2019-01-03 15:25:05+0530 > <LCtrl>z<LCtrl>c
+2019-01-03 15:25:14+0530 > cd ../.././<BckSp><BckSp><BckSp><BckSp><BckSp>
+2019-01-03 15:25:33+0530 > cd ../
+2019-01-03 15:25:36+0530 > cd pac<Tab><BckSp><BckSp><BckSp><LShft>B<BckSp><LShft>Nav<Tab>
+2019-01-03 15:25:42+0530 > mm
+2019-01-03 15:25:44+0530 > <LCtrl>zgit log
+2019-01-03 15:26:28+0530 > q<Up>
+2019-01-03 15:26:35+0530 > <LCtrl><LCtrl>zq
+2019-01-03 15:40:33+0530 > 
+2019-01-03 15:40:33+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up>
+2019-01-03 15:40:46+0530 > cd ../../../
+2019-01-03 15:40:54+0530 > <Up><Up><Up><Up><Up><Down><Down><Down><Down><Up>
+2019-01-03 15:41:01+0530 > git status
+2019-01-03 15:41:05+0530 > <Up><BckSp><#+23>git status
+2019-01-03 15:41:24+0530 > git log
+2019-01-03 15:41:30+0530 > <LCtrl><LCtrl><LCtrl>zcd pac<Tab><BckSp><BckSp><BckSp>../../../
+2019-01-03 16:13:15+0530 > cd pa<Tab><BckSp><BckSp>a[<BckSp>p<Tab><LShft>Na<Tab>
+2019-01-03 16:13:23+0530 > mm
+2019-01-03 16:13:24+0530 > <LCtrl>v<BckSp>cd ../../../
+2019-01-03 16:23:40+0530 > <Up><Up><Up><Up><Up><Up><Up>
+2019-01-03 16:23:45+0530 > <Tab><Tab>ls
+2019-01-03 16:23:50+0530 > mm
+2019-01-03 16:23:56+0530 > cd <Up><Up><Up><Up>
+2019-01-03 16:24:22+0530 > cd ap<Tab><LShft>Nav<Tab>
+2019-01-03 16:24:26+0530 > mm
+2019-01-03 16:24:28+0530 > cd <BckSp><#+20>git branch
+2019-01-03 16:27:32+0530 > girt<BckSp><BckSp>t chec<Tab>mast<Tab>
+2019-01-03 16:27:39+0530 > git <BckSp><#+21>git stash 
+2019-01-03 16:28:11+0530 > <Up><BckSp><#+64><BckSp><BckSp><Up><Up><Down>
+2019-01-03 16:28:38+0530 > git comm<Tab>-m <RShft>""<Left><LShft>Receny<BckSp>t <LShft>Call changes
+2019-01-03 16:28:56+0530 > <Up><BckSp><#+45><Up><Up><Down>
+2019-01-03 16:29:06+0530 > <Up><Up><Up><Up><Up><Up><Up><Down><Down><Down><Down><Down><Down><Down><Down><LCtrl><LShft>c
+2019-01-03 16:29:24+0530 > <LCtrl>v<LCtrl><LShft>V<Up><Left><#+29><Right>a
+2019-01-03 16:29:34+0530 > <Up><Up><Up>
+2019-01-03 16:29:38+0530 > git status
+2019-01-03 16:29:42+0530 > git pull bb master
+2019-01-03 16:29:55+0530 > <LCtrl>z<Up>
+2019-01-03 16:30:02+0530 > <LCtrl>z<Up>
+2019-01-03 16:30:10+0530 > mm
+2019-01-03 16:30:18+0530 > git chec<Tab><LShft>nav<Tab>
+2019-01-03 16:31:23+0530 > mm
+2019-01-03 16:31:25+0530 > git pull bb master 
+2019-01-03 16:34:36+0530 > mm
+2019-01-03 16:34:45+0530 > git pull
+2019-01-03 16:35:01+0530 > <Up> <BckSp><BckSp><BckSp><BckSp><BckSp>chec<Tab><BckSp><#+32>git chec<Tab>mast<Tab>
+2019-01-03 16:37:24+0530 > mm
+2019-01-03 16:37:27+0530 > cd ../../../
+2019-01-03 16:38:24+0530 > clear
+2019-01-03 16:38:26+0530 > vi devi<Tab>fs<Tab>/bu<Tab><Tab><BckSp><BckSp>to<Tab>bu<Tab>
+2019-01-03 16:38:47+0530 > <Down><#+29><Up><Right><#+29><Right><Right><Right><Right><Right>i<BckSp><KP5><Right><Right><Right><Left><Right><BckSp><BckSp><KP1><KP0><Right><Right><Right><BckSp><BckSp><KP0><KP1><Right><Right><Right><Right><Right><BckSp><KP9><Esc><RShft>:wq<RShft>!<BckSp><BckSp><BckSp><BckSp>i<Left><#+22><Right><BckSp><KP1><Right><Right><Right><Right><Right><Right><BckSp><BckSp><KP0><KP1><Esc><RShft>:wq<RShft>!
+2019-01-03 16:39:34+0530 > 
+2019-01-03 16:39:34+0530 > 
+2019-01-03 16:39:34+0530 > tou<Tab>bu<Tab>c<Tab>ve<Tab>
+2019-01-03 16:39:46+0530 > 
+2019-01-03 16:39:47+0530 > ./a<Tab><Tab>nd<Tab>
+2019-01-03 16:39:54+0530 > 
+2019-01-03 16:41:56+0530 > make otapackage
+2019-01-03 16:47:18+0530 > <LCtrl><LShft>T
+2019-01-03 16:47:36+0530 > xdg-open ./ou<Tab>ta<Tab>pro<Tab>to<Tab>
+2019-01-03 16:47:45+0530 > <LCtrl><LCtrl><LCtrl>cd pack<Tab>ap<Tab><LShft>Na<Tab>
+2019-01-03 16:54:49+0530 > git branch
+2019-01-03 16:54:53+0530 > <Up><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>chec<Tab><LShft>nav<Tab>
+2019-01-03 16:55:02+0530 > mm
+2019-01-03 16:55:05+0530 > git log
+2019-01-03 16:56:30+0530 > <LCtrl>z<LCtrl>smm
+2019-01-03 16:57:19+0530 > <RCtrl><RShft>?<LCtrl>smm
+2019-01-03 16:58:26+0530 > //<LCtrl>c
+2019-01-03 16:58:58+0530 > fmm
+2019-01-03 16:59:18+0530 > <LCtrl>smm
+2019-01-03 16:59:36+0530 > <LCtrl>zz<#+31><LCtrl>smm
+2019-01-03 17:00:04+0530 > <LCtrl>a<LCtrl>ac
+2019-01-03 17:00:42+0530 > c
+2019-01-03 17:00:42+0530 > <LCtrl>av<LCtrl>smm
+2019-01-03 17:00:58+0530 > <LCtrl>s<BckSp><LCtrl> <Down><Down><Down><Down><Down><Down><Down><Down><Down><Up><Up><Up><Down><Down><Down><Down><Down><Up><Up><Up>
+2019-01-03 17:03:27+0530 > <LCtrl>c
+2019-01-03 17:03:33+0530 > 
+2019-01-03 17:03:36+0530 > <LCtrl>v<BckSp><#+17><BckSp><LCtrl> <Down><Down><Down>
+2019-01-03 17:03:44+0530 > <LCtrl>s<LCtrl>smm
+2019-01-03 17:03:54+0530 > mm
+2019-01-03 17:05:58+0530 > <LCtrl>c
+2019-01-03 17:06:29+0530 > c
+2019-01-03 17:06:30+0530 > c
+2019-01-03 17:06:30+0530 > <LCtrl>a<RShft><Del>
+2019-01-03 17:06:39+0530 > <LCtrl>v
+2019-01-03 17:09:26+0530 > <LCtrl><LCtrl>x<LCtrl>s
+2019-01-03 17:10:03+0530 > <LCtrl><LCtrl>zz<LCtrl>c
+2019-01-03 17:10:12+0530 > 
+2019-01-03 17:10:24+0530 > <LCtrl><LCtrl>vph<LCtrl> <BckSp><BckSp>di<LCtrl> <Down>
+2019-01-03 17:10:51+0530 > <LCtrl>c
+2019-01-03 17:11:10+0530 > 
+2019-01-03 17:11:13+0530 > <LCtrl>v<LCtrl>c
+2019-01-03 17:11:17+0530 > <LCtrl>v<LCtrl>v<LCtrl>c
+2019-01-03 17:11:30+0530 > <LCtrl>v<LCtrl>s<LCtrl>c
+2019-01-03 17:11:38+0530 > 
+2019-01-03 17:11:43+0530 > <LCtrl>v<LCtrl>c
+2019-01-03 17:11:49+0530 > <LCtrl>v<LCtrl>vssssmm
+2019-01-03 17:12:16+0530 > <LCtrl>c
+2019-01-03 17:13:45+0530 > c
+2019-01-03 17:13:46+0530 > c
+2019-01-03 17:13:46+0530 > c
+2019-01-03 17:13:46+0530 > <LCtrl>a<RShft><Del>
+2019-01-03 17:14:00+0530 > <LCtrl>v<LCtrl><LCtrl><LCtrl><LCtrl>c
+2019-01-03 17:26:43+0530 > <LCtrl>fv<LCtrl>c
+2019-01-03 17:39:07+0530 > <#+1><LCtrl><LCtrl><LCtrl>fv<LCtrl>c
+2019-01-03 17:41:27+0530 > <LCtrl>fv<LCtrl><LCtrl><LCtrl><LCtrl><LShft>T<LCtrl>v<LCtrl>v<LCtrl>v<LCtrl>f<BckSp><BckSp><BckSp><BckSp><LCtrl>c
+2019-01-03 17:47:05+0530 > <#+1>
+2019-01-03 17:47:07+0530 > <LCtrl>v<LCtrl>c
+2019-01-03 17:47:12+0530 > <LCtrl>v<LCtrl>v<LCtrl>c
+2019-01-03 17:47:25+0530 > <LCtrl>vs<LCtrl><LCtrl>c
+2019-01-03 17:47:32+0530 > <LCtrl>smm
+2019-01-03 17:47:44+0530 > 
+2019-01-03 17:50:00+0530 > <LCtrl>c
+2019-01-03 17:50:17+0530 > c
+2019-01-03 17:50:17+0530 > c
+2019-01-03 17:50:17+0530 > c
+2019-01-03 17:50:17+0530 > c
+2019-01-03 17:50:18+0530 > <LCtrl>a<RShft><Del>
+2019-01-03 17:50:23+0530 > <LCtrl>v<LCtrl>c
+2019-01-03 17:52:32+0530 > <LCtrl>z<LCtrl><LCtrl>s<LCtrl><LCtrl><LCtrl>c
+2019-01-03 17:56:51+0530 > c
+2019-01-03 17:56:51+0530 > c
+2019-01-03 17:56:52+0530 > <LCtrl>fv<LCtrl>fv<LCtrl>fv<RCtrl><RShft>?<LCtrl>smm
+2019-01-03 17:57:39+0530 > <LCtrl><LCtrl><RCtrl><RShft>|<LCtrl>s<RCtrl><RShft>?<LCtrl>s<LCtrl>c
+2019-01-03 17:58:41+0530 > f<LCtrl><LCtrl><LCtrl>zzz<LCtrl>s<LCtrl>c
+2019-01-03 17:59:21+0530 > f<LCtrl><LCtrl>c
+2019-01-03 18:02:40+0530 > 
+2019-01-03 18:02:41+0530 > <LCtrl>v<BckSp><LCtrl> <LShft>TI<BckSp><BckSp><LCtrl> <LCtrl>d
+2019-01-03 18:02:56+0530 > s<LCtrl>c
+2019-01-03 18:03:46+0530 > <LCtrl>v<LCtrl>sssss<LCtrl>s<LCtrl>s<LCtrl>smm
+2019-01-03 18:04:57+0530 > <LCtrl>c
+2019-01-03 18:05:58+0530 > c
+2019-01-03 18:05:59+0530 > c
+2019-01-03 18:05:59+0530 > c
+2019-01-03 18:05:59+0530 > c
+2019-01-03 18:05:59+0530 > c
+2019-01-03 18:05:59+0530 > <LCtrl>a<RShft><Del>
+2019-01-03 18:06:13+0530 > <LCtrl>v<LCtrl>c
+2019-01-03 18:12:50+0530 > c
+2019-01-03 18:12:50+0530 > 
+2019-01-03 18:12:54+0530 > <LCtrl>v.s<Down><Down><Down><Down><Down>
+2019-01-03 18:13:05+0530 > <LShft>T<BckSp><BckSp><LCtrl>c
+2019-01-03 18:13:22+0530 > c
+2019-01-03 18:13:22+0530 > c
+2019-01-03 18:13:23+0530 > c
+2019-01-03 18:13:23+0530 > <LCtrl>s<LCtrl>ssgit status
+2019-01-03 18:14:06+0530 > git branch
+2019-01-03 18:14:18+0530 > git commit -am <RShft>""<Left><LShft>Bt <LShft>Time fix
+2019-01-03 18:14:34+0530 > git push bb na<Tab>
+2019-01-03 18:14:45+0530 > <Up>
+2019-01-03 18:14:49+0530 > <Up>
+2019-01-03 18:14:57+0530 > vi <RShft>~/.ssh<Tab>co<Tab>
+2019-01-03 18:15:15+0530 > <Down><Up>i<Down><Up><RShft>#<Down><Down><Left><RShft>#<Esc><RShft>:wq<RShft>!
+2019-01-03 18:15:24+0530 > <Up><Up><Up><Down>
+2019-01-03 18:15:30+0530 > <RCtrl><RShft>ca<LCtrl> <Down>
+2019-01-03 18:22:34+0530 > <BckSp><BckSp><LCtrl><LCtrl>zzzzz<LCtrl>s<RCtrl><RShft>?<LCtrl>sca<LCtrl> 
+2019-01-03 18:24:10+0530 > .s<RShft>"<Right>;<Left><Left><RShft>"<BckSp><BckSp>ca<LCtrl> <Down>
+2019-01-03 18:24:53+0530 > .las
+2019-01-03 18:24:56+0530 > <LShft>T<BckSp>
+2019-01-03 18:25:02+0530 > <#+13><LCtrl>z<Left><RShft>"<Right><Right><Right><Right><BckSp><LCtrl>s<#+2><Left><Left><Left><LShft>T<LCtrl>s<LCtrl>smm
+2019-01-03 18:25:30+0530 > <LCtrl>c
+2019-01-03 18:26:52+0530 > c
+2019-01-03 18:26:52+0530 > c
+2019-01-03 18:26:52+0530 > c
+2019-01-03 18:26:53+0530 > c
+2019-01-03 18:26:53+0530 > c
+2019-01-03 18:26:53+0530 > c
+2019-01-03 18:26:53+0530 > <LCtrl>a<RShft><Del>
+2019-01-03 18:27:01+0530 > <LCtrl>v//con<LCtrl> 
+2019-01-03 18:32:27+0530 > .set<LShft>T<BckSp><BckSp><BckSp><BckSp><LCtrl>zzzzz<LCtrl><LCtrl><LCtrl><LCtrl><RShft>+1<LCtrl>s////<LCtrl>s<LCtrl>c
+2019-01-03 18:43:53+0530 > c
+2019-01-03 18:43:53+0530 > c
+2019-01-03 18:43:54+0530 > c
+2019-01-03 18:43:54+0530 > c
+2019-01-03 18:43:54+0530 > c
+2019-01-03 18:43:54+0530 > c
+2019-01-03 18:43:55+0530 > c
+2019-01-03 18:43:55+0530 > c
+2019-01-03 18:43:55+0530 > c
+2019-01-03 18:43:55+0530 > 
+2019-01-03 18:44:01+0530 > <LShft>ca<LCtrl> 
+2019-01-03 18:44:04+0530 > =<LCtrl>v;<Left><RShft>)<LCtrl>s<RCtrl><RShft>?<LCtrl>s<BckSp><BckSp><LCtrl>s<LCtrl><LCtrl><LShft>String<LCtrl>s<Tab><LShft>String<LCtrl>sss<LCtrl>c
+2019-01-03 18:45:40+0530 > f<LCtrl><LShft>T<LShft>Contact<LShft>Sav
+2019-01-03 18:46:14+0530 > <LCtrl>c
+2019-01-03 18:46:37+0530 > c
+2019-01-03 18:46:37+0530 > <LCtrl><LShft>String<LCtrl><LCtrl>zz<LCtrl>s<#+1>ssss<LCtrl>ca<LCtrl> <Down><Down><Up><Up>
+2019-01-03 18:48:49+0530 > <LCtrl>s<BckSp><#+14><BckSp><BckSp><BckSp><LCtrl> 
+2019-01-03 18:49:07+0530 > <LCtrl>s<#+1><LCtrl>smm
+2019-01-03 18:49:26+0530 > <RCtrl><RShft>?<LCtrl>s<#+1>//<LCtrl>smm
+2019-01-03 18:51:26+0530 > <LCtrl>c
+2019-01-03 18:52:32+0530 > <LCtrl>a<RShft><Del><#+1>
+2019-01-03 18:52:40+0530 > <LCtrl>v<LCtrl>c
+2019-01-03 18:58:53+0530 > c
+2019-01-03 18:58:53+0530 > <LCtrl>v<LCtrl>sssss<LCtrl>s<LCtrl>smm
+2019-01-03 18:59:16+0530 > <LCtrl>c
+2019-01-03 19:00:17+0530 > c
+2019-01-03 19:00:18+0530 > c
+2019-01-03 19:00:18+0530 > c
+2019-01-03 19:00:18+0530 > c
+2019-01-03 19:00:18+0530 > <LCtrl>a<RShft><Del>
+2019-01-03 19:00:35+0530 > <BckSp><LCtrl>s<LCtrl>s<LCtrl><LShft>T<LShft>Guag<BckSp><BckSp><BckSp>au<Down><F5><LCtrl>c
+2019-01-03 19:09:49+0530 > c
+2019-01-03 19:09:51+0530 > c
+2019-01-03 19:09:51+0530 > f
+2019-01-03 19:10:16+0530 > if<RShft>(msg.ar
+2019-01-03 19:10:27+0530 > <RShft>>30<Right><RShft>{}<Left>
+2019-01-03 19:10:40+0530 > <Down>
+2019-01-03 19:10:42+0530 > else<RShft>{}<Left>
+2019-01-03 19:10:45+0530 > <LCtrl>sba<LCtrl> 
+2019-01-03 19:10:54+0530 > .setba<BckSp><#+22><BckSp><BckSp><BckSp>tv
+2019-01-03 19:11:09+0530 > .setdr<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LCtrl>s<LCtrl>c
+2019-01-03 19:12:01+0530 > c
+2019-01-03 19:12:01+0530 > c
+2019-01-03 19:12:01+0530 > <LCtrl>v<LCtrl>c
+2019-01-03 19:12:48+0530 > <LCtrl>v<LCtrl><LCtrl>c
+2019-01-03 19:13:00+0530 > <LCtrl>v<LCtrl>s<LCtrl>c
+2019-01-03 19:13:10+0530 > <LCtrl>vs<BckSp><RShft>_<LCtrl>c
+2019-01-03 19:17:12+0530 > <LCtrl>v<RShft>_red<LCtrl>s<KP2><KP9><KP3><KP2><LCtrl>s<LCtrl>s<LCtrl>smm
+2019-01-03 19:18:07+0530 > <LCtrl>c
+2019-01-03 19:19:43+0530 > c
+2019-01-03 19:19:43+0530 > c
+2019-01-03 19:19:43+0530 > c
+2019-01-03 19:19:44+0530 > c
+2019-01-03 19:19:44+0530 > c
+2019-01-03 19:19:44+0530 > c
+2019-01-03 19:19:44+0530 > c
+2019-01-03 19:19:45+0530 > <LCtrl>as<RShft><Del>
+2019-01-03 19:19:55+0530 > <LCtrl>v<LCtrl>c
+2019-01-03 19:23:10+0530 > <LCtrl><LCtrl>
+2019-01-03 19:26:04+0530 > <Up>ba<LCtrl> 
+2019-01-03 19:26:09+0530 > .set<LShft>sr<BckSp><BckSp><LShft>Re<Tab><BckSp><LCtrl> <BckSp><BckSp><LCtrl>   <Down><Down><#+16><Up>
+2019-01-03 19:26:27+0530 > <LShft>R.dra
+2019-01-03 19:26:33+0530 > .<LCtrl>c
+2019-01-03 19:26:41+0530 > c
+2019-01-03 19:26:42+0530 > c
+2019-01-03 19:26:42+0530 > c
+2019-01-03 19:26:42+0530 > <LCtrl>v;<LCtrl>s<BckSp><LCtrl>s<#+1><LCtrl>c
+2019-01-03 19:27:22+0530 > c
+2019-01-03 19:27:22+0530 > c
+2019-01-03 19:27:22+0530 > c
+2019-01-03 19:27:23+0530 > c
+2019-01-03 19:27:23+0530 > c
+2019-01-03 19:27:23+0530 > c
+2019-01-03 19:27:23+0530 > <LCtrl>v<LCtrl>z<LCtrl>a<BckSp>battery<RShft>_clip<RShft>_red<LCtrl>av<LCtrl>s<LCtrl>c
+2019-01-03 19:28:43+0530 > <#+1>
+2019-01-03 19:28:46+0530 > <Up><LCtrl>v<LCtrl>s<LCtrl>c
+2019-01-03 19:28:55+0530 > c
+2019-01-03 19:28:55+0530 > <Left><Right><#+27><Left><Left><Left><Left><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>status<RShft>_<LCtrl>c
+2019-01-03 19:30:01+0530 > <#+1><BckSp><BckSp><BckSp><BckSp><BckSp>red<LCtrl>ss<RShft>_red<LCtrl>s<#+1>mm
+2019-01-03 19:30:34+0530 > <LCtrl>c
+2019-01-03 19:31:42+0530 > c
+2019-01-03 19:31:42+0530 > c
+2019-01-03 19:31:42+0530 > c
+2019-01-03 19:31:42+0530 > <LCtrl>a<RShft><Del>
+2019-01-03 19:31:50+0530 > <LCtrl>v<LCtrl><LCtrl>sse<LCtrl> t<LShft>B<BckSp><BckSp>set<LShft>Bac<LCtrl> 
+2019-01-03 19:35:18+0530 > <BckSp><Right><BckSp><BckSp><LCtrl>s<LCtrl>c
+2019-01-03 19:35:27+0530 > <LCtrl>vsssmm
+2019-01-03 19:35:40+0530 > set<LShft>BA<LCtrl> <Down><Down><Down>
+2019-01-03 19:38:12+0530 > <BckSp><Right><BckSp><BckSp><LCtrl><LCtrl>c
+2019-01-03 19:38:19+0530 > <LCtrl>vssmm
+2019-01-03 19:38:26+0530 > set<LCtrl> <LShft>Ba<Down><Down><Down><Down><Up>
+2019-01-03 19:39:03+0530 > <BckSp><Right><BckSp><BckSp><LCtrl>c
+2019-01-03 19:39:08+0530 > <LCtrl>vs<LCtrl><LCtrl><BckSp><LCtrl>sset<LShft>Im<LCtrl> <Down><Down><Down><Down><Down>
+2019-01-03 19:40:28+0530 > <BckSp><Right><BckSp><BckSp><LCtrl>c
+2019-01-03 19:40:37+0530 > <LCtrl>vsssmm
+2019-01-03 19:40:46+0530 > <LCtrl>c
+2019-01-03 19:41:43+0530 > c
+2019-01-03 19:41:43+0530 > c
+2019-01-03 19:41:44+0530 > c
+2019-01-03 19:41:44+0530 > c
+2019-01-03 19:41:44+0530 > c
+2019-01-03 19:41:44+0530 > <LCtrl>a<RShft><Del>
+2019-01-03 19:41:54+0530 > <LCtrl>vgit branch
+2019-01-03 19:44:22+0530 > git status
+2019-01-03 19:44:44+0530 > git add re<Tab>dr<Tab>
+2019-01-03 19:45:03+0530 > <Up>-md<Tab>
+2019-01-03 19:45:08+0530 > git status
+2019-01-03 19:45:15+0530 > git commit -a<#+2>m <RShft>""<Left><LShft>Spee<BckSp><BckSp><BckSp><BckSp><LShft>Battery level fix in gu<BckSp>auge fragment
+2019-01-03 19:45:47+0530 > git push bb ma<BckSp><BckSp>na<Tab>
+2019-01-03 19:45:58+0530 > 
+
+Logging stopped at 2019-01-04 07:47:12+0530
+

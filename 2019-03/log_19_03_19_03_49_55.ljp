@@ -1,0 +1,833 @@
+Logging started ...
+
+2019-03-19 15:49:55+0530 > <LCtrl>c
+2019-03-19 15:49:59+0530 > ifc<Tab>
+2019-03-19 15:50:02+0530 > ping google.com
+2019-03-19 15:50:10+0530 > 
+2019-03-19 15:50:11+0530 > 
+2019-03-19 15:50:11+0530 > 
+2019-03-19 15:50:11+0530 > <#+6><LCtrl>c
+2019-03-19 15:50:12+0530 > <Up><BckSp><BckSp><#+28><LCtrl>l<Up><Up><Up><Up><Up><Up><Up><Up><Down><Down>
+2019-03-19 15:50:32+0530 > <Up><Up><Down><Down><#+11>vim <RShft>~/.ssh<Tab>con<Tab>
+2019-03-19 15:50:42+0530 > <RShft>:q<Tab>
+2019-03-19 15:50:46+0530 > 
+2019-03-19 15:50:46+0530 > <Up><Up>
+2019-03-19 15:50:51+0530 > <Up><Up><Up><Up><Up><Up><Up><Down>
+2019-03-19 15:51:34+0530 > <LCtrl>c
+2019-03-19 15:51:45+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><LCtrl>c
+2019-03-19 15:51:57+0530 > git p[<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>bra<Tab>
+2019-03-19 15:52:12+0530 > <LCtrl>c
+2019-03-19 15:52:14+0530 > git bra<Tab><CpsLk>
+2019-03-19 15:52:20+0530 > GIT PULL BB <BckSp>\<BckSp><BckSp><#+30><CpsLk>git pull ba<BckSp>b<Tab>m<Tab>
+2019-03-19 15:52:32+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down>
+2019-03-19 15:52:49+0530 > q2q<BckSp><BckSp><BckSp><BckSp>cd <BckSp>=<BckSp>=<BckSp><BckSp><BckSp><BckSp><BckSp>git rem<Tab><Up><Up><Up><Up><Up><Up><Up><Down>
+2019-03-19 15:58:11+0530 > git re<Tab><#+1>b<Tab><#+1>-p <Tab><Tab>bb<Tab><#+1>m<Tab><#+3>
+2019-03-19 15:58:24+0530 > 
+2019-03-19 15:58:25+0530 > 
+2019-03-19 15:58:25+0530 > 
+2019-03-19 15:58:25+0530 > <LCtrl>lgit log
+2019-03-19 15:58:27+0530 > q
+2019-03-19 15:58:28+0530 > 
+2019-03-19 15:58:28+0530 > 
+2019-03-19 15:58:28+0530 > <LCtrl>lcd ../../
+2019-03-19 15:58:30+0530 > 
+2019-03-19 15:58:30+0530 > <LCtrl><LCtrl>l.<Tab><Tab><Tab><Tab>a<Tab><#+1>nd<Tab><BckSp><#+29>cat a<#+1>nd<Tab>
+2019-03-19 15:58:42+0530 > ./a<Tab>n<Tab><LCtrl>l
+2019-03-19 15:58:54+0530 > 
+2019-03-19 16:16:33+0530 > 
+2019-03-19 16:16:33+0530 > 
+2019-03-19 16:16:33+0530 > 
+2019-03-19 16:16:33+0530 > 
+2019-03-19 16:16:33+0530 > out
+2019-03-19 16:16:54+0530 > ta<#+1>r<BckSp><BckSp><BckSp>tar
+2019-03-19 16:16:59+0530 > <Down><Right>
+2019-03-19 16:17:00+0530 > <Down><Right>
+2019-03-19 16:17:01+0530 > <LCtrl><LCtrl><LCtrl><LCtrl><LShft>redwan
+2019-03-19 16:18:51+0530 > 
+2019-03-19 16:18:51+0530 > <LCtrl>vcd pac<Tab>ap<Tab><LShft>Nav<Tab>
+2019-03-19 17:36:06+0530 > gf<BckSp>it branc<Tab>
+2019-03-19 17:36:14+0530 > git chec<Tab><LShft>REL<Tab>
+2019-03-19 17:36:34+0530 > <LCtrl><LShft>T<LShft>Can<LShft>Fla
+2019-03-19 17:39:45+0530 > <BckSp><KP2><LCtrl>c
+2019-03-19 17:43:19+0530 > c
+2019-03-19 17:43:19+0530 > 
+2019-03-19 17:43:30+0530 > <LCtrl>v<LCtrl>s<F5>git status
+2019-03-19 17:43:47+0530 > mm
+2019-03-19 17:43:52+0530 > ccd <BckSp><BckSp><BckSp>d ../../
+2019-03-19 17:45:21+0530 > cd ../
+2019-03-19 17:45:25+0530 > ,<BckSp>. bui<Tab>en<Tab>
+2019-03-19 17:45:31+0530 > lunch 22
+2019-03-19 17:45:35+0530 > cd pa<Tab>ap<Tab><LShft>Na<Tab>
+2019-03-19 17:46:11+0530 > mm
+2019-03-19 17:46:13+0530 > cd ../../../
+2019-03-19 17:48:15+0530 > sh andro<BckSp><#+24>ls -l
+2019-03-19 17:54:23+0530 > 1cd pack<Tab>ap<Tab><LShft>NAv<Tab><BckSp><BckSp><Tab><Tab><Tab>a<Tab>
+2019-03-19 18:23:14+0530 > git status
+2019-03-19 18:23:17+0530 > \<BckSp>git branch
+2019-03-19 18:23:24+0530 > <Esc><LCtrl>c
+2019-03-19 18:34:22+0530 > c
+2019-03-19 18:34:23+0530 > <LCtrl>a<#+1><RShft><Del>
+2019-03-19 18:34:50+0530 > <LCtrl>v<NumLk><NumLk>w<NumLk><NumLk><NumLk><NumLk>e<NumLk><NumLk><NumLk><NumLk>l<NumLk><NumLk><NumLk>come123<RShft>!@#
+2019-03-20 16:03:03+0530 > clear
+2019-03-20 16:03:20+0530 > git status
+2019-03-20 16:03:22+0530 > git diff
+2019-03-20 16:03:27+0530 > vi <RShft>Can<Tab><RShft>Fla<Tab><Tab><Tab><BckSp><BckSp><BckSp><#+27>cd <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>vi sr<Tab><Tab><Tab><Tab><Tab>e<Tab><Tab><RShft>Can<Tab><RShft>Fla<Tab>
+2019-03-20 16:08:04+0530 > /<LCtrl><LShft>V
+2019-03-20 16:08:08+0530 > n<Down><Down>i<Up><Down><Esc><Up><Down>dddddddddd<Esc><Esc><RShft>:wq<RShft>!
+2019-03-20 16:08:27+0530 > git diff
+2019-03-20 16:08:30+0530 > clear
+2019-03-20 16:08:33+0530 > cd ../../../
+2019-03-20 16:08:37+0530 > cd devi<Tab>fs<Tab>
+2019-03-20 16:08:41+0530 > git sta<BckSp><BckSp><BckSp>bra<Tab>
+2019-03-20 16:08:46+0530 > <RShft>:D<BckSp><BckSp><BckSp><BckSp>cd<BckSp><BckSp><BckSp><BckSp>cd -
+2019-03-20 16:09:04+0530 > cd pa<Tab>a<Tab>p<RShft><BckSp><RShft>Na<Tab>
+2019-03-20 16:09:11+0530 > git bra<Tab>
+2019-03-20 16:09:13+0530 > cd -
+2019-03-20 16:09:19+0530 > cd<BckSp><BckSp><BckSp>clear
+2019-03-20 16:09:22+0530 > <LCtrl>z<LShft>Z<LCtrl>s<LCtrl>fflashedcd  pa<Tab>a<Tab>p<Tab><BckSp><RShft>U<BckSp><RShft>Na<Tab>s<Tab><Tab><Tab><Tab><Tab>
+2019-03-20 16:42:39+0530 > cd ec<Tab>
+2019-03-20 16:42:42+0530 > vi <RShft>Ca<Tab><RShft>Fla<Tab>
+2019-03-20 16:42:46+0530 > <PgDn><PgDn><PgDn><PgUp><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn>/successful
+2019-03-20 16:43:08+0530 > nnnnn/suce<BckSp>cesful
+2019-03-20 16:43:28+0530 > nni<Up><Down><Down><Down><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down><End><LCtrl>fecu<LShft>Flashed
+2019-03-20 16:44:10+0530 > 
+2019-03-20 16:44:10+0530 > <LCtrl>f<Right><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LShft>Update
+2019-03-20 16:44:26+0530 > <LCtrl>
+2019-03-20 16:44:38+0530 > <LShft>Toast.m<LCtrl> <LCtrl>s<LCtrl> ake<LShft>Te<LCtrl> <#+1><BckSp><BckSp><LCtrl> <#+2><LShft>Text<RShft>()<Left>m<LCtrl>c
+2019-03-20 16:45:28+0530 >  <LCtrl><BckSp><LCtrl> ,<RShft>""<Left><LCtrl>c
+2019-03-20 16:45:43+0530 > <LCtrl>v,<LShft>Toast.len<BckSp><BckSp><BckSp><LCtrl> <#+1><LShft>LENGTH<RShft>_<LShft>short<Right>.show<RShft>(<Right>;<LCtrl>s<#+1><LCtrl>s/<RShft>Thread<Esc><RShft>:q<RShft>!
+2019-03-20 17:18:46+0530 > vi <RShft>C<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>git diff
+2019-03-20 17:18:52+0530 > vi <RShft>Ca<Tab><RShft>Fla<Tab>
+2019-03-20 17:19:18+0530 > /<LCtrl><LShft>V
+2019-03-20 17:19:21+0530 > nnn<Down><#+17><Esc><#+4><RShft>:q<RShft>!
+2019-03-20 17:19:48+0530 > <Up><Down><Up>
+2019-03-20 17:32:32+0530 > /<RShft>threa<BckSp><BckSp><BckSp><BckSp><BckSp><RShft>Thread.sleep
+2019-03-20 17:32:42+0530 > nnnnnnnn<NumLk><RShft>:q<Tab>
+2019-03-20 17:50:01+0530 > 
+2019-03-20 17:50:01+0530 > 
+2019-03-20 17:50:01+0530 > 
+2019-03-20 17:50:02+0530 > 
+2019-03-20 17:50:02+0530 > git diff
+2019-03-20 17:50:05+0530 > cd <#+1>-
+2019-03-20 17:51:05+0530 > 
+2019-03-20 17:51:05+0530 > 
+2019-03-20 17:51:05+0530 > 
+2019-03-20 17:51:05+0530 > 
+2019-03-20 17:51:05+0530 > 
+2019-03-20 17:51:05+0530 > cd ./<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LCtrl><LShft>Tcd <#+1><RShft>~/<RShft>Pro<Tab><RShft>UJ<Tab>dev<Tab>i<Tab>fs<Tab><#+1>
+2019-03-20 17:51:17+0530 > got n<BckSp><BckSp><BckSp><BckSp>it bran<Tab>
+2019-03-20 17:51:20+0530 > 
+2019-03-20 17:51:21+0530 > 
+2019-03-20 17:51:21+0530 > git log
+2019-03-20 17:51:22+0530 > q
+2019-03-20 17:51:24+0530 > cd ../../ex<Tab>obd<Tab>
+2019-03-20 17:51:32+0530 > <Up><Up>
+2019-03-20 17:51:33+0530 > qgot bn<BckSp><BckSp><BckSp><BckSp><BckSp>it bran<Tab>
+2019-03-20 17:51:38+0530 > 
+2019-03-20 17:51:39+0530 > 
+2019-03-20 17:51:39+0530 > git log
+2019-03-20 17:51:40+0530 > qcd ../../pa<BckSp><#+33>rm -<BckSp><BckSp><#+12>cd ../../
+2019-03-20 17:51:50+0530 > \
+2019-03-20 17:51:51+0530 > <LCtrl>c
+2019-03-20 17:51:52+0530 > <Up><BckSp>rm -rf ou<Tab>t<Tab>p<Tab>to<Tab>syst<Tab>/bin<Tab>ec<Tab><Tab><Tab><Tab>u<Tab><#+3><Tab><Tab>h<Tab>
+2019-03-20 17:52:17+0530 > 
+2019-03-20 17:52:17+0530 > 
+2019-03-20 17:52:17+0530 > 
+2019-03-20 17:52:17+0530 > sync
+2019-03-20 17:52:18+0530 > <RShft>
+2019-03-20 17:52:19+0530 > 
+2019-03-20 17:52:19+0530 > 
+2019-03-20 17:52:19+0530 > 
+2019-03-20 17:52:19+0530 > 
+2019-03-20 17:52:19+0530 > 
+2019-03-20 17:52:19+0530 > 
+2019-03-20 17:52:19+0530 > 
+2019-03-20 17:52:19+0530 > <Down>cd pa<Tab>ap<Tab><RShft>Na<Tab>
+2019-03-20 18:07:51+0530 > 
+2019-03-20 18:07:51+0530 > 
+2019-03-20 18:07:51+0530 > git diff
+2019-03-20 18:07:53+0530 > gt<BckSp>it chgec<BckSp><BckSp>e<BckSp><BckSp>ec<Tab>sr<Tab><Tab><Tab><Tab><Tab><Tab><LShft><Home><PgUp><PgDn><PgDn><PgDn><PgUp><PgDn><PgDn><PgDn><PgDn><#+1><PgUp><Tab>e<Tab><#+1><Tab><Tab><RShft>Ca<Tab><Tab><Tab><LShft><PgUp><RShft>F<Tab>
+2019-03-20 18:08:22+0530 > git diff
+2019-03-20 18:08:24+0530 > 
+2019-03-20 18:08:24+0530 > 
+2019-03-20 18:08:25+0530 > 
+2019-03-20 18:08:25+0530 > git check<Tab>mas<Tab>
+2019-03-20 18:08:27+0530 > 
+2019-03-20 18:08:28+0530 > 
+2019-03-20 18:08:28+0530 > 
+2019-03-20 18:08:28+0530 > git fet<Tab>bv<BckSp>b<Tab>
+2019-03-20 18:08:31+0530 > git reb<Tab>-p <#+1>b<Tab>bm<Tab><BckSp><BckSp><Tab><Tab>m<Tab>as<Tab>
+2019-03-20 18:08:52+0530 > 
+2019-03-20 18:08:53+0530 > 
+2019-03-20 18:08:54+0530 > 
+2019-03-20 18:08:54+0530 > <LCtrl>lcd -
+2019-03-20 18:08:55+0530 > 
+2019-03-20 18:08:55+0530 > 
+2019-03-20 18:08:56+0530 > 
+2019-03-20 18:08:56+0530 > <LCtrl>l./a<Tab>n<Tab>
+2019-03-20 18:08:59+0530 >  <Up><Down><LAlt><LAlt><Tab><LAlt><Tab><Tab><LCtrl>rrrrr<LAlt><Tab><LShft><Tab><Tab><LShft><Tab>red<LCtrl>a<Del>
+2019-03-20 19:05:31+0530 > 
+2019-03-20 19:05:32+0530 > 
+2019-03-20 19:05:33+0530 > 
+2019-03-20 19:05:34+0530 > 
+2019-03-20 19:05:34+0530 > <LCtrl>rrrrr<NumLk>welcome123<RShft>!@#
+2019-03-20 20:53:07+0530 > cta<BckSp><BckSp><BckSp><BckSp><Up><Up><Up><Up><Up><Up><Up><Down><Down><Down><Down><Down><Down><Down><Down>;<BckSp>ls /sy<BckSp><BckSp><BckSp>ou<Tab>tar<Tab><Tab>pr<Tab>tora<Tab>syst<Tab>/bin<Tab>e<Tab><Tab><Tab><BckSp><#+69>clear
+2019-03-20 21:07:38+0530 > cat /dev<Tab><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>de<Tab><BckSp><BckSp><BckSp> devu<BckSp>ice<Tab>fs<Tab>/<Tab>bu<Tab><Tab><BckSp><BckSp><Tab><Tab>to<Tab>bu<Tab><Tab>
+2019-03-20 21:08:02+0530 > <LCtrl>c
+2019-03-20 21:08:04+0530 > <Up><Home><Right><Right>t
+2019-03-20 21:08:08+0530 > git bra<Tab>
+2019-03-20 21:08:29+0530 > 
+2019-03-20 21:08:36+0530 > 
+2019-03-20 21:08:36+0530 > <NumLk><NumLk><LShft>W<BckSp><BckSp><BckSp>welcome123<LShft>!@#
+2019-03-21 10:32:36+0530 > <LCtrl>rbild<RShft>_i<LCtrl><Left><Left><LCtrl>c
+2019-03-21 10:32:50+0530 > rbuild
+2019-03-21 10:32:54+0530 > vi<Up><Left><#+46><Right><Right><BckSp><BckSp><BckSp><BckSp><BckSp>vi
+2019-03-21 10:34:08+0530 > <Down><Down><Down><#+7>iu<Esc><Del><Down><#+16><Down><#+12><Down><#+14><Up><Right><#+28><Right><Right><Right><Right><Left><BckSp>i<Right><Right><Right><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LShft>Prod<LShft>_1.09<Del><Del><Right><Right><Right><BckSp><BckSp>20<Right><Right><Right><BckSp><BckSp>03<Right><Right><Right><Right><Right><BckSp>9`<BckSp><Esc><LShft>:wq
+2019-03-21 10:35:16+0530 > <Up><Up>
+2019-03-21 10:36:07+0530 > <Esc><LShft>:git status
+2019-03-21 10:36:36+0530 > ./and<Tab>
+2019-03-21 10:36:47+0530 > make<Tab> otapackag<Tab><Tab><Tab><Tab><Tab><Tab>e
+2019-03-21 11:08:43+0530 >  <BckSp><BckSp><BckSp><BckSp><Up><Up><Down><Down>. 
+2019-03-21 12:14:14+0530 > 
+2019-03-21 12:14:14+0530 > 
+2019-03-21 12:14:14+0530 > 
+2019-03-21 12:14:14+0530 > 
+2019-03-21 12:14:14+0530 > . bu<Tab>en<Tab>
+2019-03-21 12:14:18+0530 > lunch 22
+2019-03-21 12:14:22+0530 > <Up><Up><Up><Up>
+2019-03-21 12:14:25+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><Tab><Tab><LAlt><Tab><LCtrl>rr<LCtrl>rr<LCtrl>rr<LCtrl>r<Esc><RShft><Del>
+2019-03-21 12:17:20+0530 > <LCtrl>v<LCtrl>rhea<#+2>p<LCtrl>c
+2019-03-21 12:35:09+0530 > <RShft><Ins>
+2019-03-21 12:35:38+0530 > 
+2019-03-21 12:35:39+0530 > 
+2019-03-21 12:35:39+0530 > 
+2019-03-21 12:35:39+0530 > 
+2019-03-21 12:35:39+0530 > <RShft><Ins>
+2019-03-21 12:35:56+0530 > 
+2019-03-21 12:35:57+0530 > 
+2019-03-21 12:35:57+0530 > <LAlt><Tab><Tab><LShft><Tab><Tab><LShft><Tab><BckSp><LCtrl>a<LCtrl>c
+2019-03-21 12:37:11+0530 > <LAlt><Tab><Tab><RShft><Ins>
+2019-03-21 12:37:17+0530 > 
+2019-03-21 12:37:20+0530 > 
+2019-03-21 12:37:21+0530 > 
+2019-03-21 12:37:21+0530 > <Up><Up><Up><Up>
+2019-03-21 12:37:23+0530 > 
+2019-03-21 12:52:36+0530 > 
+2019-03-21 12:52:37+0530 > <LShft><LCtrl>c
+2019-03-21 13:03:15+0530 > c
+2019-03-21 13:03:16+0530 > c
+2019-03-21 13:03:16+0530 > c
+2019-03-21 13:03:16+0530 > red<LCtrl>vcd pac<Tab>ap<Tab><LShft>Nav<Tab>
+2019-03-21 13:07:46+0530 > 
+2019-03-21 13:07:47+0530 > 
+2019-03-21 13:07:47+0530 > 
+2019-03-21 13:07:47+0530 > 
+2019-03-21 13:07:47+0530 > 
+2019-03-21 13:07:47+0530 > git bra<Tab>
+2019-03-21 13:08:02+0530 > git fetc<Tab>
+2019-03-21 13:08:09+0530 > git chec<Tab>nav<Tab>p<Tab>
+2019-03-21 13:08:15+0530 > git bra<Tab>
+2019-03-21 13:08:23+0530 > git pull bb <BckSp><#+12><BckSp><BckSp>res<Tab>==<BckSp><BckSp>--h<Tab>bb<Tab>n<Tab>p<Tab>
+2019-03-21 13:08:42+0530 > gitk
+2019-03-21 13:08:50+0530 > git pull bb<Tab>`<BckSp>v<BckSp>=<BckSp>n<Tab>
+2019-03-21 13:09:09+0530 > <LCtrl>c
+2019-03-21 13:09:11+0530 > <Up>ph<Tab>
+2019-03-21 13:09:13+0530 > git log
+2019-03-21 13:09:22+0530 > qmm
+2019-03-21 13:09:27+0530 > cd -
+2019-03-21 13:13:29+0530 > ./an<Tab>
+2019-03-21 13:13:32+0530 > <LShft>Welcome<BckSp><#+20><LShft>Welcome<LShft>!5
+2019-03-21 14:31:06+0530 > welcome123<LShft>!@#
+2019-03-21 14:31:15+0530 > je<RShft><Del>
+2019-03-21 14:31:37+0530 > <LShft><LCtrl><LCtrl><LCtrl>c
+2019-03-21 14:32:25+0530 > c
+2019-03-21 14:32:25+0530 > c
+2019-03-21 14:32:25+0530 > c
+2019-03-21 14:32:25+0530 > c
+2019-03-21 14:32:25+0530 > c
+2019-03-21 14:32:26+0530 > c
+2019-03-21 14:32:26+0530 > c
+2019-03-21 14:32:26+0530 > <LCtrl>c
+2019-03-21 14:32:30+0530 > <LCtrl>v<LCtrl>c
+2019-03-21 14:33:38+0530 > welcome123<LShft>!@#
+2019-03-22 14:38:06+0530 > cd pac<Tab>ap<Tab><LShft>N<Tab><Tab><Tab><Tab>sa<BckSp><BckSp>av<Tab>
+2019-03-22 14:38:27+0530 > git pull bb<Tab><Tab><Tab>m<Tab><Tab><Tab><Tab><Tab>a<Tab>
+2019-03-22 14:38:38+0530 > 
+2019-03-22 14:38:53+0530 > gti <BckSp><BckSp><BckSp><BckSp>git bra<Tab>
+2019-03-22 14:38:58+0530 > git pull --a<Tab><Tab><Tab><Tab>b<Tab><Tab><Tab><Tab><Tab><Tab><Tab><BckSp><#+14><BckSp>rab<Tab><Tab><Tab><Tab><Tab><BckSp><BckSp>eb<Tab><Tab>--a<Tab><Tab><BckSp><BckSp><BckSp><BckSp>b<Tab><Tab><Tab><Tab><Tab><Tab><BckSp><BckSp><BckSp><BckSp><BckSp><#+32>git bra<Tab>
+2019-03-22 14:39:29+0530 > gitr <BckSp><BckSp> reset<Tab>--h<Tab>na<Tab>p<Tab>
+2019-03-22 14:39:40+0530 > git chec<Tab>mas<Tab>
+2019-03-22 14:39:45+0530 > git b<Tab><BckSp>r<Tab><BckSp>br<Tab>
+2019-03-22 14:39:50+0530 > git pull bb m<Tab>
+2019-03-22 14:39:55+0530 > <LCtrl>c
+2019-03-22 14:39:56+0530 > <Up><Tab><Tab><Tab><Tab>a<Tab>
+2019-03-22 14:39:59+0530 > cd <BckSp><BckSp><BckSp><BckSp><BckSp>git log
+2019-03-22 14:40:10+0530 > qcd -
+2019-03-22 14:40:17+0530 > <LCtrl>rbuild<RShft>_<Right><Left><#+35><Right><BckSp><BckSp><BckSp><BckSp>vi
+2019-03-22 14:40:28+0530 > <Down><#+22><Down><Down><Down>i<Down><Right><#+36><Right><Right><BckSp>2<Esc><#+10><Esc><LShft>:wq
+2019-03-22 14:40:48+0530 > 
+2019-03-22 14:40:49+0530 > 
+2019-03-22 14:40:49+0530 > ./an<Tab>
+2019-03-22 14:40:51+0530 > make ota<BckSp><#+25>. bu<Tab>en<Tab>
+2019-03-22 14:56:09+0530 > lunch 22
+2019-03-22 14:56:13+0530 > <LCtrl>rtou<Right>
+2019-03-22 14:56:18+0530 > make otapacj<BckSp>kage
+2019-03-22 14:56:26+0530 > <F5><LCtrl><LCtrl><LCtrl>c
+2019-03-22 14:56:46+0530 > c
+2019-03-22 14:56:46+0530 > c
+2019-03-22 14:56:46+0530 > c
+2019-03-22 14:56:46+0530 > c
+2019-03-22 14:56:46+0530 > c
+2019-03-22 14:56:46+0530 > c
+2019-03-22 14:56:47+0530 > c
+2019-03-22 14:56:47+0530 > c
+2019-03-22 14:56:47+0530 > u<LCtrl>v<BckSp><#+114><BckSp><End><#+4><BckSp><BckSp><BckSp><Del><#+201><LCtrl>a<Del><LShft>ujet 1.09
+2019-03-22 14:57:49+0530 > 
+2019-03-22 14:57:50+0530 > <LCtrl>v<LCtrl>l<LCtrl>c
+2019-03-22 14:59:08+0530 > c
+2019-03-22 14:59:08+0530 > c
+2019-03-22 14:59:08+0530 > <LCtrl>c
+2019-03-22 15:44:56+0530 > op<BckSp>ta
+2019-03-22 15:45:19+0530 > 
+2019-03-22 15:45:20+0530 > <LCtrl>v<LCtrl>c
+2019-03-22 15:45:29+0530 > c
+2019-03-22 15:45:29+0530 > c
+2019-03-22 15:45:29+0530 > <LCtrl>vwelcome123<LShft>!@#
+2019-03-25 14:20:55+0530 > cd pac<Tab>ap<Tab><LShft>Uj<Tab><BckSp><#+17><Tab><#+6><BckSp><#+19><LShft>Nav<Tab>
+2019-03-25 14:21:14+0530 > git p<BckSp>fet<Tab><BckSp><#+12>bra<Tab>
+2019-03-25 14:21:22+0530 > git fet<Tab>
+2019-03-25 14:21:29+0530 > <Up> bb
+2019-03-25 14:21:32+0530 > git chec<Tab><LShft>Rele<Tab>
+2019-03-25 14:21:56+0530 > <#+1>git bra<Tab>
+2019-03-25 14:22:01+0530 > gitk
+2019-03-25 14:22:03+0530 > cd <BckSp> -
+2019-03-25 14:22:18+0530 > ./an<Tab>
+2019-03-25 14:22:21+0530 > <LCtrl>c
+2019-03-25 14:27:30+0530 > 
+2019-03-25 14:34:03+0530 > 
+2019-03-25 14:34:03+0530 > 
+2019-03-25 14:34:04+0530 > 
+2019-03-25 14:34:04+0530 > git <BckSp><BckSp><BckSp><BckSp>c d-<BckSp><BckSp><BckSp>d -
+2019-03-25 14:34:09+0530 > git p<Tab>u<Tab><Tab><BckSp><Tab><Tab>l<Tab>bb <LShft>Re<Tab>
+2019-03-25 14:34:16+0530 > 
+2019-03-25 14:34:21+0530 > 
+2019-03-25 14:34:21+0530 > cd -
+2019-03-25 14:34:24+0530 > ./an<Tab>
+2019-03-25 14:34:26+0530 > 
+2019-03-25 14:46:29+0530 > 
+2019-03-25 14:46:29+0530 > 
+2019-03-25 14:46:30+0530 > 
+2019-03-25 14:46:30+0530 > make otapack<Tab><Tab><Tab><Tab><BckSp><BckSp><BckSp><BckSp><Tab><Tab><BckSp><#+24>. bu<Tab>en<Tab>
+2019-03-25 14:46:45+0530 > lunch 22
+2019-03-25 14:46:48+0530 > <LCtrl>rtou<Right>
+2019-03-25 14:46:55+0530 > ./<BckSp><BckSp><BckSp>make otapac<Tab>kage
+2019-03-25 14:47:03+0530 > 
+2019-03-25 14:47:08+0530 > <LCtrl>zifconfig
+2019-03-25 14:59:40+0530 > welcome123<LShft>!@#
+2019-03-25 17:54:50+0530 > git branch
+2019-03-25 18:49:28+0530 > <RShft><Up><BckSp><#+26>cd pack<Tab>ap<Tab><LShft>NAv<Tab><BckSp><BckSp><Tab>av<Tab>
+2019-03-25 18:49:41+0530 > git branch
+2019-03-25 18:49:45+0530 > git branch -r
+2019-03-25 18:49:58+0530 > git che<Tab>ck<Tab>ota<Tab><Tab>
+2019-03-25 18:50:11+0530 > cd ../,,<BckSp><BckSp>../../
+2019-03-25 18:50:21+0530 > . bui<Tab>env<Tab>
+2019-03-25 18:50:27+0530 > lunch 22
+2019-03-25 18:50:34+0530 > cd pack<Tab>ap<Tab><LShft>Nav<Tab>
+2019-03-25 18:50:44+0530 > mm
+2019-03-25 18:50:46+0530 > <LCtrl>c
+2019-03-25 18:53:46+0530 > c
+2019-03-25 18:53:46+0530 > c
+2019-03-25 18:53:46+0530 > <LCtrl>a<RShft><Del><#+2>
+2019-03-25 18:54:05+0530 > 
+2019-03-25 18:54:05+0530 > <LCtrl>vwelcome123
+2019-03-26 11:23:07+0530 > welcome123<LShft>!@#
+2019-03-26 11:23:13+0530 > git bra<Tab>
+2019-03-26 11:23:18+0530 > git st<Tab>t<Tab>
+2019-03-26 11:23:22+0530 > git chec<Tab><LShft>Rel<Tab>
+2019-03-26 11:23:27+0530 > git pull bb <LShft>Re<Tab>
+2019-03-26 11:23:32+0530 > cd -
+2019-03-26 11:23:42+0530 > <LShft><LCtrl>rbuild<LShft>_<Right>
+2019-03-26 11:23:53+0530 > <Down><#+26><Down><Up><Right><#+34><Right><BckSp><BckSp>i<Right><Right><BckSp><BckSp>10<Right><Right><Right><Right><Left><BckSp>6<Esc><LShft>:wq
+2019-03-26 11:24:12+0530 > ./anb<Tab><BckSp>d<Tab>
+2019-03-26 11:24:16+0530 > <LCtrl><LCtrl>rtouc<Right>
+2019-03-26 11:54:29+0530 > make otapackage
+2019-03-26 11:54:36+0530 > ujet 1.10
+2019-03-26 12:57:34+0530 > 
+2019-03-26 12:57:35+0530 > <LShft><F5><F5><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl>c
+2019-03-26 13:00:01+0530 > c
+2019-03-26 13:00:01+0530 > c
+2019-03-26 13:00:01+0530 > <LCtrl>c
+2019-03-26 13:00:13+0530 > <LCtrl>c
+2019-03-26 13:00:20+0530 > <LCtrl>c
+2019-03-26 13:00:23+0530 > <LCtrl>c
+2019-03-26 13:00:30+0530 > <LCtrl>c
+2019-03-26 13:00:33+0530 > <LCtrl>c
+2019-03-26 13:00:46+0530 > <LCtrl>vsb<LCtrl>c
+2019-03-26 13:02:58+0530 > c
+2019-03-26 13:02:58+0530 > c
+2019-03-26 13:02:58+0530 > <LCtrl>vwelcome123<LShft>!@#
+2019-03-26 16:25:19+0530 > <LCtrl>zcd dev<Tab><BckSp><BckSp><Tab><Tab><Tab>evice<Tab>fs<Tab>
+2019-03-26 17:36:29+0530 > git branch
+2019-03-26 17:36:32+0530 > <LShft>welcome123<LShft>!@#
+2019-03-27 12:33:36+0530 > <Up>
+2019-03-27 12:33:47+0530 > 
+2019-03-27 12:34:00+0530 > 
+2019-03-27 12:34:01+0530 > 
+2019-03-27 12:34:01+0530 > cd -
+2019-03-27 12:34:05+0530 > cd pac<Tab>ap<Tab><LShft>Nav<Tab>
+2019-03-27 12:34:12+0530 > git braq<Tab>
+2019-03-27 12:34:37+0530 > <Up><BckSp><Tab>
+2019-03-27 12:34:39+0530 > 
+2019-03-27 12:34:41+0530 > 
+2019-03-27 12:34:41+0530 > git status
+2019-03-27 12:34:44+0530 > cd -
+2019-03-27 12:34:46+0530 > <LCtrl>rvi<LCtrl>c
+2019-03-27 12:34:54+0530 > <LCtrl>rbuild<LShft>_<Right>
+2019-03-27 12:35:06+0530 > <Down><#+14><Down><#+13>i<Down><#+13><Up><Right><#+34><Right><BckSp><BckSp>02<Left><Left><Left><Left><Left><BckSp><BckSp><BckSp><BckSp><LShft>Dev<Right><#+10><Right><Right><Right><Right><Right><BckSp>7<Esc><LShft>:wq
+2019-03-27 12:35:32+0530 > 
+2019-03-27 12:35:33+0530 > 
+2019-03-27 12:35:33+0530 > 
+2019-03-27 12:35:33+0530 > <Up>
+2019-03-27 12:35:38+0530 > <Esc><LShft>:wq
+2019-03-27 12:35:41+0530 > 
+2019-03-27 12:35:48+0530 > 
+2019-03-27 12:35:48+0530 > ./and<Tab>
+2019-03-27 12:35:51+0530 > <LCtrl><LCtrl>c
+2019-03-27 12:36:28+0530 > 
+2019-03-27 12:36:29+0530 > 
+2019-03-27 12:36:30+0530 > 
+2019-03-27 12:36:30+0530 > . bu<Tab>en<Tab>
+2019-03-27 12:36:33+0530 > lunch 22
+2019-03-27 12:36:37+0530 > ./an<Tab>
+2019-03-27 12:36:40+0530 > <LShft>Welc<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>welcome1<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>welcome123<LShft>!@#
+2019-03-27 13:57:46+0530 > make otapackage
+2019-03-27 13:57:54+0530 > <RShft><Del><LShft>Ujet 1.10
+2019-03-27 14:01:05+0530 > 
+2019-03-27 14:01:06+0530 > <LShft><LCtrl>c
+2019-03-27 14:02:29+0530 > <#+1><LCtrl>c
+2019-03-27 14:02:30+0530 > <#+3><LCtrl>rtou<Right>
+2019-03-27 14:02:35+0530 > <Up><Up>
+2019-03-27 14:02:57+0530 > <LCtrl><LCtrl><LCtrl>c
+2019-03-27 14:03:36+0530 > c
+2019-03-27 14:03:36+0530 > c
+2019-03-27 14:03:36+0530 > <LCtrl><LCtrl>c
+2019-03-27 14:04:03+0530 > c
+2019-03-27 14:04:03+0530 > c
+2019-03-27 14:04:03+0530 > <LCtrl>vwelcome123<LShft>!@#
+2019-03-27 16:55:34+0530 > <LCtrl>c
+2019-03-27 16:56:25+0530 > ota
+2019-03-27 16:56:35+0530 > 
+2019-03-27 16:56:35+0530 > <LCtrl>v<LCtrl><LMeta>c
+2019-03-27 16:57:19+0530 > c
+2019-03-27 16:57:19+0530 > c
+2019-03-27 16:57:19+0530 > <LCtrl>vwelcome1<BckSp><#+33>welcome123<RShft>!@#
+2019-03-29 15:08:53+0530 > 
+2019-03-29 15:10:31+0530 > 
+2019-03-29 15:10:31+0530 > vi an<Tab>
+2019-03-29 15:10:35+0530 > <Down><Down><Down><Down><Down><Up><End>i<Right>
+2019-03-29 15:10:46+0530 > <LCtrl><LShft>V<BckSp><#+82><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>rm -rf <LCtrl><LShft>Trm -rf /<BckSp>ou<Tab>ta<Tab>pr<Tab>to<Tab>sys<Tab>/bin<Tab>e<Tab><Tab><BckSp>
+2019-03-29 15:11:42+0530 > pwd
+2019-03-29 15:11:43+0530 > <Up><Home><Down><Up><Up><Home><Right><Right><Right><Right><Right><Right><Right><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>cd 
+2019-03-29 15:12:00+0530 > <Up><Down><RShft>~/<LCtrl><PgDn><BckSp><LCtrl><LShft>V/<LCtrl><PgDn><LCtrl><PgUp><LCtrl><LShft>Vecu<RShft>_hex<#+3><RShft>_files<Esc><RShft>:wq<RShft>!
+2019-03-29 15:13:51+0530 > 
+2019-03-29 15:13:53+0530 > git status<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>vi an<Tab>
+2019-03-29 15:14:05+0530 > <Esc><RShft>:q<RShft>!
+2019-03-29 15:14:13+0530 > <LCtrl><PgDn>
+2019-03-29 15:14:16+0530 > <#+6><Esc>welcome123<LShft>!@#
+2019-04-01 11:36:59+0530 > ifconfig
+2019-04-01 11:37:07+0530 > welcome123<RShft>!@#
+2019-04-01 14:11:52+0530 > 
+2019-04-01 14:11:53+0530 > 
+2019-04-01 14:11:53+0530 > 
+2019-04-01 14:11:53+0530 > locate <RShft><Ins><LCtrl>c
+2019-04-01 14:11:56+0530 > locate wifistatm<BckSp>emachine.java
+2019-04-01 14:12:04+0530 > <LAlt><Tab><LCtrl><LAlt><Tab><Up><LCtrl><BckSp><BckSp><BckSp><BckSp><BckSp><Left><Left><Left><Left><Left><Left><BckSp><RShft>M<Left><Left><Left><Left><Left><Left><Del><RShft>S<Left><Left><Left><Left><Left><Del><RShft>W
+2019-04-01 14:12:36+0530 > vim <RShft><Ins><Tab>
+2019-04-01 14:12:56+0530 > /failed
+2019-04-01 14:13:01+0530 > /load driver
+2019-04-01 14:13:16+0530 > n<Up><#+15><Down><Down><Down><Down><Down><Down><Down><Down><Down><Up><Up><Up><Up><Up><Up><Up><#+14><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><#+27><Up><#+19><Down><#+16><Down><Down><Down><Up><Up><Down><Right><Down><Right><#+19><RShft>%%<RShft>%<RShft>%%%<Up><Up><Down><Left><Left><#+11><RShft>*nnnnnnnn<Right><#+24><Up><RShft>:q<Tab>
+2019-04-01 14:14:47+0530 > 
+2019-04-01 14:14:47+0530 > 
+2019-04-01 14:14:47+0530 > 
+2019-04-01 14:14:47+0530 > 
+2019-04-01 14:14:47+0530 > 
+2019-04-01 14:14:48+0530 > 
+2019-04-01 14:14:48+0530 > 
+2019-04-01 14:14:48+0530 > \\<BckSp><BckSp>
+2019-04-01 14:15:31+0530 > 
+2019-04-01 14:15:31+0530 > 
+2019-04-01 14:15:31+0530 > ls
+2019-04-01 14:15:32+0530 > cd <BckSp><BckSp><BckSp><BckSp>cd ha<Tab>li<Tab><RShft>_<Tab><#+1>w<Tab>
+2019-04-01 14:15:37+0530 > git log
+2019-04-01 14:15:38+0530 > qcd ../<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>git status
+2019-04-01 14:15:43+0530 > cd ../
+2019-04-01 14:15:44+0530 > ls
+2019-04-01 14:15:45+0530 > cd ../
+2019-04-01 14:15:46+0530 > cd ../
+2019-04-01 14:15:47+0530 > 
+2019-04-01 14:15:47+0530 > 
+2019-04-01 14:15:47+0530 > cd e<BckSp>ha<Tab>rea<Tab>w;la<BckSp><BckSp><BckSp>l;a<Tab><BckSp><BckSp>a<Tab>
+2019-04-01 14:15:52+0530 > 
+2019-04-01 14:15:53+0530 > <Up><Up><Up><Up><Up>
+2019-04-01 14:15:56+0530 > cd ../<BckSp><#+16>git log
+2019-04-01 14:16:00+0530 > cd ../
+2019-04-01 14:16:02+0530 > ls
+2019-04-01 14:16:03+0530 > cd ../
+2019-04-01 14:16:04+0530 > ls
+2019-04-01 14:16:04+0530 > cd ../
+2019-04-01 14:16:09+0530 > 
+2019-04-01 14:16:09+0530 > 
+2019-04-01 14:16:09+0530 > 
+2019-04-01 14:16:09+0530 > cd devi<Tab>fs<Tab>
+2019-04-01 14:16:11+0530 > 
+2019-04-01 14:16:11+0530 > git bran<Tab>
+2019-04-01 14:16:12+0530 > git log
+2019-04-01 14:16:13+0530 > q
+2019-04-01 14:16:18+0530 > 
+2019-04-01 14:16:19+0530 > 
+2019-04-01 14:16:19+0530 > cd ../../
+2019-04-01 14:16:20+0530 > 
+2019-04-01 14:16:20+0530 > 
+2019-04-01 14:16:20+0530 > <NumLk>
+2019-04-01 15:25:36+0530 > 
+2019-04-01 15:25:36+0530 > 
+2019-04-01 15:25:36+0530 > 
+2019-04-01 15:25:37+0530 > clear
+2019-04-01 15:25:39+0530 > log <BckSp>cal<BckSp>t <RShft>| gre<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>cd device/fsl
+2019-04-01 15:25:50+0530 > git log --one<Tab>
+2019-04-01 15:25:56+0530 > qgit branc
+2019-04-01 15:26:05+0530 > <Up>h
+2019-04-01 15:26:08+0530 > 
+2019-04-01 15:28:05+0530 > 
+2019-04-01 15:28:06+0530 > 
+2019-04-01 15:28:06+0530 > 
+2019-04-01 15:28:06+0530 > clear
+2019-04-01 15:28:08+0530 > cd ../../
+2019-04-01 15:28:39+0530 > cd packa<Tab>apps<Tab><RShft>Na<Tab>
+2019-04-01 15:28:54+0530 > git log <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>it branch
+2019-04-01 15:29:02+0530 > git log --one<Tab>
+2019-04-01 15:29:15+0530 > q
+2019-04-01 15:31:26+0530 > 
+2019-04-01 15:31:27+0530 > 
+2019-04-01 15:31:27+0530 > 
+2019-04-01 15:31:27+0530 > 
+2019-04-01 15:31:27+0530 > cd ../../
+2019-04-01 15:31:30+0530 > clear
+2019-04-01 15:31:34+0530 > cd ../
+2019-04-01 15:31:36+0530 > cd ext<Tab>ob<Tab>d<Tab><BckSp><BckSp><BckSp><BckSp>ser<Tab>
+2019-04-01 15:31:44+0530 > git bra<Tab>
+2019-04-01 15:31:48+0530 > git log --one<Tab>
+2019-04-01 15:31:53+0530 > cd ../../
+2019-04-01 15:31:57+0530 > cd ext<Tab>obd<Tab>
+2019-04-01 15:32:01+0530 > git log --one<Tab>
+2019-04-01 15:32:05+0530 > q<#+1>c<BckSp><BckSp><BckSp>
+2019-04-01 15:32:20+0530 > 
+2019-04-01 15:32:20+0530 > 
+2019-04-01 15:32:20+0530 > git show <LCtrl><LShft>c
+2019-04-01 15:32:28+0530 > 
+2019-04-01 15:32:28+0530 > 
+2019-04-01 15:32:29+0530 > clearlq
+2019-04-01 15:32:33+0530 > 
+2019-04-01 15:32:33+0530 > 
+2019-04-01 15:32:33+0530 > 
+2019-04-01 15:32:33+0530 > 
+2019-04-01 15:32:34+0530 > 
+2019-04-01 15:32:34+0530 > 
+2019-04-01 15:32:34+0530 > 
+2019-04-01 15:32:34+0530 > clear
+2019-04-01 15:32:36+0530 > git show <LCtrl><LShft>V
+2019-04-01 15:32:39+0530 >         q<NumLk>welcome123<RShft>!@#
+2019-04-01 17:41:34+0530 > 
+2019-04-01 17:41:39+0530 > 
+2019-04-01 17:41:39+0530 > clear
+2019-04-01 17:41:41+0530 > git bra<Tab>
+2019-04-01 17:41:45+0530 > git bra<Tab>--tra<Tab>orig<BckSp><BckSp><BckSp><BckSp><Tab><Tab>bb/<RShft>Re<Tab><BckSp><#+14><BckSp><BckSp><BckSp><BckSp><BckSp><#+33>r
+2019-04-01 17:42:22+0530 > <LCtrl><LCtrl><LShft>V<BckSp><#+24>git bra<Tab>--tra<Tab>bb/<RShft>release<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><RShft>Release<RShft>_<RShft>UJET<RShft>_<RShft>Dev<RShft>_1.04<RShft>_04<RShft>_03<RShft>_19
+2019-04-01 17:43:46+0530 > git bra<Tab>
+2019-04-01 17:43:49+0530 > git check<Tab><RShft>Re<Tab><BckSp><#+18><BckSp><#+19><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>bb<Tab><RShft>Re<Tab>4<Tab><BckSp><#+66>git check<Tab><RShft>R<Tab><BckSp><#+1><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>4<RShft>_04<RShft>_04<RShft>_19
+2019-04-01 17:55:23+0530 > <Up><Down><Up><Up><Up><Down><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>fe<Tab><BckSp><BckSp><BckSp> fe<Tab><Tab><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>g<BckSp>git fet<Tab>bb<Tab><LCtrl><LShft>c
+2019-04-01 17:56:28+0530 > V <LCtrl><LShft>V<Left><#+5><Left><Left><BckSp>4<Left><#+43><Right><Right><Right><Right><Right><Right><Right><BckSp>4
+2019-04-01 17:56:41+0530 > 
+2019-04-01 17:56:47+0530 > 
+2019-04-01 17:56:47+0530 > 
+2019-04-01 17:56:48+0530 > 
+2019-04-01 17:56:48+0530 > clear
+2019-04-01 17:56:49+0530 > git check<Tab>bb<Tab><Tab><BckSp><BckSp><BckSp><Tab><Tab><RShft>Re<Tab>4<Tab>
+2019-04-01 17:57:05+0530 > 
+2019-04-01 17:57:07+0530 > git log --one<Tab>
+2019-04-01 17:57:10+0530 > q
+2019-04-01 17:57:14+0530 > clear
+2019-04-01 17:57:15+0530 > git bra<Tab>
+2019-04-01 17:57:18+0530 > git bra<Tab>-<BckSp>d bb<Tab><RShft>Re<Tab><Tab><Tab>4<Tab><Tab><Tab>3<Tab>
+2019-04-01 17:58:18+0530 > git bra<Tab>
+2019-04-01 17:58:21+0530 > clear
+2019-04-01 17:58:38+0530 > cd <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>ls
+2019-04-01 17:58:42+0530 > git log --one<Tab>
+2019-04-01 17:58:46+0530 > q
+2019-04-01 17:58:48+0530 > cd <BckSp><BckSp><BckSp><BckSp>clear
+2019-04-01 17:58:52+0530 > cd ../../
+2019-04-01 17:58:55+0530 > cd devi<Tab>fs<Tab>
+2019-04-01 17:59:00+0530 > git fe<Tab>bb<Tab><RShft>Re<Tab><BckSp><#+92><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up>
+2019-04-01 18:02:50+0530 > git bra<Tab>
+2019-04-01 18:02:58+0530 > git check<Tab><RShft>Re<Tab>4<Tab>
+2019-04-01 18:03:12+0530 > git status
+2019-04-01 18:03:20+0530 > 
+2019-04-01 18:03:23+0530 > 
+2019-04-01 18:03:23+0530 > q
+2019-04-01 18:03:26+0530 > 
+2019-04-01 18:03:26+0530 > 
+2019-04-01 18:03:26+0530 > git <LCtrl>c
+2019-04-01 18:03:29+0530 > 
+2019-04-01 18:03:30+0530 > clear
+2019-04-01 18:03:31+0530 > git statsh<BckSp><BckSp><BckSp>sh
+2019-04-01 18:03:37+0530 > <Up><Up><Up><Up><Up>
+2019-04-01 18:03:43+0530 > git bra<Tab>
+2019-04-01 18:03:48+0530 > 
+2019-04-01 18:03:50+0530 > clear
+2019-04-01 18:03:51+0530 > cd ../../
+2019-04-01 18:03:55+0530 > cd exter<Tab>ser<Tab>
+2019-04-01 18:04:01+0530 > git log --one<Tab>
+2019-04-01 18:04:05+0530 > q<BckSp><BckSp><BckSp><BckSp>git bra<Tab>
+2019-04-01 18:04:10+0530 > cd ../../
+2019-04-01 18:04:13+0530 > clear
+2019-04-01 18:04:15+0530 > ./a<Tab>nd<BckSp><#+27>vi a<Tab>nd<Tab>
+2019-04-01 18:04:22+0530 > <Esc><RShft>:q<RShft>!i<Down><#+30><Up><#+13><Esc><RShft>:<#+4>wq<RShft><BckSp><BckSp><BckSp><BckSp><BckSp><Esc><RShft>:q<RShft>!
+2019-04-01 18:04:35+0530 > <Up>
+2019-04-01 18:04:37+0530 > i<Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Right><Right><Right><Right><Right> i<BckSp>-j4<Esc><RShft>:wq<RShft>!
+2019-04-01 18:04:50+0530 > ./andr<Tab>
+2019-04-01 18:04:53+0530 > <LCtrl>c
+2019-04-01 18:05:17+0530 > c
+2019-04-01 18:05:17+0530 > 
+2019-04-01 18:05:18+0530 > 
+2019-04-01 18:05:18+0530 > 
+2019-04-01 18:05:18+0530 > clear
+2019-04-01 18:05:19+0530 > cd pa<Tab>apa<Tab><BckSp>ps<Tab><RShft>Na<Tab>
+2019-04-01 18:05:26+0530 > git bra<Tab>
+2019-04-01 18:05:29+0530 > git cec<Tab><BckSp><BckSp>he<Tab>c<Tab><LCtrl><LShft>c
+2019-04-01 18:05:42+0530 > V
+2019-04-01 18:05:43+0530 > git pull <Tab><Tab>ota<Tab>
+2019-04-01 18:05:57+0530 > 
+2019-04-01 18:06:11+0530 > 
+2019-04-01 18:06:11+0530 > 
+2019-04-01 18:06:11+0530 > 
+2019-04-01 18:06:11+0530 > <#+23>clear
+2019-04-01 18:06:15+0530 > cd ../.././<BckSp>./
+2019-04-01 18:06:19+0530 > clear
+2019-04-01 18:06:21+0530 > ./and<Tab>
+2019-04-01 18:06:23+0530 > <CpsLk><CpsLk>
+2019-04-01 18:07:42+0530 > <CpsLk>
+2019-04-01 18:07:42+0530 > 
+2019-04-01 18:07:42+0530 > 
+2019-04-01 18:07:42+0530 > 
+2019-04-01 18:07:43+0530 > 
+2019-04-01 18:07:43+0530 > 
+2019-04-01 18:07:43+0530 > 
+2019-04-01 18:07:43+0530 > 
+2019-04-01 18:07:44+0530 > 
+2019-04-01 18:07:44+0530 > 
+2019-04-01 18:07:44+0530 > <CpsLk>
+2019-04-01 18:11:49+0530 > 
+2019-04-01 18:11:49+0530 > 
+2019-04-01 18:11:49+0530 > 
+2019-04-01 18:11:50+0530 > 
+2019-04-01 18:11:50+0530 > 
+2019-04-01 18:11:50+0530 > 
+2019-04-01 18:11:50+0530 > 
+2019-04-01 18:31:11+0530 > 
+2019-04-01 18:31:11+0530 > 
+2019-04-01 18:31:11+0530 > clear
+2019-04-01 18:31:13+0530 > welcome123<LShft>!@#
+2019-04-02 12:25:23+0530 > .bui<Tab><Tab>ld<BckSp><#+10><BckSp><BckSp><#+18> ./bu<Tab>env<Tab><BckSp><Tab><Tab><Tab><BckSp><BckSp><BckSp><Tab><Tab><Tab><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>.bu<Tab><Tab>ilden<Tab><Tab><BckSp><BckSp><BckSp><#+31> .bui<Tab><Tab><BckSp><BckSp><BckSp><BckSp><#+125> .build<Tab><Tab><Tab><Tab><BckSp><#+12>. b<#+3>u<Tab>en<Tab>
+2019-04-02 12:26:38+0530 > lunch 22
+2019-04-02 12:26:42+0530 >  
+2019-04-02 12:26:51+0530 > <LCtrl>z<LCtrl>c
+2019-04-02 12:26:58+0530 > cd dev<Tab><Tab>ice<Tab><#+1>f<Tab>
+2019-04-02 12:27:12+0530 > git branch
+2019-04-02 12:27:15+0530 > git pull
+2019-04-02 12:27:32+0530 > <LCtrl>git pull bb <LShft><LShft>Re<Tab>4<Tab>
+2019-04-02 12:27:59+0530 > cd ../../../
+2019-04-02 12:28:19+0530 > cd packa<Tab><#+2><BckSp><Tab><BckSp><BckSp><BckSp><BckSp><LShft>UJ<Tab>pa<Tab><#+1>ap<Tab><LShft>Nav<Tab>
+2019-04-02 12:28:35+0530 > git fetch
+2019-04-02 12:28:38+0530 > git branch
+2019-04-02 12:28:53+0530 > git chec<Tab><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>branch -r
+2019-04-02 12:29:17+0530 > git chec<Tab><LShft>Releas<Tab><LShft>De<Tab>4`<BckSp><Tab>
+2019-04-02 12:29:37+0530 > mm
+2019-04-02 12:29:42+0530 > cd ../../../
+2019-04-02 12:32:20+0530 > touch<Tab>bu<Tab><Tab><Tab>cor<Tab>ver<Tab>
+2019-04-02 12:33:55+0530 > sh andr<Tab>
+2019-04-02 12:34:01+0530 > <LCtrl><LCtrl><LCtrl>c
+2019-04-02 12:57:40+0530 > c
+2019-04-02 12:57:41+0530 > c
+2019-04-02 12:57:41+0530 > c
+2019-04-02 12:57:41+0530 > c
+2019-04-02 12:57:41+0530 > <LShft>Release<RShft>_4<RShft>_4<RShft>_19<LCtrl>v<#+1><LCtrl><LCtrl>ac
+2019-04-02 13:00:03+0530 > c
+2019-04-02 13:00:03+0530 > c
+2019-04-02 13:00:03+0530 > <LCtrl><LCtrl>zsou<Tab>bu<Tab>en<Tab>
+2019-04-02 13:06:45+0530 > li<BckSp>unch 22
+2019-04-02 13:06:50+0530 > make otapa<Tab><Tab><Tab>ckage
+2019-04-02 13:07:05+0530 > <NumLk><NumLk><LCtrl>c
+2019-04-02 13:13:58+0530 > 
+2019-04-02 13:14:09+0530 > 
+2019-04-02 13:14:09+0530 > 
+2019-04-02 13:14:09+0530 > 
+2019-04-02 13:14:09+0530 > 
+2019-04-02 13:14:09+0530 > cd ou<Tab>ta<Tab>pr<Tab>t<Tab>sys<Tab>bin<Tab><Tab><Tab>e<Tab><#+1><Tab><Tab><BckSp>
+2019-04-02 13:14:35+0530 > ls<BckSp><BckSp><BckSp>ls ec<Tab><Tab><Tab><Tab><Tab><BckSp><#+28>cd -
+2019-04-02 13:14:46+0530 > <Up><Up><Down><Down><Down><Down>vi an<Tab>
+2019-04-02 13:14:54+0530 > <Esc><RShft>:q<RShft>!
+2019-04-02 13:15:05+0530 > cd devi<Tab>fs<Tab>/
+2019-04-02 13:15:14+0530 > ls
+2019-04-02 13:15:15+0530 > git bra<Tab>
+2019-04-02 13:15:21+0530 > git bra<BckSp><BckSp><BckSp>checkou<Tab><LCtrl><LShft>c
+2019-04-02 13:15:46+0530 > V
+2019-04-02 13:15:48+0530 > git bra<Tab>
+2019-04-02 13:15:58+0530 > git log --one<Tab><#+1>
+2019-04-02 13:16:03+0530 > q<#+1>
+2019-04-02 13:16:18+0530 > 
+2019-04-02 13:16:18+0530 > 
+2019-04-02 13:16:18+0530 > 
+2019-04-02 13:16:19+0530 > git pull bb ma<BckSp><BckSp><RShft>Rel<Tab>4<Tab>
+2019-04-02 13:16:28+0530 > cd ../../
+2019-04-02 13:16:41+0530 > cd seria<Tab><BckSp><BckSp><BckSp><BckSp><BckSp>exter<Tab>seria<Tab>
+2019-04-02 13:16:50+0530 > git branch
+2019-04-02 13:16:53+0530 > cd ../.<BckSp>obd<Tab>
+2019-04-02 13:16:59+0530 > git branch
+2019-04-02 13:17:03+0530 > cd ../../
+2019-04-02 13:17:09+0530 > cd pakc<BckSp><BckSp>cka<Tab>ap<Tab><RShft>Na<Tab>
+2019-04-02 13:17:23+0530 > git branch
+2019-04-02 13:17:27+0530 > cd ../../..
+2019-04-02 13:17:33+0530 > clear
+2019-04-02 13:17:35+0530 > ./am<BckSp>ndroid<Tab>
+2019-04-02 13:17:46+0530 > <LCtrl>c
+2019-04-02 13:17:48+0530 > c
+2019-04-02 13:17:48+0530 > touch<Tab>buil<Tab>cor<Tab>ver<Tab>
+2019-04-02 13:17:57+0530 > ./and<Tab>
+2019-04-02 13:17:59+0530 > <Del><NumLk>
+2019-04-02 13:23:06+0530 > 
+2019-04-02 13:23:06+0530 > 
+2019-04-02 13:23:06+0530 > 
+2019-04-02 13:23:06+0530 > 
+2019-04-02 13:29:40+0530 > 
+2019-04-02 13:29:40+0530 > 
+2019-04-02 13:29:40+0530 > 
+2019-04-02 13:29:40+0530 > 
+2019-04-02 13:29:40+0530 > 
+2019-04-02 13:32:32+0530 > 
+2019-04-02 13:32:32+0530 > 
+2019-04-02 13:32:32+0530 > <LCtrl><LShft>Tls out<Tab>tar<Tab>pr<Tab>tora<Tab>syst<Tab>/bin<Tab>e<Tab><Tab>cu<Tab><Tab>he<Tab>
+2019-04-02 13:33:04+0530 > exit
+2019-04-02 13:33:11+0530 > 
+2019-04-02 13:33:13+0530 > 
+2019-04-02 13:33:13+0530 > 
+2019-04-02 13:33:13+0530 > 
+2019-04-02 13:33:13+0530 > 
+2019-04-02 13:33:13+0530 > 
+2019-04-02 13:33:13+0530 > 
+2019-04-02 13:33:14+0530 > 
+2019-04-02 13:33:14+0530 > 
+2019-04-02 13:33:14+0530 > 
+2019-04-02 13:33:14+0530 > 
+2019-04-02 13:33:14+0530 > 
+2019-04-02 13:33:14+0530 > 
+2019-04-02 13:33:15+0530 > 
+2019-04-02 13:33:15+0530 > 
+2019-04-02 14:01:22+0530 > 
+2019-04-02 14:01:22+0530 > 
+2019-04-02 14:01:23+0530 > 
+2019-04-02 14:01:23+0530 > 
+2019-04-02 14:01:23+0530 > 
+2019-04-02 14:01:23+0530 > <LCtrl>ls -l <LCtrl>ldevo<Tab>fs<BckSp><BckSp><BckSp>i<Tab>fs<Tab><Ins><Home><Del><Del><BckSp><BckSp><BckSp><BckSp><Tab><Home><Del><Del><Del><Del><Del>cd
+2019-04-02 14:01:34+0530 > 
+2019-04-02 14:01:34+0530 > 
+2019-04-02 14:01:34+0530 > 
+2019-04-02 14:01:35+0530 > git status
+2019-04-02 14:01:36+0530 > git status
+2019-04-02 14:01:46+0530 > giot <BckSp><BckSp><BckSp><BckSp><BckSp><LCtrl>l
+2019-04-02 14:01:51+0530 > 
+2019-04-02 14:01:51+0530 > <LCtrl>lls
+2019-04-02 14:01:52+0530 > <LCtrl>git bran<Tab>
+2019-04-02 14:01:57+0530 > git status
+2019-04-02 14:02:00+0530 > git check<Tab>ou<BckSp><BckSp>,ma<BckSp><BckSp><BckSp>mas<Tab>
+2019-04-02 14:02:13+0530 > git fet<Tab><BckSp><#+26>git log
+2019-04-02 14:02:27+0530 > q
+2019-04-02 14:02:34+0530 > 
+2019-04-02 14:02:35+0530 > 
+2019-04-02 14:02:35+0530 > 
+2019-04-02 14:02:35+0530 > <LCtrl>lgit bran<Tab>
+2019-04-02 14:02:38+0530 > git status
+2019-04-02 14:02:41+0530 > <LShft><PgUp><PgUp><LCtrl>l
+2019-04-02 14:02:56+0530 > 
+2019-04-02 14:02:57+0530 > git <BckSp><BckSp><BckSp><BckSp><BckSp>git am <BckSp><BckSp><BckSp>form<Tab>-1
+2019-04-02 14:03:02+0530 > 
+2019-04-02 14:03:02+0530 > 
+2019-04-02 14:03:02+0530 > git check<Tab><RShft><Ins><Tab>
+2019-04-02 14:03:07+0530 > 
+2019-04-02 14:03:08+0530 > 
+2019-04-02 14:03:08+0530 > git bvra<BckSp><BckSp><BckSp>ran<Tab>
+2019-04-02 14:03:11+0530 > 
+2019-04-02 14:03:11+0530 > git am 00<Tab><Tab><Tab><RShft>RE<BckSp><Tab>
+2019-04-02 14:03:22+0530 > git push<Tab><Tab><RShft><Ins><Tab>
+2019-04-02 14:03:30+0530 > 
+2019-04-02 14:03:36+0530 > 
+2019-04-02 14:03:36+0530 > cd ../../<LCtrl>l 
+2019-04-02 14:03:39+0530 > 
+2019-04-02 14:03:39+0530 > 
+2019-04-02 14:03:39+0530 > <LCtrl>l./a,m<BckSp><BckSp>nd<Tab>
+2019-04-02 14:03:53+0530 > cd dev<Tab>ice<Tab>fs<Tab>
+2019-04-02 14:08:22+0530 > git branch
+2019-04-02 14:08:26+0530 > git pull bb <LShft>Releas<Tab><KP4><Tab>
+2019-04-02 14:08:47+0530 > <LCtrl><LCtrl>c
+2019-04-02 14:09:36+0530 > c
+2019-04-02 14:09:36+0530 > c
+2019-04-02 14:09:36+0530 > c
+2019-04-02 14:09:37+0530 > c
+2019-04-02 14:09:37+0530 > c
+2019-04-02 14:09:37+0530 > c
+2019-04-02 14:09:37+0530 > c
+2019-04-02 14:09:37+0530 > <LCtrl>a<RShft><Del><#+1>
+2019-04-02 14:09:45+0530 > <LCtrl>v
+2019-04-02 14:28:07+0530 > 
+2019-04-02 14:28:07+0530 > 
+2019-04-02 14:28:07+0530 > 
+2019-04-02 14:28:07+0530 > clear
+2019-04-02 14:28:09+0530 > cd ../../
+2019-04-02 14:28:12+0530 > tou<Tab>buil<Tab>e<Tab>\\<BckSp><#+24>ld/<BckSp><#+5><BckSp><#+35><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down><Down><Down><Down><#+1><Down><#+43>make otapackage
+2019-04-02 14:28:51+0530 > 
+2019-04-02 14:36:15+0530 > 
+2019-04-02 14:36:15+0530 > 
+2019-04-02 14:36:16+0530 > 
+2019-04-02 14:36:16+0530 > 
+2019-04-02 14:36:16+0530 > cd<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>clear
+2019-04-02 14:36:19+0530 > cd syst<Tab><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>ou<Tab>tapr<Tab><BckSp><BckSp>r<Tab>pro<Tab>sys<Tab><Tab><Tab><BckSp><BckSp><BckSp>to<Tab>syst<Tab>bi<BckSp><BckSp>
+2019-04-02 14:36:43+0530 > cat bu<Tab>
+2019-04-02 14:36:46+0530 > 
+2019-04-02 14:37:10+0530 > 
+2019-04-02 14:37:10+0530 > 
+2019-04-02 14:37:10+0530 > 
+2019-04-02 14:37:10+0530 > 
+2019-04-02 14:37:11+0530 > clear
+2019-04-02 14:37:13+0530 > <ScrLk>cd ../../
+2019-04-02 15:14:15+0530 > cd ../../
+2019-04-02 15:14:17+0530 > cd ../
+2019-04-02 15:14:18+0530 > clear
+2019-04-02 15:14:20+0530 > cd <RShft>P<BckSp>extr<Tab><BckSp>e<Tab>ob<Tab>d<Tab>
+2019-04-02 15:14:28+0530 > git log <BckSp><BckSp><BckSp><BckSp>branch
+2019-04-02 15:14:33+0530 > git check<Tab>master
+2019-04-02 15:14:39+0530 > cd ../../devise<Tab><BckSp><BckSp>cd<BckSp>e/fsl<Tab>
+2019-04-02 15:14:49+0530 > git branch
+2019-04-02 15:14:52+0530 > git check<Tab>master
+2019-04-02 15:14:57+0530 > cd .../<BckSp><BckSp>/../exter<BckSp><BckSp><BckSp><BckSp><BckSp>packag<Tab>app<Tab><RShft>Na<Tab>
+2019-04-02 15:15:13+0530 > git ch<BckSp><BckSp>branch
+2019-04-02 15:15:18+0530 > git checkout master
+2019-04-02 15:15:26+0530 > 
+2019-04-02 15:15:28+0530 > clear
+2019-04-02 15:15:31+0530 > git branch
+2019-04-02 15:15:34+0530 > cd ../../../ext<Tab>ob<Tab>d<Tab>
+2019-04-02 15:15:41+0530 > git branch
+2019-04-02 15:15:43+0530 > cd -
+2019-04-02 15:15:45+0530 > cd ../../
+2019-04-02 15:15:49+0530 > cd ../
+2019-04-02 15:15:50+0530 > clear
+2019-04-02 15:15:51+0530 > clear
+2019-04-02 15:15:53+0530 > <ScrLk>

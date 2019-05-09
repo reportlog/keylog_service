@@ -1,0 +1,52 @@
+Logging started ...
+
+2019-01-07 16:09:21+0530 > 
+2019-01-07 16:52:00+0530 > 
+2019-01-07 16:52:00+0530 > 
+2019-01-07 16:52:01+0530 > <LCtrl><PgDn>cd ../..//<BckSp><RShft>P<BckSp><RShft>U<Tab><Tab><Tab>dev<Tab><Tab>i<Tab>fs<Tab>
+2019-01-07 16:52:14+0530 > git status
+2019-01-07 16:52:17+0530 > 
+2019-01-07 16:52:19+0530 > 
+2019-01-07 16:52:19+0530 > 
+2019-01-07 16:52:19+0530 > git k<BckSp>log --one<Tab>
+2019-01-07 16:52:25+0530 > q
+2019-01-07 16:52:27+0530 > git commit -m <RShft>""<Left><RShft>revert<End>
+2019-01-07 16:52:36+0530 > git pud<BckSp>sh bb master
+2019-01-07 16:52:43+0530 > 
+2019-01-07 16:52:58+0530 > 
+2019-01-07 16:52:58+0530 > 
+2019-01-07 16:52:58+0530 > got l<BckSp><BckSp><BckSp><BckSp>it log --one<Tab>
+2019-01-07 16:53:04+0530 > qcd ../../../../
+2019-01-07 16:54:00+0530 > cd p<BckSp><LShft>Pro<Tab><LShft>U<Tab>
+2019-01-07 16:54:14+0530 > cd pac<Tab>ap<Tab><LShft>Na<Tab>
+2019-01-07 16:54:22+0530 > git branch
+2019-01-07 16:54:25+0530 > <LCtrl>v<LShft>QR<LShft>Generator
+2019-01-07 17:14:06+0530 > 
+2019-01-07 17:14:08+0530 > 
+2019-01-07 17:14:09+0530 > v<BckSp><BckSp>cd ../../../devi<Tab>fs<Tab>
+2019-01-07 17:15:57+0530 > git st<Tab>t<Tab>
+2019-01-07 17:15:59+0530 > git log
+2019-01-07 17:16:03+0530 > qgit pull<Tab>bb<Tab>ma<Tab>
+2019-01-07 17:16:11+0530 > git st<Tab>t<Tab>
+2019-01-07 17:16:20+0530 > git log
+2019-01-07 17:16:23+0530 > qcd ../../../<BckSp><BckSp><BckSp>
+2019-01-07 17:17:03+0530 > <LCtrl>c
+2019-01-07 17:17:30+0530 > c
+2019-01-07 17:17:31+0530 > c
+2019-01-07 17:17:31+0530 > <LCtrl>
+2019-01-07 17:21:20+0530 > 
+2019-01-07 17:21:20+0530 > 
+2019-01-07 17:21:20+0530 > <LShft>QR<LCtrl> <BckSp><BckSp><LCtrl>v<BckSp><LCtrl> <BckSp><#+12><BckSp><BckSp><BckSp><LCtrl>
+2019-01-07 17:59:42+0530 > <LShft>QR<LCtrl><LCtrl> <Down><Down><Down><Down>
+2019-01-07 17:59:49+0530 > .<LCtrl><BckSp><#+16><BckSp><BckSp><LCtrl>s<LCtrl>v<BckSp><LCtrl> <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LCtrl>v<BckSp><LCtrl> <LCtrl>  <BckSp><BckSp><BckSp><LCtrl>  <LCtrl> 
+2019-01-07 18:02:12+0530 > =new <LCtrl> 
+2019-01-07 18:02:18+0530 > ;<LCtrl>s<LCtrl>v<LCtrl>ss<Right><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LCtrl> <BckSp><LCtrl> <BckSp><BckSp><BckSp><LCtrl>  <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LCtrl> <LCtrl>z<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LCtrl>s<#+2><LCtrl>d
+2019-01-07 18:03:37+0530 > s<#+1><LCtrl>v<BckSp><Right><BckSp><LCtrl>s<#+1>
+2019-01-07 18:04:59+0530 > 
+2019-01-07 18:04:59+0530 > 
+2019-01-07 18:04:59+0530 > <LCtrl>v<RShft>""<Left><LShft>Ujet <LShft>QRcode<LCtrl>s<LShft>EN<BckSp>ncoder<LCtrl> <Left><Right><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LShft>BR<BckSp>r<LCtrl> <BckSp><BckSp><LShft>Env<BckSp>code<LCtrl> <Down><Down><Down>
+2019-01-07 18:10:58+0530 > <LCtrl>c
+2019-01-07 18:11:01+0530 > <LCtrl>v<LShft>Barco<LCtrl> <LCtrl>v<LCtrl><LCtrl>v
+
+Logging stopped at 2019-01-07 18:21:42+0530
+

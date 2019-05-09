@@ -1,0 +1,93 @@
+Logging started ...
+
+2019-01-18 12:51:31+0530 > <LCtrl><LCtrl><LCtrl>c
+2019-01-18 13:22:48+0530 > f
+2019-01-18 13:23:22+0530 > sav<LCtrl> <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LCtrl>s<LCtrl>fsav<RShft>
+2019-01-18 13:23:56+0530 > 
+2019-01-18 13:23:56+0530 > <LCtrl><Tab>if<LCtrl> 
+2019-01-18 13:24:18+0530 > sm <BckSp><BckSp><BckSp><RShft>(sm == nul<LCtrl> <BckSp>l<LCtrl> <BckSp><LCtrl> <BckSp><BckSp>null<Right><RShft>{
+2019-01-18 13:24:40+0530 > <LCtrl>c
+2019-01-18 13:24:44+0530 > f<LCtrl><LCtrl>c
+2019-01-18 13:29:01+0530 > <LCtrl>fsav
+2019-01-18 13:29:14+0530 > ep
+2019-01-18 13:29:18+0530 > 
+2019-01-18 13:29:18+0530 > 
+2019-01-18 13:29:18+0530 > 
+2019-01-18 13:29:18+0530 > <BckSp>
+2019-01-18 13:29:19+0530 > <LCtrl><LCtrl>v<LCtrl>c
+2019-01-18 13:29:27+0530 > s<LCtrl><LShft>T<LCtrl>fsaves
+2019-01-18 13:29:51+0530 > 
+2019-01-18 13:29:52+0530 > 
+2019-01-18 13:29:53+0530 > <LCtrl>v<LCtrl><LCtrl><LShft>F<LCtrl>s<LCtrl>c
+2019-01-18 13:30:06+0530 > <LCtrl><LShft>Tu<LCtrl>f<BckSp><BckSp><BckSp><BckSp><BckSp><LShft>SPEED
+2019-01-18 13:30:30+0530 > 
+2019-01-18 13:30:30+0530 > 
+2019-01-18 13:30:32+0530 > <LCtrl><LCtrl>vson<LShft>Re
+2019-01-18 13:31:05+0530 > 
+2019-01-18 13:31:09+0530 > sav<LCtrl> e<LShft>S<LCtrl> <BckSp><BckSp><BckSp><BckSp><BckSp><LCtrl><LCtrl>x<LCtrl>d
+2019-01-18 13:31:48+0530 > 
+2019-01-18 13:31:50+0530 > 
+2019-01-18 13:31:50+0530 > <LCtrl>v<LCtrl>ssav<LCtrl> 
+2019-01-18 13:32:00+0530 > 0<Right>;<LCtrl>c
+2019-01-18 13:32:09+0530 > <LCtrl>x<LCtrl>s<LCtrl>d
+2019-01-18 13:32:24+0530 > 
+2019-01-18 13:32:25+0530 > <LCtrl>v<LCtrl><LShft>F<LCtrl>d
+2019-01-18 13:32:31+0530 > zs<LCtrl>fon<LShft>R
+2019-01-18 13:32:38+0530 > es
+2019-01-18 13:32:41+0530 > <Tab>sav<LCtrl> 
+2019-01-18 13:32:47+0530 > 0<Right>;<LCtrl>s<LCtrl>x
+2019-01-18 13:33:00+0530 > <LCtrl>vs
+2019-01-18 13:33:03+0530 > <LCtrl>s<LCtrl>fon<LCtrl>r<LShft>R
+2019-01-18 13:33:07+0530 > <Tab>sav<LCtrl> 
+2019-01-18 13:33:14+0530 > 0<Right>;<LCtrl>s<LCtrl>
+2019-01-18 13:33:43+0530 > <LShft>Log.d<Down>
+2019-01-18 13:33:48+0530 > <Down>
+2019-01-18 13:33:49+0530 > <RShft>""<Left>save speed progress <Right> <RShft>+ sp<LCtrl> 
+2019-01-18 13:34:00+0530 > <Right>;<LCtrl>s<#+1>s./an<Tab>
+2019-01-18 13:34:25+0530 > <LCtrl>c
+2019-01-18 13:48:56+0530 > c
+2019-01-18 13:48:56+0530 > c
+2019-01-18 13:48:56+0530 > <LCtrl>fspeed
+2019-01-18 14:02:04+0530 > <#+1>
+2019-01-18 14:02:05+0530 > 
+2019-01-18 14:02:06+0530 > <LCtrl>d
+2019-01-18 14:02:12+0530 > s<LCtrl>d
+2019-01-18 14:02:44+0530 > s<LCtrl>d
+2019-01-18 14:03:05+0530 > s<LCtrl>d
+2019-01-18 14:03:17+0530 > s<LCtrl><LCtrl>d
+2019-01-18 14:03:38+0530 > s<LCtrl>s<LCtrl><LCtrl>sca<BckSp><BckSp><BckSp><BckSp><LCtrl><LCtrl>rvi <Right>
+2019-01-18 14:05:53+0530 > <Down><#+29><Up>i<Right><#+32><Right><Right><BckSp>4<Right><Right><Right><BckSp>8`<BckSp><Esc><LShft>:wq
+2019-01-18 14:06:11+0530 > 
+2019-01-18 14:06:12+0530 > 
+2019-01-18 14:06:12+0530 > 
+2019-01-18 14:06:12+0530 > cd pac<Tab>ap<Tab><LShft>N<Tab>a<Tab>
+2019-01-18 14:06:19+0530 > git <BckSp> status
+2019-01-18 14:06:23+0530 > gitk'
+2019-01-18 14:06:31+0530 > <LCtrl>c
+2019-01-18 14:06:32+0530 > <Up><BckSp>
+2019-01-18 14:06:33+0530 > git commit -am <RShft>"<LShft>Ca<BckSp><LShft>AN value persistence acroo<BckSp>ss screens<RShft>"
+2019-01-18 14:07:53+0530 > gti <BckSp><BckSp><BckSp>it pull bb mas<Tab>
+2019-01-18 14:08:02+0530 > git push<Tab>bb mas<Tab>
+2019-01-18 14:08:11+0530 > cds<BckSp> -
+2019-01-18 14:08:21+0530 > <Up>
+2019-01-18 14:08:22+0530 > cd ../<LShft>OB<Tab>
+2019-01-18 14:08:27+0530 > <Up><Up><Up><BckSp><#+21> status
+2019-01-18 14:08:33+0530 > git chec<Tab>
+2019-01-18 14:08:41+0530 > <Up><Up>
+2019-01-18 14:08:42+0530 > gitk
+2019-01-18 14:08:44+0530 > git chec<Tab>
+2019-01-18 14:09:12+0530 > cd -
+2019-01-18 14:09:14+0530 > cd ../../..
+2019-01-18 14:09:18+0530 > ./an<Tab>
+2019-01-18 14:09:21+0530 > cd <BckSp><BckSp><BckSp><BckSp>vi vy<BckSp><BckSp>dev<Tab>i<Tab><#+1>fs<Tab>/t<Tab>bu<Tab>
+2019-01-18 14:37:29+0530 > <Down><#+12><Esc><RShft>:q<RShft>!
+2019-01-18 14:37:42+0530 > <LCtrl>c
+2019-01-18 14:49:56+0530 > c
+2019-01-18 14:49:56+0530 > c
+2019-01-18 14:49:56+0530 > c
+2019-01-18 14:49:56+0530 > c
+2019-01-18 14:49:56+0530 > c
+2019-01-18 14:49:56+0530 > 
+
+Logging stopped at 2019-01-20 11:41:20+0530
+

@@ -1,0 +1,38 @@
+Logging started ...
+
+2019-01-07 18:39:01+0530 > <LCtrl>v<BckSp><BckSp><LCtrl>s<#+1><LShft>Test<LShft>Devic3e<BckSp><BckSp>e`<Esc><#+2><Esc>
+2019-01-07 18:53:59+0530 > mu<LCtrl> 
+2019-01-07 18:54:03+0530 > .en<LCtrl>d
+2019-01-07 18:54:20+0530 > s<#+1><Up>
+2019-01-07 18:55:03+0530 > <LCtrl>v
+2019-01-07 18:55:05+0530 > hi<LCtrl> 
+2019-01-07 18:55:15+0530 > .ad<LCtrl> 
+2019-01-07 18:55:19+0530 > <LCtrl>v<LCtrl>ssadd<LCtrl>,<LShft>Hash<LCtrl> <Down>
+2019-01-07 18:58:00+0530 > <LCtrl>c
+2019-01-07 18:58:03+0530 > <LCtrl>v<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp> puthi<LCtrl> <LCtrl>v<LCtrl>s<BckSp><BckSp><BckSp><LShft>Q<LCtrl>sscd packa<Tab>ap<Tab><LShft>Nav<Tab>
+2019-01-07 19:00:50+0530 > git branch
+2019-01-07 19:00:53+0530 > git c<BckSp>status
+2019-01-07 19:00:59+0530 > git commit -am <RShft>""<Left><LShft>Recent call changes
+2019-01-07 19:01:14+0530 > git pushh <BckSp><BckSp> bb nav<Tab>
+2019-01-07 19:01:25+0530 > <LCtrl><LShft>T<LShft>Mqtt<LShft>Subscribe<LShft>
+2019-01-08 11:20:56+0530 > <LShft>Digest<LCtrl> <LShft>U<BckSp><LCtrl> <LShft>Uti<LCtrl> <#+1><LCtrl>d
+2019-01-08 11:21:22+0530 > <LCtrl>s
+2019-01-08 11:22:52+0530 > en<BckSp><BckSp>conev<BckSp><BckSp><BckSp><BckSp><BckSp>encrypted<LShft>SHA<BckSp><BckSp><BckSp>t<BckSp><LShft>To<LShft>Sha`<BckSp>1<RShft>(<Right>;<Left><Left>serial number<BckSp><Right><BckSp><LShft>N<LCtrl>c
+2019-01-08 11:23:47+0530 > <LCtrl>v<LCtrl>v<LCtrl><LCtrl><LShft>String sha1=<LShft>String<LCtrl>s<LCtrl>v<LCtrl>c
+2019-01-08 11:25:21+0530 > <LCtrl>v<LCtrl>sss
+2019-01-08 11:25:46+0530 > log.d<Down>
+2019-01-08 11:25:52+0530 > <LShft>TAGser<LCtrl> 
+2019-01-08 11:26:04+0530 > <RShft>+<RShft>"<Right><Left><LShft>Sha 1<Right><RShft>+sha<LCtrl> 
+2019-01-08 11:26:24+0530 > <Right>;<LCtrl>s<LCtrl><Left>=<RShft>"<LShft>Main<LShft>Activity<LCtrl>s<LShft><LCtrl>T<LShft>Sttgit branch
+2019-01-08 11:29:22+0530 > <BckSp>rin<BckSp><BckSp><BckSp><BckSp>etting<LShft>Fr
+2019-01-08 11:29:40+0530 > 
+2019-01-08 11:30:01+0530 > bollean <BckSp><#+14><BckSp>id<BckSp>s<LShft>Updated<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LShft>Activation<LShft>Succesful=tri<BckSp>ue;<BckSp>=true<LCtrl>s
+2019-01-08 11:31:03+0530 > 
+2019-01-08 11:31:03+0530 > 
+2019-01-08 11:31:03+0530 > <Up>if<RShft>(is<LCtrl> 
+2019-01-08 11:31:25+0530 > <Right><RShft>{}<Left>
+2019-01-08 11:31:28+0530 > list.add<RShft>(<RShft>"<LShft>Activation<Right><Right>;else<RShft>{}<Left>
+2019-01-08 11:32:19+0530 > <LCtrl>x<LCtrl>v<LCtrl>s<LCtrl><LShft>F<LCtrl>s<LCtrl><LShft>FFF
+
+Logging stopped at 2019-01-08 15:02:46+0530
+
