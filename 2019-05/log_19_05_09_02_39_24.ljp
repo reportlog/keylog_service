@@ -1,0 +1,227 @@
+Logging started ...
+
+2019-05-09 14:39:24+0530 > mmeerasahibm<RShft>@zumisolutions.com<CpsLk><CpsLk><CpsLk>M<CpsLk>eera<RShft>_12<RShft>@<RShft>#sudo fdisk -l
+2019-05-09 15:38:27+0530 > zs10062013
+2019-05-09 15:38:33+0530 > sudo fdisk /dev/sdb
+2019-05-09 15:39:31+0530 > p
+2019-05-09 15:39:34+0530 > d
+2019-05-09 15:39:48+0530 > d<BckSp>
+2019-05-09 15:40:01+0530 > 1
+2019-05-09 15:40:07+0530 > 
+2019-05-09 15:40:08+0530 > 
+2019-05-09 15:40:09+0530 > d
+2019-05-09 15:40:10+0530 > d
+2019-05-09 15:40:12+0530 > d
+2019-05-09 15:40:19+0530 > p
+2019-05-09 15:40:26+0530 > n
+2019-05-09 15:40:29+0530 > p
+2019-05-09 15:40:32+0530 > 1
+2019-05-09 15:40:35+0530 > 
+2019-05-09 15:40:38+0530 > <RShft>+30<RShft>M
+2019-05-09 15:40:45+0530 > n
+2019-05-09 15:40:47+0530 > p
+2019-05-09 15:40:52+0530 > 2
+2019-05-09 15:40:55+0530 > 
+2019-05-09 15:40:57+0530 > 
+2019-05-09 15:41:00+0530 > w
+2019-05-09 15:41:02+0530 > sudo mkfs.vfat /dev/sdb1
+2019-05-09 15:41:32+0530 > sudo mkfs.ext4 /dev/sdb2
+2019-05-09 15:42:25+0530 > <Up><Left><#+14><Left><BckSp><#+11><BckSp><BckSp><BckSp><BckSp>umount 
+2019-05-09 15:42:52+0530 > <Up><Up>
+2019-05-09 15:42:55+0530 > <Left><#+13><Left><#+24><Left><Right><BckSp><#+8><BckSp><#+12><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>.<End>
+2019-05-09 15:44:00+0530 > <BckSp><#+16><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><Del><Del><Left><#+27>sus<BckSp>do <Right><#+9>/home/sumi<BckSp><BckSp><BckSp><BckSp>zumi/<CpsLk>D<CpsLk>esktop/<CpsLk>SABRESD <BckSp>/<End>CD<BckSp><#+13><CpsLk>cd media
+2019-05-09 15:48:02+0530 > ls
+2019-05-09 15:48:55+0530 > cd media
+2019-05-09 15:50:05+0530 > cd zumi
+2019-05-09 15:50:11+0530 > <CpsLk>5BFA-F11B
+2019-05-09 15:50:52+0530 > <Up><Left><#+19><Left><Left><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>IMX6Q-<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><CpsLk>imx6q-sabresd.dtb <End>
+2019-05-09 15:51:59+0530 > <Up><Left><#+41><Left><#+12><Left><#+1><Left><#+15><Left><Left><Left><Left><BckSp><BckSp>tar roo<BckSp><#+20><End><BckSp><#+66>sudo tar -<CpsLk>X<CpsLk>f rootfs.tar.gz -<CpsLk>C /<CpsLk>media/zumi/<Up><Left><Left><Left><Left><Left><Left><Left><Left><Left>zumi/<End>
+2019-05-09 15:56:33+0530 > <Del><Up>
+2019-05-09 15:56:47+0530 > <Up><Up><Up><Up><Up><Down><Down><Down><Up><Up><Up><Down><Down><Down><Up><Down><Up><Up><Down><Left><#+21><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>imx6q-sabresd.dtb <Right><#+12><Right>zumi/<End>
+2019-05-09 15:57:31+0530 > <Up><Up><Up>2cf9c924-fbdf-429a-a2b7-f7-ca84bd929
+2019-05-09 15:58:48+0530 > <Up><Left><#+15><Left><#+11><Right><#+13><Right><Left><BckSp>0<End>
+2019-05-09 15:59:34+0530 > <Up>
+2019-05-09 15:59:38+0530 > <Up><Up><Up><Down><Left><#+42><Left><Left><Left><Left><Left><Left><Left><#+22><BckSp>x<End>
+2019-05-09 16:00:26+0530 > <Up>
+2019-05-09 16:00:34+0530 > <Up><Left><#+34><Left><#+17><Left><Left><Left><Left><Left><Left><BckSp><End>
+2019-05-09 16:01:13+0530 > <Up><Up><Up><Left><#+3><Left><#+62><Left><BckSp>x
+2019-05-09 16:01:55+0530 > cd /media
+2019-05-09 16:03:07+0530 > ls
+2019-05-09 16:03:09+0530 > rm -<CpsLk>5BFA-F11B
+2019-05-09 16:03:43+0530 > RM<BckSp><#+18><CpsLk>rm --help
+2019-05-09 16:03:53+0530 > <Up><Up><Left><#+16><Right>- <BckSp><Right> <End>
+2019-05-09 16:04:15+0530 > y
+2019-05-09 16:04:31+0530 > <Up><Home>sudo 
+2019-05-09 16:04:36+0530 > <LAlt><Tab><LAlt><Tab><Esc><LAlt><Tab>
+2019-05-09 16:37:13+0530 > 
+2019-05-09 16:37:13+0530 > 
+2019-05-09 16:37:13+0530 > 
+2019-05-09 16:37:13+0530 > 
+2019-05-09 16:37:14+0530 > 
+2019-05-09 16:37:14+0530 > 
+2019-05-09 16:37:14+0530 > 
+2019-05-09 16:37:15+0530 > 
+2019-05-09 16:37:15+0530 > ls
+2019-05-09 16:37:16+0530 > cd tm<Tab><Tab><Tab>wo<Tab><Tab><Tab>/<Tab><Tab><LAlt><Tab><LShft><Ins><Tab><Tab>u<Tab>-<Tab>
+2019-05-09 16:37:51+0530 > ls
+2019-05-09 16:37:52+0530 > 
+2019-05-09 16:37:52+0530 > 
+2019-05-09 16:37:52+0530 > 
+2019-05-09 16:37:52+0530 > 
+2019-05-09 16:37:53+0530 > cd 2<Tab><Tab><Tab>i<BckSp><Tab>
+2019-05-09 16:38:03+0530 > ls
+2019-05-09 16:38:03+0530 > 
+2019-05-09 16:38:04+0530 > 
+2019-05-09 16:38:04+0530 > 
+2019-05-09 16:38:04+0530 > cd gi<Tab>
+2019-05-09 16:38:07+0530 > ls
+2019-05-09 16:38:08+0530 > cd dr<Tab><Tab>n<Tab><BckSp><BckSp><BckSp><BckSp>mn<Tab><Tab><BckSp><Tab><Tab>t<Tab><Tab>
+2019-05-09 16:38:20+0530 > ls
+2019-05-09 16:38:20+0530 > grep <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>cd na<Tab>
+2019-05-09 16:38:27+0530 > ls
+2019-05-09 16:38:28+0530 > grep <RShft>"vinoth<RShft>" (<BckSp><RShft>* -r
+2019-05-09 16:38:36+0530 > <Up><Left><#+14><Left><Left><BckSp>
+2019-05-09 16:38:40+0530 > <LCtrl>fnan<Esc><LAlt><Tab><LCtrl>fnand<Esc><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><Tab>cd <LShft><Ins><LShft><Ins>
+2019-05-09 16:42:55+0530 > <Up><Home><Right><Right><Right>/
+2019-05-09 16:42:59+0530 > cd p<Tab><Tab><BckSp><Tab><Tab><RShft>P<Tab>
+2019-05-09 16:43:04+0530 > grep <RShft>"nand<RShft>" * -r
+2019-05-09 16:43:08+0530 > <Up><Left><Left><Left><Left><Left><Left><BckSp><BckSp><BckSp><BckSp><RShft>Nand
+2019-05-09 16:43:13+0530 > <Up><Left><Left><#+9><Left><#+1><Left><BckSp><BckSp><BckSp><BckSp>mtd
+2019-05-09 16:43:17+0530 > <Up><Left><#+9><Left><Left><BckSp><BckSp><BckSp><RShft>NAND
+2019-05-09 16:43:23+0530 > <Up><Left><#+10><Left><BckSp><BckSp><BckSp><BckSp><RShft>Samsung
+2019-05-09 16:43:27+0530 > <LAlt><Tab><LAlt><Tab>cd c<#+1>d <BckSp><BckSp><BckSp><BckSp><LShft> <LShft><Ins>
+2019-05-09 16:43:46+0530 > cd 20<Tab><Tab>dr<Tab><Tab><BckSp><BckSp><Tab><Tab>
+2019-05-09 16:43:56+0530 > ls
+2019-05-09 16:43:58+0530 > cd d<BckSp>git<Tab><Tab><Tab>
+2019-05-09 16:44:10+0530 > ls
+2019-05-09 16:44:10+0530 > cd dr<Tab>
+2019-05-09 16:44:12+0530 > ls
+2019-05-09 16:44:12+0530 > cd mt<Tab>na<Tab>
+2019-05-09 16:44:15+0530 > s
+2019-05-09 16:44:16+0530 > ls
+2019-05-09 16:44:17+0530 > grep <RShft>"Aa<BckSp><BckSp><RShft>Samsung<RShft>" * -r
+2019-05-09 16:44:25+0530 > viim <BckSp><BckSp><BckSp>m nan<Tab><RShft>_i<Tab>
+2019-05-09 16:44:39+0530 > <PgDn><PgDn><PgDn><PgDn>zaid<RShft>@zumisolutions.com<Tab><RShft>Z<RShft><RShft>@b6s5l9a4s7<RShft>NAND
+2019-05-09 16:45:35+0530 > <LCtrl>fnand<Down><Down><Down><Down><Down><LAlt><Tab><LCtrl><LCtrl><LCtrl>mt29<RShft>F8<RShft>G<BckSp><RShft>G08<RShft>ABABAWPT<LShft><Home><LCtrl>c
+2019-05-09 16:49:01+0530 > <LCtrl>v
+2019-05-09 16:49:06+0530 > <LCtrl><LAlt><Tab><LAlt><Tab><LAlt><Tab><BckSp><LShft><Home><LCtrl>c
+2019-05-09 16:49:47+0530 > <LAlt><BckSp><Down><Down>
+2019-05-09 16:49:54+0530 > <LCtrl><LAlt><Tab><LAlt><Tab><LAlt><Tab><Tab><LAlt><Tab><LCtrl><LCtrl><LCtrl><LCtrl><LAlt><Tab><Up><#+14><Up><#+26><Up><#+17><Up><#+24><Up><#+3><PgUp><PgUp><Down><#+6><Down><#+6><Down><Down><#+1><Down><#+11><Down><#+14><Down><#+20><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><LAlt><Tab>
+2019-05-09 16:56:38+0530 > <LCtrl><LAlt><Tab><LAlt><Tab><LAlt><Tab><Tab><RShft>:q
+2019-05-09 16:57:41+0530 > 
+2019-05-09 16:57:41+0530 > 
+2019-05-09 16:57:41+0530 > grep <LShft><Ins> <RShft>* -r
+2019-05-09 16:57:44+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LCtrl>v
+2019-05-09 16:58:13+0530 > <LCtrl><LCtrl>fv<LAlt><Tab>vim <LShft><Ins><BckSp>
+2019-05-09 16:58:55+0530 > /<LShft><Ins>
+2019-05-09 16:58:56+0530 > nn<LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab>nn<Down><Down><Down><Down><Down><Down>n<Up><#+74><Down><#+25><Down><#+17><Down><#+33><Down><#+17><Down><#+9><Down><#+26><Down><Down><Up><#+14><Up><Up><Up><Up><Up><Up><Up><Up><#+1><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Up><#+17><Down><Down><Down><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LCtrl>v
+2019-05-09 17:01:47+0530 > <LCtrl><LCtrl>fv
+2019-05-09 17:01:56+0530 > <Down><Down><Down><Down><Down><Down><Down><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><LAlt><Tab><Up><#+21><Down><#+51><Down><#+17><Down><#+14><Up><#+17><Up><Up><LAlt><Tab><Down><Down><Down><Down><Down><Down><Up><Up><Up><Up><Down><Down><Down><Down><LCtrl>c
+2019-05-09 17:05:28+0530 > <LAlt><Tab>/<LShft><LShft><Ins>
+2019-05-09 17:05:31+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><Down><Down><Down><Down><LAlt><Tab><Up><Down><Down><Home>i/<RShft>*<Home><Tab><Right><Right><Del><End><RShft>8/<BckSp><BckSp><RShft>*/<Left><Left><RShft>Zumi - <RShft>Z<Right><Right>
+2019-05-09 17:06:16+0530 > <LShft><Ins><Home><Tab><LAlt><Tab><LCtrl>c
+2019-05-09 17:06:29+0530 > <LAlt><Tab><Esc><#+1>/<LShft><Ins>
+2019-05-09 17:06:33+0530 > <LAlt><Tab><LCtrl>c
+2019-05-09 17:06:39+0530 > <LAlt><Tab><End>i<End>
+2019-05-09 17:06:45+0530 > <LShft><Ins><Home><Up>/<RShft>*<End> <RShft>Zumi - <RShft>Z<RShft> */<Esc><RShft>:w<RShft>!
+2019-05-09 17:06:57+0530 > <LAlt><Tab><Down><Down><Down><Down><Down><Down><LAlt><Tab><LAlt><Tab><Down><Down><LAlt><Tab><Down><#+36><LAlt><Tab><LCtrl>c
+2019-05-09 17:07:21+0530 > <LAlt><Tab><Up><Up><Up><Up><Up><Up><Up><Up><Up>i<End>
+2019-05-09 17:07:26+0530 > <LShft><Ins><Home><Tab><Up>/<RShft>*<End> <RShft>Zumi -z<BckSp> <RShft>Z<RShft>*.<BckSp><BckSp> <RShft>*/<Esc><RShft>:w<RShft>!
+2019-05-09 17:07:40+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><Down><Down><LAlt><Tab><Down><#+19><Down><Down><Down><#+18><Down><#+4><LAlt><Tab><LCtrl>c
+2019-05-09 17:08:06+0530 > <LAlt><Tab><Up><Up><Up><Up><Up>i<Right><RShft> Zumi - <RShft>Z <RShft>*/<Home><Right>/<RShft>*<End>
+2019-05-09 17:08:19+0530 > <LShft><Ins><Home><Tab><Esc><#+1><RShft>:w<RShft>!
+2019-05-09 17:08:23+0530 > <LAlt><Tab><Down><Down><Down><LAlt><Tab><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><LAlt><Tab><LAlt><Tab><Down><Down><Down><Down><Down><Up><#+12><Up><#+10><Up><LAlt><Tab><LAlt><Tab><Up><Up><Down><LAlt><Tab><LCtrl>c
+2019-05-09 17:09:00+0530 > <LAlt><Tab>/<LShft><Ins>
+2019-05-09 17:09:04+0530 > <Down><#+30><LAlt><Tab><LAlt><Tab><Down><#+25><Up><#+17><LAlt><Tab><LAlt><Tab><Up><Up><Up><Up><Up><Left><Left>i/<RShft>*<Down><End> <RShft>Zy<BckSp>umi -<RShft>Z <BckSp><BckSp> <RShft>Z <RShft>*/<LAlt><Tab><LAlt><Tab><Up><Down><Home>/<RShft>*<Up><Left><Left><Del><Del><LAlt><Tab><LAlt><Tab><Esc><Down><#+25><Down><#+6><Down><LAlt><Tab><LAlt><Tab><Down><Down><Down><#+10><Down><#+13><Down><#+10><Down><#+25><Down><Down><LAlt><Tab><LCtrl>c
+2019-05-09 17:10:27+0530 > <LAlt><Tab>/<LShft><Ins>
+2019-05-09 17:10:31+0530 > n<Down><#+44><Down><#+7><Down><#+12><LAlt><Tab><LCtrl>c
+2019-05-09 17:10:45+0530 > <LAlt><Tab>/<LShft><Ins>
+2019-05-09 17:10:47+0530 > <LAlt><Tab><LAlt><Tab><End><Left><Up><Down><Esc><#+1>yyp<Up>i/<RShft>(<BckSp><RShft>*<End> <RShft>Zumi - <RShft>Z<RShft> */<Down><Left><LAlt><Tab><LCtrl>c
+2019-05-09 17:11:16+0530 > <LAlt><Tab><Left><LShft><Ins><Del><Del>
+2019-05-09 17:11:23+0530 > <Esc><RShft>:w<RShft>!
+2019-05-09 17:11:28+0530 > <LAlt><Tab><LAlt><Tab><PgUp><PgUp><PgUp><PgUp><Up><#+12><Up><Up>i<Right><RShft>*/<Left><Left> - <RShft>Vinoth <RShft>Patch<Down><Down><Down><Down><Down><Left><Left>/<RShft>* <Up><Up><Up><Up><Up><Esc>yy<Down><Down><Down><Down><Down><Left><Left>p<Up>dd<Up><Down><Right><Right><Right>i<RShft>End <Esc><#+1><RShft>:w<RShft>!
+2019-05-09 17:12:35+0530 > <RShft>:wq<RShft>!
+2019-05-09 17:12:41+0530 > 
+2019-05-09 17:12:41+0530 > 
+2019-05-09 17:12:41+0530 > 
+2019-05-09 17:12:41+0530 > 
+2019-05-09 17:12:41+0530 > <LAlt><Tab><Tab><Esc><LAlt><Tab><Tab>cd ../../../../../../..
+2019-05-09 17:13:29+0530 > 
+2019-05-09 17:13:29+0530 > 
+2019-05-09 17:13:29+0530 > 
+2019-05-09 17:13:30+0530 > cd ../../
+2019-05-09 17:13:31+0530 > cd buil<Tab><Tab><BckSp><Tab><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LAlt><Tab><LAlt><Tab>
+2019-05-09 17:13:39+0530 > 
+2019-05-09 17:13:39+0530 > 
+2019-05-09 17:13:39+0530 > <Up><Up><Up><LCtrl>c
+2019-05-09 17:14:01+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><Tab><LCtrl>c
+2019-05-09 17:14:06+0530 > 
+2019-05-09 17:14:09+0530 > 
+2019-05-09 17:14:09+0530 > 
+2019-05-09 17:14:09+0530 > <LShft><Ins><LAlt><Tab><LAlt><Tab><LAlt><Tab><LCtrl>c
+2019-05-09 17:14:25+0530 > <LAlt><Tab><LCtrl>c
+2019-05-09 17:14:27+0530 > <LShft>. .<LAlt><Tab><LAlt><Tab>/f<Tab>s<Tab><Tab><BckSp><#+18>cd ..
+2019-05-09 17:14:36+0530 > 
+2019-05-09 17:14:37+0530 > 
+2019-05-09 17:14:37+0530 > 
+2019-05-09 17:14:37+0530 > ./<BckSp><BckSp>. ./f<Tab><LAlt><Tab><LAlt><Tab>-m <LAlt><Tab><LCtrl>c
+2019-05-09 17:14:50+0530 > <LAlt><Tab><LShft><Ins>
+2019-05-09 17:14:52+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LCtrl>c
+2019-05-09 17:15:17+0530 > <LAlt><Tab><LShft><Ins>
+2019-05-09 17:15:25+0530 > <LAlt><Tab><Down><Down><Up><LShft><Home><LShft><Right><Right><LCtrl>c
+2019-05-09 17:15:38+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LShft><Ins>
+2019-05-09 17:16:00+0530 > <LAlt><Tab><RShft>V<BckSp><RShft>Build
+2019-05-09 17:17:01+0530 > <RShft>Binary<BckSp>ies
+2019-05-09 17:17:12+0530 > cd <LAlt><Tab><LAlt><Tab><Tab>meerasahibm<RShft>@zumisolutions.com<RShft>Meera<RShft>_12<RShft>@<RShft>#
+2019-05-09 17:18:13+0530 > <LAlt><Tab><LAlt><Tab><LCtrl>c
+2019-05-09 17:18:54+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><Tab><Tab><LAlt><Tab><LAlt><Tab><Tab><Tab><LShft><Ins>
+2019-05-09 17:19:02+0530 > cd t<Tab>w<Tab>/tr<Tab><BckSp>4<Tab>u<Tab>-<Tab>bo<Tab><Tab><BckSp><BckSp><Tab><Tab><Tab>de<Tab>u<Tab>
+2019-05-09 17:19:21+0530 > ls
+2019-05-09 17:19:22+0530 > ls -l
+2019-05-09 17:19:25+0530 > date
+2019-05-09 17:19:26+0530 > <LShft>Z@b6s5l9a4s7logi
+2019-05-09 17:22:30+0530 > qwqve<BckSp><BckSp><BckSp>qve<BckSp><BckSp><BckSp>aveinc
+2019-05-09 17:25:39+0530 > <RShft>Hi <RShft>Can<BckSp><BckSp><BckSp><BckSp>,
+2019-05-09 17:25:51+0530 > 
+2019-05-09 17:25:51+0530 > <RShft>Can yo uple<BckSp><BckSp><BckSp><BckSp><BckSp>u pl<BckSp><BckSp>load the <BckSp><BckSp>e attached u-boot and send me the boot log. <RShft>If you know the<BckSp><#+18><BckSp>
+2019-05-09 17:26:27+0530 > 
+2019-05-09 17:26:27+0530 > 
+2019-05-09 17:26:28+0530 > 
+2019-05-09 17:26:28+0530 > <Up><Up><Up><Up><End>
+2019-05-09 17:26:36+0530 > 
+2019-05-09 17:26:36+0530 > <RShft><RShft>I need the <RShft>Team <BckSp>viewer see<BckSp>ssion tomorrow at 12<RShft> PM. <RShft>Please let me know your availability.
+2019-05-09 17:27:03+0530 > 
+2019-05-09 17:27:03+0530 > <RShft>Regares, <BckSp><BckSp><BckSp><BckSp>ds, <RShft>Zaid<LAlt><Tab>pwd
+2019-05-09 17:27:15+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab> pleaa<BckSp>semeeg
+2019-05-09 17:32:20+0530 > vim sudo vim testm.c
+2019-05-09 17:41:12+0530 > zs10062013
+2019-05-09 17:41:17+0530 > madddaaaffff<BckSp><BckSp><BckSp><BckSp><BckSp>main<RShft>(<RShft>)
+2019-05-09 17:41:58+0530 > <RShft>{
+2019-05-09 17:42:00+0530 > 
+2019-05-09 17:42:01+0530 > <RShft>}<Up><Up>
+2019-05-09 17:42:04+0530 > 
+2019-05-09 17:42:04+0530 > printf<RShft>(<RShft>"tet<BckSp>st<RShft>"<RShft>);a<BckSp>;<BckSp><RShft><RShft>:<BckSp><CpsLk>A<BckSp>A<BckSp><Esc>W;;<Esc><RShft>:WQ<BckSp><BckSp><CpsLk>wq
+2019-05-09 17:43:44+0530 > gcc - test.<BckSp>m.o
+2019-05-09 17:44:12+0530 > <Up>g
+2019-05-09 17:44:22+0530 > ubantu c co<BckSp><#+23>how to com<Down><BckSp><#+10><BckSp><BckSp><BckSp><BckSp><BckSp>pile c im<BckSp>n uv<BckSp>bantu
+2019-05-09 17:45:10+0530 > <BckSp><#+10><BckSp><BckSp><BckSp><BckSp>o testm testm.c
+2019-05-09 17:46:27+0530 > <Up><Up><Up>
+2019-05-09 17:46:38+0530 > <Down><Down><Down><Right><Right><Right><Right><Right><Right><BckSp>a<Left><BckSp><Right><BckSp>t<Esc><RShft>:wq
+2019-05-09 17:47:13+0530 > <Up><Up>
+2019-05-09 17:47:15+0530 > <Up><Up>
+2019-05-09 17:47:32+0530 > <Up>
+2019-05-09 17:47:33+0530 > 
+2019-05-09 17:47:33+0530 > a<Up><Up>
+2019-05-09 17:47:36+0530 > 
+2019-05-09 17:47:36+0530 > <Up><RShft>V<BckSp><RShft>V<BckSp><Down><Down><Down><Right><Down><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><Right>f<RShft>:<Esc><Right><BckSp><Right>a<Left><BckSp><Esc><RShft>:wq
+2019-05-09 17:48:11+0530 > <Up><Up>
+2019-05-09 17:48:12+0530 > ./testm
+2019-05-09 17:48:20+0530 > <Up>
+2019-05-09 17:48:31+0530 > <Up><Up><Up>
+2019-05-09 17:49:05+0530 > <Down><Down><Down><Down><Down><Right><#+15><Right><Right>\<CpsLk><CpsLk>a\<BckSp><Left>\n<Esc><RShft>:wq
+2019-05-09 17:49:40+0530 > <Up><Up><Up>
+2019-05-09 17:49:44+0530 > <Up><Up><Up>
+2019-05-09 17:49:52+0530 > 
+
+Logging stopped at 2019-05-10 08:36:58+0530
+
