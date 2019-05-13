@@ -1,0 +1,60 @@
+Logging started ...
+
+2019-05-11 17:19:04+0530 > l
+2019-05-11 17:19:23+0530 > <LAlt><Tab><Tab><LAlt><Tab>cd tool<Tab>ch<Tab>
+2019-05-11 17:19:37+0530 > l
+2019-05-11 17:19:38+0530 > find -name .git
+2019-05-11 17:19:45+0530 > cd cd bi<Tab><BckSp><#+13><BckSp><BckSp><BckSp>bin<Tab>
+2019-05-11 17:19:57+0530 > l
+2019-05-11 17:19:59+0530 > cd bi<Tab>
+2019-05-11 17:20:06+0530 > l
+2019-05-11 17:20:06+0530 > grep -rns license
+2019-05-11 17:20:24+0530 > <LCtrl>c
+2019-05-11 17:20:25+0530 > cd ../..
+2019-05-11 17:20:44+0530 > <Up><Up><Up><Up><Down><Down><Up><Up><Up><Up><Up>
+2019-05-11 17:20:51+0530 > <LCtrl><LShft>c
+2019-05-11 17:21:05+0530 > <LAlt><Tab><LAlt><Tab>cd <LAlt><Tab>toolchain/<LCtrl>v<BckSp><BckSp><BckSp><BckSp><BckSp><LCtrl>c
+2019-05-11 17:21:41+0530 > <LCtrl>v<LAlt><Tab><BckSp><BckSp><BckSp>cd ..
+2019-05-11 17:21:56+0530 > l
+2019-05-11 17:21:58+0530 > cd too<Tab>
+2019-05-11 17:22:05+0530 > <Up><Tab>s<Tab>
+2019-05-11 17:22:08+0530 > l<Up><Up><Up><Up><Up>
+2019-05-11 17:22:11+0530 > cd ext<Tab>f<Tab>
+2019-05-11 17:23:41+0530 > l
+2019-05-11 17:23:42+0530 > vi <RShft>S<Tab><BckSp><RShft>A<Tab>
+2019-05-11 17:23:47+0530 > <Esc><RShft>:qw<BckSp>
+2019-05-11 17:23:50+0530 > <LCtrl><LShft>c
+2019-05-11 17:24:09+0530 > <LAlt><Tab><LCtrl>v<LShft><Down><LCtrl>c
+2019-05-11 17:24:22+0530 > <Down><Down><Down><Down><Down><Down><LCtrl>v<Down><Down><Down><Left><Left><LAlt><Tab>cd ../gr<Tab>
+2019-05-11 17:24:37+0530 > ;
+2019-05-11 17:24:38+0530 > l
+2019-05-11 17:24:39+0530 >  cdf<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>cd <RShft>B<Tab><Tab><BckSp><BckSp><BckSp><BckSp><BckSp>vi <RShft>M<Tab><Tab><Tab>
+2019-05-11 17:24:51+0530 > <Esc><RShft>:q
+2019-05-11 17:24:53+0530 > <LCtrl><LShft>c
+2019-05-11 17:25:09+0530 > <LAlt><Tab><LCtrl>v<LShft><Down><LCtrl>c
+2019-05-11 17:25:19+0530 > <Down><Down><Down><LCtrl>v<Down><Down><Down><Left><#+2><Left><Left><LAlt><Tab>cd ../../con<Tab><Tab>n<Tab><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><Tab><Tab>..<Tab><Tab><Tab>t<Tab>con<Tab>
+2019-05-11 17:25:58+0530 > l
+2019-05-11 17:26:00+0530 > vi <RShft>AN<Tab><BckSp><Tab>
+2019-05-11 17:26:04+0530 > <Esc><RShft>:q
+2019-05-11 17:26:06+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LCtrl><LShft>c
+2019-05-11 17:26:29+0530 > <LAlt><Tab><LCtrl><LShft>v<LCtrl><LShft><Down><LCtrl>c
+2019-05-11 17:26:41+0530 > <Down><Down><Down><Down><Down><Down><LCtrl>v<LAlt><Tab>l
+2019-05-11 17:26:52+0530 > cd ../..
+2019-05-11 17:26:55+0530 > cd ..
+2019-05-11 17:27:08+0530 > l
+2019-05-11 17:27:09+0530 > <LAlt><Tab><LAlt><Tab>l
+2019-05-11 17:28:27+0530 > cd ab<Tab>
+2019-05-11 17:28:31+0530 > find -name .git
+2019-05-11 17:28:38+0530 > cd copp<BckSp><BckSp><BckSp>pp
+2019-05-11 17:28:43+0530 > l
+2019-05-11 17:28:44+0530 > vi <LShft>An<Tab>
+2019-05-11 17:28:48+0530 > <Esc><RShft>:q
+2019-05-11 17:28:52+0530 > grep -rns license
+2019-05-11 17:29:01+0530 > <LCtrl>s<LCtrl>sss<LCtrl>trwe<BckSp><BckSp><LShft><LShft>L<BckSp><LShft>Pacj<BckSp>kage licences<Left><Left><BckSp>s<LShft>Hi <RShft>Sir,
+2019-05-11 17:36:49+0530 > 
+2019-05-11 17:36:49+0530 > <LShft>I've attached a d<BckSp><BckSp>n exe<BckSp>cel sheet that contails <BckSp><BckSp><BckSp>ns the packages found in myandroid folder and the license used by each <BckSp>.
+2019-05-11 17:37:34+0530 > <LShft>Please let me know if any further clarification/modifia<BckSp>cation is to be done.<Up><Left><Left><Left> pack<LAlt><Tab><LAlt><Tab><BckSp><BckSp><BckSp><BckSp>li<Down><Down>
+2019-05-11 17:38:19+0530 > 
+
+Logging stopped at 2019-05-11 17:42:15+0530
+
