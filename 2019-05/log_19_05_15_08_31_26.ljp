@@ -1,0 +1,464 @@
+Logging started ...
+
+2019-05-15 08:31:26+0530 > <BckSp><BckSp><BckSp>zs<KP1><KP0><KP0><KP6><KP2><KP0><KP1><KP3>
+2019-05-15 09:50:26+0530 > zs<BckSp><BckSp><BckSp><CpsLk>ZS<KP1><KP0><KP0><KP6><KP2><KP0><KP1><KP3>
+2019-05-15 09:50:37+0530 > <Up><Up><Up><Up><Up><Up><LShft><Left><#+18><BckSp><#+15><BckSp><BckSp><BckSp><BckSp>
+2019-05-15 10:03:47+0530 > <Down><Down><Down><Down><Down><Down><#+11><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><#+9><Down><Down><Down><Down><Down><Down><Down><Down><Down><BckSp><#+43>FILE FIX <BckSp>DEP
+2019-05-15 10:07:20+0530 > <RShft>:<Up><Up><BckSp><BckSp><BckSp>
+2019-05-15 10:08:25+0530 > CD ..
+2019-05-15 10:08:30+0530 > FILE FIC<BckSp>XDEP
+2019-05-15 10:08:37+0530 > LS
+2019-05-15 10:09:05+0530 > MAKE MX6QSABRESD<LShft>_CONFIG
+2019-05-15 10:09:23+0530 > 
+2019-05-15 10:09:43+0530 > <Down><#+9><Down><Down><Down><Down><Down><Down><Down><#+9><Down><Down><Down><Down><#+7><Down><Down><Down><Down><Down><Down><Down><Down><Down>CD /US<Tab><Tab>LI<Tab><Tab><Tab><BckSp>N<Tab><Tab><Tab><Tab><Tab>UX
+2019-05-15 10:16:29+0530 > CD /USR/LINUX
+2019-05-15 10:16:54+0530 > CD
+2019-05-15 10:16:56+0530 > CD US<Tab><Tab><Tab><BckSp><BckSp>/USR<Tab><Tab>LI<Tab><Tab><Tab><BckSp>NUX
+2019-05-15 10:17:06+0530 > CD U-B<Tab>
+2019-05-15 10:17:11+0530 > CD /U<Tab>
+2019-05-15 10:17:29+0530 > LS
+2019-05-15 10:17:30+0530 > MAKE MAO<BckSp><BckSp>ODULES<LShft>_PREPAREE<BckSp>
+2019-05-15 10:17:53+0530 > CD ..
+2019-05-15 10:18:00+0530 > CD U-1
+2019-05-15 10:18:02+0530 > CD U-<Tab><Tab>B<Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><#+2><Tab><Tab><BckSp><#+17>F<BckSp><BckSp><BckSp>CFDC<BckSp><BckSp><BckSp>D
+2019-05-15 10:18:18+0530 > 
+2019-05-15 10:18:18+0530 > 
+2019-05-15 10:18:18+0530 > 
+2019-05-15 10:18:18+0530 > 
+2019-05-15 10:18:18+0530 > 
+2019-05-15 10:18:19+0530 > CD U-<CpsLk><CpsLk><CpsLk><CpsLk><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>LS
+2019-05-15 10:18:24+0530 > CD U-<Tab><CpsLk>
+2019-05-15 10:18:33+0530 > ls
+2019-05-15 10:18:34+0530 > ls<BckSp><BckSp><BckSp><CpsLk>LS
+2019-05-15 10:18:44+0530 > <LShft>ls
+2019-05-15 10:18:48+0530 > <LShft>ls
+2019-05-15 10:18:59+0530 > LS
+2019-05-15 10:21:10+0530 > CD /U<Tab>SR<Tab>LI<Tab><BckSp><#+13><BckSp><BckSp><BckSp>N<Tab><BckSp><#+14><BckSp><BckSp><BckSp>
+2019-05-15 10:22:28+0530 > LS
+2019-05-15 10:22:30+0530 > CD LINUX
+2019-05-15 10:22:51+0530 > CD
+2019-05-15 10:22:56+0530 > CD /U<Tab>SR<Tab>LI<Tab>3<Tab>5<Tab><Tab>6<Tab>
+2019-05-15 10:24:00+0530 > LS
+2019-05-15 10:24:01+0530 > CD BIU<BckSp><BckSp>UILD
+2019-05-15 10:24:14+0530 > XS<BckSp><BckSp>CD ..
+2019-05-15 10:24:18+0530 > LS
+2019-05-15 10:24:20+0530 > U-BBOT<BckSp><BckSp><BckSp>OOT BUILS ERROR 
+2019-05-15 10:25:03+0530 > <Left><BckSp>D<Right><Right><#+10><Right><Left>IN<BckSp><BckSp>FOR IMX6 SABRE SD BOARD 
+2019-05-15 10:26:17+0530 > CD
+2019-05-15 10:27:29+0530 > CD U<Tab>-<BckSp>
+2019-05-15 10:27:33+0530 > LS
+2019-05-15 10:27:35+0530 > FIND . -NAME <LShft>"MX6<LShft><LShft>*CONFIG
+2019-05-15 10:27:57+0530 > 
+2019-05-15 10:28:01+0530 > <LCtrl>c
+2019-05-15 10:28:02+0530 > <Up><Left><LShft>"
+2019-05-15 10:28:05+0530 > EXPORT <CpsLk>cross<LShft>_compile <BckSp>=<CpsLk>
+2019-05-15 10:30:01+0530 > EXPORT <CpsLk><#+10>arch-<BckSp>=a<BckSp><CpsLk>AR,<BckSp>M
+2019-05-15 10:30:14+0530 > MAKE MX6SAB<Tab><Tab><Tab><#+1><Tab><Tab><Tab><Tab><#+5>RESD<LShft>_DEFCOND<BckSp>FIG
+2019-05-15 10:30:41+0530 > <Up><BckSp><#+14><BckSp><BckSp><#+10><BckSp><BckSp><BckSp>
+2019-05-15 10:31:11+0530 > 
+2019-05-15 10:31:13+0530 > 
+2019-05-15 10:31:14+0530 > 
+2019-05-15 10:31:14+0530 > 
+2019-05-15 10:31:14+0530 > 
+2019-05-15 10:31:14+0530 > 
+2019-05-15 10:31:14+0530 > 
+2019-05-15 10:31:14+0530 > 
+2019-05-15 10:31:14+0530 > 
+2019-05-15 10:31:14+0530 > 
+2019-05-15 10:31:14+0530 > 
+2019-05-15 10:31:15+0530 > 
+2019-05-15 10:31:15+0530 > 
+2019-05-15 10:31:15+0530 > 
+2019-05-15 10:31:15+0530 > 
+2019-05-15 10:31:15+0530 > 
+2019-05-15 10:31:15+0530 > 
+2019-05-15 10:31:15+0530 > <Up>
+2019-05-15 10:31:17+0530 > 
+2019-05-15 10:31:57+0530 > 
+2019-05-15 10:32:15+0530 > <Up><Up><Up>
+2019-05-15 10:32:23+0530 > MAKE
+2019-05-15 10:32:32+0530 > 
+2019-05-15 10:33:37+0530 > WA<#+1>T <BckSp><BckSp><BckSp>HAT IS COLNE <BckSp><BckSp><BckSp><BckSp><BckSp>LONE IN L<Down> GIT
+2019-05-15 10:35:56+0530 > <Del>GIT <BckSp><#+15>CD
+2019-05-15 10:39:52+0530 > GITCLONE <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp> CLONE<Up><#+17><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up> D <BckSp><BckSp>CD <LShft>dO<Tab><Tab>CU<Tab>PU<Tab>
+2019-05-15 10:40:26+0530 > <Up><Left><#+18><Left><Left><Left><Left>-L 
+2019-05-15 10:40:56+0530 > <Up><Left><#+19><Left><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>
+2019-05-15 10:41:24+0530 > <Up>EMPTYEMP<Tab>
+2019-05-15 10:41:57+0530 > CD <LShft>dOC<Tab>PU<Tab>EM<Tab>
+2019-05-15 10:44:24+0530 > LS
+2019-05-15 10:44:25+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up>
+2019-05-15 10:44:46+0530 > EXPORT <LShft>arch=ARM
+2019-05-15 10:44:53+0530 > FIN D<BckSp><BckSp>D . -NAME <LShft>"MX6<LShft>*COND<BckSp>FIG<LShft>"
+2019-05-15 10:45:10+0530 > AM<BckSp><BckSp>MAKE MX6SABRESD<LShft>_DEFCONFIG
+2019-05-15 10:45:32+0530 > CD ..
+2019-05-15 10:45:41+0530 > LS
+2019-05-15 10:45:43+0530 > CD EM<Tab>
+2019-05-15 10:45:55+0530 > LS
+2019-05-15 10:45:56+0530 > <Up><Up><Up><Up><Up>
+2019-05-15 10:48:01+0530 > 
+2019-05-15 10:48:02+0530 > 
+2019-05-15 10:48:02+0530 > 
+2019-05-15 10:48:02+0530 > 
+2019-05-15 10:48:03+0530 > 
+2019-05-15 10:48:03+0530 > <Up><Up><Up><Down><Down>
+2019-05-15 10:48:05+0530 > CD SC<Tab>BA<Tab>FI<Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><BckSp><BckSp>LS
+2019-05-15 10:48:23+0530 > <BckSp><Up><BckSp><BckSp>
+2019-05-15 10:48:27+0530 > LS
+2019-05-15 10:48:29+0530 > VIM FI<Tab>
+2019-05-15 10:48:33+0530 > <RShft>:Q
+2019-05-15 10:48:59+0530 > MAKE
+2019-05-15 10:49:08+0530 > 
+2019-05-15 10:49:41+0530 > CD US<Tab><Tab><Tab><Tab>R<Tab><Tab><BckSp><BckSp><BckSp><BckSp>
+2019-05-15 10:51:55+0530 > CD /US<Tab>;I<Tab><Tab>N<BckSp><BckSp>LI<Tab><Tab><BckSp>N<Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><BckSp><BckSp><BckSp>LS
+2019-05-15 10:52:12+0530 > <Up><BckSp><BckSp>
+2019-05-15 10:52:17+0530 > LS
+2019-05-15 10:52:18+0530 > CD ARM-LIN<Tab>GN<Tab>H<Tab>
+2019-05-15 10:52:48+0530 > LS
+2019-05-15 10:52:50+0530 > C<#+1>D <BckSp><BckSp><BckSp><BckSp>SUDO MAKE MODULE<LShft>_PRE<Tab>PARE
+2019-05-15 10:53:20+0530 > ZS10062013
+2019-05-15 10:53:25+0530 > <Up>
+2019-05-15 10:53:33+0530 > ZS10062013
+2019-05-15 10:53:37+0530 > <Up><Up>
+2019-05-15 10:53:59+0530 > CD
+2019-05-15 10:54:13+0530 > <Up><Up><Up><Up><Up><Up><Up><Up>
+2019-05-15 10:54:35+0530 > LS
+2019-05-15 10:54:36+0530 > <Up><Up><Up><Up><Up><Up><Up><Up>
+2019-05-15 10:54:40+0530 > LS
+2019-05-15 10:54:41+0530 > CD ..
+2019-05-15 10:54:56+0530 > CD SR<Tab>
+2019-05-15 10:55:00+0530 > LS
+2019-05-15 10:55:01+0530 > CD <LCtrl>CD ..
+2019-05-15 10:57:40+0530 > CD ..
+2019-05-15 10:57:42+0530 > LS
+2019-05-15 10:57:43+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Down>
+2019-05-15 10:57:47+0530 > HOW TO CL<BckSp><BckSp>SOLVE <LCtrl>V WHILE U-BOOT CO<BckSp><BckSp>BUILD FOR IMX <BckSp>6 SABRE SD
+2019-05-15 10:59:07+0530 > CD ..
+2019-05-15 10:59:57+0530 > LS
+2019-05-15 10:59:59+0530 > GIT <BckSp><#+16><Left><#+26><Left><Left><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>
+2019-05-15 11:03:20+0530 > <Up><Left><#+25><Left><Left>CLONE 
+2019-05-15 11:03:25+0530 > LS
+2019-05-15 11:05:32+0530 > CD U-<Tab>
+2019-05-15 11:05:36+0530 > 
+2019-05-15 11:06:22+0530 > 
+2019-05-15 11:06:43+0530 > FIND . -NAME <LShft>"MX6<LShft>*CONFIG<LShft>"
+2019-05-15 11:07:02+0530 > MAKE MX6SABRESD<LShft>_DEFCONFIG
+2019-05-15 11:07:15+0530 > MAKE <LShft>cc=<LShft>"$<LShft>cc"
+2019-05-15 11:07:39+0530 > CLEAR
+2019-05-15 11:07:45+0530 > LS
+2019-05-15 11:07:46+0530 > <Up><Up><Up><Up><Up><Down>
+2019-05-15 11:09:24+0530 >  IMX6
+2019-05-15 11:16:12+0530 > GIT <BckSp><BckSp><BckSp><BckSp><BckSp>
+2019-05-15 11:17:02+0530 > LS
+2019-05-15 11:17:06+0530 > 
+2019-05-15 11:17:44+0530 > 
+2019-05-15 11:18:03+0530 > 
+2019-05-15 11:18:39+0530 > 
+2019-05-15 11:19:12+0530 > 
+2019-05-15 11:19:33+0530 > LS
+2019-05-15 11:19:39+0530 > EXPORT <LShft>cross<LShft>_<LShft>compile=
+2019-05-15 11:21:14+0530 > EXPORT <LShft>arch=ARM
+2019-05-15 11:21:22+0530 > MAKE MX6<BckSp><#+16>FIND . - <BckSp>NAME <LShft>"MX6<LShft>*CONFIG<LShft>"
+2019-05-15 11:21:49+0530 > MAKE MX6SABRESD<LShft>_DEFCONFIG
+2019-05-15 11:22:09+0530 > LS
+2019-05-15 11:22:14+0530 > VIM -<BckSp>001<Tab><Tab>-<Tab><Tab>MX<Tab><Tab><Tab><Tab><Tab><Tab><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>
+2019-05-15 11:22:59+0530 > <RShft>Q<RShft>:Q
+2019-05-15 11:23:20+0530 > <RShft>:Q
+2019-05-15 11:23:21+0530 > <RShft>:Q<LShft>!
+2019-05-15 11:23:24+0530 > MAKE
+2019-05-15 11:23:26+0530 > CLEAR
+2019-05-15 11:23:36+0530 > VIM <LShft>mA<Tab>
+2019-05-15 11:24:03+0530 > <RShft>:Q
+2019-05-15 11:24:06+0530 > 
+2019-05-15 11:24:11+0530 > LS
+2019-05-15 11:24:16+0530 > CD <BckSp><BckSp><BckSp><BckSp>FIND . -NAME <LShft>"TMP<LShft>:<BckSp><LShft>"
+2019-05-15 11:24:26+0530 > CD REF<Tab><Tab><Tab><Tab><Tab><Tab><BckSp><BckSp><BckSp>LOG<Tab><Tab><Tab><BckSp><BckSp><BckSp>GI<Tab><Tab><Tab><Tab><Tab><Tab><BckSp><BckSp><BckSp><#+13>CLEAR
+2019-05-15 11:24:53+0530 > LS
+2019-05-15 11:24:55+0530 > VIM CON<Tab>
+2019-05-15 11:25:02+0530 > <RShft>:Q
+2019-05-15 11:25:03+0530 > <Up>.<Tab>
+2019-05-15 11:25:05+0530 > <Down><#+19><Down><#+11><Down><#+24><Down><#+19><RShft>:Q
+2019-05-15 11:25:16+0530 > EXP<Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Left><#+96><Left><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LShft>cc
+2019-05-15 11:26:23+0530 > 
+2019-05-15 11:26:42+0530 > <Up><Left><#+4><BckSp><#+22><Right><BckSp>
+2019-05-15 11:27:03+0530 > <Up><Left><#+24><LShft>$
+2019-05-15 11:27:08+0530 > 
+2019-05-15 11:27:44+0530 > N
+2019-05-15 11:28:02+0530 > Y
+2019-05-15 11:28:06+0530 > <LCtrl>Y<BckSp><BckSp><LShft>r
+2019-05-15 11:28:16+0530 > N
+2019-05-15 11:28:18+0530 > 
+2019-05-15 11:28:25+0530 > 
+2019-05-15 11:28:45+0530 >  V219<BckSp><BckSp>019
+2019-05-15 11:30:36+0530 > LS
+2019-05-15 11:30:59+0530 > <LCtrl><LCtrl><LCtrl>FCOMPIL
+2019-05-15 11:32:33+0530 > 
+2019-05-15 11:32:41+0530 > MAKE =<Up>GCC
+2019-05-15 11:38:59+0530 > <Up> <Left><#+23><Left><Left><Left><BckSp><BckSp><BckSp><#+18><BckSp><BckSp><BckSp><BckSp>
+2019-05-15 11:39:47+0530 > <Up><BckSp><BckSp><BckSp>STR<Tab>IP
+2019-05-15 11:40:00+0530 > <Up> TOOLS
+2019-05-15 11:40:07+0530 > <LShft>hostcc
+2019-05-15 11:40:31+0530 > MAKE <LShft>hostcc=GCC ENC<BckSp>V
+2019-05-15 11:43:42+0530 > <Up><BckSp><#+27><BckSp><BckSp>GCC ENV
+2019-05-15 11:44:30+0530 > 
+2019-05-15 11:44:32+0530 > 
+2019-05-15 11:44:32+0530 > 
+2019-05-15 11:44:32+0530 > 
+2019-05-15 11:44:32+0530 > 
+2019-05-15 11:44:33+0530 > 
+2019-05-15 11:44:33+0530 > <Down><Down><Down><#+1><Down><#+6><Down><Down>MAKE <LShft>host<LShft>cc=<LShft>${<LShft>cc}
+2019-05-15 11:46:57+0530 > <BckSp><#+18>DOWNLOAD CROS CPO<BckSp><BckSp><BckSp><BckSp>S COMPILER FOR L<Down><Down><Down><Down>
+2019-05-15 11:48:34+0530 >  14.04
+2019-05-15 11:50:56+0530 > IN UBUNTU 
+2019-05-15 11:51:51+0530 > LINUX COMMAND TO GET TGE <BckSp><BckSp><BckSp>HE CROSS COMPILER NAEME<BckSp><BckSp><BckSp><BckSp>AME
+2019-05-15 11:54:17+0530 > UNAME -O -M
+2019-05-15 11:55:04+0530 > EXPORT <LShft>crs<BckSp><LShft>oss <BckSp><LShft>_comP<BckSp><LShft>pile=AR<Tab><Tab><Tab><Tab><Tab><BckSp><BckSp><BckSp>M<Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><#+3><Tab><BckSp><#+28><Up><Up><Up><Down><Down><Down>EXO<BckSp>PORT <LShft>cross<LShft>_col<BckSp><LShft>m<LShft>pile=ARM-LIU<BckSp>NUX-
+2019-05-15 11:58:27+0530 > EXPORT <LShft>arch=ARM
+2019-05-15 11:58:36+0530 > MAKE <BckSp><#+17>FIND . -NAME <LShft>"MX6<LShft>*CONFIG<LShft>"
+2019-05-15 11:58:56+0530 > MAKE 
+2019-05-15 11:59:10+0530 > CD SC<Tab>BA<Tab>
+2019-05-15 12:04:40+0530 > LS
+2019-05-15 12:04:41+0530 > VIM FIX<Tab>
+2019-05-15 12:04:47+0530 > <Down><#+31><Down><Down><Down><Down><Down><Down><Down><Down><Down><#+1><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><#+9><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Left><Left><Down><Up>A<Left>//<Down><Left>//<Esc><RShft>:WW<BckSp>Q
+2019-05-15 12:10:49+0530 > CD ..
+2019-05-15 12:10:52+0530 > CD ..
+2019-05-15 12:10:53+0530 > <Up><Up><Up><Up><Up>
+2019-05-15 12:10:57+0530 > <Up><Up><Up><Up><Up>
+2019-05-15 12:11:36+0530 > LS
+2019-05-15 12:11:37+0530 > VIM FI<Tab>
+2019-05-15 12:11:41+0530 > A<Up><Up><Up><Right><Up><BckSp><BckSp><Left><Down><Down><Left><Down><Left><Up><Right><Up><Right><Right><BckSp><BckSp><Esc><RShft>:WQ
+2019-05-15 12:11:59+0530 > CD ..
+2019-05-15 12:12:02+0530 > CD ..
+2019-05-15 12:12:04+0530 > <RShft><RShft><Up><Up><Up><Up><Up>
+2019-05-15 12:12:08+0530 > <Up><Down>CD SC<Tab>BA<Tab>
+2019-05-15 12:12:33+0530 > VIM FU<BckSp>I<Tab>
+2019-05-15 12:12:37+0530 > <RShft>:WQ
+2019-05-15 12:12:39+0530 > GC <BckSp>C FI<Tab>
+2019-05-15 12:12:43+0530 > LS
+2019-05-15 12:12:45+0530 > A.<Tab>O<Tab><BckSp><BckSp><BckSp><BckSp>./A.<Tab>
+2019-05-15 12:12:55+0530 > R, <BckSp><BckSp>M A<Tab>
+2019-05-15 12:13:09+0530 > LS
+2019-05-15 12:13:10+0530 > VIM <LShft>mA<Tab>
+2019-05-15 12:13:34+0530 > <RShft>:WQ
+2019-05-15 12:14:26+0530 > CD ..
+2019-05-15 12:14:29+0530 > CD ..
+2019-05-15 12:14:31+0530 > LS
+2019-05-15 12:14:32+0530 > CD <LShft>A<Tab><Tab>I<Tab><BckSp>R<Tab>
+2019-05-15 12:14:47+0530 > LS
+2019-05-15 12:14:47+0530 > CD ARM<Tab>
+2019-05-15 12:14:51+0530 > LS
+2019-05-15 12:14:52+0530 > CD ..
+2019-05-15 12:14:59+0530 > CD ..
+2019-05-15 12:15:00+0530 > FIND . - <BckSp>NAME<LShft>"BOOT<LShft>"
+2019-05-15 12:15:09+0530 > <Up><Left><Left><Left><Left><Left><Left> 
+2019-05-15 12:15:14+0530 > <Up><Left><Left><Right><LShft>*
+2019-05-15 12:15:20+0530 > LS
+2019-05-15 12:15:39+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up>
+2019-05-15 12:15:50+0530 > CD <LShft>s<Tab><BckSp>SC<Tab>
+2019-05-15 12:16:05+0530 > CD BA<Tab>
+2019-05-15 12:16:11+0530 > LS
+2019-05-15 12:16:13+0530 > MAKE
+2019-05-15 12:16:33+0530 > MAKE FI<Tab>X<Tab><Tab><Tab><Tab><Tab><BckSp><#+16>LS
+2019-05-15 12:16:42+0530 > MAKE FI<Tab><Tab><Tab><Tab><Tab><BckSp><BckSp>
+2019-05-15 12:16:48+0530 > VIM <LShft>mA<Tab>
+2019-05-15 12:16:56+0530 > <RShft>:WQ
+2019-05-15 12:17:48+0530 > B<BckSp>VIM 
+2019-05-15 12:18:36+0530 > CD
+2019-05-15 12:26:52+0530 > <RShft>:Q
+2019-05-15 12:26:54+0530 > CD
+2019-05-15 12:26:55+0530 > SUDO <Left><#+27><BckSp><Right><#+28><BckSp><#+11><BckSp>LINUC<BckSp>X-
+2019-05-15 12:27:32+0530 > ZS10062013
+2019-05-15 12:27:36+0530 > <Up><Left><#+18>INSTALL CROSS <BckSp><BckSp>CROSS <Right><#+26><BckSp><#+36>
+2019-05-15 12:29:28+0530 > <#+12><Up><#+5><Up><Up><Up><Up><Up><Down><BckSp><#+5><BckSp><#+14>CD <LShft>dOCU<Tab><LShft>P<Tab>U<Tab>U-<Tab>
+2019-05-15 12:29:49+0530 > LS
+2019-05-15 12:29:50+0530 > RM <BckSp><#+10>
+2019-05-15 12:30:21+0530 > 
+2019-05-15 12:30:35+0530 > <Up><BckSp><#+8><BckSp><BckSp><BckSp><BckSp>
+2019-05-15 12:30:43+0530 > <Up><Up><Left><#+8><Left><Left>F<BckSp>DEF<Left><#+13><Left><BckSp>
+2019-05-15 12:31:09+0530 > 
+2019-05-15 12:31:12+0530 > 
+2019-05-15 12:31:12+0530 > 
+2019-05-15 12:31:12+0530 > 
+2019-05-15 12:31:12+0530 > 
+2019-05-15 12:31:12+0530 > 
+2019-05-15 12:31:12+0530 > FINV<BckSp>F<BckSp>D . -NAME <LShft>"MX6<LShft>*CONFIG<LShft>"
+2019-05-15 12:33:05+0530 > CD CON<Tab>
+2019-05-15 12:33:11+0530 > LS
+2019-05-15 12:33:13+0530 > VIM 
+2019-05-15 12:33:49+0530 > <RShft>:Q
+2019-05-15 12:34:54+0530 > CD ..
+2019-05-15 12:34:58+0530 > LS
+2019-05-15 12:35:00+0530 > C <BckSp>D S<Tab>BA<Tab>
+2019-05-15 12:35:14+0530 > LS
+2019-05-15 12:35:15+0530 > VIM FI<Tab>
+2019-05-15 12:35:18+0530 > <RShft>:Q
+2019-05-15 12:36:14+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Down><Up><Up><Up><Up><Down>
+2019-05-15 12:36:23+0530 > CD ../..
+2019-05-15 12:36:30+0530 > <Up><Up>
+2019-05-15 12:36:31+0530 > 
+2019-05-15 12:36:34+0530 > <#+25><Up>
+2019-05-15 12:36:36+0530 > <Up> <LShft>()
+2019-05-15 12:36:59+0530 > <Up><BckSp><BckSp><BckSp><LShft>()
+2019-05-15 12:37:06+0530 > <Up><Left><Left><Right><Right><Left><BckSp>  
+2019-05-15 12:37:13+0530 > CD S<Tab>BA<Tab>
+2019-05-15 12:39:13+0530 > VIM <LShft>mA<Tab>
+2019-05-15 12:39:15+0530 > <RShft><RShft>:Q
+2019-05-15 12:40:00+0530 > CD ..
+2019-05-15 12:40:02+0530 > CD ..
+2019-05-15 12:40:03+0530 > LS
+2019-05-15 12:40:05+0530 > 
+2019-05-15 12:40:06+0530 > <#+4>C;<BckSp>LEAR
+2019-05-15 12:40:09+0530 > <Up><Up><Up><Up><Up><Up><BckSp>
+2019-05-15 12:40:14+0530 > VIM <LShft>mA<Tab>
+2019-05-15 12:41:42+0530 > A<Down><#+17><Down><Down><Down><Down><Right><Down><Right><#+19><Right><Right><Right><Right><Right>
+2019-05-15 12:45:51+0530 > PRINTF<LShft>(<LShft>"YES<LShft>");<LCtrl>S<Esc><RShft>:W
+2019-05-15 12:46:04+0530 > <LCtrl><LShft>tMA<Up>
+2019-05-15 12:46:11+0530 > <Up><Right><Left><Right><Right>A<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>EXG<BckSp><BckSp>CHO <LShft>"YES<LShft>"<Esc><RShft>:W
+2019-05-15 12:46:43+0530 > 
+2019-05-15 12:46:48+0530 > HOW TO PRINT IN CHELL <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>SHEKK <BckSp><BckSp><BckSp>LL <Down>
+2019-05-15 12:47:15+0530 > <BckSp><#+12><BckSp><BckSp><BckSp><BckSp>MAKE<Down>
+2019-05-15 12:47:37+0530 > <Right>A<BckSp><Left><Left><Left><BckSp><Esc><RShft>:W
+2019-05-15 12:48:12+0530 > <Up>
+2019-05-15 12:48:17+0530 > DD<Esc><RShft>:W
+2019-05-15 12:48:25+0530 > <Up>
+2019-05-15 12:48:28+0530 > <Up><Down><Up><Left><#+14><Left><Left><Left><BckSp><Right><Right><Right><Right><Right><Right><Right><Right>DEF
+2019-05-15 12:51:34+0530 > <Up><#+11><Up><Down><Left><#+99><Right><Right><BckSp><BckSp><#+7><BckSp><BckSp><BckSp><Right><BckSp><Left><BckSp><BckSp><BckSp><BckSp><BckSp>
+2019-05-15 12:54:30+0530 > <Up><Up><Up><Down>
+2019-05-15 12:54:34+0530 > <Up><Up><Up><Up><Up>
+2019-05-15 12:54:40+0530 > <Up><Up>
+2019-05-15 12:54:42+0530 > CLEAR
+2019-05-15 12:54:48+0530 > <Up><Up>
+2019-05-15 12:54:49+0530 > UBOOT FOR IMX6 SABRESD <Down><Up><Down><Left><#+21><Left><Left>NEW 
+2019-05-15 12:56:39+0530 > 
+2019-05-15 12:57:27+0530 >  WHEN I COMPILE U-N=B<BckSp><BckSp><BckSp>BOOR<BckSp>T
+2019-05-15 12:58:53+0530 > VIM <LShft>mA<Tab>
+2019-05-15 12:59:26+0530 > 
+2019-05-15 12:59:27+0530 > <RShft>:Q
+2019-05-15 12:59:29+0530 > GIT CHECKOUT C<BckSp>V2019.04
+2019-05-15 12:59:47+0530 > <Up><Up><Up><Up><Up><Up>
+2019-05-15 13:00:00+0530 > <Up><Up><Up><Up>
+2019-05-15 13:00:03+0530 > CLEAR
+2019-05-15 13:00:09+0530 > <Up><Up><Up><Down>
+2019-05-15 13:00:11+0530 > FIDN<BckSp><BckSp><BckSp><BckSp><BckSp>FIND <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><BckSp><#+14>FIND . -NAME <LShft>"MX6<LShft>*CONFIG<LShft>"
+2019-05-15 13:01:59+0530 > CLEAR
+2019-05-15 13:02:08+0530 > <Up><Up><Up>
+2019-05-15 13:02:10+0530 > <LCtrl>V
+2019-05-15 13:03:37+0530 > UBOOT COMPILE FOR IMX6 SABRE S<#+1>D 
+2019-05-15 13:04:19+0530 > <RCtrl>HOW TO DOWB<BckSp>NLOAD CROSS COMPILER FOR <Down>
+2019-05-15 13:06:08+0530 > CD
+2019-05-15 13:06:59+0530 > <Left><#+57><Left><BckSp>
+2019-05-15 13:07:07+0530 > ZS10062013
+2019-05-15 13:07:11+0530 > CD <LShft>dOC<Tab>PU<Tab>U-<Tab>
+2019-05-15 13:07:53+0530 > 
+2019-05-15 13:07:58+0530 > MAKE MX6SABRESD<LShft>_DEFCONFIG
+2019-05-15 13:08:12+0530 > LS
+2019-05-15 13:08:22+0530 > C
+2019-05-15 13:08:35+0530 > DCD
+2019-05-15 13:08:36+0530 > CD
+2019-05-15 13:08:37+0530 > CLEAR
+2019-05-15 13:08:39+0530 > FIND . -NAMRE<BckSp><BckSp>R<BckSp>E <LShft>"<LShft><LShft>*<LShft>"
+2019-05-15 13:09:06+0530 > 
+2019-05-15 13:09:35+0530 > 
+2019-05-15 13:09:35+0530 > <LShft><LCtrl><LCtrl>c
+2019-05-15 13:10:11+0530 > <Up><Left><BckSp>
+2019-05-15 13:10:14+0530 > <LCtrl>c
+2019-05-15 13:10:20+0530 > <Up><Down>CD 
+2019-05-15 13:10:50+0530 > LD<BckSp>S
+2019-05-15 13:10:53+0530 > CD ..
+2019-05-15 13:11:04+0530 > LS
+2019-05-15 13:11:05+0530 > CLEAR
+2019-05-15 13:11:16+0530 > CD
+2019-05-15 13:11:17+0530 > D<BckSp>CD <BckSp><BckSp><BckSp><RShft>:Q
+2019-05-15 13:11:33+0530 > <Down><#+14><Up><Up><Up>HOW <#+1>TO COMPILE U-BOOT FOR SABRES<BckSp> SD IMX6
+2019-05-15 13:17:19+0530 > <LMeta>LZS10062013
+2019-05-15 14:18:11+0530 > <LShft>CD ..
+2019-05-15 14:26:12+0530 > LS
+2019-05-15 14:26:14+0530 > CD UB`<BckSp>`<BckSp><Tab>
+2019-05-15 14:26:19+0530 > LS
+2019-05-15 14:26:20+0530 > LS
+2019-05-15 14:26:35+0530 > D<BckSp>CD ..
+2019-05-15 14:26:51+0530 > LS
+2019-05-15 14:26:51+0530 > <LCtrl><LShft><LCtrl><LShft>++++___---KERNEL BI<BckSp>UILD FOR IMX6<#+6> SABRE SDBUILD KENEL FOR IMX6 SARE SD<Left><#+20><Left><Left>R<Left><Left><Left>LINUX 
+2019-05-15 14:29:37+0530 > CD LI<Tab>
+2019-05-15 14:30:29+0530 > LS
+2019-05-15 14:30:30+0530 > EXPORT <LShft>arch=ARM
+2019-05-15 14:30:44+0530 > EXP<BckSp><BckSp><BckSp><Left><#+34><Left><Left><Left><Left><BckSp>
+2019-05-15 14:31:33+0530 > FIND . -NAME <LShft>"<LShft>"
+2019-05-15 14:31:59+0530 > MAKE IM<Tab><Tab><BckSp><#+12><BckSp>X<LShft>_V6<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>
+2019-05-15 14:32:23+0530 > MAKE
+2019-05-15 14:32:43+0530 > <KP1><KP0><KP0><KP0><KP7><KP0><Up><Down>
+2019-05-15 14:50:07+0530 > LS
+2019-05-15 14:50:38+0530 > CD ARCH`<BckSp><Tab>ARM<Tab><Tab>/<Tab>BOO<Tab>
+2019-05-15 14:51:24+0530 > LS
+2019-05-15 14:51:25+0530 > CD ..
+2019-05-15 14:52:40+0530 > LS
+2019-05-15 14:52:42+0530 > CD BOOT
+2019-05-15 14:52:54+0530 > LS
+2019-05-15 14:52:57+0530 > CD ..
+2019-05-15 14:54:28+0530 > CD ..
+2019-05-15 14:54:29+0530 > CD ...<BckSp>
+2019-05-15 14:54:31+0530 > CDS<BckSp> ..
+2019-05-15 14:54:34+0530 > LS
+2019-05-15 14:54:35+0530 > <LShft><Left><#+62> <BckSp>
+2019-05-15 14:55:15+0530 > CD <LShft>dOCU<Tab>P<Tab>
+2019-05-15 14:59:46+0530 > CD <LShft>dO<Tab><Tab>C<Tab>PU<Tab>
+2019-05-15 14:59:54+0530 > LS
+2019-05-15 14:59:55+0530 > 
+2019-05-15 14:59:55+0530 > CD U-BOOT
+2019-05-15 15:00:09+0530 > LS
+2019-05-15 15:00:10+0530 > EXPORT <CpsLk>cross<CpsLk><BckSp><#+22><LShft><Left><#+37><Left><Right><LCtrl>c
+2019-05-15 15:00:40+0530 > 
+2019-05-15 15:00:43+0530 > <LShft><Left><#+19><Right><Right><Right><LShft><Left><#+22><Left><LCtrl>c
+2019-05-15 15:00:56+0530 > 
+2019-05-15 15:01:00+0530 > <Up><Left><Left><Left><Left><Left><Left>DEF
+2019-05-15 15:01:09+0530 > <Up><Left><Left><Left><Left><Left><Left><#+11><Left><Left><Left><Left><Left><BckSp>
+2019-05-15 15:01:14+0530 > GITHUB
+2019-05-15 15:04:42+0530 > LS
+2019-05-15 15:10:50+0530 > CD LIN<Tab><RShft>
+2019-05-15 15:10:55+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down>
+2019-05-15 15:11:04+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up>
+2019-05-15 15:11:11+0530 > <Up><Up><Down><Down>MAKE
+2019-05-15 15:11:29+0530 > <LCtrl>c
+2019-05-15 15:12:14+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up>
+2019-05-15 15:12:25+0530 > <Up><Up><Up><Up><Up><Down>
+2019-05-15 15:12:30+0530 > <Up><Up><Up><Up>
+2019-05-15 15:12:32+0530 > <Up><Up><Down><Down><Down>MAKE
+2019-05-15 15:12:36+0530 > CD ..
+2019-05-15 15:18:56+0530 > CD UB<Tab>
+2019-05-15 15:19:00+0530 > LS
+2019-05-15 15:19:01+0530 > CD ..
+2019-05-15 15:19:08+0530 > CD U-<Tab>
+2019-05-15 15:19:11+0530 > <LCtrl><LCtrl><LShft>__<LShft><LShft><LShft><LShft><LShft><LShft><LCtrl><LShft><LCtrl><LShft><LShft><LShft><LCtrl><Up><Up><Down><Down><LShft><Left><#+29><LCtrl>c
+2019-05-15 15:28:41+0530 > <#+2>
+2019-05-15 15:28:45+0530 > LS
+2019-05-15 15:29:08+0530 > CD ARX<BckSp>C<Tab>ARM<Tab><Tab>/<Tab>BO<Tab>
+2019-05-15 15:29:20+0530 > LS
+2019-05-15 15:29:22+0530 > CD ..
+2019-05-15 15:29:31+0530 > CD C..<BckSp><BckSp><BckSp>..
+2019-05-15 15:29:34+0530 > CD ..
+2019-05-15 15:29:35+0530 > LS
+2019-05-15 15:29:36+0530 > VIM <LShft>mA<Tab>
+2019-05-15 15:29:43+0530 > <RShft>:W<BckSp>Q
+2019-05-15 15:29:57+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><BckSp><BckSp><BckSp>HOW TO D<BckSp>IF<BckSp><BckSp> FING<BckSp>D LINUX B<BckSp>VERSION USING COMMAD<Left><#+23><Left><Left><Left>COMPILED 
+2019-05-15 15:31:13+0530 > CAT /ETC<Tab>OS<Tab><BckSp><#+14><BckSp>KE<Tab>-<Tab><BckSp><#+10><BckSp><BckSp><BckSp>RE<Tab><Tab><BckSp><#+12><BckSp>OS<Tab>
+2019-05-15 15:32:06+0530 > CD KE<Tab>
+2019-05-15 15:32:17+0530 > LS
+2019-05-15 15:32:18+0530 > CD ,<BckSp>..
+2019-05-15 15:32:36+0530 > C<BckSp>LS
+2019-05-15 15:32:38+0530 > CD ..
+2019-05-15 15:35:29+0530 > LS
+2019-05-15 15:35:30+0530 > CD LI<Tab>-<Tab>
+2019-05-15 15:35:36+0530 > LS
+2019-05-15 15:35:37+0530 > VIM <CpsLk>ma<BckSp><CpsLk>A<Tab>
+2019-05-15 15:35:43+0530 > <RShft>:Q
+2019-05-15 15:36:02+0530 > CLEAR
+2019-05-15 15:36:09+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down>EMMM<BckSp>C CHIP IN IMX6 SABRE SD BOARD
+2019-05-15 15:40:03+0530 > <F11><#+9><BckSp><#+24>
+2019-05-15 15:40:59+0530 > IMX6 SABRE SD <Down><Down>
+2019-05-15 15:43:36+0530 > <LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><Down><Down><Down><Down><Down><Down><Down><Up>GREP -F <LShft><LShft>"ROOTFS<LShft>"
+2019-05-15 16:22:25+0530 > <Up><Left><Left><Left><Left><Right><BckSp><BckSp><BckSp>
+2019-05-15 16:22:36+0530 > FIN<BckSp><#+11>FIND . -NAME <LShft>"ROOTFS<LShft>*<LShft>"
+2019-05-15 16:22:54+0530 > <Down><Down><Down><Down><Up>HOW FLASH <BckSp><#+42>HOW TO FLASH U-BBOT AND KERNEL TO IMX5<BckSp>6 SABRE SD 
+2019-05-15 16:30:27+0530 > <Down><#+3><Down><#+13><Up><Up><Up><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><#+9><Down><#+1><Down><Down><#+2><Down><Up><Up><Up><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Up><Up><Up><Up><Up><Up><Up><Up>
+
+Logging stopped at 2019-05-15 17:09:13+0530
+
