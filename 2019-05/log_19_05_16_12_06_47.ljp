@@ -1,0 +1,9 @@
+Logging started ...
+
+2019-05-16 12:06:47+0530 > find . -name <LShft>"<LShft>"
+2019-05-16 12:14:28+0530 > <Up><Left><LShft>*
+2019-05-16 12:14:32+0530 > ls
+2019-05-16 12:15:23+0530 > <LCtrl>a<LCtrl>a<Del><LCtrl>a
+
+Logging stopped at 2019-05-16 12:32:17+0530
+
