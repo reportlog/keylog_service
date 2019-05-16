@@ -1,0 +1,15 @@
+Logging started ...
+
+2019-05-16 09:46:00+0530 > rootfs file for imx6 sabres<BckSp> <#+1>sd 
+2019-05-16 10:01:40+0530 > <LMeta><LCtrl>froot file<BckSp><BckSp><BckSp><BckSp><BckSp>fs<LCtrl>froo <BckSp>t cd ..
+2019-05-16 10:20:46+0530 > cd ub<Tab>
+2019-05-16 10:20:48+0530 > ls
+2019-05-16 10:20:49+0530 > find . -name <LShft>".ext<LShft>4<LShft>*"
+2019-05-16 10:21:04+0530 > cd ..\c<BckSp><BckSp>
+2019-05-16 10:21:14+0530 > cd lin<Tab><BckSp><#+16>ls
+2019-05-16 10:21:22+0530 > cd lin<Tab>-<Tab>
+2019-05-16 10:21:25+0530 > ls
+2019-05-16 10:21:26+0530 > <Up><Up><Up><Up><Up>
+2019-05-16 10:21:29+0530 > cd ..
+2019-05-16 10:22:28+0530 > 
+2019-05-16 10:22:32+0530 > 
