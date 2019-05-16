@@ -1,0 +1,89 @@
+Logging started ...
+
+2019-05-16 10:25:18+0530 > ls
+2019-05-16 10:25:27+0530 > cd bil<Tab><BckSp><BckSp>uil<Tab>
+2019-05-16 10:25:36+0530 > ls
+2019-05-16 10:25:37+0530 > 
+2019-05-16 10:25:53+0530 > export <LShft>CROSS<LShft>_<BckSp><#+20><LShft>*"<BckSp><BckSp><LShft>"<Left><#+31><Right><LShft>"<Left><Left><Right><BckSp><#+15>find . -name 
+2019-05-16 10:26:51+0530 > <Up><Left><LShft>*
+2019-05-16 10:26:54+0530 > <Up><Left><Left><#+12><Right><Right><Right><Right><Right><Right><Right><Right><BckSp><Left><Left><Left><#+8><Left><Left><Left><BckSp><#+13><BckSp><BckSp><BckSp><LShft>*
+2019-05-16 10:27:06+0530 > <Up><Up><Left><Left><#+19><Left>q
+2019-05-16 10:27:18+0530 > <Up><Up><Up><Up><Up><Left><#+18><Left><Right>q
+2019-05-16 10:27:59+0530 > make
+2019-05-16 10:28:14+0530 > find . -name <LShft>"roof<BckSp>tfsext2ext2<LShft>"<Left><Left><Left><Left><Left>.<Right><#+10>
+2019-05-16 10:41:14+0530 > <Up><Left><BckSp>3
+2019-05-16 10:41:24+0530 > <Up><BckSp><BckSp>4<LShft>"
+2019-05-16 10:41:27+0530 > <Up><Left><Left><#+4><Left><Left><Right><Right><Right><BckSp><BckSp><BckSp><BckSp><BckSp><LShft>*
+2019-05-16 10:41:36+0530 > <Up><Left><Left><Right>rootfs fi<BckSp><BckSp><BckSp><Left><#+9><Left><Left>download <Right><Right><Right><Right><Right><Right> for imx6 ss<BckSp>abre sd
+2019-05-16 10:42:50+0530 > <Left><Left><Right><Left><Right><BckSp><#+9><BckSp><BckSp><BckSp><LShft>*.ext4
+2019-05-16 10:45:23+0530 > <Up><Left><BckSp>3
+2019-05-16 10:45:27+0530 > <Up><Left><BckSp>4
+2019-05-16 10:45:30+0530 > <Up><Left><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LShft>*rootfs<LShft>*
+2019-05-16 10:45:41+0530 > <Up><Left><Left><Right><BckSp>
+2019-05-16 10:45:45+0530 > <Up><Left><#+10><Left><BckSp>
+2019-05-16 10:45:48+0530 > <Up><Right><Left><LShft>*
+2019-05-16 10:45:51+0530 > <Up><Left><Left><Right><BckSp><#+11><BckSp><LShft>*e<BckSp>.ext3
+2019-05-16 10:46:08+0530 > <Up><Left><#+8><Left><Left><Left><Left><Left><Right><Right><Right><Right><Right><Right><Right><BckSp>4
+2019-05-16 10:46:23+0530 > cd..<BckSp><BckSp> ..
+2019-05-16 10:46:32+0530 > cd lu<BckSp><Tab>-<Tab>
+2019-05-16 10:46:37+0530 > <Up><Up><Up>
+2019-05-16 10:46:40+0530 > <Up><Up><Up><Up><Up>
+2019-05-16 10:46:47+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Down>
+2019-05-16 10:46:51+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up>
+2019-05-16 10:46:55+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up>
+2019-05-16 10:47:01+0530 > <Right><Left><Left><BckSp><BckSp> file system
+2019-05-16 11:03:38+0530 > ls
+2019-05-16 11:05:54+0530 > cd ..
+2019-05-16 11:05:59+0530 > <Del>root ffile system for imx6 sabre sd
+2019-05-16 11:10:10+0530 > cd
+2019-05-16 11:20:29+0530 > find . --<BckSp>name <LShft>"rootfs<LCtrl>'
+2019-05-16 11:20:41+0530 > <LCtrl>c
+2019-05-16 11:20:43+0530 > <Up><BckSp><LShft>"
+2019-05-16 11:20:45+0530 > <LCtrl>z<#+1>zroot file system
+2019-05-16 11:26:31+0530 > <LCtrl>fe<BckSp>rootfs<BckSp><BckSp> file <BckSp><BckSp><BckSp><BckSp><BckSp><LCtrl>c
+2019-05-16 11:30:03+0530 > <Up><Down><Left><#+35><Left><Left><BckSp>cd 
+2019-05-16 11:30:43+0530 > cd <Up><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>
+2019-05-16 11:30:53+0530 > <Up><BckSp><#+30><BckSp><BckSp><BckSp>
+2019-05-16 11:31:06+0530 > ls
+2019-05-16 11:31:09+0530 > cd ..
+2019-05-16 11:31:20+0530 > ls
+2019-05-16 11:31:22+0530 > cd ro<Tab>
+2019-05-16 11:31:40+0530 > cd bo<Tab>
+2019-05-16 11:31:44+0530 > ls
+2019-05-16 11:31:45+0530 > cd z<Tab><Tab>i<Tab><Tab><Tab><BckSp><LShft>I<Tab><Tab><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>cd <BckSp><#+14>cd ..
+2019-05-16 11:32:29+0530 > <BckSp><#+19>
+2019-05-16 11:32:40+0530 > <Right><#+12><Right><Right><#+12><Right><Right> for ubuntu
+2019-05-16 11:32:53+0530 > find . -name <LShft>"rootfs<LShft>"
+2019-05-16 11:37:47+0530 > rootfs
+2019-05-16 11:40:34+0530 > flash'<BckSp>
+2019-05-16 11:42:11+0530 > <LCtrl>kerne; <BckSp><BckSp>l build
+2019-05-16 11:43:22+0530 > <BckSp><#+13><BckSp><BckSp><BckSp><#+16>ls
+2019-05-16 11:44:32+0530 > ls
+2019-05-16 11:44:56+0530 > cd ..
+2019-05-16 11:44:58+0530 > ;d
+2019-05-16 11:44:59+0530 > cd //<BckSp><BckSp>..
+2019-05-16 11:45:06+0530 > ls
+2019-05-16 11:45:07+0530 > cd df<BckSp><BckSp>flas<Tab>u<Tab>
+2019-05-16 11:45:17+0530 > l
+2019-05-16 11:45:19+0530 > sls
+2019-05-16 11:45:20+0530 > <LCtrl>c
+2019-05-16 11:45:22+0530 > ls
+2019-05-16 11:45:24+0530 > cd ..
+2019-05-16 11:45:27+0530 > cd li<Tab>
+2019-05-16 11:45:28+0530 > s
+2019-05-16 11:45:29+0530 > ls
+2019-05-16 11:45:33+0530 > cd <BckSp><BckSp><BckSp><BckSp><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down><Down><Up><Up><Down><Down><Down><Down><Down><Down><Down><Up><Up><Up><Up><Up><Up><Up><Up><Up><BckSp><#+15>cd a<Tab>ar<Tab>m<Tab><Tab><Tab>
+2019-05-16 11:46:15+0530 > ls
+2019-05-16 11:46:16+0530 > cd boo<Tab>
+2019-05-16 11:46:19+0530 > ls
+2019-05-16 11:46:20+0530 > cd ../..
+2019-05-16 11:46:38+0530 > ;<BckSp>cd /<BckSp>..
+2019-05-16 11:46:41+0530 > ls
+2019-05-16 11:46:43+0530 > cd c<BckSp>..
+2019-05-16 11:46:46+0530 > ls
+2019-05-16 11:46:47+0530 > cd ub<Tab>
+2019-05-16 11:56:12+0530 > ls
+2019-05-16 11:56:13+0530 > <LCtrl>a<LCtrl>a<Del>
+
+Logging stopped at 2019-05-16 12:06:39+0530
+
