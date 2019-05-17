@@ -1,0 +1,147 @@
+Logging started ...
+
+2019-05-16 08:19:22+0530 > <CpsLk><CpsLk><CpsLk><CpsLk>m<CpsLk>EERA<RShft>_12<RShft>@<RShft>#<LCtrl>c
+2019-05-16 09:55:10+0530 > <Up><Left><#+10><Left><Left><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>  <Left><Right><BckSp><Left><#+14><Left><Left><Left><Left><Left><BckSp><BckSp><End>
+2019-05-16 09:55:33+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down><Down><Down><Down><Down><Down><Down>
+2019-05-16 09:56:00+0530 > <Up><Up><Up>
+2019-05-16 09:56:04+0530 > <LCtrl>FFLASH TIMEOUT
+2019-05-16 09:57:29+0530 > <LCtrl><LCtrl>F
+2019-05-16 10:03:46+0530 > 
+2019-05-16 10:03:48+0530 > <BckSp>TIMEO<BckSp><BckSp><#+17>FLASH READ<BckSp><BckSp><BckSp><BckSp><BckSp><#+13>SRAM<Del>
+2019-05-16 10:06:10+0530 > <LCtrl><LCtrl><LCtrl>F<LCtrl>F<LCtrl><LCtrl>F<LCtrl>F<LCtrl><LCtrl>T4<BckSp><#+6><CpsLk>t424ft4r<LCtrl>c
+2019-05-16 10:37:54+0530 > <LCtrl><Up><Left><#+12><Right><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>  <Left><#+16><Left><BckSp><BckSp><End>
+2019-05-16 10:38:17+0530 > <LCtrl>c
+2019-05-16 10:40:04+0530 > <LCtrl>f<LCtrl>f<BckSp><BckSp><BckSp><BckSp><End>-<CpsLk><CpsLk>p<CpsLk>LEASE GET HELP FROM <CpsLk>nxph<CpsLk>I,
+2019-05-16 10:43:06+0530 > 
+2019-05-16 10:43:06+0530 >      <RShft>wE HAVE END I<BckSp><BckSp>ED UP WITH <RShft>"<CpsLk>nand flash timeout error<RShft>" <CpsLk>WHILE INTERACT WITH <CpsLk>nand <CpsLk>DEVICE.<CpsLk>p<CpsLk><BckSp><BckSp>.<CpsLk>c<CpsLk>AN YOU PLEASE GET SOME SUGGESTION FROM <CpsLk>nxp <CpsLk>FOR FIQURE OUT THIS <Right><RShft>tHIS IS THE ERROR ALWAYS GETTING IN U-BOOT.PROBLEM.
+2019-05-16 10:46:21+0530 > 
+2019-05-16 10:46:21+0530 > 
+2019-05-16 10:46:22+0530 > <RShft>rEGARDS,
+2019-05-16 10:46:25+0530 > <RShft>mEERASAHIB
+2019-05-16 10:47:52+0530 > <Up><RShft>*<RShft>*<RShft>fOR <BckSp><BckSp><BckSp><CpsLk>yi <RShft>Thi<BckSp><BckSp><BckSp><CpsLk><CpsLk>t<CpsLk>HIS INTIALIZATION CODE GIVENY BY <CpsLk>nxp.<BckSp><#+14><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><CpsLk><CpsLk>source code <CpsLk>SCRE<Up><Up><LCtrl><Up><Up><Down><Up><#+39><Up><Up><Up><Up><Up><Up><Up><#+1><Up><Up><Up><Up><Up><Down><Down><Down><Down><Down><#+35><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down>
+2019-05-16 10:57:14+0530 > 
+2019-05-16 10:57:14+0530 > 
+2019-05-16 10:57:14+0530 > 
+2019-05-16 10:57:14+0530 > 
+2019-05-16 10:57:15+0530 > <CpsLk>h<CpsLk>I,
+2019-05-16 10:57:21+0530 > 
+2019-05-16 10:57:21+0530 > <RShft>pLEASE FIND THE ATTACHED FILE FOR YOU REFERENCE<Left><#+4><End><Left><#+2><Left><#+12><Left>R<Left><BckSp><Down> <Up><End><Left><Left><Left><Left><Left><Left><Left><Left> <Left><BckSp> <Right>R<Left>KIND .<Left><#+25><Left><Left><Left><Left><Left><Left><Left>SOURCE 
+2019-05-16 10:59:02+0530 > 
+2019-05-16 10:59:03+0530 > <RShft>rEGARDS,
+2019-05-16 10:59:06+0530 > <RShft>mEERASAHIB ALONG WITH SCREENSHOT OF ERROR OCCURING AREA <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp> LOCATION  IN FILE <CpsLk>bc
+2019-05-16 11:14:46+0530 > <LCtrl>c
+2019-05-16 11:15:27+0530 > <LCtrl>f<LCtrl>f<LCtrl>c
+2019-05-16 11:17:42+0530 > <LCtrl>f<RShft>Hi,<BckSp><BckSp><BckSp>h<CpsLk>I,<BckSp><BckSp><BckSp><BckSp><CpsLk>h<CpsLk>I,
+2019-05-16 11:20:48+0530 > 
+2019-05-16 11:20:48+0530 > <RShft>aCTUALLY,THIS SCREEN <BckSp>SHOT TELLS THAT <RShft>hI,
+2019-05-16 11:23:56+0530 > 
+2019-05-16 11:23:56+0530 > <CpsLk><RShft>I<BckSp><RShft>I <BckSp><BckSp>i<CpsLk> AM AVAILABLE<BckSp><#+14><BckSp><BckSp><BckSp><BckSp><CpsLk>y<CpsLk>OU CAN CALL ME AT YOUR TIME SIR.
+2019-05-16 11:24:32+0530 > 
+2019-05-16 11:24:32+0530 > <RShft>t<BckSp><RShft>rEGARDS,
+2019-05-16 11:24:37+0530 > <RShft>mEERASAHIB<Up><Up><Up><Home><RShft>i AM AVI<BckSp>AILABLE NOW,<LCtrl><CpsLk>fl<BckSp><BckSp><BckSp><CpsLk>FLASH TIMEOUT
+2019-05-16 12:11:33+0530 > <CpsLk><CpsLk>VINOD
+2019-05-16 12:14:36+0530 > <LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><Up><Left><#+9><Left><Left><Left><BckSp><#+12><BckSp><BckSp><BckSp><BckSp><BckSp> <#+11><Left><#+16><Left><Left><Left><BckSp><#+10><BckSp><BckSp><BckSp><End>
+2019-05-16 12:18:00+0530 > <Up><Left><#+12><Right><BckSp><#+10><BckSp><BckSp>
+2019-05-16 12:18:41+0530 > LOCATE SYSTEM.IMG
+2019-05-16 12:20:24+0530 > <LCtrl>V<LCtrl><LCtrl>c
+2019-05-16 12:20:29+0530 > c
+2019-05-16 12:20:29+0530 > CD <LShft><Ins><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>
+2019-05-16 12:20:39+0530 > LS -L
+2019-05-16 12:20:40+0530 > LS -LH
+2019-05-16 12:20:44+0530 > TAR -X<BckSp>CVZF <LShft><Ins>.TAR.GZ <LShft><Ins>
+2019-05-16 12:20:57+0530 > LS -L
+2019-05-16 12:21:26+0530 > <Up>H
+2019-05-16 12:21:29+0530 > RM <LShft><Ins>
+2019-05-16 12:21:37+0530 > <LCtrl><LCtrl>FRE<CpsLk>h<CpsLk>I VINOTH,
+2019-05-16 12:28:22+0530 > 
+2019-05-16 12:28:23+0530 > <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>
+2019-05-16 12:28:33+0530 > 
+2019-05-16 12:28:34+0530 > <RShft>pLEASE LET ME INFOEM<BckSp><BckSp>RM IF ANY CHANGES NEED <Left><#+6><Left><Left><Left><Left>OR HELP FOR <CpsLk>ddr <CpsLk>RELATED WORK.ED 
+2019-05-16 12:30:52+0530 > 
+2019-05-16 12:30:53+0530 > <CpsLk>r<CpsLk>EGARDS,
+2019-05-16 12:31:00+0530 > <RShft>mEERASAHIBVINO<Up><Left><#+10><Left><Left><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp> <#+10><Left><#+40><BckSp><BckSp><BckSp><BckSp><End>
+2019-05-16 12:42:09+0530 > <LCtrl>c
+2019-05-16 12:42:42+0530 > <Up><Left><#+10><Left><#+13><Left><Left><Left><Left><BckSp><#+27><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><End>
+2019-05-16 12:42:55+0530 > <Up><Left><#+14><Right><Right><Right><Right><BckSp><#+11><BckSp><BckSp><BckSp><BckSp> <Left><#+13><Left><Left><Left><Left><BckSp><End>
+2019-05-16 12:46:35+0530 > <Up><Left><#+10><Left><Left><BckSp><#+12><BckSp><BckSp>
+2019-05-16 12:48:52+0530 > <PgDn>DG<CpsLk>i<CpsLk>KK<CpsLk>m<CpsLk><CpsLk>x<CpsLk>Q<CpsLk>4cvtd4<CpsLk>JA2<CpsLk>rzxkq5<CpsLk>DK53535126887<CpsLk>fayonics embedded technologies127/35f/1,pudumanai streetadirampattinamt614701ecommerce560628005mohamed meera sahibindian bankadirampattinamidib000a110mohamed meera sahibbusiness127/35f/1,pudumanai street,adirampattinam-614701918940569561<CpsLk>MEERASAHIBM<LShft>@GMAIL.COME<BckSp><CpsLk>ewgpm9682abanalore<Left><Left><Left><Left><Left>g<BckSp><#+20><Right><#+11><End><End>iiiiiii260630445<CpsLk><CpsLk>hut<BckSp><BckSp><BckSp><CpsLk><CpsLk>ha<BckSp><BckSp><CpsLk><CpsLk>hak<CpsLk>ZAH<CpsLk>zaf<CpsLk>AH80<CpsLk>hut<CpsLk>A<CpsLk>mar<CpsLk>INE<CpsLk><CpsLk>2006636515WHTMEE<BckSp><#+17><Del><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgUp><PgUp><PgDn><PgDn><PgDn><#+13><PgDn><#+16><PgDn><#+14><PgDn><#+11><PgDn><#+14><PgDn><#+14><LCtrl>FNANAD<BckSp><BckSp>D<Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down>DGG
+2019-05-16 14:02:25+0530 > ONLINE PURCHASE <#+1>FROM ALIB DOCUMENAR
+2019-05-16 14:07:36+0530 > G
+2019-05-16 14:14:48+0530 > WHAT IS MUXING
+2019-05-16 14:15:00+0530 > MEMORY MAP FLAS<Left><BckSp><#+20>
+2019-05-16 14:19:01+0530 > <LCtrl>VWHAT IS DDR<Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><#+6><Down><Down><#+12><Down><#+2><Up><#+31><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><#+7><Down><Down><Down><Down><#+11><Down><#+14><Down><#+35><Up><#+24><Up><Down>WHY DDRW<BckSp>ETHICS OF EMBEDDED SOFTWARE EN<Down><Down>
+2019-05-16 14:53:50+0530 > CHALLENGE EMBEDDED SO<Down>
+2019-05-16 14:54:40+0530 > <BckSp><#+10><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>DEBUG
+2019-05-16 15:00:56+0530 > <Down><#+13><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><#+7><Down><Down><Down><Down><Down><Down><Down><Down><Down><#+1><Down><Down><Down><Down><Down><Down><Down><Down><Down><#+10><Down><Down><#+13><Down><#+20><Down><#+10><Down><#+11><Down><#+10><Down><#+15><Down><#+20><Down><#+14><Down><#+7><Down><#+15><Down><#+9><Down><#+13><Down><#+10><Down><Down><Down><Down><#+10><Down><#+2><Down><#+14><Down><#+14><Down><Down><#+12><Down><#+15><Down><#+12><Down><#+12><Down><#+12><Down><#+17><Down><#+11><Down><#+8><Down><#+17><Down><#+20><Down><#+4><Down><#+16><Down><#+18><Down><#+19><Down><#+14><Down><#+14><Down><#+13><Up><Up><Up><Up><CpsLk>ddrg
+2019-05-16 15:47:29+0530 > ebwom<BckSp><#+14><CpsLk>WOMEN SCARF1G
+2019-05-16 16:18:55+0530 > NXP  HAKEEM12308K<BckSp><BckSp>B<Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab>
+2019-05-16 16:21:54+0530 > <LCtrl>V<LCtrl>V TIMEOUT
+2019-05-16 16:27:55+0530 > <Left><RShft>+
+2019-05-16 16:28:19+0530 > <BckSp><Right><BckSp><#+6>FLASH 
+2019-05-16 16:28:31+0530 > <Esc><Esc><CpsLk><CpsLk><CpsLk><CpsLk>FLASH TIMEOUT<F1> G
+2019-05-16 16:44:41+0530 > DGG
+2019-05-16 16:45:30+0530 > <Esc><Esc><Del><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><#+4><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn>FMAN<BckSp><BckSp><BckSp><BckSp>FRAME MAT14T4<LCtrl>F<CpsLk>ddr<Up><Left><#+10><Left><Left><BckSp><BckSp><BckSp> 
+2019-05-16 17:54:05+0530 > g
+2019-05-16 17:54:31+0530 > ubantu file sea<Down><Down>
+2019-05-16 17:54:46+0530 > find<BckSp><#+16><CpsLk>FINS<BckSp>D 
+2019-05-16 17:55:38+0530 > <Left><BckSp><#+15><BckSp><BckSp><BckSp><BckSp> <Left><#+19><BckSp><End>
+2019-05-16 17:56:28+0530 > <Up><Up><Down>
+2019-05-16 17:56:38+0530 > 
+2019-05-16 17:56:39+0530 > <LCtrl>X<LCtrl>c
+2019-05-16 17:56:50+0530 > <Up><Left><#+17><Left><#+17><Left><Left><BckSp><#+11><BckSp><BckSp>
+2019-05-16 17:58:17+0530 > <Up><Left><Left><#+18><Left><Left><BckSp><#+12><BckSp><BckSp>
+2019-05-16 17:58:26+0530 > <Up><BckSp><Left><#+6><Right><BckSp><BckSp><Left><#+14><Left><Left><Left><Left><BckSp>
+2019-05-16 17:58:34+0530 > LOCATE <Up><Left><#+18><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>LOCATE <End>.H
+2019-05-16 17:59:06+0530 > <LCtrl>c
+2019-05-16 18:01:35+0530 > <Up><BckSp><#+17><BckSp><BckSp>
+2019-05-16 18:01:44+0530 > <Up><BckSp><#+11><BckSp><BckSp><BckSp><BckSp>MMU.H
+2019-05-16 18:03:50+0530 > <LCtrl>c
+2019-05-16 18:08:45+0530 > <Up><BckSp><#+11> 
+2019-05-16 18:09:08+0530 > <LCtrl>c
+2019-05-16 18:11:39+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Left><Left><Left><Left><Left><Left><BckSp><#+16><BckSp><BckSp><BckSp><BckSp><BckSp>   <Left><Right><Left><Right><BckSp><Left><#+14><Left><Left><Left><Left><Left><Left><Left><BckSp><BckSp><BckSp><End>
+2019-05-16 18:12:05+0530 > <Up><Left><Left><Left><Left><Left><Left><BckSp><#+17><BckSp><BckSp><BckSp><BckSp><BckSp><RShft>"   <Left><#+18><Left><Left><BckSp><BckSp><BckSp><End>
+2019-05-16 18:12:48+0530 > <Up><Left><Left><Left><Left><Left><Left><BckSp><#+15><BckSp><BckSp><BckSp><BckSp><BckSp>  <Left><#+22><Right><BckSp><BckSp><End>
+2019-05-16 18:13:45+0530 > <LCtrl>c
+2019-05-16 19:32:31+0530 > <Up><Left><#+10><Left><Left><BckSp><#+21><BckSp>  <Left><#+22><Left><Left><Left><Left><Left><BckSp><BckSp><End>
+2019-05-16 19:32:51+0530 > <Down><Down><#+51><Down><#+19><Down><Down><#+39><Down><#+13><Down><#+27><Down><#+61><Down><#+18><Down><Down><#+27><Down><#+23><LCtrl>c
+2019-05-16 19:36:05+0530 > <LCtrl>F<Up><Left><#+10><Left><Left><BckSp><BckSp><#+5><BckSp><#+16><BckSp><#+13><BckSp><BckSp><BckSp> <Left><#+22><Left><Left><Left><Left><Left><Left><Left><BckSp><End>
+2019-05-16 19:36:53+0530 > <LCtrl><LCtrl><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgUp><Down><#+16><Down><#+21><Down><#+14><Up><#+22><Down><#+26><Down><#+20><Down><#+21><Down><#+3><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><LCtrl>c
+2019-05-16 19:43:08+0530 > <Up><Left><#+12><Right><BckSp><#+26><BckSp><BckSp><BckSp>  <Left><#+15><BckSp><BckSp><End>
+2019-05-16 19:43:26+0530 > <Up><Left><#+12><Right><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp> <Left><#+6><Left><Left><Left><Left><Left><Left><Left><Left><Left><BckSp><End>
+2019-05-16 19:44:02+0530 > <Up><Left><#+13><Down><Up><Right><Left><Left><Left><Left><Left><Left><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp> <#+16><LCtrl>c
+2019-05-16 19:44:34+0530 > <BckSp><#+22><BckSp><BckSp> <#+11><Left><#+16><Left><Left><Left><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><End>
+2019-05-16 19:44:52+0530 > <LCtrl>c
+2019-05-16 19:46:24+0530 > <Up><Left><#+9><Left><Left><Left><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp> <#+10><Left><#+17><Left><Left><BckSp><BckSp><BckSp><BckSp><BckSp><End>
+2019-05-16 19:46:43+0530 > <LCtrl>c
+2019-05-16 19:53:29+0530 > <Up><Left><#+15><Left><Right><Right><Right><Right><Right><Right><Left><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp> <Left><#+34><BckSp><End>
+2019-05-16 19:53:53+0530 > <LCtrl>c
+2019-05-16 19:55:34+0530 > <LCtrl>F<Up><Left><Left><#+12><Right><Right><BckSp><#+22><BckSp><#+14><BckSp><BckSp><BckSp><BckSp>  <Left><#+19><Left><Left><Left><Left><BckSp><BckSp><End>
+2019-05-16 19:56:02+0530 > <LCtrl>c
+2019-05-16 19:58:32+0530 > G
+2019-05-16 19:58:37+0530 > V<BckSp><LCtrl>VNXP
+2019-05-16 19:58:45+0530 > <LCtrl>F<CpsLk>ddr<PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><#+2><PgDn><PgDn><#+8><PgDn><#+15><PgUp><PgUp><Home><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><#+12><PgDn><#+21><PgDn><#+10><PgUp><LCtrl>c
+2019-05-16 20:09:41+0530 > <LCtrl>v t4160
+2019-05-16 20:09:55+0530 > <Esc><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><BckSp><#+17><Up><BckSp><#+16><BckSp><BckSp><BckSp><BckSp>
+2019-05-16 20:15:27+0530 > <Up><BckSp><#+15><BckSp><BckSp><BckSp><BckSp><BckSp>
+2019-05-16 20:18:42+0530 > <Up><Up><Up><Left><#+10><Left><Left><BckSp><#+18><BckSp><BckSp><BckSp><BckSp><BckSp>fsl<RShft>_<BckSp><#+6><BckSp><BckSp><BckSp><CpsLk>FSL<RShft>_DDR
+2019-05-16 20:19:45+0530 > <Up><Left><#+8><Up><BckSp><#+17><BckSp><BckSp><BckSp><BckSp><BckSp>
+2019-05-16 20:23:47+0530 > <LCtrl>c
+2019-05-16 20:28:07+0530 > <Up><Up><Down><BckSp><#+12><BckSp><BckSp>
+2019-05-16 20:28:22+0530 > <Up>
+2019-05-16 20:28:55+0530 > <Up><Up><Up><Left><#+9><Left><Left><Left><BckSp><#+15><Up><Up><Up><Left><#+10><Left><BckSp><#+22><BckSp> <Left><#+14><Left><Left><Left><Left><Left><Left><BckSp><End>
+2019-05-16 20:31:51+0530 > <LCtrl>c
+2019-05-16 20:34:28+0530 > <Up><Left><#+10><Left><Left><BckSp><#+10><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>  <Left><#+15><BckSp><BckSp><Right><Right><Right><Right><Right><Right><Right><Right><BckSp>0<End>
+2019-05-16 20:34:49+0530 >  <LCtrl>V<Left><Left><BckSp>0
+2019-05-16 20:42:38+0530 > <BckSp>
+2019-05-16 20:42:55+0530 > <LCtrl>c
+2019-05-16 20:45:07+0530 > G
+2019-05-16 20:45:12+0530 > <LCtrl>V
+2019-05-16 20:45:15+0530 > <BckSp><#+63><Right><#+10><Right><BckSp><BckSp><#+18>
+2019-05-16 20:45:41+0530 > <LCtrl>F<LCtrl>V<LCtrl>c
+2019-05-16 20:47:34+0530 > <LCtrl>F<Up><Left><#+10><Left><BckSp><#+10><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp> <Left><#+15><Left><BckSp><End>
+2019-05-16 20:48:17+0530 > <Up><Left><#+11><BckSp><#+12><BckSp><BckSp><BckSp><BckSp><BckSp><CpsLk>ddr2
+2019-05-16 20:50:05+0530 > <PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><Up><Left><#+9><Left><Left><Left><Left><Right><BckSp> cha
+2019-05-16 20:54:39+0530 > ddr<PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><#+4><PgUp><PgUp><PgUp><PgUp><#+9><PgUp><#+13><PgUp><#+17><PgUp><#+13><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgUp><PgUp><PgDn><PgDn><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp>
+
+Logging stopped at 2019-05-17 08:27:47+0530
+
