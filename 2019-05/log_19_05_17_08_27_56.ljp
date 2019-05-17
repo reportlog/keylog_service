@@ -1,0 +1,90 @@
+Logging started ...
+
+2019-05-17 08:27:56+0530 > 
+2019-05-17 10:30:09+0530 >  q<CpsLk>0<BckSp>O<CpsLk>riq<BckSp>q t4160
+2019-05-17 10:39:37+0530 > <LCtrl>c
+2019-05-17 10:50:58+0530 > <Up><Left><#+9><Left><Left><Left><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>  <Right><Left><BckSp><Left><#+28><Left><BckSp><BckSp><End>
+2019-05-17 10:51:17+0530 > g
+2019-05-17 10:53:13+0530 > <LCtrl>v
+2019-05-17 10:53:16+0530 >  nxp
+2019-05-17 10:54:30+0530 > 
+2019-05-17 10:59:05+0530 > enabl<BckSp><#+16><CpsLk>ENABLE <CpsLk>ddr2 <CpsLk>CONTROLLER AND DIABLE DDR1 CONTROLLER
+2019-05-17 11:02:49+0530 > HOW TO DIA<BckSp>SABLE <CpsLk>ddr <Down> <CpsLk>IN POWERPC NXP
+2019-05-17 11:07:13+0530 > <LCtrl><LCtrl><PgDn><PgDn><LCtrl><LCtrl><PgDn><PgDn><PgDn><PgUp><PgDn><PgUp><PgUp><PgDn><PgDn><PgDn><PgDn><PgDn><#+7><PgDn><#+10><PgDn><PgDn><PgDn><PgDn><#+11><PgDn><PgDn><PgDn><#+13><PgDn><#+9><PgDn><#+6><PgDn><PgDn><PgDn><PgUp><Down><#+11><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><#+7><PgDn><PgDn><#+12><PgDn><#+14><PgDn><PgDn><#+11><PgDn><#+16><PgDn><#+15><PgDn><#+15><PgDn><#+19><PgDn><#+19><PgDn><#+17><PgDn><#+14><PgDn><#+17><PgDn><#+18><PgDn><#+17><PgDn><#+22><PgDn><#+11>WHAT ID<BckSp>S <CpsLk>ddr <CpsLk>CO<Down>
+2019-05-17 11:13:07+0530 >  IN NXP
+2019-05-17 11:13:23+0530 > <LCtrl><Up><Left><#+13><Right><Right><BckSp><#+24><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>MSC711X
+2019-05-17 11:14:43+0530 > <Up><Left><#+9><Left><Left><Left><BckSp><BckSp><BckSp><BckSp>
+2019-05-17 11:14:55+0530 > <PgDn><PgDn><PgDn><PgDn><Down><#+12><Up><#+2><PgDn><PgDn><PgDn><#+10><PgUp><PgUp><Down><#+3><Down><#+12><Down><#+9><Down><#+13><Up><#+10><Up><#+12><PgDn><PgDn><PgDn><PgDn><PgDn><#+12><PgDn><#+1><PgDn><PgDn><PgDn><#+12><PgDn><#+17><PgDn><#+15> <CpsLk>controller<LCtrl>c
+2019-05-17 11:20:46+0530 > <Up><Left><#+10><Left><Left><BckSp><BckSp><BckSp><BckSp>' <BckSp><BckSp>'<BckSp><RShft>" <#+11><Left><Left><#+12><Left><Left><BckSp><BckSp><BckSp><BckSp><End>
+2019-05-17 11:21:13+0530 > <LCtrl>c
+2019-05-17 11:23:13+0530 > <Up><Left><Left><Left><Left><Left><Left><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>  <Left><#+10><Left><BckSp><BckSp><End>
+2019-05-17 11:23:30+0530 > <LCtrl>c
+2019-05-17 11:23:44+0530 > <Up><Left><#+10><Left><Left><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp> <#+9><Left><#+15><Left><Left><Left><BckSp><BckSp><BckSp><End>
+2019-05-17 11:23:59+0530 > <Up><Left><#+8><Left><Left><Left><Left><BckSp><#+14><BckSp><BckSp><BckSp><BckSp> <#+3>  <Left><Left><Left><Left><Left><Left><BckSp><BckSp><BckSp><Right><Right><BckSp>1
+2019-05-17 11:27:08+0530 > <Down><Up><Left><Left><Left><Left><Left><Left><BckSp><#+10><BckSp><BckSp> <Left><#+14><Left><Left><Left><Left><Left><BckSp><End>
+2019-05-17 11:30:40+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><#+1><BckSp><#+14> 
+2019-05-17 11:31:04+0530 > <Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Up><LCtrl>c
+2019-05-17 11:33:01+0530 > <Up><Up><Left><#+10><Left><BckSp><#+16><BckSp><BckSp><BckSp> <Left><#+12><Left><#+12><Left><Left><Left><Left><BckSp>
+2019-05-17 11:33:19+0530 > <Up><Left><#+12><Right><BckSp><#+15><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp> <Left><#+27><BckSp>
+2019-05-17 11:33:54+0530 > <Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down>
+2019-05-17 11:36:10+0530 > <CpsLk>A<CpsLk><BckSp> ddr
+2019-05-17 11:36:26+0530 > <PgDn><PgDn><PgUp><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><#+14><PgDn><#+9><PgUp><#+10><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><#+13><PgDn><PgDn><PgDn><#+18><PgDn><#+21><Up><Left><#+10><Left><Left><BckSp><#+25><BckSp><BckSp><BckSp> <#+14><Left><#+26><BckSp><#+12><BckSp><BckSp>
+2019-05-17 11:41:14+0530 > <Up><Left><#+10><Left><BckSp><#+11><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><#+14><BckSp><BckSp><BckSp><BckSp> <Left><#+21><BckSp><End>
+2019-05-17 11:41:52+0530 > <LCtrl>fddr<LCtrl>c
+2019-05-17 11:44:41+0530 > <LCtrl>f<LCtrl>v<LCtrl>f<LCtrl>f<LCtrl>v<LCtrl>fcon<LCtrl>fcontroller
+2019-05-17 11:46:36+0530 > <PgDn><PgUp><PgDn><PgDn><PgDn><PgDn><PgUp><PgDn><PgDn><PgDn><Home><Down><#+8><Up><#+9><Down><#+10><Down><#+11><Down><#+9><Down><#+9><PgDn><CpsLk><CpsLk>ddr <CpsLk>CONTROLLER CONFIGURATION <CpsLk>q<CpsLk>O<CpsLk>r<CpsLk>IQ
+2019-05-17 11:50:33+0530 > <LCtrl>FDDR CONTROLLER<Up><Left><#+10><Left><Left><BckSp><#+15><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp> <Left><#+21><Left><BckSp><End>
+2019-05-17 11:55:22+0530 > <Up><Left><#+9><Left><Left><Left><BckSp><#+18><BckSp><BckSp><BckSp><BckSp>   <Left><#+23><Right><BckSp><BckSp><BckSp><End>
+2019-05-17 12:03:34+0530 > <Up><Left><#+10><Left><Left><BckSp><#+19><BckSp><BckSp><BckSp><BckSp>  <Left><#+34><Left><BckSp><BckSp><End>
+2019-05-17 12:06:04+0530 > <LCtrl>c
+2019-05-17 12:14:02+0530 > <LCtrl>V<Down>
+2019-05-17 12:14:18+0530 > <PgDn><PgDn><PgDn><PgDn><PgDn><#+1><PgUp><LCtrl>F<PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgUp>G
+2019-05-17 12:21:59+0530 > 
+2019-05-17 12:22:02+0530 > 
+2019-05-17 12:22:39+0530 > <LCtrl>c
+2019-05-17 12:36:11+0530 > <Up><Left><#+14><Right><Right><Right><BckSp><#+30><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LCtrl>V<LShft><Ins>
+2019-05-17 12:36:41+0530 > CD /AR<Tab><BckSp><BckSp><BckSp>AR<Tab><#+1>PO<Tab>I<Tab>AS<Tab><#+2>IMM<Tab>A<Tab><#+2>P<Tab><LShft>_<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>
+2019-05-17 12:37:46+0530 > VIM IM<Tab>8<Tab>5<Tab>
+2019-05-17 12:37:59+0530 > /<LShft><Ins>
+2019-05-17 12:38:08+0530 > <Down><RShft>:Q
+2019-05-17 12:40:04+0530 > <Up><BckSp><BckSp><BckSp><BckSp><#+27>CD ../../
+2019-05-17 12:40:20+0530 > CD I<BckSp>C<Tab>M<Tab>85<Tab>
+2019-05-17 12:40:32+0530 > VIM CP<Tab>.<Tab>
+2019-05-17 12:40:37+0530 > /<LShft><Ins>
+2019-05-17 12:40:53+0530 > NNNNNNNNNNNNNNNN<Esc><Esc><Esc><Up><#+4><Up><#+14><Up><Up><Up><#+15><Up><#+37><Up><#+8><Down><Down><#+16><Down><#+14><Down><#+15><Down><#+15><Down><#+15><Down><#+10><Down><#+11><Down><#+12><Down><#+8><Down><Down><Down><Down><#+1><Down><Down><#+11><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down>/<LShft><Ins>
+2019-05-17 12:42:44+0530 > /<LShft><Ins><BckSp>
+2019-05-17 12:45:05+0530 > 
+2019-05-17 12:45:07+0530 > 
+2019-05-17 12:45:14+0530 > 
+2019-05-17 12:45:15+0530 > 
+2019-05-17 12:45:15+0530 > /DDR1
+2019-05-17 12:45:22+0530 > DD<Esc><Esc><Esc><Esc><Esc><#+2>U<Esc>U<Esc>U<Esc>U<Esc>U<Esc>U<Esc>U<Esc><Esc><RShft>:Q
+2019-05-17 12:45:42+0530 > <Up><Up><Up><Up><BckSp><#+30>CD ../.../<BckSp><BckSp>/../
+2019-05-17 12:45:55+0530 > CD ../
+2019-05-17 12:45:59+0530 > LS
+2019-05-17 12:46:01+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Left><#+11><BckSp><#+10><BckSp><BckSp><BckSp><LShft><Ins>
+2019-05-17 12:46:14+0530 > <Up><Left><Left><Left><Left><Left><Left><BckSp>2
+2019-05-17 12:46:27+0530 > <Up><Left><Left><Left><Left><Left><Left><BckSp>1
+2019-05-17 12:46:42+0530 > CD /<BckSp><BckSp><BckSp><BckSp>VIM DOC<BckSp><BckSp><BckSp><LShft>dO<Tab><Tab><Tab><Tab><BckSp><BckSp>D<Tab><Tab>O<Tab>FS<Tab><#+1>L<Tab><Tab><Tab><BckSp><BckSp><BckSp><Tab><Tab>NFSL<LShft>_DDR.<BckSp><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><BckSp><#+25>CD DOC
+2019-05-17 12:55:19+0530 > LS
+2019-05-17 12:55:21+0530 > VIM <LShft>r<Tab>F<Tab>S<Tab><Tab><LShft>_<Tab><#+1><BckSp><BckSp><BckSp><BckSp><BckSp>D<Tab><Tab><BckSp>-D<Tab><Tab>D<Tab>
+2019-05-17 12:55:46+0530 > 
+2019-05-17 13:01:33+0530 > <Down><Down><#+12><Down><#+18><Down><#+13><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Up><#+10><Up><#+13><Down><#+14><Down><#+14><Up><#+13><Up><#+12><Down><#+27><Down><#+9><Down><#+9><Down><#+8><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><#+12><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><#+21><Down><#+14><Down><#+14><Down><#+14><Down><#+13><Down><Down><#+1><Down><Down><Down><Down><Down><Down><Down><#+63><Down><#+5><Up><#+132><Up><#+17><Up><#+17><Up><Up><#+14><Up><Up><#+20><Up><Up><Up><#+16><Up><Up><Up><Up><Up><#+10><Up><Up><Up><#+8><Up><Up><Up><Up><#+1><Down><#+44><Down><#+16><Down><Down><Down><#+9><Down><Down><LCtrl>c
+2019-05-17 13:32:46+0530 > <LCtrl>V
+2019-05-17 13:32:58+0530 > 
+2019-05-17 13:37:12+0530 > LS
+2019-05-17 13:38:04+0530 > CD C<Tab>O<Tab>
+2019-05-17 13:38:13+0530 > LS
+2019-05-17 13:38:15+0530 > CD ../
+2019-05-17 13:38:18+0530 > LS
+2019-05-17 13:38:19+0530 > CD <RShft>:Q
+2019-05-17 13:39:12+0530 > CD ..
+2019-05-17 13:39:18+0530 > LS
+2019-05-17 13:39:22+0530 > CD AP<Tab>
+2019-05-17 13:40:12+0530 > LS
+2019-05-17 13:40:13+0530 > CD<BckSp><BckSp><BckSp>VIM<CpsLk> api<LShft>_<CpsLk><BckSp><BckSp><BckSp><BckSp><CpsLk>ap<BckSp><BckSp><CpsLk>AP<Tab><LShft>_PL<Tab>PO<Tab>
+2019-05-17 13:40:51+0530 > <Down><#+40><Down><#+14><Up><#+44><Down><#+28><Down><#+13><Down><#+33><Down><Down><Down><Down><#+23><Down><#+9><Up><Up><Up><#+60><Down><#+62><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><LMeta><#+2>L<CpsLk><CpsLk>ZS10062013
+2019-05-17 14:27:49+0530 > 
+
+Logging stopped at 2019-05-17 14:28:12+0530
+
