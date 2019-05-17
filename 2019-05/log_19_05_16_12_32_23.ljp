@@ -1,0 +1,39 @@
+Logging started ...
+
+2019-05-16 12:32:23+0530 > <Del>imx6 sabre sd board linux porting
+2019-05-16 12:38:21+0530 > <BckSp><#+40>linux porting on imx6 sabre sd <Down><Down>
+2019-05-16 12:42:31+0530 > <Down><Down><Down><Down><Down><#+9><Down><#+11> uis<BckSp><BckSp>sing mf<BckSp><BckSp><Left><#+5><Left><#+5> using emmc
+2019-05-16 12:46:20+0530 > nxp
+2019-05-16 12:49:27+0530 > port<BckSp><BckSp><BckSp><BckSp><BckSp>linux port <BckSp>ing guide for imx5<BckSp>6 sabre sd 
+2019-05-16 12:50:07+0530 > <BckSp><#+17><BckSp><BckSp><BckSp>
+2019-05-16 12:50:12+0530 > <BckSp><#+16><BckSp>user guid<Left><Left><Left><Left>imc<BckSp>x 6 sabre sd 
+2019-05-16 12:50:52+0530 > imx6 sabre sd linux<#+1> user guidd<BckSp>e
+2019-05-16 12:51:09+0530 >  for mfg tool
+2019-05-16 13:07:26+0530 > <LMeta><#+2>lzs10062013
+2019-05-16 13:47:14+0530 > <LCtrl>f<Down><Up><Down><Down><Down><Up><Up><Down><Down><Down><Down><Down><Down><Down><Up><Down><Down><Up><Down><Down><Down><Down><Down><Down><#+12><Down><Down><Up><Down>steps to boot the u-boot <BckSp>, linux kernel <BckSp>, dtb and rootfs to the imx6 sabre sdf<BckSp><BckSp>f<BckSp>d boa<#+1>rd 
+2019-05-16 15:35:58+0530 > <Right><#+8><Right><Right> <Left><#+57><Left><BckSp><BckSp><BckSp><BckSp>flasg <BckSp><BckSp>h <BckSp><Left><Left><Left><#+14><Left>emmc of 
+2019-05-16 15:37:06+0530 > <Up><Up><Up><Up><Up><Down><Down><Up><Down><Down><Up><LMeta>lzs<KP1><KP0><KP0><KP6><KP2><KP0><KP1><KP3>
+2019-05-16 16:16:49+0530 > <LCtrl>s<Down><Down><Up><Down><Down><Down><Down><Down><Down><#+11><Down><Down><#+12><Down><#+2><Down><#+10><Down><#+14><Down><#+8><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><#+9><Down><#+2><Down><#+9><Down><Down><#+7><Down><#+7><Down><Down><Down><#+1><Down><#+11><Down><#+9><Down><#+8><Down><Down><Down><#+8><Down><#+9><Down><Down><Down><Down><Down><#+9><Down><Down><Down><Down><LShft><Up><Up><LShft><Up><Down><Down><Down><Down><Down>find . -name <LShft>"imx<LShft>_mkimage<LShft>*<LShft>"
+2019-05-16 16:46:33+0530 > <Up><Left><#+12><BckSp>-
+2019-05-16 16:46:44+0530 > <Down><Down><#+3><Down><Down><Down><Down><Down><Down><#+6><Down><Down><#+8><Down><#+8><Down><#+8><Down><#+10><Down><#+8><Down><#+1><Down><#+8><Down><Down><Down><Down><Up><Down>saveenv
+2019-05-16 17:05:26+0530 > <Up><Up><Left><BckSp><Left><#+11><BckSp><LShft>*
+2019-05-16 17:19:57+0530 > <Up><Up><Up><Left><Left><Left><#+11><Left><Left><Left><Left><LShft>*
+2019-05-16 17:20:06+0530 > clear
+2019-05-16 17:20:12+0530 > <Down><#+9><Down><Down>ls
+2019-05-16 17:38:39+0530 > <Down><Down><Down><Down><Up><Down><Up><Down><Down><Down><Down><Down><Down><Down><Down><#+10><Down><Down><Up><Up><Up><Down><Up><Down><Up><Down><Up><Down>freescale document to flash uboot <BckSp>, linuc<BckSp>x kernel and rootfs to imx6 sabre sf <BckSp><BckSp>d board
+2019-05-16 19:00:15+0530 > <BckSp>preference manua;<BckSp>l
+2019-05-16 19:09:10+0530 > cd ..
+2019-05-16 19:23:53+0530 > <BckSp>cd ro<Tab>
+2019-05-16 19:23:57+0530 > ls
+2019-05-16 19:23:58+0530 > find  <BckSp>. -name <LShft>"<Left><#+18><BckSp><Right><#+18>
+2019-05-16 19:24:24+0530 > sudo -s
+2019-05-16 19:24:53+0530 > zs10062013
+2019-05-16 19:24:58+0530 > ls
+2019-05-16 19:25:03+0530 > tar -cjf ../rootfs.<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><Left><#+16><BckSp><Right><#+14><Right><Right><Right> ./<LShft>*
+2019-05-16 19:26:05+0530 > ls
+2019-05-16 19:26:35+0530 > cd ..
+2019-05-16 19:26:37+0530 > ls
+2019-05-16 19:26:38+0530 > 
+
+Logging stopped at 2019-05-17 08:27:26+0530
+
