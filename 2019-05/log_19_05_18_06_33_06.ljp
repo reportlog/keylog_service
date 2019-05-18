@@ -1,0 +1,22 @@
+Logging started ...
+
+2019-05-18 18:33:06+0530 > starting kernel in imx6 sabre sd 
+2019-05-18 18:33:58+0530 > find . -name <LShft>"<LShft>*.dtsi<LShft>"
+2019-05-18 18:50:37+0530 > <Up><Left><#+10><Left>imx6
+2019-05-18 18:50:47+0530 > <Up><Left><#+9><Left><Left>q
+2019-05-18 18:51:05+0530 > <Up><Left><#+10><Left><Right><BckSp>dl-sabresd
+2019-05-18 18:51:33+0530 > <LCtrl>f<LCtrl>f<LShft>MX6qdl<LCtrl>f<LCtrl>f<LCtrl>f<LCtrl>f<Left><#+35><Right><BckSp><LCtrl>c
+2019-05-18 18:55:25+0530 > f//<LCtrl>f<LCtrl>v//<LCtrl>fv//<LCtrl>c
+2019-05-18 18:56:37+0530 > <LCtrl>f<LCtrl>v<Left><#+52><Right><BckSp><Right><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LCtrl>c
+2019-05-18 18:57:02+0530 > <LCtrl>fv<LCtrl>c
+2019-05-18 18:57:14+0530 > <LCtrl>fv<Right><Right><Left><#+48><BckSp><BckSp><BckSp><LCtrl>c
+2019-05-18 18:57:32+0530 > <LCtrl>fv<LCtrl>c
+2019-05-18 18:57:44+0530 > <LCtrl>fv<LCtrl><LCtrl>s<#+1>s<#+2>ls
+2019-05-18 18:57:59+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down><Down>
+2019-05-18 18:58:07+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up>
+2019-05-18 18:58:13+0530 > <Up><Up><Up><Down><Down><Down><Down>make
+2019-05-18 18:58:18+0530 > <LCtrl><LCtrl><LCtrl>zzzzzzzzzzzzzzzzzzz<LCtrl>s<Up><Up><Up>
+2019-05-18 19:07:13+0530 > <Up><Up><Up>
+2019-05-18 19:07:14+0530 > <Up><Up><Down><Up><Up>
+2019-05-18 19:07:17+0530 > export <LShft>ARCH=arm
+2019-05-18 19:08:45+0530 > <Up><Up><Up><Up>
