@@ -1,0 +1,120 @@
+Logging started ...
+
+2019-05-18 10:40:05+0530 > lear
+2019-05-18 10:40:06+0530 > sudo minicom
+2019-05-18 10:40:11+0530 > <LCtrl>a<#+4>a<LShft>A<#+8><LCtrl><LShft>A<#+6>
+2019-05-18 10:40:25+0530 > 
+2019-05-18 10:40:25+0530 > 
+2019-05-18 10:40:25+0530 > 
+2019-05-18 10:40:26+0530 > 
+2019-05-18 10:40:27+0530 > cddfjhdhgdhgdjhgdfdhfdgfdfgdhfgkkkkkk<#+1>kkkkkkkkkk<#+1>kkkkk<LCtrl>c
+2019-05-18 10:41:38+0530 > <#+5>c
+2019-05-18 10:41:38+0530 > c
+2019-05-18 10:41:39+0530 > c
+2019-05-18 10:41:39+0530 > <LCtrl>c
+2019-05-18 10:41:48+0530 > <#+3>vvv<LShft><LCtrl>A<#+9>Z<#+8><LCtrl><LCtrl><LShft>AZZZZZcd
+2019-05-18 10:42:10+0530 > sudo minicom -s
+2019-05-18 10:42:17+0530 > zs10062013
+2019-05-18 10:42:22+0530 > <Down><Down>
+2019-05-18 10:42:32+0530 > <Down><Up>epe<#+9>
+2019-05-18 10:43:32+0530 > <Down><Down><Up><Up><Up>gg<#+1>gggfe
+2019-05-18 10:44:06+0530 > 
+2019-05-18 10:44:06+0530 > 
+2019-05-18 10:44:08+0530 > e
+2019-05-18 10:44:11+0530 > f
+2019-05-18 10:44:17+0530 > <Down><Down><Up><Up><Down><Down><Down><Down><Down>
+2019-05-18 10:44:29+0530 > man jiffy
+2019-05-18 10:45:00+0530 > <Up><Left><Left><Left><Left><Left><Left><Right>2 
+2019-05-18 10:45:06+0530 > <Up><Left><#+11><Right><BckSp>3
+2019-05-18 10:45:10+0530 > clear
+2019-05-18 10:45:13+0530 > ls
+2019-05-18 10:46:00+0530 > cd ..
+2019-05-18 10:46:02+0530 > ls
+2019-05-18 10:46:03+0530 > cd ub<Tab>
+2019-05-18 10:46:08+0530 > ls
+2019-05-18 10:46:09+0530 > a<BckSp>export <LShft>ARCH=arm
+2019-05-18 10:46:19+0530 > export <LShft>CROSS_COMPILE=arm<Tab><Tab>-linux-gnueabihf-
+2019-05-18 10:47:13+0530 > make mx6qsabre <BckSp>sd<LShft>_config
+2019-05-18 10:47:42+0530 > make
+2019-05-18 10:48:06+0530 > <Up><Up><Up><Down>
+2019-05-18 10:48:19+0530 > <Up><Left><#+3><Left><Left><Left><Left><Left>def
+2019-05-18 10:48:27+0530 > sabfind . -name <LShft>"<LShft>*config<LShft>"
+2019-05-18 10:55:58+0530 > cd ..
+2019-05-18 10:56:28+0530 > cd ..
+2019-05-18 10:56:30+0530 > cd u<Tab><Tab>b<Tab>
+2019-05-18 10:56:35+0530 > ls
+2019-05-18 10:56:36+0530 > <Up><Up><Up><Up>
+2019-05-18 10:56:39+0530 > make mx6qsabe<BckSp>re<BckSp><BckSp><BckSp>bresd<LShft>+<BckSp><LShft>_config
+2019-05-18 10:57:00+0530 > cd ..
+2019-05-18 10:57:16+0530 > cd fla<Tab>l<Tab>
+2019-05-18 10:57:21+0530 > make imx<Tab><BckSp><#+20><BckSp><#+2><BckSp>find -<BckSp>. -name<LShft> <LShft>"imx<LShft><LShft>*defconfig<LShft>"
+2019-05-18 10:57:48+0530 > make imx<LCtrl>z<#+1>zz<LCtrl>z<#+1>z<BckSp><#+153><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp> <Left><#+18><Left><Left><Left><BckSp>
+2019-05-18 10:58:40+0530 > make
+2019-05-18 10:58:50+0530 > ub<BckSp><BckSp><BckSp>download u-boot fr<BckSp>or imx6 sabre sd bao<BckSp><BckSp>oard
+2019-05-18 10:59:27+0530 > cd ..
+2019-05-18 11:00:02+0530 > cd ..
+2019-05-18 11:00:03+0530 > ls
+2019-05-18 11:00:04+0530 > clear
+2019-05-18 11:00:07+0530 > <Left><#+67><Right><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>
+2019-05-18 11:00:16+0530 > <Left><#+56><Left><Left><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>
+2019-05-18 11:00:39+0530 > <LCtrl>c
+2019-05-18 11:03:49+0530 > <#+2><Del><Up>
+2019-05-18 11:04:04+0530 > 
+2019-05-18 11:04:31+0530 > 
+2019-05-18 11:04:31+0530 > <LCtrl>c
+2019-05-18 11:04:53+0530 > <Left><#+35><Left><Left><BckSp><#+14>
+2019-05-18 11:05:05+0530 > <Del><Up>
+2019-05-18 11:05:17+0530 > <LCtrl><LCtrl>c
+2019-05-18 11:05:33+0530 > <Up><Up>
+2019-05-18 11:05:34+0530 > why sabre sd is not booting whe n<BckSp><BckSp>n we  reset the button
+2019-05-18 11:06:29+0530 > from emmc 
+2019-05-18 11:06:35+0530 > <LCtrl><LCtrl>imx6 
+2019-05-18 11:14:24+0530 > <BckSp>
+2019-05-18 11:14:31+0530 > uboot comfiguration<BckSp><#+23>uboot probmen <BckSp><BckSp><BckSp><BckSp><BckSp>ble m<BckSp><BckSp>m in imx6 sabre sd board using <BckSp><#+8><BckSp><BckSp><BckSp><BckSp><Left><#+23>using emmc 
+2019-05-18 11:16:57+0530 > <Up><Up>
+2019-05-18 11:20:56+0530 > <LCtrl>c
+2019-05-18 11:21:12+0530 > 
+2019-05-18 11:22:35+0530 > cd u-<Tab>`
+2019-05-18 11:24:57+0530 > <LCtrl>c
+2019-05-18 11:24:59+0530 > <Up><BckSp>
+2019-05-18 11:25:00+0530 > 
+2019-05-18 11:25:21+0530 > 
+2019-05-18 11:25:43+0530 > 
+2019-05-18 11:26:01+0530 > 
+2019-05-18 11:26:16+0530 > 
+2019-05-18 11:26:29+0530 > find . -name <LShft>"mx6<LShft>*config<LShft>"
+2019-05-18 11:26:49+0530 > <Up><Up><Left><#+14><Right><#+13><Right><Right>
+2019-05-18 11:27:22+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down>
+2019-05-18 11:27:50+0530 > <Up><Up><Left><#+21><Left><BckSp><#+16><BckSp><BckSp><#+14><BckSp><BckSp><BckSp><BckSp>
+2019-05-18 11:28:03+0530 > 
+2019-05-18 11:28:04+0530 > clea<#+1>r
+2019-05-18 11:28:07+0530 > <Del>cd ..
+2019-05-18 11:28:19+0530 > ls
+2019-05-18 11:28:19+0530 > cd
+2019-05-18 11:28:28+0530 > cd <LShft>Do<Tab>c<Tab>pu<Tab>
+2019-05-18 11:28:34+0530 > ls
+2019-05-18 11:28:35+0530 > 
+2019-05-18 11:30:25+0530 > <LCtrl>c
+2019-05-18 11:30:28+0530 > <Up><BckSp>
+2019-05-18 11:30:29+0530 > ls
+2019-05-18 11:35:30+0530 > cd u<Tab>
+2019-05-18 11:35:34+0530 > ks<BckSp><BckSp>ls
+2019-05-18 11:35:37+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up>
+2019-05-18 11:35:45+0530 > export <LShft>ARCH=arm
+2019-05-18 11:35:51+0530 > find . -name <LShft>"<LShft>*config<LShft>:<BckSp><BckSp>g<LShft>"
+2019-05-18 11:36:07+0530 > <Up><Left><#+12>mx
+2019-05-18 11:36:17+0530 > <Up><Left><#+12><Left><Right><BckSp><BckSp><Right>def
+2019-05-18 11:36:45+0530 > ls
+2019-05-18 11:36:47+0530 > cd <BckSp><#+12><Del>cd ..
+2019-05-18 11:39:19+0530 > cd
+2019-05-18 11:39:22+0530 > cd <LShft>DO<Tab><BckSp>o<Tab><Tab>c<Tab>p<Tab>
+2019-05-18 11:39:29+0530 > <Up>u<Tab>
+2019-05-18 11:39:34+0530 > ls
+2019-05-18 11:39:35+0530 > clear
+2019-05-18 11:39:38+0530 > 
+2019-05-18 11:39:41+0530 > cd u<Tab>
+2019-05-18 11:40:49+0530 > ls
+2019-05-18 11:40:50+0530 > uboot
+2019-05-18 11:42:46+0530 > puneeth989<LShft>Welcome123uboot
+2019-05-18 11:44:04+0530 > uboot
+2019-05-18 11:44:50+0530 >  f
