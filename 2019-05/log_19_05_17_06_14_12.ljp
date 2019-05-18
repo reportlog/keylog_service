@@ -1,0 +1,53 @@
+Logging started ...
+
+2019-05-17 18:14:12+0530 > <LCtrl><LCtrl>not fls<BckSp><BckSp><#+16>flashinf probel <BckSp><BckSp><BckSp>lem in the mfg tool
+2019-05-17 18:36:48+0530 > partion
+2019-05-17 18:39:00+0530 >  while flasing to tje <BckSp><BckSp><BckSp>he emmc
+2019-05-17 18:47:36+0530 > <LCtrl>f<LCtrl>fwhy reset not working in imx6 sabre sd board
+2019-05-17 19:22:05+0530 >  using emmc
+2019-05-17 19:22:24+0530 > p<Down>
+2019-05-17 19:24:11+0530 > 
+2019-05-17 19:24:12+0530 > <LShft>Welcome<LShft>!23
+2019-05-17 19:24:21+0530 > what is custom board
+2019-05-17 19:25:37+0530 > boot probem with imx6 sabre sd 
+2019-05-18 10:08:59+0530 >  using emmc
+2019-05-18 10:09:10+0530 > linux 
+2019-05-18 10:09:23+0530 > ls
+2019-05-18 10:11:18+0530 > cd <BckSp><#+19>find . -name <LShft>"mx6<LShft>*config<LShft>"
+2019-05-18 10:11:32+0530 > <Up><Left><#+9><Left><Left><Left><Left><BckSp>
+2019-05-18 10:11:44+0530 > ls
+2019-05-18 10:11:47+0530 > cd <BckSp><#+16>cd ..
+2019-05-18 10:12:03+0530 > ls
+2019-05-18 10:12:04+0530 > cd ..
+2019-05-18 10:12:09+0530 > cd u-<LShft><Tab>
+2019-05-18 10:12:11+0530 > ls
+2019-05-18 10:12:12+0530 > find . -m<BckSp>name <LShft>"mc<BckSp>x<LShft>*config<LShft>"
+2019-05-18 10:12:34+0530 > cd ..
+2019-05-18 10:12:39+0530 > cd u<Tab><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>ls
+2019-05-18 10:12:46+0530 > cd g<BckSp>fk<Tab><BckSp><Tab>u<Tab>
+2019-05-18 10:12:53+0530 > ld
+2019-05-18 10:12:54+0530 > ls
+2019-05-18 10:12:56+0530 > <Up><Up><Up><Up><Up><Up>
+2019-05-18 10:13:00+0530 > cd..
+2019-05-18 10:13:40+0530 > cd ..
+2019-05-18 10:13:42+0530 > cd ..
+2019-05-18 10:13:43+0530 > ls
+2019-05-18 10:13:44+0530 > cd ub<Tab>
+2019-05-18 10:13:47+0530 > <Up><Up><Up><Up><Up><Up><Down>
+2019-05-18 10:13:50+0530 > ls
+2019-05-18 10:13:53+0530 > cd con<Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><BckSp><#+16>cd ..
+2019-05-18 10:14:17+0530 > ls
+2019-05-18 10:14:19+0530 > cd <Del>fls<Tab><BckSp><Tab>u<Tab>
+2019-05-18 10:14:53+0530 > expor<#+2>t <LShft>ARCH=arm
+2019-05-18 10:15:01+0530 > <Up><Up><Up><Up><Up><Up>
+2019-05-18 10:15:05+0530 > make mx6sabresd<LShft>_defconfig
+2019-05-18 10:15:17+0530 > ls
+2019-05-18 10:15:36+0530 > cd to<Tab>
+2019-05-18 10:15:47+0530 > ls
+2019-05-18 10:15:48+0530 > cd ...<BckSp>
+2019-05-18 10:15:53+0530 > find . -name <LShft>"config<LShft>*<LShft>"
+2019-05-18 10:16:07+0530 >  how to open minicom in linux
+2019-05-18 10:39:22+0530 > 
+
+Logging stopped at 2019-05-18 10:39:58+0530
+
