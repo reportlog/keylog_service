@@ -65,3 +65,6 @@ Logging started ...
 2019-05-21 15:11:55+0530 > ls
 2019-05-21 15:11:56+0530 > make clean
 2019-05-21 15:12:01+0530 > <LCtrl><LShft>T
+
+Logging stopped at 2019-05-21 15:19:18+0530
+
