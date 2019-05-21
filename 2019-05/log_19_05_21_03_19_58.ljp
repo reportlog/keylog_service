@@ -1,0 +1,68 @@
+Logging started ...
+
+2019-05-21 15:19:58+0530 > cd
+2019-05-21 15:20:29+0530 > cd dev<BckSp><BckSp><BckSp>/dev/sa<BckSp>db2
+2019-05-21 15:20:41+0530 > <Up><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><Left><#+41><Left><Left><BckSp>
+2019-05-21 15:21:09+0530 > ls
+2019-05-21 15:21:11+0530 > cd
+2019-05-21 15:21:25+0530 > cd 
+2019-05-21 15:21:35+0530 > ls
+2019-05-21 15:21:37+0530 > cd
+2019-05-21 15:21:56+0530 > unmounyt <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>mount /media.<BckSp>/zumi/<LShft>*
+2019-05-21 15:22:17+0530 > <Up><Up><Down>
+2019-05-21 15:27:33+0530 > make
+2019-05-21 15:27:39+0530 > <LCtrl>c
+2019-05-21 15:27:56+0530 > <#+3>export <LShft>ARCH=<LShft>arm
+2019-05-21 15:28:05+0530 > export <LShft>CROSS_COMPILE=arm-linux-<Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up>
+2019-05-21 15:28:25+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down>
+2019-05-21 15:28:32+0530 > make
+2019-05-21 15:28:36+0530 > <LCtrl>c
+2019-05-21 15:40:56+0530 > <#+1>ms<BckSp>ake clean
+2019-05-21 15:41:05+0530 > uob<BckSp><BckSp>boot environment <Down> 
+2019-05-21 15:42:20+0530 > <LCtrl>fmmc<BckSp><BckSp><BckSp><BckSp><BckSp>sd<BckSp><BckSp><BckSp>emmc<LCtrl>fma<BckSp><BckSp><BckSp><BckSp>make
+2019-05-21 15:47:06+0530 > what is boot.scr
+2019-05-21 16:04:58+0530 > c d<BckSp><BckSp>s<BckSp>d <LShft>Do<Tab>c<Tab>pu<Tab>fl<Tab>
+2019-05-21 16:08:32+0530 > lds<BckSp><BckSp>s
+2019-05-21 16:08:34+0530 > cd ub<Tab>
+2019-05-21 16:08:37+0530 > ld
+2019-05-21 16:08:38+0530 > ls
+2019-05-21 16:08:40+0530 > fui<BckSp><BckSp>ind . -name <LShft>"mnt<LShft>"
+2019-05-21 16:09:01+0530 > <Up><Left><LShft>*
+2019-05-21 16:09:05+0530 > <Up><Left><Left><Left><Left><Left><LShft>*
+2019-05-21 16:09:09+0530 > cd in<Tab>co<Tab>
+2019-05-21 16:09:27+0530 > ls
+2019-05-21 16:09:28+0530 > fi<Up><Up><Up><Left><Left><Right><BckSp><BckSp><BckSp><BckSp><BckSp>o2mnt<LShft>*
+2019-05-21 16:09:42+0530 > vim o2<Tab><Tab>mn<Tab>
+2019-05-21 16:09:52+0530 > <RShft>:q
+2019-05-21 16:12:15+0530 > cd ../
+2019-05-21 16:12:21+0530 > vf<BckSp><BckSp>cd 
+2019-05-21 16:12:26+0530 > cd 
+2019-05-21 16:12:29+0530 > ls
+2019-05-21 16:12:31+0530 > cd <LShft>P<Tab><Tab><Tab>r<Tab>o<Tab>
+2019-05-21 16:12:42+0530 > cd <LShft>K<Tab><#+1>
+2019-05-21 16:12:46+0530 > ls
+2019-05-21 16:12:47+0530 > cd sd<Tab>
+2019-05-21 16:13:00+0530 > ls
+2019-05-21 16:13:01+0530 > cd ../../
+2019-05-21 16:13:10+0530 > ls
+2019-05-21 16:13:11+0530 > cd <LShft>Im\<BckSp><Tab>
+2019-05-21 16:13:26+0530 > la<BckSp>s
+2019-05-21 16:13:29+0530 > cd lin<Tab>
+2019-05-21 16:13:36+0530 > ls
+2019-05-21 16:13:37+0530 > cd ../
+2019-05-21 16:14:00+0530 > cd u<Tab>
+2019-05-21 16:14:04+0530 > ls
+2019-05-21 16:14:06+0530 > cdd<BckSp> <BckSp><BckSp><BckSp><BckSp>vim u<Tab>.<Tab>c<Tab>
+2019-05-21 16:14:37+0530 > /mmc
+2019-05-21 16:14:47+0530 > nnn<#+1>nnnnnnnnls<RShft><RShft>:q
+2019-05-21 16:17:49+0530 > ``<LCtrl>uuuuuuuuuuuuu``<RShft>:<LCtrl>uuuuu<RShft>:<LCtrl>u<Esc><Esc><Esc><Esc><RShft>"<BckSp><BckSp><BckSp><RShft>:q
+2019-05-21 16:18:23+0530 > <RShft>:<LShft>q<LShft>!
+2019-05-21 16:18:27+0530 > 
+2019-05-21 16:18:28+0530 > 
+2019-05-21 16:18:28+0530 > cd di<Tab>
+2019-05-21 16:18:38+0530 > ls
+2019-05-21 16:18:39+0530 > cd ..
+2019-05-21 16:18:44+0530 > xs <BckSp><BckSp><BckSp><BckSp>cd ..
+2019-05-21 16:19:04+0530 > ls
+2019-05-21 16:19:05+0530 > cd <BckSp><BckSp><BckSp><BckSp>df
+2019-05-21 16:19:12+0530 > 
