@@ -1,0 +1,27 @@
+Logging started ...
+
+2019-05-21 10:23:22+0530 > p<Down>
+2019-05-21 10:33:39+0530 > 
+2019-05-21 10:33:39+0530 > 
+2019-05-21 10:33:42+0530 > <LShft>Welcome<LShft>!23
+2019-05-21 10:33:54+0530 > u<BckSp>f<BckSp>download uboot for <BckSp><#+13>linux kernel for imx6 sabre sd
+2019-05-21 10:34:58+0530 > cd <LShft>Docum<Tab>p<Tab><Tab>u<Tab>fl<Tab>
+2019-05-21 10:54:53+0530 > ls
+2019-05-21 10:54:54+0530 > cd li<Tab>
+2019-05-21 10:54:57+0530 > export<#+1> <LShft>ARCG<BckSp><LShft>H=arm
+2019-05-21 10:55:08+0530 > <Up><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LShft>CROSS_COMPILE=aim<BckSp><BckSp>rm-linux-gnueabihf-
+2019-05-21 10:55:49+0530 > make imx<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>find . -name <LShft>"imx6<BckSp><LShft>*]<BckSp>
+2019-05-21 10:56:11+0530 > <LCtrl>c
+2019-05-21 10:56:14+0530 > <Up><LShft>"
+2019-05-21 10:56:16+0530 > <LCtrl>c
+2019-05-21 10:56:23+0530 > <Up><Left><#+2><Left>6<LShft>_v<LShft>^<BckSp>6
+2019-05-21 10:56:30+0530 > <LCtrl>c
+2019-05-21 10:56:40+0530 > <Up><Left><Left><Left><Left><Left><BckSp>
+2019-05-21 10:56:42+0530 > <LCtrl>c
+2019-05-21 10:56:46+0530 > make 
+2019-05-21 10:57:00+0530 > mzkde<BckSp><BckSp><BckSp><BckSp>ake
+2019-05-21 10:57:24+0530 > <LCtrl>rande<BckSp>om<RShft>: nonblocking pool is initialis\zed<BckSp><BckSp><BckSp><BckSp><BckSp>zed
+2019-05-21 11:12:08+0530 > <Del><Del>
+
+Logging stopped at 2019-05-21 11:13:11+0530
+
