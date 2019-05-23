@@ -1,0 +1,27 @@
+Logging started ...
+
+2019-05-23 10:59:27+0530 > <CpsLk><CpsLk>zs10062013
+2019-05-23 11:00:33+0530 > cd  
+2019-05-23 11:08:21+0530 > ls
+2019-05-23 11:08:29+0530 > cd <CpsLk>Q<Tab>
+2019-05-23 11:08:36+0530 > LS
+2019-05-23 11:08:37+0530 > <CpsLk>ls
+2019-05-23 11:08:41+0530 > cd <BckSp><#+11>
+2019-05-23 11:10:04+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down><#+10><Down><BckSp><#+22>
+2019-05-23 11:10:35+0530 > 
+2019-05-23 11:11:11+0530 > cd 
+2019-05-23 11:18:36+0530 > ls
+2019-05-23 11:18:40+0530 > cd git
+2019-05-23 11:18:45+0530 > 
+2019-05-23 11:18:52+0530 > grep<RShft>"<RShft>" <RShft>* -r<Left><Left><Left><Left><Left><Left><RShft><Ins>
+2019-05-23 11:19:48+0530 > <Up><Left><#+22><Left><Left><Left><Left><Left><Left><Left><Left> 
+2019-05-23 11:19:55+0530 > fm<Up><Left><Left><Left><Left><Left><Left><BckSp><#+22><BckSp><RShft><Ins>
+2019-05-23 12:11:43+0530 > <Up><Left><Left><Left><Left><Left><Left><BckSp><#+8><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><RShft><Ins>
+2019-05-23 12:18:03+0530 > <Up><Left><#+10><Left><BckSp><#+8><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><RShft><Ins>
+2019-05-23 12:20:35+0530 > <LCtrl>f<LCtrl>v<BckSp><#+27><LCtrl>v<LCtrl>f<LCtrl>v<LCtrl>f<LCtrl>v<LCtrl>c
+2019-05-23 12:25:24+0530 > <Up><Left><#+10><Left><Left><BckSp><#+12><BckSp><BckSp><#+13><BckSp><BckSp><RShft><Ins>
+2019-05-23 12:25:39+0530 > <Down><Up><#+2><Left><#+9><Left><Left><Left><BckSp><#+15><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>fm1<LShft><LShft>@dtsec1
+2019-05-23 14:47:49+0530 > <LCtrl>f<LCtrl>v
+
+Logging stopped at 2019-05-23 15:48:07+0530
+
