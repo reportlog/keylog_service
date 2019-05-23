@@ -1,0 +1,81 @@
+Logging started ...
+
+2019-05-22 18:04:35+0530 > cd ..
+2019-05-22 18:50:31+0530 > ls
+2019-05-22 18:50:32+0530 > cd u<Tab>
+2019-05-22 18:50:35+0530 > ls
+2019-05-22 18:50:37+0530 > export <LShft>ARCH=arm
+2019-05-22 18:50:44+0530 > export <LShft>CROSS_COMPILE=arm-linux<BckSp>x-g<Tab>nueabihf-\<BckSp>
+2019-05-22 18:51:08+0530 > i<BckSp>find . -name <LShft>"mx<LShft>*config<LShft>"
+2019-05-22 18:51:30+0530 > <Up><Left><Left><Left><Left><Left><Left><Left><Left><Left><Right>6
+2019-05-22 18:51:57+0530 > v<BckSp>cd ..
+2019-05-22 18:52:02+0530 > cd ..
+2019-05-22 18:52:04+0530 > cd fl<Tab>
+2019-05-22 18:52:06+0530 > ls
+2019-05-22 18:52:07+0530 > cd u<Tab>
+2019-05-22 18:52:10+0530 > clear
+2019-05-22 18:52:12+0530 > <Up><Up><Up><Up><Up><Up>
+2019-05-22 18:52:16+0530 > <Up><Left><Left><Right><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LShft>*
+2019-05-22 18:52:22+0530 > <Up><Left><Left><Right><BckSp><BckSp><BckSp>con<BckSp><BckSp><BckSp><LShft>*config<RShft>
+2019-05-22 18:53:06+0530 > make mx6qsabresd<LShft>_config<LShft>
+2019-05-22 18:53:28+0530 > make clean
+2019-05-22 18:53:41+0530 > <Up><Up>
+2019-05-22 18:53:44+0530 > make
+2019-05-22 18:54:02+0530 > <Up><Down><Down>export <LShft>$p<BckSp><LShft>PATH=<BckSp><BckSp><BckSp><BckSp><BckSp><LShft>PATH<BckSp><BckSp><BckSp><BckSp><BckSp>path=<BckSp><BckSp><BckSp><BckSp><BckSp><LShft>PATH=/opt<Tab><BckSp><#+23>export<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>cd op<BckSp><BckSp>/opt<Tab>
+2019-05-22 18:55:14+0530 > ls
+2019-05-22 18:55:15+0530 > cdgcc<BckSp><BckSp><BckSp> gcc<Tab>a<Tab>h<Tab>8<Tab>
+2019-05-22 18:55:40+0530 > ls
+2019-05-22 18:55:41+0530 > cd bin<Tab>
+2019-05-22 18:55:47+0530 > l
+2019-05-22 18:55:49+0530 > ls
+2019-05-22 18:55:51+0530 > pwd
+2019-05-22 18:56:00+0530 > cd ../..\<BckSp>
+2019-05-22 18:56:15+0530 > cd ..
+2019-05-22 18:56:18+0530 > c<BckSp><BckSp>cd <LShft>D0<Tab><BckSp>o<Tab>c<Tab>u<Tab><BckSp><BckSp><BckSp><BckSp><BckSp><#+1><BckSp><BckSp><BckSp><BckSp>cd
+2019-05-22 18:56:32+0530 > cd <LShft>Do<Tab><Tab><Tab>c<Tab>pu<Tab>f<Tab>
+2019-05-22 18:56:41+0530 > ls
+2019-05-22 18:56:42+0530 > cd ub<Tab>
+2019-05-22 18:56:44+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up>
+2019-05-22 18:56:56+0530 > export psth <BckSp><BckSp><BckSp><BckSp><BckSp><LShft>P<LShft>ATH=/
+2019-05-22 18:58:00+0530 > make clean
+2019-05-22 18:58:08+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up>
+2019-05-22 18:58:26+0530 > <Up><#+9><Down><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down><Down><Down><#+4><Down><Down><Down><Down><Down><Down><BckSp><#+26><BckSp><#+2><Left><#+55><Left><Left><Left><Left><BckSp>
+2019-05-22 18:59:01+0530 > make <Up><Up><Up><Up><Down><Down>
+2019-05-22 18:59:06+0530 > <Up><Up><Left><#+50><Left><Right><BckSp><BckSp><BckSp><BckSp><LCtrl><LShft>Tcd
+2019-05-22 18:59:28+0530 > cd ls
+2019-05-22 18:59:45+0530 > <LShft>CROSS_CON<BckSp><LShft>MPILE<Right><#+46><Right><Right><Right><Right><Right>/-
+2019-05-22 19:00:23+0530 > <Up><Up>
+2019-05-22 19:00:27+0530 > clean
+2019-05-22 19:00:33+0530 > make clean
+2019-05-22 19:00:39+0530 > clear
+2019-05-22 19:00:50+0530 > ls
+2019-05-22 19:01:02+0530 > <LCtrl>ls
+2019-05-22 19:01:18+0530 > cd <LShft>Doc<Tab>pu<Tab>fl<Tab>
+2019-05-22 19:01:26+0530 > ls
+2019-05-22 19:01:27+0530 > cd ub<Tab>
+2019-05-22 19:01:29+0530 > ls
+2019-05-22 19:01:30+0530 > clear
+2019-05-22 19:01:32+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up>
+2019-05-22 19:01:40+0530 > make clean
+2019-05-22 19:01:43+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up>
+2019-05-22 19:01:53+0530 > make
+2019-05-22 19:01:57+0530 > <Up><Up><Up><Up><Left><#+56><LCtrl><LShft>T<Up><Up><Up><Up><Up><Down><Down><Down><Down><Down><Down><Up><Up><Up><Up><Up><Up><Left><#+61><Left><Left><Left><Left><Left><BckSp><#+26>cd 
+2019-05-22 19:03:55+0530 > cd
+2019-05-22 19:03:57+0530 > <Up><Up><Left><#+15><Right><#+11><Right><Right><Right><Right><Right><BckSp><#+18><BckSp><BckSp><BckSp><BckSp><Left><#+50><Left>
+2019-05-22 19:04:09+0530 > ls
+2019-05-22 19:04:11+0530 > export <LShft>PATH<Up><Up><Up><Up><Up><Up><Up><Up><Down><Down><Down><Down><Down>
+2019-05-22 19:05:07+0530 > cd <LShft>Do<Tab>c<Tab>pun<Tab>u<Tab>b<Tab><Tab><Tab><BckSp><BckSp>fl<Tab><Tab>1<Tab><BckSp>/ub<Tab>
+2019-05-22 19:05:24+0530 > export<Up><Up><Up><Up><Up><Up><Up><Down><Left><Right><BckSp><#+19><BckSp><BckSp><BckSp><Left><#+5><Right><BckSp><Left><#+48><Left><Left><Left><Right><BckSp><BckSp><BckSp>expro<BckSp><BckSp>ort <LShft>C<BckSp><LShft>PATH=
+2019-05-22 19:05:53+0530 > <Up><Left><#+45><Left><Left><Left><Left><Left><BckSp>
+2019-05-22 19:05:59+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down>make clean
+2019-05-22 19:06:11+0530 > ls
+2019-05-22 19:06:14+0530 > <Up><Up><Left><Up><Up><Down><Left><#+52><Left><LShft>$
+2019-05-22 19:06:28+0530 > <Up><Left><#+52><Left><BckSp>
+2019-05-22 19:06:47+0530 > export <LShft>CROSS_COMPILE=<LShft>$<LShft>PATH
+2019-05-22 19:06:57+0530 > mak <BckSp>e clean
+2019-05-22 19:07:03+0530 > exit
+2019-05-22 19:07:08+0530 > <Down><#+24>exit
+2019-05-22 19:07:13+0530 > 
+
+Logging stopped at 2019-05-22 19:16:59+0530
+
