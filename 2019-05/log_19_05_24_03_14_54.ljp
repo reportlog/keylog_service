@@ -1,0 +1,49 @@
+Logging started ...
+
+2019-05-24 15:14:54+0530 > ls
+2019-05-24 15:18:47+0530 > 
+2019-05-24 15:18:48+0530 > 
+2019-05-24 15:18:48+0530 > cd -
+2019-05-24 15:18:52+0530 > cd <LCtrl>v<LCtrl><LShft><Ins><LShft><Up><Up><Up>
+2019-05-24 15:19:13+0530 > <Up><Left><#+2><Left><Left><#+18><Up><Down><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><Left><#+20><Right><Right><#+19>gi<BckSp><BckSp><BckSp><#+10><BckSp><BckSp><BckSp>
+2019-05-24 15:19:36+0530 > ls
+2019-05-24 15:19:38+0530 > cd <BckSp><BckSp><BckSp><BckSp>cd bo<Tab><Tab><Tab>n<Tab>nl<BckSp>
+2019-05-24 15:20:01+0530 > c<BckSp>cd <Tab><Tab>n<BckSp><BckSp><BckSp><BckSp>cd b<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>ls
+2019-05-24 15:20:14+0530 > cd fr<Tab>t4<Tab><Tab>r<Tab>
+2019-05-24 15:20:27+0530 > ls
+2019-05-24 15:20:27+0530 > grep <LShft>"bman-fbr<LShft>" <Left><Left><Left><Left><Right>p<Down><Right><Right> <LShft>* -<BckSp>.
+2019-05-24 15:21:11+0530 > <Up><BckSp><BckSp><BckSp><BckSp>. -r
+2019-05-24 15:21:26+0530 > <Up><Left><Left><Left><BckSp><LShft>*
+2019-05-24 15:21:31+0530 > cd ../../../
+2019-05-24 15:21:39+0530 > <Up><Up>
+2019-05-24 15:21:42+0530 > cd <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><Up><Left><#+12><Right><BckSp><BckSp><BckSp><BckSp><BckSp><LShft>: bman<LShft>@
+2019-05-24 15:23:32+0530 > <Up><Left><#+14><Left><BckSp>
+2019-05-24 15:23:39+0530 > cd b<Tab>f<Tab>r<Tab><Tab><Tab>tr<Tab>r<Tab><BckSp><BckSp>4<Tab><Tab>r<Tab>
+2019-05-24 15:24:23+0530 > ls
+2019-05-24 15:24:23+0530 > vim la<Tab>
+2019-05-24 15:24:28+0530 > <RShft>:q
+2019-05-24 15:24:54+0530 > vim cp<Tab>c
+2019-05-24 15:25:05+0530 > <RShft>:q
+2019-05-24 15:25:22+0530 > vim <Tab><Up><BckSp>h
+2019-05-24 15:25:28+0530 > <RShft><RShft>:q
+2019-05-24 15:26:11+0530 > vim dd<Tab>.h<Tab>
+2019-05-24 15:26:21+0530 > <RShft>:q
+2019-05-24 15:26:55+0530 > vim tl<Tab>
+2019-05-24 15:27:15+0530 > <Down><#+59><Down><#+11><Down><#+21><Down><#+10><RShft>:<BckSp><#+14><RShft>:q
+2019-05-24 15:29:22+0530 > ls
+2019-05-24 15:29:25+0530 > vim t4<Tab>r<Tab>
+2019-05-24 15:29:46+0530 > <RShft>:q
+2019-05-24 15:30:02+0530 > vim t4<Tab>r<Tab><BckSp><BckSp>c<Tab><Tab><Tab><Tab><Tab><BckSp><BckSp><BckSp><BckSp><BckSp>240rdb.<Tab>
+2019-05-24 15:30:33+0530 > /boars<BckSp>d
+2019-05-24 15:30:41+0530 > nnn<#+1><RShft>:q
+2019-05-24 15:31:53+0530 > cd ../../../
+2019-05-24 15:32:03+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Left><Left><Left><Left><Left><Left><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LShft>Reseved me<Left><Left><#+11><Left><Left><Right><Right>r<Right><Right><Right><Right><Right><Right>mory<LShft>:
+2019-05-24 15:32:41+0530 > <Up><Left><Left><Left><BckSp><BckSp><Right><Right><Right><Right> <LShft>*
+2019-05-24 15:33:01+0530 > <Up><Left><Left><Up><Left><Left><Left><Left><Left><Left><Right><BckSp><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><BckSp><Right><#+12>
+2019-05-24 15:33:16+0530 > <Up><Left><Left><Left><Left><Left> initialized node bman-fbr<BckSp>pr
+2019-05-24 15:33:56+0530 > <Up><Left><#+19><Right><Right><#+12><Right><Right><LShft>"<Left><#+42><Left><Left><LShft>"
+2019-05-24 15:34:19+0530 > <Up><Left><#+39><Right><Right><#+14><Right><Left><Left><Left><Left><Left><BckSp><Left><#+17><Left><Left><Left><Left><BckSp><Right><#+32><Left><#+18> <Right><#+27><Right><Right><Right><BckSp>
+2019-05-24 15:34:37+0530 > <Up><Left><#+28><Left><Left><Left><KP0><#+3><BckSp><Right><#+22><Right><Right><#+12><Left><#+7><Left><Left><BckSp><#+37><BckSp><#+10><BckSp><BckSp>compatible id fsl, bman-fbdr<LShft>"<Left><#+34><Right><Right><Right><Right><LShft>"
+2019-05-24 15:37:51+0530 > <Up><Left><#+10><Left><BckSp><Left><#+13><Left><#+13><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><BckSp>
+2019-05-24 15:38:11+0530 > <Up>
+2019-05-24 15:38:20+0530 > 
