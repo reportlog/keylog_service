@@ -1,0 +1,253 @@
+Logging started ...
+
+2019-05-23 09:55:35+0530 > sa<BckSp>te <BckSp><BckSp>ay<BckSp>te wise <Down>
+2019-05-23 09:56:52+0530 > mandya <Down><Down><Up>
+2019-05-23 10:12:33+0530 > kartnatka locksha<BckSp><BckSp>abha result 2019<Down>
+2019-05-23 10:14:09+0530 >  news 18
+2019-05-23 10:15:34+0530 > karna<BckSp><BckSp><BckSp><BckSp><BckSp>kera<BckSp><BckSp><BckSp><BckSp>p<Down>
+2019-05-23 10:20:13+0530 > 
+2019-05-23 10:20:13+0530 > 
+2019-05-23 10:20:15+0530 > <LShft>Welcome<LShft>!23
+2019-05-23 10:20:32+0530 > compilation for<BckSp><BckSp><BckSp>of linux <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>uboot for imx6 sabre sd
+2019-05-23 10:23:45+0530 > cd <LShft>Doc<Tab>pun<Tab>fl<Tab><Tab>
+2019-05-23 10:25:24+0530 > ls
+2019-05-23 10:25:25+0530 > cd ub<Tab>
+2019-05-23 10:25:27+0530 > make clean
+2019-05-23 10:25:31+0530 > export <LShft>ARCH=arm
+2019-05-23 10:25:48+0530 > export <LShft>CROSS_<LShft>COMPILE=how too <BckSp><BckSp> export cross <Down>
+2019-05-23 10:26:15+0530 > <BckSp><#+17><LShft>PATH=/op<Tab><LCtrl><LShft>Tcd
+2019-05-23 10:27:18+0530 > cd op<Tab><Tab><Tab><Tab>t<Tab><Tab><Tab><BckSp><BckSp><BckSp>/po<Tab><BckSp><BckSp>op<Tab>
+2019-05-23 10:27:27+0530 > ls
+2019-05-23 10:27:28+0530 > cd gcc<Tab>ar<Tab>h<Tab>9<Tab>
+2019-05-23 10:28:03+0530 > ls
+2019-05-23 10:28:04+0530 > cd a<BckSp>bin
+2019-05-23 10:28:11+0530 > lls
+2019-05-23 10:28:13+0530 > <LCtrl>c
+2019-05-23 10:28:15+0530 > ls
+2019-05-23 10:28:16+0530 > pwd
+2019-05-23 10:28:20+0530 > <BckSp><BckSp><BckSp><BckSp><BckSp><LCtrl>v<#+3>/<RShft>:<LShft>$<LShft>PATH
+2019-05-23 10:28:43+0530 > export <LShft>CROSS_COMPILE=arm-linux-gnueabihf-
+2019-05-23 10:29:07+0530 > make clean
+2019-05-23 10:29:12+0530 > make<BckSp><#+13>find . -name <LShft>"xm<BckSp><BckSp>mx<LShft>*config<LShft>"<RShft>
+2019-05-23 10:29:34+0530 > <Up><Left><Left><Left><#+8><Left><Left><Left><BckSp><BckSp>
+2019-05-23 10:29:40+0530 > make mx6qsabresd<LShft>_confg<BckSp>ig
+2019-05-23 10:30:41+0530 > make
+2019-05-23 10:30:49+0530 > <Up><Up><Up><Up><Up><Up><Up><Up>
+2019-05-23 10:31:03+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Down>
+2019-05-23 10:31:07+0530 > make clean
+2019-05-23 10:31:11+0530 > <Up><Up>
+2019-05-23 10:31:13+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Down><Down><Down>
+2019-05-23 10:31:19+0530 > make
+2019-05-23 10:31:22+0530 > clear
+2019-05-23 10:31:26+0530 > uttar prls
+2019-05-23 10:32:42+0530 > <BckSp><#+22>cd ..
+2019-05-23 10:37:54+0530 > cd ..
+2019-05-23 10:37:56+0530 > cd fla<Tab>2
+2019-05-23 10:38:00+0530 > ls
+2019-05-23 10:38:01+0530 > cd ub<Tab>
+2019-05-23 10:38:03+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up>
+2019-05-23 10:38:11+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up>
+2019-05-23 10:38:16+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up>
+2019-05-23 10:38:20+0530 > <Up><Down>make
+2019-05-23 10:38:26+0530 > <Up><Up><Up><Down><Left><#+20><Right><BckSp><BckSp><BckSp><BckSp><BckSp>find . -name <LShft>"<Right><#+16><Right><Right><Right><Left><#+18><Right><BckSp><Right><#+16><Right><Right><Right><Right><Right><LShft>"
+2019-05-23 10:39:03+0530 > cd
+2019-05-23 10:39:44+0530 > cd <LShft>Dow<Tab>
+2019-05-23 10:39:48+0530 > ls
+2019-05-23 10:39:49+0530 > cd ub<BckSp>-<Tab>-<Tab>
+2019-05-23 10:39:55+0530 > ls
+2019-05-23 10:39:57+0530 > <Up><Up><Up><Up><Up><Up>
+2019-05-23 10:40:02+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up>
+2019-05-23 10:40:11+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up>
+2019-05-23 10:40:16+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up>
+2019-05-23 10:40:21+0530 > cd
+2019-05-23 10:40:26+0530 > <Del>cd <LShft>Dow<Tab>u-<Tab><BckSp><Tab><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>
+2019-05-23 10:40:58+0530 > ls
+2019-05-23 10:40:59+0530 > cd ub<Tab><Tab>o<Tab>
+2019-05-23 10:41:06+0530 > ls
+2019-05-23 10:41:07+0530 > c<BckSp><Up><Up><Up><Up><Up><Up><Up><Up>
+2019-05-23 10:41:13+0530 > <Up><Up><Up><Up><Up><Up><Up><Up>
+2019-05-23 10:41:16+0530 > <Up><Up><Up><Up><Up><Up><Up><Up>
+2019-05-23 10:41:20+0530 > make
+2019-05-23 10:41:24+0530 > make clean
+2019-05-23 10:42:20+0530 > <Up><Up>
+2019-05-23 10:42:23+0530 > find . -name <LShft>"<Up><Up><Up><Up><LShft>"<Left><#+21><Right><LShft><LShft>"<Left><Left><Left><Right><BckSp><BckSp><BckSp><BckSp>find . -name
+2019-05-23 10:43:04+0530 > clear
+2019-05-23 10:43:08+0530 > ls
+2019-05-23 10:43:10+0530 > find<Up><Up><Up><Left><#+7><Left><Left><Left><Left><Left><Left><BckSp><#+13><BckSp><BckSp><LShft>*
+2019-05-23 10:43:28+0530 > ls
+2019-05-23 10:43:34+0530 > cd
+2019-05-23 10:45:03+0530 > cd <LShft>Docu<Tab>fl<Tab><Tab><Tab>a<Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><BckSp><BckSp><BckSp><BckSp>/<Tab>p<Tab>un<Tab>fl<Tab>
+2019-05-23 10:45:17+0530 > ls
+2019-05-23 10:45:18+0530 > cd ub<Tab>
+2019-05-23 10:45:20+0530 > ls
+2019-05-23 10:45:22+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up>
+2019-05-23 10:45:28+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up>
+2019-05-23 10:45:36+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up>
+2019-05-23 10:45:43+0530 > make
+2019-05-23 10:45:47+0530 > cd
+2019-05-23 10:45:53+0530 > <Del>clear
+2019-05-23 10:46:22+0530 > cd <LShft>Doc<Tab>pun<Tab>fl<Tab>
+2019-05-23 10:46:29+0530 > ld
+2019-05-23 10:46:30+0530 > cd <BckSp><#+11>ls
+2019-05-23 10:46:33+0530 > cd u<Tab>b
+2019-05-23 10:46:35+0530 > <Up><BckSp>
+2019-05-23 10:46:38+0530 > ls
+2019-05-23 10:46:39+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up>
+2019-05-23 10:46:44+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up>
+2019-05-23 10:46:49+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up>
+2019-05-23 10:46:55+0530 > make
+2019-05-23 10:46:57+0530 > cd ..
+2019-05-23 10:47:09+0530 > ls
+2019-05-23 10:47:11+0530 > cd li<Tab>
+2019-05-23 10:47:14+0530 > ls
+2019-05-23 10:47:15+0530 > make clean
+2019-05-23 10:47:19+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up>
+2019-05-23 10:47:37+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up>
+2019-05-23 10:47:41+0530 > <Up><Up><Up><Up><Up><Down><Up><Up><Up><Up><Up><BckSp><#+29>find . -name <LShft>"imx<LShft>_<LShft><BckSp><LShft>*defconfig<LShft>"
+2019-05-23 10:48:05+0530 > n<BckSp>make 
+2019-05-23 10:48:21+0530 > make
+2019-05-23 10:48:31+0530 > ls
+2019-05-23 11:10:56+0530 > <Del>push error in mfh<BckSp>g tool
+2019-05-23 11:20:18+0530 > <Down><Down><Down><Down><Down><Down>p<Down>
+2019-05-23 11:31:15+0530 > 
+2019-05-23 11:31:16+0530 > <LShft>Welcome<LShft>!23
+2019-05-23 11:31:26+0530 > <Del>p<Down>
+2019-05-23 11:58:34+0530 > 
+2019-05-23 11:58:35+0530 > <LShft>Welcome<LShft>!23
+2019-05-23 11:59:20+0530 > imx6q-sabrecal<KP4><KP4><BckSp><KP5><KP4><KP6><KP4><KP1><KP0><KP2><KP4>starting kernel <Down> in imx6 sabre sd
+2019-05-23 12:26:02+0530 > 8a47a8<BckSp><#+16><KP9><KP0><KP6><KP2><KP3><KP1><KP2><KP1><KP0><KP2><KP4><KP1><KP0><KP2><KP4>mfg <BckSp><#+19>uboot \<BckSp><#+2>
+2019-05-23 12:37:47+0530 > e<LShft>MMc
+2019-05-23 12:43:15+0530 > karna<LMeta>lzs<KP1><KP0><KP0><KP6><KP2><KP0><KP1><KP3>
+2019-05-23 14:03:05+0530 > karna newa <BckSp><BckSp>s 18 kannada
+2019-05-23 14:07:01+0530 > mand<Down>
+2019-05-23 14:07:46+0530 > <BckSp><#+30>praksh rai <BckSp><#+29>prakash <Down>
+2019-05-23 14:09:30+0530 > <BckSp><#+33>daksin<Down>
+2019-05-23 14:10:15+0530 > <Left><#+13><Left><Left><Left><Left><Left><Left><Left><BckSp><#+24>banga<Down>
+2019-05-23 14:52:56+0530 > <Down>
+2019-05-23 14:53:08+0530 > <Left><BckSp><#+24>dakshina ks<BckSp>annada
+2019-05-23 14:54:43+0530 > won 
+2019-05-23 15:03:38+0530 >  pu<Down>
+2019-05-23 15:17:55+0530 > <LShft>Welcome<LShft>!23
+2019-05-23 15:18:46+0530 > pa<LShft>Rail <LShft>Tester <LShft>SRT and <LShft>DRT <LShft>Applicattion<Left><Left><Left><BckSp><Right><Right><LShft>Hi <LShft>Sir,
+2019-05-23 15:19:51+0530 > 
+2019-05-23 15:19:51+0530 > <Tab><Tab><LShft>Please find the attached <LShft>SRT and <LShft>DRT application.
+2019-05-23 15:20:10+0530 > 
+2019-05-23 15:20:11+0530 > <Tab><Tab><LShft>Here, <LShft>L<LShft>_<LShft>DRAINED value changed from 2.8 <BckSp>0 to 2.65.
+2019-05-23 15:21:01+0530 > 
+2019-05-23 15:21:01+0530 > <Tab><Tab><LShft>Please test the application and give your fede<BckSp><BckSp>edback.
+2019-05-23 15:21:17+0530 > 
+2019-05-23 15:21:18+0530 > 
+2019-05-23 15:21:18+0530 > 
+2019-05-23 15:21:18+0530 > <LShft>Regards,
+2019-05-23 15:21:21+0530 > <LShft>Puneeth.<LShft>K<LCtrl>is varanasi <Down>
+2019-05-23 15:25:47+0530 > <KP4><KP1><KP4><KP1><KP4><KP4><KP1><KP2><KP6><KP8><KP6><KP7>
+2019-05-23 15:26:10+0530 > ameti
+2019-05-23 15:26:45+0530 > wayanad
+2019-05-23 15:27:22+0530 > mandya
+2019-05-23 15:27:35+0530 > mandya
+2019-05-23 15:38:43+0530 > 
+2019-05-23 15:38:44+0530 > 
+2019-05-23 15:39:03+0530 > <BckSp><BckSp><BckSp><#+20>gandhinagar<Down>
+2019-05-23 15:43:41+0530 > <KP8><KP7><KP4><KP3><KP2><KP5><KP3><KP3><KP0><KP9><KP0><KP1>varanasi
+2019-05-23 15:44:26+0530 > <KP5><KP7><KP1><KP1><KP5><KP4><KP1><KP6><KP5><KP1><KP6><KP2>ka<Down>
+2019-05-23 15:53:53+0530 > <Left><#+17>lokca<BckSp><BckSp>cabha 
+2019-05-23 15:54:14+0530 > <Up><Up><#+2><Up><Up><Up><Up>bangalore central <Down>
+2019-05-23 15:58:02+0530 > bangalore s<Down>
+2019-05-23 16:06:04+0530 > south
+2019-05-23 16:06:09+0530 > uttarka<BckSp><BckSp> kannada
+2019-05-23 16:07:15+0530 > <KP4><KP2><KP1><KP2><KP9><KP8><KP1><KP5><KP7><KP9><KP8><KP6>bangalore central
+2019-05-23 16:11:45+0530 > 1inche <Down>
+2019-05-23 16:57:18+0530 > nokia <Down><Down>
+2019-05-23 16:57:32+0530 > <LMeta>lzs<KP1><KP0><KP0><KP6><KP2><KP0><KP1><KP3><KP2>
+2019-05-23 17:59:38+0530 > zs<KP1><KP0><KP0><KP6><KP2><KP0><KP1><KP3>
+2019-05-23 17:59:46+0530 > karna<LShft>dakshina kannada
+2019-05-23 18:18:01+0530 > <KP7><KP7><KP4><KP2><KP8><KP5><KP4><KP9><KP9><KP6><KP6><KP4>ameti <Down>
+2019-05-23 18:21:08+0530 > kasara<Down>
+2019-05-23 18:21:32+0530 > gandhi<Down><BckSp><BckSp><BckSp><BckSp><BckSp><Down>
+2019-05-23 18:21:59+0530 > <KP8><KP7><KP4><KP3><KP2><KP5><KP3><KP3><KP0><KP9><KP0><KP1>varanasi
+2019-05-23 18:22:51+0530 > <KP5><KP7><KP1><KP1><KP5><KP4><KP1><KP6><KP5><KP1><KP6><KP2>udupi
+2019-05-23 18:26:10+0530 > mysuru
+2019-05-23 18:30:10+0530 > ele<Down>
+2019-05-23 18:30:39+0530 > wa<BckSp>wayam<BckSp>nad
+2019-05-23 18:34:40+0530 > <KP1><KP2><KP7><KP6><KP9><KP4><KP5><KP4><KP7><KP7><KP7><KP8><KP3>ele<Down>
+2019-05-24 10:17:26+0530 > <Up><Up><Up><Down>
+2019-05-24 10:29:44+0530 > <LCtrl>z<LShft>Image-imx<BckSp><#+18>imx6 sabre sd 
+2019-05-24 10:38:36+0530 >  da<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>sc<Down>
+2019-05-24 10:41:40+0530 > <LCtrl><LCtrl><LCtrl><BckSp><#+14> is 32 bit or 64 bit processor
+2019-05-24 10:42:33+0530 > uboot for 32<BckSp>2 bit imx6 sabre sd
+2019-05-24 10:43:13+0530 > how to compile uboot for 32 bit imx6 sabre sd
+2019-05-24 10:51:24+0530 > cd
+2019-05-24 10:52:37+0530 > cd <LShft>Down<Tab>
+2019-05-24 10:52:42+0530 > ls
+2019-05-24 10:52:43+0530 > cd u-b<Tab>
+2019-05-24 10:52:47+0530 > ls
+2019-05-24 10:52:48+0530 > export <LShft>ARCH=arm
+2019-05-24 10:52:57+0530 > export <LShft>CROSS_COMPILE= <BckSp>arm-gnueabihf-
+2019-05-24 10:53:24+0530 > make 
+2019-05-24 10:53:41+0530 > 
+2019-05-24 10:54:01+0530 > 
+2019-05-24 10:54:15+0530 > clean<BckSp>r
+2019-05-24 10:54:25+0530 > how to check 32 bit or 64 bit processor in imx 6<BckSp><BckSp>6 sabre sd 
+2019-05-24 10:56:38+0530 >  using et<BckSp><BckSp>y<BckSp>teraterm
+2019-05-24 10:56:52+0530 > download 32 bit linux kernel for imx6 sabre sd
+2019-05-24 11:01:41+0530 > cd
+2019-05-24 11:03:13+0530 > cd /op<Tab>fre<Tab><BckSp><#+11><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp> 
+2019-05-24 11:03:34+0530 > ls
+2019-05-24 11:03:35+0530 > c
+2019-05-24 11:04:11+0530 > ccd<BckSp><BckSp>d
+2019-05-24 11:04:14+0530 > cd <LShft>Do<Tab>w<Tab><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>cu<Tab>pu<Tab>
+2019-05-24 11:04:23+0530 > ls
+2019-05-24 11:04:24+0530 > 
+2019-05-24 11:04:30+0530 > command to check compiles kernel is 32 bit or 64 bit
+2019-05-24 11:07:16+0530 >  in ubbot
+2019-05-24 11:12:33+0530 > how to check compiled kernel is 32 bir<BckSp>t <Down>
+2019-05-24 11:15:36+0530 > cd
+2019-05-24 11:16:17+0530 > cd <LShft>Doc<Tab>pu<Tab>fl<Tab>
+2019-05-24 11:16:24+0530 > ls
+2019-05-24 11:16:25+0530 > cd li<Tab>
+2019-05-24 11:16:28+0530 > ls
+2019-05-24 11:16:29+0530 > uname -m
+2019-05-24 11:16:38+0530 > cd
+2019-05-24 11:16:44+0530 > <Up><Up>
+2019-05-24 11:16:46+0530 > <Up><Up><Up><Up><Up><Up><Up>
+2019-05-24 11:17:34+0530 > ls
+2019-05-24 11:17:35+0530 > cd li<Tab>
+2019-05-24 11:17:38+0530 > ls
+2019-05-24 11:17:39+0530 > cd ar<Tab>
+2019-05-24 11:17:46+0530 > s<BckSp>ls
+2019-05-24 11:17:47+0530 > cd x86
+2019-05-24 11:17:55+0530 > ls
+2019-05-24 11:17:56+0530 > cd <LShft>Ma<Tab><BckSp><#+16>vim <LShft>Ma<Tab><LShft>_32<Tab>
+2019-05-24 11:18:14+0530 > <RShft>:q
+2019-05-24 11:18:30+0530 > cd ..
+2019-05-24 11:18:41+0530 > cd <BckSp><#+16>cd ..
+2019-05-24 11:18:49+0530 > ls
+2019-05-24 11:18:51+0530 > cd li<Tab>-<Tab>
+2019-05-24 11:22:53+0530 > ls
+2019-05-24 11:22:54+0530 > 
+2019-05-24 11:23:14+0530 > 
+2019-05-24 11:23:28+0530 > 
+2019-05-24 11:23:42+0530 > 
+2019-05-24 11:24:00+0530 > 
+2019-05-24 11:24:19+0530 > zs10062013
+2019-05-24 11:24:24+0530 > 
+2019-05-24 11:24:55+0530 > 
+2019-05-24 11:25:05+0530 > find imx<LShft>_<LShft>*<LShft>defcondif<BckSp><BckSp><BckSp>fig<LShft>"
+2019-05-24 11:25:57+0530 > <LCtrl>c
+2019-05-24 11:26:00+0530 > <Up><Left><#+15><Left><Left>. -name 
+2019-05-24 11:26:05+0530 > <LCtrl>c
+2019-05-24 11:26:08+0530 > <Up><Left><#+14><Left><Left><Left><Left><LShft>"
+2019-05-24 11:26:11+0530 > 
+2019-05-24 11:26:45+0530 > 
+2019-05-24 11:27:22+0530 > <Up><Up><Up>
+2019-05-24 11:27:38+0530 > <Up><Up><Up>
+2019-05-24 11:27:42+0530 > <Left><#+18><Right><BckSp>
+2019-05-24 11:28:05+0530 > <Down><Down><Down><Down><Down><Right><Left>
+2019-05-24 11:28:47+0530 > <Down><Down><#+26><Right>
+2019-05-24 11:28:58+0530 > <Right>
+2019-05-24 11:29:00+0530 > 
+2019-05-24 11:29:03+0530 > make
+2019-05-24 11:29:10+0530 > u<LShft>Image\<#+7><BckSp><BckSp><BckSp><#+14>z<LShft>Image<BckSp><#+14>
+
+Logging stopped at 2019-05-24 11:46:54+0530
+
