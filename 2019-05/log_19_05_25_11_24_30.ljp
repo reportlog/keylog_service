@@ -1,0 +1,113 @@
+Logging started ...
+
+2019-05-25 11:24:30+0530 > <LMeta>ls<BckSp>ls
+2019-05-25 11:39:10+0530 > cd u-<Tab>
+2019-05-25 11:39:20+0530 > ls
+2019-05-25 11:39:22+0530 > 2<BckSp>cd 200<Tab><BckSp><Tab>
+2019-05-25 11:39:37+0530 > ls
+2019-05-25 11:39:39+0530 > cd git
+2019-05-25 11:39:47+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Left><#+10><Left><BckSp><#+13><BckSp><BckSp><BckSp><BckSp><BckSp>image-fdt file
+2019-05-25 11:40:18+0530 > <LMeta><LAlt><Tab><LAlt><Tab>cd <LShft><Ins><BckSp><#+23><BckSp><BckSp><Left><#+29><Left><Left><Left><BckSp><#+9><BckSp><BckSp><BckSp><BckSp><BckSp>/
+2019-05-25 12:34:49+0530 > cd ker<Tab>
+2019-05-25 12:34:54+0530 > ls
+2019-05-25 12:34:56+0530 > <LCtrl>c
+2019-05-25 12:36:19+0530 > <LAlt><Tab><LAlt><Tab><Tab>
+2019-05-25 12:36:25+0530 > <LAlt><Tab><LAlt><Tab><Tab><LCtrl>c
+2019-05-25 12:36:44+0530 > <LAlt><Tab><LAlt><Tab><Tab><LCtrl>v
+2019-05-25 12:36:49+0530 > <BckSp><BckSp><#+9><LAlt><Tab><LAlt><Tab><Tab><LCtrl>c
+2019-05-25 12:36:56+0530 > <LAlt><Tab><LAlt><Tab><Tab><LShft><Ins>
+2019-05-25 12:37:00+0530 > <Up><Up>
+2019-05-25 12:37:05+0530 > <LAlt><Tab><Tab><LCtrl>c
+2019-05-25 12:37:13+0530 > <LAlt><Tab><LShft><Ins>
+2019-05-25 12:37:16+0530 > <LAlt><Tab><LCtrl><LShft>Tcd <LShft>~/<LShft>BB<Tab>
+2019-05-25 12:38:29+0530 > cd co<Tab>
+2019-05-25 12:38:32+0530 > ls
+2019-05-25 12:38:33+0530 > ls
+2019-05-25 12:38:35+0530 > armaaaaa<LAlt><Tab>
+2019-05-25 13:00:54+0530 > 
+2019-05-25 13:00:54+0530 > 
+2019-05-25 13:00:54+0530 > 
+2019-05-25 13:00:54+0530 > xs<BckSp><BckSp><BckSp><BckSp>cd ..
+2019-05-25 13:00:56+0530 > ls
+2019-05-25 13:00:56+0530 > cd ..
+2019-05-25 13:00:58+0530 > ;<BckSp>ls
+2019-05-25 13:00:59+0530 > cd <RShft>B<Tab><Tab>l<Tab>
+2019-05-25 13:01:03+0530 > ls
+2019-05-25 13:01:04+0530 > cd <RShft>BB<BckSp><#+21>cd pr<Tab>
+2019-05-25 13:01:21+0530 > ls
+2019-05-25 13:01:21+0530 > <LAlt><Tab><LAlt><Tab>cd ..
+2019-05-25 13:03:54+0530 > ls
+2019-05-25 13:03:55+0530 > cd <RShft>NN<Tab><BckSp><BckSp><RShft>BB<Tab>
+2019-05-25 13:04:00+0530 > ls
+2019-05-25 13:04:01+0530 > c<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>cd ..
+2019-05-25 13:04:12+0530 > ls
+2019-05-25 13:04:12+0530 > vim <RShft>ID<Tab>
+2019-05-25 13:04:15+0530 > <RShft>:q
+2019-05-25 13:04:18+0530 > 
+2019-05-25 13:04:18+0530 > 
+2019-05-25 13:04:18+0530 > 
+2019-05-25 13:04:18+0530 > vim <RShft>~.<BckSp>/<LShft><Ins>
+2019-05-25 13:04:39+0530 > <RShft>:q
+2019-05-25 13:04:58+0530 > 
+2019-05-25 13:04:58+0530 > 
+2019-05-25 13:04:59+0530 > cd ./
+2019-05-25 13:05:00+0530 > cd ..
+2019-05-25 13:05:02+0530 > s<BckSp><BckSp>ls
+2019-05-25 13:05:03+0530 > cd b<Tab><Tab>l<Tab>
+2019-05-25 13:05:06+0530 > ls
+2019-05-25 13:05:07+0530 > cd bo<Tab>
+2019-05-25 13:05:13+0530 > ls
+2019-05-25 13:05:14+0530 > cd li<Tab>
+2019-05-25 13:05:17+0530 > ls
+2019-05-25 13:05:18+0530 > git syst<BckSp><BckSp><BckSp>tus<BckSp><BckSp>atus
+2019-05-25 13:05:31+0530 > <LCtrl>c
+2019-05-25 13:05:48+0530 > cd <RShft>~/<RShft>B<Tab><Tab>l<Tab>pr<Tab>
+2019-05-25 13:06:03+0530 > ls
+2019-05-25 13:06:03+0530 > ls -l
+2019-05-25 13:06:24+0530 > <Up>h
+2019-05-25 13:06:26+0530 > df
+2019-05-25 13:06:33+0530 > umount <LShft><Ins><BckSp><RShft>*
+2019-05-25 13:06:41+0530 > <Up><Home>sud <BckSp>o 
+2019-05-25 13:06:45+0530 > zs10062013
+2019-05-25 13:06:49+0530 > 
+2019-05-25 13:06:50+0530 > 
+2019-05-25 13:06:50+0530 > 
+2019-05-25 13:06:50+0530 > df
+2019-05-25 13:06:51+0530 > ls
+2019-05-25 13:06:53+0530 > dd if=<LShft><Ins> of=/de<Tab>sd<Tab>a<BckSp>b
+2019-05-25 13:07:29+0530 > <Up><Home>sudo 
+2019-05-25 13:07:33+0530 > <Up><Left><#+11><Left><Right><Left><BckSp><#+10><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>
+2019-05-25 14:04:57+0530 > <#+2><Ins><Esc><LCtrl>c
+2019-05-25 14:05:02+0530 > <LMeta><LAlt><Tab><LAlt><Tab><LAlt><Tab><Esc><Esc><Esc><LAlt><Tab><LAlt><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab>cd ..
+2019-05-25 14:13:54+0530 > ls
+2019-05-25 14:13:55+0530 > cd ..
+2019-05-25 14:13:58+0530 > ls
+2019-05-25 14:13:58+0530 > vim <RShft>Z<Tab>a<Tab><RShft>V<BckSp><RShft>B<Tab><#+1>
+2019-05-25 14:14:04+0530 > <LAlt><Tab><LAlt><Tab>ls
+2019-05-25 14:14:30+0530 > 
+2019-05-25 14:14:31+0530 > 
+2019-05-25 14:14:31+0530 > 
+2019-05-25 14:14:31+0530 > 
+2019-05-25 14:14:31+0530 > <LShft><Ins><LAlt><Tab><LAlt><Tab><LCtrl>c
+2019-05-25 14:14:39+0530 > <LShft><BckSp><#+27><LShft><Ins>ls
+2019-05-25 14:14:45+0530 > <LShft><Ins><LCtrl>c
+2019-05-25 14:15:04+0530 > ar<Tab><Tab><BckSp><BckSp><LShft><Ins>
+2019-05-25 14:15:09+0530 > <RShft>DTB Compile
+2019-05-25 14:15:31+0530 > <RShft><RShft>DTS <RShft>Dir
+2019-05-25 14:15:44+0530 > cd are<Tab><BckSp><Tab>ar<Tab>m/d<Tab><BckSp>bo<Tab>dt<Tab>
+2019-05-25 14:15:53+0530 > vim <LShft><Ins><BckSp>s<Tab>
+2019-05-25 14:16:03+0530 > <RShft>:q
+2019-05-25 14:16:17+0530 > 
+2019-05-25 14:16:38+0530 > 
+2019-05-25 14:16:38+0530 > 
+2019-05-25 14:16:38+0530 > <LAlt><F2>-org
+2019-05-25 14:16:53+0530 > <LAlt><Tab>df<RShft>
+2019-05-25 14:16:58+0530 > vp a<BckSp><#+17>cp <LShft><Ins> /me<Tab>z<Tab>bo<Tab>d<Tab>
+2019-05-25 14:17:12+0530 > umount /me<Tab>z<Tab><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><Tab>
+2019-05-25 14:17:25+0530 > <Up><Up><Up><Up>
+2019-05-25 14:17:34+0530 > <LShft><BckSp><LShft><Ins><BckSp><#+30><Esc><LShft><Ins>
+2019-05-25 14:18:49+0530 > vim <LShft><Ins><LShft><Ins>\<BckSp>
+2019-05-25 14:18:59+0530 > <LCtrl>
+
+Logging stopped at 2019-05-25 14:22:17+0530
+
