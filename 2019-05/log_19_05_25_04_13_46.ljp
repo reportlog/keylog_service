@@ -1,0 +1,321 @@
+Logging started ...
+
+2019-05-25 16:13:47+0530 >  in lin<#+1>ux kernel dri<BckSp>iver
+2019-05-25 16:14:02+0530 > <#+2><RCtrl><PgDn>cr
+2019-05-25 16:15:35+0530 > 
+2019-05-25 16:15:35+0530 > 
+2019-05-25 16:15:35+0530 > 
+2019-05-25 16:15:35+0530 > <RCtrl><PgUp><PgDn><PgDn><PgUp><PgUp>q<LCtrl>c
+2019-05-25 16:15:46+0530 > 
+2019-05-25 16:15:47+0530 > 
+2019-05-25 16:15:47+0530 > <RCtrl><PgDn><PgUp><PgDn><PgDn><PgUp>ssj<BckSp>h zumis<BckSp><#+1><LShft>@192.168.1.38
+2019-05-25 16:16:04+0530 > <#+3><LCtrl>c
+2019-05-25 16:16:06+0530 > <Up><Up><BckSp>9
+2019-05-25 16:16:09+0530 > <#+5>
+2019-05-25 16:16:12+0530 > 
+2019-05-25 16:16:13+0530 > 
+2019-05-25 16:16:13+0530 > <Up><BckSp><BckSp>41
+2019-05-25 16:16:15+0530 > <#+5>yes
+2019-05-25 16:16:19+0530 > <#+4>zs10062013
+2019-05-25 16:16:22+0530 > <#+4>
+2019-05-25 16:16:23+0530 > <Up>
+2019-05-25 16:16:25+0530 > <Up><BckSp>5
+2019-05-25 16:16:27+0530 > <#+4>ls
+2019-05-25 16:16:35+0530 > cd g<Tab>
+2019-05-25 16:16:42+0530 > ls
+2019-05-25 16:16:42+0530 > vi e<Tab>.<Tab><#+1><Tab>t<Tab>
+2019-05-25 16:16:47+0530 > <#+1><PgDn><Esc><LShft>:q<LShft>!
+2019-05-25 16:16:55+0530 > 
+2019-05-25 16:16:55+0530 > fuser <BckSp><BckSp><BckSp><BckSp><BckSp><Tab><Tab>nus<Tab><Tab><Tab> -v /dev/ui<BckSp><BckSp>input/3
+2019-05-25 16:17:09+0530 > <#+3><Up>
+2019-05-25 16:17:14+0530 > <Up><Left>e<Tab><#+2>
+2019-05-25 16:17:17+0530 > <#+3><Up>
+2019-05-25 16:17:18+0530 > <Up>
+2019-05-25 16:17:19+0530 > <Up><Up><Up><Up><Down>
+2019-05-25 16:17:25+0530 > <PgDn><Esc><LShft>:q<LShft>
+2019-05-25 16:17:49+0530 > !
+2019-05-25 16:17:49+0530 > 
+2019-05-25 16:17:50+0530 > 
+2019-05-25 16:17:50+0530 > vi e<Tab>
+2019-05-25 16:17:51+0530 > <Esc><LShft>:q<LShft>!
+2019-05-25 16:17:53+0530 > <Up>.<Tab>
+2019-05-25 16:17:54+0530 > <Esc><LShft>;<Esc><LShft>:q<LShft>!
+2019-05-25 16:17:56+0530 > <Up>c
+2019-05-25 16:17:57+0530 > <PgDn><Down><#+44><Down><#+5>/<LShft>SYN_REPORT
+2019-05-25 16:18:14+0530 > <#+3>nnnnnn<RShft>*<#+2><Up><Up><Right><Right><Right><Right><Right><RShft>*n<#+2>n<#+2><Left><Left><Left><Left><Left><Left><RShft>*<#+1><RCtrl><PgDn><PgDn><PgUp><PgUp><Esc><LShft>:!
+2019-05-25 16:18:39+0530 > 
+2019-05-25 16:18:44+0530 > /<LShft>SYN_
+2019-05-25 16:18:47+0530 > <#+1>nnnnnnnnnnnnnnnnnn<Esc><LShft>:!
+2019-05-25 16:19:08+0530 > g
+2019-05-25 16:19:22+0530 > <LShft>"<RShft><Ins><LShft>"
+2019-05-25 16:19:25+0530 > <LCtrl>a<Del>touch button event
+2019-05-25 16:20:27+0530 > <#+3> linux kernel driver
+2019-05-25 16:21:58+0530 > <#+3>
+2019-05-25 16:25:12+0530 > 
+2019-05-25 16:25:12+0530 > 
+2019-05-25 16:25:12+0530 > 
+2019-05-25 16:25:13+0530 > <Esc><LShft>:q<LShft>!
+2019-05-25 16:25:30+0530 > 
+2019-05-25 16:25:31+0530 > <RCtrl><PgDn>e<Tab><Tab>v<Tab><Tab>t<Tab><Tab><Tab><BckSp> n<Tab><Tab><BckSp><BckSp><#+16><RCtrl><PgUp>
+2019-05-25 16:25:45+0530 > 
+2019-05-25 16:25:45+0530 > 
+2019-05-25 16:25:45+0530 > 
+2019-05-25 16:25:45+0530 > 
+2019-05-25 16:25:45+0530 > 
+2019-05-25 16:25:45+0530 > 
+2019-05-25 16:25:46+0530 > ls
+2019-05-25 16:25:46+0530 > 
+2019-05-25 16:25:47+0530 > 
+2019-05-25 16:25:47+0530 > 
+2019-05-25 16:25:47+0530 > ./e<Tab> <BckSp>/de<Tab><Tab><Tab>nin<Tab><#+2>pu<Tab><Tab>e<Tab>3
+2019-05-25 16:26:12+0530 > <#+3><Up><Home>sudp 
+2019-05-25 16:26:15+0530 > <Up><#+1><Home><Right><Right><Right><Right><BckSp>0
+2019-05-25 16:26:19+0530 > <Up><Home><Right><#+3><Right><Right><Right><BckSp>o
+2019-05-25 16:26:24+0530 > zs10062013
+2019-05-25 16:26:28+0530 > <#+4>1g
+2019-05-25 16:27:10+0530 > inpu<BckSp>ut<LShft>_event
+2019-05-25 16:27:15+0530 > <#+3>3g
+2019-05-25 16:27:52+0530 > <LShft>Event<LShft>: time
+2019-05-25 16:28:00+0530 > <#+2><Down><Down><Down><Down><Up><#+9><Up><#+2><Up><Up><Up><Up><Up><Up><Up><BckSp><#+15><LAlt><Tab><LAlt><Tab>inpt<BckSp>ut<LShft>_report<LShft>_key
+2019-05-25 16:28:47+0530 > <RCtrl><PgDn><RCtrl><PgUp>g
+2019-05-25 16:29:16+0530 > blackberry showroo<BckSp><#+11> servcie<Down><Down>
+2019-05-25 16:29:27+0530 > <LCtrl><LShft>T<RCtrl><PgDn><PgDn><PgDn><PgUp>crg
+2019-05-25 16:34:09+0530 > wayanad<Down><Down>
+2019-05-25 16:34:13+0530 > <#+1><BckSp>
+2019-05-25 16:34:45+0530 > <PgDn><#+11><PgDn><PgUp><PgUp><PgDn>cr<Up><Up><Down>
+2019-05-25 16:37:41+0530 > <#+1><LCtrl>c
+2019-05-25 16:37:45+0530 > <Up><Up><Up>
+2019-05-25 16:37:47+0530 > <#+1>ye
+2019-05-25 16:37:50+0530 > <#+3><LCtrl>c
+2019-05-25 16:37:51+0530 > <Up>
+2019-05-25 16:37:52+0530 > <#+1>yes
+2019-05-25 16:37:54+0530 > <#+3>zs10062013
+2019-05-25 16:37:57+0530 > 
+2019-05-25 16:37:58+0530 > 
+2019-05-25 16:37:58+0530 > 
+2019-05-25 16:37:58+0530 > cd <LShft>~/<LShft>Do<Tab><#+3>c<Tab><LShft>V<Tab><#+2><Tab><Tab><LShft>Q<Tab><#+3>w<Tab><Tab><Tab>
+2019-05-25 16:38:06+0530 > <#+11>ls
+2019-05-25 16:38:07+0530 > cd so<Tab><#+3>
+2019-05-25 16:38:10+0530 > ls
+2019-05-25 16:38:11+0530 > grep -rns ima<BckSp><BckSp><BckSp><LShft>IMAGE_INSTALL
+2019-05-25 16:38:20+0530 > vi <RShft><Ins>
+2019-05-25 16:39:18+0530 > <Esc><LShft>:q<LShft>!
+2019-05-25 16:39:28+0530 > 
+2019-05-25 16:39:29+0530 > 
+2019-05-25 16:39:29+0530 > 
+2019-05-25 16:39:29+0530 > g
+2019-05-25 16:39:37+0530 > samsung gala<Down><Down><Down><Down>
+2019-05-25 16:39:42+0530 >  vs samsung ga<Down><Down><Up>
+2019-05-25 16:39:49+0530 > <BckSp>which is bre<BckSp>est <BckSp><BckSp><BckSp><BckSp><BckSp>est mobile under <Down> in sams<Down>
+2019-05-25 16:41:18+0530 > <BckSp>san<BckSp>,s<BckSp><BckSp>msung galaxy s<BckSp>a8<Down><Down><Down><Down><Down>
+2019-05-25 16:41:50+0530 >  gs<LCtrl>a<Del>one plus g
+2019-05-25 16:43:03+0530 > <#+1>one plus 7  rad<BckSp>6<BckSp>iphne x <BckSp>sa<BckSp><BckSp><BckSp><BckSp>which is best in samsung under 20000
+2019-05-25 16:45:06+0530 > samsung galaxy m30 vs <Down><Down>
+2019-05-25 16:45:37+0530 >  <BckSp>camer ra<BckSp><BckSp><BckSp>a rating good mov<BckSp>bile under <Down><Down><Down>
+2019-05-25 16:46:27+0530 > <BckSp>3
+2019-05-25 16:47:09+0530 > <PgUp><#+14><PgDn><PgDn><#+17><PgUp><PgUp><PgUp><PgUp><#+10><PgDn><PgUp><PgUp><PgUp><PgUp><PgUp><PgDn><PgUp><PgUp><PgUp><PgDn>g
+2019-05-25 16:53:10+0530 > <#+1>one plus 7 pro rad<Down><Down>
+2019-05-25 16:53:18+0530 > <BckSp>6t
+2019-05-25 16:54:51+0530 >  
+2019-05-25 16:54:57+0530 > 
+2019-05-25 16:55:39+0530 > 
+2019-05-25 16:55:39+0530 > <RCtrl><PgUp><RCtrl><PgDn><PgDn>
+2019-05-25 16:55:42+0530 > 
+2019-05-25 16:55:42+0530 > 
+2019-05-25 16:55:44+0530 > 
+2019-05-25 16:55:44+0530 > 
+2019-05-25 16:55:44+0530 > cd ../../
+2019-05-25 16:55:47+0530 > 
+2019-05-25 16:55:47+0530 > 
+2019-05-25 16:55:47+0530 > 
+2019-05-25 16:55:47+0530 > 
+2019-05-25 16:55:47+0530 > vi tx<Tab><#+2>
+2019-05-25 16:55:49+0530 > <#+2><PgDn><PgDn><PgDn><PgDn><PgUp>cr<Up><#+21><Up><Up><Up><Up><RCtrl><PgUp>cd <Tab><Tab>../bu<Tab><#+3>2<Tab><Tab><Tab>t<Tab>wor<Tab><Tab>-s<Tab><Tab><Tab>
+2019-05-25 16:58:16+0530 > <#+12>ls
+2019-05-25 16:58:17+0530 > <Up><#+3><Tab><Up><Tab><Tab>s<Tab><#+3>
+2019-05-25 16:58:22+0530 > ls
+2019-05-25 16:58:24+0530 > cd dr<Tab><Tab><Tab>nin<Tab><#+4><Tab>p<Tab><Tab><Tab>ke<Tab>
+2019-05-25 16:58:33+0530 > ls
+2019-05-25 16:58:34+0530 > vi <RShft><Ins>
+2019-05-25 16:58:44+0530 > <PgDn><PgDn><PgDn><PgDn>/<LShft>_event
+2019-05-25 16:58:49+0530 > /<Up><Home>input
+2019-05-25 16:58:55+0530 > <#+2>n<#+13>nnnnnn<RCtrl><PgUp><RCtrl><RCtrl><PgDn><Down><Up><Down><Right><RShft>*<#+1>nnn<Esc><LShft>:q<LShft>!
+2019-05-25 17:00:07+0530 > 
+2019-05-25 17:00:07+0530 > 
+2019-05-25 17:00:07+0530 > vi <RShft><Ins>
+2019-05-25 17:00:23+0530 > /input<LShft>_event<RShft>
+2019-05-25 17:00:28+0530 > <#+1>/input<LShft>_report
+2019-05-25 17:00:33+0530 > <#+2>n<#+44><Right>/key<LShft>_
+2019-05-25 17:00:41+0530 > n<#+3>nnnnnnnnnnn<Down><Down><#+9><Up><Up>/keybit
+2019-05-25 17:00:55+0530 > <#+4>/<LShft>BIT_MASK
+2019-05-25 17:01:00+0530 > <#+2><Esc><LShft>:q<LShft>!
+2019-05-25 17:01:03+0530 > 
+2019-05-25 17:01:04+0530 > 
+2019-05-25 17:01:04+0530 > ls
+2019-05-25 17:01:05+0530 > vi g<Tab>p<Tab><#+3>
+2019-05-25 17:01:09+0530 > <Esc><LShft>:q<LShft>!
+2019-05-25 17:01:11+0530 > <Up>.c<Tab>
+2019-05-25 17:01:12+0530 > .<BckSp>/keybit
+2019-05-25 17:01:16+0530 > <#+4>/<LShft>BIT_MASK
+2019-05-25 17:01:20+0530 > <#+2>/<LShft>input<LShft>_event
+2019-05-25 17:01:25+0530 > nn<#+1>n<#+2>nn/input<LShft>_report<LShft>_key
+2019-05-25 17:01:42+0530 > <#+1><Right><#+12><Left><#+10><Right><Left><Right><Left><Right><Left><Right><Left><Right><Left><Right><Left><Right><Left><Right><Left><Right><Left><Left><Left><Left><Right><Up><Down>nn<RShft>*n<#+3><RCtrl><PgUp><PgDn><RCtrl><PgDn><Down><Up><Up><Up><Up><Right><#+12><Down><Down><Down><Up><Up><Up><Up><Down><#+13><Down><Down><Down><Down><Down><Down><Up><Up><Up><Up><#+6><Up><Up><Down><Up><Right><#+8><Right><Right><Left><Right><Left><Right><Left><Right><Left><Right><#+3><Left><Right><Left><Right><#+9><Left><#+7><Left><Left><Left><Right><#+6><RCtrl><PgUp>1<RCtrl><PgDn><PgDn><RCtrl><PgUp><RCtrl><PgDn><PgUp><Esc><LShft>:q<LShft>!
+2019-05-25 17:19:26+0530 > 
+2019-05-25 17:19:26+0530 > 
+2019-05-25 17:19:27+0530 > 
+2019-05-25 17:19:27+0530 > vi sa<Tab><#+3>
+2019-05-25 17:19:29+0530 > /<Up>
+2019-05-25 17:19:31+0530 > <RCtrl><PgUp><RCtrl><PgDn><Down><Up><RShft>*<Down><Up><Down><Up><Down><Up><Down><Up><Down><Up><Down><Up><Down><Up><#+1><Down><#+1><Up><Down><Up><Down><Up><Down><Up><Down><Up><Down><Up><Down><Up><Down><Up><Down><Up><Down><Up><Down><Up><Down><Up><Down><Up><Down><Up><Down><Up><Down><Up><Down><Up><Down><Up><Down><Up><Down><Up><Down><Up><Down><Up><Down><Up><Down><#+1><Up><Down><Up><Down><Up><Down><#+1><Up><Down><Up><Down><Up><Down><Up><Down><Up><Down><Up><Down><#+3><Up><Down><Down><#+1><Up><Up><Down><Up><Up><Down><Down><Up><Up><Up><#+30><Down><#+35><Down><#+13><Up><#+13><Up><Up><Up><Up><Up><Up><Down><Up><Down><Up><Down><Up><Down><Down><Up><Down><Up><Down><Up><Up><Down><Up><Down><Up><Down><Up><Down><Up><Down><Up><Up><Down><Up><Down><Down><Up><Down><Up><Down><Up><Down><Up><Down><Up><RCtrl><PgDn><Up><Down><Up><#+1><Down><Up><Down><Up><Down><Up><Up><Down><Down><Up><Down><Down><Up><Up><Down><Up><Down><Up><Down><Up><Down><Up><Down><Up><Down><Up><Up><Up><Right><#+11><Left><Down><Down><Down><Right><#+27><RShft>*nnn<RCtrl><PgDn><PgDn><Esc><LShft>:q<LShft>!
+2019-05-25 17:22:59+0530 > 
+2019-05-25 17:22:59+0530 > 
+2019-05-25 17:22:59+0530 > grep -rns <LShft>"<LShft>BIT_MASK'
+2019-05-25 17:23:07+0530 > <LCtrl>c
+2019-05-25 17:23:08+0530 > <Up><BckSp><LShft>'<BckSp><LShft>"
+2019-05-25 17:23:11+0530 > <Up><Up><Down><Left><BckSp><#+10><BckSp><BckSp><LShft>KEY<BckSp><BckSp><BckSp>keybit
+2019-05-25 17:23:36+0530 > <Up><Left>[
+2019-05-25 17:23:41+0530 > <Up><Left><BckSp><LShft>{
+2019-05-25 17:23:45+0530 > <Up><Left><BckSp><LShft>(
+2019-05-25 17:23:49+0530 > <Up><Left><BckSp>[
+2019-05-25 17:23:53+0530 > <Up><Left><#+5><Right><BckSp><#+16><Up><Up><Up><Up><Up><Up><Down>
+2019-05-25 17:24:02+0530 > vi <RShft><Ins>
+2019-05-25 17:24:25+0530 > /<Up>
+2019-05-25 17:24:27+0530 > n<#+66>/<Up><Up><Up><Up><Up><Down><Down>
+2019-05-25 17:24:46+0530 > <#+1><Up><#+6><Down><Up><#+12><Down><#+13><Down><Down><Up><Up><Up>/<Up><Up><Up><Up><#+1><Up>
+2019-05-25 17:25:02+0530 > <#+2><RCtrl><PgDn>/evbit
+2019-05-25 17:25:12+0530 > <#+1><Down><Up><Down><RCtrl><PgUp><Esc><LShft>:q<LShft>!
+2019-05-25 17:25:23+0530 > 
+2019-05-25 17:25:23+0530 > <Up><Up><Up><Up><Up><Down><Left><BckSp><LShft>{<BckSp>[<LShft>BIT_WORD
+2019-05-25 17:25:36+0530 > <#+3><Up><Left><RCtrl><PgDn><PgUp><LShft>(<LShft>KEY_D+<BckSp><BckSp>F12<LShft>)]
+2019-05-25 17:25:52+0530 > <#+3><Up>
+2019-05-25 17:25:55+0530 > <#+1><Up><Left><BckSp><#+10><BckSp><BckSp><BckSp><BckSp><Left><#+12><Right><BckSp><#+7><BckSp><BckSp><BckSp><BckSp>
+2019-05-25 17:26:11+0530 > <Up><Up><Up><Up><Up>
+2019-05-25 17:26:18+0530 > v<#+2>oi <BckSp><BckSp><BckSp><BckSp>vi <RShft><Ins>
+2019-05-25 17:26:32+0530 > /<LShft>BIT_MASK
+2019-05-25 17:26:35+0530 > /input<LShft>_ke<BckSp><BckSp>event
+2019-05-25 17:26:51+0530 > <#+2><Down><Up><Down><Up><Down><Up><Down><Up><Up><Down><Down><Up><Down><Up><Down><Up><Down><Up><Down><Up><Down><Up><Down>n<#+2><RShft>*bnnnnn<Down><Right><#+2><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down><#+13><Down><Up><Up><Down><Up><#+1><Down><Up><Down><Up><Down><Up><Down><Down><Down><Up><Up><RCtrl><PgUp><PgDn><Esc><LShft>:q<LShft>!
+2019-05-25 17:27:41+0530 > 
+2019-05-25 17:27:41+0530 > 
+2019-05-25 17:27:41+0530 > ls
+2019-05-25 17:27:42+0530 > grep -rs<BckSp>ns <LShft>"D<LShft>EL<BckSp><BckSp>ell<LShft>"
+2019-05-25 17:27:50+0530 > vi a<Tab><#+8>t<Tab>k<Tab><#+3>
+2019-05-25 17:28:02+0530 > /<LShft>Dell
+2019-05-25 17:28:11+0530 > <#+1>/<Up><Up>
+2019-05-25 17:28:17+0530 > /<Up><Up><Up><Up><Up><Up><Up><Down>
+2019-05-25 17:28:27+0530 > n<#+5>n<#+1>nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn<RCtrl><PgDn><Right><#+30><Right><Right><Right><Left><#+6><RShft>*n<#+2>n<#+42><Right><Right><#+11><Down><RShft>*nnn<#+5>nnn<Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down><Up><Up><Down><Up><Down><Up><Down><Up><Down><Up><Down><Up><Down><Up><Down><Up><Down><Up><Down><Up><Down><Up><Down><Up><#+1><Down><Up><Down><Up><Down><Up><Down><Up><Down><Up><Down><Up><Down><Up><Down><Up><Down><Up><Down><Up><Down><#+14><Down><Up><#+12><Up><Up><Up><Down><#+12><Down><Down><Up><#+2><Right><#+19><Down><Right><#+9><Left><#+9><RCtrl><PgUp>g
+2019-05-25 17:30:13+0530 > ttouch button linux de<BckSp>river
+2019-05-25 17:30:24+0530 > <#+2><LCtrl>finput<LShft>_eve<BckSp><BckSp><BckSp>report<LShft>_key
+2019-05-25 17:31:17+0530 > 
+2019-05-25 17:31:18+0530 > 
+2019-05-25 17:31:19+0530 > 
+2019-05-25 17:31:20+0530 > 
+2019-05-25 17:31:20+0530 > 
+2019-05-25 17:31:21+0530 > 
+2019-05-25 17:31:22+0530 > 
+2019-05-25 17:31:22+0530 > 
+2019-05-25 17:31:27+0530 > <LCtrl>f<BckSp><LShft>BIT_MAS<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>input<LShft>_report<LShft>_key
+2019-05-25 17:34:15+0530 > 
+2019-05-25 17:34:15+0530 > 
+2019-05-25 17:34:19+0530 > 
+2019-05-25 17:34:20+0530 > 
+2019-05-25 17:34:31+0530 > 
+2019-05-25 17:34:31+0530 > 
+2019-05-25 17:34:35+0530 > 
+2019-05-25 17:34:36+0530 > <RCtrl><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgUp><Down><#+4><PgDn><PgDn><PgDn><PgDn><PgDn><#+2><PgDn><#+9><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><RCtrl><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><LCtrl>f<LCtrl>f
+2019-05-25 17:36:01+0530 > <#+1>
+2019-05-25 17:36:04+0530 > 
+2019-05-25 17:36:04+0530 > 
+2019-05-25 17:36:15+0530 > <LCtrl>f<LCtrl>f/<RShft><Ins><BckSp>
+2019-05-25 17:37:25+0530 > n<#+1>n<#+1>n<#+1>nn<#+1>nnnnn<#+1>n<#+1>cr<LCtrl>f<RCtrl><PgDn><PgDn><PgDn><LShft>Example-code-<LShft>Referrence
+2019-05-25 17:40:11+0530 > <RShft><Ins>qqw<Esc><LShft>:q<LShft>!
+2019-05-25 17:41:30+0530 > 
+2019-05-25 17:41:30+0530 > 
+2019-05-25 17:41:30+0530 > grep -rns syste<BckSp><#+19>cd 1<Tab><#+2>
+2019-05-25 17:41:37+0530 > 
+2019-05-25 17:41:37+0530 > 
+2019-05-25 17:41:37+0530 > grep -rns <LShft>"systemctl<LShft>"
+2019-05-25 17:41:43+0530 > <Up><Left><BckSp><#+10><BckSp><BckSp>eb<BckSp>nable
+2019-05-25 17:41:54+0530 > <#+3><RCtrl><PgUp><RCtrl><PgUp><RCtrl><PgDn><Esc><#+1><LCtrl><LShft>T<Esc><LShft>:q<LShft>!
+2019-05-25 17:42:09+0530 > <LCtrl><LShft>T<RCtrl><PgUp><RCtrl><PgUp><RCtrl><PgDn><PgDn><RCtrl><PgUp><PgUp>cd ../../../../
+2019-05-25 17:42:20+0530 > 
+2019-05-25 17:42:20+0530 > 
+2019-05-25 17:42:21+0530 > cd ../<BckSp><#+13>cd ../../<BckSp><BckSp><BckSp>
+2019-05-25 17:42:27+0530 > 
+2019-05-25 17:42:28+0530 > 
+2019-05-25 17:42:28+0530 > cd ..
+2019-05-25 17:42:32+0530 > 
+2019-05-25 17:42:32+0530 > 
+2019-05-25 17:42:32+0530 > grep -rns systemctl
+2019-05-25 17:42:37+0530 > <#+3><LCtrl>c
+2019-05-25 17:42:41+0530 > <Up><LShft>"<Left><#+13><LShft>"<End><Left> enable
+2019-05-25 17:42:49+0530 > <#+4><RCtrl><PgDn><PgDn><Up><#+1>
+2019-05-25 17:43:13+0530 > <#+9><Up>
+2019-05-25 17:43:15+0530 > yes
+2019-05-25 17:43:17+0530 > <#+1>zs10062013
+2019-05-25 17:43:21+0530 > <#+1>
+2019-05-25 17:43:22+0530 > 
+2019-05-25 17:43:22+0530 > 
+2019-05-25 17:43:23+0530 > sl<BckSp><BckSp>ls
+2019-05-25 17:43:25+0530 > 
+2019-05-25 17:43:25+0530 > 
+2019-05-25 17:43:26+0530 > 
+2019-05-25 17:43:26+0530 > 
+2019-05-25 17:43:26+0530 > 
+2019-05-25 17:43:26+0530 > 
+2019-05-25 17:43:26+0530 > vi <LShft>Z<Tab><#+5>a<Tab><#+5><LShft>B<Tab><#+4>
+2019-05-25 17:43:34+0530 > 
+2019-05-25 17:43:34+0530 > <PgDn><#+4><PgUp><Esc><LShft>:q<LShft>!<#+1>
+2019-05-25 17:43:55+0530 > 
+2019-05-25 17:43:55+0530 > 
+2019-05-25 17:43:56+0530 > 
+2019-05-25 17:43:56+0530 > 
+2019-05-25 17:43:56+0530 > <RCtrl><PgDn><RCtrl><PgDn><PgDn><PgDn>cle<Tab>
+2019-05-25 17:44:03+0530 > exit
+2019-05-25 17:44:06+0530 > <F5><RCtrl><PgUp>a<#+8><RCtrl><PgDn><PgDn><PgDn><PgDn><PgDn><RCtrl><PgUp><RCtrl><PgUp><RCtrl><PgUp><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><#+21><PgUp><PgUp><PgUp><PgUp><#+13><PgUp><#+12><PgUp><#+12><PgDn><RCtrl><PgDn><LCtrl>f<BckSp>inp<BckSp><BckSp><BckSp><BckSp><BckSp><LShft>EV_<LShft>KE<LShft>Y
+2019-05-25 17:48:04+0530 > 
+2019-05-25 17:48:05+0530 > 
+2019-05-25 17:48:06+0530 > 
+2019-05-25 17:48:06+0530 > 
+2019-05-25 17:48:06+0530 > n<BckSp>
+2019-05-25 17:48:08+0530 > 
+2019-05-25 17:48:08+0530 > 
+2019-05-25 17:48:08+0530 > 
+2019-05-25 17:48:09+0530 > 
+2019-05-25 17:48:09+0530 > <BckSp><#+16>input<LShft>_e<BckSp>report<LShft>_ker<#+1><BckSp>y
+2019-05-25 17:48:23+0530 > 
+2019-05-25 17:48:24+0530 > <Up><#+5><Up><Up><Down><Down><Down><Down><Down><Down><Up><#+10><Down><Down><Up><Up><Up><RCtrl><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgUp><PgUp><PgUp><PgUp>bla<Down><Down><Down><Down><Down>
+2019-05-25 17:49:42+0530 > <LCtrl><RCtrl><PgDn><PgDn><PgDn><PgDn><PgUp><PgUp><PgUp><PgUp><PgDn><PgDn><PgDn><PgDn><PgUp><PgUp><PgUp><RCtrl><PgUp><PgUp><PgDn><RCtrl><PgDn><PgDn><RCtrl><PgDn><PgUp><PgUp><PgDn><PgDn><PgDn><PgDn><PgUp><PgUp><PgUp><PgUp><LCtrl>c
+2019-05-25 17:55:19+0530 > <#+2><LCtrl>
+2019-05-25 17:55:22+0530 > 
+2019-05-25 17:55:22+0530 > 
+2019-05-25 17:55:22+0530 > 
+2019-05-25 17:55:22+0530 > 
+2019-05-25 17:55:23+0530 > 
+2019-05-25 17:55:23+0530 > 
+2019-05-25 17:55:23+0530 > 
+2019-05-25 17:55:23+0530 > 
+2019-05-25 17:55:23+0530 > 
+2019-05-25 17:55:23+0530 > 
+2019-05-25 17:55:24+0530 > 
+2019-05-25 17:55:24+0530 > 
+2019-05-25 17:55:24+0530 > 
+2019-05-25 17:55:24+0530 > 
+2019-05-25 17:55:24+0530 > 
+2019-05-25 17:55:25+0530 > <RCtrl><PgDn>
+2019-05-25 17:55:27+0530 > <LCtrl><LShft>T<LShft><LCtrl><LShft>T<RCtrl><PgUp><PgUp><PgDn><RCtrl><PgDn><PgDn><F5><F5><#+1><F5><F5><#+1><F5><F5>kumar<LShft>@123456
+2019-05-25 18:01:01+0530 > <#+2>kukum<BckSp><#+11>zumi<LShft>@2<BckSp><#+14>zumi<LShft>@123456
+2019-05-25 18:01:15+0530 > <#+1>zumi<LShft>@22345582
+2019-05-25 18:01:23+0530 > <#+1>zumi<LShft>@2345582
+2019-05-25 18:01:31+0530 > <#+1><Esc><#+1><Esc>zumi<LShft>@123456
+2019-05-25 18:01:44+0530 > <#+1>zumi<LShft>@123456
+2019-05-25 18:01:55+0530 > <#+1>kumar<LShft>@123456
+2019-05-25 18:02:03+0530 > <#+1><F5>
+2019-05-25 18:03:42+0530 > 
+2019-05-25 18:03:42+0530 > 
+2019-05-25 18:03:42+0530 > 
+2019-05-25 18:03:42+0530 > 
+2019-05-25 18:03:43+0530 > 
+2019-05-25 18:03:43+0530 > 
+2019-05-25 18:03:43+0530 > 
+2019-05-25 18:03:43+0530 > 
+2019-05-25 18:03:44+0530 > <RCtrl><Menu>
+2019-05-27 05:12:24+0530 > <RShft><RCtrl>'<AltGr> <#+1>
