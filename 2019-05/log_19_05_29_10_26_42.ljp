@@ -1,0 +1,36 @@
+Logging started ...
+
+2019-05-29 10:26:42+0530 > <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LCtrl>s..;;<LCtrl>s<Up>
+2019-05-29 10:27:25+0530 > <BckSp><BckSp><BckSp><BckSp><BckSp><LCtrl>sjjjgjg<LCtrl>s<Up>
+2019-05-29 10:28:12+0530 > <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LCtrl>s<Up>
+2019-05-29 10:29:34+0530 > kkjkj<LCtrl>s<Up>
+2019-05-29 10:31:00+0530 > <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LCtrl>s<CpsLk><Up><Left><#+11><BckSp><#+22><BckSp><BckSp><BckSp><BckSp><RShft><Ins>
+2019-05-29 10:32:38+0530 > <LCtrl>F<BckSp><#+22>DDR2<Up><Left><Left><Left><Left><Left><Left><BckSp><#+11><BckSp><BckSp><BckSp><RShft><Ins>
+2019-05-29 10:36:20+0530 > <LCtrl>F<LCtrl>FDDR<Esc><Esc><LCtrl>FMMMMM<LCtrl>S<Up>
+2019-05-29 11:00:02+0530 > <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LCtrl>S<Up>
+2019-05-29 11:01:23+0530 > <LCtrl>F<LCtrl>
+2019-05-29 11:02:41+0530 > <LCtrl>F<BckSp><LCtrl>V<LCtrl>F<LCtrl>F<LCtrl>V<LCtrl>c
+2019-05-29 11:03:47+0530 > <LCtrl>F..<LCtrl>S<Up>
+2019-05-29 11:06:51+0530 > <LCtrl>Z<LCtrl>Z<LCtrl>ZZ//<LCtrl>S<Up>
+2019-05-29 11:08:00+0530 > <BckSp>2<LCtrl>S<BckSp><BckSp>00<LCtrl>S<Up><Left><#+12><Right><BckSp><#+23><BckSp><BckSp><BckSp><RShft><Ins>
+2019-05-29 11:11:17+0530 > <LCtrl>FFREQ<LCtrl><LCtrl><LCtrl>F<LCtrl>V<LCtrl>c
+2019-05-29 11:15:00+0530 > <LCtrl>F<LCtrl>c
+2019-05-29 11:15:23+0530 > <LCtrl>F<LCtrl>c
+2019-05-29 11:15:54+0530 > <LCtrl><Up><Left><#+8><Left><Left><Left><Left><BckSp><#+11><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><RShft><Ins>
+2019-05-29 11:16:05+0530 > <LCtrl>F<LCtrl>F<LCtrl>V<LCtrl>c
+2019-05-29 11:21:16+0530 > <LCtrl>F<LCtrl>c
+2019-05-29 11:21:38+0530 > <LCtrl>F<LCtrl>V<LCtrl>c
+2019-05-29 11:21:51+0530 > <LCtrl>F<LCtrl>FOFF<LCtrl>c
+2019-05-29 11:23:59+0530 > <LCtrl>F<BckSp><BckSp><BckSp>1<LCtrl>S<Up>
+2019-05-29 11:26:09+0530 > <Up><Up>
+2019-05-29 11:26:32+0530 > <Del><CpsLk>u-boot<RShft>_<Left><Left><Left><Left><Left><BckSp><RShft>_<Right><Right><Right><Right><RShft>_ddr1<BckSp>9<BckSp>8<LCtrl>s<BckSp>9<LCtrl>s11<Left><BckSp><Up><Right><BckSp><LCtrl>scd <BckSp><BckSp><BckSp><CpsLk>CD<BckSp><BckSp><BckSp>GITSTAUS<Left><Left><Left><Left><Left> 
+2019-05-29 11:31:32+0530 > <Up><Left><Left>T
+2019-05-29 11:31:39+0530 > GIT DIFF DDR.C
+2019-05-29 11:31:57+0530 > <LCtrl>c
+2019-05-29 11:32:09+0530 > CD 
+2019-05-29 11:32:18+0530 > VIM DD<Tab>C
+2019-05-29 11:32:26+0530 > <Down><#+52><Up><#+55><Up><#+11><Down><#+51><RShft>><RShft>:W<BckSp><BckSp><RShft>:Q
+2019-05-29 11:33:23+0530 > <LCtrl><LCtrl><LCtrl>U<RShft>:Q
+2019-05-29 11:33:55+0530 > <Esc><Esc><LCtrl>A<LCtrl>U<LCtrl>U<LCtrl><LCtrl>U<LCtrl>U<LCtrl>U<LCtrl>U<LCtrl>U<LCtrl><LCtrl>U<LCtrl><LCtrl><LCtrl>U<LCtrl>U<RShft>:Q
+2019-05-29 11:34:25+0530 > CD ..
+2019-05-29 11:35:10+0530 > C
