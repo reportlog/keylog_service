@@ -1,0 +1,89 @@
+Logging started ...
+
+2019-05-30 11:32:35+0530 > fdisk /dev/sdb
+2019-05-30 11:32:45+0530 > d=<BckSp><BckSp>fdisk -1
+2019-05-30 11:33:24+0530 > <Up><Up>1
+2019-05-30 11:33:46+0530 > <Up><BckSp>2
+2019-05-30 11:33:50+0530 > <Up><Left><#+6><Right><Right><Left><#+11><Left><Right><#+10><Right><Right><BckSp><Left><#+9><Left><Left><Left><Left>-d 
+2019-05-30 11:34:04+0530 > <Up><Left><Left><#+10><Left><Left><Left><BckSp><BckSp><Left><Left><Left><Right><Right><Right><Left><#+9><Left>c
+2019-05-30 11:34:32+0530 > 
+2019-05-30 11:34:36+0530 > <Up>
+2019-05-30 11:34:38+0530 > 
+2019-05-30 11:34:42+0530 > <Up>2
+2019-05-30 11:34:45+0530 > 
+2019-05-30 11:34:48+0530 > <Up><BckSp>1
+2019-05-30 11:34:53+0530 > 
+2019-05-30 11:34:56+0530 > <Up><Left><#+12><Left><Right><BckSp><BckSp> 
+2019-05-30 11:35:02+0530 > 
+2019-05-30 11:35:03+0530 > <Up><BckSp>
+2019-05-30 11:35:05+0530 > 
+2019-05-30 11:35:06+0530 > <Up><Left><#+12><Right>0d<BckSp><BckSp>- d<BckSp><BckSp>d 
+2019-05-30 11:35:13+0530 >  uis==<BckSp><BckSp><BckSp><BckSp><BckSp>in linux
+2019-05-30 11:44:05+0530 > <LCtrl>clear
+2019-05-30 11:47:19+0530 > cd
+2019-05-30 11:47:20+0530 > df
+2019-05-30 11:47:21+0530 > fdisk /dev/sdb/
+2019-05-30 11:47:32+0530 > <Up><BckSp>
+2019-05-30 11:47:35+0530 > mkfs.ext4 /dv/sdb
+2019-05-30 11:49:13+0530 > <Up><Left><Left><Left><Left><Left>e
+2019-05-30 11:49:20+0530 > y
+2019-05-30 11:49:28+0530 > <Left><#+18><Right><Right><BckSp>b
+2019-05-30 11:50:00+0530 > sudo -i
+2019-05-30 11:51:19+0530 > zs10062013
+2019-05-30 11:51:24+0530 > fdisk /dev/sdb
+2019-05-30 11:52:07+0530 > -d
+2019-05-30 11:52:12+0530 > d
+2019-05-30 11:52:18+0530 > 1
+2019-05-30 11:52:23+0530 > d
+2019-05-30 11:52:26+0530 > l
+2019-05-30 11:52:48+0530 > w
+2019-05-30 11:53:01+0530 > cd
+2019-05-30 11:53:05+0530 > ls
+2019-05-30 11:53:09+0530 > ls
+2019-05-30 11:53:16+0530 > cd <LShft>D<Tab>
+2019-05-30 11:53:22+0530 > ls
+2019-05-30 11:53:23+0530 > cd c`<BckSp><Tab>
+2019-05-30 11:53:28+0530 > ls
+2019-05-30 11:53:29+0530 > cd s<Tab>
+2019-05-30 11:53:33+0530 > ls
+2019-05-30 11:53:34+0530 > cd
+2019-05-30 11:53:37+0530 > <LCtrl>c
+2019-05-30 11:53:41+0530 > <#+4>cd
+2019-05-30 11:53:43+0530 > df
+2019-05-30 11:53:53+0530 > lsblk
+2019-05-30 11:58:17+0530 > sudo parted /dev/sdb
+2019-05-30 12:00:10+0530 > zs10062013
+2019-05-30 12:00:15+0530 > mklabel msdos
+2019-05-30 12:00:54+0530 > y<BckSp><LShft>Yes
+2019-05-30 12:01:21+0530 > mkpart primary  <BckSp>fat32 1<LShft>Mi<LShft>B 100<LShft>%
+2019-05-30 12:02:06+0530 > set 1 boot on
+2019-05-30 12:02:27+0530 > qy<BckSp>uit
+2019-05-30 12:02:36+0530 > lslk<BckSp><BckSp>blk
+2019-05-30 12:03:07+0530 > sudo mkfs <BckSp>.vfat /dev/sdb1
+2019-05-30 12:03:48+0530 > lsblk
+2019-05-30 12:04:00+0530 > why partitioning is not happening in sd card using mfg tool
+2019-05-30 12:09:15+0530 > <LShft>HID fullform'<BckSp>
+2019-05-30 12:19:28+0530 >  for imx6 sabre sd
+2019-05-30 12:21:44+0530 > mfg tool is failed while partitionong <BckSp><BckSp><BckSp><BckSp>ing in<BckSp><BckSp>for sd v<BckSp>card in 
+2019-05-30 12:34:43+0530 > read <LMeta><#+36><LMeta><#+60><LMeta>l
+2019-05-30 14:03:01+0530 > zs10062013
+2019-05-30 14:03:11+0530 > p<LShft>Rail <LShft>Tester <LShft>SRT and <LShft>DRT <LShft>Application<LShft>Hi <LShft>Sir,
+2019-05-30 14:23:19+0530 > 
+2019-05-30 14:23:19+0530 > <Tab><Tab><LShft>Please find the ata<BckSp>tached apppl<BckSp><BckSp>lication.
+2019-05-30 14:23:34+0530 > 
+2019-05-30 14:23:35+0530 > <Tab><Tab><LShft>Here, base line is drw<BckSp>awing in white colour <BckSp> for multichannel mode.
+2019-05-30 14:25:12+0530 > <Tab><Tab><Tab><Tab><Tab><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><Left><#+10><Left><#+16><Right><Right><Right><#+13><Right><#+8><Right><Right><Right><Right><Right> and in single mode respective <Left><#+22><Right><Right><Right><Right><Right> channel<Right><#+15><Right><Right><Right><Right> chas<BckSp>nnel clor <BckSp><BckSp><BckSp><BckSp>olor id<BckSp>s drwa<BckSp><BckSp>awing.
+2019-05-30 14:26:21+0530 > 
+2019-05-30 14:26:22+0530 > 
+2019-05-30 14:26:22+0530 > <Tab><Tab><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>
+2019-05-30 14:26:27+0530 > <Tab><Tab><LShft>Please test the application and give your feedback.
+2019-05-30 14:26:47+0530 > 
+2019-05-30 14:26:47+0530 > 
+2019-05-30 14:26:47+0530 > 
+2019-05-30 14:26:47+0530 > 
+2019-05-30 14:26:48+0530 > 
+2019-05-30 14:26:48+0530 > <LShft>r<BckSp><BckSp><BckSp><LShft>Regards,
+2019-05-30 14:26:53+0530 > <LShft>Puneeth.<LShft>K<LCtrl><LCtrl><LCtrl><LShft>++
+
+Logging stopped at 2019-05-30 15:27:59+0530
+
