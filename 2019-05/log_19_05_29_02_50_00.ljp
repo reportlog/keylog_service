@@ -1,0 +1,38 @@
+Logging started ...
+
+2019-05-29 14:50:00+0530 > how can we know that linux kernel is booted
+2019-05-29 14:52:26+0530 > cd fl<Tab>1
+2019-05-29 15:15:03+0530 > <Up><BckSp>
+2019-05-29 15:15:05+0530 > ls
+2019-05-29 15:15:07+0530 > cd li<Tab>
+2019-05-29 15:15:10+0530 > export <LShft>ARCH=arm
+2019-05-29 15:15:17+0530 > export <LShft>CROSS_COMPILE=arm-none-linux-gnueabihf-
+2019-05-29 15:16:10+0530 > fins . -name <LShft>"imx6<LShft>*defconfig<LShft>"
+2019-05-29 15:16:27+0530 > <Up><Left><#+22><Left><Left><Left><BckSp>d
+2019-05-29 15:16:33+0530 > <Up><Left><Left><#+13><Right><Left><BckSp>
+2019-05-29 15:16:48+0530 > make imx<BckSp><BckSp><BckSp>
+2019-05-29 15:17:08+0530 > <Up><Up><Up><Up><Up><Left><#+18><BckSp><BckSp><BckSp><BckSp><BckSp>
+2019-05-29 15:17:23+0530 > <Up><Up><Up><Down>
+2019-05-29 15:17:26+0530 > make
+2019-05-29 15:17:29+0530 > imx6q-sap<Down>
+2019-05-29 16:12:45+0530 > 
+2019-05-29 16:12:46+0530 > <LShft>Welcome<LShft>!23
+2019-05-29 16:12:57+0530 > wsr<BckSp><#+21><LShft>Linux and <LShft><LShft>Android porting to sabre sd board<BckSp><#+15>20days<BckSp><#+18>13/05/2019<BckSp><#+16><LShft>E<Right><Right><Down><BckSp><#+14><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LShft>TH.<LShft>K<BckSp><#+10><BckSp><#+13><BckSp><BckSp><BckSp><BckSp><BckSp><#+19>9900967768<BckSp><BckSp><BckSp><BckSp><BckSp><#+21><BckSp><#+62><BckSp><#+21><BckSp><BckSp><LShft>Download user guide<Left><#+14><Right>linxu<BckSp><BckSp>ux <Right><Right><Right><Right><Right><Right><Right><Right><Right><Right> manual for imx6 sabre sd  and go through the user guide<Left><BckSp>32<LShft>Download uboot , linux kernel and rootfs f<BckSp><LShft>Done100<LShft>%3<LShft>Compile uboot and liux =<BckSp><BckSp><BckSp><BckSp>nux kerne; <BckSp><BckSp>l for imx6 sabre sd board<LShft>D<Right>100<LShft>%4<LShft>Download mfg tool for windows<LShft>Don<Right>100<LShft>%5po<BckSp><BckSp>flash uboot <BckSp>, linux kernel<Left><#+16><Left><Left><Left><Left><Left>compiled image of <Right><#+19><Right> and roofs to the imx6 sabre sd board through mf <BckSp>g tool66<LShft>Check why w=<BckSp><BckSp>kernel is hanginf <BckSp><BckSp>g when ubbot runs<BckSp>ning <BckSp> is<LCtrl><LShft>Donw<BckSp>e100<LShft>%100<LShft>%
+2019-05-29 16:31:22+0530 > <LCtrl>z<LShft>P<LShft>orting uboot and linux kernel using sd cardf<BckSp><RShft>:<LShft>P<Right><LShft>P<Right><LShft>P<Right><LShft>P<Right><LShft>P<Right><BckSp><BckSp>13<Right><Right><Right><BckSp>5<BckSp><BckSp>15<Right><Right><Right><BckSp><BckSp>05<Right><Right><Right><Right><Right><BckSp>9<BckSp><BckSp>13<Right><Right><Right><Right><Left><BckSp><BckSp>05<Right><Right><Right><Right><Right><BckSp>9<BckSp><BckSp>15<Right><Right><Right><BckSp><BckSp>05<Down><Down><Down><Down><Right><Right><Right><Right><Right><BckSp>9<BckSp><#+17><BckSp><#+22><BckSp>1d16/05/201916/05/201916/05/201916/05/20192d<BckSp><BckSp>1d17/05/1917/05/2001<BckSp><BckSp>1917/05/1918/05/19<LShft>Cross compier should export properly and should support for the compilationf <BckSp><BckSp> of k<BckSp><BckSp><BckSp><BckSp><BckSp>.1d19/05/1919/05/1918<BckSp>9/05/1919/05/192d<BckSp>9<BckSp><BckSp>20<Left><#+14><Right><Right><BckSp><BckSp>20<Left><#+10><Left><Left><BckSp><BckSp>20<BckSp><BckSp>2021/05/29<BckSp><BckSp>1922/05/1921/05/19when <BckSp><BckSp><BckSp><BckSp><BckSp>kernel is hanginh <BckSp><BckSp><BckSp>ng when uboot starts.<Left><#+10><Left><Left><Left><Left><Left><Left><Left><Left><F11><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>afet<BckSp><BckSp>ter <BckSp><BckSp><BckSp><BckSp><KP8><KP0><LShft>%<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LCtrl>s<Left><Left><#+11><Left><Right><Right><#+10><Down><Right><Left><Left><Left><BckSp><BckSp><Left><Left>25<Down><Right><BckSp><Left><Left><LShft>_<Left><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><Down><Up><Right><Right><Left><Left><Left><Left><Left><Right><Right><Right><Right><LShft>Linux<LShft>_android<LShft>_portdo<LShft>WSR <LShft>Document <LShft>Hi <LShft>Sir,
+2019-05-29 16:43:21+0530 > 
+2019-05-29 16:43:21+0530 > <Tab><Tab><LShft>Please find the <LShft>WSR document of wsr<BckSp><#+23>wsrws25<LShft>_<BckSp>th may 2019<Left><Left><Left><Left><Left><BckSp><BckSp><BckSp><LShft>MA<BckSp>ay<Right><Right><Right><Right><Right>.
+2019-05-29 16:45:17+0530 > 
+2019-05-29 16:45:17+0530 > 
+2019-05-29 16:45:17+0530 > 
+2019-05-29 16:45:17+0530 > <LShft>Regards,
+2019-05-29 16:45:20+0530 > <LShft>Puneeth.<LShft>K<LMeta>lzs10062013
+2019-05-29 17:46:28+0530 > p<Down>
+2019-05-29 17:46:41+0530 > 
+2019-05-29 17:46:41+0530 > <LShft>Welcome<LShft>!23
+2019-05-29 17:46:52+0530 > p<Down>
+2019-05-29 17:47:25+0530 > 
+2019-05-29 17:47:25+0530 > <LShft>Welcome<LShft>!23
+2019-05-29 17:47:36+0530 > vivo 
+
+Logging stopped at 2019-05-29 19:02:51+0530
+
