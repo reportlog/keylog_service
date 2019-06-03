@@ -1,0 +1,129 @@
+Logging started ...
+
+2019-05-31 11:13:37+0530 > pa<LShft>Rail <LShft>Tester <LShft>SRT and <LShft>DRT <LShft>Application<LShft>Hi<LShft> <LShft>Sir, 
+2019-05-31 11:50:27+0530 > 
+2019-05-31 11:50:28+0530 > <Tab><Tab><LShft>Plr<BckSp>ease find the <LShft>atts<BckSp>ache <BckSp>d applicationd<BckSp>s.
+2019-05-31 11:50:51+0530 > 
+2019-05-31 11:50:51+0530 > <Tab><Tab><LShft>Here, grid images replaced with new one.
+2019-05-31 11:51:19+0530 > 
+2019-05-31 11:51:19+0530 > <Tab><Tab><LShft>Please test the application and give youe=r==<BckSp><BckSp><BckSp><BckSp>r <BckSp><BckSp><BckSp>r feedbacl<BckSp>k.
+2019-05-31 11:51:51+0530 > 
+2019-05-31 11:51:51+0530 > 
+2019-05-31 11:51:52+0530 > <LShft>Regards,
+2019-05-31 11:51:56+0530 > <LShft>Puneeth.<LShft>K<LCtrl>are df
+2019-05-31 12:00:27+0530 > <LCtrl><Up><Down> for sd card
+2019-05-31 12:21:21+0530 > diskdf -l
+2019-05-31 12:25:14+0530 > fdisk -k<BckSp>l
+2019-05-31 12:25:20+0530 > lsblk
+2019-05-31 12:25:24+0530 > sudo mkfs.ext4 /dev/sdb1
+2019-05-31 12:26:35+0530 > zs10062013
+2019-05-31 12:26:40+0530 > sd<BckSp>udo fdisk /dev/sdb1]<BckSp>
+2019-05-31 12:26:58+0530 > p
+2019-05-31 12:27:01+0530 > <LCtrl>c
+2019-05-31 12:27:03+0530 > 
+2019-05-31 12:27:03+0530 > 
+2019-05-31 12:27:04+0530 > 
+2019-05-31 12:27:04+0530 > 
+2019-05-31 12:27:05+0530 > <Up><Up><Down><Up>p2
+2019-05-31 12:27:14+0530 > <Up><BckSp>1
+2019-05-31 12:27:26+0530 > <Up><Up><Up>
+2019-05-31 12:27:58+0530 > p
+2019-05-31 12:28:00+0530 > <LCtrl>c
+2019-05-31 12:28:04+0530 > 
+2019-05-31 12:28:04+0530 > 
+2019-05-31 12:28:04+0530 > 
+2019-05-31 12:28:05+0530 > 
+2019-05-31 12:28:05+0530 > 
+2019-05-31 12:28:05+0530 > 
+2019-05-31 12:28:05+0530 > <LCtrl>fdisk -l .<BckSp>/dev/sdb1
+2019-05-31 12:34:04+0530 > cannot open /dev/sdx in linux
+2019-05-31 12:34:35+0530 > cd <BckSp><BckSp><BckSp>df
+2019-05-31 12:35:30+0530 > cd /dev<Tab><BckSp><BckSp><Tab>
+2019-05-31 12:35:36+0530 > ls
+2019-05-31 12:35:38+0530 > sudo <LShft>MAKEDEV sdb1'<BckSp>
+2019-05-31 12:35:57+0530 > zs10062013
+2019-05-31 12:36:01+0530 > ls
+2019-05-31 12:36:13+0530 > cd s<Tab>d<Tab>b<Tab>1<Tab><Tab><Tab><Tab><Tab><Tab>
+2019-05-31 12:36:39+0530 > vi sdb1
+2019-05-31 12:36:53+0530 > <RShft>:q
+2019-05-31 12:36:58+0530 > ls -l
+2019-05-31 12:37:05+0530 > sudi<BckSp>o <LShft>MAKEDEV sdb
+2019-05-31 12:37:52+0530 > ls
+2019-05-31 12:37:54+0530 > cd
+2019-05-31 12:38:24+0530 > kpartx -u /dev/sdb1
+2019-05-31 12:38:36+0530 > partprobe -u /dev/sdb1
+2019-05-31 12:38:54+0530 > clear
+2019-05-31 12:38:57+0530 > ls
+2019-05-31 12:38:58+0530 > 
+2019-05-31 12:39:03+0530 > 
+2019-05-31 12:39:03+0530 > 
+2019-05-31 12:39:03+0530 > 
+2019-05-31 12:39:03+0530 > <Up><Up><Up>
+2019-05-31 12:39:05+0530 > <Up><Down>
+2019-05-31 12:39:09+0530 > 
+2019-05-31 12:39:09+0530 > 
+2019-05-31 12:39:10+0530 > 
+2019-05-31 12:39:10+0530 > <Up><Up><Up><Up><Up>
+2019-05-31 12:39:13+0530 > partprobe aan<BckSp><BckSp>nd kpartx is not workii<Down><Down>
+2019-05-31 12:39:54+0530 > <LCtrl><LCtrl>rebot<BckSp>ot
+2019-05-31 12:44:58+0530 > root
+2019-05-31 12:45:06+0530 > <LCtrl>do we have t o<BckSp><BckSp>o do pa<BckSp><BckSp>sd card partition before using mfg tool
+2019-05-31 12:50:39+0530 > imx6q-sa<LMeta>l
+2019-05-31 13:36:52+0530 > zs10062013
+2019-05-31 13:36:58+0530 > <Del><LMeta><#+1>pl
+2019-05-31 14:32:25+0530 > zs<KP1><KP0><KP0><KP6><KP2><KP0><KP1><KP3>
+2019-05-31 14:32:34+0530 > ma<BckSp><BckSp>amr <BckSp><BckSp>ar <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>
+2019-05-31 14:58:26+0530 > nare<Down>
+2019-05-31 15:00:45+0530 > imx6q-sa<Del><Del><Del><Del><LCtrl>how to <BckSp><#+30>how to add image to linux <BckSp><#+18><BckSp><BckSp>add image to <BckSp><#+11><BckSp><#+9><BckSp><BckSp><BckSp><BckSp> background image to linux ker <BckSp>nel while compiling
+2019-05-31 15:40:57+0530 > where uboot is stored in imx6 sabre sd 
+2019-05-31 15:42:43+0530 > 
+2019-05-31 15:44:16+0530 > andri<BckSp>oid <Left><#+14>download <Right><#+10><Right>clear<RShft>
+2019-05-31 15:56:26+0530 > <LCtrl>c
+2019-05-31 15:56:44+0530 > cd <LShft>Doc<Tab>pu<Tab>
+2019-05-31 15:56:51+0530 > <LCtrl>v<LCtrl>v<BckSp><BckSp>
+2019-05-31 15:56:58+0530 > cd my<Tab>
+2019-05-31 15:57:08+0530 > 
+2019-05-31 15:57:24+0530 > 
+2019-05-31 15:57:44+0530 > 
+2019-05-31 15:57:56+0530 > <Left><#+69><Left><Left><BckSp><BckSp>
+2019-05-31 15:58:43+0530 > ls
+2019-05-31 15:58:45+0530 > 
+2019-05-31 15:59:20+0530 > <Up><Up><Up>
+2019-05-31 15:59:43+0530 > <Del> for imx6 sabre sd
+2019-05-31 16:00:01+0530 > <Up><Up><Up><Up><Up><Up><Up><Up>
+2019-05-31 16:02:30+0530 > <Up><Down>rm -r my<Tab>
+2019-05-31 16:02:38+0530 > ls
+2019-05-31 16:02:39+0530 > clear
+2019-05-31 16:02:42+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Down><Down><Down><Down><Down><Down><Down><Down><Down>cd <LShft>Doc<Tab>pu<Tab>
+2019-05-31 16:02:50+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up>
+2019-05-31 16:02:58+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up>
+2019-05-31 16:03:04+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down>
+2019-05-31 16:03:13+0530 > ls
+2019-05-31 16:03:19+0530 > 
+2019-05-31 16:03:45+0530 > <LShft><Left><#+14><Left><Left><LShft><Left><Left><LShft><Left><#+22><Right><Right><LShft>
+2019-05-31 16:04:31+0530 > repo sync
+2019-05-31 16:06:40+0530 > <LCtrl><Del>ls
+2019-05-31 17:28:07+0530 > cd re<Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><BckSp><BckSp><BckSp><BckSp><#+17><Del>cd <LShft>Docu<Tab>pu<Tab>
+2019-05-31 17:29:57+0530 > <LShft><Left><#+8><Right><Right><Right><LShft><Left><#+19><LCtrl>c
+2019-05-31 17:30:12+0530 > <#+4>
+2019-05-31 17:30:16+0530 > <LCtrl>punrr<BckSp><BckSp><#+11>puneeth989<LShft>Welcome123
+2019-05-31 17:33:38+0530 > download android kernel <Down> <Down><Down> for <Up> for imx6 sabre sd
+2019-05-31 17:36:03+0530 > <LCtrl>c
+2019-05-31 17:36:48+0530 > 
+2019-05-31 17:36:52+0530 > 
+2019-05-31 17:37:03+0530 > 
+2019-05-31 17:37:13+0530 > <LCtrl><Left><#+8><LCtrl><Left><#+15>
+2019-05-31 17:39:41+0530 > 
+2019-05-31 17:39:52+0530 > 
+2019-05-31 17:40:03+0530 > 
+2019-05-31 17:40:54+0530 > <Del><Del><LShft><Left><Left>cd
+2019-05-31 17:45:42+0530 > cd <LShft>Do<Tab>c<Tab>pun<Tab>
+2019-05-31 17:45:48+0530 > 
+2019-05-31 17:45:52+0530 > cd my<Tab>
+2019-05-31 17:45:55+0530 > <LCtrl><LCtrl><LShft><LCtrl><LShft><CpsLk><LShft><LCtrl><LShft>++<LCtrl><LShft>_<LCtrl>-<LCtrl><LShft><CpsLk><#+4>+
+2019-05-31 17:46:29+0530 > <Up><RShft>
+2019-05-31 18:13:11+0530 > imx6q-sabresheep
+2019-05-31 18:44:19+0530 > 
+
+Logging stopped at 2019-06-01 09:58:40+0530
+

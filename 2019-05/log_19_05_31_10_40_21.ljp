@@ -82,3 +82,6 @@ Logging started ...
 2019-05-31 11:06:54+0530 > man testdisk
 2019-05-31 11:07:34+0530 > qtestdisk /log /dev/sdb1
 2019-05-31 11:08:35+0530 > 
+
+Logging stopped at 2019-05-31 11:13:32+0530
+
