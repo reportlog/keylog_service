@@ -1,0 +1,69 @@
+Logging started ...
+
+2019-06-06 18:58:08+0530 > pp<Down>
+2019-06-07 09:42:50+0530 > 
+2019-06-07 09:42:51+0530 > <LShft>Welcome<LShft>!23
+2019-06-07 09:43:46+0530 > nxp
+2019-06-07 09:57:22+0530 > puneeth989<BckSp><#+18><LShft>We;<BckSp><BckSp><BckSp><BckSp><LShft>Welcome<LShft>!<BckSp>123
+2019-06-07 09:57:45+0530 > hi,
+2019-06-07 10:00:02+0530 > 
+2019-06-07 10:00:03+0530 > <BckSp><BckSp><BckSp><BckSp><LShft>EMM<BckSp><BckSp><BckSp>e<LShft>MMc<BckSp><LShft>C is not booting in imx6 sabre sd board<LShft>Hi,
+2019-06-07 10:00:44+0530 > 
+2019-06-07 10:00:44+0530 > <BckSp><Tab><LShft>I am tryinh <BckSp><BckSp>g to boot ln=<BckSp><BckSp><BckSp>linux kernel from e<LShft>MM<LShft>C  of imx6 sabre sd board. <LShft>But when <LShft>I boot it is <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>, it is hangs in <LShft>"random<RShft>: crng iniy<F11><BckSp><BckSp>it done<LShft>". 
+2019-06-07 10:03:57+0530 > <LShft>Please give me some solutions <BckSp><BckSp> for this.<BckSp><BckSp>after r<BckSp>printi<F12><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><Right><LShft>Bangalore<Esc><Esc><Esc><Esc><#+1><Esc><#+1><BckSp> <LCtrl>z<#+4><LCtrl>z<F9><#+1><F10><#+2><F10><F11><F11><F11>man lunch
+2019-06-07 10:10:40+0530 > sudo -apy <BckSp><BckSp>t -install lunch
+2019-06-07 10:10:56+0530 > <Up><Left><#+13><Left><Left><Left><Left><Left><Left><Left><Left><BckSp>
+2019-06-07 10:11:01+0530 > zs10062013
+2019-06-07 10:11:05+0530 > <Up><Down>how to install lunch in linux
+2019-06-07 10:12:02+0530 > sudo apt -get update
+2019-06-07 10:12:55+0530 > zs10062013
+2019-06-07 10:12:59+0530 > <Up><Left><#+13><Left><Left><BckSp>
+2019-06-07 10:13:03+0530 > sudo apt <BckSp>-get install luncj<BckSp>h
+2019-06-07 10:14:21+0530 > y
+2019-06-07 10:14:34+0530 > man lunch
+2019-06-07 10:14:58+0530 > qclear
+2019-06-07 10:15:04+0530 > cd <LShft><Tab><LShft>~<BckSp><BckSp><LShft> <LShft>~
+2019-06-07 10:15:48+0530 > mkdir my<Tab><Tab><Tab>android
+2019-06-07 10:16:06+0530 > cd my<Tab><BckSp><#+14><BckSp><BckSp><Up><BckSp><#+8><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>bin
+2019-06-07 10:16:20+0530 > rm -r bin
+2019-06-07 10:16:30+0530 > <Up><Up>
+2019-06-07 10:16:32+0530 > cd bi<Tab><Tab><Tab><BckSp><#+17>cd my<Tab>
+2019-06-07 10:16:44+0530 > 
+2019-06-07 10:17:03+0530 > what is the meaning of <LShft>~ in linuc<BckSp>x
+2019-06-07 10:17:28+0530 > <BckSp><#+24><BckSp><BckSp>cd <LShft>~ in linux
+2019-06-07 10:17:51+0530 > cd <LShft>Do<Tab>c<Tab>
+2019-06-07 10:17:59+0530 > cd <LShft>~
+2019-06-07 10:18:02+0530 > ls
+2019-06-07 10:18:03+0530 > 
+2019-06-07 10:18:24+0530 > 
+2019-06-07 10:18:41+0530 > <LCtrl><LShft>Tcd bi<Tab><Tab><Tab><Tab><Tab><BckSp><#+14>cd 
+2019-06-07 10:19:39+0530 > cd bin<Tab>
+2019-06-07 10:19:42+0530 > ls
+2019-06-07 10:19:43+0530 > exit
+2019-06-07 10:19:47+0530 > 
+2019-06-07 10:20:04+0530 > <KP2><KP5><KP1><KP.><KP7>random<RShft>: crng <Down>
+2019-06-07 10:41:25+0530 > cd
+2019-06-07 10:45:50+0530 > cd 
+2019-06-07 10:45:52+0530 > 
+2019-06-07 10:45:52+0530 > 
+2019-06-07 10:45:53+0530 > 
+2019-06-07 10:45:53+0530 > rim <BckSp><BckSp><BckSp>m -r my<Tab>
+2019-06-07 10:46:00+0530 > <LCtrl><Up><Down><Down><BckSp><#+20><LCtrl>
+2019-06-07 10:46:17+0530 > <Up><Up><BckSp><#+18><LCtrl>c
+2019-06-07 10:46:26+0530 > <Up><BckSp>
+2019-06-07 10:46:28+0530 > <LCtrl>c
+2019-06-07 10:46:29+0530 > <Del><Del><Del><Del><Del><Del>dis<Del><Del>cd <LShft>~
+2019-06-07 10:52:12+0530 > mkdir my <BckSp>android
+2019-06-07 10:52:23+0530 > mkdir bo<BckSp>in
+2019-06-07 10:52:30+0530 > cd my<Tab>
+2019-06-07 10:52:34+0530 > 
+2019-06-07 10:52:46+0530 > 
+2019-06-07 10:53:01+0530 > 
+2019-06-07 10:53:15+0530 > 
+2019-06-07 10:54:04+0530 > what is git che<Down>
+2019-06-07 11:06:10+0530 > <Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><LCtrl><LCtrl><Del><LShft><Del><LShft><Del>
+2019-06-07 11:33:30+0530 > 
+2019-06-07 11:33:33+0530 > <LShft><Del><LCtrl><LShft>zai
+
+Logging stopped at 2019-06-07 11:44:31+0530
+
