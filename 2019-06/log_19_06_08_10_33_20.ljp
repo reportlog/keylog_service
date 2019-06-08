@@ -1,0 +1,66 @@
+Logging started ...
+
+2019-06-08 10:33:20+0530 > nitish.latni<LShft>@zumisolutions.com<LShft>Nitish<LShft>_2019<LShft>Nitish<LShft>_2019<RShft>Nitish<LShft>@22zu<BckSp><BckSp><BckSp>hrs<BckSp><BckSp><BckSp><BckSp>hrs<LShft>@zumisolutions.com<LShft>Regarding <LShft><LShft>Sick <LShft>Leave<LShft>Dear madam,
+2019-06-08 10:54:28+0530 > 
+2019-06-08 10:54:29+0530 > <Tab><Tab><Tab><BckSp><BckSp><BckSp><BckSp><Tab><Tab><LShft>S <#+2> <#+22><LShft>Since <LShft>I am having light<BckSp><BckSp><BckSp><BckSp><BckSp>fever <BckSp>, <LShft>I am nit<BckSp><BckSp>ot able come <Left><Left><Left><Left><Left>to <Right><Right><Right><Right><Right>office. <LShft>So please approve my one day sick leavd<BckSp>e.
+2019-06-08 10:56:48+0530 > 
+2019-06-08 10:56:48+0530 > 
+2019-06-08 10:56:48+0530 > <LShft>Regards,
+2019-06-08 10:56:51+0530 > <LShft>Nitish.<BckSp>nx
+2019-06-08 10:59:03+0530 > puneeth989<Right><#+12><Right><Right><BckSp><#+18><LShft>Welcom<BckSp><#+13><LShft>Welcome123
+2019-06-08 10:59:34+0530 > pubsta<Right>
+2019-06-08 11:03:06+0530 > <BckSp>neeth989<BckSp><#+16><LShft>Welcome123emm <BckSp>c
+2019-06-08 11:07:05+0530 > ask question in nxp
+2019-06-08 11:07:36+0530 > linux kernel not booting in e<LShft>MMC of imx6 sabre dsd <BckSp><BckSp><BckSp><BckSp>sd <LShft>Hi,
+2019-06-08 11:08:51+0530 > 
+2019-06-08 11:08:51+0530 > <BckSp><Tab><LShft>I am flashinf <BckSp><BckSp>g linux <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>uboot, linux kerne; <BckSp><BckSp>l and rootfs through mfg tool. <LShft>When boot <Left><#+12><Left><Left><Left><Left><#+24><Right><Right><Right><Right><Right><Right><Right> to r<BckSp>emmc <BckSp> <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp> <LShft>But when <LShft>I bb<BckSp>oot <BckSp>, the <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp> board<Left><Left><Left><Left><Left>the <Right><Right><Right><Right><Right><Right>,,<BckSp><#+13><BckSp><BckSp>, the board will hangs after <LShft>"random<RShft>: crng init done<RShft>". <LShft>Plesa<BckSp><BckSp><BckSp>eas <BckSp>e give <BckSp><BckSp><BckSp><BckSp><BckSp>suggest some solutions fro <BckSp><BckSp><BckSp>or this.
+2019-06-08 11:14:01+0530 > <LShft>I am attached log file also.havesudo minicom
+2019-06-08 11:25:47+0530 > zs10062013
+2019-06-08 11:25:50+0530 > <Up>
+2019-06-08 11:26:18+0530 > <LCtrl>azl<BckSp><#+17>h<BckSp>sd.k<BckSp>log
+2019-06-08 11:27:05+0530 > <#+1>
+2019-06-08 11:27:07+0530 > 
+2019-06-08 11:27:07+0530 > 
+2019-06-08 11:27:07+0530 > 
+2019-06-08 11:27:07+0530 > 
+2019-06-08 11:27:07+0530 > <#+6><LShft>Sddfx
+2019-06-08 11:27:10+0530 > 
+2019-06-08 11:27:10+0530 > f
+2019-06-08 11:27:10+0530 > s
+2019-06-08 11:27:10+0530 > <LCtrl>azl
+2019-06-08 11:27:21+0530 > sd<Del><LCtrl>c
+2019-06-08 11:27:49+0530 > <LCtrl>c
+2019-06-08 11:27:51+0530 > c
+2019-06-08 11:27:51+0530 > <LCtrl>a<#+3>zx
+2019-06-08 11:28:10+0530 > <Up>
+2019-06-08 11:28:13+0530 > <LCtrl>azl<BckSp><#+19>sd.lo<BckSp><#+1><BckSp><BckSp><BckSp><BckSp><BckSp>emmc.log
+2019-06-08 11:28:33+0530 > <LCtrl>az
+2019-06-08 11:31:19+0530 > <LCtrl>azl
+2019-06-08 11:31:45+0530 > <LCtrl>azx
+2019-06-08 11:31:52+0530 > emcommad to set emmc in terater<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp> minicom
+2019-06-08 11:34:02+0530 >  for imx6 sabre sd
+2019-06-08 11:34:12+0530 > <Up>
+2019-06-08 11:36:40+0530 > <LCtrl>az
+2019-06-08 11:36:47+0530 >  sudi ===<BckSp><BckSp><BckSp><BckSp><BckSp>o inta<BckSp><BckSp>stall heveged
+2019-06-08 11:37:06+0530 > sudo apt-get a<BckSp>update
+2019-06-08 11:37:20+0530 > teraterm command s<BckSp><BckSp>s to set emmc'<BckSp>
+2019-06-08 11:40:34+0530 > printenv
+2019-06-08 11:41:06+0530 >  printenv
+2019-06-08 11:41:27+0530 > comand <BckSp><BckSp><BckSp><BckSp>mand to set emmc while booting
+2019-06-08 11:41:57+0530 > <LCtrl>c
+2019-06-08 12:12:59+0530 > <LCtrl>v
+2019-06-08 12:13:04+0530 > 
+2019-06-08 12:13:20+0530 > 
+2019-06-08 12:13:20+0530 > 
+2019-06-08 12:13:21+0530 > 
+2019-06-08 12:13:21+0530 > 
+2019-06-08 12:13:21+0530 > 
+2019-06-08 12:13:21+0530 > sudo sus<BckSp><BckSp>ysfs
+2019-06-08 12:13:37+0530 > zs10062013
+2019-06-08 12:13:42+0530 > <Up>
+2019-06-08 12:13:46+0530 > <Left><#+21><Left><#+11><Left><Right><BckSp><Right><#+15> for emmc of imx6 sabre sd
+2019-06-08 12:15:27+0530 > <LCtrl>femmc<BckSp><BckSp><BckSp><LShft>M<LShft>M<BckSp><BckSp><BckSp><LShft>SD c<BckSp><BckSp><BckSp><BckSp><BckSp><LShft>SDC<BckSp> c<BckSp><#+15><LCtrl>f<BckSp><#+16>command to copy contentfrf<BckSp><BckSp><BckSp> from a<LShft><BckSp><LShft>SD card to emmc
+2019-06-08 12:39:34+0530 > fdisk /dev/mmcblk3
+2019-06-08 12:59:49+0530 > df
+2019-06-08 12:59:52+0530 >  of imx6 sabre sd
+2019-06-08 13:01:25+0530 > 
