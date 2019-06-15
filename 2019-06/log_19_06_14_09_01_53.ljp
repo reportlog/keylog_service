@@ -1,0 +1,260 @@
+Logging started ...
+
+2019-06-14 09:01:53+0530 > <Del><Del><Del><Del>ddr <BckSp><#+14>nxp ddr unmapped t4240
+2019-06-14 10:08:30+0530 >  8 <CpsLk>GB
+2019-06-14 10:10:20+0530 > <Esc><LCtrl><Del><LCtrl><LCtrl>F<LCtrl>FUM<BckSp><BckSp><BckSp><CpsLk>unmapped4gb siz address size
+2019-06-14 10:19:44+0530 > calg
+2019-06-14 10:25:17+0530 > mmu mapp<Down>
+2019-06-14 10:26:36+0530 > what <BckSp><#+22>80000000<LCtrl>f8<LCtrl>fg<BckSp>8<CpsLk>G<CpsLk>bmmu linux
+2019-06-14 10:30:32+0530 > <BckSp><BckSp><BckSp><BckSp><BckSp>uboot
+2019-06-14 10:31:12+0530 >  nxp
+2019-06-14 10:34:01+0530 > t4160 32 bit or 64 bit
+2019-06-14 10:34:35+0530 > <LCtrl>how to know kernek<BckSp>l support how many gb ddr
+2019-06-14 10:44:53+0530 > how <RShft>Hi,
+2019-06-14 10:52:52+0530 > 
+2019-06-14 10:52:53+0530 > <RShft>Please find <CpsLk>DDR<CpsLk> controller settings in attached file.
+2019-06-14 10:53:30+0530 > 
+2019-06-14 10:53:30+0530 > <RShft>Regards,
+2019-06-14 10:53:34+0530 > <RShft>Meerasahib<RShft>Register 
+2019-06-14 10:55:59+0530 > 
+2019-06-14 10:55:59+0530 > <LCtrl>v<LCtrl>s<LCtrl>v
+2019-06-14 10:56:24+0530 > <BckSp><#+26>40996<BckSp><BckSp>6unmappedmemor<BckSp>y map<BckSp><#+18>address map<Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Up><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Up><Down><Down><Down><Up>
+2019-06-14 11:02:41+0530 > 
+2019-06-14 11:02:41+0530 > 
+2019-06-14 11:02:41+0530 > <LCtrl>v
+2019-06-14 11:02:43+0530 > 
+2019-06-14 11:02:43+0530 > 
+2019-06-14 11:02:44+0530 > <PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><#+11><PgDn><#+9><PgDn><#+13><PgDn><#+7><PgDn><#+4><PgUp><PgDn><#+8><PgDn><#+2><PgDn><PgDn><PgUp><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><#+3><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><#+8><PgDn><#+9><PgDn><PgDn><#+12><PgDn><PgDn><PgDn><PgDn><PgDn><PgUp><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><#+10><PgDn><#+10><PgDn><#+13><PgDn><#+17><PgDn><#+25><PgDn><#+13><PgDn><#+16><LCtrl>fmemory mao
+2019-06-14 11:08:34+0530 > <BckSp>p<LCtrl>address
+2019-06-14 11:09:24+0530 > <Down><Down><Down><Down><Down><Down><Down><LCtrl><LCtrl>v
+2019-06-14 11:14:04+0530 > t4240 reference manual<LCtrl>s<Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><PgDn><PgDn><PgDn><#+12><PgUp><PgUp><#+10><PgUp><PgUp><PgUp><#+10><PgUp><#+1><Down><Down><Down><Down><Down><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><#+11><PgDn><#+9><PgDn><PgDn><PgDn><PgUp><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgUp><PgDn><PgDn><PgDn><PgDn><PgDn>556
+2019-06-14 11:31:30+0530 > 556
+2019-06-14 11:32:01+0530 > memory map<Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><#+9><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><#+14><Down><#+13><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Up><Down><Down><Down><CpsLk>UART
+2019-06-14 11:50:34+0530 > <LCtrl>c
+2019-06-14 11:58:44+0530 > <LCtrl>F<LCtrl>V<LCtrl>c
+2019-06-14 11:59:13+0530 > <LCtrl>F<LCtrl>V<LCtrl>c
+2019-06-14 11:59:37+0530 > <LCtrl>F<LCtrl>V<LCtrl>F<LCtrl>V<BckSp><BckSp><#+7><BckSp><#+24><LCtrl>V<Left><BckSp><#+18><LCtrl>c
+2019-06-14 12:01:00+0530 > <LCtrl>F<LCtrl>V<LCtrl>c
+2019-06-14 12:08:43+0530 > <LCtrl>V<LCtrl>c
+2019-06-14 12:08:58+0530 > <LCtrl>V<LCtrl>c
+2019-06-14 12:09:30+0530 > <LCtrl>V<LCtrl>c
+2019-06-14 12:10:12+0530 > <LCtrl>c
+2019-06-14 12:22:03+0530 > <LCtrl>F<BckSp><LCtrl>V<LCtrl>c
+2019-06-14 12:22:40+0530 > <LCtrl>F<BckSp>2<LCtrl>c
+2019-06-14 12:23:24+0530 > <LCtrl>F<LCtrl>V<LCtrl>S
+2019-06-14 12:27:19+0530 > LS
+2019-06-14 12:27:23+0530 > <CpsLk>ls
+2019-06-14 12:27:27+0530 > cd t4<Tab><#+7>
+2019-06-14 12:27:35+0530 > ls
+2019-06-14 12:27:37+0530 > cd u<Tab>-<Tab>
+2019-06-14 12:27:43+0530 > ls
+2019-06-14 12:27:44+0530 > cd 20<Tab>
+2019-06-14 12:27:49+0530 > ls
+2019-06-14 12:27:50+0530 > cd g<Tab>
+2019-06-14 12:27:54+0530 > ls
+2019-06-14 12:27:56+0530 > cd <BckSp><BckSp><BckSp>git sta<Tab><Tab>tus
+2019-06-14 12:28:12+0530 > vim /<CpsLk>SDRAM
+2019-06-14 12:29:05+0530 > <CpsLk>nnn<Home>i/<RShft>*<Left><#+2><Right><#+36><Right><Right><Left><RShft>*/<Down><BckSp><BckSp><Left><#+8><Home><Right><Right><BckSp><BckSp><Down><Esc>/<Up>
+2019-06-14 12:29:59+0530 > nnnnnnnnnn<RShft>:wq
+2019-06-14 12:30:17+0530 > vim <Down><#+74><Down><#+25><Down><Down><#+8><Down><#+23><Down><#+30><Down><#+13><Down><#+32><Down><#+20><Down><#+47><Down><#+12><Down><#+26><Down><#+22><Down><#+9><Down><#+11><Down><#+19><Down><#+11><Down><#+17><Down><#+17><Down><#+21><Down><#+18><Down><#+13><Down><#+10><Down><#+12><Down><#+10><Down><#+7><RShft>:q
+2019-06-14 12:31:43+0530 > <Up><Up>
+2019-06-14 12:31:55+0530 > <Up><Up>
+2019-06-14 12:40:34+0530 > <RShft>Hi,
+2019-06-14 12:43:21+0530 > 
+2019-06-14 12:43:21+0530 > <RShft>Please load the attched u-boot and send boot log.<Left><#+23><Right><RShft>(<CpsLk>DDR<CpsLk> configured with yout<BckSp>r <BckSp><#+2><BckSp><#+11><BckSp><BckSp><BckSp><Left><#+15><Left><Left><Left><Left><CpsLk>N<BckSp><Right><#+14><Right><#+11>WITH<BckSp><BckSp><BckSp><BckSp><CpsLk>with you<BckSp><#+8><BckSp><#+12><BckSp><BckSp>ation updated<RShft>)<End>
+2019-06-14 12:44:49+0530 > 
+2019-06-14 12:44:50+0530 > <RShft>Regards,
+2019-06-14 12:44:54+0530 > <RShft>Meerasahibalm<CpsLk><CpsLk>hakeem12308<KP9><KP4><KP4><KP7><KP5><KP1><KP8><KP9><KP4><KP0><KP5><KP6><KP9><KP5><KP6><KP1><KP2><KP5><KP6><KP8><KP8><KP1>inst<CpsLk><CpsLk>hakeem12308<KP0>11<CpsLk>WIFI SWITCHMEERA<CpsLk>meerasahibm<LShft>@gmail.com<KP8><KP9><KP4><KP0><KP5><KP6><KP9><KP5><KP6><KP1>t<KP6><KP1><KP4><KP7><KP0><KP1>adirampattinam127<BckSp><CpsLk>FAYONICSA<BckSp><BckSp><#+19><BckSp><#+9><BckSp><BckSp><CpsLk>and electrical hardware.<BckSp><BckSp>meerasahibm<RShft>@fayonics.comfayonics.com<KP6><KP1><KP4><KP7><KP0><KP1><KP6><KP0><KP0><KP0><KP0><KP1><KP2><KP0><KP0><KP0><BckSp><#+15><LCtrl>c
+2019-06-14 14:44:48+0530 > <LCtrl>v
+2019-06-14 14:45:06+0530 > <BckSp>
+2019-06-14 14:47:23+0530 > <LCtrl>f<CpsLk>DDR<LCtrl>F<LCtrl>V<BckSp><#+39><BckSp><#+5><BckSp><#+19><BckSp><#+25><BckSp><#+8><BckSp><#+15><BckSp><BckSp>
+2019-06-14 14:52:17+0530 > <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>GR<BckSp><BckSp><CpsLk>grep <RShft>"tlb<RShft>" <RShft>* -r
+2019-06-14 14:55:05+0530 > <LCtrl>ftlb<Up><Left><#+12><Right><Right><Left><BckSp><BckSp><BckSp><RShft><Ins><BckSp>
+2019-06-14 15:00:51+0530 > <Up><Left><#+6><Left><Left><Left><Left><Left><BckSp>
+2019-06-14 15:00:57+0530 > <Up><Left><#+22><Right><#+8><BckSp><#+14><BckSp><BckSp><BckSp><BckSp>
+2019-06-14 15:01:03+0530 > <Up><Left><#+16><Left><Left><Left><Left><Left><BckSp><BckSp><BckSp><BckSp>
+2019-06-14 15:01:09+0530 > <PgDn><PgDn><PgDn><PgUp><PgDn><PgUp><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgUp><PgDn><PgDn><#+1><PgDn><PgDn><#+10><PgDn><#+13><PgDn><PgDn><PgDn><PgUp><PgUp><PgDn><Up><#+7><Up><Up><#+3><Up><Down><Down><#+21> uboot powerpc
+2019-06-14 15:13:10+0530 > <LCtrl>c
+2019-06-14 15:13:40+0530 > <Up><Left><#+10><Left><Left><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><RShft><Ins>
+2019-06-14 15:13:49+0530 > <LCtrl>f<LCtrl>v<LCtrl>f<LCtrl>v<LCtrl>c
+2019-06-14 15:16:11+0530 > <LCtrl>c
+2019-06-14 15:21:10+0530 > <Up><Left><#+10><Left><Left><BckSp><#+23><BckSp><#+13><BckSp><BckSp><BckSp><BckSp><BckSp><RShft><Ins>
+2019-06-14 15:21:23+0530 > <LCtrl>f<LCtrl>v
+2019-06-14 15:23:20+0530 > '<#+16><LCtrl>s<Up><Up>
+2019-06-14 15:23:32+0530 > <LCtrl>z<#+6>zzzzzzzzz<LCtrl>sl<#+12><LCtrl>s<Up>
+2019-06-14 15:25:35+0530 > <LCtrl>z<#+14><LCtrl>z<LCtrl>s
+2019-06-14 15:26:22+0530 > <Up>//<LCtrl>s<Up>
+2019-06-14 15:26:35+0530 > <BckSp><BckSp><Down><Down><Down>//<LCtrl>s<Up>
+2019-06-14 15:27:14+0530 > <LCtrl>zzzzzzzzzzzzzzzzzzzz<LCtrl>s<LCtrl>c
+2019-06-14 15:28:08+0530 > <LCtrl>gg
+2019-06-14 15:28:20+0530 > <LCtrl>v
+2019-06-14 15:28:25+0530 > <LCtrl>f<LCtrl>f<LCtrl>v<BckSp><#+24><LCtrl>v<BckSp><#+13><LCtrl>c
+2019-06-14 15:30:00+0530 > <LCtrl>f<LCtrl>v<LCtrl>c
+2019-06-14 15:30:21+0530 > <LCtrl>f<LCtrl>c
+2019-06-14 15:32:25+0530 > <Up><Left><#+10><Left><Left><BckSp><#+19><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><RShft><Ins>
+2019-06-14 15:32:41+0530 > <BckSp><#+17><BckSp>2<LCtrl>s<Up><Up><Down>
+2019-06-14 15:41:17+0530 > <Up><Up>
+2019-06-14 15:41:42+0530 > <RShft>Hi,
+2019-06-14 15:42:40+0530 > 
+2019-06-14 15:42:41+0530 > <RShft>Please load the attached u- boot<RShft>(<CpsLk>8GB MEMORY MAPPED <RShft>)<CpsLk> and boot log.
+2019-06-14 15:43:29+0530 > 
+2019-06-14 15:43:29+0530 > <RShft>Regards,
+2019-06-14 15:43:33+0530 > <RShft>Meerasahibsend <LCtrl>c
+2019-06-14 15:46:06+0530 > <Up><Left><#+12><Right><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><RShft><Ins>
+2019-06-14 15:46:19+0530 > <Up><Left><#+10><Left><Left><BckSp><#+12><BckSp><BckSp><BckSp><RShft><Ins>
+2019-06-14 15:46:55+0530 > law.c t4240
+2019-06-14 15:48:17+0530 > <LCtrl>c
+2019-06-14 15:50:25+0530 > g
+2019-06-14 15:50:28+0530 > <LCtrl>v u boot ddr
+2019-06-14 15:50:37+0530 > <LCtrl>fmmu<BckSp><#+5><BckSp>emory<LCtrl>zz<#+10>zzzzzzz<LCtrl>s<LCtrl>c
+2019-06-14 16:04:49+0530 > <Up><Left><#+9><Left><Left><Left><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><RShft><Ins>
+2019-06-14 16:05:41+0530 > <Up><Left><#+10><Left><Right><Left><BckSp><#+14><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><RShft><Ins>
+2019-06-14 16:07:36+0530 > <LCtrl>fcd<BckSp><BckSp><BckSp>ls
+2019-06-14 16:10:43+0530 > cd <LShft>~
+2019-06-14 16:10:47+0530 > cd <LShft><BckSp><BckSp><BckSp>ls
+2019-06-14 16:10:51+0530 > cd <LShft>b<BckSp><LShft>Bl<Tab>
+2019-06-14 16:11:07+0530 > ls
+2019-06-14 16:11:08+0530 > cd o<BckSp>pre<Tab>
+2019-06-14 16:11:16+0530 > ls
+2019-06-14 16:11:17+0530 > dd<BckSp><BckSp><LCtrl>h<LCtrl>h<LShft>H<BckSp><LCtrl><LShft>H<LCtrl><LAlt>hdd co
+2019-06-14 16:11:42+0530 > <LAlt><Tab>dd if=<LAlt><Tab><LAlt><Tab><LAlt><Tab>/de<Tab><Tab><Tab><Tab>nsd<Tab><Tab><Tab><BckSp><BckSp><BckSp><#+21>dd if=/de<Tab>sd<Tab><Tab><Tab><#+1>bb<BckSp> <LAlt><Tab><LAlt><Tab><LAlt><Tab><Up><#+10><LAlt><Tab><LAlt><Tab><Tab><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LAlt><Tab><LAlt><Tab><Tab><LAlt><Tab><LAlt><Tab><Tab>b<Tab>-<Tab>i<Tab> of/<BckSp>=/de<Tab>sdb<LAlt><Tab><LAlt><Tab><Tab><LAlt><Tab><Tab>
+2019-06-14 16:13:56+0530 > <Up><Home>sudo 
+2019-06-14 16:14:02+0530 > zs10062013
+2019-06-14 16:14:06+0530 > g
+2019-06-14 16:14:35+0530 > bharthidasan dist<Down> in<BckSp><BckSp>online
+2019-06-14 16:14:58+0530 > gg
+2019-06-14 16:18:07+0530 > bhardidasan<Down><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>onli<Down> dis<Down>
+2019-06-14 16:18:22+0530 > <LShft>Zu,<BckSp><LShft>Mi<LShft>Release<LAlt><Tab><LAlt><Tab><LMeta><Tab><LMeta><Tab><LMeta><Tab><LAlt><Tab><LCtrl>c
+2019-06-14 16:26:34+0530 > c
+2019-06-14 16:26:34+0530 > c
+2019-06-14 16:26:34+0530 > <LAlt><Tab><LCtrl>v<BckSp>ls -a<Tab><BckSp>l ar<BckSp>m<Tab><Tab>n3<Tab><Tab>n3<Tab>5x<Tab><Tab>b<Tab>o<Tab><Tab><Tab>bla<Tab><Tab>.dtb
+2019-06-14 16:27:32+0530 > <Up><Up><Up><Up><Up><Up><Up>umount /me<Tab><Tab><Tab><Tab><Tab><LShft>*
+2019-06-14 17:00:44+0530 > <Up><Up><Up><Down><Up>
+2019-06-14 17:01:22+0530 > <Up><Up><Up>
+2019-06-14 17:01:25+0530 > zs10062013
+2019-06-14 17:01:30+0530 > <Up><BckSp><Tab><Tab>b
+2019-06-14 17:01:35+0530 > <Up><Up><Down><BckSp><Tab><Tab>b
+2019-06-14 17:02:06+0530 > <LMeta><#+8><LCtrl>c
+2019-06-14 17:05:13+0530 > c
+2019-06-14 17:05:13+0530 > c
+2019-06-14 17:05:13+0530 > c
+2019-06-14 17:05:13+0530 > <LCtrl>v<LAlt><Tab><Up>
+2019-06-14 17:06:03+0530 > umount /me<Tab><Tab><BckSp><BckSp>
+2019-06-14 18:08:22+0530 > <BckSp><Up><Del><LCtrl>sss<Del><Del>zaid
+2019-06-14 18:44:09+0530 > <RShft>Z@b6s7l9a4s7<LShft>Z@b6s5l9a4z7<LShft>Z@b6s5l9a4s7zaid<RShft>@zumisolutions.com<Tab><LShft>Z@b6s5l9a4s7<RShft>Durgesh,
+2019-06-14 18:46:06+0530 > 
+2019-06-14 18:46:06+0530 > <RShft>WE <BckSp><BckSp>e test t<BckSp><BckSp>e d<BckSp>with your pre-<BckSp><BckSp><BckSp><BckSp>rootfs iag<BckSp><BckSp>mage nad <BckSp><BckSp><BckSp><BckSp>and it wi<BckSp><BckSp>is wokring <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>rkig <BckSp><BckSp>ng fine. <RShft>I think, t<BckSp>u<RShft>Env.txt is missing in your card. <RShft>Can you please check this.
+2019-06-14 18:47:05+0530 > 
+2019-06-14 18:47:05+0530 > <RShft>Regards, z<RShft>Aid<BckSp><BckSp><BckSp><BckSp><RShft>Zad<BckSp>idd or ot<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><RShft>AM33<Down> <RShft>Ether<Right><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>dual<Down>
+2019-06-14 18:47:58+0530 > <LCtrl><LCtrl><LCtrl>
+2019-06-14 18:49:05+0530 > 
+2019-06-14 18:49:07+0530 > 
+2019-06-14 18:49:07+0530 > 
+2019-06-14 18:49:08+0530 > 
+2019-06-14 18:49:08+0530 > <Up><Up><Up><Down><Down><Down><Up><Up><Up><Up><Up><Down><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down><BckSp><#+54><BckSp><#+1><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>make<BckSp><BckSp><BckSp><BckSp>menuconfig
+2019-06-14 18:49:33+0530 > zs10062013
+2019-06-14 18:49:37+0530 > <Down><#+2><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><LAlt><Tab><Up><Up><Up><Up><Up><Up><Up><#+3><LAlt><Tab>
+2019-06-14 18:50:23+0530 > <LAlt><Tab><LAlt><Tab><Down><#+18><Down><#+24><Up><#+1><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><#+15><Down><#+11><Down><#+16><Down><#+19><Up><#+11><Up><#+17><Up><#+22><Up><#+33><Down><#+14><Up><#+10><Up><Up>
+2019-06-14 18:50:52+0530 > <LAlt><Tab><LAlt><Tab><Down><#+25>
+2019-06-14 18:50:57+0530 > <Down><#+29><Down><#+23><Down><#+21><Down><#+25><Down><#+22><Down><#+12><Down><Down><Down><LAlt><Tab><LAlt><Tab><Up><Up><Up><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Up><Up><Up><Up><Up><Up><LAlt><Tab><LAlt><Tab><Down><Down><Down><Down><LAlt><Tab><LAlt><Tab><Up><Up><Right>
+2019-06-14 18:52:13+0530 > <Right>
+2019-06-14 18:52:16+0530 > <Right>
+2019-06-14 18:52:16+0530 > <Right>
+2019-06-14 18:52:17+0530 > <LAlt><Tab> <RShft>Linux 4.1 
+2019-06-14 18:52:29+0530 > <LCtrl><LCtrl><LCtrl><LCtrl>fdual<LAlt><Tab>cd dr<Tab>net<Tab>et<Tab>ti<Tab>
+2019-06-14 18:57:46+0530 > 
+2019-06-14 18:57:46+0530 > 
+2019-06-14 18:57:46+0530 > g<BckSp><BckSp>ls
+2019-06-14 18:57:48+0530 > grep dual <RShft>* -r
+2019-06-14 18:57:51+0530 > <LAlt><Tab><LCtrl>v<LCtrl>v
+2019-06-14 18:58:40+0530 > <LCtrl><LCtrl><LCtrl>fv
+2019-06-14 18:58:51+0530 > 
+2019-06-14 18:58:52+0530 > 
+2019-06-14 18:58:53+0530 > 
+2019-06-14 18:58:53+0530 > 
+2019-06-14 18:58:54+0530 > 
+2019-06-14 18:58:55+0530 > 
+2019-06-14 18:58:55+0530 > 
+2019-06-14 18:58:56+0530 > 
+2019-06-14 18:58:56+0530 > 
+2019-06-14 18:58:57+0530 > 
+2019-06-14 18:58:57+0530 > 
+2019-06-14 18:58:57+0530 > 
+2019-06-14 18:58:58+0530 > <LCtrl>f
+2019-06-14 18:59:04+0530 > 
+2019-06-14 18:59:04+0530 > <Esc> dts
+2019-06-14 18:59:10+0530 > <LCtrl><LCtrl>f
+2019-06-14 18:59:20+0530 > <Esc><LCtrl>c
+2019-06-14 18:59:25+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><Up><#+15><Up><Up><Up><Up>i<End>
+2019-06-14 18:59:40+0530 > <LShft><Ins><Home><Tab><Del><End><Esc><#+2><RShft>:w<RShft>!
+2019-06-14 18:59:46+0530 > <Up><Down><Down><Down>cd -
+2019-06-14 18:59:53+0530 > <Up><Up><Up><Up><Up><Up><Up><BckSp><#+43><Up><Up><Up><Up><Up><Up><Up><Up><Up><LAlt><Tab><Tab><Tab><LAlt><Tab><Tab><Tab><Home><Home><LShft><Down><Down><Left><LCtrl>c
+2019-06-14 19:01:07+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><Tab><LShft><LCtrl>c
+2019-06-14 19:01:13+0530 > <LShft><Ins><BckSp><#+22><BckSp><Left><Left><Left><Left><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>
+2019-06-14 19:01:25+0530 > <RShft><LShft><Ins>
+2019-06-14 19:02:05+0530 > <RShft>:<Esc><Up><#+7><Down><Esc>dd<Esc><#+1><RShft>:u<Esc>u<LCtrl>v<LAlt><Tab>dd<Esc><RShft>:w<RShft>q<RShft>!
+2019-06-14 19:04:38+0530 > 
+2019-06-14 19:04:39+0530 > 
+2019-06-14 19:04:39+0530 > 
+2019-06-14 19:04:39+0530 > <Up><Down><#+23><Up><Up><Down><Home><Del><Del><Del><Del><Del>vim<End><BckSp>s<Tab>
+2019-06-14 19:04:59+0530 > /<LShft><Ins><Esc>/<Up><Up><BckSp><#+16>/eth0
+2019-06-14 19:05:11+0530 > <PgDn><PgDn><PgDn><PgUp><Up><#+101><Up><#+17><Up><#+28><Up>
+2019-06-14 19:05:26+0530 > n<RShft>:q
+2019-06-14 19:05:45+0530 > <Up><BckSp><#+14>-<Tab>c<Tab>.<Tab>
+2019-06-14 19:05:51+0530 > <PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><Down><#+20><Down><#+3><Up><#+10><Down><Down>i<End>
+2019-06-14 19:06:10+0530 > <LShft><Ins><BckSp><#+12><BckSp><BckSp><BckSp><BckSp><LAlt><Tab><LCtrl>c
+2019-06-14 19:06:18+0530 > <LAlt><Tab><LShft><Ins><Home><Tab><Esc><#+2><RShft>:w<RShft>!
+2019-06-14 19:06:24+0530 > <Up><Up>
+2019-06-14 19:06:30+0530 > <RShft>:wq<RShft>!
+2019-06-14 19:07:03+0530 > <Up><Up>
+2019-06-14 19:07:14+0530 > cp <LShft><Ins> /me<Tab><Tab>bo<Tab>dt<Tab>
+2019-06-14 19:08:47+0530 > ls /me<Tab>z<Tab>bo<Tab>
+2019-06-14 19:08:57+0530 > cd -<BckSp><BckSp><BckSp><BckSp>umount /me<Tab><RShft>*
+2019-06-14 19:09:10+0530 > <LAlt><Tab><LAlt><Tab><Tab><Tab><Down><Down><Down><Down><Down><Down><Down><#+13><Down><#+34><Up><#+38><Up><#+13><Up><Up><Up><Up><#+15><Up><Up><Up><Down><#+3><Down><Down><Down><LAlt><Tab><Tab><Down><#+32><Down><Down><Down><Down><Down><#+15><Down><Down><#+14><Down><Down><#+10>/dual
+2019-06-14 19:13:56+0530 > <Down><#+10><Up><#+60><RShft>:q
+2019-06-14 19:14:04+0530 > <Up><Up>
+2019-06-14 19:14:05+0530 > n<Esc><RShft>:wq<RShft>!
+2019-06-14 19:14:12+0530 > <Up><Home><Del><Del><Del>vp<BckSp><BckSp><BckSp>cp <Right><Left><Right><Right><#+31> <LShft><Ins>-w<BckSp>swo<BckSp>itchworking
+2019-06-14 19:14:33+0530 > vim <LShft><Ins>
+2019-06-14 19:14:40+0530 > /dual
+2019-06-14 19:14:43+0530 > <Esc>dd<Esc><RShft>:wq<RShft>!
+2019-06-14 19:14:46+0530 > 
+2019-06-14 19:14:46+0530 > 
+2019-06-14 19:14:46+0530 > <Up><Up><Up>
+2019-06-14 19:14:48+0530 > n<Up><Up>dd<LAlt><Tab><LAlt><Tab><Down><#+11><Down><#+9><Down><#+15><Down><Down><Down><Down><Down><Down><Down><#+1><Up><#+46><LAlt><Tab><Down><Down><Up><#+15><Up><#+14><Up><Up><#+13><Down><#+3><Down><#+18><Down><#+27><Down><#+19><Down><#+14><Down><Down><#+9><Down><#+13><Down><#+13><LAlt><Tab><RShft>:w<RShft>!
+2019-06-14 19:15:48+0530 > <Up><Up><Up><Up>
+2019-06-14 19:15:53+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down><Down><#+26><Up><Up><Up><Up>
+2019-06-14 19:17:12+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up>
+2019-06-14 19:17:19+0530 > <LAlt><Tab><Tab><LAlt><Tab><Tab><LCtrl><LCtrl><LAlt><Tab><Tab><Tab><Up><#+23><RShft>:
+2019-06-14 19:26:23+0530 > <RShft>:q
+2019-06-14 19:26:25+0530 > <Up><Up><Up><Up><Up>
+2019-06-14 19:26:27+0530 > <RShft>:q
+2019-06-14 19:26:32+0530 > vim <LShft><Ins>
+2019-06-14 19:26:34+0530 > <Down><#+28><Down><#+14><Right><#+22><RShft>*<RShft>:
+2019-06-14 19:27:56+0530 > w<Esc><RShft>:q
+2019-06-14 19:28:00+0530 > 
+2019-06-14 19:28:01+0530 > 
+2019-06-14 19:28:01+0530 > 
+2019-06-14 19:28:01+0530 > 
+2019-06-14 19:28:01+0530 > <Up><Up><Up>
+2019-06-14 19:28:05+0530 > <Down><#+87><Down><#+36><PgDn><PgDn><Down><#+6><PgDn><PgDn><PgDn><PgDn><PgDn><PgUp><Down><#+31><Up><#+33>i
+2019-06-14 19:28:23+0530 > <LShft><Ins><Down><Down><Down><Up><End>
+2019-06-14 19:28:36+0530 > <LShft><Ins><Home><Tab><Down><Down><Down><Down><Down><Down><Up><End>
+2019-06-14 19:28:39+0530 > <LShft><Ins><Home><Tab><Up><#+20><Up><Up><Esc>ddddddddddddddddd<Down><Down><Down><Right><#+22><Right>i11<Del><Del><Right>22<Del><Del><Right>33<Del><Del><Right><Right><Left>44<Del><Del><Down><Down><Down><Down><Down><Down><Left><Left><Left><#+11><Left><Left><Left>11<Del><Del><Right>22<Del><Del><Right>33<Del><Del><Right>44<Del><Del><Right><Right>1<Del><Esc><#+1><RShft>:wq<RShft>!
+2019-06-14 19:29:09+0530 > 
+2019-06-14 19:29:10+0530 > 
+2019-06-14 19:29:10+0530 > 
+2019-06-14 19:29:10+0530 > <Up><Up><Up><Up><Down>
+2019-06-14 19:29:15+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LCtrl><Tab><LCtrl><Tab><LCtrl><Tab><Up><Up><Up>
+2019-06-14 19:30:11+0530 > zs10062013
+2019-06-14 19:30:15+0530 > <LAlt><Tab><Tab><LAlt><Tab><Up>
+2019-06-14 19:31:29+0530 > n<LCtrl>21<LAlt>2332<LAlt><LAlt>2222sz[]\<Del><KP1><KP0>x<#+56><LAlt><LAlt>z<#+3><LShft>A<LAlt>xx <#+5><LAlt><Right><LCtrl><Down><Up><LCtrl>cp <LShft><Ins> /me<Tab><Tab><Tab>bo<Tab>d<Tab>
+2019-06-15 09:39:08+0530 > cp ar<Tab>ar<Tab>m/bo<Tab>z<RShft>I<Tab>/me<Tab><Tab>bo<Tab>
+2019-06-15 09:39:19+0530 > cd ../
+2019-06-15 09:39:22+0530 > cd u<Tab>
+2019-06-15 09:39:24+0530 > cp <RShft>MLO<Tab> /,<BckSp>me<Tab><Tab><Tab>boo<Tab>
+2019-06-15 09:39:32+0530 > cd <BckSp><BckSp>p u-t<Tab><BckSp>b<Tab>.i<Tab>/me<Tab><Tab><Tab>bo<Tab>
+2019-06-15 09:39:43+0530 > u<BckSp><BckSp><BckSp>
+
+Logging stopped at 2019-06-15 09:41:19+0530
+
