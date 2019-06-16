@@ -1,0 +1,52 @@
+Logging started ...
+
+2019-06-15 17:25:17+0530 > g
+2019-06-15 17:30:29+0530 > <LCtrl>c
+2019-06-15 19:12:33+0530 > cd 
+2019-06-15 19:12:39+0530 > ls
+2019-06-15 19:12:41+0530 > cd 20<Tab>
+2019-06-15 19:12:46+0530 > 
+2019-06-15 19:12:51+0530 > ls
+2019-06-15 19:12:53+0530 > cd g<Tab>
+2019-06-15 19:12:58+0530 > git st<Tab>tu<Tab>
+2019-06-15 19:13:06+0530 > git diff <RShft><Ins>
+2019-06-15 19:13:25+0530 > 
+2019-06-15 19:13:27+0530 > 
+2019-06-15 19:13:30+0530 > <#+6><Down><#+20><Down><#+8><LCtrl>c
+2019-06-15 19:18:29+0530 > cd <RShft><Ins><RShft><RShft><Ins>
+2019-06-15 19:18:48+0530 > ls
+2019-06-15 19:18:49+0530 > cd s<Tab>i<Tab><BckSp>o<Tab>
+2019-06-15 19:18:54+0530 > ls
+2019-06-15 19:18:54+0530 > cd me<Tab>l<Tab><Tab><Tab><Tab><LCtrl>c
+2019-06-15 19:19:01+0530 > cd ../
+2019-06-15 19:19:02+0530 > cd<BckSp><BckSp><BckSp>ls
+2019-06-15 19:19:04+0530 > cd bu<Tab>2<Tab>
+2019-06-15 19:19:08+0530 > ls
+2019-06-15 19:19:09+0530 > cd t<Tab><Tab><Tab>s<BckSp>w<Tab>
+2019-06-15 19:19:15+0530 > ls
+2019-06-15 19:19:15+0530 > cd x<BckSp>t<Tab>
+2019-06-15 19:19:19+0530 > ls
+2019-06-15 19:19:20+0530 > cd fs<Tab>l<Tab><LCtrl><BckSp><#+15><BckSp>l<Tab>i<Tab>
+2019-06-15 19:19:27+0530 > ls
+2019-06-15 19:19:27+0530 > ls
+2019-06-15 19:19:42+0530 > cd <Tab>
+2019-06-15 19:19:44+0530 > ls
+2019-06-15 19:19:44+0530 > cd g<Tab>
+2019-06-15 19:19:47+0530 > ls
+2019-06-15 19:19:48+0530 > git sats<BckSp><BckSp><BckSp>tatus
+2019-06-15 19:19:52+0530 > <LCtrl>c
+2019-06-15 19:19:55+0530 > cd ar<Tab>ar<Tab>m<BckSp><BckSp><BckSp>pow<Tab><Tab>
+2019-06-15 19:20:00+0530 > git status
+2019-06-15 19:20:02+0530 > <LCtrl>c
+2019-06-15 19:20:08+0530 > cd bp<Tab><BckSp><Tab>dt<Tab>
+2019-06-15 19:20:11+0530 > s<BckSp><Up><Up>
+2019-06-15 19:20:13+0530 > <LCtrl>got d<BckSp><BckSp><BckSp><BckSp>it diff fs<Tab><LCtrl><LCtrl>c
+2019-06-15 19:20:27+0530 > cd fs<Tab>
+2019-06-15 19:20:29+0530 > ls
+2019-06-15 19:20:29+0530 > git satu<BckSp><BckSp><BckSp>tatus
+2019-06-15 19:20:33+0530 > git diff t4<Tab>r<Tab>.<Tab>
+2019-06-15 19:20:39+0530 > <Down><#+17><Down><#+17><Down><#+20><Down><#+13><Down><#+26><Down><#+10><Down><Down><#+24><Down><#+6><Down><#+33><RShft>qgi <BckSp>t status
+2019-06-15 19:21:07+0530 > git diff t42<Tab>-p<Tab>o<Tab><BckSp><BckSp><BckSp><BckSp><Tab>s<Tab>o<Tab>
+2019-06-15 19:21:20+0530 > <Up><Home><Del><Del><Del><Del><Del><Del><Del><Del>vim 
+2019-06-15 19:21:29+0530 > n/ddr
+2019-06-15 19:21:32+0530 > <Down><#+20><Up>nnn<PgDn><PgDn><PgDn><Down><#+65><Up><#+35><Down><#+18><Down><Down><#+44><Down><#+30><Down><PgDn><PgDn><PgDn><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><Up><#+59><Down><#+22><Down><Down><Down><Right><Right><Right><Right><Right><Right>
