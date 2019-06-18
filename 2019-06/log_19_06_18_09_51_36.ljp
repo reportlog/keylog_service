@@ -1,0 +1,196 @@
+Logging started ...
+
+2019-06-18 09:51:36+0530 > <LCtrl><LCtrl><LCtrl>p<LShft>Welcome<LShft>!23
+2019-06-18 10:09:05+0530 > savya<Down>
+2019-06-18 10:17:11+0530 > kgf 2
+2019-06-18 10:17:52+0530 > why uboot <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>uboot is not compiling in l=<BckSp><BckSp><BckSp><BckSp>n ubuntu 14.04
+2019-06-18 10:29:24+0530 > am335x<RShft>_beagle<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>-bea<BckSp><BckSp><BckSp><BckSp><BckSp><#+17>arm<BckSp><BckSp>m335x-bone.cd lf<Tab>li<Tab>
+2019-06-18 10:35:18+0530 > ls
+2019-06-18 10:35:19+0530 > cd ar<Tab>arm<Tab><Tab><Tab>/<Tab>bo<Tab>
+2019-06-18 10:35:27+0530 > ls
+2019-06-18 10:35:28+0530 > cd dt<Tab>
+2019-06-18 10:35:30+0530 > find . -name <LShft>"am335x-beaa<BckSp><LShft>*<LShft>"
+2019-06-18 10:35:51+0530 > <Up><Left><Left><BckSp><BckSp>
+2019-06-18 10:35:54+0530 > <Up><Left><Left>oneblack
+2019-06-18 10:36:06+0530 > <Up><Left><Left><Right><BckSp>.dts<Left><Left><Left><Left><LShft>*
+2019-06-18 10:36:21+0530 > 
+2019-06-18 10:36:23+0530 > 
+2019-06-18 10:36:23+0530 > 
+2019-06-18 10:36:24+0530 > vim am<Tab><Tab>y<Tab>n<BckSp><BckSp>
+2019-06-18 10:36:58+0530 > <Down><Down><Down><Down><Down><Down><Down><Down><Down><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right>/<BckSp><LCtrl><LShft>Tvim 
+2019-06-18 10:38:32+0530 > <RShft>:q
+2019-06-18 10:39:12+0530 > vim 
+2019-06-18 10:39:24+0530 > <RShft>:q
+2019-06-18 10:40:14+0530 > vim 
+2019-06-18 10:40:28+0530 > <RShft>:q
+2019-06-18 10:40:33+0530 > <Up><Up><Up>
+2019-06-18 10:43:29+0530 > /
+2019-06-18 10:43:50+0530 > <Down><#+1>
+2019-06-18 10:43:53+0530 > 
+2019-06-18 10:43:54+0530 > 
+2019-06-18 10:43:55+0530 > 
+2019-06-18 10:43:56+0530 > 
+2019-06-18 10:43:56+0530 > /
+2019-06-18 10:44:01+0530 > <RShft>:q
+2019-06-18 10:51:08+0530 > <Up><Up>
+2019-06-18 10:51:12+0530 > <RShft>:q
+2019-06-18 10:51:14+0530 > <Up><Up><Up><Up>
+2019-06-18 10:51:18+0530 > <RShft>:q
+2019-06-18 10:53:03+0530 > <Up><Up><Up>
+2019-06-18 10:53:07+0530 > <RShft>:q
+2019-06-18 10:56:20+0530 > <Up><Up>
+2019-06-18 10:56:25+0530 > <RShft>:q
+2019-06-18 10:56:30+0530 > <Up><Up>
+2019-06-18 10:56:31+0530 > <Up><#+2><Up><Up><#+35><Up><#+12><Up><#+10><RShft>:q
+2019-06-18 10:58:59+0530 > <Up>
+2019-06-18 10:59:08+0530 > <LCtrl>cdode<BckSp><BckSp><BckSp><BckSp>ode
+2019-06-18 11:00:49+0530 > 
+2019-06-18 11:00:49+0530 > <LCtrl><LCtrl><LShft>Tvim 
+2019-06-18 11:10:52+0530 > <RShft>:q
+2019-06-18 11:10:58+0530 > <RShft>:q
+2019-06-18 11:11:04+0530 > <Up><Up>
+2019-06-18 11:11:05+0530 > <RShft>:q
+2019-06-18 11:11:14+0530 > <LCtrl><Up>
+2019-06-18 11:14:00+0530 > <RShft>:q<RShft>:<RShft>:q
+2019-06-18 11:19:32+0530 > exit
+2019-06-18 11:19:34+0530 > <RShft>:q
+2019-06-18 11:19:37+0530 > clear
+2019-06-18 11:19:40+0530 > cd
+2019-06-18 11:19:42+0530 > cd <LShft>Doc<Tab>pun<Tab>
+2019-06-18 11:19:46+0530 > ls
+2019-06-18 11:19:48+0530 > cd <LShft>d<BckSp><LShft>F<BckSp><LShft>Do<Tab>
+2019-06-18 11:19:55+0530 > cd cod<Tab>
+2019-06-18 11:19:59+0530 > ls
+2019-06-18 11:20:00+0530 > cd li<Tab>
+2019-06-18 11:21:26+0530 > ls
+2019-06-18 11:21:28+0530 > cd ar<BckSp><#+15>cd ke<Tab>ar<Tab><Tab><Tab><Tab><Tab><Tab>c<Tab><Tab><Tab><Tab><Tab><BckSp><BckSp><BckSp><BckSp>
+2019-06-18 11:21:52+0530 > ls
+2019-06-18 11:21:53+0530 > cd ..
+2019-06-18 11:22:17+0530 > ls
+2019-06-18 11:22:18+0530 > cd a<Tab>ar<Tab><Tab>m<Tab>/bo<Tab>dt<Tab>
+2019-06-18 11:22:31+0530 > vim am335x<LShft>_beaglebone.dts
+2019-06-18 11:22:47+0530 > <RShft>:q
+2019-06-18 11:22:51+0530 > find . -name <LShft>"am335x<LShft>_<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LShft>"
+2019-06-18 11:23:16+0530 > ls
+2019-06-18 11:23:18+0530 > ls
+2019-06-18 11:26:33+0530 > clear
+2019-06-18 11:26:36+0530 > vim am335x-boneblack.dts
+2019-06-18 11:27:05+0530 > <LCtrl><LShft>Tvim 
+2019-06-18 11:28:14+0530 > <LCtrl><LShft>T<Left><#+31>vim 
+2019-06-18 11:29:10+0530 > <LCtrl><LShft>Tvim <BckSp><#+17>vim 
+2019-06-18 11:30:01+0530 > <RShft>:q
+2019-06-18 11:30:07+0530 > <Up>
+2019-06-18 11:30:09+0530 > /uart1<LShft>_ctsn
+2019-06-18 11:31:21+0530 > /<LShft>UART1
+2019-06-18 11:31:29+0530 > 
+2019-06-18 11:31:30+0530 > 
+2019-06-18 11:31:32+0530 > 
+2019-06-18 11:31:32+0530 > <#+2>/<LShft>UART1
+2019-06-18 11:31:41+0530 > /i2c2
+2019-06-18 11:32:42+0530 > /i2c2
+2019-06-18 11:33:24+0530 > nnnnnn/i2c2
+2019-06-18 11:34:15+0530 > nnnnnn/i2c2
+2019-06-18 11:34:45+0530 > /i2c0
+2019-06-18 11:35:47+0530 > /i2c2
+2019-06-18 11:36:34+0530 > nnnn/i2c0
+2019-06-18 11:36:53+0530 > nnnnnnnnnnn/i2c0
+2019-06-18 11:37:07+0530 > /i2c0
+2019-06-18 11:37:18+0530 > nnnn<RShft>:q
+2019-06-18 11:37:35+0530 > <Up>
+2019-06-18 11:37:37+0530 > 
+2019-06-18 11:38:52+0530 > <LShft>U<BckSp><LShft>Used <LShft>Pins,
+2019-06-18 11:39:07+0530 > <Tab>1.<BckSp><BckSp>1.lcd<LShft>_data1
+2019-06-18 11:39:48+0530 > `<BckSp><Tab>2.lcd<LShft>_data2
+2019-06-18 11:40:15+0530 > <Tab>3.lcd<LShft>_data3
+2019-06-18 11:40:34+0530 > <Tab>4.<LCtrl>zlcd<LShft>_ac<LShft>_bias<LShft>_en
+2019-06-18 11:41:03+0530 > <Tab>5.
+2019-06-18 11:41:07+0530 > <Tab>6.
+2019-06-18 11:41:09+0530 > <Tab>7.lcd<LShft>_data0lcd<LShft>_data4<LCtrl>c
+2019-06-18 11:42:09+0530 > <LCtrl>v<BckSp>5
+2019-06-18 11:42:13+0530 > <Tab>8.
+2019-06-18 11:42:17+0530 > <Tab>9.
+2019-06-18 11:42:19+0530 > <Tab>10.
+2019-06-18 11:42:22+0530 > <Tab>11.
+2019-06-18 11:42:24+0530 > <Tab>12.<LCtrl>v<LCtrl>v<LCtrl>vvv<BckSp>6<Down><BckSp>7<Down><Right><BckSp>8<Down><BckSp>9<Down><BckSp>10
+2019-06-18 11:42:46+0530 > <Tab>13.
+2019-06-18 11:42:50+0530 > 1<BckSp><Tab>14.
+2019-06-18 11:42:53+0530 > <Tab>15.
+2019-06-18 11:42:56+0530 > <CpsLk><CpsLk><Tab>16<LCtrl>vvvv.<BckSp>11<Down><BckSp>12<Down><BckSp>13<Down><BckSp>14
+2019-06-18 11:43:18+0530 > <Tab>17.<LCtrl>v<BckSp>15
+2019-06-18 11:43:25+0530 > <Tab>18.
+2019-06-18 11:43:30+0530 > <Tab>19.
+2019-06-18 11:43:34+0530 > <Tab>20.        <BckSp>\<BckSp><Left> <Up><Left><Left> <Up> <Up> <Up> <Up> <Up> <Up> <Up> <Up> lcd<LShft>_hsync<Up> <Down> lcd<LShft>_pclk<Down> lcd<LShft>_vsync
+2019-06-18 11:44:45+0530 > 
+2019-06-18 11:44:47+0530 > <Up><Up><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><Tab><LCtrl>s<LShft>From dts file,
+2019-06-18 11:45:17+0530 > <Tab>/lcd
+2019-06-18 11:46:13+0530 > nnnnnnnnnn/lcd
+2019-06-18 11:46:25+0530 > nnnnnnnnnnnn<#+1>nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn<LCtrl>v<LCtrl>z<LCtrl><LCtrl>v<LCtrl>zam335x<LShft>_boneblack.dts<Left><#+14><Left><Left><BckSp>-<LCtrl>v<LShft><Down><#+22><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><#+13><Down><Down><Down><Down><Up><Right><Right><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LCtrl>zzzzzzzzz<LCtrl>v<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LCtrl>z<LCtrl>z<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LCtrl><Down><#+5><Up><Up><Down><LShft><Down><#+19><Down><BckSp><BckSp><LCtrl>z<LCtrl>z<LShft><Down><#+27><Down><#+12><Down><Down><Down><Down><Down><Down><Down><Down><Down><LCtrl>s<BckSp><BckSp><BckSp><BckSp><LCtrl>s/lcd
+2019-06-18 11:53:02+0530 > /lcd
+2019-06-18 11:53:12+0530 > nnnnnnnnn/lcd
+2019-06-18 11:53:26+0530 > /lcd
+2019-06-18 11:53:33+0530 > nnnnnnnnnnnnnnnnnnnnnnn<#+1>nnnnnnnnnnnnnnnnnn<LCtrl>c
+2019-06-18 11:54:00+0530 > <#+1>
+2019-06-18 11:54:06+0530 > 
+2019-06-18 11:54:06+0530 > 
+2019-06-18 11:54:06+0530 > <LCtrl>v<BckSp><RShft>:<Tab><BckSp>q
+2019-06-18 11:54:23+0530 > <Up><LCtrl>v<LCtrl>flcd<LCtrl>f<#+1>f<LCtrl><LShft>f<LMeta><#+4><#+1><LCtrl>
+2019-06-18 11:55:10+0530 > 
+2019-06-18 11:55:11+0530 > <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LCtrl>z<BckSp><BckSp><LCtrl>s
+2019-06-18 11:56:00+0530 > <RShft>:q
+2019-06-18 11:56:10+0530 > <RShft>:q
+2019-06-18 11:56:14+0530 > <RShft>:q
+2019-06-18 11:56:18+0530 > <RShft>:q
+2019-06-18 11:56:22+0530 > <Up>
+2019-06-18 11:56:26+0530 > <Up>
+2019-06-18 11:56:29+0530 > <Up>
+2019-06-18 11:56:32+0530 > <Up>
+2019-06-18 11:56:35+0530 > /i2c2
+2019-06-18 11:56:57+0530 > /i2c2
+2019-06-18 11:57:03+0530 > nn/i2c2
+2019-06-18 11:57:22+0530 > nnnnnnn/i2c2<RShft>
+2019-06-18 11:57:58+0530 > nnnnnn<RShft>:q
+2019-06-18 11:58:09+0530 > <Up>
+2019-06-18 11:58:21+0530 > <LCtrl>v<LCtrl>fi2c2
+2019-06-18 11:59:09+0530 > <LShft>U<BckSp><LShft>Used <LShft>Pins,
+2019-06-18 11:59:27+0530 > 
+2019-06-18 11:59:28+0530 > <BckSp><Tab>1. i2c2<LShft>_<LShft>SDA
+2019-06-18 11:59:43+0530 > <Up><Tab><Down><Tab>2.i2c2<LShft>_SCL
+2019-06-18 11:59:55+0530 > <Tab>3.<LCtrl><LCtrl><LCtrl><LCtrl>f<LShft>CPT-<LShft>RST<LCtrl><LCtrl><LCtrl><Up><Right><Right><Right> <Down><Down><Up> gpmc<LShft>_clk
+2019-06-18 12:02:14+0530 > <Up><Left><Left><Left><Left><Left><Left><Left><Tab><Down><Tab>4. <LCtrl>gpmc<LShft>_csn3
+2019-06-18 12:02:51+0530 > <Up><Tab><Down><LShft>From dts filea<BckSp>,
+2019-06-18 12:03:03+0530 > <Tab><Tab><BckSp><LCtrl>v<LShft><Up><#+16><Down><#+12><Up><LCtrl>f
+2019-06-18 12:03:58+0530 > <LCtrl>v/i2c2
+2019-06-18 12:04:15+0530 > nnnnnnnn/<RShft>:q
+2019-06-18 12:04:28+0530 > <RShft>:q
+2019-06-18 12:04:33+0530 > <LCtrl><LCtrl>fi2c2
+2019-06-18 12:05:03+0530 > 
+2019-06-18 12:05:04+0530 > <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LCtrl>s<Up>
+2019-06-18 12:05:25+0530 > /i2c2i<BckSp>
+2019-06-18 12:05:30+0530 > nnnn/i2c2
+2019-06-18 12:05:40+0530 > nnnnn
+2019-06-18 12:05:44+0530 > /i2c0
+2019-06-18 12:06:05+0530 > nn/i2c0
+2019-06-18 12:06:13+0530 > nnnn/i2c2<BckSp>0
+2019-06-18 12:06:25+0530 > nnnnnnnn<LCtrl>fi2c0<LCtrl>fi2c0<LCtrl>fi2c0
+2019-06-18 12:07:20+0530 > <LShft>From dts file,
+2019-06-18 12:07:27+0530 > 
+2019-06-18 12:07:28+0530 > <Tab><LShft><Up><Up><Up><Up><Up><Up><Up><BckSp>
+2019-06-18 12:07:46+0530 > 
+2019-06-18 12:07:47+0530 > <LCtrl>f<LCtrl>v<Tab><LCtrl>z<#+2> <LCtrl>z<Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><LCtrl>s
+2019-06-18 12:09:29+0530 > <BckSp><LCtrl>s
+2019-06-18 12:09:44+0530 > 
+2019-06-18 12:09:44+0530 > <Tab><LCtrl>s
+2019-06-18 12:09:59+0530 > <LShft>Used <LShft>Pins,
+2019-06-18 12:10:04+0530 > <Tab>1. i2c0<LShft>_<LShft>SCL
+2019-06-18 12:10:21+0530 > <Up><Tab><Down><Tab>2. i2c0<LShft>_SDA
+2019-06-18 12:10:34+0530 > <Up><Tab><LCtrl>s<LCtrl>s<Tab><LShft>Te<BckSp>hese pins are used for configuration.<LCtrl>s
+2019-06-18 12:12:03+0530 > <LCtrl>s<#+1><LCtrl>ssssza<LShft>Design <LShft>Document<LShft>Hi <LShft>Sir,
+2019-06-18 12:13:42+0530 > 
+2019-06-18 12:13:42+0530 > <Tab><Tab><LShft>Please find the attached document.
+2019-06-18 12:13:55+0530 > 
+2019-06-18 12:13:55+0530 > <LShft>Regards,
+2019-06-18 12:13:58+0530 > <LShft>Puneeth.<LShft>K<LCtrl><LShft><Del>
+2019-06-18 12:23:53+0530 > 
+
+Logging stopped at 2019-06-18 12:24:14+0530
+
