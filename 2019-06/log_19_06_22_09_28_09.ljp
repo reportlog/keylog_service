@@ -1,0 +1,46 @@
+Logging started ...
+
+2019-06-22 09:28:09+0530 > 
+2019-06-22 09:37:43+0530 > <LShft>Zumi<LShft>Znkb1zs10062013
+2019-06-22 09:37:51+0530 > zs10062013
+2019-06-22 09:38:11+0530 > p<Down>
+2019-06-22 09:38:24+0530 > 
+2019-06-22 09:38:24+0530 > <LShft>Welcome<LShft>!23
+2019-06-22 09:39:21+0530 > <RShft>:wq
+2019-06-22 09:43:22+0530 > <Up>
+2019-06-22 09:44:09+0530 > 
+2019-06-22 09:44:10+0530 > <RShft>:q
+2019-06-22 09:44:41+0530 > <RShft>:wq
+2019-06-22 09:44:50+0530 > find . -name <LShft>"mux.c<LShft>"
+2019-06-22 09:45:03+0530 > cd <LShft><RShft><LShft><LShft><LShft><LShft>
+2019-06-22 09:46:14+0530 > <Up><BckSp><#+30><Up><Up><Up><Down><Down><Left><BckSp><BckSp><BckSp><BckSp><BckSp><LShft><LShft>
+2019-06-22 09:46:52+0530 > cd <LShft><LShft><BckSp><#+72><BckSp><BckSp><BckSp>
+2019-06-22 09:47:10+0530 > vim mu<Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><BckSp><#+11>cd ../../..
+2019-06-22 09:47:34+0530 > cd <LCtrl><LShft>V
+2019-06-22 09:47:40+0530 > vim mu<Tab>
+2019-06-22 09:48:00+0530 > <LCtrl><LShft>c
+2019-06-22 09:48:39+0530 > /<LCtrl><LShft>Vc
+2019-06-22 09:48:40+0530 > 
+2019-06-22 09:48:40+0530 > nnnnn<Up>
+2019-06-22 09:48:59+0530 > 
+2019-06-22 09:49:00+0530 > <LCtrl><LShft>c
+2019-06-22 09:49:15+0530 > /<LCtrl><LShft>V
+2019-06-22 09:49:18+0530 > nnnnn<LShft>EV<BckSp><LShft>N<BckSp><#+19><LShft>DISP_EN<LCtrl><LShft><LCtrl><LShft>---<BckSp><#+16><LShft>LCD<Right><Right><Right><Right>
+2019-06-22 09:55:42+0530 > <BckSp><BckSp><BckSp><BckSp>d<BckSp><BckSp><BckSp><BckSp>lcd<BckSp><#+14><LShft>LCD-<LShft>EN<LCtrl><LCtrl><BckSp><#+22><LShft>LCD-<LShft>EN
+2019-06-22 09:59:23+0530 > 
+2019-06-22 09:59:24+0530 > 
+2019-06-22 09:59:25+0530 > <Down>
+2019-06-22 09:59:40+0530 > <Esc><RShft>:w<LShft>!
+2019-06-22 10:05:36+0530 > <Up><Up><Up><Up>
+2019-06-22 10:05:51+0530 > cp <LShft>M<Tab>`<BckSp><Tab><Tab><LShft>L<Tab> /em<BckSp><BckSp>me<Tab>zu<Tab><LShft>B<Tab>
+2019-06-22 10:07:57+0530 > cp u-bo<Tab>.im<Tab>/me<Tab>zu<Tab><LShft>B<Tab>
+2019-06-22 10:08:14+0530 > um<Up><Up><Up><Up>
+2019-06-22 10:08:20+0530 > ls -l
+2019-06-22 10:11:49+0530 > date
+2019-06-22 10:11:55+0530 > vim <RShft>S<Tab>
+2019-06-22 10:12:09+0530 > <PgDn><#+18><RShft>:q
+2019-06-22 10:12:16+0530 > <Down><Up><BckSp><#+13><BckSp><BckSp>u<Tab>.x<Tab><BckSp>m<Tab>
+2019-06-22 10:12:23+0530 > <PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><Down><#+14><Down><#+2><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgUp><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><#+1><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><#+28><PgDn><#+124><PgDn><#+37><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><Up><#+21><Down><#+20><Down><#+13><Down><#+8><Down><#+10><Down><#+7><Down><#+8><Down><#+8><Down><#+8><Down><RShft>:s
+2019-06-22 10:13:40+0530 > <RShft>:a<BckSp>q
+2019-06-22 10:13:42+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Down>
+2019-06-22 10:13:48+0530 > 
