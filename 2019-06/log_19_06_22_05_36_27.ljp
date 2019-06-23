@@ -1,0 +1,30 @@
+Logging started ...
+
+2019-06-22 17:36:27+0530 > hda<BckSp>mi ti<BckSp>o lcd in beagle bone am335x
+2019-06-22 17:36:51+0530 > cd fd<BckSp><BckSp>drq<BckSp>i<Tab><LShft>D<Tab><Tab>`<Tab><Tab><Tab><BckSp><Tab><Tab><Tab><Tab><Tab><Tab><Tab><BckSp>
+2019-06-22 17:44:29+0530 > ls
+2019-06-22 17:44:30+0530 > cd ..
+2019-06-22 17:44:51+0530 > grep -r <LShft>"<LCtrl><LShft>V<LShft>"
+2019-06-22 17:46:04+0530 > <Up><Left><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LCtrl><LShft>V
+2019-06-22 17:47:16+0530 > vm <BckSp><BckSp>i <LCtrl><LShft>V
+2019-06-22 17:47:38+0530 > /<LCtrl><LShft>V
+2019-06-22 17:47:50+0530 > /<LCtrl><LShft>V
+2019-06-22 17:48:17+0530 > <RShft>:q
+2019-06-22 17:48:20+0530 > <Up><Up><Left><BckSp><#+27><CpsLk>'<LShft><BckSp><LShft>"<LCtrl><LShft>v
+2019-06-22 17:48:29+0530 > VI <BckSp><BckSp><BckSp><BckSp><CpsLk>vi <LCtrl><LShft><LCtrl><LShft>V
+2019-06-22 17:48:52+0530 > /<LCtrl><LShft>V
+2019-06-22 17:49:05+0530 > nnnn
+2019-06-22 17:49:27+0530 > 
+2019-06-22 17:49:28+0530 > /<LCtrl><LShft>V
+2019-06-22 17:49:31+0530 > /<LCtrl><LShft>V
+2019-06-22 17:51:00+0530 > <RShft>:q<RShft>:q
+2019-06-22 17:51:09+0530 > find . -nae<BckSp>me <LShft>"mux.c<LShft>"
+2019-06-22 17:59:39+0530 > vim <LCtrl><LShft>V
+2019-06-22 17:59:58+0530 > 
+2019-06-22 17:59:59+0530 > /<LCtrl><LShft>V
+2019-06-22 18:00:11+0530 > 
+2019-06-22 18:00:12+0530 > <Down><#+27><Down><Up><Right><#+37><RShft>*<Down><#+29>beaglebone 24 bit lcd
+2019-06-22 18:19:33+0530 > <LCtrl>
+
+Logging stopped at 2019-06-23 06:48:09+0530
+
