@@ -1,0 +1,116 @@
+Logging started ...
+
+2019-06-24 11:26:07+0530 > f<Tab>
+2019-06-24 11:26:18+0530 > cd pa<Tab>
+2019-06-24 11:26:27+0530 > ls
+2019-06-24 11:26:29+0530 > 
+2019-06-24 11:27:35+0530 > 
+2019-06-24 11:27:35+0530 > cd ..
+2019-06-24 11:27:51+0530 > cd ..
+2019-06-24 11:27:53+0530 > cd..
+2019-06-24 11:27:54+0530 > cd ..
+2019-06-24 11:27:56+0530 > cd..
+2019-06-24 11:27:57+0530 > cd..
+2019-06-24 11:27:59+0530 > cd..
+2019-06-24 11:28:00+0530 > cd..
+2019-06-24 11:28:01+0530 > cd..
+2019-06-24 11:28:02+0530 > cd..
+2019-06-24 11:28:02+0530 > cd..
+2019-06-24 11:28:03+0530 > cd ..
+2019-06-24 11:28:05+0530 > cd ..
+2019-06-24 11:28:07+0530 > cd ..
+2019-06-24 11:28:09+0530 > ls
+2019-06-24 11:28:11+0530 > cd bu<Tab>
+2019-06-24 11:28:14+0530 > 
+2019-06-24 11:29:02+0530 > cd ..
+2019-06-24 11:29:22+0530 > 
+2019-06-24 11:29:22+0530 > cd ..
+2019-06-24 11:29:24+0530 > 
+2019-06-24 11:29:32+0530 > 
+2019-06-24 11:29:32+0530 > 
+2019-06-24 11:29:32+0530 > 
+2019-06-24 11:29:32+0530 > 
+2019-06-24 11:29:33+0530 > 
+2019-06-24 11:29:33+0530 > 
+2019-06-24 11:29:33+0530 > 
+2019-06-24 11:29:33+0530 > <Up><Up><Down><BckSp><#+51>ss h<BckSp><BckSp><BckSp>sh 192.168.1.41
+2019-06-24 11:29:53+0530 > 
+2019-06-24 11:29:55+0530 > 
+2019-06-24 11:29:57+0530 > 
+2019-06-24 11:29:57+0530 > <Up><Down>ls
+2019-06-24 11:30:03+0530 > <Up><Up>
+2019-06-24 11:30:05+0530 > yes
+2019-06-24 11:30:09+0530 > zs10062013
+2019-06-24 11:30:14+0530 > ls
+2019-06-24 11:30:43+0530 > vim f<Tab>
+2019-06-24 11:31:28+0530 > sudo apt install vim
+2019-06-24 11:31:46+0530 > zs10062013
+2019-06-24 11:31:50+0530 > y
+2019-06-24 11:31:55+0530 > <Up><Up>
+2019-06-24 11:32:44+0530 > <Down><#+26><Down><Down><#+6><Down><Down><#+9><Down><#+12><Down><#+10><Down><#+13><Down><#+11><Down><#+14><Down><#+16><Down><#+20><Down><#+24><Down><#+11><Down><#+42><Down><#+21><RShft>:q
+2019-06-24 11:33:10+0530 > <Up><Up><Down><Down>cd bi<BckSp><BckSp>bui<Tab>
+2019-06-24 11:35:00+0530 > ls
+2019-06-24 11:35:01+0530 > <BckSp><#+4><BckSp><#+3>cd ..
+2019-06-24 11:36:05+0530 > 
+2019-06-24 11:36:15+0530 > 
+2019-06-24 11:36:37+0530 > 
+2019-06-24 11:37:27+0530 > 
+2019-06-24 11:37:27+0530 > ls
+2019-06-24 11:37:29+0530 > cd zumi
+2019-06-24 11:37:35+0530 > ls
+2019-06-24 11:37:37+0530 > cd sou<Tab>
+2019-06-24 11:37:47+0530 > ls
+2019-06-24 11:37:49+0530 > cd me<Tab>fre<Tab><BckSp><#+10><BckSp><BckSp><BckSp><BckSp><BckSp>fs<Tab>
+2019-06-24 11:38:26+0530 > ls
+2019-06-24 11:38:28+0530 > cd im<Tab>
+2019-06-24 11:38:34+0530 > ls
+2019-06-24 11:38:35+0530 > cd me<Tab>s<Tab>
+2019-06-24 11:43:31+0530 > ls
+2019-06-24 11:43:32+0530 > cd reci<Tab>fs<Tab>
+2019-06-24 11:43:45+0530 > cd im<Tab>
+2019-06-24 11:43:49+0530 > ls
+2019-06-24 11:43:56+0530 > vim f<Tab>q<Tab>v<Tab><BckSp>-v<Tab>
+2019-06-24 11:44:26+0530 > <Down><#+32><Down><#+11><Down><#+13><Down><#+18><RShft>:q
+2019-06-24 11:44:45+0530 > <LCtrl>v
+2019-06-24 11:48:54+0530 > <BckSp><BckSp>
+2019-06-24 11:49:37+0530 > <BckSp>
+2019-06-24 11:49:40+0530 > <LCtrl>c
+2019-06-24 11:50:51+0530 > 
+2019-06-24 11:50:56+0530 > <LCtrl>c
+2019-06-24 11:53:00+0530 > <Up><Up>
+2019-06-24 11:53:14+0530 > <LCtrl>c
+2019-06-24 11:55:39+0530 > 
+2019-06-24 11:55:43+0530 > <RShft>Hi,
+2019-06-24 11:56:38+0530 > 
+2019-06-24 11:56:38+0530 > g
+2019-06-24 11:56:44+0530 > fmi mac<BckSp><BckSp><BckSp><BckSp><BckSp>1 mac4<Down> nxo<BckSp>p ehernet
+2019-06-24 11:57:03+0530 > <RShft>If <RShft>Three l<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><RShft>&<BckSp><RShft>Seven link detected out of eith<BckSp><BckSp>ght link mean <BckSp>s that there is no problem in kernel <Left><#+12>both <End>and bott<BckSp><BckSp>ot .<RShft>We have reviewed  the code the settings are <Left><#+18><Left><Left><Left><Left>where <Down>made for all the link is same.<RShft><BckSp>.<RShft>It could be some issue in chip.
+2019-06-24 12:01:32+0530 > 
+2019-06-24 12:01:32+0530 > 
+2019-06-24 12:01:33+0530 > <RShft>Regards,
+2019-06-24 12:01:37+0530 > 
+2019-06-24 12:01:37+0530 > <RShft>Meerasahib.<Left>gm<Down><Down><Up>
+2019-06-24 12:02:43+0530 > meerasahibmfayha217
+2019-06-24 12:03:13+0530 > <BckSp><#+19>razi<Left><Left><Left><Left><Left><Left><Left><Left>and <CpsLk>A<CpsLk>ndroid <Left><Left><BckSp>an<Left><Left> <Left>idand <CpsLk>A<CpsLk>ndroid <BckSp><#+6><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><Left><#+14><Left><Left><Left><CpsLk>U-B<CpsLk>oot and <Down><End><BckSp><#+20><BckSp><BckSp>.calibr<LCtrl>s<BckSp><#+39><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><Up><Down><Down>
+2019-06-24 12:09:23+0530 > <CpsLk>DDR<CpsLk> v<BckSp>in<CpsLk><BckSp><BckSp><CpsLk>i<CpsLk><BckSp><CpsLk>i<CpsLk>NTIALIZATION<BckSp><#+15><BckSp><BckSp><BckSp><BckSp> <CpsLk>i<BckSp><CpsLk>I<CpsLk>nitialization,validation and testing.<BckSp> in <CpsLk>U-B<CpsLk>oot level.
+2019-06-24 12:11:14+0530 > 
+2019-06-24 12:11:15+0530 > 
+2019-06-24 12:11:15+0530 > deva kumar
+2019-06-24 12:11:50+0530 > deva
+2019-06-24 12:13:25+0530 > <LCtrl>v<Up><Up><Up><Up><LCtrl>c
+2019-06-24 12:16:37+0530 > <LAlt><Tab><F2><LCtrl><LShft><Right><Right><Right><LCtrl>c
+2019-06-24 12:17:00+0530 > <LAlt><Tab><LAlt><Tab><Tab>locate <LShft><Ins>
+2019-06-24 12:17:06+0530 > <LCtrl>c
+2019-06-24 12:17:13+0530 > <LCtrl>x<LCtrl>c
+2019-06-24 12:17:15+0530 > <RShft>
+2019-06-24 12:17:24+0530 > 
+2019-06-24 12:17:25+0530 > 
+2019-06-24 12:17:29+0530 > ls
+2019-06-24 12:17:31+0530 > vim fsl<Tab>-<Tab><Tab><BckSp>q<Tab>-v<Tab><Tab><Tab><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>
+2019-06-24 12:18:02+0530 > i<Down><#+53><Up><Up><Up><Down><Right><#+14><Right><Right><Right><Right><Right><Right><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><Esc><RShft>:wq
+2019-06-24 12:18:41+0530 > <Up><Up><Up><Up><Up>
+2019-06-24 12:19:06+0530 > <Up>
+2019-06-24 12:22:51+0530 > `
+
+Logging stopped at 2019-06-24 17:22:35+0530
+
