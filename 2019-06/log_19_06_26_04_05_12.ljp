@@ -1,0 +1,56 @@
+Logging started ...
+
+2019-06-26 16:05:12+0530 > 
+2019-06-26 16:05:33+0530 > <LAlt><Tab><LAlt><Tab><Up><Up><Up><Down><Tab><BckSp><BckSp><BckSp><BckSp>t<Tab>
+2019-06-26 16:05:46+0530 > <Up><Up>
+2019-06-26 16:05:47+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab>cd bu<Tab>
+2019-06-26 16:09:08+0530 > <LAlt><Tab><LAlt><Tab>
+2019-06-26 16:09:18+0530 > <LAlt><Tab><LAlt><Tab>
+2019-06-26 16:09:32+0530 > <LAlt><Tab><LAlt><Tab><LShft>MACHN<BckSp>INE= <BckSp><LAlt><Tab> bitbake <LAlt><Tab><LAlt><Tab>
+2019-06-26 16:14:28+0530 > <Up>
+2019-06-26 19:23:57+0530 > df -g<BckSp>h
+2019-06-27 05:54:44+0530 > df -h
+2019-06-27 05:55:21+0530 > cat /pro<Tab>mem<Tab>
+2019-06-27 05:55:27+0530 > <LCtrl>v<LCtrl>c
+2019-06-27 05:56:02+0530 > <LAlt><Tab><Tab><LCtrl>v
+2019-06-27 05:56:19+0530 >  <RShft>"am335x<RShft>" <RShft>Yocto
+2019-06-27 05:56:38+0530 > <LCtrl><LCtrl>v<Home><RShft>How to <Right><Right><Right><Right><Right><Right><Right>e<Del><Del><Del><Del><Del><Del><Right><#+12> in <RShft>Linux<Del><Del><Del><Del><#+14>
+2019-06-27 06:00:16+0530 > <LCtrl><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LCtrl><LAlt><Tab><LAlt><Tab>df
+2019-06-27 06:02:23+0530 > <LAlt><Tab><LCtrl>c
+2019-06-27 06:02:48+0530 > <LAlt><Tab>cd /mn<Tab>
+2019-06-27 06:02:52+0530 > ls
+2019-06-27 06:02:53+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><Up><Up><Down><Down><Down><LAlt><Tab><LAlt><Tab><BckSp><BckSp><BckSp><BckSp>2048<LAlt><Tab><BckSp><BckSp><BckSp><BckSp>4096
+2019-06-27 06:05:00+0530 > zs10062013
+2019-06-27 06:05:04+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><Tab><LAlt><Tab><LShft><BckSp><#+24><BckSp><BckSp>
+2019-06-27 06:05:57+0530 > <LAlt><Tab><LAlt><Tab>
+2019-06-27 06:06:10+0530 > <LAlt><Tab><LAlt><Tab>vim <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>
+2019-06-27 06:06:31+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab>cd /w<BckSp>s<Tab><Tab><BckSp><BckSp><LAlt><LAlt><Tab><LAlt><Tab><Down><Down><Down><#+11><Down><Down><Right>imnt/<LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><RShft><Esc><RShft>:wq<RShft>!
+2019-06-27 06:07:40+0530 > <RShft>:wq<RShft>!
+2019-06-27 06:07:42+0530 > y<RShft>:q
+2019-06-27 06:07:46+0530 > <RShft>:q<RShft>!
+2019-06-27 06:07:48+0530 > <Up><Home>sudo 
+2019-06-27 06:07:51+0530 > <Down><#+13><Down><Right>imnt/<Esc><#+1><RShft>"<Esc><#+3><RShft>:wq<RShft>!
+2019-06-27 06:08:01+0530 > 
+2019-06-27 06:08:02+0530 > 
+2019-06-27 06:08:02+0530 > 
+2019-06-27 06:08:02+0530 > 
+2019-06-27 06:08:02+0530 > <LAlt><Tab><LAlt><Tab><Down><Up><Up><Up><Up><Up><Up><Up><Down><Down><Down><Down><Home><RShft>#
+2019-06-27 06:08:28+0530 > <Up><Up><Up><Up><Up><Left><#+70><RShft>#
+2019-06-27 06:08:35+0530 > <Up><Up><Up><Left><#+25><RShft>#
+2019-06-27 06:08:39+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Left><#+19><RShft>#
+2019-06-27 06:08:45+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Left><#+75><RShft>#
+2019-06-27 06:08:53+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down><Left><#+17><RShft>#
+2019-06-27 06:09:00+0530 > <LAlt><Tab><Tab><Tab><LCtrl>v<LShft><Home><Del><Down><LShft><Right><#+31><Right><Right><Del><Down><LShft><Right><#+31><Right><Del><Down><LShft><Right><#+32><Del><Down><LShft><Right><#+33><Left><Del><Down><LShft><Right><#+18><Right><#+19><Right><Right><Del><LShft><End><LCtrl>x<Up><Up><Up><Up><Up><Up>
+2019-06-27 06:09:37+0530 > <Up><LCtrl>v<Down><Down><Down><Down><Down><Down><Up><LShft><End><LCtrl>x<Up><Up><Up><Up>
+2019-06-27 06:09:41+0530 > <Up><LCtrl>v<Down><Down><Down><Down><LShft><Down><Left><LCtrl>x<Up><Up>
+2019-06-27 06:09:48+0530 > <Up><LCtrl>v<Down><Down><LShft><Down><Left><LCtrl>x<Up>
+2019-06-27 06:09:51+0530 > <Up><LCtrl>v<Esc><RShft>:w<RShft>!
+2019-06-27 06:10:01+0530 > <BckSp><BckSp><BckSp><BckSp><BckSp><LCtrl>s<RShft>Zau<BckSp>id<RShft>Yoctobuild
+2019-06-27 06:10:15+0530 > <LAlt><Tab>pwd
+2019-06-27 06:10:21+0530 > <LAlt><Tab><Up><Up><Up><Up><Home>
+2019-06-27 06:10:28+0530 > 
+2019-06-27 06:10:28+0530 > <Up><LCtrl>v<LCtrl>ssss<LAlt><Tab><Tab><RShft>Eroro<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><RShft>Yocto<RShft>Error<RShft>Log
+2019-06-27 06:11:11+0530 > 
+
+Logging stopped at 2019-06-27 06:11:43+0530
+
