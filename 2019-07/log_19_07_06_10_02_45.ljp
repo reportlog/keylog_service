@@ -1,0 +1,43 @@
+Logging started ...
+
+2019-07-06 10:02:45+0530 > zs<KP1><KP0><KP0><KP6><KP2><KP0><KP1><KP3>
+2019-07-06 10:06:52+0530 > yahoo mail
+2019-07-06 10:08:24+0530 > ni<BckSp><BckSp><LShft>Nit<#+1>ish<LShft>@22nadrush<LShft>@zumisolutions.com<Right><Left><Left><Right>structure pointer
+2019-07-06 10:27:31+0530 > <Down><Down><Down><Down><Down><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LShft>Current status of <LShft>Lock<LAlt><Tab><LAlt><Tab>char<Tab><LShft>Non-<BckSp><BckSp><BckSp><BckSp><BckSp><LShft>Volatil<Right>1 <Tab>1/<BckSp><BckSp><BckSp>l/<LShft>U<Left><Left><Right><Right><Left><Left><BckSp><LShft>L<Tab><LShft>Lock<Tab>--<LShft>NA--<Tab><LShft>Stat<BckSp><BckSp><BckSp><BckSp><LShft>Current <LShft>Status of <LShft>Lock wheather its locked <BckSp><BckSp><#+11><BckSp> is locked <BckSp>/<LShft>Unlocked
+2019-07-06 10:38:55+0530 > <Up><Left><#+3><Left><Left><Left><Left><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LCtrl>z<Tab><LAlt><Tab><LAlt><Tab><LShft>Accelorometer <LShft>Feedback<LAlt><Tab><LAlt><Tab><Tab><LAlt><Tab><LAlt><Tab>char<LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><Left><Right><Right><Left><Left><Right><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LShft>V<BckSp><BckSp><LShft>Volatile<Tab>1 byte<Tab><LAlt><Tab><LAlt><Tab><LShft><LShft>L<Tab><LAlt><Tab><LAlt><Tab><Up><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><Down><Up><Left><Left><Right><Right><Left><Left><Left><Left><Right><Right><Right><Right><Down><Up><Left><Left><Left><Right><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LShft>Current battery <LAlt><Tab><LAlt><Tab><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>possition of <LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><Left><Left><Left><Right><Right><Right><Left><LAlt><Tab><LAlt><Tab><BckSp><Right><#+13><LAlt><Tab><LAlt><Tab><BckSp><#+13><BckSp><BckSp>battery level<Tab>int <LAlt><Tab><LAlt><Tab><Tab>v<Tab>4<Tab>86<LShft>%<Tab><Tab><LShft>Lock<Tab>--<BckSp><BckSp>-<Tab><LShft>Current battery status of lock tobe <Left><Left><Left> <Left><Right><Right><Right> stored in the <LShft>Volatile memory of lock<Left><Left><Left>
+2019-07-06 11:20:05+0530 > <Left><Left><Left><Left><Left><Left><Up><Down><Right><LAlt><Tab><LAlt><Tab><LShft>Source<Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab>int<Tab><LShft>V<Tab><Tab><Left><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab>4<Tab><Tab><Tab><Tab><LShft>I<BckSp><LShft>US<LShft>B or battery operate
+2019-07-06 11:22:02+0530 > <Up><Right><Right><Right><Right><Left><Right>d<Down>
+2019-07-06 11:22:14+0530 > <Left><Left><Left><Up><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LShft>Low-<LShft>Battery<Tab>int<Tab><LAlt><Tab><LAlt><Tab><Left>char<Tab><LAlt><Tab><LAlt><Tab><LShft>Vola<Tab>zs<KP1><KP0><KP0><KP6><KP2><KP0><KP1><KP3>
+2019-07-06 11:29:44+0530 > <Down><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><Tab><LShft>Lock<Tab>--<Tab><Tab><Tab>batt<BckSp><BckSp><BckSp><BckSp><BckSp><LShft>Low battery leb<BckSp>vel is to be stored 
+2019-07-06 11:36:12+0530 > <Left><Up><Left><Left><Left><Left><Left><Right><Right><Right><Right>1<Tab><Left><Left><Left>int<Tab><Tab><Tab>82<Tab><KP1><BckSp><KP9><Tab><LShft>Lock<Tab><Left><Left><Left><Left><Up><Left>10<BckSp><BckSp><BckSp><Del><Down><Up>u<BckSp><LShft>U/<LShft>B<LCtrl>s<LCtrl>ss<F2><Down><BckSp><BckSp><BckSp>
+2019-07-06 11:40:31+0530 > <LAlt><Tab><LAlt><Tab><Tab><LAlt><LAlt><Tab><LShft>Lock<KP-><KP-><LShft>NA<Tab><Left><KP-><KP-><Tab><LShft>Dor<BckSp>r<BckSp>or <LAlt><Tab><LAlt><Tab><LAlt><Tab>gmail
+2019-07-06 11:42:20+0530 > <LAlt><Tab><BckSp><BckSp><BckSp><BckSp><BckSp><LShft>Acce<LCtrl><LCtrl>c
+2019-07-06 11:43:55+0530 > <BckSp><#+11><LCtrl>v feedback of lock motor<LCtrl>s<LCtrl>sss<LCtrl>s<Del><F2><Left><BckSp><BckSp><BckSp>
+2019-07-06 11:46:13+0530 > n<BckSp>vithalvin<BckSp><#+15>v<BckSp>vithalvinaya<LShft>@22payslipzs<KP1><KP0><KP0><KP6><KP2><KP0><KP1><KP3>
+2019-07-06 15:01:19+0530 > zs<KP1><KP0><KP0><KP6><KP2><KP0><KP1><KP3>
+2019-07-06 15:33:24+0530 > google drive
+2019-07-06 15:45:07+0530 > zs<KP1><KP0><KP0><KP6><KP2><KP0><KP1><KP3>
+2019-07-06 15:45:47+0530 > <Esc><Pause><LCtrl>z<LCtrl>z<LCtrl>z<LCtrl><LMeta><#+2>l6<F2>zs<KP1><KP0><KP0><KP6><KP2><KP0><KP1><KP3>
+2019-07-06 17:27:04+0530 > zs<KP1><KP0><KP0><KP6><KP2><KP0><KP1><KP3>
+2019-07-06 17:27:11+0530 > <LCtrl>vzs<KP1><KP0><KP0><KP6><KP2><KP0><KP1><KP3>
+2019-07-06 17:44:14+0530 > <Del>nnnnnpp<BckSp><BckSp><BckSp><Del><LCtrl>v<KP2><KP4><KP2><KP8><KP/><BckSp><BckSp><BckSp><KP0><KP2><KP/><KP0><KP8><BckSp><KP6><KP/><KP1><KP9><Tab><KP0><KP3><KP/><KP0><KP6><KP/><KP1><KP9><Tab><KP0><KP2><KP/><KP0><KP6><KP/><KP1><KP9><Tab><KP0><BckSp><LCtrl>c
+2019-07-06 17:48:19+0530 > <LCtrl>v<Esc><LShft>Done<Tab>100<Tab><LShft>Nitish<Tab>1
+2019-07-06 17:48:40+0530 > <Left><Up><KP5><KP0><LShft><LAlt><Tab><Left><Right><LShft>In<BckSp><BckSp><BckSp><LShft>U<LShft>ART programming <BckSp><#+13><BckSp><LShft>Import <BckSp><#+8><BckSp><BckSp>d<BckSp>config in <LShft>contre<BckSp>oller v<BckSp>board
+2019-07-06 17:53:15+0530 > <Left><KP2><KP6><BckSp><KP5><Tab><LShft>Audio driver integratio<BckSp><#+10><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>working test through<BckSp><#+14><BckSp><#+11>testinf<BckSp><BckSp> <BckSp>ng in controller<Tab><KP8><KP0><Tab><KP1><KP0><BckSp><BckSp><BckSp>partila<BckSp>al<Tab><KP8><KP0>partial<Tab><KP1><BckSp><KP8><KP0><KP0><BckSp><Tab><LShft>N<Tab>2<Tab><KP0><KP4><KP/><KP0><KP6><KP/><KP1><KP9><Tab><KP0><KP5><KP/><KP0><KP6><KP/><KP1><KP9><Tab><LCtrl>c
+2019-07-06 17:55:00+0530 > <LCtrl>v<LCtrl>c
+2019-07-06 17:55:03+0530 > <LCtrl>v<KP2><KP6><Tab><LShft>Config <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LShft>Con<BckSp><BckSp><BckSp><LShft>Data<Tab><LShft>Strus<BckSp>ctue <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LShft>Data structure of memory storage<Tab><LShft>Done<Tab><KP1><KP0><KP0><Tab><LShft>Ni<Tab><KP1><LShft>`<Tab><KP1><Tab><KP0><KP6><KP/><KP0><KP6><KP/><KP1><KP9><Tab><LCtrl>c
+2019-07-06 17:56:52+0530 > <LCtrl>v<LCtrl>v<LCtrl>v<Esc><LCtrl>c
+2019-07-06 17:57:05+0530 > <LCtrl>v<LCtrl>c
+2019-07-06 17:57:38+0530 > <LCtrl>v<LCtrl>c
+2019-07-06 17:57:49+0530 > <LCtrl>v<LCtrl>v<LCtrl>c
+2019-07-06 17:58:08+0530 > <LCtrl>v<LCtrl>v<LCtrl>c
+2019-07-06 17:58:21+0530 > <LCtrl>v<LCtrl>v<LCtrl>v<LCtrl>v<Left><BckSp><KP5><Left><BckSp><KP5><LCtrl><LCtrl>s<KP1><KP9>
+2019-07-06 17:58:50+0530 > <KP2><KP0>
+2019-07-06 17:58:52+0530 > parto<BckSp>ial
+2019-07-06 17:59:07+0530 > partial<Tab><KP1><KP0><KP0><BckSp><BckSp><BckSp><KP8><KP0><KP8><KP0><LShft>S<Tab><LShft>S<Tab><KP2><KP2><LCtrl>s<KP2><KP1><Tab><LShft>data<Right><Left><BckSp><BckSp><BckSp><BckSp>review<Tab><LShft>Done<Tab>100<Tab><LShft>S<Tab>1<Tab>06<KP/><KP0><KP6><KP/><KP1><KP9><Tab><KP0><KP6><KP/><KP0><KP6><KP/><KP1><KP9><Tab><KP0><KP6><KP/><KP0><KP6><KP/><KP1><KP2><Tab><KP0><KP6><KP/><KP0><KP6><KP/><KP1><KP9><Right><BckSp><BckSp><KP1><KP9><Tab><LCtrl>s<Left><Left>
+2019-07-06 18:01:24+0530 > 
+2019-07-06 18:01:24+0530 > 
+2019-07-06 18:01:24+0530 > 
+
+Logging stopped at 2019-07-06 18:02:05+0530
+
