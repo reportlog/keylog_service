@@ -1,0 +1,141 @@
+Logging started ...
+
+2019-07-11 10:01:09+0530 > zs10062013
+2019-07-11 10:02:43+0530 > cd sr<Tab>
+2019-07-11 10:03:07+0530 > vim sigk<BckSp><#+17>ls
+2019-07-11 10:03:16+0530 > vim sigkll.c
+2019-07-11 10:03:31+0530 > i<LShft>#include <RShft><><Left>stdlib.h<Right>
+2019-07-11 10:03:44+0530 > <LShft>#include<RShft><><Left>stdio.hh<Right>
+2019-07-11 10:04:01+0530 > <LShft>#include<RShft><><Left>signal.h<Right>
+2019-07-11 10:04:15+0530 > 
+2019-07-11 10:04:16+0530 > int main<RShft>()
+2019-07-11 10:04:22+0530 > <RShft>{
+2019-07-11 10:04:23+0530 >   kill<RShft>()<Left>-i<BckSp>1,<LShft>SIGKILL<Right>;
+2019-07-11 10:04:40+0530 > <RShft>}<Esc><RShft>:wq
+2019-07-11 10:04:43+0530 > gcc si<Tab>-o si<Tab><BckSp><BckSp><BckSp>
+2019-07-11 10:04:56+0530 > ./si<Tab>
+2019-07-11 10:05:01+0530 > zs10062013
+2019-07-11 10:05:15+0530 > ps
+2019-07-11 10:05:26+0530 > top
+2019-07-11 10:05:34+0530 > <Esc><RShft>:wq
+2019-07-11 10:06:02+0530 > <Esc><Esc><LCtrl>c
+2019-07-11 10:06:04+0530 > 
+2019-07-11 10:06:06+0530 > 
+2019-07-11 10:06:06+0530 > 
+2019-07-11 10:06:06+0530 > 
+2019-07-11 10:06:06+0530 > cd sr<Tab>
+2019-07-11 10:06:31+0530 > vim shell.c
+2019-07-11 10:06:39+0530 > i<LShft>#include <RShft><><Left>stdio.h<Left><Esc>yypp<Up><Right><#+19><Left><Left>i<BckSp><BckSp>lib<Down><Left><Left><Right><BckSp><BckSp><Left><Left><Left>uni<Right><Right><Right><Right><Right><Right>
+2019-07-11 10:07:45+0530 > 
+2019-07-11 10:07:45+0530 > void breakout<RShft>()
+2019-07-11 10:08:08+0530 > <RShft>{
+2019-07-11 10:08:10+0530 >  system<RShft>();l<BckSp><Left><Left><RShft>""<Left>/bin/sh<Right><Right><Right>
+2019-07-11 10:08:43+0530 > <RShft>}
+2019-07-11 10:08:52+0530 > 
+2019-07-11 10:08:52+0530 > void function<RShft>()
+2019-07-11 10:09:01+0530 > <RShft>{
+2019-07-11 10:09:02+0530 >  void <LShft>*p;
+2019-07-11 10:09:10+0530 >  printf<RShft>();<Left><Left><RShft>""<Left>function<RShft>()code stsr<BckSp><BckSp>arts at <LShft>Address <LShft>%p\n<Right>,function<Left><Esc>yypp<Up><Up><Right><#+17><Down><Left><Left><Left><Left><Left><Left><Left><Left>i<Del><Del><Del><Del><Del><#+17><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><LShft>Address of stsck variables<Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Left><Left><Left><Left><Del><Del><Del><Del><Del><Del><Del><Del><LShft>&p<Down><Left><#+14><Left><Left><Left><Left><#+9><Left><Left><#+16><Left><Del><#+23><Del><Del><Del><Del><Del><Del><Del><Del>something that looks like a return address on stsck<Right><Right><Right><Right><Right><Right><Right><Del><Del><Del><Del><Del><Del><Del><Del><LShft>*<RShft>((<RShft>)<Left><LShft>&p<Right><RShft>+2<RShft>)<Right><Right>
+2019-07-11 10:12:48+0530 > 
+2019-07-11 10:12:49+0530 >   <LShft>*<RShft>(()<Left><LShft>&p<Right><LShft>+2<RShft>)<Right>=breakou;
+2019-07-11 10:13:20+0530 > <RShft>}
+2019-07-11 10:13:23+0530 > 
+2019-07-11 10:13:23+0530 > <Up><Up><Right><#+6><Up><Right><#+18>t<Down><Down><Down>int main<RShft>()
+2019-07-11 10:13:59+0530 > <RShft>{
+2019-07-11 10:14:00+0530 > 
+2019-07-11 10:14:01+0530 >   printf<RShft>(<RShft>);<Left><Left><RShft>""<Left>main<RShft>() code sts<BckSp>arts at address <LShft>%p\n<Right>,main<Right><Right>
+2019-07-11 10:14:32+0530 >   function<RShft>();p
+2019-07-11 10:14:40+0530 >   <BckSp><BckSp><BckSp><BckSp>
+2019-07-11 10:14:45+0530 >   return 0;
+2019-07-11 10:14:53+0530 > <RShft>}<Esc><RShft>:wq
+2019-07-11 10:14:57+0530 > gcc sg<BckSp>h<Tab>-o sh<Tab><BckSp><BckSp><BckSp>
+2019-07-11 10:15:08+0530 > ./sh<Tab>
+2019-07-11 10:15:11+0530 > <LCtrl><LShft>Tcd 
+2019-07-11 10:16:19+0530 > cd <LShft>Down<Tab><LShft>Lo<Tab><LShft>Li<Tab>o<Tab><Tab><Tab><Tab>4<Tab><Tab><Tab><Tab><Tab><Tab><Tab>
+2019-07-11 10:16:39+0530 > cd s<BckSp><BckSp><BckSp><BckSp>vim sc<Tab>c<Tab>o<Tab><Tab><BckSp><Tab><Tab><BckSp><BckSp><Left><#+10><Left><Left><BckSp><BckSp><BckSp><BckSp>cd 
+2019-07-11 10:17:26+0530 > ls
+2019-07-11 10:17:28+0530 > vim ext<Tab>-c<Tab>.<Tab>
+2019-07-11 10:17:57+0530 > <Down><#+15><Down><#+4><Esc><RShft>:q
+2019-07-11 10:18:04+0530 > c ..
+2019-07-11 10:18:08+0530 > <LCtrl>c
+2019-07-11 10:18:09+0530 > cd ..
+2019-07-11 10:18:11+0530 > ls
+2019-07-11 10:18:12+0530 > cd ar<Tab>ar<Tab>m/bo<Tab>
+2019-07-11 10:18:53+0530 > ls
+2019-07-11 10:18:55+0530 > cd ../../..
+2019-07-11 10:18:59+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up>
+2019-07-11 10:19:16+0530 > <Up><Up><Up><Up><Up><Up><Up><Up>
+2019-07-11 10:19:19+0530 > <Esc><RShft>:q
+2019-07-11 10:19:29+0530 > <LShft><Ins><LCtrl><LShft>c
+2019-07-11 10:19:44+0530 > <LCtrl>v file not found
+2019-07-11 10:20:04+0530 > <Up><Up><Up>
+2019-07-11 10:22:29+0530 > <Down><Down><Down><Down><#+13><Up><Up><Down><Up><Right><Right><Esc>yy<Up><Up><Up><Up><Up><Up><Up>i<Right>
+2019-07-11 10:22:41+0530 > <Up><Esc>p<Right><#+17>i<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>breakout<Right><#+33><Right><Right><BckSp><#+12>,breakout<Esc><RShft>:e<BckSp>wq
+2019-07-11 10:23:07+0530 > <Up><Up><Up>
+2019-07-11 10:23:09+0530 > <Up><Up><Up>
+2019-07-11 10:23:11+0530 > vim lseek.c
+2019-07-11 10:24:13+0530 > i<LShft>#iclude<RShft><><Left>stdio.h<RCtrl><RCtrl><Left><#+14><Left>n<Esc>yyp<Right><#+16><Left><BckSp><BckSp><BckSp><BckSp><BckSp>i<Del><Del><Del><Del><Del>fcntl<Right><Right><Right>
+2019-07-11 10:24:49+0530 > 
+2019-07-11 10:24:49+0530 > int main<RShft>()
+2019-07-11 10:24:54+0530 > <RShft>{
+2019-07-11 10:24:55+0530 > 
+2019-07-11 10:24:56+0530 >  int fd = open<RShft>()<Left><RShft>""<Left>hello.txt<Right>,<LShft>O<RShft>_<LShft>WRONLY<RShft>|<LShft>O<RShft>-<LShft>CREAT<RShft>|<LShft>O<RShft>_<LShft>TRUNC,0666<Right>;
+2019-07-11 10:25:46+0530 >  write<RShft>()<Left>fd,hello,5<Left><Left><RShft>"<Left><#+12><Right><Right><RShft><RShft>"<Right><#+10><Right><Right><Right>;
+2019-07-11 10:26:10+0530 >   <Left>lseek<RShft>()<Left>fd,1000,<LShft>SEEK<RShft>_<LShft>END<Right>;
+2019-07-11 10:27:32+0530 >  write<RShft>();<Left><Left>fd,<RShft>"<#+2><RShft>"<Left>bye<Right>,3<Right><Right>
+2019-07-11 10:27:50+0530 >  close<RShft>();<Left><Left>fd<Right><Right>
+2019-07-11 10:28:01+0530 >  return 0;
+2019-07-11 10:28:05+0530 > <RShft>}<Esc><RShft>:wq
+2019-07-11 10:28:17+0530 > gcc ls<Tab>-o l<Tab>s<Tab><BckSp><BckSp><BckSp>
+2019-07-11 10:28:27+0530 > ./ls<Tab>
+2019-07-11 10:28:43+0530 > <Up><Up><Up>
+2019-07-11 10:28:47+0530 > <Esc><RShft>:q
+2019-07-11 10:28:58+0530 > <Up><Down><Up><Up><Up><Down>
+2019-07-11 10:29:08+0530 > zs10062013
+2019-07-11 15:11:50+0530 > <BckSp>zs10062013
+2019-07-11 16:33:26+0530 > <LMeta><#+7>lzs10062013
+2019-07-11 16:41:33+0530 > <LAlt><Tab><LAlt><Tab>nn<BckSp>n<LCtrl>s<LAlt><F4>zs10062013
+2019-07-11 17:11:56+0530 > <LShft>BME<Down>
+2019-07-11 17:12:36+0530 > s<BckSp>zs10062013
+2019-07-11 17:37:14+0530 > <LMeta><#+17>lzs10062013
+2019-07-11 18:25:54+0530 > <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LCtrl><LShft>Tdmesg
+2019-07-11 18:28:20+0530 > lsusb
+2019-07-11 18:28:31+0530 > <Up><Up>
+2019-07-11 18:28:37+0530 > <Up>
+2019-07-11 18:28:43+0530 > <Up>
+2019-07-11 18:28:47+0530 > <Up> -c
+2019-07-11 18:28:50+0530 > <Up>
+2019-07-11 18:28:54+0530 > <Up><Up>
+2019-07-11 18:28:56+0530 > <Up>
+2019-07-11 18:29:09+0530 > <Up>
+2019-07-11 18:29:11+0530 > <Up>
+2019-07-11 18:29:12+0530 > <Up><Up><Home>sudo 
+2019-07-11 18:29:20+0530 > zs<KP1><KP0><KP0><KP6><KP2><KP0><KP1><KP3>
+2019-07-11 18:29:24+0530 > <Up><Left><Right>
+2019-07-11 18:29:29+0530 > <Up><Up><Up><Up><Up><Down><Down><Down><Down>
+2019-07-11 18:29:39+0530 > <Up><Up>
+2019-07-11 18:29:46+0530 > <Up>
+2019-07-11 18:29:48+0530 > <Up>
+2019-07-11 18:32:24+0530 > <LCtrl>c
+2019-07-11 18:32:31+0530 > sudo minicom -s
+2019-07-11 18:33:43+0530 > <Down><Down>
+2019-07-11 18:33:45+0530 > a<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LShft><Ins><Ins><LShft>TT<BckSp><BckSp>tty<LShft>ACM0<Down>e<BckSp>
+2019-07-11 18:34:00+0530 > ee
+2019-07-11 18:34:04+0530 > 
+2019-07-11 18:34:05+0530 > <Down><Down><Down><Down><#+1><Down>
+2019-07-11 18:34:08+0530 > <LCtrl><LShft>Tcd
+2019-07-11 18:35:14+0530 > dmesg
+2019-07-11 18:35:19+0530 > zs<KP1><KP0><KP0><KP6><KP2><KP0><KP1><KP3>
+2019-07-11 18:56:14+0530 > how to boot <LShft>SM32<LShft>MPI<BckSp>157<LShft>A-<LShft>DK1
+2019-07-11 18:56:50+0530 >  in linux
+2019-07-11 18:56:57+0530 > <Del><LShft>User guide
+2019-07-11 18:57:31+0530 > <Del>
+2019-07-11 18:57:44+0530 > 
+2019-07-11 19:14:22+0530 > <Del><Right><BckSp>
+2019-07-11 19:14:29+0530 > <BckSp><BckSp><BckSp><BckSp>
+2019-07-11 19:14:36+0530 > <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><RShft>P
+2019-07-11 19:14:45+0530 > <LShft>T<Down><Down> <Down> user <Down>
+2019-07-11 19:14:57+0530 > 
+
+Logging stopped at 2019-07-11 19:15:21+0530
+
