@@ -1,0 +1,19 @@
+Logging started ...
+
+2019-07-12 05:38:50+0530 > <LCtrl>sudo min<BckSp><#+15>dmesg
+2019-07-12 07:53:51+0530 > sudo dmesg<BckSp><BckSp><BckSp><BckSp><BckSp>minicom -s
+2019-07-12 07:54:00+0530 > zs10062013
+2019-07-12 07:54:05+0530 > <Down><Down><Down><Down><Down><Down><Down>
+2019-07-12 07:54:07+0530 > root
+2019-07-12 07:55:25+0530 > 
+2019-07-12 07:55:26+0530 > 
+2019-07-12 07:55:27+0530 > 
+2019-07-12 07:55:27+0530 > 
+2019-07-12 07:55:27+0530 > cd /u<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>ls
+2019-07-12 07:55:38+0530 > 
+2019-07-12 07:55:38+0530 > 
+2019-07-12 07:55:38+0530 > cd /us<Tab>s<Tab><Tab>h<Tab>a<BckSp>q<Tab><Tab><Tab><Tab>t<Tab>o<BckSp><Tab>fi<Tab>
+2019-07-12 07:55:51+0530 > 
+
+Logging stopped at 2019-07-12 07:55:51+0530
+
