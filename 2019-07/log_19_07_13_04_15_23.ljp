@@ -1,0 +1,96 @@
+Logging started ...
+
+2019-07-13 16:15:23+0530 > sudo minicom
+2019-07-13 16:17:22+0530 > <LShft>zs10062013
+2019-07-13 16:17:26+0530 > root
+2019-07-13 16:17:32+0530 > reboot
+2019-07-13 16:17:34+0530 > 
+2019-07-13 16:17:37+0530 > 
+2019-07-13 16:17:38+0530 > 
+2019-07-13 16:17:39+0530 > 
+2019-07-13 16:17:39+0530 > 
+2019-07-13 16:17:39+0530 > pr<Tab>boota<Tab>r<Tab><Tab><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>m<Tab><#+1>c<BckSp>mca<Tab>r<Tab>
+2019-07-13 16:17:58+0530 > pr<Tab>
+2019-07-13 16:18:03+0530 > reset
+2019-07-13 16:19:06+0530 > root
+2019-07-13 16:19:28+0530 > reboot
+2019-07-13 16:19:31+0530 > root
+2019-07-13 16:36:43+0530 > cd /
+2019-07-13 16:36:44+0530 > 
+2019-07-13 16:36:44+0530 > cat /pr<Tab>cm<Tab><#+2>
+2019-07-13 16:36:48+0530 > reboot
+2019-07-13 16:37:00+0530 > 
+2019-07-13 16:37:05+0530 > pr<Tab>mm<Tab><#+1>b<Tab><#+2>
+2019-07-13 16:37:10+0530 > pr<Tab>mm<Tab>a<Tab>r<Tab>
+2019-07-13 16:37:17+0530 > pr<Tab>mm<Tab>r<Tab>
+2019-07-13 16:37:26+0530 > <Down>pr<Tab>pr<Tab>print<Tab>printen<Tab><Up><BckSp><BckSp><BckSp><BckSp><BckSp>args
+2019-07-13 16:38:46+0530 > printenv mmcboot
+2019-07-13 16:38:58+0530 > reset<BckSp><#+16>reset<BckSp><#+17>reset<BckSp><#+17>reset<BckSp><#+15>reset<BckSp><#+17>reset<BckSp><#+18>reset<BckSp><#+20>reset<BckSp><#+22><BckSp><BckSp><BckSp>reset<BckSp><#+14>
+2019-07-13 16:39:24+0530 > 
+2019-07-13 16:39:24+0530 > 
+2019-07-13 16:39:24+0530 > mmc boot
+2019-07-13 16:40:04+0530 > us<Tab><Tab>
+2019-07-13 16:40:08+0530 > <LCtrl>c
+2019-07-13 16:54:31+0530 > cd <RShft><Ins>
+2019-07-13 16:54:37+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><#+12><Up><#+10><Up><#+9><Up><#+10><Up><#+2><Up><Up><Up><Up><Up><Down><Down><Down><Down><Down><Down><Up><Down><BckSp><BckSp><#+13>cd 
+2019-07-13 16:59:44+0530 > ls
+2019-07-13 16:59:47+0530 > cd 2<Tab>
+2019-07-13 16:59:52+0530 > ls
+2019-07-13 16:59:55+0530 > cd gi<Tab>
+2019-07-13 17:00:01+0530 > 
+2019-07-13 17:00:04+0530 > 
+2019-07-13 17:00:05+0530 > ls
+2019-07-13 17:00:07+0530 > 
+2019-07-13 17:02:03+0530 > 
+2019-07-13 17:02:04+0530 > vino
+2019-07-13 17:02:57+0530 > <Left><Left><Right><Right><RShft>_13<RShft>_07<LCtrl>a<LCtrl>c
+2019-07-13 17:06:08+0530 > <LCtrl>a<LCtrl>v<LCtrl>s<Up>
+2019-07-13 17:06:21+0530 > `<Esc>`<LCtrl>a<LCtrl>c
+2019-07-13 17:07:58+0530 > <LCtrl>a<LCtrl>v<LCtrl>s<LCtrl>c
+2019-07-13 17:09:54+0530 > <LCtrl>f<Up>
+2019-07-13 17:10:29+0530 > cd 
+2019-07-13 17:13:42+0530 > 
+2019-07-13 17:13:43+0530 > 
+2019-07-13 17:13:46+0530 > 
+2019-07-13 17:13:46+0530 > ls
+2019-07-13 17:13:49+0530 > cd git
+2019-07-13 17:13:53+0530 > ls
+2019-07-13 17:13:55+0530 > grep <RShft>"<RShft>" -r <RShft>*<Left><#+10><Left><Left><Left><RShft><Ins><Down><Up><Up><Up><Up><Down><BckSp><#+11>grep <RShft>"<RShft>" -r <RShft>*<Left><#+11><Left><Right> <Left><#+13><Left><Left><Left><Left><Left><Left><Left><Left><BckSp>
+2019-07-13 17:14:58+0530 > vim 
+2019-07-13 17:15:57+0530 > 
+2019-07-13 17:16:03+0530 > <Down><#+10><Down><#+24><Down><#+14><Down><#+15><Down><#+2><Down><#+12><Down><#+6><Down><Down><#+12><Down><#+14><Down><#+10><Down><Down><#+17><Down><#+6><Down><#+16><Down><#+18><Down><#+10><Down><#+12><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgUp><#+15><PgUp><#+1><PgUp><PgUp><PgUp><PgUp><PgDn><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><Home>
+2019-07-13 17:21:47+0530 > <Left>
+2019-07-13 17:21:53+0530 > 
+2019-07-13 17:21:53+0530 > <Up><Up><#+14>
+2019-07-13 17:21:57+0530 > /<RShft>*<Down><#+13><Down><RShft>*/<Up><#+10><Up><Up><Up><Up><Up><Up><Down>
+2019-07-13 17:22:06+0530 > 
+2019-07-13 17:22:07+0530 > 
+2019-07-13 17:22:07+0530 > <Down><Up><Left><#+10><Left><BckSp>1<Down><BckSp>1<Down><Right><BckSp>1<Down><BckSp>1<Down><Left><Left><BckSp>1<Down><BckSp>1<Down><BckSp>1<Down><BckSp>1<LCtrl>s<Up>
+2019-07-13 17:23:20+0530 > /<RShft>* zumi-<RShft>M <RShft>*/<Down><#+11><Down><Down><#+2><Down><Down>
+2019-07-13 17:23:56+0530 > 
+2019-07-13 17:23:57+0530 > <LCtrl>c
+2019-07-13 17:24:47+0530 > <LCtrl>f
+2019-07-13 17:25:26+0530 > /<RShft>*
+2019-07-13 17:25:31+0530 > <RShft>*/
+2019-07-13 17:25:35+0530 > <LCtrl>s<Del><LCtrl>z
+2019-07-13 17:26:53+0530 > <Up>/8<RShft><BckSp><RShft>*
+2019-07-13 17:27:07+0530 > 
+2019-07-13 17:27:08+0530 > <RShft>*/<BckSp><BckSp><LCtrl>zzzzzzzz
+2019-07-13 17:27:18+0530 > 
+2019-07-13 17:27:21+0530 > 
+2019-07-13 17:27:22+0530 > /<RShft>*
+2019-07-13 17:27:29+0530 > <RShft>*/
+2019-07-13 17:27:36+0530 > /<RShft>*
+2019-07-13 17:27:42+0530 > <RShft>*/<LCtrl>s<Up>
+2019-07-13 17:28:13+0530 >  t4260
+2019-07-13 17:31:12+0530 > <BckSp><#+9><BckSp><BckSp><CpsLk>T460<BckSp><BckSp>260RDB
+2019-07-13 17:31:35+0530 >  QORIQ
+2019-07-13 17:31:43+0530 > <BckSp><#+10><BckSp><Right><BckSp>
+2019-07-13 17:31:50+0530 > <BckSp><#+10><BckSp><BckSp><BckSp><BckSp>
+2019-07-13 17:31:58+0530 >  UBOOT
+2019-07-13 17:33:19+0530 > <Down>IFC<RShft>+NOR FLASH <RShft>+QORIQ
+2019-07-13 17:35:37+0530 > <PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgUp>G
+2019-07-13 17:36:17+0530 > GPCM
+2019-07-13 17:36:21+0530 > <Down><Down><#+14><Down><#+14><PgDn><PgDn><PgDn><PgDn><PgDn><Up><#+5><Up><Up><Up><PgDn><PgUp><PgUp><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgUp><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><Down><#+11><Down><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><RShft>p<BckSp>PLEASE<BckSp><BckSp><BckSp><BckSp><BckSp><CpsLk>lease find attached u-boot.<BckSp><RShft>(<RShft>).the memory map t4240
+2019-07-13 17:41:27+0530 >  li<Down>
+2019-07-13 17:41:58+0530 > <RShft><CpsLk>M<BckSp><CpsLk>meerasa
