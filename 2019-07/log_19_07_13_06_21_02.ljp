@@ -1,0 +1,407 @@
+Logging started ...
+
+2019-07-13 18:21:02+0530 > zumisolutions.com<CpsLk><CpsLk><CpsLk>M<CpsLk>eera<LShft><RShft>_12<LShft>@<LShft>#<LCtrl>c
+2019-07-13 18:21:51+0530 > <LCtrl>fsudo minicom
+2019-07-13 18:26:24+0530 > zs10062013
+2019-07-13 18:26:28+0530 > root
+2019-07-13 18:26:33+0530 > reboot
+2019-07-13 18:26:35+0530 > 
+2019-07-13 18:26:39+0530 > 
+2019-07-13 18:26:39+0530 > 
+2019-07-13 18:26:39+0530 > setenv -f mmcroot /dev/mmcblk1p2 rootwait rw fbcon=rotate<LShft>:1<LShft><Home><LCtrl>c
+2019-07-13 18:27:15+0530 > c
+2019-07-13 18:27:16+0530 > c
+2019-07-13 18:27:16+0530 > 
+2019-07-13 18:27:22+0530 > printe<Tab>
+2019-07-13 18:27:25+0530 > boot
+2019-07-13 18:27:35+0530 > root
+2019-07-13 18:27:48+0530 > cd /
+2019-07-13 18:27:50+0530 > cat /pr<Tab>c,\\<BckSp><BckSp><BckSp>m<Tab><#+1>
+2019-07-13 18:27:56+0530 > echo 1 <LShft>> /sy<Tab>v\<BckSp><BckSp>cl<Tab>fbc<Tab><#+1>o<Tab><Tab>\<BckSp><BckSp><BckSp><BckSp><BckSp>gr<Tab>fbco<Tab>/r<Tab><#+1>
+2019-07-13 18:28:23+0530 > <Up><Left><#+35><Left><BckSp>0
+2019-07-13 18:28:27+0530 > reboot
+2019-07-13 18:28:31+0530 > 
+2019-07-13 18:28:36+0530 > <LShft><Ins>
+2019-07-13 18:28:37+0530 > run<BckSp><BckSp><BckSp><BckSp><BckSp>boot
+2019-07-13 18:28:47+0530 > 
+2019-07-13 18:29:29+0530 > root
+2019-07-13 18:29:30+0530 > rebooy
+2019-07-13 18:29:32+0530 > reboot
+2019-07-13 18:29:34+0530 > <LShft>
+2019-07-13 18:29:39+0530 > <LShft><Ins><BckSp>2
+2019-07-13 18:29:43+0530 > booy<BckSp>t
+2019-07-13 18:29:47+0530 > root
+2019-07-13 18:30:00+0530 > una<Tab><Tab>m<Tab><#+2>
+2019-07-13 18:30:04+0530 > <Up> -a
+2019-07-13 18:30:07+0530 > 
+2019-07-13 18:31:05+0530 > 
+2019-07-13 18:31:06+0530 > reboot
+2019-07-13 18:31:07+0530 > 
+2019-07-13 18:31:12+0530 > <LShft><Ins>
+2019-07-13 18:31:15+0530 > saveenv
+2019-07-13 18:31:17+0530 > rese<#+1>t
+2019-07-13 18:31:20+0530 > 
+2019-07-13 18:31:22+0530 > pr<Tab>mmcr<Tab>
+2019-07-13 18:31:25+0530 > <LShft><Ins>
+2019-07-13 18:31:28+0530 > boot
+2019-07-13 18:31:39+0530 > root
+2019-07-13 18:31:52+0530 > cd /
+2019-07-13 18:31:54+0530 > ls
+2019-07-13 18:31:54+0530 > cd b<Tab><Tab>o<Tab><#+2>
+2019-07-13 18:31:58+0530 > ls
+2019-07-13 18:31:59+0530 > 
+2019-07-13 18:32:42+0530 > 
+2019-07-13 18:32:42+0530 > 
+2019-07-13 18:32:42+0530 > 
+2019-07-13 18:32:42+0530 > cp /r<Tab>m<Tab>e<Tab><Tab><#+1>sd<Tab>z<Tab>/boz<Tab>\<BckSp><BckSp><Tab>z<Tab>-<Tab><Tab><#+1>\<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>
+2019-07-13 18:33:01+0530 > ls
+2019-07-13 18:33:03+0530 > <Up><Up>
+2019-07-13 18:33:07+0530 > ls
+2019-07-13 18:33:09+0530 > ls =l<BckSp><BckSp>-l
+2019-07-13 18:33:14+0530 > md5s<Tab> z<Tab>-<Tab>
+2019-07-13 18:33:23+0530 > /\\\md5s<Tab>\\<#+2><BckSp><#+24>md5s<Tab> /r<Tab>me<Tab>sd<Tab><#+1>z<Tab>
+2019-07-13 18:33:40+0530 > xc\<BckSp><BckSp><BckSp>cd /
+2019-07-13 18:33:44+0530 > reboot
+2019-07-13 18:33:45+0530 > 
+2019-07-13 18:33:50+0530 > 
+2019-07-13 18:33:50+0530 > <LShft><Ins>
+2019-07-13 18:33:53+0530 > boot
+2019-07-13 18:33:56+0530 > root
+2019-07-13 18:34:10+0530 > cd /
+2019-07-13 18:34:11+0530 > rebooot<BckSp><BckSp>t
+2019-07-13 18:34:14+0530 > 
+2019-07-13 18:34:18+0530 > 
+2019-07-13 18:34:19+0530 > mmcl<Tab><#+2>o<Tab><Tab><BckSp><BckSp><Tab><Tab> dev 1
+2019-07-13 18:34:28+0530 > mmc<Tab><BckSp><BckSp><BckSp>lo<Tab><#+1>a<Tab>
+2019-07-13 18:34:36+0530 > load mmc 1<LShft>:2 0x80800000 /boot/z<LShft>Image
+2019-07-13 18:35:00+0530 > loa<Up>\<#+5><BckSp><#+22><BckSp><BckSp><BckSp>3000000 /boot/imx6sl-evk.dtb
+2019-07-13 18:35:21+0530 > <Up><BckSp><#+16><BckSp><BckSp><BckSp><BckSp><#+39>los\<BckSp><BckSp><BckSp><BckSp>run loaf<BckSp>dfdt
+2019-07-13 18:35:40+0530 > findfdt
+2019-07-13 18:35:44+0530 > run findfdt
+2019-07-13 18:35:50+0530 > <Up><Up><Up>
+2019-07-13 18:35:52+0530 > <Up><Up><Up><Up><Up><Down><#+26><LShft><Ins>
+2019-07-13 18:36:07+0530 > run mmcar<Tab><#+1>
+2019-07-13 18:36:11+0530 > bootz 0x80800000 - 0x83000000
+2019-07-13 18:36:23+0530 > <KP0><RShft>:q
+2019-07-13 18:37:56+0530 > <CpsLk><CpsLk>grep <RShft>"<RShft>" -r <RShft>*<Left><#+11><CpsLk>CCSR
+2019-07-13 18:38:38+0530 > <CpsLk><CpsLk>PFA<Up><Left><#+11><Left><BckSp><BckSp><BckSp><BckSp><CpsLk><CpsLk>81F0001B
+2019-07-13 19:21:13+0530 > 
+2019-07-13 19:21:24+0530 > <Up>
+2019-07-13 19:21:25+0530 > G
+2019-07-13 19:21:44+0530 > LOCAL ACCESS <BckSp><BckSp><#+22><CpsLk>local access window creat<Down> for nxp i.mx
+2019-07-13 19:22:26+0530 > <BckSp><BckSp><BckSp><BckSp>qoriq
+2019-07-13 19:22:37+0530 > 
+2019-07-13 19:24:18+0530 > 
+2019-07-13 19:24:18+0530 > root
+2019-07-13 19:24:22+0530 > cd /
+2019-07-13 19:24:24+0530 > reboot
+2019-07-13 19:24:25+0530 > 
+2019-07-13 19:24:31+0530 > <LShft><Ins>
+2019-07-13 19:24:39+0530 > boot
+2019-07-13 19:24:41+0530 > root
+2019-07-13 19:24:55+0530 > cd /
+2019-07-13 19:24:57+0530 > cat /pr<Tab>cm<Tab><#+1>
+2019-07-13 19:24:59+0530 > cd /
+2019-07-13 19:25:02+0530 > reboot
+2019-07-13 19:25:04+0530 > 
+2019-07-13 19:25:08+0530 > 
+2019-07-13 19:25:10+0530 > findfdt<Left><#+17>run 
+2019-07-13 19:25:17+0530 > loa<BckSp><BckSp><BckSp>run load<Tab>fd<Tab>
+2019-07-13 19:25:24+0530 > mmc dev 1
+2019-07-13 19:25:27+0530 > load mmx<BckSp>c 1<LShft>:2 0x9<BckSp>80800000 boot/z<LShft>Image
+2019-07-13 19:25:47+0530 > <LShft><Ins>
+2019-07-13 19:25:50+0530 > boot<BckSp><BckSp><BckSp><BckSp>run mmcar<Tab>
+2019-07-13 19:26:01+0530 > bootz 0x80800<BckSp>0000 - 0x83000000
+2019-07-13 19:26:15+0530 > root
+2019-07-13 19:26:36+0530 > df
+2019-07-13 19:26:53+0530 > cd /r<Tab>m<Tab><#+2>e<Tab>ad<Tab><#+2><BckSp><BckSp>sd<Tab><#+2>
+2019-07-13 19:27:05+0530 > ls
+2019-07-13 19:27:06+0530 > cd <BckSp><BckSp><BckSp><BckSp>cd /bo<Tab>
+2019-07-13 19:27:32+0530 > ls
+2019-07-13 19:27:33+0530 > ls -l
+2019-07-13 19:27:57+0530 > c<BckSp><BckSp><BckSp><BckSp>ls -<BckSp><BckSp><BckSp><BckSp><BckSp>cd -
+2019-07-13 19:28:20+0530 > ls -l
+2019-07-13 19:28:23+0530 > cd <BckSp><BckSp>df
+2019-07-13 19:28:44+0530 > c<BckSp><BckSp>df
+2019-07-13 19:28:46+0530 > c d/ru<Tab>\\\<RCtrl><BckSp><#+19>cd /run<Tab>me<Tab>mm<Tab>
+2019-07-13 19:28:59+0530 > ls
+2019-07-13 19:29:00+0530 > cp /r<Tab>me<Tab>sd<Tab>z<Tab>z<Tab>
+2019-07-13 19:29:14+0530 > sync
+2019-07-13 19:29:16+0530 > cd /
+2019-07-13 19:29:19+0530 > 
+2019-07-13 19:29:20+0530 > 
+2019-07-13 19:29:20+0530 > sync
+2019-07-13 19:29:21+0530 > reboot
+2019-07-13 19:29:23+0530 > 
+2019-07-13 19:29:27+0530 > <LShft><Ins><BckSp>\<BckSp><#+17><LShft><LShft><End><LCtrl>c
+2019-07-13 19:29:39+0530 > <LAlt><Tab><LShft><Ins>
+2019-07-13 19:29:42+0530 > boot
+2019-07-13 19:29:44+0530 > root
+2019-07-13 19:29:59+0530 > wd<Tab><BckSp><#+21>df
+2019-07-13 19:30:02+0530 > mount
+2019-07-13 19:30:08+0530 > cat /pr<Tab>par<Tab><#+3>
+2019-07-13 19:30:31+0530 > 
+2019-07-13 19:30:37+0530 > 
+2019-07-13 19:30:37+0530 > df
+2019-07-13 19:30:38+0530 > df
+2019-07-13 19:30:42+0530 > cd /r<Tab>me<Tab>mm<Tab><#+2>
+2019-07-13 19:30:50+0530 > ls
+2019-07-13 19:30:51+0530 > cd /
+2019-07-13 19:31:00+0530 > 
+2019-07-13 19:31:01+0530 > 
+2019-07-13 19:31:01+0530 > 
+2019-07-13 19:31:01+0530 > ffb<LShft>_rotate.txt
+2019-07-13 19:32:33+0530 > <LCtrl><LShft>Tcd /
+2019-07-13 19:35:56+0530 > ssh zumi<LShft>@192.168.1.40
+2019-07-13 19:36:19+0530 > yes
+2019-07-13 19:36:21+0530 > zs10062013
+2019-07-13 19:36:25+0530 > cd bu<Tab><#+1><Tab>
+2019-07-13 19:36:28+0530 > ls
+2019-07-13 19:36:29+0530 > cd tm<Tab><#+2><BckSp><#+21>cd ..
+2019-07-13 19:36:35+0530 > ls
+2019-07-13 19:36:36+0530 > cd bu<Tab><#+3>
+2019-07-13 19:36:47+0530 > s<BckSp>ls
+2019-07-13 19:36:49+0530 > cd ..
+2019-07-13 19:36:55+0530 > ;l<BckSp><BckSp><BckSp>ls
+2019-07-13 19:36:57+0530 > cd /h<Tab><Tab>
+2019-07-13 19:37:01+0530 > ls
+2019-07-13 19:37:02+0530 > cd <BckSp><BckSp><BckSp>./f<Tab><#+3>s<Tab><BckSp><#+21><LCtrl>rfsl<LCtrl>rrrr
+2019-07-13 19:37:20+0530 > <LCtrl><LShft>ls
+2019-07-13 19:37:25+0530 > cd tm<Tab>w<Tab>/<Tab><Tab>im<Tab>u<Tab><Tab><Tab><Tab>gi<Tab><#+2>
+2019-07-13 19:37:41+0530 > ls
+2019-07-13 19:37:41+0530 > git status
+2019-07-13 19:37:44+0530 > vim in<Tab><#+1>xon<BckSp><BckSp><BckSp>con<Tab>s<BckSp>f<Tab>s<Tab>f<Tab><#+1><Tab><BckSp>i<Tab><Tab>m<Tab><#+1><Tab>x<Tab><Tab>6<Tab><Tab><BckSp><#+32>grep imx6sl-evk <LShft>* -r
+2019-07-13 19:38:26+0530 > vim <LShft><Ins><BckSp><Tab><#+1>
+2019-07-13 19:38:39+0530 > <LMeta><Esc>/imx6sl-evk
+2019-07-13 19:38:47+0530 > <Up><#+49><Up><#+19><Up><#+16><Down><#+19><Right><#+13><Left><Left> <Left><Ins> fbcon=rotate<LShft>:1<Esc><#+5><Esc><Esc><Esc><Esc><Esc><LShft>:wq<LShft>!
+2019-07-13 19:39:17+0530 > git status
+2019-07-13 19:39:20+0530 > gt<BckSp>it diff <LShft><Ins>
+2019-07-13 19:39:26+0530 > <Up>\
+2019-07-13 19:39:27+0530 > <LCtrl>c
+2019-07-13 19:39:28+0530 > <Up><BckSp><BckSp>
+2019-07-13 19:39:30+0530 > cd ../../..
+2019-07-13 19:39:38+0530 > cd ..
+2019-07-13 19:39:39+0530 > ls
+2019-07-13 19:39:40+0530 > cd ../..
+2019-07-13 19:39:42+0530 > ls
+2019-07-13 19:39:42+0530 > <LCtrl>bitbake -c clean im<BckSp><BckSp>linux-imx -f
+2019-07-13 19:40:05+0530 > 
+2019-07-13 19:40:10+0530 > 
+2019-07-13 19:40:10+0530 > <LCtrl>v<Up>
+2019-07-13 19:40:51+0530 > <LCtrl>c
+2019-07-13 19:41:06+0530 > cd w<Tab><BckSp>tm<Tab><#+2><Tab>w<Tab><Tab>/<Tab><Tab>im<Tab><Tab>l<Tab><Tab>i<Tab><#+1><Tab>nu<Tab><Tab><Tab>
+2019-07-13 19:41:28+0530 > ls
+2019-07-13 19:41:29+0530 > cd gi<Tab><#+3>
+2019-07-13 19:41:31+0530 > ;s
+2019-07-13 19:41:31+0530 > ls
+2019-07-13 19:41:32+0530 > vim ar<Tab><BckSp><#+20>cd ..
+2019-07-13 19:41:39+0530 > cd bu<Tab>
+2019-07-13 19:41:41+0530 > s<BckSp>\<BckSp>ls
+2019-07-13 19:41:43+0530 > vim .con<Tab>
+2019-07-13 19:41:47+0530 > /<LShft>ROTATE
+2019-07-13 19:41:50+0530 > /<LShft>ROTA
+2019-07-13 19:41:54+0530 > n
+2019-07-13 19:42:06+0530 > 
+2019-07-13 19:42:07+0530 > <LCtrl>v<LShft>:q<Tab>
+2019-07-13 19:42:13+0530 > cd ../../../..
+2019-07-13 19:42:17+0530 > <#+1>cd ../..
+2019-07-13 19:42:20+0530 > s<BckSp>ls
+2019-07-13 19:42:21+0530 > cd ../s<Tab>p<BckSp>m<Tab><#+1>f<Tab><Tab><BckSp><#+29>cd -
+2019-07-13 19:42:34+0530 > cd im<Tab><#+1><Tab>l<Tab>i<Tab><#+2><BckSp><BckSp><Tab><Tab>lin<Tab><#+1>
+2019-07-13 19:42:41+0530 > ls
+2019-07-13 19:42:41+0530 > cd <Tab>
+2019-07-13 19:42:42+0530 > s
+2019-07-13 19:42:43+0530 > <BckSp>ls
+2019-07-13 19:42:44+0530 > cd <BckSp><BckSp><BckSp><BckSp><BckSp>cd ../../../..
+2019-07-13 19:42:55+0530 > cd ../../so<Tab><#+2>
+2019-07-13 19:42:58+0530 > find . -name <LShft><Ins>
+2019-07-13 19:43:02+0530 > <LCtrl>cd m<Tab><#+1>f<Tab>s<Tab>b<Tab><#+1><BckSp>im<Tab>m<Tab>r<Tab>\<BckSp>\<BckSp><BckSp>bs<Tab>r<Tab>l<Tab>\<BckSp><BckSp>j<BckSp>k<Tab><Tab>l<Tab><#+1>/f<Tab>
+2019-07-13 19:43:25+0530 > ls
+2019-07-13 19:43:26+0530 > cd ..
+2019-07-13 19:43:28+0530 > ls
+2019-07-13 19:43:28+0530 > cd li<Tab><#+2>
+2019-07-13 19:43:36+0530 > ls
+2019-07-13 19:43:36+0530 > cd ..
+2019-07-13 19:43:38+0530 > ls
+2019-07-13 19:43:40+0530 > cd <BckSp><BckSp><BckSp><BckSp>vi im<Tab><BckSp><BckSp><#+15>ls
+2019-07-13 19:43:45+0530 > cd <BckSp><BckSp><BckSp><BckSp>vim li<Tab><#+2><LShft>_<Tab>88<Tab><#+3>
+2019-07-13 19:44:01+0530 > <LShft>:q<Tab>
+2019-07-13 19:44:35+0530 > cd ../../../..
+2019-07-13 19:44:46+0530 > <#+1>cd ..
+2019-07-13 19:44:48+0530 > ls
+2019-07-13 19:44:49+0530 > cd ..
+2019-07-13 19:44:50+0530 > cd bu<Tab>
+2019-07-13 19:44:51+0530 > ls
+2019-07-13 19:44:51+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down><Left><#+18><Right><BckSp><BckSp><BckSp><BckSp><BckSp>menuconfig
+2019-07-13 19:45:08+0530 > <Up><Left><#+18><Down><#+10><KP-><#+9><F3><F3><F3><F2>3<F3><F2>3<F2><F1><Up><Left><#+10><Left><Left><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><RShft><Ins>
+2019-07-13 19:54:43+0530 >  <#+1>uboot
+2019-07-13 19:58:02+0530 > <BckSp>nand 
+2019-07-13 20:00:06+0530 > <Up><Left><#+10><Left><Left><BckSp><BckSp><BckSp>law.c
+2019-07-13 20:01:28+0530 > <Up><BckSp><#+28>locate law.c
+2019-07-13 20:01:39+0530 > <LCtrl><LCtrl>la<Up><Up><Down><BckSp><BckSp><BckSp><BckSp><BckSp><RShft><Ins><RShft><Ins><BckSp><#+19>find 
+2019-07-13 20:08:02+0530 > <Up><Left><#+11><Left><Left><Left><Left>/
+2019-07-13 20:08:10+0530 > <Up><Left><#+9><Left><Left><BckSp><BckSp><BckSp><BckSp><BckSp>
+2019-07-13 20:08:16+0530 > <Up><Left><#+10><BckSp><#+13>locate 
+2019-07-13 20:08:25+0530 > <LCtrl>c
+2019-07-13 20:08:34+0530 > <Up><Down><Up><BckSp><#+22><Up><Up><Up><Up><Up><Up><Down><Left><#+10><Left><BckSp><BckSp><BckSp><BckSp><BckSp><RShft><Ins>
+2019-07-13 20:10:17+0530 > <Up><Left><#+10><Left><BckSp><#+11><BckSp><BckSp><BckSp><BckSp>
+2019-07-13 20:10:23+0530 > <Up><Up><Left><#+10><Left><BckSp><#+10><BckSp>
+2019-07-13 20:10:38+0530 > <Up><Left><#+10><Left><BckSp><BckSp><BckSp>
+2019-07-13 20:10:44+0530 > <LCtrl>c
+2019-07-13 20:22:25+0530 > 
+2019-07-13 20:22:28+0530 > 
+2019-07-13 20:22:28+0530 > 
+2019-07-13 20:22:29+0530 > grep <RShft><RShft>""<Left><RShft><Ins><Home><LCtrl>c
+2019-07-13 20:22:37+0530 > 
+2019-07-13 20:22:37+0530 > 
+2019-07-13 20:22:37+0530 > 
+2019-07-13 20:22:37+0530 > 
+2019-07-13 20:22:37+0530 > <Up><Up><Left><BckSp><#+18><BckSp><BckSp><BckSp><BckSp><RShft><Ins><RShft>" <LShft>
+2019-07-13 20:22:47+0530 > <Up><Left><#+22><Left><Left><Left><Left><Left>-inr 
+2019-07-13 20:22:55+0530 > vim <RShft><Ins>
+2019-07-13 20:23:17+0530 > e<RShft>:63
+2019-07-13 20:23:22+0530 > <Down><Down><Down><Down><Up><Up><Up><Down><Down><Down><#+22><Down><#+27><Down><#+30><Down><Down><Down><Down><Down><Down><Down><Down>/<RShft><Ins>
+2019-07-13 20:23:43+0530 > <Down><Down><Down>/<RShft><Ins>
+2019-07-13 20:23:57+0530 > <Esc><RShft>:qw
+2019-07-13 20:23:58+0530 > <RShft>:q
+2019-07-13 20:24:00+0530 > 
+2019-07-13 20:24:00+0530 > 
+2019-07-13 20:24:00+0530 > cd boa<Tab>t<Tab><Tab><BckSp>fr<Tab>q<BckSp>tr<Ins><BckSp><Tab><BckSp><BckSp><Tab><Tab>4r<Tab>
+2019-07-13 20:24:15+0530 > ls
+2019-07-13 20:24:17+0530 > vim la<Tab>
+2019-07-13 20:24:20+0530 > <Esc><RShft>:q
+2019-07-13 20:25:41+0530 > <Up><LCtrl>a<Del><Del><Del>cp<End> /h<Tab><Tab>me<Tab><Tab><BckSp><BckSp><LShft>Doc<Tab><Tab><Tab><Tab>qme<Tab><Tab>l<Tab><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>.
+2019-07-13 20:26:07+0530 > <Up><Up>
+2019-07-13 20:26:24+0530 > <Down><#+24><Down><Down><Down><RShft>:q
+2019-07-13 20:26:35+0530 > <LCtrl><LShft>Tcd<Up><Down> -
+2019-07-13 20:26:43+0530 > 
+2019-07-13 20:26:43+0530 > 
+2019-07-13 20:26:43+0530 > cd ../../
+2019-07-13 20:26:46+0530 > <Up><BckSp><BckSp><BckSp>
+2019-07-13 20:26:50+0530 > ls
+2019-07-13 20:26:51+0530 > cd conm<Tab><BckSp><BckSp><BckSp><BckSp>inc<Tab>vc<BckSp><BckSp>co<Tab>
+2019-07-13 20:26:59+0530 > vim <LShft>T4<Tab><LShft>RF<Tab><BckSp><Tab>
+2019-07-13 20:27:05+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><Up>
+2019-07-13 20:28:17+0530 > /<RShft><Ins>
+2019-07-13 20:28:26+0530 > <RShft>/<RShft><Ins>
+2019-07-13 20:28:27+0530 > <RShft>:q
+2019-07-13 20:28:30+0530 > grep -inr <RShft>""<Left><RShft><Ins><Esc><Up><Up>
+2019-07-13 20:28:38+0530 > /<Up><BckSp>
+2019-07-13 20:28:41+0530 > /<RShft><Ins><BckSp>
+2019-07-13 20:28:57+0530 > /<Up><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><BckSp><BckSp><BckSp><BckSp><LShft>NVRAM
+2019-07-13 20:29:10+0530 > <PgDn>/<Up><Up>
+2019-07-13 20:29:17+0530 > <Esc><RShft>:q
+2019-07-13 20:29:21+0530 > 
+2019-07-13 20:29:22+0530 > 
+2019-07-13 20:29:23+0530 > grep -=<BckSp><BckSp>- i<BckSp><BckSp>ion<BckSp><BckSp>nr <RShft>""<Left><RShft><Ins><BckSp><Right> <LShft><Left><#+22><Left><Left><Left><Left><Left><Left><Left><Left><Left><Del><#+22><Del><Del><Del><Del><Del><Del><LShft>NVRAM<Right> <LShft>*
+2019-07-13 20:29:46+0530 > i<Down><Down><Down><#+26><Down><Right><#+17>
+2019-07-13 20:30:20+0530 > 
+2019-07-13 20:30:20+0530 > 
+2019-07-13 20:30:20+0530 > 
+2019-07-13 20:30:20+0530 > <Up><Up><RShft><Ins><Up><Up><Right><Del><#+18><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><RShft><Ins><Down><Left><#+16><Left><Left><Left><Left><Left><Right><Left><Del><#+23><Del><Del><Del><Del><Del><RShft><Ins><Esc><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><Tab><LAlt><Tab><LAlt><Tab><Tab><Tab><LAlt><Tab><LAlt><Tab><Esc><LCtrl>l
+2019-07-13 20:32:23+0530 > 
+2019-07-13 20:32:23+0530 > <Up><Up>
+2019-07-13 20:32:25+0530 > /<RShft><Ins><BckSp>
+2019-07-13 20:32:27+0530 > <LAlt><Tab>`<LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab>
+2019-07-13 20:33:06+0530 > <#+14><KP0><LAlt><Tab>/<Up><Up>/<Up><Up><Up><Up><Up><Up><Down><Down><Down><Down><Down><Up><Down><Down><Up><Down>/<RShft><Ins><LCtrl>c
+2019-07-13 20:33:47+0530 > 
+2019-07-13 20:33:48+0530 > /<Up><Left><#+28><Left><Del>
+2019-07-13 20:33:52+0530 > <LAlt><Tab><LAlt><Tab><Down>i
+2019-07-13 20:34:01+0530 > 
+2019-07-13 20:34:01+0530 > <Up><Up><Up><Esc><Up><Down><Down><Down>i<RShft><Ins><Up><Up><Up><Down><Right><#+16><Up><Left><Left><Left><Left><Del><End><Left><#+32><Left><Left><Left><Del><#+16><Del><Del><Del><Del><Del><Del><Del><Del><Del><RShft><Ins><BckSp><Tab><Down><Right><Right><#+21><Left><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><RShft><Ins>i<Left><Left><Left><#+44><Left><Left><Left><Left><Left><BckSp><#+22><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp> <RShft><Ins><BckSp><BckSp><BckSp><BckSp><LShft>PHYS<Up><BckSp><BckSp><BckSp><BckSp><BckSp><Tab><Tab><Del><Del><Del><Down><Up><Del><#+11><Del><Del><Del><Del><Del><Down><Right><#+40><Del><End><Del><Left><Left><Left><#+7><Left><Left><Left><Del><Del><Del><Del><Del><Esc><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><Tab><Esc><RShft>:wq
+2019-07-13 20:37:38+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down><Down><Down><Down>\<BckSp><#+24>grep -inr <RShft>""
+2019-07-13 20:37:50+0530 > <LCtrl>c
+2019-07-13 20:37:51+0530 > <Up><Left><RShft><Ins><BckSp><BckSp><BckSp><BckSp><BckSp><RShft><Ins><BckSp><Right> <LShft>*
+2019-07-13 20:38:18+0530 > 
+2019-07-13 20:38:19+0530 > 
+2019-07-13 20:38:19+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><Tab><LAlt><Tab><Up><Up><Up>
+2019-07-13 20:39:20+0530 > /<Up><Up><Down><Up><Up><Up><Down>
+2019-07-13 20:39:25+0530 > <LAlt><Tab>g
+2019-07-13 20:40:17+0530 > <LShft>NVRAM base address in <LShft>T4240
+2019-07-13 20:40:27+0530 > rd<LCtrl>b
+2019-07-13 20:41:32+0530 > <LCtrl>f<LShft>IFC <LShft>Address <LShft>Mapp<BckSp><BckSp><BckSp><BckSp><BckSp>
+2019-07-13 20:43:06+0530 > 
+2019-07-13 20:43:07+0530 > 
+2019-07-13 20:43:07+0530 > 
+2019-07-13 20:43:08+0530 > 
+2019-07-13 20:43:08+0530 > 
+2019-07-13 20:43:08+0530 > <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>
+2019-07-13 20:43:13+0530 > 
+2019-07-13 20:43:13+0530 > <LCtrl>alaw<LCtrl> menvram<LShft>CPLD<LCtrl>a<LShft>NOR g
+2019-07-13 20:46:36+0530 > <LShft>IFC <LShft>Address mapping in t4240rdb
+2019-07-13 20:46:47+0530 >  <Tab><LAlt><Tab><LCtrl>asystem meo<BckSp><BckSp>emory map<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LCtrl>f<LShft>system me<LAlt><Tab><LAlt><Tab><LAlt><Tab><Tab><Tab><Tab><Tab><LAlt><Tab><LAlt><Tab><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><Tab><LAlt><Tab><LAlt><Tab><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LCtrl>fnvram
+2019-07-13 20:51:25+0530 > <LAlt><Tab><LAlt><Tab>
+2019-07-13 20:51:40+0530 > 
+2019-07-13 20:51:45+0530 > 
+2019-07-13 20:51:45+0530 > 
+2019-07-13 20:51:48+0530 > 
+2019-07-13 20:51:50+0530 > 
+2019-07-13 20:51:50+0530 > 
+2019-07-13 20:51:50+0530 > <LCtrl>c
+2019-07-13 20:51:55+0530 > <LCtrl>v
+2019-07-13 20:52:00+0530 > <LAlt><Tab><LAlt><Tab><Esc>/<Up><Up><Up><Up><Up><BckSp>
+2019-07-13 20:55:07+0530 > <Esc><RShft>:q
+2019-07-13 20:55:12+0530 > 
+2019-07-13 20:55:13+0530 > 
+2019-07-13 20:55:13+0530 > 
+2019-07-13 20:55:14+0530 > 
+2019-07-13 20:55:14+0530 > grep -inr <RShft><Ins><RShft>" <LShft>*<Left><#+26><RShft>"
+2019-07-13 20:55:22+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LCtrl>a<LShft>F$00<BckSp><BckSp><BckSp>400<BckSp><#+15>lawcd
+2019-07-13 21:06:38+0530 > <#+15>cd <LShft>Doc<Tab><Tab><Tab><Tab>c<Tab>`<Tab><BckSp><#+25>g
+2019-07-13 21:06:54+0530 > codewarri<Down> for t4240rdb
+2019-07-13 21:07:03+0530 > <LCtrl>c
+2019-07-13 21:07:56+0530 > <LCtrl>l
+2019-07-13 21:07:59+0530 > 
+2019-07-13 21:07:59+0530 > loca<Tab>yt<BckSp><BckSp>t<Tab><RShft><Ins>
+2019-07-13 21:08:04+0530 > <LCtrl><LCtrl><LCtrl><LCtrl>c
+2019-07-13 21:08:26+0530 > cd
+2019-07-13 21:08:42+0530 > 
+2019-07-13 21:08:43+0530 > 
+2019-07-13 21:08:43+0530 > 
+2019-07-13 21:08:43+0530 > <RShft><Ins><BckSp><#+23><BckSp><BckSp>
+2019-07-13 21:08:46+0530 > 
+2019-07-13 21:08:48+0530 > 
+2019-07-13 21:08:48+0530 > 
+2019-07-13 21:08:48+0530 > 
+2019-07-13 21:08:48+0530 > <Up><LCtrl>acd 
+2019-07-13 21:08:51+0530 > ls
+2019-07-13 21:08:52+0530 > 
+2019-07-13 21:08:53+0530 > 
+2019-07-13 21:08:53+0530 > 
+2019-07-13 21:08:53+0530 > vim <RShft><Ins>
+2019-07-13 21:09:20+0530 > e/<LAlt><Tab><LAlt><Tab><LAlt><Tab><LCtrl>c
+2019-07-13 21:09:34+0530 > <LAlt><Tab>/<RShft><Ins><RCtrl><Left><#+15><BckSp>
+2019-07-13 21:09:38+0530 > <Up><Up><Up><Up><Up><Up><Down><Down><Down><Up><#+35><Up><Up><Up><Down><Down><Down><#+36><Down><#+44><Down><Down><#+31>/<LShft>FPGS<BckSp><LShft>A
+2019-07-13 21:09:57+0530 > <RShft>:q
+2019-07-13 21:09:58+0530 > 
+2019-07-13 21:09:59+0530 > 
+2019-07-13 21:09:59+0530 > 
+2019-07-13 21:09:59+0530 > grep -ind <LShft><BckSp><BckSp>r <LShft>NVBRA<BckSp><BckSp><BckSp><LShft>RAM <LShft>*
+2019-07-13 21:10:11+0530 > 
+2019-07-13 21:10:11+0530 > 
+2019-07-13 21:10:12+0530 > <Up><Left><Left><#+11><RShft>"<Right><Right><Right><Right><Right><RShft>"
+2019-07-13 21:10:17+0530 > <Up><Left><Left><Left><Right><Left><BckSp><BckSp><BckSp><BckSp><BckSp><LShft>CPLD
+2019-07-13 21:10:22+0530 > 
+2019-07-13 21:10:23+0530 > 
+2019-07-13 21:10:23+0530 > <Up><Left><Left><Left><BckSp><BckSp><BckSp><BckSp><LShft>FPGA
+2019-07-13 21:10:32+0530 > 
+2019-07-13 21:10:33+0530 > 
+2019-07-13 21:10:33+0530 > <Up><Up><Up><Up><Up>
+2019-07-13 21:10:36+0530 > e<Right><#+4>/<Up>
+2019-07-13 21:10:39+0530 > /<Up><Up>
+2019-07-13 21:10:41+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><#+1><Up><Up><Up><Up><RShft>:q
+2019-07-13 21:10:53+0530 > <LAlt><Tab><Tab><LAlt><LAlt><Tab><LAlt><Tab><LCtrl>c
+2019-07-13 21:11:17+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><Tab><Tab><LAlt><Tab><LAlt><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Up><Up><Up><Down>
+2019-07-13 21:11:58+0530 > /<Up><Up><Up>
+2019-07-13 21:12:01+0530 > /<Up><Up><Up><Up>
+2019-07-13 21:12:05+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><Tab><Up><Left><Left><Left><Left><Del><Del><Del><Del><Del>i<Right><LShft>_PHY<Down><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><BckSp><BckSp><BckSp><BckSp><LShft>PHY<Right><#+13><Right><Right><Right><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><Tab><LAlt><Tab><Esc><Esc>/<RShft><Ins>
+2019-07-13 21:14:14+0530 > <Right><#+23><Up><Right><#+12>i        <RShft><Ins><BckSp><#+24><BckSp><BckSp><BckSp><BckSp><LAlt><Tab><LAlt><Tab><LShft>0xf8000000<Left><Left><Left><Left><Left><Left><Left><Left><Right><Esc><LShft>***<Down><#+38><Down><#+13><Up><#+10><Down><#+21><Up><#+71><Up><#+21><Up><#+16><LAlt><Tab><LAlt><Tab><Up><Up><Up><#+1><Up><#+23><Up><#+20><Up><#+21><Up><Up><Up><#+8><Up><#+17><Up><#+11><Up><Up><#+16><Up><#+12><LAlt><Tab><LAlt><Tab><Esc><Up><#+30><Up><#+39><Up><#+17><Up><Up><Up><Up><#+12><Up><#+15><Up><#+16><Down><#+58><Down><#+18><Down><#+32><Down><Down><Down><Down><Down><Down><Down><Down><Down><#+15><Down><Down><Down><Down><Down><Down><Down><#+10><Down><Down><RShft>:wq
+2019-07-13 21:16:46+0530 > 
+2019-07-13 21:17:06+0530 > <Up><Up><Down>
+2019-07-13 21:17:08+0530 > /<Up><Up>
+2019-07-13 21:17:11+0530 > <Up><Up>
+2019-07-13 21:17:25+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Up><Down><Up><Down>
+2019-07-13 21:18:36+0530 > <RShft>Please find attached u-boot<RShft>(<CpsLk>NVRAM ONLY ENABLED<RShft>).<Left><#+20><Left><Left><Left><Right><BckSp><#+16><LShft>qa<CpsLk> C<#+14><LShft>z<CpsLk><LShft><CpsLk><#+3>
+
+Logging stopped at 2019-07-14 05:36:58+0530
+
