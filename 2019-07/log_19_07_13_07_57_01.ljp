@@ -1,0 +1,63 @@
+Logging started ...
+
+2019-07-13 19:57:01+0530 > txt<Up><Up><Up><Up><Up><Up>/me<Tab>d<Tab><Tab><Tab><BckSp><BckSp><#+2><BckSp><BckSp><BckSp><BckSp><#+1><Down><Up><Up><Up><Up><Up><Up><Up><Up><Down><Down>
+2019-07-13 19:59:21+0530 > <LShft>rootfs<Up><Up><Up><Up><Up><Up><Up><Up><Down>
+2019-07-13 20:01:04+0530 > sudo tar -xvf <LShft>~/<LShft>BB<Tab><Tab><Tab>/<Tab><Tab>ti<Tab>bu<Tab>de<Tab><BckSp><BckSp>a<Tab>de<Tab>im<Tab>a<Tab>m<BckSp>ti<Tab>.<Tab>.
+2019-07-13 20:01:33+0530 > zs10062013
+2019-07-13 20:01:37+0530 > <BckSp><BckSp>sync
+2019-07-13 20:05:30+0530 > cd 
+2019-07-13 20:06:49+0530 > cd <BckSp><BckSp>d /me<Tab>z<Tab>r<Tab>
+2019-07-13 20:06:56+0530 > 
+2019-07-13 20:06:56+0530 > 
+2019-07-13 20:06:56+0530 > cd b<Tab><#+4>o<Tab><#+1>
+2019-07-13 20:06:59+0530 > ls
+2019-07-13 20:07:00+0530 > cp <LShft>~/<LShft>B<Tab><#+2>-r<Tab><Tab><Tab>bb<BckSp>bb<Tab><#+2>.
+2019-07-13 20:07:18+0530 > <#+1><Up><Home>sudo 
+2019-07-13 20:07:22+0530 > <Up><BckSp><#+13><BckSp><BckSp><BckSp><BckSp>nf<Tab><#+3>.
+2019-07-13 20:07:30+0530 > <#+1><Up><BckSp><#+14><BckSp><BckSp><BckSp><LShft>i<Tab><#+4><BckSp><#+32><BckSp>cd<BckSp>p <BckSp><BckSp><BckSp>mv b<Tab><#+2>../
+2019-07-13 20:07:47+0530 > <Up><Home>sudo 
+2019-07-13 20:07:51+0530 > <Up><Left><#+8><Left><BckSp><#+13><BckSp><BckSp><BckSp>nf<Tab><#+1>
+2019-07-13 20:08:00+0530 > sync
+2019-07-13 20:08:01+0530 > cd ..
+2019-07-13 20:08:05+0530 > <Up><Up><Up><Up><Up><Up><BckSp><#+13><BckSp><BckSp><BckSp><BckSp><BckSp><LShft>I<Tab><#+3>.
+2019-07-13 20:08:12+0530 > sync
+2019-07-13 20:08:14+0530 > cd bo<Tab><#+2>
+2019-07-13 20:08:16+0530 > <Up><Up><Up><BckSp><#+11><BckSp><BckSp>bo<Tab><Tab><Tab>in<Tab><#+3><LShft><LShft>~<BckSp>.
+2019-07-13 20:08:30+0530 > <#+1><Up><BckSp><#+23><BckSp><BckSp><BckSp><BckSp>s<BckSp><LShft>S<Tab><#+4>o<Tab><BckSp><LShft>O<Tab>.
+2019-07-13 20:08:40+0530 > <Up><BckSp><#+15><Tab><#+3>o<Tab><#+5>u<LShft>E<Tab><#+3>.
+2019-07-13 20:08:49+0530 > sync
+2019-07-13 20:08:51+0530 > <Up><Up><BckSp><#+10><BckSp><BckSp><BckSp><BckSp><BckSp>s<BckSp><LShft>Sy<Tab><#+3>.
+2019-07-13 20:09:02+0530 > sync
+2019-07-13 20:09:04+0530 > <#+2>
+2019-07-13 20:09:05+0530 > 
+2019-07-13 20:09:05+0530 > 
+2019-07-13 20:09:05+0530 > cd
+2019-07-13 20:09:06+0530 > cd -
+2019-07-13 20:10:44+0530 > <LAlt><Tab>
+2019-07-13 20:10:47+0530 > chmod <Tab><BckSp><#+20>cd ..
+2019-07-13 20:11:03+0530 > chmod <BckSp><#+16>ls -l
+2019-07-13 20:11:09+0530 > cd 
+2019-07-13 20:11:27+0530 > cd <LShft>B<Tab><Tab>-<Tab>
+2019-07-13 20:11:37+0530 > <Up><Up><Up>
+2019-07-13 20:11:39+0530 > cd b<Tab>o<Tab>
+2019-07-13 20:11:55+0530 > ls -l
+2019-07-13 20:11:57+0530 > xs <BckSp><BckSp>c<BckSp><BckSp>cd /me<Tab>z<Tab>r<Tab>b<Tab>o<Tab><Tab>
+2019-07-13 20:12:12+0530 > ls -l
+2019-07-13 20:12:14+0530 > cd -
+2019-07-13 20:12:50+0530 > cd dt<Tab>
+2019-07-13 20:12:53+0530 > ls -l
+2019-07-13 20:12:54+0530 > cd 4`<BckSp><Tab>
+2019-07-13 20:12:58+0530 > ls -l
+2019-07-13 20:13:00+0530 > cd /me<Tab>z<Tab>r<Tab>b<Tab>
+2019-07-13 20:13:15+0530 > o<Up><Tab>o<Tab><Tab>
+2019-07-13 20:13:19+0530 > ls -l
+2019-07-13 20:13:20+0530 > mkdir dtbs
+2019-07-13 20:13:25+0530 > <Up><Home>sudo 
+2019-07-13 20:13:29+0530 > mv <BckSp><#+14>cp <LShft>*.dtb<BckSp>b /d<Tab>t<Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><BckSp><#+11><BckSp><BckSp><BckSp><BckSp><BckSp>cd dt<Tab>
+2019-07-13 20:13:53+0530 > cp <LShft>*.dtb <BckSp><#+17>cp <LShft>../<LShft>*<BckSp><BckSp><BckSp><BckSp><LShft>~<BckSp>../<LShft>*.dtb<Tab><BckSp><BckSp><#+17><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LShft>*.dtb .
+2019-07-13 20:14:36+0530 > <Up><Home>sudo 
+2019-07-13 20:14:40+0530 > ls -l
+2019-07-13 20:14:44+0530 > cd <LShft>
+2019-07-13 20:14:54+0530 > umo<Tab> /me<Tab>
+2019-07-13 20:15:00+0530 >     <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>zs10062013
+2019-07-15 06:14:43+0530 > 
