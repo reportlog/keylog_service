@@ -1,0 +1,61 @@
+Logging started ...
+
+2019-07-18 11:27:43+0530 > <LCtrl>c
+2019-07-18 11:30:23+0530 > <LAlt><Tab><LAlt><Tab><LCtrl><LShft>Tsudo mini<Tab>com-s
+2019-07-18 14:22:55+0530 > zs10062013
+2019-07-18 14:22:59+0530 > <Up><Left><#+5><Left> 
+2019-07-18 14:23:03+0530 > <Down><Down><Down><Down><Down><Down><Down>
+2019-07-18 14:23:06+0530 > dmesg
+2019-07-18 14:23:14+0530 > <Up>
+2019-07-18 14:23:36+0530 > <Up><Up><Up><Down>
+2019-07-18 14:23:41+0530 > <Down><Down><Down><Down><Down><Down><Down>
+2019-07-18 14:23:44+0530 > <Up><Up>
+2019-07-18 14:23:47+0530 > <Up><Up>
+2019-07-18 14:23:58+0530 > <Down><#+9><Down><Down><Down>
+2019-07-18 14:24:00+0530 > <Up><Up>
+2019-07-18 14:24:37+0530 > <Up>
+2019-07-18 14:24:42+0530 > <Up>
+2019-07-18 14:24:46+0530 > <Up><Up><Down>
+2019-07-18 14:24:55+0530 > <Up>
+2019-07-18 14:25:02+0530 > <Up>
+2019-07-18 14:25:04+0530 > <Up>
+2019-07-18 14:25:05+0530 > <Up>
+2019-07-18 14:27:11+0530 > <Up><Up>
+2019-07-18 14:27:15+0530 > <Down><Down><Down><Down><Down><Down><Down>
+2019-07-18 14:27:18+0530 > <Up>
+2019-07-18 14:27:31+0530 > <Up><Up>
+2019-07-18 14:27:33+0530 > <Up><Up>
+2019-07-18 14:27:36+0530 > <Up>
+2019-07-18 14:27:38+0530 > <Up><Up>
+2019-07-18 14:27:45+0530 > <Up><Up>
+2019-07-18 14:27:46+0530 > sudo gp<Tab>a<Tab><Tab>r<Tab>
+2019-07-19 16:05:24+0530 > zs10062013
+2019-07-19 16:05:27+0530 > 700<LShft>BOOT<LShft>ROOT
+2019-07-19 16:06:37+0530 > 700<LShft>BII<BckSp><BckSp>OOT<LShft>ROOT<BckSp><BckSp><Home><Del>cd 
+2019-07-19 16:11:42+0530 > ls -l
+2019-07-19 16:11:45+0530 > tar -xvf ti<Tab>.<Tab>-<LShft>C /med<Tab>z<Tab><LShft>R<Tab><Tab><Tab><BckSp><Tab><Tab><Tab><LAlt><Tab><Tab><LShft>R<Tab><Home>sudo 
+2019-07-19 16:12:41+0530 > cp /med<Tab>z<Tab><Tab><Tab>0<Tab><LShft>2<Tab>u<Tab>/med<Tab>z<Tab><LShft>B<Tab><Tab><Tab>/<Tab><BckSp><#+10><BckSp><BckSp><BckSp><Tab><Tab><BckSp><#+11><BckSp><BckSp>
+2019-07-19 16:20:40+0530 > <Up><Home>sudo 
+2019-07-19 16:20:47+0530 > sudo cp /me<Tab>z<Tab>0<Tab>2<Tab><LShft>M<Tab>/me<Tab>z<Tab><LShft>B<Tab>/
+2019-07-19 16:23:16+0530 > sudo cp /med<Tab>z<Tab><LShft>)<Tab><BckSp>0<Tab>29<Tab>am<Tab>/med<Tab>z<Tab><LShft>R<Tab>b<Tab>o<Tab><Tab><Tab>am<BckSp><BckSp>
+2019-07-19 16:23:37+0530 > umo<Tab> /med<Tab><LShft>*
+2019-07-19 16:27:15+0530 > sudo gpar<Tab>
+2019-07-19 16:28:17+0530 > <LShft>ROOT
+2019-07-19 16:30:55+0530 > cp<BckSp>d /med<Tab>z<Tab><LShft><Tab><Tab><LShft>B<Tab><Tab><Tab><Tab>2<Tab><Tab>
+2019-07-19 16:35:07+0530 > ls
+2019-07-19 16:35:08+0530 > cd -
+2019-07-19 16:35:11+0530 > <Up><Up><Up><Up>
+2019-07-19 16:35:14+0530 > <LShft><Left><Right><Right><Right><Left><Left><Left><LShft><Right><Del><LAlt><Tab><Tab>umo<Tab> /,<BckSp>me<Tab>z<LShft><BckSp><LShft>BO<Tab><BckSp><BckSp><Tab><BckSp><BckSp>
+2019-07-19 16:36:15+0530 > <LAlt><Tab>cp /med<Tab>z<Tab>0<Tab><Tab><BckSp><Tab><Tab><Tab><LAlt><Tab><LAlt><Tab><Tab><Tab>0<Tab>2<Tab>u<Tab>/med<Tab>z<Tab><LShft>B<Tab><Tab><Tab>2<Tab>
+2019-07-19 16:39:20+0530 > cp /med<Tab>z<Tab>0<Tab>29<Tab><LShft>M<Tab>/med<Tab>z<Tab><LShft>B<Tab>2<Tab>
+2019-07-19 16:39:37+0530 > tar -<BckSp><#+13><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down>
+2019-07-19 16:39:49+0530 > sudo cp /med<Tab>z<Tab>0<Tab>2<Tab>am<Tab>/med<Tab>z<Tab><LShft>B<Tab><BckSp><BckSp><BckSp><BckSp><LShft>R<Tab>b<Tab>o<Tab>a<Tab><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><Tab><Tab>
+2019-07-19 16:52:58+0530 > sudo cp /med<Tab>z<Tab>0<Tab>29<Tab>z<Tab>/med<Tab>z<Tab><LShft>R<Tab>bo<Tab>
+2019-07-19 16:53:47+0530 > umo<Tab> .<BckSp>/med<Tab>z<BckSp><LShft>*
+2019-07-19 16:53:53+0530 > <Up><Up><Up><Up><Down><Up><Up><Up><Down>
+2019-07-19 17:12:37+0530 > <Up><Up><Up><Up><Up><Up><Up>
+2019-07-19 17:12:45+0530 > <Up><Up><Up>
+2019-07-19 17:12:49+0530 > 
+
+Logging stopped at 2019-07-20 10:24:54+0530
+
