@@ -1,0 +1,58 @@
+Logging started ...
+
+2019-07-20 10:01:18+0530 > zs10062013
+2019-07-20 10:26:14+0530 > sudo minicom
+2019-07-20 10:26:26+0530 > zs10062013
+2019-07-20 10:26:31+0530 > <Up><Up><Down> -s
+2019-07-20 10:26:35+0530 > <Down><Down><Down><Down><Down><Up><Up><Up>
+2019-07-20 10:26:38+0530 > a<BckSp><BckSp><BckSp><BckSp><LShft>ACM0e<BckSp>
+2019-07-20 10:26:47+0530 > ee
+2019-07-20 10:26:49+0530 > 
+2019-07-20 10:26:51+0530 > <Down><Down><Down>
+2019-07-20 10:26:52+0530 > <Down><Down>
+2019-07-20 10:26:56+0530 >  boot
+2019-07-20 10:27:20+0530 > 
+2019-07-20 10:27:52+0530 >  pri
+2019-07-20 10:28:06+0530 > <LCtrl>v<LAlt><Tab><LCtrl>v<LShft>printenvprintenv<LShft>Bootlog<RShft>_mine<F2><F2><F2><LCtrl><LShft>Tcd /me<Tab><Tab><Tab>b<Tab>
+2019-07-20 10:33:59+0530 > sudo mv u<Tab> u<Tab><RShft>_mine
+2019-07-20 10:34:10+0530 > zs10062013
+2019-07-20 10:34:14+0530 > <Up><BckSp><#+12><BckSp><BckSp><RShft>_<Tab>d<Tab>u<Tab><BckSp>
+2019-07-20 10:34:25+0530 > <Up><Left><#+6><Right><BckSp><#+21><BckSp><BckSp>st<Tab>a<Tab> s<Tab>t<Tab>a<Tab><RShft>_<Left><Right>mine
+2019-07-20 10:34:48+0530 > <Up><Left><Right><BckSp><#+23><BckSp><BckSp><RShft>_<Tab><BckSp><Tab><Tab><Tab>d<Tab>st<Tab>a<Tab><BckSp>
+2019-07-20 10:35:06+0530 > sync
+2019-07-20 10:35:08+0530 > cd 
+2019-07-20 10:35:10+0530 > 
+2019-07-20 10:35:37+0530 > <LCtrl>vbootlog<RShft>_download
+2019-07-20 10:36:45+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LCtrl><LShft>cd d<BckSp><LShft>Dow<Tab><LShft>Lo<Tab><Tab><LShft>Li<Tab>o<Tab>e<Tab>n<Tab><BckSp><BckSp><Tab><Tab><Tab>u<Tab><Tab><Tab><Tab><Tab><Tab>u<Tab>
+2019-07-20 11:04:37+0530 > ls
+2019-07-20 11:04:38+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><LAlt><Tab><LAlt><Tab>cd sp<Tab>
+2019-07-20 11:05:12+0530 > ls
+2019-07-20 11:05:14+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab>cd ../
+2019-07-20 11:06:43+0530 > ;<BckSp>ls
+2019-07-20 11:06:45+0530 > cd ..
+2019-07-20 11:06:47+0530 > ls
+2019-07-20 11:06:48+0530 > cd b<Tab>b<Tab>
+2019-07-20 11:06:53+0530 > ls
+2019-07-20 11:06:54+0530 > cd sp<Tab>
+2019-07-20 11:07:00+0530 > ls
+2019-07-20 11:07:01+0530 > cd <#+1>i<Tab>
+2019-07-20 11:07:07+0530 > ls
+2019-07-20 11:07:08+0530 > cd ../..
+2019-07-20 11:07:11+0530 > ls
+2019-07-20 11:07:12+0530 > cd s<Tab>o<Tab><BckSp><BckSp><BckSp><BckSp><BckSp>cd ../u<Tab>
+2019-07-20 11:07:28+0530 > ls
+2019-07-20 11:07:28+0530 > <LAlt><Tab><LMeta><#+2>lzs10062013
+2019-07-20 12:37:38+0530 > <LMeta><#+2>lzs10062013
+2019-07-20 12:46:33+0530 > <LCtrl>f<LCtrl><LShft>CN9<LCtrl><BckSp>7<LMeta><#+2>lzs<KP1><KP0><KP0><KP6><KP2><KP0><KP1><KP3>
+2019-07-20 14:25:53+0530 > <LCtrl>zs<KP1><KP0><KP0><KP6><KP2><KP0><KP1><KP3>
+2019-07-20 14:41:58+0530 > <LMeta><#+18>lzs100<BckSp><#+11>zs10062013
+2019-07-20 14:46:59+0530 >  <BckSp><BckSp><LCtrl><LCtrl>zs100062013
+2019-07-20 15:23:09+0530 > <CpsLk><CpsLk>zs10062013
+2019-07-20 15:23:43+0530 > <LCtrl><LCtrl>fcn13<LCtrl><LCtrl>ble112
+2019-07-20 15:26:53+0530 > <LCtrl>fuart
+2019-07-20 15:30:19+0530 > 
+2019-07-20 15:30:26+0530 > 
+2019-07-20 15:30:29+0530 > 
+2019-07-20 15:30:32+0530 >  schemsa<BckSp><BckSp>atic
+2019-07-20 15:31:23+0530 > <KP+><#+2><KP+><#+43><KP-><#+2> evk
+2019-07-20 15:40:37+0530 > <BckSp> de<LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl>
