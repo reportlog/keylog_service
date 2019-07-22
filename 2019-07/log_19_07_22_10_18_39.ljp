@@ -1,0 +1,122 @@
+Logging started ...
+
+2019-07-22 10:18:39+0530 > nvra<Down><Down> t4240
+2019-07-22 10:18:56+0530 > <Del><RShft>+
+2019-07-22 10:19:09+0530 > <RShft>+nvram
+2019-07-22 10:23:03+0530 > <Up><Up><Up><Up><Up>
+2019-07-22 10:30:05+0530 > 
+2019-07-22 10:30:07+0530 > <Down><#+51><Down><#+20><Down><#+24><Down><#+92><Down><#+5><Down><#+11><Down><#+11><Down><#+21><Down><#+31><Down><#+9><Down><#+12><Down><#+18><Down><#+8><Down><#+29><Down><#+61><Down><#+28><Down><#+30><Down><#+43><Down><#+17><Down><#+23><Down><#+18><Down><#+21><Down><#+10><Down><#+25><Down><#+24><Down><#+11><Down><#+24><Down><#+33><Down><#+5><Down><#+15><Down><#+10><Down><#+10><Down><#+13><Down><#+30><Up><#+13><Up><#+9><Up><Up><Up><Up><Down><Right><#+34><Down><Right><#+20><Left>i<BckSp>c<Down><Down><Down><Down><BckSp>d<Right><Down><#+19><Down><#+6><Down><#+10><Up><#+23><Up><#+4><Up><#+25><Up><#+17><Up><#+20><Up><#+22><Up><#+2><Up><#+2><BckSp>0<BckSp>2<BckSp>1<Down><#+15><Down><Down><Down><Down><Down><Down><Down><Up><Right><#+11><Right><Right><Right><BckSp><BckSp><CpsLk>F9<Down><#+25><Up><Up><Left><BckSp>FA<Down><#+11><Down><#+15><Down><#+12><Down><Down><BckSp>F<Right><BckSp>9<Down><#+14><Down><Down><Up><Left><BckSp>F<Right><BckSp>A<Right><BckSp><Down><#+7><Down><#+9><Down><#+6><Down><#+14><Up><Up><Up><Up><Up><Down><Left><Left><BckSp>FF<Right><Left><BckSp>B<Right><Right><BckSp><Left><Left>F<Right><Right><BckSp><Up><#+16><Up><Up><Left><#+11><Left><Right><BckSp><BckSp>FFA0<Right><Right><BckSp><BckSp><Down><#+6><Down><Down><Down><Down><Up><BckSp><BckSp><BckSp><BckSp>FFB0<Down><#+7><Up><#+41><Up><Up><#+7><Up><#+13><Up><#+1>
+2019-07-22 10:45:12+0530 > 65534<BckSp>5<BckSp>6<BckSp><#+19><BckSp>0<BckSp>2<BckSp>1<BckSp><#+17>65535<Down><#+78><Down><#+21><Down><#+23><Down><#+22><Down><#+21><Down><#+17><Down><#+12><Down><Up><#+9><Up><#+16><Down><#+6><Down><Down><Down><Down><Down><Up><Up><Up><Up><Up><Up><Down><Down><Down><Down><Right><#+13><Right><Right><Right><Left><Left><Left><Left><Left><Left><Right><Right><BckSp><BckSp><BckSp>FF90<Right><BckSp><Left><Left><BckSp><BckSp><CpsLk>ff<Esc><RShft>:wq
+2019-07-22 10:50:03+0530 > <RShft>:w<RShft>!
+2019-07-22 10:50:06+0530 > <RShft>:q
+2019-07-22 10:50:09+0530 > <Up>
+2019-07-22 10:50:10+0530 > 
+2019-07-22 10:50:10+0530 > <Down><#+131><Down><Down><#+16><Down><#+1><Down><#+17><Right><BckSp>1<BckSp>0<BckSp>2<Up><Up>
+2019-07-22 10:57:26+0530 > <Up><Up>
+2019-07-22 10:58:06+0530 > <RShft>Please load the attached u-boot.<BckSp><RShft>(<Left><#+15>nvram ,fpga1 ,base of<BckSp><BckSp>address of <RShft>).<BckSp><BckSp><BckSp>000<BckSp><BckSp>000<BckSp><BckSp><BckSp>00<Left><#+21><Left><Left><Left><Left><#+11><Left><Left><#+12><Left><Left><Left><Right><#+16><Right><#+12><Right><BckSp><Right><#+15><Right><#+11><Left><Left><Right><BckSp><RShft>&nor 0x<CpsLk>E0000000,NAND /NAND
+2019-07-22 11:05:38+0530 > <LCtrl>FNAND/<RShft><Ins>
+2019-07-22 11:07:47+0530 > <Up><Up>/<CpsLk><CpsLk>AMASK
+2019-07-22 11:08:01+0530 > <CpsLk>nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn<Left><#+12><Left><#+13><Left><#+11><Left><#+10><Left><Left><Right><#+26><Right><#+19><Right><#+14><Right><#+8><Right><Right><Right><Right><Right><Left><#+1><Left><#+10><Left><#+10><Right><Right><Right><Right><Right><Right><Right><Right>/
+2019-07-22 11:10:51+0530 > nnnnnnnnnnnnnnnnnn<Down><#+13><Down><#+4><Up><#+6><Up><#+10><Up><#+2><Up><Up><Up><Down><BckSp>5<Down><Up><BckSp>6<BckSp>2<BckSp>4<BckSp>0<BckSp>3i<Down><Down><#+2><Up><Up><Right><#+33><Left><Right><Right><Right><Left><Right><BckSp><BckSp><BckSp><BckSp>2048<Esc><RShft>:wq
+2019-07-22 11:29:58+0530 > <RShft>:w1<BckSp>\<RShft>!<BckSp><BckSp><RShft>!
+2019-07-22 11:30:04+0530 > <RShft>:q
+2019-07-22 11:30:06+0530 > <Up>
+2019-07-22 11:30:50+0530 > 
+2019-07-22 11:30:52+0530 > /nand
+2019-07-22 11:30:56+0530 > /<CpsLk>NAND
+2019-07-22 11:31:00+0530 > NNNNNNNNN<#+12>NNNNNNNNNNNNNNNN<#+10>N<#+14>N<#+12>N<#+15>NN<#+11>0XFF800000 ,<BckSp><Down><Down><Down><Right><#+78><Right><Right><Right><Right><Right><BckSp><CpsLk>e<BckSp><CpsLk>E<Right><#+12><Right><#+10><Right><Right><Right><Right><Right><Right><Right><BckSp>E<Down><Left><#+15><Right><Right><BckSp>E/NVRAM
+2019-07-22 11:34:14+0530 > <Down><#+3>NNNNNNNN<Down><Down><Right><#+23>I<Down><Up><Right><#+44><Left><BckSp>E<Down><#+11><Down><Down><Down><Down><BckSp>E<Down><#+14><Down><BckSp>E<Down><#+11><Up><Down><Up><#+39><Esc>/NVRAM
+2019-07-22 11:34:57+0530 > NN<Up><Left><#+10>I<Down><Down><Down><Up><Up><Down><Right><#+4><Up><Up><Right><#+41><Right><Left><BckSp>E<BckSp><CpsLk>e<Down><#+25><Down><#+16><Down><#+16><Esc>/cpld
+2019-07-22 11:36:58+0530 > /<CpsLk>CPLD
+2019-07-22 11:37:01+0530 > <Down><Right><#+32><Right><Left><BckSp>EI<Down><Up><Right><#+35><Left><BckSp>E<Down><Down><Down><Down><BckSp>EH<BckSp><BckSp>G
+2019-07-22 11:37:56+0530 > QUECKTE<BckSp><BckSp><BckSp>T<Down><Down> D<Down>
+2019-07-22 11:38:14+0530 > <PgDn><#+5><PgDn><#+20><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><#+14><PgDn><PgDn><#+16><PgDn><PgDn><PgUp><PgDn><#+13><Up><#+12><PgDn><Down><Up><#+58><Up><#+14><Up><#+40><Up><#+50><Up><#+18><Up><#+16><Up><#+16><Up><#+18><Up><#+35><Up><#+23><Up><#+38><Esc>/NVRAM
+2019-07-22 11:42:59+0530 > N<Down><#+37><Down><#+15><Down><#+17><Down><#+13><Down><#+17><Down><#+18><Down><#+17><Down><#+12><Up><#+6>/NVRAM
+2019-07-22 11:44:58+0530 > NN<Esc><RShft>:W<RShft>!
+2019-07-22 11:45:10+0530 > <RShft>:WQ
+2019-07-22 11:45:13+0530 > <CpsLk><RShft>:wq
+2019-07-22 11:45:16+0530 > <RShft>:w<RShft>!
+2019-07-22 11:45:19+0530 > 
+2019-07-22 11:45:20+0530 > 
+2019-07-22 11:45:21+0530 > <RShft>:q
+2019-07-22 11:45:23+0530 > <Up><Up>
+2019-07-22 11:45:28+0530 > <Up><Up>
+2019-07-22 11:46:10+0530 > <BckSp><BckSp><BckSp>for fpga2 <BckSp>7<BckSp>4<BckSp>0<BckSp><BckSp>40<BckSp><BckSp><BckSp>000<BckSp><BckSp><BckSp><BckSp>0000<BckSp><BckSp><BckSp><BckSp>6000<BckSp><#+24>256<BckSp>5<Left><#+11><Left><BckSp>5<BckSp>1<BckSp>4<BckSp>5<BckSp>4<BckSp>5<BckSp><BckSp><BckSp>399<Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down><Down><Down><Up>
+2019-07-22 13:40:53+0530 > 
+2019-07-22 13:40:55+0530 > <Down><#+32><Down><#+35><Down><#+17><Down><#+45><Down><#+24><Down><#+19><Down><#+22><Down><#+13><Down><#+14><Down><#+12><Up><#+15><Up><#+10><Down><#+14><Up><#+21><Down><#+48><Down><#+30><Down><#+12><Down><#+34><Down><#+43><Down><#+25><Down><#+23><Down><#+18><Down><#+23><Down><#+25><Down><#+55>/nv<BckSp><BckSp><CpsLk>NVRAM
+2019-07-22 13:42:59+0530 > N<Down><#+10>I<Down><#+34><Esc>/<CpsLk><CpsLk>CPLD
+2019-07-22 13:43:59+0530 > <Down><Right><#+31><Right>I<Right><Right><#+35><Left><Left><BckSp>F<Down><Down><Down><Down><BckSp>F<Esc>/NVRAM
+2019-07-22 13:44:43+0530 > <Down><Down><Down><Down><Right><#+22><Right><CpsLk><BckSp>fii<Right><BckSp>f<CpsLk><Esc>/<CpsLk>nvram
+2019-07-22 13:45:14+0530 > /n<BckSp>nvram<BckSp><#+18><CpsLk>N/NVRAM
+2019-07-22 13:45:29+0530 > NNNN<#+6>NNNNNNNNNNNNNNNNN<Down><Down><Right><#+7>I<Right><#+36><Right><#+12><Right><BckSp>F<Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><BckSp>F<Down><#+15><Down><Up><BckSp>F<Down><#+12><Esc>/CPLD
+2019-07-22 13:46:11+0530 > <Esc>/NVRAM
+2019-07-22 13:46:28+0530 > <Esc><RShft>:W<CpsLk><BckSp>w<LShft>!
+2019-07-22 13:47:05+0530 > <RShft>:q
+2019-07-22 13:47:07+0530 > <Up><Up>
+2019-07-22 13:47:36+0530 > <Up><Up>
+2019-07-22 13:48:04+0530 > <RShft>Please load the attached u-booy<BckSp>t<RShft>(<BckSp><BckSp>t<Up><Up><Up><Down>
+2019-07-22 13:50:41+0530 > 
+2019-07-22 13:50:42+0530 > <Down><#+40><Down><#+9><Down><#+10><Down><Down><#+16><Down><#+8><Down><#+10><Down><#+12><Down><#+19><Down><#+18><Down><#+17><Down><#+20><Down><#+11>/fb
+2019-07-22 13:51:48+0530 > /<CpsLk>FB
+2019-07-22 13:51:51+0530 > NNNNNNNN<Up><Down><#+22>I<Down><#+12><Up><Right><#+32><Right><#+18><Right><Right><Right><Right><Right><Right><Right><BckSp><CpsLk>e<BckSp><CpsLk>E<Down><Left><Left><Left><Left><Left><Down><#+16><Up><Right><Up><Right><Right><Right><Right><BckSp>E<Down><#+14><Down><#+11><Up><Up><Up><Up><BckSp>E<Down><#+19><Down><#+17><Esc><RShft>?CPLD
+2019-07-22 13:54:28+0530 > N<Down><#+18><Down><Down><Down><Down><Down><Right><#+29><Up><#+29><Down><#+16><Up><Up><Right><Down><Right><#+15><Left><Left><Left><BckSp><CpsLk>e<Down>i<Up><#+1><Up><Up><Down><Right><#+25><Down><Right><#+24><Left><Left><Left><Left><BckSp>e<Down><Down><Down><Down><BckSp>e<Down><#+14><Esc>/<CpsLk>NVRAM
+2019-07-22 13:55:07+0530 > <Down><Down><Down><Down><Up><Down><Down><Right><#+26><BckSp>EI<Left><Up><Right><#+5><Down><Right><#+42><Right><BckSp>E<BckSp><CpsLk>e<Right><Right><Right><Right><#+10><Left><Left><Left><Left><Left><Left><Left><Left><Esc>/<CpsLk>CPLD
+2019-07-22 13:55:46+0530 > N<Esc><RShft>:<CpsLk>w<RShft>!
+2019-07-22 13:56:00+0530 > 
+2019-07-22 13:56:01+0530 > <RShft>:q
+2019-07-22 13:56:03+0530 > <Up><Up>
+2019-07-22 13:56:10+0530 > <Up><Up>
+2019-07-22 13:56:33+0530 > <Del>updated<RShft>)gm<CpsLk><CpsLk><CpsLk><CpsLk>fayha217<Up><Up><Up><Down><Up>
+2019-07-22 14:32:57+0530 > <Down><#+54><Down><#+16><Down><#+15><Down><#+11><Down><#+15><Down><#+16><Down><#+25><Down><#+66><Down><#+32><Down><#+29><Down><#+29><Down><#+34><Down><#+26><Down><#+36><Up><#+14><Up><#+25><RShft>:q
+2019-07-22 14:33:42+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Down><Down><Down><Up>
+2019-07-22 14:33:52+0530 > <Down><#+64><Down><#+22><Down><#+20><Down><#+19><Down><#+43><Down><#+28><Down><#+23><Down><#+22><Down><#+27><Down><#+5><Down><#+22><Down><#+33><Down><#+19><Down><#+22><Down><#+23><Down><#+3><Up><#+54><Up><#+123><Up><#+11><RShft>:q
+2019-07-22 14:34:32+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down><Up><Up><Up><Up><Up><Up><Up><Up><Down>
+2019-07-22 14:34:43+0530 > 
+2019-07-22 14:34:44+0530 > <Down><#+48><RShft>:q
+2019-07-22 14:35:04+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down><Up><Up><Up><Up><Up><Up><Up><Down>
+2019-07-22 14:35:15+0530 > <Down><#+54><Down><#+48><Down><#+24><Down><#+11><Down><#+14><Down><Up><#+53><Up><#+20><Up><#+16><Up><#+9><Up><#+14><Up><#+18><Up><#+26><Up><#+10><Down><#+59><Down><#+13><Down><#+17><Down><#+14><Down><#+16><Down><#+14><Down><Down><#+16><Down><#+16><Up><#+32><Up><#+28><Up><#+15><Up><#+14><Up><#+9><Up><#+1><Up><#+13><Up><#+12><Up><#+6><Down><#+64><Down><#+16><Down><#+13>i<Up><#+13><Down><Down><Down><Right><#+19><Right><Right><#+15><Right><Right><Right><Right><Right><BckSp><BckSp><BckSp>2m<BckSp><CpsLk>M<Esc><RShft>:Q<BckSp><CpsLk>wq
+2019-07-22 14:36:59+0530 > <Up><Up>
+2019-07-22 14:37:06+0530 > <Up><Up>
+2019-07-22 14:37:18+0530 > <BckSp><#+21><BckSp><BckSp><BckSp><CpsLk>NVRAM 2M<Left><Left>SIZE G
+2019-07-22 14:40:30+0530 > COPPER ROUTHING WIRE
+2019-07-22 14:40:40+0530 > SINGLE STAND CO<Down>
+2019-07-22 14:41:12+0530 > <Up><Up><Up><Up><Up><Up><Up><Down>
+2019-07-22 14:41:54+0530 > 
+2019-07-22 14:41:55+0530 > <Down><#+25><RShft>:Q<BckSp><Tab>Q
+2019-07-22 14:42:02+0530 > <Esc><RShft>:<CpsLk>q
+2019-07-22 14:42:12+0530 > <Up><Up>
+2019-07-22 14:42:15+0530 > <RShft>:q
+2019-07-22 14:42:27+0530 > g
+2019-07-22 14:42:47+0530 > <LCtrl>v
+2019-07-22 14:42:49+0530 > <BckSp><BckSp>k <CpsLk> E6500 REFERENCE MANUAL
+2019-07-22 14:43:42+0530 > <LCtrl>F<LCtrl>V<BckSp><BckSp><BckSp><Del>
+2019-07-22 14:45:47+0530 > <RShft>f<RShft>f<LCtrl>F
+2019-07-22 14:46:13+0530 > <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><#+19><LCtrl>V<BckSp><BckSp><BckSp><BckSp><Right><BckSp><#+15><BckSp><F9><BckSp>1<BckSp>5<Right><BckSp>5<BckSp><#+18><Up><Up><Up><Down>
+2019-07-22 15:02:01+0530 > 
+2019-07-22 15:02:02+0530 > <Down><#+78><Down><#+19><Down><#+28><Down><#+20>/<CpsLk>c<BckSp><CpsLk>CPLD
+2019-07-22 15:02:24+0530 > <Down><Right><#+21><Right><#+14>I<Right><#+38><Left><Left><Left><BckSp>B<Down><Down><Down><Down><BckSp>C<Down><#+34><Down><#+19><Esc>/CPLD
+2019-07-22 15:02:54+0530 > NNNNNNNNNNNN<#+12>N<#+13>N<#+10>/NVRAM
+2019-07-22 15:03:09+0530 > N<Down><#+14><Down><Down><Down><Right><#+30><Left><Left><Left><Left><Left>I<Down><Up><Right><#+2><End><Left><#+54><Right><#+8><Down><Up><Down><Up><Right><Right><Right><Right><BckSp>B<Down><#+10><Down><Down><Down><Down><Down><Down><BckSp>C<Down><#+12><Up><#+27><Up><#+49><Esc>/CPLD
+2019-07-22 15:04:35+0530 > <RShft>:<CpsLk>w<RShft>!
+2019-07-22 15:04:45+0530 > <RShft>:q
+2019-07-22 15:04:47+0530 > <Up><Up>
+2019-07-22 15:04:53+0530 > <Up><Up>
+2019-07-22 15:05:13+0530 > <RShft>Please load the attached u-boot<RShft>(cs3 <RShft>& cs4<Left><#+5><Left><#+11><Left><Left><End> chaned<Left><Left>g<End><RShft>)addr <Up><Up><Up><Down>
+2019-07-22 15:19:16+0530 > <Down><#+59><Down><#+11><Down><Down><#+10><Down><#+19><Down><#+16><Down><#+16><Down><#+12><Down><#+11><Down><#+10><Down><#+10><RShft>:q
+2019-07-22 15:20:06+0530 > <Up><Up><Up><Up><Up><Up>
+2019-07-22 15:20:10+0530 > 
+2019-07-22 15:20:11+0530 > <Down><#+38><Down><Down><#+14><RShft>:q
+2019-07-22 15:20:33+0530 > <Up><Up><Up>
+2019-07-22 15:20:35+0530 > 
+2019-07-22 15:20:36+0530 > <Down><#+54><Down><#+16><Down><#+19><Down><#+18><Down><#+12><Down><#+18><Down><#+18><Down><#+16><Down><#+13><Down><#+14><Down><#+11><Down><#+14><Down><#+9><Down><#+11><Down><#+12><Down><#+10><Down><#+7><Down><#+16><Down><#+25>/n<BckSp><CpsLk>NVRAM
+2019-07-22 15:21:24+0530 > <Down><#+35><Down><#+42><Down><#+12>/NVRAM
+2019-07-22 15:24:43+0530 > 
+2019-07-22 15:24:44+0530 > 
+2019-07-22 15:24:45+0530 > NNN<BckSp><BckSp>
+2019-07-22 15:26:17+0530 > <BckSp><#+13><BckSp><BckSp><BckSp><BckSp> T4240
+2019-07-22 15:26:27+0530 > /<CpsLk>e000
+2019-07-22 15:28:11+0530 > nn/<Up>n<BckSp>
+2019-07-22 15:29:23+0530 > nnnnnnnnnnnnnnnnnnnnnnn
+
+Logging stopped at 2019-07-22 15:34:59+0530
+
