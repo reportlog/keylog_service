@@ -1,0 +1,27 @@
+Logging started ...
+
+2019-07-22 15:35:16+0530 > <RShft>:q
+2019-07-22 15:45:03+0530 > <Up><Up>
+2019-07-22 15:45:06+0530 > 
+2019-07-22 15:45:08+0530 > <Up><#+22><Down><#+25><Down><#+18><Down><#+20><RShft>:q
+2019-07-22 15:45:22+0530 > <Up><Up><Up><Up>
+2019-07-22 15:45:25+0530 > <Up><Down><#+20><Down><#+11><Down><#+16><Right><Right><Right><Right><Down><Down><Down><Right><#+15><Right><Right><Down><#+12><Down><#+16><Down><#+15><Down><#+15><Down><#+17><Down><#+11><Down><#+21><Down><#+16><Down><#+11><Down><#+16><Down><Down><#+17><Down><#+8><Down><#+5><Down><#+14><RShft>:q
+2019-07-22 15:46:41+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down><Left><#+11><Left><BckSp><#+15><BckSp><BckSp><RShft><Ins>
+2019-07-22 15:46:53+0530 > <Up><Up>
+2019-07-22 15:47:18+0530 > <RShft>:q
+2019-07-22 15:47:29+0530 > <Up><Down><Down>vim <RShft><Ins>
+2019-07-22 15:48:06+0530 > <Down><#+21><Down><#+9><Down><#+21><Down><#+26><Down><#+24><Down><#+13><Down><#+20><Down><#+15><Down><#+13><Down><#+7><Down><#+14><Down><#+6><Down><#+16><Down><#+11><Down><#+12><Down><#+18><Down><#+14><Down><#+16><Down><Down><#+10><Down><#+13><Down><#+10><Down><#+11><Down><#+12><Down><#+12><Down><#+4><Down><#+20><Down><#+9><Down><#+13><Down><#+14><Down><#+6><Down><#+17><Down><#+23><Down><#+7><Down><#+17><Down><Down><#+8><Down><#+11><Down><#+19><Down><#+24><Down><#+14><Down><#+13><Down><#+18><Down><Down><Down><#+11><Down><Down><Down><Down><Down><#+16><Down><#+17><Down><#+18><Down><#+13><Down><#+16><Down><#+4><Down><#+1><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><#+7><Down><#+16><Down><Down><Down><Down><Down><#+13><Down><#+14><Down><#+11><Down><Down><Down><#+12><Down><#+1><Down><#+16><Down><#+13><Down><#+16><Down><Down><Down><Down><Down><Down><Down><Down><Down><#+13><Down><#+14><Down><#+21><Down><#+22><Down><#+19><Down><#+15><Down><#+9><Down><#+13><Down><#+19><Down><#+14><Down><#+15><Down><#+1><Down><#+23><Down><#+22><Down><#+25><Down><#+19><Down><#+9><Down><#+18><Down><#+9><Down><#+17><Down><#+1><Up><#+23><Down><#+112><Down><#+64><RShft>:q
+2019-07-22 15:52:34+0530 > <Up><Up><Up><Up><Up><Up>
+2019-07-22 15:52:44+0530 > 
+2019-07-22 15:52:45+0530 > <Down><#+56><Down><#+28>/<CpsLk>NVRAM
+2019-07-22 15:53:05+0530 > N<Down><Down><Up><End>I<Up><Down><Right><#+44><Right><Right><Right><Right><Right><Right><BckSp><CpsLk>d<BckSp><CpsLk>D//<BckSp><BckSp><Esc>/NVRAM
+2019-07-22 15:54:00+0530 > <Up><Up><Right><#+22><Down><Down><Down><Down><Down><Down><Down><Left><BckSp><Right>I<Right><End><Left><#+33><Left><Left><Left><Left><Left><BckSp>D<BckSp><CpsLk>d<Esc><RShft>:d0000
+2019-07-22 15:54:35+0530 > <Up>/do
+2019-07-22 15:54:43+0530 > /dooo<RShft>
+2019-07-22 15:54:52+0530 > <RShft>:w<LShft>!
+2019-07-22 15:55:38+0530 > 
+2019-07-22 15:55:39+0530 > <RShft>:q
+2019-07-22 15:55:43+0530 > 
+
+Logging stopped at 2019-07-22 15:55:45+0530
+
