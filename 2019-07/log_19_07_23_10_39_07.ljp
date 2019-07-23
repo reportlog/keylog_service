@@ -1,0 +1,49 @@
+Logging started ...
+
+2019-07-23 10:39:07+0530 > 3
+2019-07-23 10:39:09+0530 > cd sr<Tab>p<Tab><BckSp>
+2019-07-23 10:41:21+0530 > ls
+2019-07-23 10:41:21+0530 > <RMeta><Menu>vim pc<BckSp><RShft>_and<RShft>_<Left><Left><Left><Left><Left>ar<Right><Right><Right><Right><#+1><Right>chi.c
+2019-07-23 10:43:30+0530 > i<LShft>#include <RShft><><Left>stdio.h<Right>
+2019-07-23 10:43:49+0530 > <LShft>#include <RShft><><Left>unist.h<Right><Left><Left><Left>d<Right><Right><Right>
+2019-07-23 10:44:05+0530 > <LShft>#include <RShft><><Left>fcntl.h<Right>
+2019-07-23 10:44:16+0530 > <LShft>#include <RShft><><Left>stdlib.h<Right>
+2019-07-23 10:44:30+0530 > 
+2019-07-23 10:44:30+0530 > int main<RShft>()
+2019-07-23 10:44:35+0530 > <RShft>{
+2019-07-23 10:44:36+0530 >  pid<RShft>_t pid;
+2019-07-23 10:44:46+0530 >  int fd = open<RShft>()<Left><RShft>""<Left>hello.txt<Right>,<LShft>O<RShft>_<LShft>WRONLY<RShft>|<LShft>O<RShft>_<LShft>CREAT,0644<Right>;
+2019-07-23 10:45:24+0530 > 
+2019-07-23 10:45:25+0530 >  if<RShft>()<Left>fd <RShft>< 0<Right><RShft>{
+2019-07-23 10:45:33+0530 >   perror<RShft>()<Left><RShft>""<Left>open failed<Right><Right>;
+2019-07-23 10:45:46+0530 >   exit <BckSp><RShft>()<Left><LShft>EXIT<RShft>_<LShft>FAILURE<Right>;
+2019-07-23 10:46:01+0530 >  <RShft>}
+2019-07-23 10:46:04+0530 > 
+2019-07-23 10:46:05+0530 >  pid = fork<RShft>();
+2019-07-23 10:46:12+0530 >  if<RShft>(<RShft>)<Left>pid == 0<Right><RShft>{
+2019-07-23 10:46:25+0530 >   write<RShft>()<Left>fd,<RShft>""<Left>hello,sizeof<RShft>(<RShft><RShft>)<Del><Left><#+10><Left><Left><RShft>"<Right><Right><Right><Right><Right><Right><Right><Right><RShft>""<Left>hello<Right><Right><Right>;
+2019-07-23 10:47:05+0530 >   close<RShft>(fd<RShft>);;<BckSp>
+2019-07-23 10:47:16+0530 >  exit<RShft>();<Left><Left><LShft>EXIT<RShft>_<LShft>SUCCESS<Right><Right>
+2019-07-23 10:47:35+0530 >  <RShft>}<Up><Left><#+1> <Down><Down>
+2019-07-23 10:47:43+0530 >  elseif<Left><Left> <Right><Right><RShft>()<Left>pid <RShft>> 0<Right><Right><RShft>{
+2019-07-23 10:48:07+0530 >  wait<RShft>(<RShft>)<Left><Left><LShft>NULL<BckSp><BckSp><BckSp><BckSp><Right><LShft>NULL<Right>;
+2019-07-23 10:48:24+0530 >  printf<RShft>()<Left><RShft>""<Left>file offset<RShft>:<LShft>%ld\n<Right>,<LShft>lseek<RShft>()<Left>fd,0,<LShft>SEEK<RShft>_<LShft>CUR<Right><Right>;
+2019-07-23 10:49:00+0530 >  exir<BckSp>t<RShft>()<Left><LShft>EXIT<RShft>_<LShft>SUCCESS<Right>;
+2019-07-23 10:49:14+0530 > <RShft>}
+2019-07-23 10:49:16+0530 >  return 0;
+2019-07-23 10:49:20+0530 > <RShft>}<Esc><RShft>:wq
+2019-07-23 10:49:26+0530 > gcc p<Tab>-o p<Tab><BckSp><BckSp><BckSp>
+2019-07-23 10:49:33+0530 > ./p<Tab>
+2019-07-23 10:49:38+0530 > vim he<Tab>
+2019-07-23 10:50:12+0530 > <Esc><RShft>:q
+2019-07-23 10:50:15+0530 > <LAlt><Tab>mv p<Tab>.<Tab>/me<Tab><Tab><Tab>
+2019-07-23 10:53:21+0530 > vvcd ..
+2019-07-23 10:55:20+0530 > cd how to flash <LShft>BLE 112 without <LShft>CC <LShft>Deb<BckSp>uge<BckSp>ger
+2019-07-23 11:05:32+0530 > what is the difference between <LShft>ARN<BckSp><LShft>M architecture and x86 <LShft>architecture
+2019-07-23 11:15:41+0530 > <LMeta><#+12>lzs10062013
+2019-07-23 11:28:25+0530 > <LShft>Highest interesrt <BckSp><BckSp><#+1><BckSp>t rates for <LShft>FD in banks
+2019-07-23 11:33:28+0530 > <LShft>How to implement <LShft>MQTT <Down> in <LShft>linux
+2019-07-23 11:38:57+0530 > zs10062013
+
+Logging stopped at 2019-07-23 11:50:42+0530
+
