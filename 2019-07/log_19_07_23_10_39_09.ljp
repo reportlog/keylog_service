@@ -1,0 +1,164 @@
+Logging started ...
+
+2019-07-23 10:39:09+0530 > ls
+2019-07-23 10:39:11+0530 > cd g<Tab>
+2019-07-23 10:39:15+0530 > 
+2019-07-23 10:39:17+0530 > 
+2019-07-23 10:39:17+0530 > 
+2019-07-23 10:39:21+0530 > 
+2019-07-23 10:39:22+0530 > cd 
+2019-07-23 10:39:57+0530 > ls
+2019-07-23 10:39:59+0530 > cd <CpsLk>Q<Tab>
+2019-07-23 10:40:03+0530 > LS
+2019-07-23 10:40:05+0530 > 
+2019-07-23 10:40:06+0530 > <CpsLk>ls
+2019-07-23 10:40:08+0530 > cd <BckSp><#+19>
+2019-07-23 10:42:11+0530 > git status
+2019-07-23 10:42:27+0530 > vim 
+2019-07-23 10:43:01+0530 > g
+2019-07-23 10:43:35+0530 > <LCtrl>v
+2019-07-23 10:43:37+0530 > <BckSp><Left><#+8><Left><Left><Left><BckSp><Left><Left><Left><#+19>
+2019-07-23 10:43:49+0530 > <LCtrl>fcpld<BckSp><BckSp><BckSp><#+10><BckSp><#+9><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>  <#+7><Left><#+48><Left><Left><Left>      <Right><#+21><Right><Right><Right><Right><Right><Right> <#+15><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><Down><Home><Right><#+23><Right><BckSp><BckSp><#+14><BckSp><#+7><Right><BckSp><#+12><BckSp><BckSp><BckSp><BckSp><BckSp>  <Right><Right><Right> <Right><#+8><Right> <Right><Right><Right><#+18><Right><Right> <BckSp><Down><Up><Right><#+2><Down><Up><Right><#+22><Up><Right><#+24><Right><Right><Right><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><Down>g
+2019-07-23 10:47:40+0530 > e6500 ref<LCtrl>f<CpsLk><CpsLk><CpsLk><CpsLk><CpsLk>MASCA<Right><Right><BckSp>4ZUMI SOLUTIONS PVT LTDMOHAMED MEERA SAHIB<Tab>MOHAMED8940569561<CpsLk>m<BckSp><CpsLk>M<CpsLk>eera<RShft>_12<RShft>@<RShft>#<CpsLk>M<CpsLk>eera<RShft>_12<RShft>@<RShft>#8940569561g<BckSp><CpsLk>G-718919<BckSp><#+19>718919G
+2019-07-23 11:41:29+0530 > NVRAM<RShft>+T4240 <RShft>+TLN<BckSp>B
+2019-07-23 11:41:49+0530 > <LCtrl>FNVRAM<RShft>:Q<BckSp><CpsLk>q
+2019-07-23 11:44:48+0530 > <Up><Up><Up><Down><Up><Up><Up><Up><Up><Up><Up><Down><#+11><Down><Down>
+2019-07-23 11:45:11+0530 > <RShft>:q
+2019-07-23 11:45:18+0530 > <RShft>"<RShft>:<Esc><RShft>:q
+2019-07-23 11:45:26+0530 > <Up><Left><#+14><Left><#+15><Left><Left><Left><Left><Left><Left><BckSp><#+26><BckSp><BckSp><BckSp><BckSp>
+2019-07-23 11:45:35+0530 > 
+2019-07-23 11:45:35+0530 > <Down><#+67><Down><#+34><Down><#+28><Down><#+27><Down><#+24><Down><#+24><Down><#+29><Down><#+27><Down><#+18><Down><#+21><Down><#+27><Down><#+23><Down><#+29><Down><#+27><Down><#+28><Down><#+10>/<CpsLk>NVRAM
+2019-07-23 11:46:14+0530 > /N<Up>
+2019-07-23 11:46:38+0530 > NI<Up><#+11><Down><Down><Down><Down><Down><Right><#+39><Right><Right><Right><Right><Left><Left><BckSp>2<Right><Right><Left><Right><BckSp><BckSp><BckSp>E00<Left><Left><BckSp><CpsLk>e<Right><Right><Right><Right><Left><Down><Left><Left><BckSp>2<Up><Left><BckSp>0<Right><BckSp>1lav<BckSp><#+18>quan<Del><RShft>Can you<BckSp><#+20><CpsLk>M<CpsLk>eera<RShft>_12<RShft>@<RShft>#wind<Down> iot<Down> i.<Down>
+2019-07-23 12:42:14+0530 > su<CpsLk>W<CpsLk>indows <CpsLk>I<CpsLk>o<CpsLk>T<Home>
+2019-07-23 12:45:16+0530 > 
+2019-07-23 12:45:17+0530 > 
+2019-07-23 12:45:17+0530 > <RShft>p<BckSp>P<RShft>p<BckSp><CpsLk>lease work on windows <CpsLk>I<CpsLk>ot.
+2019-07-23 12:46:03+0530 > 
+2019-07-23 12:46:04+0530 > <Up><Up><Down><Down><Down><BckSp><BckSp><BckSp> available in this github
+2019-07-23 12:47:04+0530 > 
+2019-07-23 12:47:05+0530 > .z<Right><BckSp><#+24><BckSp><#+9><BckSp><BckSp><BckSp>g
+2019-07-23 13:44:49+0530 > windows iot door lock ras<Down><Down>
+2019-07-23 13:45:10+0530 > power
+2019-07-23 13:48:48+0530 > 
+2019-07-23 13:48:48+0530 > <Del>
+2019-07-23 13:50:07+0530 > 
+2019-07-23 13:50:07+0530 > 
+2019-07-23 13:50:07+0530 > 
+2019-07-23 13:50:07+0530 > 
+2019-07-23 13:50:07+0530 > 
+2019-07-23 13:50:08+0530 > 
+2019-07-23 13:50:08+0530 > 
+2019-07-23 13:50:08+0530 > 
+2019-07-23 13:50:08+0530 > 
+2019-07-23 13:50:08+0530 > 
+2019-07-23 13:50:09+0530 > 
+2019-07-23 13:50:17+0530 > 
+2019-07-23 13:51:00+0530 > <Up><#+12><Up><#+4><Up><#+19><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><#+89><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><Down><Down><Up><BckSp><Down><Down><Down><Del><BckSp><Del><Del><Del><Del><Del><BckSp><Del><BckSp><Del><Del><BckSp><LCtrl>zzzzzzzzzzzz<LCtrl>zz<LCtrl>zzzzzzzzz<LCtrl>z<#+42>z<#+1><Del><LCtrl>c
+2019-07-23 13:53:09+0530 > <LCtrl>v<LCtrl>z<LCtrl>v
+2019-07-23 13:53:21+0530 > 
+2019-07-23 13:53:21+0530 > 
+2019-07-23 13:53:21+0530 > 
+2019-07-23 13:53:21+0530 > 
+2019-07-23 13:53:21+0530 > 
+2019-07-23 13:53:22+0530 > 
+2019-07-23 13:53:22+0530 > 
+2019-07-23 13:53:22+0530 > 
+2019-07-23 13:53:22+0530 > 
+2019-07-23 13:53:22+0530 > 
+2019-07-23 13:53:22+0530 > 
+2019-07-23 13:53:30+0530 > <LCtrl>c
+2019-07-23 13:53:36+0530 > <LCtrl>b<LCtrl>v
+2019-07-23 13:53:42+0530 > 
+2019-07-23 13:54:11+0530 > <LCtrl>v
+2019-07-23 13:54:14+0530 > 
+2019-07-23 13:54:41+0530 > <LCtrl>c
+2019-07-23 13:54:50+0530 > <LCtrl>v
+2019-07-23 13:54:53+0530 > 
+2019-07-23 13:55:11+0530 > <End>
+2019-07-23 13:55:32+0530 > <End>
+2019-07-23 13:55:36+0530 > 
+2019-07-23 13:55:39+0530 > <LCtrl>v
+2019-07-23 13:55:41+0530 > <Up><Home>
+2019-07-23 13:56:02+0530 > 
+2019-07-23 13:56:03+0530 > <RShft>I<BckSp><BckSp>
+2019-07-23 14:01:29+0530 > <LCtrl>swindows iot<LCtrl>zzzz
+2019-07-23 14:03:12+0530 > 
+2019-07-23 14:04:18+0530 > <LCtrl>zzzz<Del><LCtrl>z<Del><Del>
+2019-07-23 14:18:17+0530 > 
+2019-07-23 14:18:18+0530 > 
+2019-07-23 14:18:22+0530 > <Right>
+2019-07-23 14:20:15+0530 > <LCtrl>v<LCtrl>c
+2019-07-23 14:21:07+0530 > <LCtrl>v<LCtrl>v
+2019-07-23 14:23:12+0530 > 
+2019-07-23 14:23:13+0530 > <LCtrl>v
+2019-07-23 14:23:17+0530 > <LCtrl>s<BckSp><CpsLk>A<BckSp><BckSp><BckSp><BckSp><BckSp><Down><#+1><Home><BckSp><Home>
+2019-07-23 14:25:24+0530 > 
+2019-07-23 14:25:24+0530 > 
+2019-07-23 14:25:27+0530 > 
+2019-07-23 14:25:27+0530 > 
+2019-07-23 14:25:27+0530 > 
+2019-07-23 14:25:27+0530 > 
+2019-07-23 14:25:27+0530 > 
+2019-07-23 14:25:28+0530 > 
+2019-07-23 14:25:28+0530 > 
+2019-07-23 14:25:28+0530 > 
+2019-07-23 14:25:28+0530 > <Down><BckSp><BckSp><BckSp><BckSp><Up><#+11>1.<Down><Left>2.<Down><Left>3.<Down><Left>4.<Down><Left><Left>5.<Down><Left><Left>6.<BckSp><#+15><BckSp><#+10><BckSp><BckSp><BckSp><BckSp><CpsLk>s<CpsLk><BckSp><CpsLk>s<CpsLk><BckSp><CpsLk>s<BckSp>s<BckSp><CpsLk>S<CpsLk>olenoidsc<Del><Esc><LCtrl>z<LCtrl>z<LCtrl>z<LCtrl><LCtrl><LCtrl>z<Del><Down><BckSp><BckSp><Up><Up><Up><BckSp><BckSp><Down><Up><Up><Home>1.<Down>2.<Down><Down><Down>3.g
+2019-07-23 14:38:09+0530 > windows io
+2019-07-23 14:38:53+0530 > 
+2019-07-23 14:38:54+0530 > <LCtrl>v<LCtrl>s<Down><Up><Down><Down><Down><Down><Down><Up><Up><Up><Up><#+12><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Up><Up><#+34><Down><Down><Down><Down><Down><Down><Down><Down><Down><Up><Down><Down><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>
+2019-07-23 16:07:43+0530 > <Right><BckSp><KP1><BckSp><Up>1.<Down><Left><Left>2.
+2019-07-23 16:09:22+0530 > <LCtrl>v
+2019-07-23 16:09:26+0530 > <LCtrl><BckSp><#+15><BckSp><#+63><BckSp><#+3><BckSp><BckSp><BckSp><BckSp> <BckSp><#+15>g
+2019-07-23 16:13:05+0530 > <LCtrl>v
+2019-07-23 16:13:11+0530 > <Esc><RShft>:q
+2019-07-23 16:15:16+0530 > <RShft>:q<RShft>!
+2019-07-23 16:15:23+0530 > <Right>
+2019-07-23 16:17:20+0530 > <Up><Right><CpsLk><CpsLk><CpsLk>M<CpsLk>ici<BckSp>rosoft <RShft>Visual <RShft>Studio 2015<Down><Down><Left><#+4>
+2019-07-23 16:17:49+0530 > <Up><Right><Right><CpsLk>M<CpsLk>icrosoft <RShft>Azure<Down><Down><Down><Down><Left><Left><#+3><Right>
+2019-07-23 16:18:05+0530 > <Up><Right><Right><RShft>Microsoft <RShft>Windows 10 <RShft>Io<RShft>T <RShft>Core<BckSp><BckSp><BckSp><Up><Up><Down><Down><Up><BckSp><BckSp><Down><Down><BckSp><BckSp><Down><Down><Down><Down><BckSp><#+24><BckSp><BckSp><BckSp><RShft>Componentsg
+2019-07-23 16:19:48+0530 > <LCtrl>v
+2019-07-23 16:19:53+0530 > 
+2019-07-23 16:20:30+0530 > <LCtrl>vg
+2019-07-23 16:20:39+0530 > <LCtrl>v
+2019-07-23 16:20:42+0530 > 
+2019-07-23 16:21:13+0530 > <LCtrl>v
+2019-07-23 16:21:18+0530 > <LCtrl>c
+2019-07-23 16:21:20+0530 > g
+2019-07-23 16:21:23+0530 > <LCtrl>v
+2019-07-23 16:21:27+0530 > 
+2019-07-23 16:22:07+0530 > <Down><Up><BckSp><BckSp><LCtrl>s<Esc>
+2019-07-23 16:26:55+0530 > 
+2019-07-23 16:26:58+0530 > <BckSp><BckSp>
+2019-07-23 16:27:04+0530 > <BckSp><BckSp><BckSp><BckSp><#+28><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>
+2019-07-23 16:29:33+0530 > projectoxfo<Down><Down><Down><Down><Down><Down><Down><Up><Up>
+2019-07-23 16:36:25+0530 > projectoxford
+2019-07-23 16:43:05+0530 > <Right><#+22><LCtrl>v<RShft>(<RShft>)<BckSp><BckSp><BckSp><BckSp><CpsLk><CpsLk><CpsLk>APPENDIX<Del><Del><LCtrl>Z<LCtrl>ZZA<CpsLk><CpsLk>WINDOWS I<RShft>oT-<CpsLk><CpsLk>DOOR LOCK 
+2019-07-23 16:52:54+0530 > <RShft>p<BckSp>P<CpsLk>lease fing<BckSp>d power point presentation for windows iot project.
+2019-07-23 16:53:42+0530 > 
+2019-07-23 16:53:42+0530 > 
+2019-07-23 16:53:44+0530 > 
+2019-07-23 16:53:44+0530 > <CpsLk>R<CpsLk>egards,
+2019-07-23 16:53:50+0530 > <RShft>Meerasahib<Up><Up>
+2019-07-23 16:53:58+0530 > <Down>  <BckSp><BckSp>g
+2019-07-23 17:08:02+0530 > windows iot face<Down>
+2019-07-23 17:08:15+0530 > mwindows iotg
+2019-07-23 17:14:17+0530 > i.mx 6 win<Down><Down>
+2019-07-23 17:15:27+0530 > facehakeem4425m<BckSp><#+11><BckSp><BckSp><BckSp>fayonics.com535558<CpsLk><CpsLk><CpsLk>FAYONICS<CpsLk>hakeem12308<BckSp><#+20>hakeem12308<RShft>><BckSp>.ashik.ad002<RShft>@gmail.comabdbarakath01<RShft>@gmail.comhi
+2019-07-23 17:27:50+0530 > this for our company.
+2019-07-23 17:29:20+0530 > ind8940569561<CpsLk><CpsLk><CpsLk>FAYONICSIN<BckSp><BckSp><BckSp><CpsLk>inst<BckSp><#+10><BckSp><BckSp><BckSp>
+2019-07-23 17:37:25+0530 > <CpsLk><CpsLk>hakeem12308<Right><#+42>mh<BckSp>hakeem12308<RShft>Hi,
+2019-07-23 17:49:59+0530 > <RShft>Nice to hear from you.
+2019-07-23 17:50:09+0530 > <Up><End><RShft>I would like to connect max 5 members right now.
+2019-07-23 17:50:29+0530 > 
+2019-07-23 17:50:30+0530 > <RShft>Regards,
+2019-07-23 17:50:33+0530 > <RShft>Meerasahibfcost pls
+2019-07-23 17:56:10+0530 > meerasahib<CpsLk><CpsLk>meerasahibm<RShft>@fayonics.com<Tab>hakeem12308<Tab>hakeem12308la<BckSp><BckSp><BckSp>qu<BckSp>ua<LCtrl>a
+2019-07-23 18:22:10+0530 > 
+2019-07-23 18:22:23+0530 > g
+2019-07-23 18:36:43+0530 > ndtv<Down><Down>
+2019-07-23 18:36:49+0530 > thfmajouniversity
+2019-07-23 19:38:12+0530 > timndt<Tab>q`<#+81><LShft><CpsLk><#+57>QZ <#+11>
+
+Logging stopped at 2019-07-24 08:32:50+0530
+
