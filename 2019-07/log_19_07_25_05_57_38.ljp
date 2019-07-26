@@ -1,0 +1,94 @@
+Logging started ...
+
+2019-07-25 17:57:38+0530 > cd <BckSp><#+12><CpsLk>CD 
+2019-07-25 18:02:27+0530 > LS
+2019-07-25 18:02:29+0530 > 
+2019-07-25 18:02:31+0530 > LS
+2019-07-25 18:02:33+0530 > CD GIT
+2019-07-25 18:02:36+0530 > CD ..
+2019-07-25 18:02:55+0530 > CD ..
+2019-07-25 18:02:57+0530 > CD ..
+2019-07-25 18:02:59+0530 > CD ..
+2019-07-25 18:03:01+0530 > CD ..
+2019-07-25 18:03:02+0530 > CD ..
+2019-07-25 18:03:04+0530 > CD ..
+2019-07-25 18:03:07+0530 > 
+2019-07-25 18:05:32+0530 > CD ..
+2019-07-25 18:09:02+0530 > CD ../../../
+2019-07-25 18:09:05+0530 > CD ..
+2019-07-25 18:09:09+0530 > CD ..
+2019-07-25 18:09:14+0530 > CD <RShft><Ins>
+2019-07-25 18:09:17+0530 > 
+2019-07-25 18:09:19+0530 > LS
+2019-07-25 18:09:20+0530 > CD GI<Tab>
+2019-07-25 18:09:25+0530 > 
+2019-07-25 18:09:26+0530 > GIT STATUS
+2019-07-25 18:09:33+0530 > T42<BckSp><BckSp>CD <BckSp><BckSp><BckSp><BckSp>VIM 
+2019-07-25 18:12:53+0530 > 
+2019-07-25 18:12:55+0530 > 
+2019-07-25 18:12:56+0530 > 
+2019-07-25 18:12:57+0530 > <Down><#+44><Down><#+16><Down><#+16><Down><#+17><Down><#+12><Down><#+12><Up><#+22><Up><#+11>/<RShft><Ins>
+2019-07-25 18:13:36+0530 > NNNNNNNNNNNNNNNNNNNN
+2019-07-25 18:14:46+0530 > <Right><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><End><RShft>_25<RShft>_07<RShft>_2019<Esc>I<Down><Down><Up><Up><Right><#+20><Right><Right><Right><Right><Right><Right><BckSp>0<RShft>:<BckSp><Esc><RShft>:Q
+2019-07-25 18:20:10+0530 > <RShft>:W<RShft>!
+2019-07-25 18:20:15+0530 > <RShft>:Q
+2019-07-25 18:20:18+0530 > <Up>
+2019-07-25 18:20:20+0530 > 
+2019-07-25 18:20:21+0530 > <Down><#+60><Down><#+27><Down><#+14>/<RShft><Ins>
+2019-07-25 18:21:07+0530 > <Esc><Esc><RShft>:Q
+2019-07-25 18:21:23+0530 > GREP <RShft>"<RShft>"<Left><RShft><Ins><End> -R <RShft>*
+2019-07-25 18:21:44+0530 > <Up><Up><BckSp><BckSp>GREP <RShft>"<RShft>" <RShft>_R <RShft>*<BckSp><BckSp><BckSp><BckSp><BckSp> -R <RShft>*<Left><#+12><RShft><Ins>
+2019-07-25 18:23:52+0530 > VIM <RShft><Ins>
+2019-07-25 18:24:37+0530 > <Down><#+40><Down><#+20><Down><#+14><Down><#+17><Down><#+20><Down><#+24>/NOR
+2019-07-25 18:24:57+0530 > <Down><Down><Down><Up><Right><#+12><Down><Right><Right><Right><Right><Right><Right><Down><#+20><Down><#+12><Down><#+12><Down><#+12><Up><#+42><Up><#+12><Down><#+54><Up><#+25><Up><#+31><Up><#+16><Up><#+16><Down><#+42><Down><#+16><Down><#+24><Down><#+28><Down><#+14><Down><#+4><Down><#+28><Down><#+37><Down><#+28><Up><#+44><Up><#+19><Up><#+21><Up><#+16><Up><Down><#+54><Down><#+16><Down><#+13><Down><#+18><Down><#+3><Down><#+12><Down><#+14><Down><#+18><Down><#+13><Down><#+20><Down><#+20><Down><#+35><Down><#+18><Down><#+26><Down><#+4><Up><Up>
+2019-07-25 18:30:39+0530 > 
+2019-07-25 18:30:40+0530 > /I<BckSp>IB<BckSp><BckSp>1B
+2019-07-25 18:30:49+0530 > NNNNNN<Up><#+15>I<Up><#+14><Down><#+13><Down><Down><Down><#+12><Down><#+1><Down><#+9><Down><#+4><Down><#+8><Down><#+10><Up><#+10><Up><#+16><Up><#+10><Up><Up><Down><#+11><Down><#+12><Down><Down><Down><Down><Down><Down><Down><Down><Down><Up><#+18><Up><#+2><Up><#+11><Up><Down><Down><Down><Down><Esc>/<RShft><Ins>
+2019-07-25 18:32:53+0530 > N/<Up>
+2019-07-25 18:33:24+0530 > NNNNN<Down><#+9><Down><#+9><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down>/<Up>
+2019-07-25 18:35:36+0530 > NNN/<RShft><Ins>
+2019-07-25 18:36:24+0530 > NN<RShft>:Q
+2019-07-25 18:37:30+0530 > <Up><Up><Left><#+11><Left><BckSp><#+12><BckSp><BckSp><RShft><Ins>
+2019-07-25 18:37:36+0530 > VIM <RShft><Ins>
+2019-07-25 18:37:51+0530 > /<RShft><Ins><Up><Down><BckSp><#+31><BckSp>/<RShft><Ins>
+2019-07-25 18:38:52+0530 > NN<Up>/<Up>
+2019-07-25 18:38:59+0530 > /<Up><Up>
+2019-07-25 18:39:29+0530 > NNNNN<Down><#+15><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Up><#+24><Up><#+10><Down><#+8><Up><#+9><Down><#+1><Down><#+12><Down><Down><Up>I<Right><#+12><Right><Right><Right><Right><Right><BckSp><CpsLk><CpsLk>B<Down><Down><Down><Down><Down><BckSp>A<Down><Down><Down><Down><Down><BckSp>9<Down><Down><Down><#+5><Down><Down><BckSp>8<Down><Down><Esc><RShft>:W1<BckSp><RShft>!
+2019-07-25 18:41:32+0530 > <RShft>:Q
+2019-07-25 18:41:35+0530 > <RShft>:Q
+2019-07-25 18:42:46+0530 > 
+2019-07-25 18:42:54+0530 > 
+2019-07-25 18:43:49+0530 > <RShft>pLEASE FIND ATTACKED<BckSp><BckSp><BckSp>HED  U-BOOT,<BckSp> AND <BckSp><BckSp><#+22><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>LOAD ATTACHED U-BOOT <RShft>aND<BckSp><BckSp><BckSp>AND KERNEL IMAGE<RShft>(<CpsLk>phy to mac pap<BckSp><BckSp><BckSp>mapp<BckSp> <RShft>& nor <RShft>)<Left><Left> i<BckSp>flash
+2019-07-25 18:54:11+0530 > 
+2019-07-25 18:54:11+0530 > <RShft>R<BckSp>r<CpsLk>EGARDS,
+2019-07-25 18:54:16+0530 > <RShft>mEERASAHIBZTHE 
+2019-07-25 18:54:39+0530 > <RShft>hI,
+2019-07-25 18:54:40+0530 >  CHANGE <Right><#+17><Left><Left> START ADDRESS CHANGE<CpsLk>pinge<LCtrl>fe<LCtrl>ferror
+2019-07-25 18:59:54+0530 > za<BckSp><BckSp><BckSp>zahi<BckSp><BckSp><CpsLk>HIN<BckSp><BckSp><BckSp>ISZ<LCtrl>c
+2019-07-25 19:05:51+0530 > G
+2019-07-25 19:05:59+0530 > <LCtrl>V U-BO<Down>
+2019-07-25 19:06:07+0530 >  T4240
+2019-07-25 19:06:17+0530 > <Del> NXP
+2019-07-25 19:06:42+0530 > <BckSp><BckSp><BckSp>
+2019-07-25 19:09:17+0530 > <LCtrl>FDATA<BckSp>E<Up><Up><Up><Left><Left><Left><Left><Left><Left><BckSp><#+12><BckSp><BckSp><BckSp><BckSp><RShft><Ins>
+2019-07-25 19:14:34+0530 > <Home>VIM 
+2019-07-25 19:15:51+0530 > <Down><#+49><Down><#+14>/CMD
+2019-07-25 19:16:02+0530 > NN<Down><#+19><Down><#+30><Down><#+27><Down><#+2><Down><#+35><Down><#+12><Down><#+24><Down><#+12><Down><#+13><Up><#+20><Down><#+17><Down><#+40><Up><#+38><Up><#+22><Up><#+20><Up><#+18><Up><#+17><Up><#+12><Up><#+9><Up><#+12><Up><#+14><Up><#+14><Up><#+11><Up><#+16>/<RShft><Ins>
+2019-07-25 19:55:13+0530 > <RShft>:Q
+2019-07-25 19:55:17+0530 > <Up><Up><Left><#+10><Left><Left><BckSp><BckSp><BckSp><BckSp><BckSp><RShft><Ins>
+2019-07-25 19:55:25+0530 > <Up><Left><#+8><End><BckSp><#+30>VIM <RShft><Ins>
+2019-07-25 19:57:11+0530 > 
+2019-07-25 19:57:12+0530 > /<Up>
+2019-07-25 19:58:23+0530 > NN/<Up>
+2019-07-25 19:58:28+0530 > N/<CpsLk>cmd
+2019-07-25 19:58:40+0530 > nnnnnnnnnnnnnnnnnnnnnn<#+12><BckSp><#+13><Down><Down>
+2019-07-25 19:59:26+0530 >  co<Down>
+2019-07-25 20:02:22+0530 > <LCtrl>fdate t4240
+2019-07-25 20:05:33+0530 > <LCtrl>f<LCtrl>v<BckSp><#+39><LCtrl>v<LCtrl>f<LCtrl>v<Right><BckSp><BckSp><BckSp><BckSp><LCtrl>f<LCtrl>v<Right><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LCtrl>f<LCtrl>v<LCtrl>f<LCtrl>v<LCtrl>f<LCtrl>f<LCtrl>v<BckSp><#+24><LCtrl>v<BckSp><BckSp><BckSp><CpsLk>D<BckSp><CpsLk>datehow to 
+2019-07-25 20:16:10+0530 > <RShft>:q<BckSp><CpsLk>Q
+2019-07-25 20:22:50+0530 > <LShft><Tab><CpsLk><End><PgDn><Del>
+2019-07-26 04:56:32+0530 > <KP+>
+2019-07-26 04:56:33+0530 > <KP6><KP4><Up>?><
+
+Logging stopped at 2019-07-26 08:43:15+0530
+
