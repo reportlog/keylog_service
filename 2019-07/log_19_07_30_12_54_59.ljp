@@ -1,0 +1,168 @@
+Logging started ...
+
+2019-07-30 12:55:00+0530 > <F8><LCtrl><LShft>T<Esc><#+1><RShft>:<#+4>q
+2019-07-30 13:02:58+0530 > <Esc><Esc><Esc><Esc><RShft>:q
+2019-07-30 13:03:08+0530 > ls
+2019-07-30 13:03:11+0530 > make clean
+2019-07-30 13:03:30+0530 > e<BckSp>make
+2019-07-30 13:03:47+0530 > ls
+2019-07-30 13:04:01+0530 > cd ../ ../ ..
+2019-07-30 13:09:35+0530 > <Up><Left><Left><Left><Left><Left><Left>
+2019-07-30 13:09:42+0530 > <Up><Left><Left><Left><Left><Left><Left><BckSp><Down><Down><Up><Left><Left><BckSp>
+2019-07-30 13:09:53+0530 > cd ..
+2019-07-30 13:10:02+0530 > ls
+2019-07-30 13:10:04+0530 > cd home
+2019-07-30 13:10:28+0530 > ls
+2019-07-30 13:10:30+0530 > cd zumi
+2019-07-30 13:10:36+0530 > ls
+2019-07-30 13:10:38+0530 > cd <LShft>P<CpsLk><Tab><CpsLk><Tab><Tab><BckSp><BckSp><BckSp>d <LShft>pr<Tab><Tab><Tab><Tab><BckSp><BckSp><LShft>Pr<Tab>
+2019-07-30 13:11:19+0530 > ls
+2019-07-30 13:11:21+0530 > <LShft><LCtrl>T<LCtrl>T<BckSp><LCtrl><LShft>Nls<Down><Up><BckSp><BckSp>./pu<Tab>
+2019-07-30 13:16:34+0530 > <Up><#+1><RCtrl><BckSp><Left><#+19><Left><Left><Left><BckSp>\s<Left><BckSp>
+2019-07-30 13:17:00+0530 > <Up><Down>ls
+2019-07-30 13:17:16+0530 > make clea<#+2>n
+2019-07-30 13:17:22+0530 > ls
+2019-07-30 13:17:24+0530 > make
+2019-07-30 13:17:37+0530 > cd ..
+2019-07-30 13:17:59+0530 > cd ..
+2019-07-30 13:18:03+0530 > ls
+2019-07-30 13:18:04+0530 > cd mo<Tab>m<Tab>
+2019-07-30 13:18:14+0530 > ls
+2019-07-30 13:18:15+0530 > cd c<Tab>
+2019-07-30 13:18:19+0530 > ls
+2019-07-30 13:18:20+0530 > make
+2019-07-30 13:18:25+0530 > sehow to enable open terminal option im<BckSp>n ubuntu right mosue <BckSp><BckSp><BckSp><BckSp>use click
+2019-07-30 14:26:49+0530 >  nautilus-open  -terminal<Left><Left><#+21><Left><Left><#+10><Left><Left>sudo 
+2019-07-30 14:30:08+0530 > zs10062013
+2019-07-30 14:30:13+0530 >  <Right><Right><Left> <Up><Left><#+26><Right> pacman -<LShft>S
+2019-07-30 14:31:14+0530 > <Up><Left><#+26><Left><Left><BckSp>
+2019-07-30 14:31:33+0530 >  <Right><Right>   <Up><Left><#+22><Left><Left><Left><Left><Left>\<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>apt-gwt \<BckSp><BckSp><BckSp><BckSp>et install
+2019-07-30 14:34:31+0530 > sudo apt-get updates
+2019-07-30 14:34:54+0530 > <Up><BckSp>\<BckSp>
+2019-07-30 14:35:00+0530 > <Right><Right><Right><Right><Right> how to re,<BckSp>move yellow line from linux
+2019-07-30 14:36:00+0530 >  <#+510> <#+2324>
+2019-07-30 14:39:15+0530 > <Down><Up><Up><Up><Up><Up><Up><Up><Down><BckSp><#+27>o apt<BckSp><BckSp><BckSp>remove appstream
+2019-07-30 14:39:38+0530 > <Up><Left><#+13><Left><Left>a<BckSp> apt <BckSp>
+2019-07-30 14:39:49+0530 > <Up><Left><Left><Left><Left><Left><Left><Left><Left><Left><BckSp>-
+2019-07-30 14:39:54+0530 > <Up><BckSp><#+17><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>apt remove appsrre<BckSp><Ins><Ins><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>trtea<BckSp><BckSp><BckSp>eam
+2019-07-30 14:40:18+0530 > <Up><BckSp><#+15><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>auto<Left><#+9><Left> <Right><Right><Right><Right>remove
+2019-07-30 14:40:38+0530 > <Up><Left><#+11><Left><#+10><Left><Left>
+2019-07-30 14:43:03+0530 > <RShft>
+2019-07-30 14:43:04+0530 > 
+2019-07-30 14:43:04+0530 > 
+2019-07-30 14:43:04+0530 > 
+2019-07-30 14:43:05+0530 > 
+2019-07-30 14:43:05+0530 > 
+2019-07-30 14:43:05+0530 > 
+2019-07-30 14:43:08+0530 > <Up><BckSp><#+14>update
+2019-07-30 14:43:28+0530 > <Up><Left><#+16><Left>sudo 
+2019-07-30 14:43:41+0530 > <Up><Up><Down><Down><Down><LCtrl><LShft>V
+2019-07-30 14:44:29+0530 > <Up><Left><#+30>sudo apt 
+2019-07-30 14:44:38+0530 > 
+2019-07-30 14:45:41+0530 > 
+2019-07-30 14:46:21+0530 > <LCtrl>c
+2019-07-30 14:46:50+0530 > <Up><Up><Down><Down><Down><Up><Down>
+2019-07-30 14:47:07+0530 > <LCtrl>a<Del><#+1><LCtrl>xty<LCtrl>x<LCtrl>c
+2019-07-30 14:49:22+0530 > x<LCtrl>c<#+2>cc<LCtrl>c
+2019-07-30 14:49:28+0530 > <#+5><LCtrl>x<LCtrl>n<Up><Up><Down><Down><#+2><Down>
+2019-07-30 14:50:06+0530 > 
+2019-07-30 14:51:49+0530 > y
+2019-07-30 14:51:53+0530 > <Up><BckSp><#+13><BckSp><BckSp>update
+2019-07-30 14:52:27+0530 > 
+2019-07-30 14:55:19+0530 > 
+2019-07-30 14:55:44+0530 > 
+2019-07-30 14:55:56+0530 > 
+2019-07-30 14:56:04+0530 > <BckSp><#+24>ls
+2019-07-30 14:56:19+0530 > ./c<Tab><#+1><Tab>o<Tab>
+2019-07-30 14:56:27+0530 > 
+2019-07-30 14:56:52+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up>
+2019-07-30 14:57:11+0530 > zs10062013
+2019-07-30 14:57:18+0530 > 
+2019-07-30 14:57:52+0530 > sudo 
+2019-07-30 14:58:04+0530 > <Up><BckSp><#+16><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>
+2019-07-30 14:58:22+0530 > <Up>
+2019-07-30 14:58:31+0530 > <#+8><Up><BckSp><#+11><BckSp><#+10><BckSp><BckSp>
+2019-07-30 14:58:37+0530 > <Up><BckSp><#+23>o 
+2019-07-30 14:58:56+0530 > 
+2019-07-30 14:59:44+0530 > 
+2019-07-30 15:01:46+0530 > <BckSp>so0<BckSp>dd<BckSp><BckSp><BckSp><#+7><Del><#+60><Esc>u<#+14>u<#+12><BckSp><#+32><Down><#+34><BckSp><#+705><BckSp><#+414><BckSp><#+214><LCtrl>xym<#+15>a<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LCtrl>a<LCtrl><LCtrl>a<LCtrl>m<#+3><Up><#+1>
+2019-07-30 15:04:45+0530 > <LCtrl>x<Up><Up><BckSp><#+35>
+2019-07-30 15:05:11+0530 > 
+2019-07-30 15:05:26+0530 > 
+2019-07-30 15:05:34+0530 > 
+2019-07-30 15:05:41+0530 > prasanna<LShft>@zumisolutions.com<LShft>Test mailo<BckSp><BckSp><BckSp><BckSp><BckSp><LShft>Mail
+2019-07-30 15:07:31+0530 > <Up>
+2019-07-30 15:07:49+0530 > <Up><Left><#+10><Right><#+6><Right><#+14><BckSp><#+27>
+2019-07-30 15:08:43+0530 > y
+2019-07-30 15:08:53+0530 > y
+2019-07-30 15:08:58+0530 > <BckSp> <RShft>: <RShft>I<#+2>nayathuk<BckSp>lla <LShft><LMeta><#+2><LShft>G <LShft>Maldar<Down><Left><Left><Left><Left><Left>a<BckSp>s<Left>'<Right><Right><Right><Right><Right><Right><RShft>: <BckSp><LShft>Gulabla<BckSp>jan<Left><Left><Left><BckSp><Down><RShft>: <KP2><KP2><KP/><KP0><KP7><KP0><KP2><KP0><KP1><KP9><Left><Left><Left><Left><BckSp>\/<BckSp><BckSp>/<Left><Left><Left><Down><RShft>: 23/09.<BckSp>/2<BckSp>1995<Down><RShft>:7411135341<Left><Left><Left><Left><Left><Left><Left><Left><Left><Left> <Left><Left><Left><Left><Left><BckSp><BckSp><BckSp><BckSp>m<#+3><BckSp><RShft>
+2019-07-30 15:21:27+0530 > <BckSp><RShft>Mobile<Down><Right><Right><#+26><Right><Right><Right><Right><Right><Right><RShft>: <LShft>#6/0537 <LShft>Gc <LShft>Extension <LShft><BckSp>, <LShft>Panwala <LShft>Buildfing<BckSp><BckSp><BckSp><BckSp>ing, <RShft>MEdleeri<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>edleri <LShft>Road, <LShft>Ranebennur -582111<BckSp><BckSp><BckSp><BckSp>1115<Down><RShft>: <LShft>gulabjan<Left><Left><Left><Left><Left><Left><Left><BckSp><LShft>G<Right><Down><RShft>: <LShft>CIBPM2454<BckSp><BckSp>41j<BckSp><RShft>J<Down><RShft>:<Left><Left><Left><Left><BckSp><BckSp>ar<Right><Right><Right><Right> <KP4><KP1><KP3><KP2><KP1><KP0><KP.><KP6><KP5><BckSp><KP2><KP.><KP3><KP1><Left><Left><Left><Left><Left><BckSp><Right>6<BckSp>5<Right><Right><BckSp><KP0><Down><RShft>:<Left><Left><Left><Left><BckSp><LShft>A<Right><Right><BckSp><LShft>c<BckSp><LShft>C no<BckSp><BckSp><LShft>No<Right><Right> 64083118396<Down><Left><Left><Left><BckSp><RShft>c<Down><Left><Left><Left><Left><BckSp><RShft>C<Right><Right><Right><RShft>: <LShft>SBIN0040738<LCtrl>x<LCtrl>v<LCtrl>x<LCtrl><LCtrl><LCtrl>v<LCtrl><LCtrl>z<#+26><LCtrl>x<LCtrl>v<BckSp><#+16><LCtrl>z<BckSp><LCtrl>v<LCtrl>c
+2019-07-30 15:34:55+0530 > <LCtrl>v<LCtrl>c
+2019-07-30 15:35:10+0530 > <LCtrl>v<LCtrl>v<Left><Left><BckSp>b<BckSp><LShft>B<Right><Left><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><KP3><KP6><BckSp>/09/1995<KP7><KP4><KP1><KP1><KP1><KP3><KP5><KP3><KP4><KP1><LShft>Gulabjan<LShft>CIBPM2441<LShft>J<KP4><KP1><KP3><KP2><KP1><KP0><KP6><KP5><KP2><KP0><KP3><KP1><KP6><KP4><KP0><KP8><KP3><KP1><KP1><KP8><KP3><KP9><KP6><LShft>SBIN0040738<LCtrl><LCtrl>z<LCtrl>zy<#+2><BckSp><RShft>Inau<BckSp>yath<RShft>_details<RShft><Del>
+2019-07-30 15:42:05+0530 > <Up><Up><Left><Left><Left><Left><Left><Left><Left>-get
+2019-07-30 15:42:35+0530 > zs10063<BckSp>2013
+2019-07-30 15:42:42+0530 > <Up><Left><Right><BckSp><BckSp><BckSp><BckSp>grade
+2019-07-30 15:43:38+0530 > y
+2019-07-30 15:43:43+0530 > y
+2019-07-30 15:43:56+0530 > <Left><#+27>sudo 
+2019-07-30 15:45:56+0530 > <Up><Left><#+20><Right><BckSp><BckSp><BckSp><BckSp>
+2019-07-30 15:46:01+0530 > <LShft>PFA<Up><#+29><Down><#+1><Up><Up><Up><Down><Up><Up><Up><Down> --fix missing
+2019-07-30 15:48:57+0530 > <Up><Down><Up><Left><#+10><Left><Left><Left><BckSp>-
+2019-07-30 15:49:06+0530 > <Up><#+1><BckSp><#+20><BckSp><BckSp>grade
+2019-07-30 15:49:57+0530 > y
+2019-07-30 15:50:01+0530 > y
+2019-07-30 15:50:03+0530 > <Up><#+2><Left><#+9><Left><Left><Left>dist-
+2019-07-30 15:51:35+0530 > y
+2019-07-30 15:51:40+0530 > y
+2019-07-30 15:51:42+0530 > <LCtrl><LShft>T<LCtrl><LShft>T<LCtrl><LShft>TTTT
+2019-07-30 15:55:51+0530 > zs10062013
+2019-07-30 15:55:56+0530 > <Up><#+1>
+2019-07-30 15:58:13+0530 > 
+2019-07-30 15:58:32+0530 > <Up>n
+2019-07-30 15:58:37+0530 > 
+2019-07-30 15:58:57+0530 > 
+2019-07-30 15:59:14+0530 > 
+2019-07-30 15:59:29+0530 > 
+2019-07-30 15:59:41+0530 > make
+2019-07-30 15:59:55+0530 > <Up><Up>
+2019-07-30 16:00:02+0530 > <Up>
+2019-07-30 16:00:08+0530 > make
+2019-07-30 16:00:14+0530 > <Up><#+1>
+2019-07-30 16:00:24+0530 > <BckSp><#+31>cd/
+2019-07-30 16:01:10+0530 > cd/
+2019-07-30 16:01:14+0530 > cd<BckSp><BckSp><BckSp>/cds<BckSp>
+2019-07-30 16:01:23+0530 > cd /
+2019-07-30 16:01:26+0530 > 
+2019-07-30 16:01:40+0530 > 
+2019-07-30 16:02:14+0530 > <Down><Down><#+23><BckSp><#+429><LCtrl><LShft>V<LCtrl>xy<LCtrl>aa<#+1>aaa<#+1><BckSp><RShft>A<BckSp><Right><#+31><Right><#+2><LCtrl>aac
+2019-07-30 16:03:20+0530 > <LCtrl>xy<LCtrl>nm<#+1>a
+2019-07-30 16:04:03+0530 > ]
+2019-07-30 16:04:13+0530 > 
+2019-07-30 16:04:27+0530 > 
+2019-07-30 16:04:33+0530 > 
+2019-07-30 16:04:36+0530 > 
+2019-07-30 16:04:50+0530 > 
+2019-07-30 16:05:38+0530 > 
+2019-07-30 16:05:47+0530 > y
+2019-07-30 16:05:52+0530 > y
+2019-07-30 16:05:54+0530 > zs10062013
+2019-07-30 16:08:33+0530 > 
+2019-07-30 16:10:32+0530 > <Up><Down><Up><Left><Left><#+10><Left><Right><#+14><Down><Down><Up><Up><Up><Down><Down><BckSp><#+28><Left><#+10><Left><Left><Left><Left><Left><Left><Left>-get
+2019-07-30 16:11:16+0530 > zs10062013
+2019-07-30 16:11:47+0530 > install mosqifconfig
+2019-07-30 16:16:55+0530 > 
+2019-07-30 16:19:32+0530 > 
+2019-07-30 16:19:32+0530 > 
+2019-07-30 16:19:33+0530 > 
+2019-07-30 16:19:33+0530 > 
+2019-07-30 16:19:33+0530 > 
+2019-07-30 16:19:33+0530 > 
+2019-07-30 16:19:33+0530 > 
+2019-07-30 16:19:34+0530 > <#+15>
+2019-07-30 16:19:35+0530 > 
+2019-07-30 16:19:35+0530 > 
+2019-07-30 16:19:35+0530 > 
+2019-07-30 16:19:36+0530 > <Down>
+
+Logging stopped at 2019-07-30 16:30:13+0530
+
