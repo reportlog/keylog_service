@@ -1,0 +1,82 @@
+Logging started ...
+
+2019-07-29 09:57:32+0530 > <LMeta>lzs<KP1><KP0><KP0><KP6><KP2><KP0><KP1><KP3>
+2019-07-29 10:08:16+0530 > zs10062013
+2019-07-29 10:17:11+0530 > srikanth<Down>
+2019-07-29 10:18:03+0530 > <LShft>YAhoozumi<LShft>@5<LCtrl>x<BckSp>mqtt<RShft>_json
+2019-07-29 10:20:08+0530 > 
+2019-07-29 10:20:09+0530 > <LCtrl>v<LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><BckSp><BckSp><BckSp><LCtrl><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LCtrl>c
+2019-07-29 10:46:53+0530 > <LCtrl>fv<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>zs10062013
+2019-07-29 10:57:20+0530 > zs<KP1><KP0><KP0><KP6><KP2><KP0><KP1><KP3>
+2019-07-29 11:30:11+0530 > <LMeta>lzs<KP1><KP0><KP0><KP6><KP2><KP0><KP1><KP3>
+2019-07-29 17:17:44+0530 > zs<KP1><KP0><KP0><KP6><KP2><KP0><KP1><KP3>
+2019-07-29 18:13:47+0530 > <Esc><RShft>:q
+2019-07-29 18:14:04+0530 > cd <LShft>Down<Tab><LShft>y<Tab><Tab><Tab><BckSp><LShft>Lo<Tab>y<Tab><Tab><Tab><Tab>
+2019-07-29 18:14:27+0530 > ls
+2019-07-29 18:14:28+0530 > cd so<Tab>
+2019-07-29 18:14:33+0530 > s<BckSp>ls
+2019-07-29 18:14:35+0530 > cd me<Tab>s<Tab>-<Tab>st<Tab>
+2019-07-29 18:14:47+0530 > ls
+2019-07-29 18:14:48+0530 > cd cd <BckSp><#+9> <BckSp>d rec<Tab>conn<Tab>
+2019-07-29 18:15:05+0530 > ls
+2019-07-29 18:15:06+0530 > cd ..
+2019-07-29 18:15:09+0530 > ls
+2019-07-29 18:15:10+0530 > cd re<Tab>co<Tab>r<Tab>
+2019-07-29 18:15:17+0530 > ls
+2019-07-29 18:15:18+0530 > cd ..
+2019-07-29 18:15:20+0530 > ls
+2019-07-29 18:15:21+0530 > find <BckSp><BckSp><#+13>zs10062013
+2019-07-29 18:36:52+0530 > grep -ar <RShft>""<Left>bluez
+2019-07-29 18:37:53+0530 > c<#+2>d<BckSp><#+10><Up><Left><BckSp><#+7><BckSp><BckSp><BckSp>mosquitto
+2019-07-29 18:38:11+0530 > cd ..
+2019-07-29 18:38:17+0530 > <Up><Up>
+2019-07-29 18:38:20+0530 > <LCtrl>c
+2019-07-29 18:38:54+0530 > vim <LShft><Ins>
+2019-07-29 18:39:00+0530 > /bluz
+2019-07-29 18:39:04+0530 > <Up>/<Up><BckSp>ez
+2019-07-29 18:39:09+0530 > <Down><#+42>/mosquitto
+2019-07-29 18:39:16+0530 > <Down><#+12><Down><Down><Up><Esc><RShft>:q
+2019-07-29 18:39:24+0530 > <LCtrl><LShft>Tls
+2019-07-29 18:39:28+0530 > cd met<Tab>op<Tab>
+2019-07-29 18:39:34+0530 > ls
+2019-07-29 18:39:35+0530 > cd met<Tab>o<Tab>
+2019-07-29 18:39:41+0530 > ls
+2019-07-29 18:39:42+0530 > cd rec<Tab>conn<Tab>
+2019-07-29 18:39:47+0530 > ls
+2019-07-29 18:39:48+0530 > cd ..
+2019-07-29 18:39:54+0530 > ls
+2019-07-29 18:39:55+0530 > cd ..
+2019-07-29 18:39:57+0530 > s<BckSp>ls
+2019-07-29 18:39:59+0530 > cd ..
+2019-07-29 18:40:09+0530 > finad -name <RShft>""<Left>bluez
+2019-07-29 18:40:16+0530 > <Up><Left><#+13><Left><Left><Left><BckSp><BckSp>d
+2019-07-29 18:40:24+0530 > <Up><Left><#+17><Right><#+9><Right><Right><BckSp><#+12><BckSp><BckSp>grep -ar
+2019-07-29 18:40:38+0530 > <LAlt><Tab>cd po<Tab>met<Tab><Tab><Tab><Tab>/re<Tab>conn<Tab>
+2019-07-29 18:43:15+0530 > ls
+2019-07-29 18:43:16+0530 > cd ../reci<Tab>co<Tab><Tab><Tab>r<Tab><Tab><Tab>p<Tab><Tab><Tab>ack<Tab>
+2019-07-29 18:43:30+0530 > ls
+2019-07-29 18:43:31+0530 > vim pack<Tab>sel<Tab>
+2019-07-29 18:43:39+0530 > /bluez5
+2019-07-29 18:43:44+0530 > <Esc><RShft>:q
+2019-07-29 18:43:47+0530 > grep -ar <RShft>""<Left>bluez5
+2019-07-29 18:44:01+0530 > <Up><Left><BckSp><#+8><BckSp><BckSp><LShft><Ins>
+2019-07-29 18:44:28+0530 > <Up><Left><BckSp><BckSp><BckSp><BckSp><LShft><Ins>
+2019-07-29 18:44:40+0530 > vim <LShft><Ins>
+2019-07-29 18:44:55+0530 > <Down><#+48><Down><#+9><Down><#+22><Down><#+12><Down><#+11><Down><#+16><Down><#+29><Down><#+13><Up><#+13><Up><#+8><Up><Up><#+25><Up><#+12>cd po<Tab>met<Tab><Tab><Tab>/rec<Tab>conn<Tab>
+2019-07-29 18:45:27+0530 > ls
+2019-07-29 18:45:28+0530 > <LMeta><#+7>lzs10062013
+2019-07-29 19:19:20+0530 > /<LShft><Ins>
+2019-07-29 19:19:36+0530 > <Esc><RShft>:q
+2019-07-29 19:19:46+0530 > cd ../../../..
+2019-07-29 19:19:50+0530 > cd re<Tab><Tab><BckSp><BckSp><BckSp> me<Tab>op<Tab>
+2019-07-29 19:19:58+0530 > ls
+2019-07-29 19:19:59+0530 > cd ..
+2019-07-29 19:20:02+0530 > ls
+2019-07-29 19:20:03+0530 > cd ,m<BckSp><BckSp>me<Tab>st<Tab>=<BckSp>-st<Tab><Tab><Tab>rec<Tab>s<Tab><Tab>t<Tab><Tab><Tab><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>
+2019-07-29 19:20:23+0530 > ls
+2019-07-29 19:20:24+0530 > cd <Tab>
+2019-07-29 19:20:25+0530 > ls
+2019-07-29 19:20:26+0530 > cd<BckSp><#+16>
+
+Logging stopped at 2019-07-29 19:20:30+0530
+
