@@ -1,0 +1,33 @@
+Logging started ...
+
+2019-08-02 10:45:09+0530 > 
+2019-08-02 10:45:10+0530 > ya
+2019-08-02 10:45:27+0530 > ya
+2019-08-02 10:47:06+0530 > cd <LShft>BB<Tab><Tab><Tab>/ti<Tab><Tab>b<Tab><Tab><Tab>a<Tab><Tab><Tab>de<Tab><Tab><Tab>im<Tab><Tab><Tab><Tab>
+2019-08-02 11:39:27+0530 > ls -l
+2019-08-02 11:39:28+0530 > cd ../../../wo<Tab><Tab><Tab>/<Tab><Tab>am<Tab><Tab><Tab>3<Tab><Tab><Tab>l<Tab><Tab><Tab><Tab>g<Tab>
+2019-08-02 11:40:06+0530 > ls
+2019-08-02 11:40:08+0530 > vi ar<Tab>arm/bo<Tab>d<Tab>am<Tab><Tab>335<Tab>bo<Tab><BckSp><#+5><Left><#+30><Right><Right><BckSp><BckSp>ls -l<Right><Down><Right><#+29><Tab><Tab><Tab>bl<Tab>.<Tab>
+2019-08-02 11:40:37+0530 > <Up><Home><Del><Del><Del><Del><Del>vim
+2019-08-02 11:40:52+0530 > /mipi
+2019-08-02 11:40:56+0530 > <Esc><LShft>:q<LShft>!
+2019-08-02 11:40:59+0530 > cd -
+2019-08-02 11:41:07+0530 > cd ../../../wo<Tab>-<Tab><Tab><Tab>am<Tab><Tab><Tab>2<BckSp>3<Tab><Tab><Tab><Tab>so<Tab><Tab><Tab>
+2019-08-02 11:41:26+0530 > ls -l ar<Tab>arm/bo<Tab><Tab>
+2019-08-02 11:41:34+0530 > <Up>d<Tab>
+2019-08-02 11:41:39+0530 > cd <BckSp><BckSp><BckSp>ls<BckSp><BckSp>ls
+2019-08-02 11:42:25+0530 > cd <BckSp><BckSp><BckSp><BckSp><Up><Down>cd -
+2019-08-02 11:42:50+0530 > cd<BckSp><BckSp><Up><Up><Up><Up><Up><Up><Down><Up><Up><Up><Up><Up><BckSp><BckSp><BckSp>gi<Tab><BckSp><BckSp><BckSp>
+2019-08-02 11:43:16+0530 > ls
+2019-08-02 11:43:18+0530 > cd b<Tab><Tab><Tab>a<Tab>a<Tab>b<Tab><Tab>
+2019-08-02 11:43:26+0530 > ls -l
+2019-08-02 11:43:27+0530 > cd<BckSp><BckSp><BckSp>ls -dt<BckSp><BckSp><BckSp>-l /dt<Tab>
+2019-08-02 11:43:39+0530 > <Up><Tab><Tab>s<Tab>
+2019-08-02 11:43:41+0530 > <Up><BckSp><BckSp><BckSp><BckSp>d<Tab>
+2019-08-02 11:43:51+0530 > <LAlt><Tab>cp d<Tab><Tab>am<Tab>b<Tab>o<Tab>b<Tab>/med<Tab>z<Tab><Tab>
+2019-08-02 11:45:06+0530 > cp z<Tab>/med<Tab>z<Tab><Tab>
+2019-08-02 11:45:13+0530 > umo<Tab> /me<Tab>
+2019-08-02 11:45:19+0530 > 
+
+Logging stopped at 2019-08-03 09:40:01+0530
+
