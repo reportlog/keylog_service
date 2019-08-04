@@ -1,0 +1,80 @@
+Logging started ...
+
+2019-08-03 12:46:34+0530 > <LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl>fzigbee
+2019-08-03 12:51:30+0530 > <LCtrl>c
+2019-08-03 12:51:39+0530 > <LCtrl>c
+2019-08-03 12:51:58+0530 > <LCtrl>v
+2019-08-03 12:52:01+0530 > <Down><#+21><Down><#+26><Down><#+73><Down><#+10><Up><#+2><Down><#+33><Down><#+58><Down><#+23><Down><#+26><Down><#+11><Down><#+34><Down><#+34><Down><Down><#+39>g
+2019-08-03 12:54:46+0530 > <LCtrl>v
+2019-08-03 12:54:49+0530 > <LCtrl>fddr1g
+2019-08-03 12:55:41+0530 > dcsrg
+2019-08-03 12:55:52+0530 > dcsr<RShft>+t4240
+2019-08-03 12:55:59+0530 > <LCtrl>fdcsrwdtb to dts<LCtrl>v<CpsLk><CpsLk><CpsLk>DCSR QORIQ
+2019-08-03 13:02:01+0530 > <RShft>:Q
+2019-08-03 13:21:25+0530 > <CpsLk><RShft>:q
+2019-08-03 13:21:29+0530 > <RShft>:q
+2019-08-03 13:21:31+0530 > m<LCtrl>v<CpsLk>DTS TO<BckSp><#+9><BckSp>B TO DTS<Up><Up><Down>
+2019-08-03 13:24:19+0530 > G
+2019-08-03 14:43:59+0530 > BEAGLE<BckSp><#+16><CpsLk>beagle<Down><Down><Down><Down> yocto <Down><Down><Down>
+2019-08-03 14:44:28+0530 > <LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl>fyocto
+2019-08-03 14:46:59+0530 > 
+2019-08-03 14:47:00+0530 > 
+2019-08-03 14:47:00+0530 > <#+3>
+2019-08-03 14:47:01+0530 > <#+24><LCtrl><LCtrl><LCtrl><LCtrl> prebuilt 
+2019-08-03 14:48:24+0530 > <LCtrl><LCtrl>fpre <BckSp><LShft><LCtrl><LCtrl>fprebuilt
+2019-08-03 14:48:59+0530 > 
+2019-08-03 14:48:59+0530 > 
+2019-08-03 14:48:59+0530 > 
+2019-08-03 14:49:00+0530 > 
+2019-08-03 14:49:00+0530 > <LCtrl><LCtrl><LCtrl>demo binary
+2019-08-03 14:50:24+0530 > <LCtrl><LCtrl>fbes\a<BckSp><BckSp><BckSp>age<BckSp>le
+2019-08-03 14:51:19+0530 > 
+2019-08-03 14:51:32+0530 > 
+2019-08-03 14:51:34+0530 > 
+2019-08-03 14:51:35+0530 > 
+2019-08-03 14:51:35+0530 > 
+2019-08-03 14:51:35+0530 > <LAlt><Tab><LCtrl><LCtrl><LAlt><Tab><LAlt><Tab><LAlt><Tab><Tab><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl>winsyt\<BckSp><BckSp><BckSp>tonjacob<LShft>@zumis<BckSp><BckSp><BckSp><BckSp><BckSp>firstviewci<BckSp>onsultants.com<Tab><LShft>Jacob-1990<LShft>@2<LCtrl>c
+2019-08-03 14:57:28+0530 > <BckSp><BckSp>zumisolutions<LCtrl><LCtrl><LCtrl><LCtrl><LCtrl>
+2019-08-03 14:58:21+0530 > <LCtrl>yocto
+2019-08-03 14:59:13+0530 > <LCtrl><LCtrl> beaglw<BckSp>ebone black<LCtrl> images
+2019-08-03 15:01:00+0530 > <LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LShft><Left> dow<Down>
+2019-08-03 15:03:22+0530 > <LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl>fbea<BckSp><#+14><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl>c
+2019-08-03 15:07:38+0530 > <LCtrl>fv
+2019-08-03 15:07:42+0530 > 
+2019-08-03 15:07:42+0530 > <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><Left><#+14><Left><BckSp><#+26>
+2019-08-03 15:07:52+0530 > 
+2019-08-03 15:07:52+0530 > 
+2019-08-03 15:07:53+0530 > 
+2019-08-03 15:07:53+0530 > 
+2019-08-03 15:07:53+0530 > 
+2019-08-03 15:07:53+0530 > a<BckSp><LAlt><Tab><LAlt><Tab><LCtrl>z<LShft><LCtrl>c
+2019-08-03 15:08:26+0530 > <LCtrl>v<BckSp><BckSp><BckSp><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgUp><PgDn><PgDn><PgUp><PgDn><PgDn><PgDn><PgDn><PgUp><PgDn><PgDn><PgDn><PgDn><PgUp><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgUp><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgUp><LCtrl><LCtrl><LCtrl>fbeag<LCtrl><BckSp>sd<BckSp><BckSp> <Down><Up><Down><Left><#+15><Right> sd cartd<BckSp><BckSp>d binay
+2019-08-03 15:14:42+0530 > <LCtrl><LCtrl>fyocto
+2019-08-03 15:15:14+0530 > yocto 
+2019-08-03 15:15:30+0530 > <LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl>fyo<BckSp><#+14><LCtrl>g<CpsLk><CpsLk>fayha217g<CpsLk><CpsLk><CpsLk><CpsLk>fayha217quick<Down> rtoarag
+2019-08-03 15:33:45+0530 > <RShft>:q
+2019-08-03 15:34:18+0530 > <RShft>:q
+2019-08-03 15:34:22+0530 > g
+2019-08-03 15:35:52+0530 > <LCtrl>v
+2019-08-03 15:35:54+0530 > <LCtrl>ferr<RShft>_reg<BckSp><#+16>registere<BckSp><LCtrl>f<LCtrl>v<BckSp><BckSp><BckSp><#+11><BckSp><#+12><BckSp><#+1><BckSp><BckSp><BckSp><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgUp><PgUp><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><Down><Up><#+1><Down><PgDn><PgDn><Down><Down><PgDn><PgDn><PgDn><Up><#+10><Up><Up><Up><Up><Up><#+9><LCtrl>c
+2019-08-03 15:51:04+0530 > <LCtrl>f<LCtrl>f<LCtrl>v<RShft>:q
+2019-08-03 15:52:23+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Down><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down><Left><#+11><BckSp><#+15><BckSp><BckSp><BckSp><BckSp><BckSp><RShft><Ins>
+2019-08-03 15:52:38+0530 > vim <RShft><Ins>
+2019-08-03 15:53:24+0530 > <Down><#+28><Down><#+12><Down><#+25>/<RShft><Ins><BckSp><#+29>/<CpsLk><CpsLk><CpsLk><CpsLk><CpsLk>G<CpsLk>iving
+2019-08-03 15:53:51+0530 > /<Up>nn<BckSp><BckSp>
+2019-08-03 15:54:01+0530 > nnnnnnnnn/<Up>
+2019-08-03 15:54:51+0530 > nn<Down><#+8><LCtrl>fnor<LCtrl>fnor<LCtrl>fnorunre<LCtrl>f<LCtrl>v<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><PgDn><#+17><PgDn><#+3><PgDn><#+6><PgUp><PgDn><Up><#+13><Up><#+19><Up><#+20><Up><#+50><Up><#+20><Up><#+9><Up><#+16><Up><#+19><Up><#+9><Up><#+1><Up><#+7><Up><Up><#+19>
+2019-08-03 16:06:03+0530 > <LCtrl>c
+2019-08-03 16:06:50+0530 > <LCtrl>f<Down><#+9><PgDn><#+3><PgDn><PgDn><PgDn><PgUp><LCtrl>funr<LCtrl>funre<LCtrl>v
+2019-08-03 16:10:28+0530 > 
+2019-08-03 16:11:38+0530 > /<RShft><Ins>
+2019-08-03 16:16:04+0530 >  edac
+2019-08-03 16:17:24+0530 > g
+2019-08-03 16:25:40+0530 > linux dts<BckSp><#+15>kernel ddr 
+2019-08-03 16:26:36+0530 > <LCtrl>g
+2019-08-03 16:41:18+0530 > nor v<BckSp>fl<Down> tempo<BckSp><#+9><BckSp><BckSp><BckSp>
+2019-08-03 16:41:36+0530 >  load data in y<BckSp>u boot vanis<Down>
+2019-08-03 16:42:19+0530 > <LCtrl>fdisap<BckSp><BckSp>
+
+Logging stopped at 2019-08-03 16:44:03+0530
+
