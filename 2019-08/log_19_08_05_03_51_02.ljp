@@ -1,0 +1,24 @@
+Logging started ...
+
+2019-08-05 15:51:03+0530 > 
+2019-08-05 15:51:44+0530 > cd bui<Tab>
+2019-08-05 15:51:46+0530 > <LAlt><Tab><LAlt><Tab><LCtrl><LShft>T<LAlt><Tab><LAlt><Tab>cd 
+2019-08-05 15:52:20+0530 > ls<BckSp>l
+2019-08-05 15:52:22+0530 > <LShft>Linux<LShft>_stand<LShft>Alone<LShft>_images
+2019-08-05 15:52:41+0530 > <LCtrl><LShft>T<LAlt><Tab><LAlt><Tab>cd <LShft>~/<LShft>BB<Tab>/ti<Tab>bui<Tab>a<Tab><Tab>w<Tab><BckSp><BckSp><BckSp>d<BckSp><BckSp>de<Tab>im<Tab><BckSp><Tab>a<Tab><Tab><Tab>
+2019-08-05 15:53:13+0530 > ll
+2019-08-05 15:53:14+0530 > <LShft>All<LShft>Images
+2019-08-05 15:53:21+0530 > <LShft>Build
+2019-08-05 15:53:28+0530 > <LAlt><Tab><Tab><Tab><Tab><LAlt><Tab>
+2019-08-05 15:53:38+0530 > make -j4
+2019-08-05 15:53:52+0530 > <LAlt><Tab><LAlt>2<Up>
+2019-08-05 15:54:44+0530 > m
+2019-08-05 16:28:07+0530 > yya
+2019-08-05 16:28:25+0530 > <LAlt><Tab><LAlt><Tab><Down>exit
+2019-08-05 17:54:47+0530 > exit
+2019-08-05 17:55:09+0530 > exit
+2019-08-05 17:55:11+0530 > exit
+2019-08-05 17:55:12+0530 > 
+
+Logging stopped at 2019-08-05 17:55:24+0530
+
