@@ -1,0 +1,137 @@
+Logging started ...
+
+2019-08-14 12:45:07+0530 > zs<KP1><KP0><KP0><KP6><KP2><KP0><KP1><KP3>
+2019-08-14 14:19:00+0530 > zs10062013
+2019-08-14 14:41:34+0530 > nizs<KP1><KP0><KP0><KP6><KP2><KP0><KP1><KP3>
+2019-08-14 14:49:52+0530 > zs10062013
+2019-08-14 18:07:40+0530 > <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>cd /me<Tab>
+2019-08-14 18:10:34+0530 > grep -ar <RShft>""<Left>.bmp
+2019-08-14 18:10:45+0530 > <LCtrl>c
+2019-08-14 18:10:48+0530 > <Up><Home>sudo 
+2019-08-14 18:10:52+0530 > zs<KP1><KP0><KP0><KP6><KP2><KP0><KP1><KP3>
+2019-08-14 18:10:55+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><#+2><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>cd 
+2019-08-14 18:13:44+0530 > cd -
+2019-08-14 18:14:38+0530 > <Up><Up><Up>
+2019-08-14 18:14:40+0530 > 352<LShft><CpsLk>480 bmp files
+2019-08-14 18:18:23+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab>online cro<Down><Down>
+2019-08-14 18:22:26+0530 > bmp <Down>
+2019-08-14 18:24:26+0530 > <F2><F2><F2><F2><LAlt><Tab><F2>splashcd 
+2019-08-14 18:29:04+0530 > cd /me<Tab>z<Tab>bo<Tab>
+2019-08-14 18:29:09+0530 > sudo cp spl<Tab>sp<Tab><Left><RShft>_<BckSp><Left><Left><Left><Left><RShft>_org
+2019-08-14 18:29:23+0530 > sudo cp <LShft>~/<LShft>Dow<Tab><LShft>s<Tab>p<Tab>.
+2019-08-14 18:29:37+0530 > cd 
+2019-08-14 18:30:01+0530 > sudo minicom =<BckSp>-s
+2019-08-14 18:30:45+0530 > <Down><Down>
+2019-08-14 18:30:47+0530 > a<BckSp><BckSp><BckSp><BckSp><LShft>ACM0
+2019-08-14 18:30:53+0530 > ee
+2019-08-14 18:30:55+0530 > 
+2019-08-14 18:30:57+0530 > <Down><Down><Down><Down><Down><Up><Up>
+2019-08-14 18:31:01+0530 > <Down><Down>
+2019-08-14 18:31:05+0530 > 
+2019-08-14 18:32:00+0530 > 
+2019-08-14 18:32:00+0530 > 
+2019-08-14 18:32:00+0530 > cd /
+2019-08-14 18:32:01+0530 > <LCtrl><LShft>Tcd /me<Tab>z<Tab>bo<Tab>
+2019-08-14 18:32:48+0530 > ls
+2019-08-14 18:32:49+0530 > mv spl<Tab>.<Tab>sp<Tab><RShft>_mod.bmp
+2019-08-14 18:33:03+0530 > <Up><Home>sudo 
+2019-08-14 18:33:08+0530 > zs<KP1><KP0><KP0><KP6><KP2><KP0><KP1><KP3>
+2019-08-14 18:33:12+0530 > mv sp<Tab>o<Tab>sp<Tab><BckSp>.bmp
+2019-08-14 18:33:23+0530 > <Up><Home>sudo 
+2019-08-14 18:33:27+0530 > cd 
+2019-08-14 18:33:30+0530 > 
+2019-08-14 18:33:51+0530 > <LAlt><Tab><Tab><Tab><Tab>cd /<BckSp>-
+2019-08-14 18:34:42+0530 > ls
+2019-08-14 18:34:44+0530 > cd <BckSp><#+12>cd et<Tab><BckSp>x<Tab>
+2019-08-14 18:34:52+0530 > ls
+2019-08-14 18:34:52+0530 > cd <BckSp><#+12>vim <Tab>
+2019-08-14 18:34:58+0530 > <Down><Down><Right><Right><#+8><Right><Right><Right><Right><Right><Right><#+22><LCtrl><LShft>Tcd ..
+2019-08-14 18:35:34+0530 > ls
+2019-08-14 18:35:35+0530 > i<Right><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><#+5><BckSp><BckSp><BckSp><LShft><Ins><Esc><RShft>:wq
+2019-08-14 18:35:53+0530 > <Esc><RShft>:wq<LShft>!
+2019-08-14 18:35:56+0530 > 
+2019-08-14 18:35:58+0530 > <Esc><RShft>:wq
+2019-08-14 18:36:01+0530 > <RShft>:wq<LShft>!
+2019-08-14 18:36:06+0530 > 
+2019-08-14 18:36:07+0530 > <Esc><RShft>:wq<LShft>!
+2019-08-14 18:36:13+0530 > 
+2019-08-14 18:36:16+0530 > <Esc>u<Esc><RShft>:wq<BckSp><BckSp>q<LShft>!
+2019-08-14 18:36:26+0530 > <Up>
+2019-08-14 18:36:33+0530 > ls
+2019-08-14 18:36:45+0530 > <RShft><Del>
+2019-08-14 18:38:11+0530 > <LAlt><Tab>3<F2>splash<LCtrl>sudo rm sp<Tab><RShft>_<Tab>
+2019-08-14 18:40:11+0530 > zs<KP1><KP0><KP0><KP6><KP2><KP0><KP1><KP3>
+2019-08-14 18:40:16+0530 > ls
+2019-08-14 18:40:20+0530 > m<BckSp>sudo mv sl<Tab><BckSp>pl<Tab>sp<Tab><Left><#+9><RShft>_org
+2019-08-14 18:40:33+0530 > sudo cp <LShft>~/<LShft>Down<Tab>sp<Tab>.
+2019-08-14 18:40:42+0530 > ls
+2019-08-14 18:40:43+0530 > cd 
+2019-08-14 18:40:45+0530 > <Esc><RShft>:q
+2019-08-14 18:41:11+0530 > c<BckSp>dcd<BckSp><BckSp><BckSp>cd 
+2019-08-14 18:41:16+0530 > <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>zs<KP1><KP0><KP0><KP6><KP2><KP0><KP1><KP3>
+2019-08-14 18:54:59+0530 >  pri
+2019-08-14 18:55:32+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab>cd -
+2019-08-14 19:00:41+0530 > cd <BckSp><#+9><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down><#+5><Up>
+2019-08-14 19:00:57+0530 > ls
+2019-08-14 19:00:58+0530 > mv sp<Tab>sp<Tab><Left><RShft>_org
+2019-08-14 19:01:08+0530 > <Up><Home>sudo 
+2019-08-14 19:01:11+0530 > zs<KP1><KP0><KP0><KP6><KP2><KP0><KP1><KP3>
+2019-08-14 19:01:17+0530 > sudo cp <LShft>~/<LShft>Down<Tab>s<Tab><Tab>p<Tab>.
+2019-08-14 19:01:35+0530 > cd 
+2019-08-14 19:01:38+0530 > cd 
+2019-08-14 19:01:40+0530 > cd -
+2019-08-14 19:04:05+0530 > cd /me<Tab>z<Tab>bo<Tab>
+2019-08-14 19:04:12+0530 > ls
+2019-08-14 19:04:13+0530 > mv sp<Tab> s<Tab>p<Tab><RShft>_mo
+2019-08-14 19:04:25+0530 > <Up>d<Home>sudo 
+2019-08-14 19:04:31+0530 > mv s<Tab>p<Tab>o<Tab>s<Tab>p<Tab><BckSp>
+2019-08-14 19:04:42+0530 > <Up><Home>sudo 
+2019-08-14 19:04:46+0530 > cd 
+2019-08-14 19:04:47+0530 > <BckSp><F2>cd -
+2019-08-14 19:06:51+0530 > cd ..
+2019-08-14 19:06:53+0530 > grep -ar <RShft>""<Left>lgo.png<Left><Left><Left><Left><Left><Left>o
+2019-08-14 19:07:06+0530 > <LCtrl>c
+2019-08-14 19:07:13+0530 > <Up><Home>sudo 
+2019-08-14 19:07:16+0530 > <LCtrl>flogo<BckSp><BckSp><BckSp><BckSp>splas<BckSp><BckSp><BckSp><BckSp><BckSp>.bmp<BckSp><#+13>zs<KP1><KP0><KP0><KP6><KP2><KP0><KP1><KP3>
+2019-08-14 19:25:03+0530 > <Up><Left><Left><Down><Up><Left><BckSp><#+9><BckSp><BckSp><BckSp>splash.bmp
+2019-08-14 19:25:35+0530 > zs<KP1><KP0><KP0><KP6><KP2><KP0><KP1><KP3>
+2019-08-14 19:25:40+0530 > .bmp files
+2019-08-14 19:26:16+0530 > 480<LShft><CpsLk><Down><Down><Down><Down><BckSp><#+11><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>bmp files
+2019-08-14 19:30:40+0530 > online bmp filw <BckSp><BckSp>w<BckSp>e crop
+2019-08-14 19:32:20+0530 > online <LShft><LShft>BMO<BckSp>P crop<Down>
+2019-08-14 19:34:00+0530 > <Right><Right><Right><Right><Right><LCtrl><KP+><KP+><KP-><KP-><LShft><KP+><KP+><KP+><LShft><Up><Up><LCtrl><Up><F2>splash<F2>1<F2>splash<LCtrl>c
+2019-08-14 19:39:11+0530 > <#+1>cd bo<Tab>
+2019-08-14 19:39:19+0530 > ls
+2019-08-14 19:39:20+0530 > mv spl<Tab> sp<Tab><RShft>_org
+2019-08-14 19:39:44+0530 > <Up><Home>sudo 
+2019-08-14 19:39:49+0530 > co<BckSp>p <LShft>~/<LShft>Down<Tab>s<Tab>p<Tab>.<Tab>.
+2019-08-14 19:40:11+0530 > <Up><Home>sudo 
+2019-08-14 19:40:15+0530 > cd 
+2019-08-14 19:40:18+0530 > 
+2019-08-14 19:41:04+0530 > 
+2019-08-14 19:41:06+0530 > 
+2019-08-14 19:41:07+0530 > <LAlt><Tab><Tab><Tab><Tab>cd -
+2019-08-14 19:41:32+0530 > ls
+2019-08-14 19:41:33+0530 > rm spl<Tab>
+2019-08-14 19:41:50+0530 > yes
+2019-08-14 19:41:54+0530 > <Up><Home>sudo 
+2019-08-14 19:41:58+0530 > <Up><BckSp><Tab>m<Tab>
+2019-08-14 19:42:07+0530 > mv s<Tab>pl<Tab>sp<Tab><BckSp><BckSp><BckSp><BckSp><BckSp>
+2019-08-14 19:42:15+0530 > <Up><Home>sudo 
+2019-08-14 19:42:19+0530 > cd
+2019-08-14 19:42:20+0530 > <Left>2<BckSp>2cd 
+2019-08-14 19:45:27+0530 > cd -
+2019-08-14 19:45:29+0530 > cd /me<Tab>z<Tab>bo<Tab>
+2019-08-14 19:45:34+0530 > ls
+2019-08-14 19:45:35+0530 > sudo cp <LShft>~/d<BckSp><LShft>Do<Tab>w<Tab>sp<Tab>2<Tab>.
+2019-08-14 19:45:54+0530 > ls
+2019-08-14 19:45:55+0530 > sudo rm spl<Tab>.<Tab>
+2019-08-14 19:46:04+0530 > sudo mv sp<Tab>2<Tab>sp<Tab>.bmp
+2019-08-14 19:46:15+0530 > ls
+2019-08-14 19:46:17+0530 > cd 
+2019-08-14 19:46:19+0530 > zs10062013
+2019-08-14 19:52:20+0530 > zs10062013
+2019-08-14 21:16:08+0530 > 
+
+Logging stopped at 2019-08-14 21:16:38+0530
+
