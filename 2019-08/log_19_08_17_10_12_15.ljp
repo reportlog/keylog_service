@@ -1,0 +1,199 @@
+Logging started ...
+
+2019-08-17 10:12:15+0530 > srikanth<LShft><Down>
+2019-08-17 10:12:47+0530 > <LShft>YAhoozumi<LShft>@5<LCtrl>x<LShft>Sources<Left><#+10><Left><LShft>All<RShft>_
+2019-08-17 10:14:22+0530 > 
+2019-08-17 10:14:22+0530 > <LCtrl>v<LShft>Bluez5 <LShft>API dov<BckSp>cument
+2019-08-17 10:17:29+0530 > cd <LShft><LShft>Dow<Tab><LShft>Lo<Tab>yo<Tab>yo<Tab><Tab><Tab>so<Tab><BckSp><#+9><BckSp><BckSp>so<Tab><Tab><Tab>me<Tab>op<Tab>
+2019-08-17 10:19:41+0530 > ls
+2019-08-17 10:19:42+0530 > cd me<Tab>o<Tab>
+2019-08-17 10:19:53+0530 > ls
+2019-08-17 10:19:54+0530 > cd ..
+2019-08-17 10:20:23+0530 > ls
+2019-08-17 10:20:24+0530 > cd ..
+2019-08-17 10:20:28+0530 > ls
+2019-08-17 10:20:29+0530 > cd po<Tab>
+2019-08-17 10:20:34+0530 > ls
+2019-08-17 10:20:35+0530 > cd me<Tab>
+2019-08-17 10:20:39+0530 > ls
+2019-08-17 10:20:40+0530 > cd re<Tab>conn<Tab>
+2019-08-17 10:20:46+0530 > k<BckSp>ls
+2019-08-17 10:20:47+0530 > cd bl<Tab>
+2019-08-17 10:20:50+0530 > ls
+2019-08-17 10:20:50+0530 > cd bl<Tab>
+2019-08-17 10:20:52+0530 > ls
+2019-08-17 10:20:53+0530 > cd ../../../..
+2019-08-17 10:20:59+0530 > cd ../../bu<Tab>
+2019-08-17 10:21:04+0530 > ls
+2019-08-17 10:21:05+0530 > cd tm<Tab>
+2019-08-17 10:21:08+0530 > ls
+2019-08-17 10:21:09+0530 > cd <BckSp><#+12>grep -ar <RShft>""<Left>bluez
+2019-08-17 10:21:25+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LCtrl><LShft>Tls
+2019-08-17 10:25:14+0530 > cd wo<Tab>-sh<Tab>
+2019-08-17 10:25:18+0530 > ls
+2019-08-17 10:25:19+0530 > cd stm<Tab>
+2019-08-17 10:25:22+0530 > ls
+2019-08-17 10:25:22+0530 > cd ker<Tab>s<Tab>
+2019-08-17 10:25:26+0530 > ls
+2019-08-17 10:25:27+0530 > cd dr<Tab>
+2019-08-17 10:25:30+0530 > ls
+2019-08-17 10:25:31+0530 > <Down><Down>
+2019-08-17 10:26:02+0530 > <LCtrl>x<LCtrl>v<LAlt><Tab><LShft>Bluez source <Down><Right><Down>
+2019-08-17 10:27:19+0530 >  for yocto
+2019-08-17 10:27:54+0530 > <BckSp><BckSp><BckSp><BckSp><BckSp>source code yocto
+2019-08-17 10:32:05+0530 > <LMeta><#+4>l
+2019-08-17 10:34:59+0530 > zszs10062013
+2019-08-17 10:35:11+0530 > cd ../..
+2019-08-17 10:36:51+0530 > ls
+2019-08-17 10:36:53+0530 > cd tf<Tab>
+2019-08-17 10:37:08+0530 > ls
+2019-08-17 10:37:09+0530 > cd dr<Tab>
+2019-08-17 10:37:15+0530 > ls
+2019-08-17 10:37:16+0530 > cd ..
+2019-08-17 10:37:27+0530 > ls
+2019-08-17 10:37:28+0530 > cd ..
+2019-08-17 10:37:40+0530 > ls
+2019-08-17 10:37:41+0530 > cd tf<Tab>
+2019-08-17 10:37:48+0530 > ls
+2019-08-17 10:37:49+0530 > cd ..
+2019-08-17 10:38:33+0530 > <RShft><Del>
+2019-08-17 10:39:26+0530 > <RShft><Del>
+2019-08-17 10:40:00+0530 > <LAlt><Tab>cd ..
+2019-08-17 10:40:57+0530 > ls
+2019-08-17 10:40:58+0530 > cd ..
+2019-08-17 10:41:01+0530 > ls
+2019-08-17 10:41:01+0530 > cd sw<BckSp>w<BckSp><BckSp>wo<Tab>
+2019-08-17 10:47:56+0530 > ls
+2019-08-17 10:47:57+0530 > cd co<Tab>
+2019-08-17 10:48:01+0530 > ls
+2019-08-17 10:48:02+0530 > cd ../..
+2019-08-17 10:48:08+0530 > ls
+2019-08-17 10:48:09+0530 > cd ..
+2019-08-17 10:48:11+0530 > grep -ar <RShft>""<Left>sdvertise<Left><#+9><Left><Left><BckSp>a
+2019-08-17 10:48:31+0530 > zs10062013
+2019-08-17 10:55:49+0530 > <LCtrl><LShft>Tcd ../../../..
+2019-08-17 10:57:02+0530 > cd <BckSp><#+7>l<BckSp><BckSp>ls
+2019-08-17 10:57:05+0530 >  cd mq<Tab><RShft>_<Tab><RShft>_1<Tab>
+2019-08-17 10:57:18+0530 > ls
+2019-08-17 10:57:19+0530 > <LCtrl>c
+2019-08-17 10:57:36+0530 > 
+2019-08-17 10:58:02+0530 > 
+2019-08-17 10:58:02+0530 > <LCtrl>vsss<LCtrl>c
+2019-08-17 10:58:08+0530 > <LCtrl><LShft>V
+2019-08-17 10:58:11+0530 > <LAlt><Tab><LAlt><Tab>make clean
+2019-08-17 10:58:18+0530 > make
+2019-08-17 10:58:21+0530 > vim in<Tab>comm<Tab>
+2019-08-17 10:58:50+0530 > l<BckSp>e<Down><#+23><Up><Up><Down><LCtrl><LShft><Esc><RShft>:q
+2019-08-17 10:59:07+0530 > vim <LShft>MA<Tab><BckSp><Tab>
+2019-08-17 10:59:13+0530 > <Esc><RShft>:q
+2019-08-17 10:59:17+0530 > <Up>
+2019-08-17 10:59:19+0530 > <Down><Down><Down><Down><Down><Down><Down><Up><Up><Up><Right><#+17><Right><Right><Right><Right><Right><LCtrl><LShft>Tcd /usr<Tab>li<Tab>
+2019-08-17 10:59:33+0530 > ls
+2019-08-17 10:59:34+0530 > cd mos<Tab><Tab><Tab><Tab><Tab><BckSp><BckSp><BckSp><Tab><Tab><BckSp>mos<Tab><Tab>q<Tab><Tab><Tab><BckSp><#+28><LAlt><Tab><LAlt><Tab><Esc><RShft>:q
+2019-08-17 11:00:06+0530 > sudo apt-get install mosquitto
+2019-08-17 11:00:18+0530 > zs<KP1><KP0><KP0><KP6><KP2><KP0><KP1><KP3>
+2019-08-17 11:00:22+0530 > sud<BckSp><#+10><Up><BckSp><#+5><Tab>o<Tab><BckSp>-clients
+2019-08-17 11:00:55+0530 > make
+2019-08-17 11:01:11+0530 > cd ../..
+2019-08-17 11:01:41+0530 > cd 
+2019-08-17 11:01:42+0530 > cd <LShft><LShft><LShft>Do<Tab>wn<Tab><LShft>Lo<Tab>mq<Tab><RShft>_j<Tab><RShft>_<Tab>
+2019-08-17 11:01:55+0530 > ls
+2019-08-17 11:01:55+0530 > vim <LShft>Ma<Tab>
+2019-08-17 11:01:58+0530 > <Down><Down><Down><Down><Right><#+19><Right><Up><Up><Right><#+6><Right><Right><Right><Right><Right><Right><Right><LCtrl><LShft><LCtrl>cd ..
+2019-08-17 11:02:31+0530 > ls
+2019-08-17 11:02:32+0530 > cd mos<Tab>q<Tab>
+2019-08-17 11:02:37+0530 > ls
+2019-08-17 11:02:38+0530 > cd li<Tab>
+2019-08-17 11:02:45+0530 > ls
+2019-08-17 11:02:46+0530 > pwd
+2019-08-17 11:02:50+0530 > <Up><Left><Down><Left><#+7><Left><Left><Left><Left>i<Right><Del><#+22><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><LShft><Ins><Right><Right><Right>cd ../..<BckSp><#+17>cd ../..
+2019-08-17 11:03:32+0530 > ls
+2019-08-17 11:03:33+0530 > cd ../j<Tab>c<Tab>
+2019-08-17 11:04:54+0530 > ls
+2019-08-17 11:04:55+0530 > pwd
+2019-08-17 11:04:58+0530 > <Del><#+27><Del><Del><Del><Esc>u<Del><#+12><Del><#+20><Del><Del><Del><Del><Del><LShft><Ins><BckSp><#+29><BckSp><BckSp><BckSp><BckSp>i<LShft><Ins><Esc><RShft>:wq
+2019-08-17 11:05:52+0530 > cd ../<LShft>Lo<Tab>mq<Tab><RShft>_<Tab><RShft>_1<Tab>
+2019-08-17 11:06:06+0530 > set <RShft>| grep <LShft>CROSS
+2019-08-17 11:06:13+0530 > make
+2019-08-17 11:06:15+0530 > vim <LShft><Ins>
+2019-08-17 11:07:27+0530 > e<Down><#+18><Down><#+19><Up><Up><Right><#+16><Right><Esc><RShft>:q
+2019-08-17 11:07:39+0530 > cd ../../j<Tab><LShft>C<Tab><BckSp>c<Tab>
+2019-08-17 11:07:52+0530 > ls
+2019-08-17 11:07:52+0530 > vim <LShft>Ma<Tab>
+2019-08-17 11:08:16+0530 > <Down><Down><Down><Down><Up><Up><Right><#+79><Right>i<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><Esc><RShft>:wq
+2019-08-17 11:08:40+0530 > cd ..
+2019-08-17 11:08:50+0530 > mv j<Tab>c<Tab> j<Tab>c
+2019-08-17 11:08:57+0530 > make
+2019-08-17 11:09:05+0530 > bluez <Down><Down><Down><Down>
+2019-08-17 11:10:51+0530 > for yocto
+2019-08-17 11:11:10+0530 >  <LShft>STM
+2019-08-17 11:11:37+0530 > <LAlt><Tab>cd /us<Tab>in<Tab>
+2019-08-17 11:12:11+0530 > ls
+2019-08-17 11:12:11+0530 > <Esc><RShft>cd <BckSp><BckSp><BckSp>cd ../..
+2019-08-17 11:12:35+0530 > vim <LShft>Ma<Tab>
+2019-08-17 11:12:54+0530 > <Esc><RShft>:q
+2019-08-17 11:13:18+0530 > make clean
+2019-08-17 11:13:22+0530 > make
+2019-08-17 11:13:24+0530 > <Up><Up><Up>
+2019-08-17 11:14:16+0530 > <Esc><RShft>:q
+2019-08-17 11:15:26+0530 > 
+2019-08-17 11:15:31+0530 > 
+2019-08-17 11:15:31+0530 > cd 
+2019-08-17 11:15:33+0530 > <Up>
+2019-08-17 11:16:23+0530 > <BckSp><LAlt><Tab><LAlt><Tab><Esc><RShft>:q
+2019-08-17 11:24:18+0530 > <Up>
+2019-08-17 11:24:27+0530 > <Right><#+19><Down><Down><Right><#+66><Right><Right><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><Esc><RShft>:q
+2019-08-17 11:25:14+0530 > vim in<Tab>comm<Tab>
+2019-08-17 11:25:22+0530 > e<Down><#+28><Down><Down><Up><Right><#+16>i<Right><BckSp><BckSp><BckSp><BckSp><BckSp><Esc><RShft>:wq
+2019-08-17 11:25:33+0530 > make
+2019-08-17 11:25:35+0530 > <Up>dc /.
+2019-08-17 11:26:44+0530 > <LCtrl>c
+2019-08-17 11:26:45+0530 > cd /
+2019-08-17 11:26:47+0530 > sudo find -name <RShft>""<Left><LShft><Ins>
+2019-08-17 11:26:55+0530 > zs<KP1><KP0><KP0><KP6><KP2><KP0><KP1><KP3>
+2019-08-17 11:27:00+0530 > <Left>5 source code 
+2019-08-17 11:32:58+0530 > <BckSp><#+13>sudo apt-get install how to install json<Down><Down><Down><Down>
+2019-08-17 11:35:36+0530 > <LCtrl>c
+2019-08-17 11:35:58+0530 > <LAlt><Tab><LCtrl><LShft><BckSp><#+28><LCtrl><LShft>V
+2019-08-17 11:36:03+0530 > zs<KP1><KP0><KP0><KP6><KP2><KP0><KP1><KP3>
+2019-08-17 11:36:08+0530 > y
+2019-08-17 11:36:13+0530 > <LAlt><Tab><LCtrl>c
+2019-08-17 11:36:22+0530 > <LAlt><Tab><LCtrl><LShft>V
+2019-08-17 11:40:21+0530 > vim hu<Tab><BckSp>o<Tab>mm<Tab>
+2019-08-17 11:40:37+0530 > e<Down><#+28><Down><Down><Right><#+11><Right><Right><Esc><RShft>:wq
+2019-08-17 11:40:53+0530 > make\
+2019-08-17 11:40:55+0530 > <LCtrl>c
+2019-08-17 11:40:56+0530 > make
+2019-08-17 11:40:58+0530 > <LCtrl><LShft>Tcd <BckSp>cd <LShft>Down<Tab><BckSp><#+17>cd 
+2019-08-17 11:42:56+0530 > cd <LShft>Down<Tab>
+2019-08-17 11:42:59+0530 > ls
+2019-08-17 11:42:59+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LCtrl><LShft>c
+2019-08-17 11:44:07+0530 > <LAlt><Tab><LCtrl>fv<LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LCtrl>fv<LCtrl>c
+2019-08-17 11:45:52+0530 > <LCtrl>v<LCtrl>c
+2019-08-17 11:46:23+0530 > c
+2019-08-17 11:46:23+0530 > <Up>
+2019-08-17 11:46:36+0530 > vim mq<Tab>
+2019-08-17 11:46:59+0530 > <RShft>:10e<RShft>:105
+2019-08-17 11:47:07+0530 > <Right><#+12><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Down><#+12><Down><Down><Down><Down><Down><Down>i
+2019-08-17 11:47:22+0530 > 
+2019-08-17 11:47:22+0530 > 
+2019-08-17 11:47:23+0530 > <Up><BckSp><BckSp><BckSp><Esc><RShft>:q<LShft>!
+2019-08-17 11:47:29+0530 > ls
+2019-08-17 11:47:33+0530 > vim js<Tab>
+2019-08-17 11:47:41+0530 > e<Down><#+29>/<LShft>TRUE
+2019-08-17 11:47:49+0530 > how to <BckSp><#+16><LAlt><Tab><LAlt><Tab><LAlt><Tab><Esc><RShft>:q
+2019-08-17 11:49:29+0530 > vim in<Tab><BckSp><#+1><Tab>comm<Tab>
+2019-08-17 11:49:36+0530 > e<Down><#+45><Up><Up><Up><Up><Up><Up><Up><Right><Down><Right><Right>i<Right><BckSp><BckSp><BckSp><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><BckSp><BckSp><Esc><RShft>:wq
+2019-08-17 11:50:12+0530 > <Up>
+2019-08-17 11:50:36+0530 > e<Down><#+51><Up><Up><Up><Up><Up><Up><Up><Up><Right><Right>i<Right><BckSp><BckSp><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Up><Up><Up><Up><Down><Down><Down><Down><Down><Up><Up><Up><Up><Up><Up><Up><Down><#+12><Right><Right><Right><Right><Right><Up><#+58><Down><#+57>f<Esc><RShft>:wq
+2019-08-17 11:51:14+0530 > make clean
+2019-08-17 11:51:26+0530 > make
+2019-08-17 11:51:29+0530 > <LCtrl><LShft>c
+2019-08-17 11:52:10+0530 > <LCtrl>v
+2019-08-17 11:52:14+0530 > vim <LShft>Ma<Tab>
+2019-08-17 11:53:34+0530 > <Down><#+10><Down><Up><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><#+6><Down><Down><Down><Down><Down><Down><Up><Down><Down><Down><Down><Down><Up><Up><#+13><Up><#+12><Up><#+32><Down><Down><Down><Down><Down><Down><LAlt><Tab><LAlt><Tab><Esc><RShft>:q
+2019-08-17 11:54:52+0530 > <LAlt><Tab><LAlt><Tab> <LShft>SRIK<KP4><KP4><KP1><KP9><LShft>S<BckSp><BckSp><LShft>MEDI<KP4><KP4><KP1><KP9>
+2019-08-17 12:01:57+0530 > 
+
+Logging stopped at 2019-08-17 12:02:36+0530
+
