@@ -1,0 +1,426 @@
+Logging started ...
+
+2019-08-19 08:21:49+0530 > zs10062013
+2019-08-19 10:33:54+0530 > ma<Down><Down><Down><Down><Down>
+2019-08-19 10:36:06+0530 > srikanh<LShft>@zumisolutions.com<Tab>t<LShft>YAhoozumi<LShft>@5<LShft>Hi <LShft>Raghu,
+2019-08-19 10:38:14+0530 > 
+2019-08-19 10:38:15+0530 >     <LShft>I have wrongly attached the <LShft>Firmware <LShft>Checklist on last saturday.<LShft>Please find the<Left><#+12><Left><Left><Left><Left><Left><Left> <End> below attachment.<LCtrl>x<#+1><LCtrl>vzs10062013
+2019-08-19 10:58:49+0530 > zs10062013
+2019-08-19 11:16:14+0530 > srikanth<LShft>@<BckSp>medisetty<LShft>@yahoo.com<Tab><LShft>YAhoozumi<LShft>@5<LCtrl>x<#+1><LCtrl>v<Del><LCtrl>x<LCtrl>v<RShft><Del>
+2019-08-19 11:28:05+0530 > <LCtrl>x<LCtrl>v<LCtrl>x<LCtrl>vcd <LShft>Down<Tab><LShft>Lo<Tab><LShft>U<Tab>
+2019-08-19 11:29:35+0530 > ls
+2019-08-19 11:29:36+0530 > cd <BckSp><#+10>cd ..
+2019-08-19 11:46:59+0530 > ls
+2019-08-19 11:46:59+0530 > mq<Tab><RShft>_j<Tab><RShft>_<Tab>
+2019-08-19 11:47:13+0530 > ls
+2019-08-19 11:47:13+0530 > cd mqtt<Tab><RShft>_j<Tab>
+2019-08-19 11:47:22+0530 > ls
+2019-08-19 11:47:23+0530 > make clean
+2019-08-19 11:47:30+0530 > <LCtrl>c
+2019-08-19 11:47:40+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><Tab><LCtrl><LShft>V
+2019-08-19 11:47:45+0530 > make
+2019-08-19 11:47:48+0530 > cd ..
+2019-08-19 11:48:05+0530 > ls
+2019-08-19 11:48:06+0530 > cd mq<Tab><RShft>_j<Tab><RShft>_1<Tab>
+2019-08-19 11:48:13+0530 > ls
+2019-08-19 11:48:13+0530 > make cle<Tab>
+2019-08-19 11:48:17+0530 > make
+2019-08-19 11:48:20+0530 > vim <LShft>Ma<Tab>
+2019-08-19 11:48:33+0530 > <Down><Down><Down><Esc><RShft>:q
+2019-08-19 11:48:44+0530 > vim ../m<Tab>q<Tab><RShft>_j<Tab>/<RShft>M<Tab>
+2019-08-19 11:48:55+0530 > <RShft>:q
+2019-08-19 11:49:23+0530 > <Up><Up>
+2019-08-19 11:49:24+0530 > <Down><#+10><Down><Up>i<RShft><Esc><#+1><RShft>:q
+2019-08-19 11:49:33+0530 > <Up>
+2019-08-19 11:49:36+0530 > i
+2019-08-19 11:49:39+0530 > 3<BckSp><RShft>
+2019-08-19 11:49:41+0530 > #<Down><Left><RShft>#<Down><Down><Left><Left>
+2019-08-19 11:49:49+0530 > 3<BckSp>
+2019-08-19 11:49:51+0530 > <#+2><BckSp><BckSp><RShft>#<Down><Down><Left><RShft>#<Down>
+2019-08-19 11:49:55+0530 > <LShft><Ins><Esc><#+1><RShft>:W<RShft>q<BckSp><BckSp>wq<RShft>!
+2019-08-19 11:49:59+0530 > <Up><Up><Up><Up>
+2019-08-19 11:50:01+0530 > <Up><Up><Down><Down>cd ob<Tab>
+2019-08-19 11:50:21+0530 > ls
+2019-08-19 11:50:22+0530 > cd ..
+2019-08-19 11:50:29+0530 > inn<BckSp>inmakefike<BckSp><BckSp>levim <LShft>Ma<Tab>
+2019-08-19 12:06:33+0530 > inn<BckSp>
+2019-08-19 12:08:03+0530 > <LShft>RFS<LCtrl>c
+2019-08-19 12:10:41+0530 > c
+2019-08-19 12:10:41+0530 > <LAlt><Tab><LCtrl>c
+2019-08-19 12:10:46+0530 > c
+2019-08-19 12:10:46+0530 > <LAlt><Tab><LCtrl>v<LAlt><Tab><LMeta><#+5>lzs10062013
+2019-08-19 12:21:16+0530 >  zs10062013
+2019-08-19 12:36:08+0530 > zs10062013
+2019-08-19 12:36:18+0530 > <LCtrl><LShft>Tcd ../..<BckSp><BckSp>yo<Tab>yo<Tab><Tab><Tab>rf<Tab><Tab><Tab><BckSp><BckSp><BckSp><#+21><Tab>rf<Tab>
+2019-08-19 12:39:51+0530 > ls
+2019-08-19 12:39:52+0530 > cd l<Tab>
+2019-08-19 12:39:54+0530 > ls
+2019-08-19 12:39:54+0530 > ls -l i<Tab><BckSp>li<Tab>j<Tab>s<Tab>.<Tab>
+2019-08-19 12:40:34+0530 > ls -l l<Tab>ib<Tab>j<Tab>a
+2019-08-19 12:41:15+0530 > <LAlt><Tab><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><#+8><Up><#+25><Up><#+19><Down><Down><Down><Down><Up><#+13><Up><#+10><Up><Up><Up><Up><Up><Up><Down><Down>cd ../../../<LShft>UD<Tab>
+2019-08-19 12:54:34+0530 > ls
+2019-08-19 12:54:35+0530 > cd <LShft>A<Tab>
+2019-08-19 12:54:39+0530 > ls
+2019-08-19 12:54:40+0530 > cd <BckSp><#+14>vim <LShft>A<Tab>
+2019-08-19 12:54:58+0530 > <PgDn><PgDn><PgDn><PgUp><PgUp><End><#+16><Home><#+24><Up><#+23><Up><#+13><Up><#+34><Up><#+23><Esc><RShft>:q
+2019-08-19 12:55:21+0530 > vim <LShft>BL<Tab>
+2019-08-19 12:55:27+0530 > <Esc><RShft>:q
+2019-08-19 12:55:30+0530 > vim bl<Tab>
+2019-08-19 12:55:35+0530 > <Down><#+72><Down><#+15><Down><#+15><Up><#+55><Up><#+5><Down><#+51><Down><#+32><Down><#+52><PgUp><#+29><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><#+13><Down><#+11><Down><#+37><Up><#+34><Esc><RShft>:q
+2019-08-19 12:56:33+0530 > <Up>
+2019-08-19 12:56:42+0530 > <Down><#+25><Down><#+28><Down><#+20><Down><#+11><Down><#+10><Down><#+14><Down><#+11><Down><Down><Down><Down><Down><Down><Down><Down><#+13><Down><#+16><Up><#+13><Up><#+78><Down><#+25><LCtrl><LShft>c
+2019-08-19 12:57:16+0530 > <LCtrl>v test application
+2019-08-19 12:57:27+0530 > <LAlt><Tab><LCtrl><LShft>Tls
+2019-08-19 13:03:45+0530 > cd ..
+2019-08-19 13:03:52+0530 > ls
+2019-08-19 13:03:53+0530 > cd ..<BckSp><BckSp><LShft>Ai<Tab>
+2019-08-19 13:04:33+0530 > ls
+2019-08-19 13:04:34+0530 > grep -ar <RShft>""<Left><LShft>NETWORK<RShft>
+2019-08-19 13:05:26+0530 > cd ..
+2019-08-19 13:05:28+0530 > <Up><Up>
+2019-08-19 13:05:29+0530 > cd <BckSp><#+10><Up><Left><BckSp><#+10>etwork
+2019-08-19 13:05:40+0530 > cd <LShft>Ai<Tab>
+2019-08-19 13:06:15+0530 > vim <LShft>A<Tab>
+2019-08-19 13:06:18+0530 > <Down><Down><#+42><Down><#+12><Down><#+14><Up><#+14><Up><Down><#+24><Up><#+22><LAlt><Tab><LAlt><LCtrl>fconnect<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>accept
+2019-08-19 13:07:05+0530 > 
+2019-08-19 13:07:05+0530 > 
+2019-08-19 13:07:06+0530 > 
+2019-08-19 13:07:06+0530 > 
+2019-08-19 13:07:07+0530 > 
+2019-08-19 13:07:08+0530 > 
+2019-08-19 13:07:08+0530 > 
+2019-08-19 13:07:09+0530 > 
+2019-08-19 13:07:10+0530 > 
+2019-08-19 13:07:10+0530 > 
+2019-08-19 13:07:11+0530 > 
+2019-08-19 13:07:12+0530 > 
+2019-08-19 13:07:12+0530 > 
+2019-08-19 13:07:12+0530 > 
+2019-08-19 13:07:13+0530 > 
+2019-08-19 13:07:14+0530 > 
+2019-08-19 13:07:15+0530 > 
+2019-08-19 13:07:16+0530 > 
+2019-08-19 13:07:16+0530 > 
+2019-08-19 13:07:17+0530 > 
+2019-08-19 13:07:17+0530 > 
+2019-08-19 13:07:18+0530 > 
+2019-08-19 13:07:19+0530 > 
+2019-08-19 13:07:19+0530 > 
+2019-08-19 13:07:20+0530 > 
+2019-08-19 13:07:20+0530 > 
+2019-08-19 13:07:21+0530 > 
+2019-08-19 13:07:21+0530 > 
+2019-08-19 13:07:21+0530 > 
+2019-08-19 13:07:22+0530 > 
+2019-08-19 13:07:22+0530 > 
+2019-08-19 13:07:23+0530 > 
+2019-08-19 13:07:24+0530 > 
+2019-08-19 13:07:24+0530 > 
+2019-08-19 13:07:25+0530 > 
+2019-08-19 13:07:25+0530 > 
+2019-08-19 13:07:25+0530 > 
+2019-08-19 13:07:26+0530 > <LAlt><Tab><LCtrl><LShft>Tcd ../..
+2019-08-19 13:07:57+0530 > mkdi<BckSp>r<BckSp>ir <LShft>BLE
+2019-08-19 13:08:05+0530 > <BckSp><BckSp><Up><#+1><BckSp><BckSp><BckSp><LShft>BT
+2019-08-19 13:08:14+0530 > cd <LShft>B<Tab><LShft>T<Tab>
+2019-08-19 13:08:19+0530 > vim main.c
+2019-08-19 13:08:23+0530 > i<LShft><Ins><LShft><Ins><Up><#+19>//<Down><#+7><Down><Down><Down><Up><Up><Up><Up><Up><BckSp><BckSp><Up><LShft>#if 0<Down><#+10><Down><Down><Down><LShft>#endif<Down><#+10><Up><#+21><Up><#+8><Down><#+31><Up><Down><Down><Down><#+2><Down><Up><#+68><Right><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><Esc>u<Down><#+77><RShft>}i<RShft>}
+2019-08-19 13:10:51+0530 > 
+2019-08-19 13:10:51+0530 > 
+2019-08-19 13:10:52+0530 > int main<RShft>()
+2019-08-19 13:10:56+0530 > <RShft>{
+2019-08-19 13:10:57+0530 > <RShft>}<Left>
+2019-08-19 13:11:00+0530 > 
+2019-08-19 13:11:00+0530 > <Up><Up>  <Up><Up><LShft><Ins><RShft>();<LShft>SS<BckSp><BckSp><LCtrl><LShft>Tls
+2019-08-19 13:11:40+0530 > cd in<Tab>
+2019-08-19 13:11:44+0530 > ls
+2019-08-19 13:11:45+0530 > vim c<Tab>o<Tab>m<Tab>m<Tab><Tab><BckSp><Tab><Tab>mm<BckSp>o<Tab><Tab><Tab><Tab><BckSp><#+23>vim com<Tab>`<Tab><Tab><BckSp><Tab><Tab><Tab><Tab><Tab><Tab>\<#+1><BckSp><#+11>vim common<Tab><Tab><Tab><Tab>.h
+2019-08-19 13:12:26+0530 > e<Down><#+48><Down><#+28><Up><#+48><Up><Up><Up><Esc><RShft>:q
+2019-08-19 13:12:40+0530 > vim hsco<Tab><Tab>mm<Tab><Tab><Tab><Tab><Tab>.h
+2019-08-19 13:12:52+0530 > <Esc><RShft>:q
+2019-08-19 13:12:56+0530 > vim config.h
+2019-08-19 13:13:04+0530 > e<Esc><RShft>:q
+2019-08-19 13:13:08+0530 > <Up><#+6>grep -<LShft>ar <RShft>""<Left><LShft><Ins><BckSp>
+2019-08-19 13:13:48+0530 > cd ..
+2019-08-19 13:13:51+0530 > <Up><Up>
+2019-08-19 13:13:52+0530 > <Up><#+11><Up><Down><Right><#+16><Right><Right><Right><Right><RShft>*<#+3>*cd in<Tab>
+2019-08-19 13:14:33+0530 > <Up><Up>
+2019-08-19 13:14:35+0530 > vim common<Tab>.h
+2019-08-19 13:14:43+0530 > e/<LShft><Ins><BckSp>
+2019-08-19 13:14:50+0530 > <Down><#+59><Down><Esc><RShft>:q
+2019-08-19 13:14:57+0530 > s<BckSp>ls
+2019-08-19 13:15:01+0530 > vim <#+1>hscomm.h
+2019-08-19 13:15:10+0530 > <Esc><RShft>:q
+2019-08-19 13:15:14+0530 > vim config.h
+2019-08-19 13:15:22+0530 > d<Esc><RShft>:q
+2019-08-19 13:15:37+0530 > vim comm<Tab>on.h
+2019-08-19 13:15:45+0530 > d<Esc><RShft>:q
+2019-08-19 13:15:50+0530 > vim co<Tab><Tab><Tab><Tab>b=<BckSp>=<BckSp><BckSp>n<Tab><Tab><Tab><Tab><BckSp><BckSp><BckSp><BckSp><#+14><Esc><RShft>:q
+2019-08-19 13:16:15+0530 > cd ../<LShft>UD<Tab><LShft>A<Tab>
+2019-08-19 13:16:22+0530 > ls<RShft>
+2019-08-19 13:16:23+0530 > vim <LShft>A<Tab>
+2019-08-19 13:16:27+0530 > <Down><#+35><Down><#+14><Down><#+8><Down><#+1><Down><Down><Up><#+59><Down><#+57><Down><#+8><Esc><Up>
+2019-08-19 13:17:14+0530 > <Down><#+37><Down><#+18><Down><#+26><Up><#+50><Down><#+73><LShft>C application to test the <LShft>linu bluett<BckSp>ooth<Left><#+12><Left><Left>x
+2019-08-19 13:18:12+0530 > <LMeta><#+9>lzs<KP1><KP0><KP0><KP6><KP2><KP0><KP1><KP3>
+2019-08-19 14:39:10+0530 > <LAlt><Tab><LCtrl><LShft>c
+2019-08-19 14:40:03+0530 > <LAlt><Tab><LCtrl>v<BckSp> <Down><Down><Down><Down><Down><Up><Down>
+2019-08-19 14:40:17+0530 > <LAlt><Tab><LAlt><Tab><LCtrl>c
+2019-08-19 14:41:31+0530 > <LAlt><Tab><Up><#+3><Home>i
+2019-08-19 14:41:37+0530 > 
+2019-08-19 14:41:37+0530 > <Up><Up><LCtrl><LShft>V<BckSp><#+22><BckSp><BckSp><BckSp><BckSp><BckSp><LAlt><Tab><LAlt><Tab><LAlt><Tab><LCtrl>x<LCtrl>v<LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><LAlt><Tab><LCtrl><LShft><LAlt>tcd <LShft>Down<Tab><LShft>Lo<Tab>sa<Tab>
+2019-08-19 14:43:37+0530 > ls
+2019-08-19 14:43:38+0530 > cd <LShft>B<Tab>
+2019-08-19 14:43:40+0530 > ls
+2019-08-19 14:43:41+0530 > <LAlt><LAlt><Tab><LAlt><Tab><Tab><Tab><Tab><LAlt><Tab><Tab><Tab><LAlt><Tab><Tab>vim rf<Tab>se<Tab>
+2019-08-19 14:44:04+0530 > <Down><#+28><Down><#+7><Down><#+4><Down><Down><Down><#+4><LCtrl><LShft><LCtrl><LShft>Tgrep -ar <RShft>""<Left><LShft><Ins><BckSp>
+2019-08-19 14:44:23+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab>ls
+2019-08-19 14:46:28+0530 > <LAlt><Tab><LAlt><Tab><Up><#+16><Up><#+11><Up><#+12><Up><#+12><Up><#+13><Up><#+16><Up><#+12><Up><#+13><Up><#+9><Up><#+12><Up><#+16><Up><#+4><Down><#+33><Down><#+23><Up><Up><Down><#+14><Down><#+15><Down><#+8><Down><#+16><Down><#+14><Down><#+14><Down><#+11><Down><#+18><Down><#+8><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Up><Up><#+11><Down><Down><Down><Down><Down><Down><Down><Down><Down><LCtrl>c
+2019-08-19 15:22:18+0530 > <LCtrl>fv\
+2019-08-19 15:22:21+0530 > <BckSp>
+2019-08-19 15:22:23+0530 > 
+2019-08-19 15:22:28+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><LCtrl><LShft>c
+2019-08-19 15:24:18+0530 > <LAlt><Tab><Tab><BckSp><#+11>header
+2019-08-19 15:24:31+0530 > <LAlt><Tab>cd ..
+2019-08-19 15:24:53+0530 > ls
+2019-08-19 15:24:54+0530 > cd <LShft>Bl<Tab>
+2019-08-19 15:24:57+0530 > ls
+2019-08-19 15:24:57+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><Esc><RShft>:q
+2019-08-19 15:26:46+0530 > <LCtrl>z<LCtrl>z<LAlt><Tab><Down><Down><Down><Down><Down><Down><Up><Right><#+13><Down><#+12><Down><Down><Down><Down><Down><Down><Down><Up><#+14><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LCtrl><LShft>Tcd ../../yo<Tab>yo<Tab>bu<Tab><Tab>tm<Tab><Tab><Tab>wo<Tab>/co<Tab><BckSp><#+45><BckSp><BckSp><BckSp><BckSp>sy<Tab><Tab>d<Tab><BckSp><BckSp><Tab>
+2019-08-19 15:33:39+0530 > ls
+2019-08-19 15:33:40+0530 > cd li<Tab>st<Tab>
+2019-08-19 15:33:57+0530 > ls
+2019-08-19 15:33:58+0530 > cd <Tab>
+2019-08-19 15:33:59+0530 > ls
+2019-08-19 15:34:01+0530 > cd li<Tab>n<Tab>
+2019-08-19 15:34:06+0530 > ls
+2019-08-19 15:34:07+0530 > cd ../../../
+2019-08-19 15:34:11+0530 > cd ../../wo<Tab>-sh<Tab>
+2019-08-19 15:34:18+0530 > ls
+2019-08-19 15:34:18+0530 > cd s<Tab>
+2019-08-19 15:34:21+0530 > ls
+2019-08-19 15:34:21+0530 > cd ker<Tab>
+2019-08-19 15:34:26+0530 > cd ke<Tab>so<Tab>
+2019-08-19 15:34:30+0530 > ls
+2019-08-19 15:34:31+0530 > cd ../..
+2019-08-19 15:34:37+0530 > cd ..
+2019-08-19 15:34:38+0530 > ls
+2019-08-19 15:34:39+0530 > cd <BckSp><#+13><LAlt><Tab><LAlt><LAlt><Tab><LAlt><Tab><LCtrl>z<LAlt><Tab><LCtrl>c
+2019-08-19 15:35:39+0530 > <LAlt><Tab><LAlt><Tab>cd <LShft><Ins>
+2019-08-19 15:35:51+0530 > xs <BckSp><#+10>cd ..
+2019-08-19 15:35:55+0530 > ls
+2019-08-19 15:35:56+0530 > cd ..
+2019-08-19 15:36:01+0530 > ls
+2019-08-19 15:36:02+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab>cd <BckSp><#+11>cd bl<Tab>
+2019-08-19 15:36:30+0530 > ls
+2019-08-19 15:36:31+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LCtrl>c
+2019-08-19 15:37:54+0530 > <LCtrl>v downlaod
+2019-08-19 15:38:02+0530 > zs<KP1><KP0><KP0><KP6><KP2><KP0><KP1><KP3>
+2019-08-19 16:31:46+0530 > <LAlt><Tab><LAlt><Tab>ls
+2019-08-19 16:32:07+0530 > cd ..
+2019-08-19 16:32:11+0530 > ls
+2019-08-19 16:32:12+0530 > tar <BckSp><#+15>d bu<Tab><BckSp><#+17>cd bu<Tab>
+2019-08-19 16:32:23+0530 > ls
+2019-08-19 16:32:24+0530 > cd sr<Tab>
+2019-08-19 16:32:31+0530 > ls
+2019-08-19 16:32:31+0530 > cd ../../bl<Tab>
+2019-08-19 16:32:42+0530 > ls
+2019-08-19 16:32:43+0530 > cd ../
+2019-08-19 16:32:47+0530 > ls
+2019-08-19 16:32:48+0530 > tar -cvf bl<Tab><BckSp>.tar,<BckSp>.gz bl<Tab>
+2019-08-19 16:33:04+0530 > sync
+2019-08-19 16:33:10+0530 > ls
+2019-08-19 16:33:14+0530 > cd <BckSp><BckSp>p bl<Tab>.<Tab>/<BckSp>sr<Tab><BckSp><BckSp><LShft>~/sr<Tab>
+2019-08-19 16:33:36+0530 > <LCtrl><LShft>Tcd 
+2019-08-19 16:33:41+0530 > cd sr<Tab>
+2019-08-19 16:33:46+0530 > ls
+2019-08-19 16:33:46+0530 > tar -xvf bl<Tab>
+2019-08-19 16:33:54+0530 > sync
+2019-08-19 16:33:58+0530 > cd bl<Tab>
+2019-08-19 16:34:04+0530 > ls
+2019-08-19 16:34:05+0530 > <Esc>cd ..
+2019-08-19 16:34:32+0530 > ls
+2019-08-19 16:34:32+0530 > <Up><Up><Down><Down><Down><Down><Down><Down><Up>i//<Esc><RShft>:w
+2019-08-19 16:35:05+0530 > <Esc><RShft>:q
+2019-08-19 16:35:09+0530 > ls
+2019-08-19 16:35:10+0530 > vim <LShft>Makefile
+2019-08-19 16:35:16+0530 > i<LCtrl>ac
+2019-08-19 16:35:28+0530 > c
+2019-08-19 16:35:28+0530 > <LAlt><Tab><LCtrl>v<BckSp><BckSp><LCtrl><LShft>V<Home><Esc><PgUp><#+28><PgUp><PgUp><#+3><Up><#+30><Right><#+18><Right><Right><Right><#+16>cd bl<Tab>
+2019-08-19 16:35:51+0530 > ls
+2019-08-19 16:35:53+0530 > pwd
+2019-08-19 16:35:55+0530 > i<Right><BckSp><BckSp><#+16><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LShft><Ins><Esc>cd <BckSp><#+9><Down><Down><Down><Down><Down><Esc><RShft>:q
+2019-08-19 16:36:55+0530 > cd ..
+2019-08-19 16:36:58+0530 > ls
+2019-08-19 16:36:59+0530 > vim <LShft>Ma<Tab>
+2019-08-19 16:37:03+0530 > <Down><Down><Down>i<Right>
+2019-08-19 16:37:21+0530 > 
+2019-08-19 16:37:21+0530 > <LCtrl><LShft>V<Up><Up><Up><Up><Down><Esc>u<Esc><RShft>:q
+2019-08-19 16:37:50+0530 > cd ../../mq<Tab><RShft>_j<Tab>
+2019-08-19 16:37:59+0530 > ls
+2019-08-19 16:38:00+0530 > vim <LShft>Ma<Tab>
+2019-08-19 16:38:03+0530 > i
+2019-08-19 16:38:15+0530 > 
+2019-08-19 16:38:15+0530 > <LShft><Ins><Up><Up><Up><#+8><Up><Up><Up><LShft>#<Down><Left><LShft>#<Down><Left><Left><LShft>#<Down><Left><LShft>#<Down><Down><Down><Up><Up><Up><Up><Esc>yy<Down><Down><Down><Down><Down><Down><Up><Up><Up>p<Right>i<BckSp><Down><LShft>#<Down><Down><Left><Left><LShft>#<Down><Down><Down><Right><#+16><Right><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>main<Down><Right><#+10><Down><LShft>#if 0<BckSp><BckSp><BckSp><BckSp><BckSp>/<LShft>*<BckSp><BckSp><Down><Left><LShft>#<Down><Left><LShft>#<Down><Left><Down><Left><LShft>#<Down><Left><LShft>#<Down><Down><Left><LShft>#<Down><Left><LShft>#<Down><Down><Left><LShft>#<Down><Left><LShft>#<Down><Down><Left><LShft>#<Down><Left><LShft>#<Down><Down><Left><LShft>#<Down><Down><Up><Left><LShft>#<Down><Down><Down><Down><Down><Down><Down><Down><Down><Up><Up><Up><Up><Up><Up><Up><Left><Left><Esc>i<LShft>#<Down>
+2019-08-19 16:40:54+0530 > <LShft>ALL <BckSp>= main<Down><Down><Down><#+17><Down><#+10><Up><#+49><Down><#+37><Down><#+9><Down><Down><Down><Down><Down><Up><#+57><Down><#+23><Down><#+30><Up><#+59><Down><#+44><Up><Up><Up><Up><Up><Up><Down><Left><#+16><LShft>#<Down><LShft>#<Down><Down><Left><LShft>#<Down><LShft>#<Down><Down><Down><Down><Up><Up><Left><LShft>#<Down><LShft>#<Down><Down><Down><Down><Up><Up><Left><LShft>#<Down><LShft>#<Down><Down><Down><Down><Up><Up><Left><LShft>#<Down><LShft>#<Down><Down><Down><Down><Up><Up><Left><LShft>#<Down><Down><Up><LShft>#<Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Up><Up><Down><#+19><Up><Down><Down>
+2019-08-19 16:42:28+0530 > clean<RShft>: 
+2019-08-19 16:42:33+0530 > <Tab>-rm -f <LShft>$<RShft>(<RShft>)<Left><LShft>ALL<Down><Up><Up><Up><Up><Left><#+12><LShft>#<Down><LShft>#<Down><Left><Up><Down><Down><Down><Esc><RShft>:w
+2019-08-19 16:43:07+0530 > ls
+2019-08-19 16:43:08+0530 > <Esc><RShft>:w<BckSp>q<LShft>!
+2019-08-19 16:43:17+0530 > <Up>
+2019-08-19 16:43:19+0530 > <Esc><RShft>:q
+2019-08-19 16:43:24+0530 > ld
+2019-08-19 16:43:26+0530 > <BckSp>ls
+2019-08-19 16:43:28+0530 > vim man<Tab><BckSp>n<Tab><BckSp>i<Tab>
+2019-08-19 16:43:35+0530 > <Down><#+43><Up><#+52><Down><#+31><Esc><RShft>:q
+2019-08-19 16:44:02+0530 > cd -
+2019-08-19 16:44:04+0530 > ls
+2019-08-19 16:44:36+0530 > cd <LShft>bl<Tab>u<Tab>e<Tab><BckSp><#+16>vim bl<Tab>
+2019-08-19 16:44:50+0530 > dr
+2019-08-19 16:45:16+0530 > <Down><#+22><Up><#+34><Down><#+62><Down><#+11><Down><#+14><Esc><RShft>:q
+2019-08-19 16:46:02+0530 > <LCtrl>c
+2019-08-19 16:46:43+0530 > <LAlt><Tab><Tab><LCtrl><LShft>V
+2019-08-19 16:46:47+0530 > make
+2019-08-19 16:46:49+0530 > <LCtrl><LShft>Tvim ma<Tab>
+2019-08-19 16:47:07+0530 > <Down><#+18><Down><Up><Right><#+20><Right><Right><Right><LAlt><Tab><LAlt><Tab>/<LShft><Ins>
+2019-08-19 16:47:39+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><Right><#+8><Right><Right><LAlt><Tab><Up><Up><#+10><Up><Right><#+15><Right><Right><Right><Right><Right><RShft>*<LAlt><Tab><LAlt><Tab><LAlt><Tab>i <BckSp><Right> = <RShft>{}<Left>0<LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><Down><Left>= <BckSp><BckSp> = <RShft>{0<RShft>}<Esc><RShft>:w
+2019-08-19 16:48:38+0530 > <Up> clean
+2019-08-19 16:48:46+0530 > make
+2019-08-19 16:48:50+0530 > <LAlt><Tab>grep -ar <RShft>""<Left><LShft><Ins>
+2019-08-19 16:49:23+0530 > cd ..
+2019-08-19 16:49:44+0530 > ls
+2019-08-19 16:49:45+0530 > cd <LShft>B;<BckSp>l<Tab>
+2019-08-19 16:49:50+0530 > ls
+2019-08-19 16:49:51+0530 > <LCtrl><LShft>c
+2019-08-19 16:50:07+0530 > <LCtrl>v
+2019-08-19 16:50:11+0530 > <LAlt><Tab>vim <LShft><Ins>
+2019-08-19 16:50:39+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Esc><RShft>:q
+2019-08-19 16:50:55+0530 > grep -ar <RShft>""<Left><LShft><Ins><BckSp><#+15><BckSp><BckSp><BckSp><LAlt><Tab><Tab><LAlt><Tab><LShft><Ins>
+2019-08-19 16:51:16+0530 > <Down><#+6><Down>i<Right>;<Esc><RShft>:w
+2019-08-19 16:52:03+0530 > 
+2019-08-19 16:52:05+0530 > <#+9><Up><Up>
+2019-08-19 16:52:07+0530 > <Up><Up>
+2019-08-19 16:52:08+0530 > <Down><#+18><Down><#+25><Up><Down><#+16><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><Down><Down><Right><#+10><Right><Right><LAlt><Tab><Down><#+10><Down><Down><Down>i<LShft>#if 0<Down><#+54><Up><#+11><Down><#+20><Up><Up><Up><Up><Up><Up><Up><Up><End>
+2019-08-19 16:54:54+0530 > <LShft>#endif
+2019-08-19 16:54:59+0530 > 
+2019-08-19 16:55:00+0530 > <LAlt><Tab><LAlt><Tab><LCtrl><LShft><Up><#+10><Up><Up><Up><Up><Up><Down> <#+11> <Down><#+33><Esc><RShft>:w
+2019-08-19 16:55:28+0530 > 
+2019-08-19 16:55:33+0530 > 
+2019-08-19 16:55:33+0530 > 
+2019-08-19 16:55:33+0530 > 
+2019-08-19 16:55:34+0530 > 
+2019-08-19 16:55:34+0530 > make clean\
+2019-08-19 16:55:37+0530 > <LCtrl>c
+2019-08-19 16:55:38+0530 > <Up><BckSp>
+2019-08-19 16:55:39+0530 > make
+2019-08-19 16:55:41+0530 > <Down><Down><Down><#+10><Up><Up><Up><#+11><Up><Up><Up><Up><Up><Up><Right><#+9><Right><Right><Right>i//<Esc>p<BckSp>i<Right><Right><BckSp><Right><BckSp><Right><Esc>p<BckSp>i<Right><Right><BckSp><BckSp>s<Esc><RShft>:w
+2019-08-19 16:57:22+0530 > <Up><#+5><Down><End>i<Right>
+2019-08-19 16:57:27+0530 >   <#+9> <Left><LShft><Ins><Up><#+10><Up><Up><Up><Up><Left><#+28><BckSp><BckSp><BckSp><BckSp><LShft><Ins><Down><Left><Left><Left><Left><BckSp><BckSp><BckSp><BckSp><LShft><Ins><Up><Down><Left><#+15><Left><Left><Left><Up><Down><Up><Down><Right><#+85><Up><Left><Left><Left><Left><Left><BckSp><BckSp><Down><Left><#+39><Left><Down><Left><Left><BckSp><BckSp><BckSp><BckSp><LShft><Ins><Down><Down><Down><Left><#+8><Left><Left><BckSp><BckSp><BckSp><BckSp><LShft><Ins><Right><#+14><Right><Right><BckSp><BckSp><BckSp><BckSp><LShft><Ins><Down><Down><Down><Down><Down><Down><#+19><Esc><RShft>:wq<BckSp>w<BckSp>
+2019-08-19 16:59:13+0530 > 
+2019-08-19 16:59:16+0530 > <#+18><Up><Up>
+2019-08-19 16:59:18+0530 > <Up><Up>
+2019-08-19 16:59:19+0530 > <Esc><RShft>:q
+2019-08-19 16:59:49+0530 > <Up><Up><Up><Up><Up><Up><Up><Down><Left><BckSp><#+12><BckSp><LShft><Ins>
+2019-08-19 16:59:59+0530 > <LCtrl><LShft>c
+2019-08-19 17:00:13+0530 >  header file
+2019-08-19 17:04:45+0530 > <LAlt><Tab><Up><Left><#+12><Left><Left><Left><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>
+2019-08-19 17:05:33+0530 > <LAlt><Tab><LAlt><Tab>ls
+2019-08-19 17:05:50+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab>zs10062013
+2019-08-19 17:23:15+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LCtrl><LShft>c
+2019-08-19 17:25:25+0530 > <LAlt><Tab><LCtrl>fv<LCtrl><LShft>Tcd 
+2019-08-19 17:26:18+0530 > cd sri<Tab><LShft>B<Tab><Tab><BckSp><Tab>b<Tab><Tab>
+2019-08-19 17:26:32+0530 > ls
+2019-08-19 17:26:32+0530 > cd <LAlt><Tab><LAlt><Tab><Tab><LAlt><Tab><LAlt><Tab><Tab><LAlt><Tab><LAlt><Tab><Tab><Tab><Tab><Tab><Tab><Tab>cd 
+2019-08-19 17:26:54+0530 > cd <LAlt><Tab><LAlt><Tab><LAlt><Tab><Tab><LAlt><Tab><LAlt><Tab><Tab><Tab><Tab><Tab><Tab><Tab>vim ma<Tab>
+2019-08-19 17:27:56+0530 > r
+2019-08-19 17:28:05+0530 > <Down><#+43><Down><#+42><Down><#+18><Down><Down><Down><Up><#+96><Down><#+76><LCtrl><LShft>c
+2019-08-19 17:28:27+0530 > <LCtrl>v
+2019-08-19 17:28:38+0530 > <LAlt><Tab><Down><Down><Down><Down><Down><Down><LShft>#include <Home><LShft>#i<End><RShft><><Left>l2cap.h<Esc><RShft>:w
+2019-08-19 17:29:27+0530 > 
+2019-08-19 17:29:30+0530 > 
+2019-08-19 17:29:30+0530 > 
+2019-08-19 17:29:30+0530 > 
+2019-08-19 17:29:31+0530 > 
+2019-08-19 17:29:31+0530 > <Esc><RShft>:q
+2019-08-19 17:29:45+0530 > <Up>
+2019-08-19 17:29:47+0530 > <Esc><RShft>:q
+2019-08-19 17:29:51+0530 > make clean
+2019-08-19 17:29:55+0530 > make
+2019-08-19 17:29:56+0530 > <LAlt><Tab><Up><Up><Up><Up><Down><Down><#+14><LAlt><Tab><Up><Down><Down><#+10><Up><Up><Down><#+46><Down><Down><#+32><LAlt><Tab><LAlt><Tab><LAlt><Tab><Down><Down><Down><Down><Down><Down><Right><#+10><Right><Right><Right>iinc/<Esc><RShft>:w
+2019-08-19 17:37:41+0530 > <Up><Up>
+2019-08-19 17:37:45+0530 > <Up><Up>
+2019-08-19 17:37:46+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><Up><Up><Up><Down>
+2019-08-19 17:38:53+0530 > e<Down><#+22><Down><#+15><Down><#+19><Down><#+13><Down><#+14><Down><#+15><Up><#+23><Up><Right><Right><RShft>**<Up><#+44><Down><#+23><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><#+15><Up><#+23>c<BckSp>vim rf<Tab>s<Tab>o<Tab>
+2019-08-19 17:40:22+0530 > <Down><#+19><Down><#+11><Esc><RShft>:q
+2019-08-19 17:40:33+0530 > vim rf<Tab>cl<Tab>
+2019-08-19 17:40:44+0530 > <Down><#+15><Down><#+16><Esc><RShft>:q
+2019-08-19 17:40:53+0530 > <LAlt><Tab><Down><#+9><Down><Down><Left>i<BckSp><BckSp><BckSp>bluetooth<Esc><RShft>:w
+2019-08-19 17:41:16+0530 > <LAlt><Tab>ls
+2019-08-19 17:41:24+0530 > ls
+2019-08-19 17:41:26+0530 > <LAlt><Tab><LAlt><Tab>fim<BckSp>nd -name <RShft>""<Left>bluetooth.h
+2019-08-19 17:41:53+0530 > <LAlt><Tab><Up><Up>i<Right><Right><BckSp><#+12><BckSp><Esc><RShft>:w
+2019-08-19 17:42:22+0530 > <Up><Up>
+2019-08-19 17:42:25+0530 > <Up><Up>
+2019-08-19 17:42:27+0530 > <Esc>u<Esc><RShft>:w
+2019-08-19 17:42:34+0530 > <LAlt><Tab><Up><Left><BckSp><#+11><BckSp><BckSp><BckSp><BckSp>l2cap.h
+2019-08-19 17:42:45+0530 > <LAlt><Tab>
+2019-08-19 17:43:02+0530 > 
+2019-08-19 17:43:02+0530 > 
+2019-08-19 17:43:03+0530 > 
+2019-08-19 17:43:03+0530 > <Up><Up>
+2019-08-19 17:43:05+0530 > <Up><Up>
+2019-08-19 17:43:06+0530 > <Down><#+58><Up><#+5><Down><#+12><Down><Down><Up><Up><Up><Right><#+41><LAlt><Tab><LAlt><Tab><LAlt><Tab><Up><Up>
+2019-08-19 17:44:00+0530 > zs10062013
+2019-08-19 17:50:00+0530 > <LAlt><Tab><LCtrl>c
+2019-08-19 17:50:11+0530 > <Up><#+79><Down><Down><Down><Down><Down><Right><Down>i<Right>
+2019-08-19 17:50:20+0530 > 
+2019-08-19 17:50:20+0530 > <LShft>#efine <LShft><Ins><Left><#+33><Right>d<End>   43<RShft>:34<BckSp><BckSp>43<RShft>:<LShft>A1<RShft>:12<RShft>:1<LShft>F<RShft>:<LShft>A<LShft>C<Esc><RShft>:w
+2019-08-19 17:50:51+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab>i<Right><RShft>"<Left><#+18><Left><Left><Right><RShft>"<Esc><RShft>:w
+2019-08-19 17:51:09+0530 > <LAlt><Tab><LAlt><Tab><Right><#+25>i<Right>
+2019-08-19 17:51:16+0530 > 
+2019-08-19 17:51:16+0530 > <Esc><RShft>:w
+2019-08-19 17:51:19+0530 > <Up><Up>
+2019-08-19 17:51:26+0530 > <Up><Up><Up><Down>
+2019-08-19 17:51:29+0530 > <Up><#+22><Up><Up><Right><#+16><Right><Right><Right>i<Ins><Ins><Ins><Del><Del><Del><Del><Del><Del><Del><Del><Del><LShft><Ins><Down>i<Right><Left><BckSp><BckSp><#+1><BckSp><BckSp><BckSp><BckSp><BckSp>i<Right><Right><Right><Right><Right><Right><BckSp><BckSp><BckSp><BckSp>iii<Esc>i<Right><Right><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LShft><Ins><Right><#+29>i<BckSp>
+2019-08-19 17:53:23+0530 > <Esc>u<End>i<Right>
+2019-08-19 17:53:30+0530 >  <#+10>  <LShft><Ins><Up><Right><#+17><BckSp><#+21><BckSp><LShft><Ins><Esc><RShft>:w
+2019-08-19 17:53:50+0530 > <Up><Up>
+2019-08-19 17:53:56+0530 > <Up><Up>
+2019-08-19 17:53:58+0530 > <Down><#+12><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Left><#+15><Left><Left><Left><Ins><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp> <LShft><Ins><Esc><RShft>:w
+2019-08-19 17:54:26+0530 > <Up><Up>
+2019-08-19 17:54:30+0530 > <Up><Up>
+2019-08-19 17:54:31+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><Esc><RShft>:q
+2019-08-19 17:57:22+0530 > grep -ar<RShft>""<Left><LShft><Ins>
+2019-08-19 17:57:37+0530 > <Up><Left><#+11><Left><Left> 
+2019-08-19 17:57:44+0530 > <Down><Down><Left><#+30>i//<Down><Right><#+37><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><#+2><LAlt><Tab><LAlt><Tab>/<LShft><Ins>
+2019-08-19 17:59:19+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><Down><Down><#+6><Down><Down><Down><Left><#+40>i//<BckSp><BckSp><#+1><BckSp>//<Esc><RShft>:w
+2019-08-19 18:01:22+0530 > <LAlt><Tab><LAlt><Tab><Del><Esc>u<Down><#+19><Esc>dd<Right><#+9><LAlt><Tab><LAlt><Tab><Up><#+10><Up><Up><Up><Up><Right><#+4>i<Right><#+11> <#+10> <LShft><Ins><LAlt><Tab><LAlt><Tab><LAlt><LAlt><Tab><LAlt><Tab><LCtrl>c
+2019-08-19 18:03:44+0530 > <LCtrl>v<Esc>i<Right><Up><#+23><Right><#+46><Right><Right><Right><Right>i<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LShft><Ins><Right><#+17><Right><BckSp><#+11><LShft><Ins><Down><Down><Down><Down><Down><Up><#+8><Up><Up><Up><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><Esc><RShft>:w
+2019-08-19 18:04:49+0530 > 
+2019-08-19 18:04:52+0530 > <#+13>main clean
+2019-08-19 18:04:57+0530 > make clean
+2019-08-19 18:05:01+0530 > make
+2019-08-19 18:05:03+0530 > <LAlt><Tab><LAlt><Tab><Down><Down><Up><#+88><Down><Down><#+67><Down><#+15><Down><Down><Down><LCtrl><LShft>c
+2019-08-19 18:05:46+0530 > <LCtrl>v<BckSp>
+2019-08-19 18:06:58+0530 >  header
+2019-08-19 18:07:06+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><LAlt><LAlt><LAlt><Tab><Tab><Tab><Tab><Tab><Tab><Tab><LAlt><Tab><Down><#+87><Down><#+10><LAlt><LAlt><Tab><LAlt><Tab><LAlt><Tab><Tab><LAlt><Tab><LAlt><Tab><Tab><Tab><Tab><LAlt><Tab><Tab><Tab><Tab><LAlt><Tab><LAlt><Tab><Tab><Tab><Tab><Tab><Tab><Up><#+104><Down><Down><Down><LCtrl><LShft>Tvim <LShft>MAk<Tab><BckSp><BckSp>ak<Tab>
+2019-08-19 18:10:23+0530 > <Down><Down><Down>cd in<Tab><Tab><Tab><Tab><Tab><Tab><Tab><BckSp><BckSp><LAlt><Tab><LAlt><Tab>i<Tab><Tab><Tab><Tab><BckSp>sr<Tab>
+2019-08-19 18:11:07+0530 > ls
+2019-08-19 18:11:08+0530 > cd ,,<BckSp><BckSp>..
+2019-08-19 18:11:20+0530 > ls
+2019-08-19 18:11:22+0530 > cd li<Tab>
+2019-08-19 18:11:34+0530 > ls
+2019-08-19 18:11:35+0530 > cd ..
+2019-08-19 18:11:53+0530 > <LAlt><Tab><LAlt><Tab>bluez5.50 downlad<BckSp><BckSp>oad
+2019-08-19 18:12:21+0530 > <LAlt><Tab><LShft><LCtrl>xx<LShft><RShft><Del>
+2019-08-19 18:17:53+0530 > <RShft><Del>
+2019-08-19 18:18:08+0530 > cd ..
+2019-08-19 18:18:15+0530 > cd bl<Tab>
+2019-08-19 18:18:18+0530 > ls
+2019-08-19 18:18:19+0530 > cd li<Tab>in<Tab><Tab><Tab><Tab><BckSp><#+8><Tab>
+2019-08-19 18:18:35+0530 > ls
+2019-08-19 18:18:36+0530 > cd ..
+2019-08-19 18:18:39+0530 > ls
+2019-08-19 18:18:39+0530 > <LMeta>l
+
+Logging stopped at 2019-08-19 18:21:26+0530
+
