@@ -1,0 +1,29 @@
+Logging started ...
+
+2019-08-21 13:15:44+0530 > <LCtrl><LCtrl>c
+2019-08-21 13:21:20+0530 > fv<LCtrl><LShft><Down><#+161><Up><#+21><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Up><Right><#+18><Right><#+26><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><LCtrl>c
+2019-08-21 13:24:35+0530 > <#+2><LCtrl>a<LCtrl>vled<RShft>_strips<RShft>_wus<BckSp><BckSp><BckSp>s<BckSp>ws2813<LCtrl><LCtrl>a<LCtrl>a<LCtrl>v<LCtrl><LAlt><Tab><LAlt><Tab><LCtrl>nitish
+2019-08-21 13:31:27+0530 > <Right>
+2019-08-21 13:31:33+0530 > <F2>nitish<RShft>_lwd<BckSp><BckSp>edstripstesting
+2019-08-21 13:31:53+0530 > 
+2019-08-21 13:31:54+0530 > <LCtrl>v<LMeta><Esc><Esc><LAlt><Tab>ff<BckSp>ast
+2019-08-21 13:33:03+0530 > 
+2019-08-21 13:33:04+0530 > <Esc><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><Tab><LAlt><Tab><#+1><LAlt><Tab><LAlt><Tab><LAlt><Tab><F2><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>
+2019-08-21 13:34:49+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><Tab><LAlt><Tab>cd
+2019-08-21 13:35:51+0530 > cd /ho<Tab>zu<Tab><LShft>A<Tab><Tab>rd<Tab>
+2019-08-21 13:36:06+0530 > ls
+2019-08-21 13:36:07+0530 > <Esc><LAlt><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab>n<BckSp>aa<BckSp>
+2019-08-21 13:43:14+0530 > <BckSp><LAlt><Tab><Esc><LAlt><Tab><#+2>nna<LCtrl>vniti
+2019-08-21 13:44:55+0530 > l<LMeta><Tab><Tab><BckSp><BckSp>30<LCtrl>s<BckSp><LCtrl>s<LCtrl><LMeta><Tab><LMeta><LAlt><Tab><LCtrl><LAlt><Tab><LCtrl>c
+2019-08-21 14:28:22+0530 > <LAlt><Tab><LCtrl>fv<BckSp><BckSp><#+24>cd li<Tab><LShft>F<Tab>
+2019-08-21 14:28:39+0530 > grep -ar <RShft>""<LCtrl><LShft><Left><LCtrl><LShft>V
+2019-08-21 14:28:48+0530 > vim co<Tab>l<Tab>p<Tab>h
+2019-08-21 14:29:22+0530 > /<LCtrl><LShft>V
+2019-08-21 14:29:28+0530 > <LAlt><LAlt><LAlt><LAlt><Tab><LAlt><Tab><Esc><RShft>:q
+2019-08-21 14:30:20+0530 > vim <LShft><Ins><BckSp><BckSp><#+9><BckSp><BckSp><BckSp><BckSp>p
+2019-08-21 14:30:30+0530 > /<LCtrl><LShft>V
+2019-08-21 14:30:46+0530 > <Down><#+18><Down><#+14><Down><#+21><Down><#+15><Down><#+18><Down><#+10><Up><#+85><Up><#+12><Up><Up><Up><#+23><Up><#+21><Up><#+22><Down><#+36><Down><#+22><Down><#+11><Down><Down><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LMeta><#+10>lzs10062013
+2019-08-21 14:45:33+0530 > 
+
+Logging stopped at 2019-08-21 14:58:06+0530
+
