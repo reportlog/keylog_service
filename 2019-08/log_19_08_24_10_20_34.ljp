@@ -1,0 +1,37 @@
+Logging started ...
+
+2019-08-24 10:20:34+0530 > g
+2019-08-24 10:21:08+0530 > y<CpsLk>M<CpsLk>eera<RShft>_12<RShft>@<RShft>#<RShft>:q
+2019-08-24 10:24:39+0530 > <Up><Up>
+2019-08-24 10:24:41+0530 > 
+2019-08-24 10:24:43+0530 > <Down><#+3>/fsl-mac
+2019-08-24 10:24:51+0530 > /mac
+2019-08-24 10:24:55+0530 > /<RShft><Ins>
+2019-08-24 10:25:36+0530 > <LCtrl>c
+2019-08-24 10:28:16+0530 > g
+2019-08-24 10:28:20+0530 > <LCtrl>v t4240
+2019-08-24 10:28:27+0530 > <LCtrl>c
+2019-08-24 10:30:07+0530 > <LCtrl>f<BckSp><#+18><LCtrl>v<LCtrl>f<LCtrl>v<LCtrl>f<LCtrl>l<#+1>log<RShft>_<BckSp><BckSp><BckSp><BckSp><BckSp>boot<RShft>_log<RShft>_24<RShft>_8<RShft>_2019<Right><BckSp><#+9><BckSp><#+9><BckSp>cd <LCtrl>c
+2019-08-24 10:37:52+0530 > <RShft><Ins>
+2019-08-24 10:37:56+0530 > ls
+2019-08-24 10:38:01+0530 > vimdiff <BckSp><#+19>cd lo<Tab>g<Tab><BckSp><BckSp><BckSp>bo<Tab>
+2019-08-24 10:38:47+0530 > ls
+2019-08-24 10:38:49+0530 > vimdiff <BckSp><#+24><BckSp><BckSp><BckSp><BckSp><BckSp><CpsLk>P<CpsLk>e<Tab>l<Tab> <CpsLk>P<Tab><CpsLk>l<BckSp><CpsLk>L<Tab><Left><#+13><Right><Right><Right><BckSp><#+14><BckSp><#+10><BckSp><BckSp><#+2><BckSp><BckSp><BckSp><BckSp><BckSp><CpsLk>w<Tab><BckSp><CpsLk>W<Tab><BckSp><BckSp><BckSp><BckSp><BckSp>
+2019-08-24 10:39:53+0530 > <Down><#+33><Up><#+198><Up><#+52><Up><#+4><Left><#+1><Up><#+41><PgUp><PgUp><#+32><PgUp><PgDn><PgUp><#+8><RShft>:Q
+2019-08-24 10:40:23+0530 > <RShft>:<CpsLk>q
+2019-08-24 10:40:26+0530 > <RShft>:q
+2019-08-24 10:40:29+0530 > <Up><BckSp><#+41><BckSp><BckSp><BckSp><Up><Up><Up><Up><Up><Down><BckSp><#+41>ls
+2019-08-24 10:41:47+0530 > vimdiff <CpsLk>P<CpsLk>e<Tab><CpsLk>L<Tab><RShft>_1<Tab> <CpsLk><#+7>p<CpsLk>E<Tab><BckSp><BckSp><CpsLk>p<BckSp><CpsLk>P<CpsLk>e<Tab><CpsLk>L<BckSp><CpsLk>lo<Tab>
+2019-08-24 10:42:29+0530 > <Down><#+53><Down><#+10><Down><#+8><Down><#+12><Down><#+12><Down><#+4><Down><#+16><Down><#+9><Down><#+18><Down><#+13><Down><#+13><Down><#+15><Down><#+11><Down><#+15><Down><#+17><Down><#+16><Down><#+8><Down><#+13><Down><#+14><Up><#+16><Down><#+23><Down><#+11><Down><Down><#+13><Down><#+11><Up><#+22><Down><#+15><Down><#+21><Down><#+6><Up><#+25><Up><#+15><Up><#+15><Down><#+26><Down><#+15><Down><#+13><Down><#+11><Up><#+21><Down><#+14><Down><#+14><Up><#+26><Up><#+14><Up><#+13><Down><#+23><Down><#+22><Down><#+5><Down><#+22><Down><#+18><Down><#+16><Up><#+22><Down><#+34><Down><#+4><Up><#+19><Up><#+11><Up><#+10><Up><#+11><Up><#+17><Up><#+6><Up><#+10><Down><#+14><Down><#+25><BckSp><BckSp><BckSp>wllll<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>adruarduino source <RShft>:q
+2019-08-24 11:02:41+0530 > 
+2019-08-24 11:02:43+0530 > <RShft>:q
+2019-08-24 11:02:46+0530 > <Down><#+53><Down><#+23><Down><#+43><Up><#+20><Up><#+40><Up><#+14><Up><#+25><Up><#+17><Up><#+9><Up><#+15><Up><#+27><Up><#+18><Up><#+17><Up><#+12><Up><#+48><Up><#+20><Up><#+15><Up><#+14><Up><#+9><Up><#+34><Up><#+8><Up><#+9><Up><#+9><Up><#+11><Up><#+9><Up><#+13><Down><#+55><Down><#+13>/<RShft><Ins>
+2019-08-24 11:04:07+0530 > g
+2019-08-24 11:04:25+0530 > <LCtrl>v
+2019-08-24 11:04:27+0530 > g
+2019-08-24 11:06:32+0530 > <LCtrl>v<BckSp><#+16><BckSp><BckSp>memory map
+2019-08-24 11:06:51+0530 > memory 
+2019-08-24 11:09:36+0530 > <LCtrl>f<LCtrl>v<LCtrl>f<LCtrl>v<BckSp><#+14><LCtrl>v<LCtrl><LCtrl>f<LCtrl>v
+
+Logging stopped at 2019-08-24 11:21:16+0530
+
