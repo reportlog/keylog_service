@@ -1,0 +1,21 @@
+Logging started ...
+
+2019-08-24 15:03:40+0530 > 
+2019-08-24 15:05:21+0530 > ls
+2019-08-24 15:05:24+0530 > git status
+2019-08-24 15:05:32+0530 > vim <RShft><Ins>
+2019-08-24 15:05:49+0530 > /<RShft><Ins>nn/<RShft><Ins>
+2019-08-24 15:06:19+0530 > nnnnnnnnnnnnnn<LCtrl>f<LCtrl>v/<RShft><Ins>
+2019-08-24 15:08:40+0530 > <Up>/<RShft><Ins>
+2019-08-24 15:08:54+0530 > /<Up>
+2019-08-24 15:08:58+0530 > /<PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><#+1><PgUp><PgUp><#+15><PgDn><PgDn><PgDn><PgUp><PgDn><LCtrl>v<Down><Down><Down><Down><Down><Up><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><RShft><Ins><Up>
+2019-08-24 15:10:36+0530 > <Up>/<Up><BckSp><#+2><BckSp><BckSp><BckSp><BckSp>
+2019-08-24 15:10:41+0530 > nnnnn/<RShft><Ins><Up><Up><BckSp><BckSp><BckSp><BckSp><BckSp>0000
+2019-08-24 15:10:56+0530 > /<Up><Up><Up>memory map<Down><Down><Down><Down><#+7><Down><#+2><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><LCtrl>f<LCtrl>v<LCtrl>c
+2019-08-24 15:13:31+0530 > <LCtrl>c
+2019-08-24 15:13:32+0530 > <BckSp><#+17>/<RShft><Ins>
+2019-08-24 15:13:41+0530 > nnnnnnnnnnnn/<Up>
+2019-08-24 15:17:57+0530 > nnnnnnnnnnnnnn
+
+Logging stopped at 2019-08-24 15:18:07+0530
+
