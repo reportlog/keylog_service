@@ -1,0 +1,83 @@
+Logging started ...
+
+2019-08-24 17:40:58+0530 > <BckSp><#+16><LCtrl>a<BckSp>hoe<BckSp>w to use serial debugger in beagalebone
+2019-08-24 17:49:12+0530 >   <BckSp><#+22> p<#+4>in details
+2019-08-24 17:55:12+0530 > <BckSp>
+2019-08-24 17:56:56+0530 >  data shw<BckSp>eet
+2019-08-24 17:58:18+0530 > <PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgUp><PgDn><PgDn><PgDn><PgDn><PgDn><#+1><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgUp><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgUp><PgDn><PgDn><PgDn><PgDn><PgUp><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgUp><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgUp><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgUp><PgUp><Down><Down><#+10><Down><#+5><Down><Down><Up><Up><Up><#+16><Up><Up><#+12><Up><Down><#+13><Down><Down><#+12><Down><Down><Down><#+15><Down><Down><Up><Up><Up><Down><#+36><Down><Down><Down><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgUp><PgUp><#+11><PgUp><PgUp>scg<BckSp>hematic
+2019-08-24 18:01:10+0530 > <Up><#+35><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgDn><LCtrl>mkdir <LShft>BBB-<LShft>SANDI
+2019-08-24 18:32:35+0530 > cd <LShft>BB<Tab><#+1>-<Tab><#+1><Tab><LShft>S<Tab>
+2019-08-24 18:32:39+0530 > 
+2019-08-24 18:32:39+0530 > 
+2019-08-24 18:32:39+0530 > cd<BckSp>p -rf /me<Tab><Tab><Tab>z<Tab><Tab><Tab><Tab><Tab><BckSp><BckSp><BckSp><BckSp><Tab><BckSp><BckSp><BckSp><BckSp><BckSp><Tab>b<Tab><#+2><Tab><Tab><BckSp><#+26><LAlt><F4><F4>cd /me<Tab><Tab><Tab>z<Tab><Tab><Tab><LShft>B<Tab><#+2><Home><Right><Right><BckSp>p -rf <End><LShft>* <BckSp><#+32>mkdir boot
+2019-08-24 18:33:57+0530 > <#+1>cd bo<Tab>
+2019-08-24 18:33:58+0530 > <Up><Up><BckSp><#+19>sudo cp -rf /me<Tab><#+1>z<Tab><LShft>B<Tab><#+2><LShft>* .
+2019-08-24 18:34:09+0530 > <#+1>zs10062013
+2019-08-24 18:34:13+0530 > <#+1>sync
+2019-08-24 18:34:15+0530 > <#+2>cd ../ro<Tab><#+1><Tab><#+1><BckSp><BckSp>
+2019-08-24 18:34:20+0530 > ls
+2019-08-24 18:34:21+0530 > mkdir rootfs
+2019-08-24 18:34:25+0530 > cd r<Tab>
+2019-08-24 18:34:26+0530 > 
+2019-08-24 18:34:27+0530 > sudo cp -rf /me<Tab><Tab>z<Tab><#+1>r<Tab><#+1><BckSp><Tab><Tab><LShft>E<BckSp><LShft>R<Tab><#+2><LShft>* .
+2019-08-24 18:34:40+0530 > <#+1>sync
+2019-08-24 18:34:42+0530 > <#+1>
+2019-08-24 18:38:55+0530 > 
+2019-08-24 18:38:56+0530 > 
+2019-08-24 18:38:56+0530 > ls
+2019-08-24 18:38:57+0530 > <#+1>
+2019-08-24 18:38:57+0530 > 
+2019-08-24 18:38:58+0530 > 
+2019-08-24 18:38:58+0530 > cd ..
+2019-08-24 18:39:00+0530 > 
+2019-08-24 18:39:00+0530 > 
+2019-08-24 18:39:00+0530 > cd /me<Tab><Tab><Tab>z<Tab><Tab><Tab>6<Tab><#+1>
+2019-08-24 18:40:03+0530 > ls
+2019-08-24 18:40:04+0530 > cp -rf <LShft><LShft>~/<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>b<Tab><LShft>* .
+2019-08-24 18:40:57+0530 > <Up><Home>sudo 
+2019-08-24 18:41:01+0530 > sync
+2019-08-24 18:41:02+0530 > <#+2>
+2019-08-24 18:41:03+0530 > 
+2019-08-24 18:41:03+0530 > cd ../<Tab><Tab>f<Tab><#+1>
+2019-08-24 18:41:07+0530 > 
+2019-08-24 18:41:07+0530 > 
+2019-08-24 18:41:07+0530 > cp -rf <LShft>~/<LShft>B<LShft>B<Tab><#+2>-<Tab><#+2><LShft>S<Tab><#+2>r<Tab><#+1><LShft>* .
+2019-08-24 18:41:21+0530 > <Up><Home>sudo 
+2019-08-24 18:41:25+0530 > sync
+2019-08-24 18:41:27+0530 > <#+1>
+2019-08-24 18:45:05+0530 > 
+2019-08-24 18:45:06+0530 > 
+2019-08-24 18:45:06+0530 > 
+2019-08-24 18:45:06+0530 > 
+2019-08-24 18:45:06+0530 > 
+2019-08-24 18:45:06+0530 > cd
+2019-08-24 18:50:55+0530 > sudo gpart<Tab>
+2019-08-24 18:54:21+0530 > zs10062013
+2019-08-24 18:54:25+0530 > <LShft>BOOT<LShft>ROOT<LCtrl><LShft>Tcd <LShft>~/<LShft>BB<Tab><#+1>-<Tab><#+2><Tab><LShft>S<Tab><#+1>
+2019-08-24 19:51:53+0530 > ls
+2019-08-24 19:51:54+0530 > cd r<Tab><#+1>
+2019-08-24 19:51:58+0530 > cd bo<Tab>
+2019-08-24 19:52:00+0530 > ls
+2019-08-24 19:52:00+0530 > cp z<LShft>I<Tab><#+2> /me<Tab><Tab><Tab>zu<Tab><#+2><Tab><Tab><LShft>B<LShft>O<Tab><#+2>
+2019-08-24 19:52:21+0530 > sync
+2019-08-24 19:52:24+0530 > <#+1>
+2019-08-24 19:52:24+0530 > 
+2019-08-24 19:52:25+0530 > 
+2019-08-24 19:52:25+0530 > 
+2019-08-24 19:52:25+0530 > 
+2019-08-24 19:52:25+0530 > 
+2019-08-24 19:52:26+0530 > 
+2019-08-24 19:52:26+0530 > 
+2019-08-24 19:52:26+0530 > cd
+2019-08-24 19:52:27+0530 > <LShft>!umo
+2019-08-24 19:52:29+0530 > cd drivers/<BckSp><#+24>cd <LShft>BB<Tab>/ti<Tab>bu<Tab>wo<Tab>r<Tab><BckSp><BckSp><BckSp><Tab>a<Tab><Tab><Tab>wo<Tab>-s<Tab><Tab><Tab>am33<Tab><Tab><Tab>so<Tab>
+2019-08-24 20:30:07+0530 > cd drive<Tab>ne<Tab>d<Tab><RShft>
+2019-08-24 20:30:15+0530 > grep ds<LShft>_regulator<LShft>_switch
+2019-08-24 20:30:26+0530 > <LCtrl>c
+2019-08-24 20:30:27+0530 > <Up><Left><#+14><Right><Right><Right><BckSp><BckSp><BckSp><BckSp><BckSp>isto<Left><#+12><Right>a
+2019-08-24 20:30:52+0530 > <LCtrl>c
+2019-08-24 20:30:55+0530 > ls
+2019-08-24 20:31:54+0530 > 
+
+Logging stopped at 2019-08-26 09:16:54+0530
+
