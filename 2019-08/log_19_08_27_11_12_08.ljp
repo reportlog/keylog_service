@@ -1,0 +1,27 @@
+Logging started ...
+
+2019-08-27 11:12:08+0530 > <Down><#+15><Down><LCtrl>x<BckSp><LCtrl>v<Up><Up><Up><Up><Up><Down><#+20>make clean
+2019-08-27 11:32:46+0530 > make
+2019-08-27 11:32:47+0530 > <Up><#+10>i<LShft>#<Up><#+1><Up><Up><Up><Down><Down><Down><Down><Down><Right><#+30><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><Down><Down><Down><Down><Down><Down><Esc><RShft>:w
+2019-08-27 11:33:56+0530 > <Up><Up>
+2019-08-27 11:34:00+0530 > make
+2019-08-27 11:34:02+0530 > <Up><Up><Up><Up><Up><Up><Esc>u<Left><#+28>i<LShft>#<Down><Down>i<BckSp><Right><#+12><Left><#+16><Right><BckSp><Right><#+34><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><Esc><RShft>:w
+2019-08-27 11:34:50+0530 > <Up><Up>
+2019-08-27 11:34:54+0530 > <Up><Up>
+2019-08-27 11:34:55+0530 > <Down><#+31><Down><#+12><Up><#+43><Up><#+11><Down><Down><Down><Down><Down><Left><#+24>i<LShft>#<Down><Left><LShft>#<Esc><RShft>:w
+2019-08-27 11:35:26+0530 > <Up><Up>
+2019-08-27 11:35:29+0530 > <Up><Up>
+2019-08-27 11:35:30+0530 > s<BckSp>adocadrequirement sheet<LAlt><Tab><LAlt><Tab><LAlt><Tab>zs10062013
+2019-08-27 12:04:30+0530 > zs<KP1><KP0><KP0><KP6><KP2><KP0><KP1><KP3>
+2019-08-27 12:14:33+0530 > zs10062013
+2019-08-27 12:39:03+0530 > <LCtrl><LShft>Tsudo minicom -s
+2019-08-27 12:39:34+0530 > zs10062013
+2019-08-27 12:39:38+0530 > <Down><Down>
+2019-08-27 12:39:40+0530 > a<BckSp><BckSp><BckSp><BckSp><LShft>ACM0
+2019-08-27 12:39:45+0530 > ee
+2019-08-27 12:39:49+0530 > 
+2019-08-27 12:39:50+0530 > <Down><Down><Down>
+2019-08-27 12:39:55+0530 > <Down><Down>
+2019-08-27 12:39:59+0530 > <LCtrl>xx<LCtrl>v<F2><BckSp><BckSp><BckSp><BckSp><BckSp>
+2019-08-27 12:41:24+0530 > zs<KP1><KP0><KP0><KP6><KP2><KP0><KP1><KP3>
+2019-08-27 13:14:39+0530 > ni<LMeta><#+8>l
