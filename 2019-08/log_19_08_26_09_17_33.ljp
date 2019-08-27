@@ -1,0 +1,106 @@
+Logging started ...
+
+2019-08-26 09:17:33+0530 > orcad
+2019-08-26 09:52:17+0530 > cd ../..
+2019-08-26 10:34:17+0530 > 
+2019-08-26 10:34:17+0530 > 
+2019-08-26 10:34:17+0530 > 
+2019-08-26 10:34:17+0530 > 
+2019-08-26 10:34:37+0530 > 
+2019-08-26 10:34:38+0530 > 
+2019-08-26 10:34:38+0530 > cd ../..
+2019-08-26 10:34:39+0530 > 
+2019-08-26 10:34:39+0530 > 
+2019-08-26 10:34:40+0530 > <E-9b><E-9b>cd inp<Tab>to<Tab>
+2019-08-26 11:02:51+0530 > ls
+2019-08-26 11:02:52+0530 > vim e<Tab><Tab>g<Tab>.<Tab>
+2019-08-26 11:03:18+0530 > <PgDn><Down><#+64><Down><#+10><Down><#+6><Down><Down><Down><Down><Down><Down><Down><Down><#+7><Down><Down><Down>vi ms<BckSp><BckSp><BckSp>m s<Tab>i<Tab>s<Tab><Tab><Tab>9<Tab><BckSp><RShft>_9<Tab>c<Tab>
+2019-08-26 11:03:55+0530 > <PgDn><PgDn><PgDn><PgDn><Down><#+1><PgDn><PgDn>/
+2019-08-26 11:04:15+0530 > <RShft>*nnnnnnnnnn<#+34>/<LShft><BckSp>
+2019-08-26 11:06:09+0530 > <PgDn><Down><#+25>/<LShft>
+2019-08-26 11:06:44+0530 > \nnnnnnnn<#+22>/
+2019-08-26 11:07:18+0530 > <Up><#+8><Down><Down><Down><Down>i<RShft>#if 0<Down><#+17><Up><Up><Up><RShft>#endif<Esc><RShft>:w<RShft>1
+2019-08-26 11:07:35+0530 > <RShft>:w<RShft>!
+2019-08-26 11:07:37+0530 > 
+2019-08-26 11:08:12+0530 > 
+2019-08-26 11:08:12+0530 > cd ..<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>cd <BckSp><BckSp><BckSp>vim si<Tab>s<Tab><Tab><Tab><RShft>_9<Tab>c<Tab>
+2019-08-26 11:08:28+0530 > 
+2019-08-26 11:08:29+0530 > <PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgUp><LAlt><Tab><RShft>:w<RShft>Q!
+2019-08-26 11:08:38+0530 > <RShft>:wq<RShft>!
+2019-08-26 11:08:40+0530 > 
+2019-08-26 11:08:41+0530 > 
+2019-08-26 11:08:41+0530 > 
+2019-08-26 11:08:41+0530 > <LAlt><Tab><Up><#+44><Up><Up><Up><Up>/<RShft>MT
+2019-08-26 11:08:51+0530 > nn<#+2>nni<Up><Up><RShft>E<BckSp><RShft>#if 0<Down><Down><Down><Down><Down><Down><End>
+2019-08-26 11:09:06+0530 > <RShft>#endif<LAlt><Tab>nn/<RShft>BUTT
+2019-08-26 11:09:18+0530 > /input
+2019-08-26 11:09:22+0530 > nnnnnnn<PgDn>n<Down><#+70><LAlt><Tab><Down><Up>o
+2019-08-26 11:09:44+0530 > <BckSp><Down><Down><Down><Down><End><Down>
+2019-08-26 11:09:51+0530 > <RShft>$<BckSp><RShft>#if 0<Down><End><Down>
+2019-08-26 11:09:56+0530 > <RShft>$<BckSp><RShft>#endif<Esc><#+1><RShft>:w<RShft>!
+2019-08-26 11:10:03+0530 > y
+2019-08-26 11:10:05+0530 > <LAlt><Tab><LAlt><Tab><Down><#+13><Down>i//<BckSp><BckSp><Up><End><RShft>
+2019-08-26 11:10:25+0530 > <RShft>#if 0<Down><End>
+2019-08-26 11:10:29+0530 > <RShft>#endf<BckSp>if<Esc><RShft>:w<RShft>1
+2019-08-26 11:10:33+0530 > <RShft>:w<RShft>!
+2019-08-26 11:10:35+0530 > <Up><#+13><Up><#+17><Down><#+34><Down><#+17><Down><#+23><Down><#+18><Down><#+35><Down><#+9><Down><#+49><Down><Down><Down><RShft>:wq<RShft>!
+2019-08-26 11:10:53+0530 > 
+2019-08-26 11:10:53+0530 > 
+2019-08-26 11:10:53+0530 > 
+2019-08-26 11:10:53+0530 > 
+2019-08-26 11:10:54+0530 > 
+2019-08-26 11:10:54+0530 > exit
+2019-08-26 11:10:56+0530 > <LAlt><Tab><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down><Down><Up>
+2019-08-26 11:11:16+0530 > <Up><Up><Up><Up><Up><Down>
+2019-08-26 11:13:01+0530 > <Up><Up><Up>
+2019-08-26 11:15:08+0530 > 
+2019-08-26 11:15:20+0530 > 
+2019-08-26 11:15:20+0530 > 
+2019-08-26 11:15:20+0530 > 
+2019-08-26 11:15:20+0530 > vim dr<Tab>n<BckSp>in<Tab>p<Tab>to<Tab>sis<Tab><RShft>_9<Tab>
+2019-08-26 11:15:30+0530 > <RShft>:q
+2019-08-26 11:15:31+0530 > <Up>c<Tab>
+2019-08-26 11:15:32+0530 > /<RShft>MT_
+2019-08-26 11:15:37+0530 > nnnnnnn<PgDn><Down><#+23><Down><#+11><Up><Up><Up><Up><Up>i
+2019-08-26 11:15:50+0530 >         printf<RShft><BckSp>k<RShft>("Z<BckSp><RShft>Modified fo <BckSp>ro <BckSp><BckSp> <RShft>Sign<BckSp><BckSp>ngle <RShft>Touch \r\n<RShft>");<Left><#+31><RShft>BC : <Esc><#+1><RShft>:wq<RShft>!
+2019-08-26 11:16:23+0530 > exit
+2019-08-26 11:16:25+0530 > <Up><Up><Up>
+2019-08-26 11:16:29+0530 > <LAlt><Tab><LAlt><Tab><Tab><Up><Up><Up>
+2019-08-26 11:17:20+0530 > <LAlt><Tab><Up>
+2019-08-26 11:18:09+0530 > /<RShft>BC
+2019-08-26 11:18:13+0530 > <Up><#+21><Up><RShft>*<LAlt><Tab><Tab><Tab><LAlt><Tab><LShft><BckSp><Tab><Tab><Tab>
+2019-08-26 11:19:05+0530 > zs10062013
+2019-08-26 11:19:10+0530 > 
+2019-08-26 11:19:11+0530 > 
+2019-08-26 11:19:11+0530 > umount /me<Tab><RShft>*
+2019-08-26 11:19:17+0530 > ls -l <LShft>
+2019-08-26 11:19:37+0530 > www.ya
+2019-08-26 11:19:47+0530 > z<RShft>ZS<BckSp><BckSp><BckSp><RShft>Z@b6s5l9a4s7zww<#+1>w.ya
+2019-08-26 11:24:15+0530 > z<LShft>Z@b6s5l9a4s7<LAlt><Tab><Tab><LAlt><Tab><Tab><LCtrl>c
+2019-08-26 11:25:54+0530 > <LAlt><Tab><LAlt><Tab><Tab><LCtrl>v
+2019-08-26 11:26:00+0530 > <Up><Up><Up><Up><Up><Up><#+2><PgUp><#+22><RShft>Durgesh,
+2019-08-26 11:26:09+0530 > 
+2019-08-26 11:26:09+0530 > <RShft>Plese <BckSp><BckSp><BckSp>ase use the attached <RShft>dts<BckSp><BckSp><BckSp><RShft>z<RShft>Image<LAlt><Tab><LAlt><Tab><LAlt><Tab><Tab><LCtrl>c
+2019-08-26 11:26:27+0530 > <LAlt><Tab><LCtrl><Esc> am <BckSp><BckSp>nd<BckSp>d provide your test report. <RShft>Use the o<BckSp>r<BckSp>p<BckSp><BckSp><BckSp><BckSp><BckSp>preg<BckSp>vious dts file<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>b file.
+2019-08-26 11:27:13+0530 > 
+2019-08-26 11:27:13+0530 > <RShft>Regards, <RShft>Zaid<LCtrl>c
+2019-08-26 11:28:36+0530 > <LCtrl>v
+2019-08-26 11:28:38+0530 > <LCtrl><LCtrl>f<RShft>BC<LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><Tab><Down><#+14><Down><#+35><Down><#+14><Up><LAlt><Tab><RShft>Thans <BckSp><BckSp>ks <RShft>Durgesh,
+2019-08-26 12:45:23+0530 > 
+2019-08-26 12:45:23+0530 > <RShft>Can you plesa<BckSp><BckSp>ase send met t<BckSp><BckSp><BckSp> the <RShft>evtest log.
+2019-08-26 12:45:34+0530 > 
+2019-08-26 12:45:34+0530 > <RShft>Regards, z<BckSp><RShft>Zaid<LAlt><Tab><LAlt><Tab><LAlt><Tab><Tab><LAlt><Tab><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><Tab><RShft>Sorry <RShft>Durgest<BckSp>h,
+2019-08-26 12:49:42+0530 > 
+2019-08-26 12:49:43+0530 > <RShft>It is in your log.
+2019-08-26 12:49:49+0530 > 
+2019-08-26 12:49:49+0530 > <RShft>Regareds,<BckSp><BckSp><BckSp><BckSp>ds, <RShft>Zaid not required<LAlt><Tab><LAlt><Tab><LAlt><Tab><RShft>Dugest<BckSp>h,
+2019-08-26 12:52:47+0530 > 
+2019-08-26 12:52:47+0530 > <RShft>Can you please send log<BckSp><BckSp><BckSp>the evtest log with our<BckSp><BckSp><BckSp>four corners.
+2019-08-26 12:53:16+0530 > 
+2019-08-26 12:53:17+0530 > <RShft>Regards, <RShft>Zaidme  toucg<BckSp>h<LCtrl>c
+2019-08-26 13:13:00+0530 > f<BckSp><RShft>Y<Down><Up><Up><Down><LAlt><Tab><LAlt><Tab><Tab><RShft>:q
+2019-08-26 13:35:20+0530 >  <#+932><RShft>Dure<BckSp>gesh,
+2019-08-26 15:06:25+0530 > 
+2019-08-26 15:06:25+0530 > <RShft>Can youple<BckSp><BckSp><BckSp> please send me some video file<BckSp><#+33><BckSp><BckSp><BckSp><BckSp><RShft>Are you getting any touch<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp> <RShft>G<BckSp><RShft>I<BckSp><RShft>UI touch response wen<BckSp><BckSp>hen you touch some place.
+2019-08-26 15:07:23+0530 > 
+2019-08-26 15:07:23+0530 > <RShft>Regards, <RShft>Zaid<Up><Left> i <BckSp>fs <BckSp><BckSp> so, <RShft>Can you please provide me the video flie.<Down><Down><Down><Down><Down><#+13><Down><#+12><Down><#+4><Down><#+10><Down><#+4><Down><Down><Down><Down><#+6><Down><Down><#+12><Down><Down><Down><Down><Down><Up><Up><Down><#+9><Down><#+7><Down><#+7><Down><#+8><Down><#+9><Down><#+2><Down><Down><Down><Down><Down><#+11><Down><#+12><Up><#+9><Up><#+14><Up><#+14><Up><#+24><Up><#+15><Up><#+17><Up><#+8><Up><Up><Up><Up><Up><Up><Up><Up><Down><Up><#+11>
