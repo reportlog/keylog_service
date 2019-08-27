@@ -1,0 +1,54 @@
+Logging started ...
+
+2019-08-26 18:39:28+0530 > <Down><Down><#+37>ls
+2019-08-26 18:39:32+0530 > vim <LShft>Ma<Tab>
+2019-08-26 18:39:48+0530 > <Down><#+18><Down><#+18><Down><#+19><Up><#+43><Up><#+12><Up><Up><Down><#+14><Down><Right><#+53><Down><#+39><Up><#+14><Up><#+50><Down><#+12><Down><Down><Down><Left><Left><Left><Left><Left><Left><LCtrl><LShft>Tcd <LShft><Ins>
+2019-08-26 18:41:32+0530 > ls
+2019-08-26 18:41:34+0530 > <Down><Down>cd ../../.
+2019-08-26 18:42:39+0530 > cd ../..
+2019-08-26 18:42:42+0530 > cd sa<Tab>
+2019-08-26 18:42:44+0530 > ls
+2019-08-26 18:42:46+0530 > cd <LShft>Bl<Tab>
+2019-08-26 18:42:49+0530 > ls
+2019-08-26 18:42:50+0530 > <LCtrl>c
+2019-08-26 18:42:57+0530 > <LAlt><Tab><LCtrl><LShft>V
+2019-08-26 18:42:59+0530 > make clean
+2019-08-26 18:43:04+0530 > make
+2019-08-26 18:43:06+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down><#+24>vim <LShft>Ma<Tab>
+2019-08-26 18:43:17+0530 > <Down><#+13><LCtrl><LShft>Tcd /us<Tab>lo<Tab>
+2019-08-26 18:43:30+0530 > ls
+2019-08-26 18:43:31+0530 > cd 
+2019-08-26 18:43:35+0530 > cd sri<Tab>bl<Tab>
+2019-08-26 18:43:39+0530 > ls
+2019-08-26 18:43:40+0530 > <Up><#+10><Up><RShft>********<RShft>*<Left><#+13><Left><Left><Left><RShft><RShft>***<Left><#+19><Left><Left><Left><RShft>*<Esc><RShft>:q
+2019-08-26 18:44:31+0530 > <Up><Down>pwd
+2019-08-26 18:45:05+0530 > <Up>
+2019-08-26 18:45:10+0530 > i<LShft>#<Esc>yypi<Right><BckSp><Right><#+10><Del><#+20><Del><Del><LShft><Ins><Esc><RShft>:wq
+2019-08-26 18:45:29+0530 > <Up><Up><Up>
+2019-08-26 18:45:31+0530 > <Up><Up><Up>
+2019-08-26 18:45:33+0530 > <Up><Up><Up>
+2019-08-26 18:45:36+0530 > <Esc>uuu<Down><Esc>dd<Up><Right>i<BckSp><Esc><RShft>:w
+2019-08-26 18:45:45+0530 > <Esc><RShft>:wq
+2019-08-26 18:45:47+0530 > <Esc><RShft>:q
+2019-08-26 18:45:52+0530 > <Up><Up><Up><Up>
+2019-08-26 18:45:57+0530 > <Up><Up><Down><Up><Up><Up><Up><Down>
+2019-08-26 18:46:03+0530 > vim mai<Tab>.<Tab>
+2019-08-26 18:46:13+0530 > <Down><#+58><Down><#+17><Esc><RShft>:q
+2019-08-26 18:46:20+0530 > ls
+2019-08-26 18:46:21+0530 > <Up><Up><Up><Up><Up>
+2019-08-26 18:46:35+0530 > <Down><#+28><Up><#+20><Down><#+32><Down><Down><Down><Up><#+48><Down><#+44><Up><Up><Up><Up><Up><Up><Up><#+19><Down><#+18><Down><Down><Down><Up><#+70><Down><#+17><Down><#+19><Down><#+16><Down><#+7><Up><Right><Up><Up><Up><Down><#+11><Up><Up><Up><Down><#+32><Up><#+24><Up><#+10><Down><Down>i<BckSp><Up><Up><LShft>#<Esc><RShft>:wq
+2019-08-26 18:48:34+0530 > <Up><Up><Up><Up><Up>
+2019-08-26 18:48:37+0530 > <Up><Up><Up><Up><Up>
+2019-08-26 18:48:41+0530 > <Up><Up><Up>
+2019-08-26 18:48:44+0530 > <Down><#+46><Up><#+12><Up><Right>i<Left><Right><BckSp><Down><Down><LShft>#<Esc><RShft>:wq
+2019-08-26 18:48:56+0530 > <F11><#+2><F11><F12><#+1><BckSp><F10><BckSp><F9><BckSp><F8><BckSp><F7><BckSp><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><#+2><F11><F11><#+4><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><F11><Up><Up><#+2><Up>
+2019-08-26 18:51:41+0530 > makw <BckSp><BckSp>e
+2019-08-26 18:51:47+0530 > vim ma<Tab>.<Tab>
+2019-08-26 18:51:55+0530 > <Down><#+50><Down><#+24><Esc><RShft>:q
+2019-08-26 18:52:04+0530 > vim <LShft>Ma<Tab>
+2019-08-26 18:52:09+0530 > <Down><Down><#+21><Down><#+31><Up><#+59><Down><Down><#+29><Down><#+48><PgUp><#+18><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp>st comm<Down><Down>
+2019-08-26 18:53:58+0530 > srikanthmedisetty<LShft>@yahoo.com<Tab><LShft>YAhoozumi<LShft>@5ws2813<BckSp>2<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>ws<KP2><KP8><KP1><KP3>
+2019-08-26 18:56:13+0530 > 
+
+Logging stopped at 2019-08-26 18:57:51+0530
+
