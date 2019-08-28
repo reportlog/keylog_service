@@ -1,0 +1,30 @@
+Logging started ...
+
+2019-08-28 10:51:03+0530 > ls
+2019-08-28 10:51:04+0530 > cd =<BckSp>-
+2019-08-28 10:51:20+0530 > cd e<Tab>ini<Tab>
+2019-08-28 10:51:25+0530 > vim ma<Tab>
+2019-08-28 10:51:28+0530 > m
+2019-08-28 10:51:58+0530 > syed<LShft>#@<BckSp><BckSp><LShft>@zumisolutions.com<LShft>Sdad1992<LShft>!
+2019-08-28 10:52:26+0530 > <LAlt><Tab><Down><#+21><Up><Up><Esc><LShft>:q<LShft>!
+2019-08-28 10:53:25+0530 > <Up>
+2019-08-28 10:53:26+0530 > <Down><#+20><Down><Up>i
+2019-08-28 10:53:39+0530 > <Up><#+16><Up><Up><Up><Up><Up><Esc>dddddddddddddddddddddddddddddddddddd<Esc><LShft>:q<LShft>!
+2019-08-28 10:54:17+0530 > <Up>
+2019-08-28 10:57:03+0530 > <LAlt><Tab>wince screen<Down><Down>
+2019-08-28 10:57:19+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><Down><Down><#+21><Right><#+19><Down><Right><#+25><Right><KP0><Left><Right><#+32><NumLk><Right><Right><#+12><Right><KP0><Right><BckSp>1<Down><Down><Down><Down><Right><#+22><Right><BckSp>1<Esc><KP0><Down>
+2019-08-28 10:58:48+0530 > <Down><Esc>dd<KP0><Del><Up><Esc>dd<LAlt><LAlt><LAlt><Tab><LAlt><Tab><Up><#+16><Down><Down><Left><Left><Left><Left><Left><Left><Esc>dd<LAlt>`<LAlt>`<LAlt>```<Tab><Tab><Tab><Tab><Tab><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><Esc><LShft>:wq<LShft>!<Right><BckSp><BckSp><BckSp>q<LShft>!
+2019-08-28 11:00:01+0530 > cp ma<Tab>ma<Tab><BckSp><LShft>_bkup
+2019-08-28 11:00:12+0530 > <Up><Up>
+2019-08-28 11:00:14+0530 > <Down><#+25><Up><Up><Up><Right><#+40><KP0><Right><BckSp>1<Down><Down><Down><Down><Right><#+19><Right><Right><Right><BckSp>1<Esc><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down>dd<Down><Down><Down><Down><Down><Down><Down><Down><Down><Down>dd<KP0><Del><Esc><LShft>:wq<LShft>!
+2019-08-28 11:00:42+0530 > cd <LShft>~
+2019-08-28 11:00:46+0530 > umou<Tab> /me<Tab><LShft>*
+2019-08-28 11:00:53+0530 > <LShft>Hi <LShft>Durgesh,
+2019-08-28 11:10:09+0530 > 
+2019-08-28 11:10:10+0530 > <LShft>Please find the marti<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp> init script file. <LShft>Replace this in rr<BckSp>ootfs/etc/init.d/. <BckSp><BckSp> <LShft>It will launch <LShft>Fingere<BckSp><LShft>Paint automatically. <LShft>If you are getting <LShft>SIS touch in event no. other than 1 means, edit the attached file as per the event no. you get. 
+2019-08-28 11:14:34+0530 > <Up><Up>
+2019-08-28 11:14:35+0530 > <Up><LShft>Zaid is doubting<BckSp><#+10><BckSp><BckSp><BckSp>thinki<BckSp><#+12><BckSp>thoin<BckSp><BckSp><BckSp>inks that matrix gui which launches before yoyu<BckSp><BckSp>u au<BckSp><BckSp>manually launch finger paint might le<BckSp><BckSp>be causing issues in e<BckSp><LShft>Menu bei<BckSp><BckSp><BckSp>not able to work properly. <LShft>So, he asks me to change i<BckSp>yhe in<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>the init script to lauhc<BckSp><BckSp>nch finge <BckSp>r paint at start.<LShft><Right><#+36><Right><Del><LCtrl>vz<LCtrl>bm<LShft>Za
+2019-08-28 12:43:52+0530 > <Tab><LShft>Debian <LShft>ROOTFS<Tab><LShft>Sir,
+
+Logging stopped at 2019-08-28 12:43:59+0530
+
