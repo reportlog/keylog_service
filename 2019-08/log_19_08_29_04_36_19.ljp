@@ -1,0 +1,29 @@
+Logging started ...
+
+2019-08-29 16:36:19+0530 > <Up><Left><#+10><Left><Left><Left><BckSp>r
+2019-08-29 16:36:23+0530 > <Up><Home><LAlt><Tab><LAlt><Tab><Up><Left><#+11><Left><BckSp><BckSp><BckSp><End> -<RShft>R
+2019-08-29 16:36:38+0530 > <LCtrl>c
+2019-08-29 16:36:40+0530 > <Up><Home>sudo 
+2019-08-29 16:36:45+0530 > um<BckSp><BckSp><BckSp>cd -
+2019-08-29 16:36:58+0530 > umount .<BckSp>/me<Tab><RShft>*
+2019-08-29 16:37:04+0530 > debian
+2019-08-29 16:38:06+0530 > temppwd
+2019-08-29 16:38:09+0530 > 
+2019-08-29 16:38:14+0530 > 
+2019-08-29 16:38:15+0530 > 
+2019-08-29 16:38:15+0530 > ls
+2019-08-29 16:38:15+0530 > cd bin<Tab>
+2019-08-29 16:38:19+0530 > ls
+2019-08-29 16:38:20+0530 > cd ../..
+2019-08-29 16:38:23+0530 > 
+2019-08-29 16:38:26+0530 > 
+2019-08-29 16:38:27+0530 > 
+2019-08-29 16:38:27+0530 > 
+2019-08-29 16:38:27+0530 > s<Tab><Tab>n<LAlt><Tab><LAlt><Tab>tar<Tab><Tab><Tab>x<Tab>q<Tab><Tab><BckSp><BckSp>l<Tab>
+2019-08-29 16:38:52+0530 > <Up><Left><#+17>sudo 
+2019-08-29 16:38:57+0530 > <Up><LAlt><Tab><LAlt><Tab><BckSp><#+15><BckSp><#+1><BckSp><BckSp><BckSp>sudo su
+2019-08-29 16:39:41+0530 > su
+2019-08-29 16:39:43+0530 > temppwd
+2019-08-29 16:39:47+0530 > <LCtrl><LCtrl><LAlt><Tab><LAlt><Tab>ps<BckSp><BckSp><BckSp>ps -ax <RShft>| grep lin<BckSp>fg<BckSp><BckSp>gft<BckSp><BckSp>ht
+2019-08-29 16:40:17+0530 > <LAlt><Tab> beaglebone
+2019-08-29 16:41:46+0530 > 
