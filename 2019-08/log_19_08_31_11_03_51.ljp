@@ -1,0 +1,29 @@
+Logging started ...
+
+2019-08-31 11:03:51+0530 > <LCtrl>f<Esc><LAlt><Tab><LAlt><Tab><LCtrl>f
+2019-08-31 11:07:20+0530 > <Esc><Up>
+2019-08-31 11:07:28+0530 > coutn\\<Ins><BckSp><BckSp><BckSp><BckSp><Ins>nt = 10;<LCtrl>s<LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LCtrl>c
+2019-08-31 11:08:09+0530 > <LCtrl>v<LCtrl>s<LAlt><Tab><LAlt><Tab><LAlt><Tab><Up><End><LShft><Home><LCtrl>c
+2019-08-31 11:08:54+0530 > <End>
+2019-08-31 11:08:54+0530 > <LCtrl>v<Left><#+24><Left><Left><Up><Home>//<Down><Right><#+16><Right><Right>\\\<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>int<LCtrl>s<LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LCtrl>c
+2019-08-31 11:09:38+0530 > <LCtrl>calc
+2019-08-31 11:09:43+0530 > <LCtrl>v<Esc><Esc><Esc>4240<LAlt><Tab><Tab><LAlt><Tab><Tab><Tab><Tab><Tab><Tab><Tab><LCtrl>c
+2019-08-31 11:10:26+0530 > <LAlt><Tab><Tab><LCtrl>v<BckSp><#+23>16960<LAlt><Tab><PgDn><PgDn><PgDn><Down><#+28><Up><#+70><Up><#+26><Up><#+26><Up><#+20><Up><#+22><Down><#+26><Down><#+20><Up><#+31><Up><Up>
+2019-08-31 11:14:59+0530 > esls\\\<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>lse
+2019-08-31 11:15:05+0530 >     <Up><Up><Up><Up><Up><Up><LShft><End><LCtrl>c
+2019-08-31 11:15:10+0530 > <Down><Down><Down><Down><Down><Down><LCtrl>v<Left><Left><Left><Left><Right>\\\<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>.<PgUp><PgUp><PgDn><PgDn>off<Down><LAlt><Tab><LAlt><Tab><BckSp><Up>
+2019-08-31 11:17:24+0530 > <BckSp><Down><Down><Down><BckSp><Up><Down>
+2019-08-31 11:17:40+0530 > <Down>
+2019-08-31 11:17:42+0530 > <Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><BckSp>c sd\\\<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>d ../\\\<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>cd<BckSp>\\<BckSp><BckSp><BckSp>n<Tab><Tab>/<RShft><Tab><RShft>A<Tab><Tab><BckSp><Tab><Tab><RShft>a<Tab><Tab><Tab><Tab>li<Tab><Tab><Tab>a<Tab><Tab><BckSp>r<Tab><Tab><Tab><RShft>F<Tab><Tab><BckSp><#+40><BckSp><BckSp><BckSp>
+2019-08-31 11:18:40+0530 > ls
+2019-08-31 11:18:42+0530 > cd ../<RShft>A<Tab><Tab>r<Tab><Tab><Tab><RShft>F<Tab><Tab>
+2019-08-31 11:18:56+0530 > ls
+2019-08-31 11:18:57+0530 > vim f<Tab><RShft>\\\\<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><RShft>F<Tab>c\h<Tab><BckSp><BckSp><BckSp>h<Tab>
+2019-08-31 11:19:08+0530 > <PgDn><PgDn>/show
+2019-08-31 11:19:12+0530 > <Down><#+24>n<Esc><LAlt><Tab><Esc><Right><Right>\\<BckSp><BckSp><BckSp><BckSp><BckSp>clear<Up><Home><Home><Home><Down><Up><Home><LShft><Down><Down><LCtrl>c
+2019-08-31 11:19:56+0530 > <Down><Down><#+17><Up><Up><Up><Up><Up><Up><Up><LCtrl>v
+2019-08-31 11:20:00+0530 > <Down><#+14><Up><Up><Up><End>
+2019-08-31 11:20:56+0530 > <LCtrl>v<LCtrl>s<Up><Up><Del>
+
+Logging stopped at 2019-08-31 11:21:01+0530
+
