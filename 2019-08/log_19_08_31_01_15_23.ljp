@@ -1,0 +1,30 @@
+Logging started ...
+
+2019-08-31 13:15:23+0530 > g
+2019-08-31 16:08:27+0530 > wince image vier<Down> 
+2019-08-31 16:08:40+0530 >  in command <Down>
+2019-08-31 16:08:52+0530 > <BckSp><BckSp>command <Down> to view image 
+2019-08-31 16:10:00+0530 >  in wince7
+2019-08-31 16:10:24+0530 > <LCtrl>g
+2019-08-31 16:18:49+0530 > <#+1>qt <BckSp>base git<Down>
+2019-08-31 16:18:58+0530 > <BckSp><LCtrl>c
+2019-08-31 16:21:36+0530 > <LCtrl>v
+2019-08-31 16:22:09+0530 > ls
+2019-08-31 16:22:40+0530 > cd <LShft>~/<LShft>Dow<Tab><#+1>
+2019-08-31 16:22:44+0530 > ls
+2019-08-31 16:22:45+0530 > unzi<Tab><#+2> ima<Tab><#+3>
+2019-08-31 16:22:51+0530 > <#+2>ls
+2019-08-31 16:22:53+0530 > <BckSp><LShft>Qt-examples
+2019-08-31 16:23:04+0530 > <LCtrl>x<LCtrl>bv<#+2><LCtrl><RShft><Del>
+2019-08-31 16:23:57+0530 > <LCtrl>vg
+2019-08-31 16:24:21+0530 > stm32 ide <LShft>FA<BckSp><BckSp>fastled <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>library linking
+2019-08-31 16:24:40+0530 > <BckSp>ard<Down><Down><Down> <Down><Down>
+2019-08-31 16:26:43+0530 > <BckSp>convert arduino library to stm32 
+2019-08-31 16:28:22+0530 > <Right><Right><Right><Right><Right><Right><Right><Left><Left><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><BckSp>library lin<BckSp><#+25>yasa<LShft>Sab<BckSp>ntana<LShft>_2019
+2019-08-31 16:33:19+0530 > g
+2019-08-31 16:34:08+0530 > changa<BckSp>e avr platform to arm platform in stm32 ide
+2019-08-31 16:34:25+0530 > g
+2019-08-31 16:34:53+0530 > <RShft>ad<LCtrl>vst32 <BckSp><BckSp><BckSp>m32 ide i<BckSp><BckSp><BckSp><BckSp><BckSp><LShft>IDE is<BckSp>ssue<BckSp><#+8><BckSp><BckSp>linking issue<KP3><KP2><KP2><F12><BckSp>bit  bit microcontroller list
+2019-08-31 17:03:20+0530 > <BckSp><BckSp><BckSp><KP3><KP2><AltGr><Esc> bit  <BckSp><BckSp><BckSp> ic lict<BckSp><BckSp>st
+2019-08-31 17:04:39+0530 > invento isc <KP5><KP2><KP8><BckSp>invento isc <KP5><KP2><KP8> <KP1>pes mcucapacitive tuch
+2019-08-31 17:10:52+0530 > <Esc><Esc><Esc><Esc><Esc><Esc><Esc><Left><RCtrl><Menu><Menu><Left><RCtrl> 
