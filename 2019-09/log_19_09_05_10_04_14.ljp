@@ -1,0 +1,110 @@
+Logging started ...
+
+2019-09-05 10:04:14+0530 > <LCtrl>i<KP2><BckSp><BckSp><BckSp>uln<KP2><KP0><KP0><KP3>a
+2019-09-05 10:17:31+0530 > lpc2148
+2019-09-05 10:19:41+0530 > ir sensore
+2019-09-05 10:20:07+0530 > power regulator 
+2019-09-05 10:20:42+0530 > <BckSp>voltage regulator 
+2019-09-05 10:21:05+0530 > google translate 
+2019-09-05 10:22:16+0530 > power regulatp<BckSp>or 
+2019-09-05 10:56:28+0530 > usb to clock genera<BckSp><BckSp><BckSp><BckSp><Down><Down><Up>
+2019-09-05 10:57:51+0530 > <BckSp>usb ti<BckSp>on<BckSp><#+20>usb to colc<BckSp><BckSp><BckSp>lock generator circuit 
+2019-09-05 11:04:15+0530 > uk<BckSp>ln 2003a 
+2019-09-05 11:05:41+0530 > voltage regulator  <KP7><KP8><KP0><KP6>
+2019-09-05 11:06:47+0530 > asm<KP1><KP1><KP7><BckSp><KP1><KP7>
+2019-09-05 11:09:29+0530 >  <KP3><KP.><KP3>v vs<KP1><KP8><KP4><KP0>
+2019-09-05 11:09:56+0530 > ldo means 
+2019-09-05 11:12:23+0530 >   relay <BckSp><#+20><KP1><KP0><CpsLk>A<CpsLk> relay 
+2019-09-05 11:13:43+0530 > <KP0><Right><KP1><BckSp><BckSp><#+25>found<BckSp><#+18>found <BckSp>t<BckSp><#+19>found in<BckSp><BckSp>in desing<BckSp><BckSp>gnfood<BckSp><#+15>cancan be<BckSp><#+17>be<BckSp><#+24>be<BckSp><#+20>be can<BckSp><#+31>made<BckSp><#+21>from<BckSp><#+19>can be madefrom<BckSp><BckSp><BckSp><BckSp> from<BckSp><#+26>i2c proyocol 
+2019-09-05 11:36:47+0530 > <LCtrl><LCtrl><LCtrl><LCtrl>relay dro<BckSp>iver circuit 
+2019-09-05 11:38:49+0530 > ir ser<BckSp><BckSp><#+20><CpsLk>IR<CpsLk> driver 
+2019-09-05 11:39:45+0530 > ir driver circuit n-<BckSp><BckSp>
+2019-09-05 11:40:14+0530 > i<BckSp><CpsLk>IR<CpsLk> driver c<BckSp>send<BckSp>sor circuit 
+2019-09-05 11:41:12+0530 > `1<#+41><Tab>`<#+3><#+2><CpsLk><#+3><CpsLk>sudo r<BckSp><#+18>cd ,e<Tab><BckSp><BckSp>me<Tab><Tab><Tab>dia/<Tab><Tab><#+3><Tab><Tab>zumi
+2019-09-05 12:10:04+0530 > <Tab><Tab><Up><Up><Up><Down><#+11><Up><Up><Up><Up><#+2><Up><Up><Up><Up><Up><Down><Up><Up><Up><#+1>imx6q sabre sd 
+2019-09-05 12:12:01+0530 >  booting
+2019-09-05 12:12:17+0530 > <BckSp>
+2019-09-05 12:17:11+0530 > <E-71><E-71><E-71><LCtrl> power suplay 
+2019-09-05 12:28:15+0530 > <BckSp> input power us<BckSp><BckSp>supl<BckSp>play 
+2019-09-05 12:30:01+0530 > <BckSp> inpu t\<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>input power supplay 
+2019-09-05 12:30:31+0530 > smps 
+2019-09-05 12:33:29+0530 > <KP3><KP2>bit micro controller ic 
+2019-09-05 12:35:28+0530 >  inpi<BckSp>ut voltag max 5v 
+2019-09-05 12:36:30+0530 > sudo minicom <RShft>_<BckSp>-s<#+1>
+2019-09-05 13:33:05+0530 > zs10062013
+2019-09-05 13:33:12+0530 > <Down><Down>
+2019-09-05 13:33:17+0530 > a<BckSp><BckSp><BckSp><BckSp><CpsLk>ACM0<CpsLk>
+2019-09-05 13:33:34+0530 > 
+2019-09-05 13:33:35+0530 > <Down><#+6><Down><Down><Down><Up>
+2019-09-05 13:33:40+0530 > <Down><Down><Down><Up>
+2019-09-05 13:33:44+0530 > sudo minicom
+2019-09-05 13:34:16+0530 > sudo minicom -s
+2019-09-05 13:34:30+0530 > <Down><Down>
+2019-09-05 13:34:33+0530 > 
+2019-09-05 13:34:34+0530 > <Left><Down><Down><Down><Down><Down>
+2019-09-05 13:34:39+0530 > <#+1><Down><Down>cd <Tab><Tab>b<Tab><BckSp><#+13><BckSp><BckSp><BckSp><BckSp><BckSp><Tab><Tab>
+2019-09-05 13:35:01+0530 > 
+2019-09-05 13:35:02+0530 > 
+2019-09-05 13:35:02+0530 > ls
+2019-09-05 13:35:04+0530 > cd bu<BckSp>i<Tab><Tab>n
+2019-09-05 13:35:21+0530 > <#+2>sudo minicom -s
+2019-09-05 13:35:54+0530 > <Down><Down><Down><Down><Down><Down><Down><Down>
+2019-09-05 13:36:05+0530 > <#+6><Up>
+2019-09-05 13:36:08+0530 > <Down><#+13><Up><Up><Up>
+2019-09-05 13:36:11+0530 > ls
+2019-09-05 13:36:17+0530 > sudo minicom
+2019-09-05 13:36:54+0530 > <Up>
+2019-09-05 13:37:10+0530 > <LCtrl><LShft>T<LAlt>121212<#+2>sudo minicom
+2019-09-05 13:39:43+0530 > zs10062013
+2019-09-05 13:39:49+0530 > <Up><#+1> -s
+2019-09-05 13:39:59+0530 > <Down><Down>
+2019-09-05 13:40:07+0530 > 
+2019-09-05 13:40:09+0530 > <Down><Down><Down><Down><Down><Down><Up>
+2019-09-05 13:40:22+0530 > <#+1><Up><Up><Up><Down><Up><Up><Up><Up><Up><Up><Down><Down><Down><Down><Down><Down><LAlt>1<LAlt>212<#+1>1212<LAlt> -s
+2019-09-05 13:42:50+0530 > <Down><Down>
+2019-09-05 13:42:52+0530 > 
+2019-09-05 13:42:58+0530 > <Up>
+2019-09-05 13:42:59+0530 > <Esc><Down><Down><Down><Up><Up><Up><Up>
+2019-09-05 13:43:10+0530 > <Esc><#+3><Esc><Up><Up><Up><Down>
+2019-09-05 13:43:21+0530 > /<Tab><Tab>d<Tab><Tab>e<Tab><Tab><Tab>t<Tab><Tab><Tab><Tab><Tab><BckSp><#+20>cd b<Tab><BckSp><#+23>bin<Tab><Tab><BckSp><BckSp>/<Tab><Tab>
+2019-09-05 13:43:59+0530 > 
+2019-09-05 13:44:09+0530 > <BckSp><KP5>v v<Down>
+2019-09-05 14:39:00+0530 > <KP5>v <KP1><KP0><CpsLk><#+1>A<CpsLk> voltage regulator 
+2019-09-05 14:42:18+0530 > <BckSp>output <KP5>v voltage regulator 
+2019-09-05 14:43:58+0530 > <LCtrl>yahoo
+2019-09-05 15:08:02+0530 > <CpsLk>A<CpsLk>sif<RShft>_2019
+2019-09-05 15:08:28+0530 > \<CpsLk>A<CpsLk>sif<RShft>_<#+1>2<#+1>019
+2019-09-05 15:08:48+0530 > sudo mini<Tab><Tab>c<Tab><Tab>-<BckSp>
+2019-09-05 15:51:53+0530 > zs10062013
+2019-09-05 15:52:00+0530 > <Up><BckSp><BckSp><BckSp><BckSp>-s
+2019-09-05 15:52:14+0530 > <Down><#+3><Down>
+2019-09-05 15:52:16+0530 > a<BckSp><BckSp><BckSp><BckSp><CpsLk>USB0<CpsLk><Esc>a<BckSp><BckSp><BckSp><BckSp>u<BckSp><Tab>us<BckSp><BckSp><CpsLk>USB0
+2019-09-05 15:52:50+0530 > 
+2019-09-05 15:52:51+0530 > <Down><Down><Down><Up><Down>
+2019-09-05 15:52:54+0530 > <Down><Down><Down><Up>
+2019-09-05 15:52:58+0530 > SE<BckSp><BckSp><CpsLk>setenv
+2019-09-05 15:54:56+0530 > ho<#+1>w to set environment variable
+2019-09-05 15:55:37+0530 >  in linux
+2019-09-05 15:55:49+0530 > <Down><Down><Down><Down><Down><Down><Down><Up><Up>ls
+2019-09-05 15:58:09+0530 > cd <Tab><Tab><Tab><Tab><Tab>
+2019-09-05 15:58:16+0530 > bin<Tab><Tab>
+2019-09-05 15:58:20+0530 > setem<BckSp>nv
+2019-09-05 15:58:27+0530 > printenv
+2019-09-05 15:59:08+0530 > <CpsLk>HOME
+2019-09-05 16:01:31+0530 > <LShft>
+2019-09-05 16:02:27+0530 > <LCtrl>Z<LCtrl>c
+2019-09-05 16:03:39+0530 > <#+1>
+2019-09-05 16:03:48+0530 > <Up><Left><#+9><Left><Left><BckSp><#+12><BckSp><BckSp>
+2019-09-05 16:04:02+0530 > 
+2019-09-05 16:04:37+0530 > PR<BckSp><BckSp><CpsLk>printenv
+2019-09-05 16:04:54+0530 > set env emmc=1
+2019-09-05 16:07:03+0530 > <Up><BckSp><#+9><BckSp><BckSp><BckSp>
+2019-09-05 16:07:12+0530 > <Up><Left><#+8><BckSp>t<Right><BckSp>
+2019-09-05 16:07:21+0530 > detenv <BckSp><#+15>setenv -f <LCtrl>
+2019-09-05 18:15:09+0530 >  <#+16>you tube 
+2019-09-05 18:28:51+0530 > <LCtrl>basic electronic project in smd packeg<BckSp><BckSp>age 
+2019-09-05 19:09:07+0530 > y<BckSp>tamil 
+2019-09-05 19:09:20+0530 > <E-73><E-73>
+
+Logging stopped at 2019-09-05 20:06:58+0530
+
