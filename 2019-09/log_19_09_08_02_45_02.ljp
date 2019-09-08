@@ -1,0 +1,28 @@
+Logging started ...
+
+2019-09-08 14:45:02+0530 > <LAlt><Tab><LAlt><Tab>cd /bi<Tab>
+2019-09-08 14:46:01+0530 > ./bluet<Tab>
+2019-09-08 14:46:06+0530 > <LCtrl>c
+2019-09-08 14:46:15+0530 > <LCtrl>v<LCtrl><LShft>T<LCtrl>c
+2019-09-08 14:46:47+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><Tab>cd <LShft><Ins>
+2019-09-08 14:46:52+0530 > cd ../clie<Tab>
+2019-09-08 14:46:59+0530 > ls
+2019-09-08 14:47:00+0530 > vim ma<Tab>.<Tab>
+2019-09-08 14:47:06+0530 > d<LCtrl><LShft>Tcd ../../bu<Tab>
+2019-09-08 14:47:28+0530 > <LCtrl>c
+2019-09-08 14:47:37+0530 > <LAlt><Tab><LCtrl><LShft>V
+2019-09-08 14:47:40+0530 > /<LShft>Device
+2019-09-08 14:48:05+0530 > /mac
+2019-09-08 14:49:13+0530 > nnnnn<Up><#+11><Up><Left><Left><Left><Esc>dd<Up><#+51><Down><#+13><Up><Up><Down><Down><Down><Down><Down>p<Up><Right>i<BckSp><BckSp><Right><#+11><Right><BckSp>5<Down><Left><Left><Left><Left><Left><BckSp><BckSp><Down><#+26><Down><#+20><Down><#+10><Esc>/m<Up>
+2019-09-08 14:49:57+0530 > n<Right><#+9><Right><#+19><Right><Right><Left><#+31><Esc>yyp<Up>i//<Down><Right><#+9><Right><Right><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Down><Right><#+3><Up><Left><Left><Esc>yyp<Right><#+10><Right><Right><Right>i<BckSp><BckSp><BckSp><LShft>Device<RShft>_name<Up><Left><Esc><RShft>:w
+2019-09-08 14:51:10+0530 > <Down>/<LShft>Device
+2019-09-08 14:51:39+0530 > <Down><Down><Down><Right><Down><Right><Right><#+21>i<Right>
+2019-09-08 14:51:45+0530 >   <#+10>  how to copy a sr<BckSp>tring in c
+2019-09-08 14:52:30+0530 > google
+2019-09-08 14:52:59+0530 > g
+2019-09-08 14:54:14+0530 > g
+2019-09-08 14:55:02+0530 > goo
+2019-09-08 14:55:40+0530 > how to copy a string to pointer <Down>
+
+Logging stopped at 2019-09-08 14:56:01+0530
+
