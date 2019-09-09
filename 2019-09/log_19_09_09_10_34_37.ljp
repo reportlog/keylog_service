@@ -1,0 +1,25 @@
+Logging started ...
+
+2019-09-09 10:34:37+0530 > <LCtrl>c
+2019-09-09 10:34:46+0530 > <#+1><LAlt><Tab><Tab><LCtrl><LShft>Vcd ../<BckSp><#+17>`<BckSp><Tab><Tab>cli<Tab><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>bu<Tab>i<Tab><Tab><BckSp><BckSp><BckSp><BckSp><#+10><BckSp><BckSp><BckSp><BckSp><BckSp>bu<Tab>clie<Tab>
+2019-09-09 10:35:15+0530 > <Up><Home>cd 
+2019-09-09 10:35:19+0530 > ls
+2019-09-09 10:35:20+0530 > tfto<BckSp>p 
+2019-09-09 10:35:28+0530 > 
+2019-09-09 10:35:29+0530 > 
+2019-09-09 10:35:29+0530 > <Up>
+2019-09-09 10:35:30+0530 > <LShft><Ins>
+2019-09-09 10:35:37+0530 > put ./blu<Tab><Tab><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>blu<Tab><BckSp><BckSp><BckSp><BckSp><LShft>~/ho<Tab><BckSp><BckSp><BckSp><BckSp><BckSp><LAlt><Tab><Tab><Tab><LAlt><Tab><BckSp><BckSp><BckSp><BckSp>status
+2019-09-09 10:38:28+0530 > <LAlt><Tab>send files using tftp in linux
+2019-09-09 10:41:17+0530 > <LAlt><Tab>tftp bluetoothctl <Left><#+8><BckSp><#+18><BckSp><#+17>put bluetoothctl
+2019-09-09 10:42:21+0530 > cd /tft<Tab><Tab><Tab><BckSp><BckSp><BckSp><BckSp>tf<Tab><Tab><Tab><BckSp><#+13>ls
+2019-09-09 10:42:43+0530 > <LAlt><Tab><LAlt><Tab><LAlt><LAlt><Tab>ma<Down><Down><Down><Down><Down>
+2019-09-09 10:43:53+0530 > srikanth<LShft>@zumisolutions.com<Tab><LShft>YAhoozumi<LShft>@5<LAlt><Tab>help
+2019-09-09 10:45:09+0530 > <BckSp><BckSp>h
+2019-09-09 10:45:12+0530 > <LAlt><Tab><LAlt><Tab><RShft>?
+2019-09-09 10:45:26+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab>put bluetoo<BckSp><#+17><LAlt><Tab><LAlt><Tab>put bluetoothctl /medi<Tab><BckSp>a
+2019-09-09 10:48:42+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab>put -c bluetoothctl /me<Tab><BckSp>dia
+2019-09-09 10:49:27+0530 > <LCtrl>c
+2019-09-09 10:49:29+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><LAlt><Tab><LAlt><Tab><LAlt><Tab>tftp 192.168.1.47 <LAlt><Tab><LAlt><Tab>-c put bluetoothctl <LAlt><Tab><LAlt><Tab>/media
+2019-09-09 10:50:33+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab>put bluetoothctl /medis<Tab><BckSp><BckSp>a<LAlt><Tab><LAlt><Tab>
+2019-09-09 10:51:45+0530 > <LAlt><Tab>
