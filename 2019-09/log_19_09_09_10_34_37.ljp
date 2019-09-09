@@ -23,3 +23,6 @@ Logging started ...
 2019-09-09 10:49:29+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><LAlt><Tab><LAlt><Tab><LAlt><Tab>tftp 192.168.1.47 <LAlt><Tab><LAlt><Tab>-c put bluetoothctl <LAlt><Tab><LAlt><Tab>/media
 2019-09-09 10:50:33+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab>put bluetoothctl /medis<Tab><BckSp><BckSp>a<LAlt><Tab><LAlt><Tab>
 2019-09-09 10:51:45+0530 > <LAlt><Tab>
+
+Logging stopped at 2019-09-09 10:54:09+0530
+
