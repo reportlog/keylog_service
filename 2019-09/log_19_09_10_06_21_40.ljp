@@ -1,0 +1,75 @@
+Logging started ...
+
+2019-09-10 18:21:40+0530 > <LCtrl>c
+2019-09-10 18:22:16+0530 > ./blue<Tab><RShft>_o<Tab>
+2019-09-10 18:22:31+0530 > 
+2019-09-10 18:22:32+0530 > powero<BckSp> on
+2019-09-10 18:22:40+0530 > 
+2019-09-10 18:22:42+0530 > scan on
+2019-09-10 18:22:47+0530 > <LCtrl>scan off
+2019-09-10 18:22:53+0530 > 
+2019-09-10 18:22:59+0530 > 
+2019-09-10 18:23:00+0530 > 
+2019-09-10 18:23:00+0530 > 
+2019-09-10 18:23:00+0530 > 
+2019-09-10 18:23:00+0530 > connect <LShft><Ins>
+2019-09-10 18:23:04+0530 > 
+2019-09-10 18:23:13+0530 > 
+2019-09-10 18:23:13+0530 > 
+2019-09-10 18:23:13+0530 > 
+2019-09-10 18:23:13+0530 > menu gatt
+2019-09-10 18:23:17+0530 > s<BckSp><LShft><Ins> <LShft><Ins>
+2019-09-10 18:23:32+0530 > 
+2019-09-10 18:23:34+0530 > 
+2019-09-10 18:23:34+0530 > 
+2019-09-10 18:23:34+0530 > write 0x66 <LShft><Ins>
+2019-09-10 18:23:41+0530 > back
+2019-09-10 18:23:55+0530 > exit
+2019-09-10 18:24:00+0530 > 
+2019-09-10 18:24:01+0530 > 
+2019-09-10 18:24:01+0530 > 
+2019-09-10 18:24:01+0530 > <Down><#+46><Down><#+7><Up><#+13><Up><Up><Up><#+8><Up><Up><#+22><Up><#+24><Up><#+18><Down><#+20><Down><Down><Down><Down><Right><#+14><Right><RShft>*<Down><Down><Down><Down><Down><Down><Down><Down><Esc><RShft>:q
+2019-09-10 18:24:36+0530 > grep -ar <RShft>""<Left><LShft><Ins>
+2019-09-10 18:24:42+0530 > vim ga<Tab>c 
+2019-09-10 18:24:54+0530 > /<LShft><Ins>
+2019-09-10 18:24:57+0530 > <Down><Down><Down><Down><Down><Down><Up><#+10><Up><Up><Up><Down><Down><Down><Down><Down><Down><Down><Down><Up><Up><Up><Up><Up><Up><Up><RShft>*<Down><Down><Down><Down><Down><Right><Right><Down><Right><#+7><RShft>*<Down><#+12><Down><#+20>n<Right><#+27><Right>i<BckSp>0<Esc><RShft>:w
+2019-09-10 18:27:14+0530 > <Right><Right><Right><Esc>u<Esc>yyp<Up>i<Left>//<Down><Right><#+28><Left><BckSp>0<Right><Right><Del><Del><Del><Del><Del><Del><Del> sizeof<RShft>()<Left>argv<Esc><RShft>:w
+2019-09-10 18:27:56+0530 > <Up><Up>
+2019-09-10 18:27:59+0530 > cp cli<Tab>blue<Tab>/tf<Tab>
+2019-09-10 18:28:21+0530 > 
+2019-09-10 18:28:25+0530 > 
+2019-09-10 18:28:25+0530 > 
+2019-09-10 18:28:25+0530 > get -r blu<Tab> 192.168.1.46 
+2019-09-10 18:28:46+0530 > <Up><Left><#+26><BckSp>c
+2019-09-10 18:28:56+0530 > cd <BckSp><#+13><LCtrl>rrrrtftp 192.168.1.46
+2019-09-10 18:29:40+0530 > tftp help
+2019-09-10 18:29:57+0530 > <Up><BckSp><BckSp><BckSp><BckSp>-h
+2019-09-10 18:30:02+0530 > <Up><Up><Up><Up><Up><Up><Down><Left><#+7><Left><#+28><Right><BckSp><BckSp><BckSp>tftp
+2019-09-10 18:30:19+0530 > <Up><Left><#+25><Left><Left><Left>get 
+2019-09-10 18:30:31+0530 > <Up><Left><#+26><Left><Left><BckSp><BckSp><BckSp><Right><BckSp><Right><#+16> -r
+2019-09-10 18:30:43+0530 > <Up><Left><#+14><Left><Left><Left><BckSp><BckSp><BckSp>tftp command to receive 
+2019-09-10 18:31:22+0530 > <LAlt><Tab><Right><#+5><Left><BckSp><#+10><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><Right><#+22>bluet<Tab>
+2019-09-10 18:32:16+0530 > <LAlt><Tab><LAlt><Tab>tftp <RShft>?<BckSp><RShft>> get bluet<Tab> 
+2019-09-10 18:33:50+0530 > <Up>192.168.1.46
+2019-09-10 18:33:59+0530 > <Up><Left><#+23><Left>-r 
+2019-09-10 18:34:04+0530 > <LAlt><Tab><LAlt><Tab>tftp 192.168.1.46 <LAlt><LAlt><LAlt><Tab><LAlt><Tab>-c bluet<Tab><LAlt><Tab><LAlt><Tab>
+2019-09-10 18:34:43+0530 > <LAlt><Tab><Up><LAlt><Tab><Up><Left><#+13><Left><Left><Left><BckSp>r
+2019-09-10 18:34:54+0530 > <LAlt><Tab><Down><#+11><Up><#+8><Down><#+9><Down><#+11><Down><#+6><Down><#+10><Down><#+2><Down><Down><Down><Up><LAlt><Tab><LAlt><Tab><BckSp><#+24><BckSp><BckSp><BckSp><RShft>> /tf<Tab><Tab><Tab>t<Tab><Tab><BckSp><BckSp><BckSp><BckSp>bluet<Tab><LAlt><Tab><LAlt><Tab><Left><#+16><Right> get 
+2019-09-10 18:36:56+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab>tftp 192.168.1.46
+2019-09-10 18:37:55+0530 > <Up><BckSp><#+10><BckSp><BckSp><BckSp><BckSp><BckSp><Up> .
+2019-09-10 18:38:26+0530 > <Up><BckSp><#+19><BckSp><BckSp><BckSp>-r 192.168.1.46 bluet<Tab> .
+2019-09-10 18:38:43+0530 > <Up><F12><#+1><BckSp><#+25><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>ls
+2019-09-10 18:38:54+0530 > <LAlt><Tab><LAlt><Tab>get <BckSp><#+12>tftp -r get blueto<Tab> 192.168.1.46
+2019-09-10 18:39:20+0530 > <Up><BckSp><#+38><LAlt><Tab><LAlt><Tab>help get
+2019-09-10 18:39:33+0530 > <LAlt><Tab>how to use get command in tftp for linux
+2019-09-10 18:39:56+0530 > cd /tf<Tab><Tab><Tab><BckSp><#+17><LAlt><Tab>cp /tf<BckSp><BckSp><BckSp> /tftpboot
+2019-09-10 18:41:26+0530 > <RShft>"<End><RShft>"
+2019-09-10 18:42:34+0530 > <Down><#+9><LAlt><Tab>tftp <LAlt><Tab><LAlt><Tab>bluet<Tab>
+2019-09-10 18:44:54+0530 > <Up> <LAlt><Tab><LAlt><Tab><BckSp><#+13><BckSp><BckSp><BckSp>-r bluet<Tab> -g <LAlt><Tab><LAlt><Tab>192.168.1.46
+2019-09-10 18:45:23+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><Up>
+2019-09-10 18:45:54+0530 > <Up>
+2019-09-10 18:46:00+0530 > <Up>
+2019-09-10 18:46:03+0530 > ifcon<Tab>eth
+
+Logging stopped at 2019-09-10 18:46:11+0530
+
