@@ -1,0 +1,55 @@
+Logging started ...
+
+2019-09-09 09:29:16+0530 > ams<BckSp><BckSp><CpsLk><CpsLk><BckSp><BckSp><CpsLk><CpsLk><CpsLk>AMS 11<#+1>17 LDO REGULATOR 
+2019-09-09 09:31:36+0530 > <LCtrl><F12><F2><F1><F1><F4><F5><F6><F7><F8><F7><F8><F7><F6><F6><F6><F6><F6><#+7><F6><#+40><LAlt><Esc><LCtrl><F2><Esc><Esc><Esc>ORCAD <Down><Down><Down><Down><Down><Down>
+2019-09-09 09:41:36+0530 > VAR<BckSp><BckSp><BckSp>VARIABLE CAPACITOR 
+2019-09-09 09:43:12+0530 > <KP1><KP0> A <BckSp><BckSp><BckSp><BckSp><BckSp><KP1><KP0>A RELAY <KP2><KP3><KP0>V <KP5>V 
+2019-09-09 09:44:01+0530 > <RShft>ULN <KP2><KP0><KP0><KP0><BckSp><KP3>A 
+2019-09-09 09:44:59+0530 > CAPACITIO<BckSp><BckSp><BckSp>TIVE TOUCH 
+2019-09-09 09:45:38+0530 > TYPES OF TOUH <BckSp><BckSp><BckSp><BckSp><BckSp>TOUCH 
+2019-09-09 09:46:52+0530 > <RShft>v<RShft>B .NET <RShft>dISA<BckSp><BckSp><BckSp><BckSp><CpsLk><RShft>Dialog
+2019-09-09 10:26:09+0530 > <LCtrl><LCtrl><LCtrl><LCtrl><RShft>A<BckSp><BckSp><BckSp><RShft>VB .net <RShft>About diaga<BckSp><BckSp>log
+2019-09-09 10:28:02+0530 > <LCtrl><Esc>ble <KP1><KP1><KP2> 
+2019-09-09 11:53:26+0530 > <LCtrl>a<#+92>c
+2019-09-09 11:58:41+0530 > gool<BckSp><#+16>googlr<BckSp>e<#+1> trnaslate 
+2019-09-09 11:59:01+0530 > <Esc><Esc><Esc><LCtrl>c
+2019-09-09 11:59:49+0530 > <#+59><LCtrl>c
+2019-09-09 11:59:52+0530 > <#+30><LCtrl>v<#+31><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><Down><Down><Down><Down><Down><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down><#+15>c<CpsLk><BckSp><BckSp>CAPACITOR 
+2019-09-09 13:53:37+0530 > <Up><#+70><Down><#+103><PgDn><#+10><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><Down><Down><#+9><Up><LCtrl><Up><LCtrl><Down><#+8><Up><Down><LCtrl><Up><Right><#+6><#+2><Down><Left><Up><Up><Up><#+11><PgUp><#+21><LCtrl><PgUp><PgUp><PgUp><PgUp><PgUp><PgDn><PgDn><PgDn><PgDn><PgDn><PgUp><LCtrl><PgUp><PgDn><PgDn><PgDn><PgUp><Down><#+46><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgUp><#+33><PgUp><PgUp><PgUp><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgUp><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl>BLE<KP1><KP1><KP2> BOARD
+2019-09-09 14:41:15+0530 >  POWER SUPLLAY <BckSp><BckSp><BckSp><BckSp><BckSp>PLY 
+2019-09-09 14:43:24+0530 > <LCtrl><LCtrl>c
+2019-09-09 15:18:10+0530 > <#+1><LCtrl>V
+2019-09-09 15:18:18+0530 >  DATA SHEET 
+2019-09-09 15:19:23+0530 > WWWWWWWWWWWWWWWWWWW<BckSp><#+19>X<BckSp><Esc><#+3><Esc><#+4><LCtrl><Esc><Esc><Esc><Esc><Esc><Esc><#+2><Esc><Esc><End><End><End><End><End><Home><Home><Home><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><RShft><PgDn><PgUp><PgUp><RShft><PgUp><PgUp><PgDn><PgDn><PgDn><#+4><RCtrl><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><#+9><PgDn><PgDn><PgDn><PgDn><PgDn><LShft>e<#+7><RShft>_<#+1><RShft>_<#+1><BckSp>-<BckSp><RCtrl>-<Esc><RCtrl>-<RCtrl>-<RCtrl>-------<RCtrl>========<RCtrl>-<LCtrl><BckSp>PT1F<BckSp><BckSp><BckSp>DF 
+2019-09-09 15:25:17+0530 > <PgDn><PgDn><#+1><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><#+10><PgDn><PgDn><PgDn><PgDn><#+1><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><#+11><PgDn><#+56><PgDn><PgDn><#+35><PgDn><#+44><PgDn><PgDn><PgDn><#+15><PgDn><#+20><PgDn><#+21><PgDn><#+62><PgDn><#+47><Del><End><End><Home><PgUp><End><PgUp><PgUp><PgUp><#+15><PgUp><#+28><LCtrl>c
+2019-09-09 15:27:28+0530 > <LCtrl>V P<BckSp><CpsLk>pdf 
+2019-09-09 15:27:43+0530 > <Down><Down>
+2019-09-09 15:27:50+0530 > 
+2019-09-09 15:27:50+0530 > 
+2019-09-09 15:27:50+0530 > 
+2019-09-09 15:27:57+0530 > <Right><Down><Right><Right><Right><Right><Right><Right><Right><Right><Right><#+2><Down><Down><#+38><Up><#+95><Down><Right><Left><Down><#+11><Down><#+13><Up><#+27><Down><#+23><Down><#+43><LCtrl><Down><Down><Down><#+14><Down><#+12><Down><Down>
+2019-09-09 15:31:27+0530 > <LAlt> <Up><Up><Up><#+13><Down><Down><Down><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgUp><PgUp><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><#+10><PgDn><PgDn><PgUp><PgUp><PgUp><PgUp><PgUp><PgDn><#+11><PgDn><PgDn><PgDn><PgDn><PgDn><#+10><PgDn><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><End><Home><PgDn><#+28><PgDn><PgDn><PgDn><PgDn><PgDn><Home><End><PgDn><PgUp><PgDn><#+25><End><#+8><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgDn><LCtrl><LCtrl><LCtrl><LCtrl>v<LAlt><Esc> pdr<BckSp>e 
+2019-09-09 16:00:00+0530 > <PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><Home><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgUp><PgUp><PgUp><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgUp><PgUp><PgDn><PgDn><Down><Down><Down><Down><#+7><Down><Down><Down><Down><Down><Down><#+11><Down><Down><#+74><Down><Down><Down><Down><Down><Down><#+6><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><Esc><Esc><Esc><Esc><Esc><Esc><Esc><Esc><Esc><Esc><Esc><Esc><#+11><Esc><Esc><#+16><Esc><#+169><Down><Down><Down><Right><Right><Esc><Esc><Esc><Esc><Down><Down><#+112><PgDn><#+3><PgDn><PgDn><PgDn><#+11><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><Del><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><#+2><PgDn><PgDn><PgDn><#+20><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><#+41><Esc><Down><Down><Down><#+11><Down><PgDn><PgDn><PgUp><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgUp><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><#+9><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn>`<BckSp><Esc><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><Esc><BckSp>ble<KP1><KP1><KP2> carriere<BckSp>
+2019-09-09 16:09:52+0530 > <LCtrl>c
+2019-09-09 16:10:55+0530 > <LCtrl>v 
+2019-09-09 16:11:03+0530 > 
+2019-09-09 16:11:03+0530 >  pde<BckSp>f 
+2019-09-09 16:11:13+0530 > <PgDn><PgDn><PgDn><PgDn><Esc><Esc><LCtrl>c
+2019-09-09 16:15:49+0530 > <LCtrl>v<LCtrl> pde<BckSp>f 
+2019-09-09 16:15:59+0530 > <Esc><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgUp><Down><Down><Down><Down><Down><Up>
+2019-09-09 16:17:06+0530 > <#+2>why the capacitor  connected  poe<BckSp>werspply
+2019-09-09 16:26:20+0530 > <BckSp><BckSp><BckSp><BckSp><#+8><BckSp><BckSp><BckSp><BckSp><Down><Down><Down><Down><Down><Up>
+2019-09-09 16:27:05+0530 > impr<BckSp>edance <Down>
+2019-09-09 16:35:59+0530 >   <Up><#+18><Up><#+10><Up><#+11><Up><Left><Down><Down><Down><Down><Down><Down>voltzg<BckSp><BckSp>age regulator 7812<Down><Down>
+2019-09-09 17:20:14+0530 > <Left><BckSp><BckSp><KP1><KP2>
+2019-09-09 17:20:41+0530 >  data data s<Down>
+2019-09-09 17:23:15+0530 > <BckSp><BckSp><BckSp><BckSp>am 1117 
+2019-09-09 17:34:54+0530 > <BckSp>l<BckSp>l
+2019-09-09 17:35:13+0530 > <KP0>capacitor pin 
+2019-09-09 17:53:38+0530 > <Left><Left>1<BckSp>
+2019-09-09 18:00:18+0530 > <BckSp><#+22><KP1><KP0> <Down> voltage<Down>
+2019-09-09 18:45:01+0530 > 
+2019-09-09 18:45:03+0530 > 
+
+Logging stopped at 2019-09-09 19:15:44+0530
+
