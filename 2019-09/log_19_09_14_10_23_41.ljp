@@ -1,0 +1,90 @@
+Logging started ...
+
+2019-09-14 10:23:41+0530 > <RShft>:q
+2019-09-14 10:29:06+0530 > 
+2019-09-14 10:29:06+0530 > 
+2019-09-14 10:29:06+0530 > 
+2019-09-14 10:29:06+0530 > <RShft>:q
+2019-09-14 10:29:10+0530 > <LAlt><Tab><LCtrl>c
+2019-09-14 10:30:49+0530 > <LCtrl>fv<LCtrl>c
+2019-09-14 10:30:55+0530 > f<LAlt><Tab><LCtrl>f<LCtrl>v<LCtrl>c
+2019-09-14 10:32:31+0530 > <LCtrl>venergy meter
+2019-09-14 10:34:02+0530 > raguram<LAlt><Tab><LCtrl><LCtrl>f<Down><Down><Down><Down><Down><LAlt><Tab><LCtrl>f<Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><LCtrl>c
+2019-09-14 10:45:42+0530 > zs<KP1><KP0><KP0><KP6><KP2><KP0><KP1><KP3>
+2019-09-14 11:15:55+0530 > <LCtrl>f<Esc><LCtrl>f<Down><Down><Down><#+4><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><LCtrl>c
+2019-09-14 11:17:20+0530 > <LCtrl>f<Down><Down><Esc><LCtrl>fv<Esc><LCtrl>c
+2019-09-14 11:17:31+0530 > <LCtrl>fv<Down><Down><LCtrl>fv<LAlt><LAlt><Tab><Tab><Tab>grep <RShft>"<LShft><Ins><LAlt><Tab><LAlt><Tab><LShft><LCtrl>V<RShft>" <RShft>* -r
+2019-09-14 11:18:39+0530 > <LAlt><Tab><LAlt><Tab><Tab>ls
+2019-09-14 11:19:10+0530 > 
+2019-09-14 11:19:10+0530 > 
+2019-09-14 11:19:10+0530 > 
+2019-09-14 11:19:10+0530 > 
+2019-09-14 11:19:10+0530 > 
+2019-09-14 11:19:11+0530 > cd <RShft>S<Tab><LAlt><Tab><LCtrl><LAlt><Tab>base64<BckSp><BckSp>12<Down><Down><Up><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>256<Down><Down><Down><Down>
+2019-09-14 11:25:57+0530 > zaiii<BckSp>d256<RShft>Base256 string s<BckSp>c<BckSp>encode
+2019-09-14 11:27:30+0530 > <LCtrl><LCtrl><LCtrl>zaid<LCtrl>zaidzaidnorrdee<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><#+15>abcdefghijklmnopqrstuvwxyzzs<KP1><KP0><KP0><KP6><KP2><KP0><KP1><KP3>
+2019-09-14 11:42:49+0530 > zs10062013
+2019-09-14 12:00:42+0530 > <LCtrl>c
+2019-09-14 12:04:00+0530 > c
+2019-09-14 12:04:01+0530 > <LCtrl>v<BckSp><#+16><LCtrl>v<BckSp><#+16><LShft>BGM<LShft>Hi <LShft>Vikram <BckSp>,
+2019-09-14 12:11:39+0530 > 
+2019-09-14 12:11:40+0530 >     <LShft>Thanks fr <BckSp><BckSp>or your support <LShft>I have ck<BckSp>hecked with my hardware team and they are suggesting u to switch to <LCtrl>c
+2019-09-14 12:13:04+0530 > c
+2019-09-14 12:13:05+0530 > <LCtrl>v<LCtrl>b <LCtrl>b<BckSp>.<LShft>I want to get some input like is it possible to use <Left><#+9><Left><Left><BckSp><#+9><BckSp><BckSp><BckSp>enough<End><LShft>BGLIB libraries to interface our <BckSp><BckSp><BckSp><BckSp><LShft>BLE chip with <LShft>STM controller or any other software is availabe <Left><Left>l<End>for this module.<LShft>And please let us know if any other <LShft>Libraries or available for interfacing with <Left><#+29><BckSp><BckSp>are<End>our <LShft>STM controller.<Left><Left><#+11><Left><Left><BckSp><BckSp><BckSp><BckSp>use<Right><#+16><Right><Right><Right><Right><Right><BckSp> w.r.t <Right><#+49><Left><Left><Left> existing<Down><Left><#+85><Left><Left><Left><Del><Del><Del><Del><Del><Del><Del><Del>to make this<Right><#+10><Right>work <Left><Left><Left><Left><Left> <Right><Right><Right><Right><Right><BckSp><Right><#+8><BckSp><BckSp><BckSp><Right><Right><BckSp><LShft>P<Left><End><#+5><Home><End><Left><#+75><Left><Left><Del><#+63><Del><#+10><Del><Del><Del><Del><Del><Del><Del><Del><Del><Up><Right><#+21> that silicon lab <Down><Left><#+62><Del><Del><Del>external<LCtrl>c
+2019-09-14 12:24:53+0530 > c
+2019-09-14 12:24:54+0530 > c
+2019-09-14 12:24:54+0530 > <LCtrl>v<LShft>Low <LShft>Power <LShft>S<BckSp><Home><LShft>STM <End><LShft>Management <LShft>Support<LShft>Hi <LShft>Santosh,
+2019-09-14 12:25:29+0530 > 
+2019-09-14 12:25:29+0530 >       <LShft>As per your discussion with <LShft>Zaid,<LShft><LShft>I am listing m=our <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>our hardware details <BckSp><#+25><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LShft><LShft>the controller we are using is <LShft>STM32<LShft>F$13<Left><Left><Left><Del>4<End> and we have an refeence <Left><Left><Left><Left><Left>r<End>board with us.<LShft>S <BckSp>o our re<BckSp><BckSp>concern is about <LShft>Low power management of the <LShft>board.<LShft><LShft><LShft>Can you please<BckSp><BckSp><BckSp><BckSp><BckSp>rovide us the details of the <LShft>STM support so thet<BckSp><BckSp>at <LAlt><Tab>re<BckSp>espective guy <BckSp><#+6><BckSp><BckSp><BckSp>person will show us demo of hoe<BckSp>w to do this task successfully.<LShft>I am explaining you the tess we have d<Left><#+12><Left><BckSp>ts<Right><#+11><Right><Right>one on our <Del><Del><Del><Del><Right><#+10><Right><Right><Right><Right><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Right><#+10><Right><Right><Right><Right><Del><#+19><Del><#+17><Del><#+4><Del><Del><Del><Del><Del>.<Left><BckSp><Right>
+2019-09-14 12:35:11+0530 > 
+2019-09-14 12:35:13+0530 > <Up>      <LShft>Firstly we got an referencecc<BckSp><BckSp> code of <LShft>Low poe<BckSp>wer management o<BckSp>for controllers <LShft>STM32<LShft>F407,<LShft>STM32<LShft>L152 <Left><#+61><Left><Left><BckSp><BckSp><Right><Right><#+60><Right> and we tried to port the code to our controller board <Left><#+32><Right><Right><#+6><Right><Left><#+10><Left><Left><Left><Left><Left><BckSp><BckSp><BckSp><BckSp><BckSp><Right><Del><Del><Del><Right><Left><BckSp><Right><Right><Right><Right>ed<Right><#+14><Right><Del><Del><Del>apt <BckSp><BckSp><BckSp><BckSp><Right><BckSp><Right><Right><Right><Right><Right><Right><Right><Right><Right><Left><Left><Left><Left><Left><Left><Left><Left><Left>our <Right><#+10><Right><Right><Right> <LShft>STM32<LShft>F$<BckSp>413<Right><Right><Right><Right><Right><Right><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>.<LShft>But aftre <BckSp><BckSp><BckSp>er that we are not able to get the <LShft>Low power management to work.<Down><Left><#+24><Right><Del><#+30><Del><#+13><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><BckSp>,<Right><Right><Right><Right><Right><Right><Right> please <Right><BckSp><Right><#+13><Right><Del><#+13><Del><LCtrl>z<Left>t<Right><#+17><Right><#+13><Right><Right><Right><Right><Del><#+61><Del><Del><Del><Del><Home>     <End><BckSp>if any so that we can come out of the <BckSp><BckSp>is issue.<Tab>   <LCtrl>z<LMeta><#+3>lzs10062013
+2019-09-14 13:01:31+0530 > sudo minicom -s
+2019-09-14 13:01:46+0530 > zs<KP1><KP0><KP0><KP6><KP2><KP0><KP1><KP3>
+2019-09-14 13:01:50+0530 > <Down><Down>
+2019-09-14 13:01:52+0530 > a<BckSp><BckSp><BckSp><BckSp><LShft>ACM0
+2019-09-14 13:01:57+0530 > ee
+2019-09-14 13:01:58+0530 > 
+2019-09-14 13:01:58+0530 > <Down><Down><Down>
+2019-09-14 13:02:00+0530 > <Down><Down>
+2019-09-14 13:02:05+0530 > 
+2019-09-14 13:02:55+0530 > 
+2019-09-14 13:02:56+0530 > 
+2019-09-14 13:02:56+0530 > 
+2019-09-14 13:02:56+0530 > 
+2019-09-14 13:02:56+0530 > cd /bi<Tab>
+2019-09-14 13:02:58+0530 > ./<Tab>blu<Tab>
+2019-09-14 13:03:03+0530 > <LCtrl>c
+2019-09-14 13:04:07+0530 > <Up>
+2019-09-14 13:04:29+0530 > <LCtrl>c
+2019-09-14 13:05:32+0530 > <LCtrl><LShft>Tcd <LCtrl>c
+2019-09-14 13:09:03+0530 > <LAlt><Tab><LAlt><Tab><Tab><LCtrl><LShft>V
+2019-09-14 13:09:08+0530 > cd ../
+2019-09-14 13:09:11+0530 > ls
+2019-09-14 13:09:11+0530 > cd ..
+2019-09-14 13:09:14+0530 > grep -ar <BckSp><#+17>cd blu<Tab>sr<Tab>sh<Tab>sh<Tab><Tab><BckSp><BckSp>
+2019-09-14 13:09:34+0530 > ls
+2019-09-14 13:09:35+0530 > vim sh<Tab>c
+2019-09-14 13:09:41+0530 > /printf
+2019-09-14 13:09:46+0530 > nnnnnnnnnn<LCtrl><LShft>Tcd ../../..
+2019-09-14 13:10:10+0530 > grep -ar <RShft>""<Left><LShft><Ins>
+2019-09-14 13:10:15+0530 > /<LShft><Ins>
+2019-09-14 13:11:11+0530 > nnnn<LMeta>lzs10062013
+2019-09-14 15:03:17+0530 > <Esc><RShft>:q
+2019-09-14 15:03:35+0530 > cd ../../cli<Tab>
+2019-09-14 15:03:42+0530 > ls
+2019-09-14 15:03:50+0530 > vim <BckSp><#+22>mv ma<Tab>.<Tab>ma<Tab><RShft>_dev.c
+2019-09-14 15:04:05+0530 > mv ma<Tab>w<Tab>ma<Tab><BckSp>.c
+2019-09-14 15:04:13+0530 > vim ma<Tab>.<Tab>
+2019-09-14 15:04:17+0530 > <PgDn><#+44><Up><#+93><Down><#+28><Right><#+10><Left><Left><Left><Left>i//<Down>//<Down>//<Down>//<Down>//<BckSp><BckSp><Esc><RShft>:w
+2019-09-14 15:04:44+0530 > <Down><Down><Down><#+17><Up><#+24>
+2019-09-14 15:05:01+0530 > 
+2019-09-14 15:05:01+0530 > cd bu<Tab>
+2019-09-14 15:05:04+0530 > <LCtrl>c
+2019-09-14 15:05:19+0530 > <LAlt><Tab><LAlt><Tab><Tab><LCtrl><LShft>V
+2019-09-14 15:05:23+0530 > make
+2019-09-14 15:05:26+0530 > 
+2019-09-14 17:49:28+0530 > zs10062013
+2019-09-14 17:49:41+0530 > 
+
+Logging stopped at 2019-09-14 17:55:24+0530
+
