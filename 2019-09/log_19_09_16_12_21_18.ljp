@@ -1,0 +1,142 @@
+Logging started ...
+
+2019-09-16 12:21:18+0530 > <LCtrl>c
+2019-09-16 12:23:04+0530 > <LAlt><Tab><LAlt><Tab><LAlt>
+2019-09-16 12:23:22+0530 > 
+2019-09-16 12:23:28+0530 > 
+2019-09-16 12:23:29+0530 > 
+2019-09-16 12:23:30+0530 > 
+2019-09-16 12:23:30+0530 > 
+2019-09-16 12:23:30+0530 > cd /
+2019-09-16 12:23:31+0530 > <LCtrl><LShft>V
+2019-09-16 12:23:33+0530 > <LAlt><Tab><LAlt><Tab>nt<Tab>p<Tab><Tab><Tab><Tab><Tab><Tab>u<Tab><Tab><Tab><BckSp><#+12><LAlt><Tab>how to test <LShft>B<BckSp><LShft>NTP in yocto linux
+2019-09-16 12:24:24+0530 > srik<Down><Down>
+2019-09-16 12:29:17+0530 > <LShft>@yahoo.com<Tab><LShft>YAhoozumi<BckSp><#+16>yahoozumi<LShft>@5<LCtrl><LShft><LAlt><Tab><LCtrl><LShft>cd <LShft>Down<Tab><LShft>Lo<Tab>yo<Tab><Tab>y<Tab>
+2019-09-16 12:31:22+0530 > ls
+2019-09-16 12:31:24+0530 > cd bu<Tab>tm<Tab>wo<Tab>-sh<Tab>k<Tab><Tab><BckSp><Tab><Tab>s<Tab>k<Tab>
+2019-09-16 12:31:39+0530 > <Up>s<Tab>
+2019-09-16 12:31:43+0530 > ls
+2019-09-16 12:31:43+0530 > grep -ar <RShft>::<BckSp><BckSp><RShft>""<Left>ntp
+2019-09-16 12:31:53+0530 > <LCtrl>c
+2019-09-16 12:31:59+0530 > <Up> <BckSp><LShft>*
+2019-09-16 12:32:03+0530 > <LCtrl>c
+2019-09-16 12:32:08+0530 > 
+2019-09-16 12:32:08+0530 > 
+2019-09-16 12:32:09+0530 > 
+2019-09-16 12:32:09+0530 > 
+2019-09-16 12:32:09+0530 > 
+2019-09-16 12:32:10+0530 > 
+2019-09-16 12:32:10+0530 > 
+2019-09-16 12:32:10+0530 > 
+2019-09-16 12:32:10+0530 > how to include ntp <Down>
+2019-09-16 12:32:25+0530 > <LAlt><Tab>cd ker<Tab>t<Tab>i<Tab>
+2019-09-16 12:32:39+0530 > ls'<BckSp>
+2019-09-16 12:32:41+0530 > cd ..
+2019-09-16 12:33:18+0530 > ls
+2019-09-16 12:33:20+0530 > <LAlt><Tab><LAlt><Tab>cd ..
+2019-09-16 12:33:34+0530 > vim <LShft>Ma<Tab>
+2019-09-16 12:33:38+0530 > <Down><#+89><Down><#+56><Down><#+45><LShft>?<BckSp>/<LShft>NP
+2019-09-16 12:33:55+0530 > <LShft>?NTP
+2019-09-16 12:33:58+0530 > <Esc><RShft>:q
+2019-09-16 12:34:00+0530 > cd ket<Tab><BckSp>r<Tab>ti<Tab>
+2019-09-16 12:34:10+0530 > ls
+2019-09-16 12:34:11+0530 > cd ../
+2019-09-16 12:34:19+0530 > ls
+2019-09-16 12:34:20+0530 > vim <LShft>Msa<BckSp><BckSp>a<Tab>
+2019-09-16 12:34:27+0530 > <Down><#+50><Down><#+39><Down><#+11><Down><#+17><Down><#+11><Down><Up><#+45><Up><#+16><Up><#+10><Up><Up><#+13><Up><#+18><Up><#+9><Up><#+20><Up><#+15><Down><#+12><Down><#+13><Down><#+12><Down><#+22><Down><#+6><Down><#+19><Down><#+13><Down><#+23><LAlt><Tab>yocto 
+2019-09-16 12:35:38+0530 > <LAlt><Tab><Esc><RShft>:q
+2019-09-16 12:36:27+0530 > cd ../../../../b<Tab><BckSp><#+11><BckSp><BckSp><BckSp><BckSp>..
+2019-09-16 12:36:38+0530 > cd ../so<Tab>met<Tab><LAlt><Tab><LAlt><Tab>op<Tab><LAlt><Tab><LAlt><Tab>met<Tab>net<Tab><LAlt><Tab><LAlt><Tab>re<Tab>su<Tab>
+2019-09-16 12:36:57+0530 > ls
+2019-09-16 12:36:58+0530 > <LAlt><Tab><LAlt><Tab>cd nt<Tab>p<Tab>
+2019-09-16 12:37:14+0530 > ls
+2019-09-16 12:37:15+0530 > vim m<Tab><BckSp>n<Tab><RShft>_<Tab>
+2019-09-16 12:37:26+0530 > <Esc><RShft>:q
+2019-09-16 12:37:30+0530 > cd ..
+2019-09-16 12:37:34+0530 > ls
+2019-09-16 12:37:35+0530 > cd <BckSp><#+14>pwd
+2019-09-16 12:37:42+0530 > cd ../..
+2019-09-16 12:37:47+0530 > ls
+2019-09-16 12:37:48+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab>cd met<Tab>n<Tab>
+2019-09-16 12:38:01+0530 > ls
+2019-09-16 12:38:02+0530 > <LAlt><Tab><LAlt><Tab>cd ../../
+2019-09-16 12:38:25+0530 > ls
+2019-09-16 12:38:26+0530 > cd <BckSp><#+12>cd ..
+2019-09-16 12:38:37+0530 > ls
+2019-09-16 12:38:38+0530 > cd so<Tab>
+2019-09-16 12:38:42+0530 > ls
+2019-09-16 12:38:43+0530 > cd <LAlt><Tab><LAlt><Tab>met<Tab><Tab><Tab>op<Tab>
+2019-09-16 12:39:07+0530 > ls
+2019-09-16 12:39:08+0530 > cd ..
+2019-09-16 12:39:48+0530 > ls
+2019-09-16 12:39:49+0530 > cd po<Tab>
+2019-09-16 12:39:54+0530 > ls
+2019-09-16 12:39:54+0530 > cd met<Tab>
+2019-09-16 12:39:58+0530 > ks
+2019-09-16 12:39:59+0530 > <LCtrl>c
+2019-09-16 12:40:01+0530 > ls
+2019-09-16 12:40:01+0530 > cd ../bi<Tab>
+2019-09-16 12:40:08+0530 > ls
+2019-09-16 12:40:09+0530 > cd ../
+2019-09-16 12:40:12+0530 > cd ..
+2019-09-16 12:40:16+0530 > <LAlt><Tab><LCtrl>c
+2019-09-16 12:40:22+0530 > <LAlt><Tab>grep -ar<RShft> <RShft>""<Left><LShft><Ins><BckSp>
+2019-09-16 12:40:31+0530 > 
+2019-09-16 12:41:34+0530 > 
+2019-09-16 12:41:35+0530 > <#+8>find -name <LShft><Ins>
+2019-09-16 12:41:40+0530 > cd ba<Tab>co<Tab>
+2019-09-16 12:41:54+0530 > ls
+2019-09-16 12:41:55+0530 > vim <BckSp><#+20>cd ../../met<Tab>o<Tab>met<Tab>n<Tab>
+2019-09-16 12:42:09+0530 > ls
+2019-09-16 12:42:10+0530 > cd co<Tab>
+2019-09-16 12:42:14+0530 > ls
+2019-09-16 12:42:14+0530 > cd ../reci<Tab>co<Tab>
+2019-09-16 12:42:29+0530 > ls
+2019-09-16 12:42:30+0530 > cd ../
+2019-09-16 12:42:32+0530 > ls
+2019-09-16 12:42:33+0530 > cd ..<RShft>
+2019-09-16 12:42:37+0530 > ls
+2019-09-16 12:42:38+0530 > cd <LAlt><Tab><LCtrl><LShft><LCtrl>c
+2019-09-16 12:43:28+0530 > <LAlt><Tab>cd ..
+2019-09-16 12:43:33+0530 > cd ../..
+2019-09-16 12:43:37+0530 > grep -ar <RShft>""<Left><LShft><Ins><BckSp><BckSp>
+2019-09-16 12:43:45+0530 > <LCtrl><LCtrl>c
+2019-09-16 12:44:06+0530 > cd b<BckSp><LShft><Ins><Home><Del><Del>cd<End><BckSp><BckSp><#+13><BckSp><BckSp><BckSp>
+2019-09-16 12:44:19+0530 > ls
+2019-09-16 12:44:20+0530 > vim bb<Tab>
+2019-09-16 12:44:27+0530 > <Esc><RShft>:q
+2019-09-16 12:44:31+0530 > <LAlt><Tab><LAlt><Tab>vim lo<Tab>
+2019-09-16 12:44:55+0530 > <LAlt><Tab><LAlt><Tab><Esc><RShft>:q
+2019-09-16 12:45:07+0530 > <LCtrl>c
+2019-09-16 12:45:24+0530 > <LAlt><Tab><LAlt><Tab><Tab><Tab><LAlt><Tab><Tab><Tab>grep -ar <LShft><RShft>""<Left><LShft><Ins>.bb
+2019-09-16 12:45:39+0530 > cd <BckSp><BckSp><BckSp><Up><Left><#+19><Left><BckSp><#+17>find -name
+2019-09-16 12:45:50+0530 > cd ../../so<Tab>
+2019-09-16 12:45:55+0530 > <Up><Up>
+2019-09-16 12:45:56+0530 > vim <LShft><Ins>
+2019-09-16 12:46:04+0530 > /ntp
+2019-09-16 12:46:08+0530 > <LAlt><Tab><LAlt><Tab><Down><#+75><Up><Up><Right><#+61><LAlt><Tab><LAlt><Tab><Left><Down><Right>i<Right>
+2019-09-16 12:46:33+0530 >  <#+8><BckSp>ntp <#+33>     \<Esc><RShft>:wq
+2019-09-16 12:46:47+0530 > <LCtrl>c
+2019-09-16 12:47:04+0530 > <LAlt><Tab><LAlt><Tab><Tab>cd <LShft><Ins>
+2019-09-16 12:47:08+0530 > cd ../cli<Tab>
+2019-09-16 12:47:17+0530 > ls
+2019-09-16 12:47:18+0530 > cd ../
+2019-09-16 12:47:23+0530 > tar -cvf cli<Tab><BckSp>.tar.gz cli<Tab>
+2019-09-16 12:47:34+0530 > mv cli<Tab>.<Tab>cli<Tab><RShft>_16<#+3>sep.tar.gz
+2019-09-16 12:48:49+0530 > cd bu<Tab>i<Tab><Tab><Tab><BckSp><BckSp><BckSp>../bu<Tab>
+2019-09-16 12:49:47+0530 > ls
+2019-09-16 12:49:47+0530 > cp <LShft>Ma<Tab> <LShft>Ma<Tab><RShft>_16sep
+2019-09-16 12:50:09+0530 > mv <BckSp><#+10>mv <LShft>Ma<Tab><RShft>_<Tab>1<Tab><LShft>~/sri<Tab>cl<Tab><LAlt><Tab><LAlt><Tab><BckSp><BckSp><LShft>B<Tab>
+2019-09-16 12:50:53+0530 > cd ../cli<Tab><BckSp><BckSp><BckSp>blu<Tab>cli<Tab>
+2019-09-16 12:51:01+0530 > ls
+2019-09-16 12:51:03+0530 > cd ../
+2019-09-16 12:51:06+0530 > ls
+2019-09-16 12:51:07+0530 > mv cli<Tab><RShft>_16<Tab><LShft>~/sri<Tab><LShft>Bl<Tab>
+2019-09-16 12:51:20+0530 > <LAlt><Tab>cd ../../../../..
+2019-09-16 12:51:39+0530 > cd /\<BckSp><BckSp>../..
+2019-09-16 12:51:44+0530 > <LCtrl>c
+2019-09-16 12:51:52+0530 > <LAlt><Tab><LCtrl><LShft>V
+2019-09-16 12:51:55+0530 > <LAlt><Tab><LCtrl>c
+2019-09-16 12:51:59+0530 > <LAlt><Tab><LCtrl><LShft>V
+2019-09-16 12:52:02+0530 > <LAlt><Tab><LAlt><Tab><Tab><Tab><LAlt><Tab><LAlt><Tab><Tab>zs10062013
+2019-09-16 13:29:33+0530 > <LMeta><#+1>l
