@@ -1,0 +1,155 @@
+Logging started ...
+
+2019-09-20 09:18:10+0530 > 2013
+2019-09-20 09:18:15+0530 > yag<BckSp>hooanurag<LShft>Anurag<RShft>_2019u<BckSp>i.mx linux user,s guide
+2019-09-20 09:32:22+0530 > image of imx6q sdb board
+2019-09-20 09:34:09+0530 > <Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Up><Up><#+18><LCtrl><LCtrl>i.mx6 sdb board
+2019-09-20 09:36:48+0530 > connection name o<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>info i <BckSp>m<BckSp>.mx 6
+2019-09-20 09:37:56+0530 > <BckSp><Up><#+22><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down>n<BckSp>micro-b usb cable
+2019-09-20 09:43:08+0530 > mi<BckSp>cimci<Down><Down><Down>
+2019-09-20 09:47:07+0530 > i.mx <BckSp>6 sdb oard<BckSp><BckSp><BckSp><BckSp>board information
+2019-09-20 09:49:03+0530 > <LCtrl><Down><#+69><Up><Up><RCtrl><Up><#+14><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down>youtube
+2019-09-20 09:52:29+0530 > connec<BckSp><#+16>how to connect imax<BckSp><BckSp><BckSp>.mx6 d<BckSp>sdb boart<BckSp>d 
+2019-09-20 09:53:34+0530 > how to download linux kernal image
+2019-09-20 10:00:26+0530 > <Left>z
+2019-09-20 10:00:48+0530 > <Down><Down><#+13><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Up><Down><Down><Down><Down><Down><Up><Up><Down><Down><Down><#+6><Down><Down><Down><#+2><Down><#+12><Up><Down><#+12><Down><Down><Down><Down><Down><#+11><Down><#+13><Down><Down><Down><Down><Down><Down><Down><#+11><Down><Down><#+12><Down><Down><Down><Down><Down><#+12><Down><Down><Down><Down><Down><End>how to dowm<BckSp>n;<BckSp>los<BckSp>ad .tar <BckSp>.gz <BckSp>from where i download the .tr<BckSp>ar.gz image file for i.mx6
+2019-09-20 10:35:16+0530 > <Up><Up><#+13><Up><Up><Up><Down><#+20><Down><Down><Down><Up>how to doenlos<BckSp><BckSp><BckSp><BckSp><BckSp>wnload u <BckSp>-boot image for i,mx <BckSp><BckSp><BckSp><BckSp>.mx6
+2019-09-20 10:42:56+0530 > what is the image for <Left><Left><Left><Left><Left><Left><Left><Left><Left><Left> uboot <Right><Right><Right><Right><Right><Right>name <Right><Right><Right> i.x<BckSp>mx6
+2019-09-20 10:45:29+0530 > u boot image for i.mx6
+2019-09-20 11:15:45+0530 > nxp
+2019-09-20 11:17:38+0530 > i.mx 6 image filr<BckSp>e
+2019-09-20 11:18:12+0530 > bootk<BckSp>loader image file for <BckSp><BckSp><BckSp>or i.mx6
+2019-09-20 11:19:37+0530 > <Down><Down><Down><Down><Down>how to prepard sd cad<BckSp>rd for i.mx6
+2019-09-20 11:25:00+0530 > gpzds<BckSp><BckSp><BckSp><BckSp><BckSp>zs10062013
+2019-09-20 11:32:59+0530 > <LCtrl><LAlt>tls /media
+2019-09-20 11:35:11+0530 > ls <BckSp><#+19>zs10062013
+2019-09-20 11:36:29+0530 > <LCtrl><LAlt>t<RCtrl><RShft>+++ls /media
+2019-09-20 11:38:32+0530 > ls
+2019-09-20 11:38:41+0530 > <RCtrl>lcd media
+2019-09-20 11:38:49+0530 > <Up><BckSp><#+7><BckSp><BckSp><BckSp><BckSp>/media
+2019-09-20 11:38:55+0530 > ls
+2019-09-20 11:38:57+0530 > vi <BckSp><BckSp><BckSp><BckSp><BckSp>cd boot
+2019-09-20 11:39:06+0530 > ls
+2019-09-20 11:39:07+0530 > z<BckSp>vi z<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>vi u<Tab>
+2019-09-20 11:39:30+0530 > <Esc><LShft>ZZzs10062013
+2019-09-20 11:41:46+0530 > <LCtrl><LAlt>t<RCtrl><RShft>+++ls /medu<BckSp>ia
+2019-09-20 11:43:09+0530 > u m<BckSp><BckSp>mount /dev/sdx
+2019-09-20 11:43:32+0530 > zs10062013
+2019-09-20 11:43:58+0530 > <RCtrl><RShft>+++ls /media
+2019-09-20 11:45:00+0530 > u mound<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>mount /dev/sdb1
+2019-09-20 11:45:14+0530 > <Up><BckSp><#+39><BckSp><BckSp><BckSp><BckSp>zs10062013
+2019-09-20 11:45:57+0530 > <LCtrl><LAlt>t<RCtrl><RShft><RShft>++ls /media
+2019-09-20 11:48:34+0530 > <BckSp><#+14><BckSp><BckSp><LCtrl><LAlt>t<RCtrl><RShft>+++ls /medis<BckSp>sa<BckSp><BckSp>a
+2019-09-20 11:54:29+0530 > sudo fdisk /dec<BckSp>v/sdx
+2019-09-20 11:55:08+0530 > zs10062013
+2019-09-20 11:55:18+0530 > <Up>
+2019-09-20 11:55:37+0530 > <Up>
+2019-09-20 11:55:39+0530 > ls /media
+2019-09-20 11:58:08+0530 > <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>sudo /dev/sdx
+2019-09-20 11:58:21+0530 > zs10062013
+2019-09-20 11:58:30+0530 > <Up><Left><Left><Left><#+9><Left><Left>fdisk 
+2019-09-20 11:58:57+0530 > <Up><Down><RCtrl><RShft>++ls
+2019-09-20 12:00:02+0530 > <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>filwhere i find the dev;opment<Left><Left><Left><Left><Left><Left><BckSp>l<Right><#+16> .tar.gz file for i/<BckSp>.mx6
+2019-09-20 12:05:40+0530 > kernal.org
+2019-09-20 12:07:01+0530 > freescaler
+2019-09-20 12:09:30+0530 > <BckSp>anurag.vj1<LShft>@gmail.com<LShft>Anurag <LShft>Gupta<BckSp><BckSp><BckSp><BckSp><BckSp><Tab><LShft>Gupta<Tab>anurag<RShft><LShft>@zumisolutions.com<BckSp>anurag.vj1<LShft>@gmail.com<BckSp>anurag.vj1<LShft>@gmailcom<Left><Left><Left>.<Right><Tab><Tab><Up><Down><Down><BckSp><BckSp><BckSp><#+31><KP8><KP8><KP5><KP6><KP0><KP3><KP3><KP5><KP7><KP7><KP8><KP8><KP5><KP6><KP0><KP3><KP3><KP5><KP7><KP7>zumi<BckSp>anurag.vj1<BckSp><BckSp>anu<BckSp><BckSp><BckSp><BckSp><BckSp>anurag15anurag15<LShft>jaynagara<KP5><KP6><KP0><KP0><KP1><KP1><LShft>Banglore<KP9><KP9><KP2><KP1><KP6><KP2><KP0><KP7><KP2><KP0><BckSp><BckSp><BckSp><BckSp><KP8><KP8><KP5><KP6><KP0><KP3><KP3><KP5><KP7><KP7><KP9><KP9><KP2><KP1><KP6><KP2><KP0><KP7><KP2><KP0><BckSp><#+21><LShft>b<BckSp><LShft>Banglore<Left><Left><Right><Right><Right>a<RShft>+<KP9><KP1> <Down><Down><Down><Down><#+10><RCtrl>-------<Down><#+13><Down><#+12><Down><#+6><Down><Down><Down><#+1><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><#+1><Down><Down><Down><Down><Down><Down><#+12><Down><#+7><Down><#+9><Down><#+13><Down><Down><Down><Down><Down><Down><Down>linux kernal image for i.mx6
+2019-09-20 12:25:24+0530 > youtube
+2019-09-20 12:28:03+0530 > how to download kernal image file
+2019-09-20 12:28:40+0530 >  i.mx6
+2019-09-20 12:30:00+0530 > how to dowi.mx6
+2019-09-20 12:33:48+0530 >  zimage<BckSp><#+20><LCtrl><LCtrl>anurag<RCtrl><RShft>__-------<Down><#+12><Down><#+6><Down><Down><Down><#+12><Down><#+12><RCtrl>=<RCtrl>===<RCtrl><RShft>++<Up><#+9><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><#+8><Down><Down><Down><Down>zs10062013
+2019-09-20 12:47:30+0530 > ls /mei<BckSp>dia
+2019-09-20 12:51:16+0530 > cd zumo<BckSp>i<Tab><Left><Left><Left><Left>/media/<Right><Right><Right><Right>
+2019-09-20 12:51:54+0530 > ls
+2019-09-20 12:51:56+0530 > umount /media/zumi/<Tab>
+2019-09-20 12:52:33+0530 > cd dest<Tab><BckSp><BckSp><BckSp><BckSp>../../<CpsLk>D<Tab>E<Tab><BckSp><BckSp>
+2019-09-20 12:52:53+0530 > LS
+2019-09-20 12:52:55+0530 > LS
+2019-09-20 12:53:03+0530 > <CpsLk>ls
+2019-09-20 12:53:08+0530 > cd ../<BckSp><BckSp><BckSp>
+2019-09-20 12:53:15+0530 > ls
+2019-09-20 12:53:17+0530 > cd <LShft>D<Tab><Tab>es<Tab>
+2019-09-20 12:53:38+0530 > cd anu<Tab>
+2019-09-20 12:53:42+0530 > ls
+2019-09-20 12:53:43+0530 > <RCtrl><RShft>+++<RCtrl>lls
+2019-09-20 12:55:33+0530 > sudo dd if= of=/dev/sdx bs=<LShft>!k <LShft>seek=1 conv=fsync
+2019-09-20 12:56:35+0530 > <Up><Up><Up><Up><Up><Up><Down><Down><Down><Down><Down><Down><Down><Left><#+19><Left>i<BckSp><BckSp>1
+2019-09-20 12:57:07+0530 > zs10062013
+2019-09-20 12:57:19+0530 > sudo kill -usr1<LShft>$<RShft>(pgrep<LShft>^dd<RShft>)
+2019-09-20 12:58:02+0530 > zs10062013
+2019-09-20 12:58:10+0530 > <Up>ls /dev
+2019-09-20 12:59:55+0530 > <Up><Left><Up><Left><#+19><Left><Left><Left><Left><Left><Left><BckSp>1<BckSp>b
+2019-09-20 13:00:15+0530 > ls
+2019-09-20 13:02:09+0530 > <BckSp><#+7><RCtrl><RShft>++cd ../
+2019-09-20 13:02:37+0530 > cd 
+2019-09-20 13:02:40+0530 > ls
+2019-09-20 13:02:41+0530 > cd zumi<BckSp>i
+2019-09-20 13:02:49+0530 > <Up><BckSp><#+25><Down><#+16><Left><#+27><Left><Left><Left><Left><Left>i<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><Right><#+16><Right><Right><Right><Right><Right><Right><BckSp>b
+2019-09-20 13:04:44+0530 > <Up><BckSp><#+70><RCtrl>lsudo mkfs.ext3 /dev<BckSp><#+31>sudo mkfs<BckSp><#+29>ls /media
+2019-09-20 13:08:25+0530 > cd zun<BckSp>mi
+2019-09-20 13:08:31+0530 > <Up><Left><Left><#+7><Right><Right><Left><Left><Left><Left>/media/
+2019-09-20 13:08:42+0530 > ls
+2019-09-20 13:08:43+0530 > sudo dd if=of=/dev/sdb bs=1k seek=1 conv <BckSp>fsync<Left><Left><Left><Left><Left>=
+2019-09-20 13:09:53+0530 > <Up><BckSp><Up><BckSp><#+32>sudo mkfs.ext3 /dev/sdx2<BckSp><BckSp>d
+2019-09-20 13:10:58+0530 > <Up><Left><Right><BckSp>b
+2019-09-20 13:11:02+0530 > <Up><BckSp><BckSp><#+14>y
+2019-09-20 13:11:14+0530 > ls
+2019-09-20 13:11:41+0530 > mkdie<BckSp>r /home/user/mountpoint<BckSp>t
+2019-09-20 13:12:25+0530 > <Up><Left><#+44>sudo <Del><#+16><Del><#+14><Del><Del>mount /dev/sdb/home/user/moo<BckSp>untpoint
+2019-09-20 13:13:03+0530 > <RCtrl>l<BckSp><#+27>cd
+2019-09-20 13:13:25+0530 > sudo fdisk dev/sdb
+2019-09-20 13:13:54+0530 > <Up>1
+2019-09-20 13:13:59+0530 > <Up><BckSp><BckSp>x
+2019-09-20 13:14:05+0530 > <RCtrl>lls /media
+2019-09-20 13:14:26+0530 > cd zumi<BckSp><BckSp><BckSp><BckSp>/media/<Tab>z<Tab><Tab>
+2019-09-20 13:14:49+0530 > ls
+2019-09-20 13:14:50+0530 > <BckSp><BckSp><BckSp>cd ../
+2019-09-20 13:14:54+0530 > ls
+2019-09-20 13:14:56+0530 > cd zumi
+2019-09-20 13:15:04+0530 > ls
+2019-09-20 13:15:10+0530 > <LCtrl>how to extrack the <Left><Left><Left><Left><Left><BckSp>c<Right><#+16>.tar.gz file in sd card
+2019-09-20 13:17:38+0530 > str<BckSp>ep to coping the t<BckSp>.tar.gz in sd cards
+2019-09-20 13:19:19+0530 > <Down><#+16><Down>cat /proc/partitions
+2019-09-20 13:30:01+0530 > ls
+2019-09-20 13:32:28+0530 > cd ../../<LShft>Dea<BckSp><Tab><Tab><Tab><Tab><BckSp><BckSp>
+2019-09-20 13:33:38+0530 > cd 
+2019-09-20 13:33:42+0530 > cd <LShft>Dea<BckSp>s<Tab>
+2019-09-20 13:33:54+0530 > cd anurag<Tab>
+2019-09-20 13:33:59+0530 > ls
+2019-09-20 13:34:01+0530 > <BckSp><#+29>ync
+2019-09-20 13:34:42+0530 > <BckSp><#+60>sudo dd if=.sdcs<BckSp>ard of=/dev/sdb bs=<LShft>!<BckSp>1m <LShft>&& sync
+2019-09-20 13:36:07+0530 > zs10062013
+2019-09-20 13:36:14+0530 > <Up><Left><#+11><BckSp><LShft>M
+2019-09-20 13:36:23+0530 > <BckSp><#+15>sudo dd if <BckSp>= fo<BckSp><BckSp>of=/dev/sdb/ <LShft>bs=<LShft>8<LShft>M
+2019-09-20 13:37:34+0530 > zs10062013
+2019-09-20 13:38:01+0530 > <Up><Left><#+22><Right><Right><Right><Right><#+19><Left><Left><Left><Left>i<BckSp><BckSp>
+2019-09-20 13:38:20+0530 > <Up>
+2019-09-20 13:38:24+0530 > ls
+2019-09-20 13:38:34+0530 > ls
+2019-09-20 13:38:42+0530 > \<BckSp><BckSp>ls
+2019-09-20 13:38:45+0530 > <RCtrl>lyt<BckSp><BckSp><BckSp>youtube
+2019-09-20 13:39:07+0530 > ho <BckSp>w to extrax <BckSp><BckSp>c zip file in sd linux os
+2019-09-20 13:40:28+0530 >   i<BckSp><BckSp><BckSp><BckSp><BckSp>in liux od <BckSp>s <BckSp><BckSp><BckSp>s how to extract the zip file in sd card
+2019-09-20 14:22:12+0530 > <BckSp><BckSp><BckSp><BckSp>how to ext<BckSp>trax <BckSp><BckSp>c the <BckSp><BckSp><BckSp><BckSp>image firl<BckSp>e<BckSp><BckSp>le in lin od<BckSp>s
+2019-09-20 14:22:55+0530 > <BckSp>ho extract the <BckSp><#+25>how yo<BckSp>to <BckSp><BckSp><BckSp><BckSp>to extract the .tar file in sdcard in linux od<BckSp>s<BckSp><BckSp>
+2019-09-20 14:25:49+0530 > <Down><Down><#+12><Down><#+8><Down><Down><#+10><Down><Down>vat<BckSp><BckSp><BckSp><BckSp><BckSp>cat /proc/[art<BckSp><BckSp><BckSp><BckSp>partitions
+2019-09-20 14:28:41+0530 > sudi<BckSp>o dd if=zs10067<BckSp><BckSp><BckSp><#+47>zs10062013
+2019-09-20 14:30:12+0530 > <Up>.sdcard of =<BckSp><BckSp>=/dev <BckSp>/sdb bs <LShft>!<BckSp><BckSp>=2<BckSp>1<LShft>M <LShft>&& sync
+2019-09-20 14:30:57+0530 > <Up><Left><#+24><Left><Left><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>
+2019-09-20 14:31:07+0530 > <RCtrl><RShft>+<RShft>++ls /media
+2019-09-20 14:31:42+0530 > cd /media/b<Tab>
+2019-09-20 14:31:51+0530 > ls
+2019-09-20 14:31:53+0530 > <BckSp><#+1><BckSp><BckSp><BckSp>cd ../
+2019-09-20 14:32:06+0530 > cd zumi<BckSp><BckSp><BckSp>zumi
+2019-09-20 14:32:16+0530 > <Up><Left><Left><Left><Left><BckSp>
+2019-09-20 14:32:19+0530 > ls
+2019-09-20 14:32:21+0530 > 
+2019-09-20 14:32:22+0530 > 
+2019-09-20 14:32:22+0530 > 
+2019-09-20 14:32:22+0530 > zs10062013
+2019-09-20 14:34:53+0530 > <RCtrl> 
+2019-09-20 14:35:41+0530 > <#+10>==<RCtrl><RShft>+++<BckSp><BckSp><BckSp><BckSp>ls /media
+2019-09-20 14:36:08+0530 > ls /media/dev/sda5
+2019-09-20 14:36:32+0530 > rebbot
+2019-09-20 14:37:47+0530 > <Up><Left><BckSp><BckSp>00<BckSp><BckSp>oo<Right><Right><BckSp><BckSp><BckSp><BckSp>start
+2019-09-20 14:37:58+0530 > <Up><Left><Right><Left><BckSp><BckSp><BckSp><BckSp>
