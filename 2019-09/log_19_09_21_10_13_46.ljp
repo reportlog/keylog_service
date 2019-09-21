@@ -1,0 +1,224 @@
+Logging started ...
+
+2019-09-21 10:13:46+0530 > zs10062013
+2019-09-21 10:14:06+0530 > i/<BckSp>.mx<Down>
+2019-09-21 10:14:56+0530 > how i do extrax<BckSp>ct the tar file in linux on sd cared
+2019-09-21 10:21:51+0530 > <Up><#+15><Up><#+15><Up><Down><Down><#+12><Down><Down><#+8><Down><#+13><Down><#+15><Up><#+11><Up><Up><Up>how yo prepared sd card<Left><#+16><Left><Left><Left><Left><Left><BckSp>t<Right><#+20> for boot<Left><Left><Left><Left>linux <Right><#+12> for i.mx6qu<BckSp><BckSp>
+2019-09-21 10:32:56+0530 > <Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><#+10><Down><#+4><Down><Down><#+9><Down><#+8><Down><Down><#+8>sdb6 <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>i.mx <BckSp>6 booting<BckSp><#+38>quit gude <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>quick user guid for i.mx6
+2019-09-21 10:48:02+0530 > <Up><#+14><Up><#+15><Up><#+2><Down><#+11><Down><Down><Down><Down><Down><Down><Down><Down><Down>how to prepaed sc card <BckSp><#+32>what rae the steps of preapring the sd card for i.mx6
+2019-09-21 10:51:25+0530 > <Down><#+12><Down><#+11><Down><#+12><Down><Down><Up><#+12><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><#+8><Down><Down><Down><Down><Down><Down><#+8><Down><#+10><Down><#+11><Down><#+13><Down><#+12><Up><#+42><Up><#+24><Up><#+20><Up><Down><#+23><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><#+14><Down><#+10><Down><Down><Down><RCtrl><RShft>++ls /media
+2019-09-21 10:58:51+0530 > cd  /media/s<Tab><BckSp>z<Tab>
+2019-09-21 10:59:04+0530 > ls
+2019-09-21 10:59:05+0530 > cd 4<Tab>
+2019-09-21 10:59:11+0530 > ls
+2019-09-21 10:59:12+0530 > <BckSp>cd 
+2019-09-21 10:59:27+0530 > cd  /mw<BckSp>e<Tab>z<Tab>
+2019-09-21 10:59:36+0530 > rm <BckSp>dir 4<Tab>
+2019-09-21 10:59:48+0530 > <Up><BckSp><#+16><BckSp> 4<Tab>
+2019-09-21 11:00:00+0530 > <Up><BckSp><#+25>zs10062013
+2019-09-21 11:01:09+0530 > /<BckSp>ls /media
+2019-09-21 11:02:26+0530 > cd <LShft>z<Tab><BckSp>/me<Tab>zs<BckSp>u<Tab>
+2019-09-21 11:02:40+0530 > ls
+2019-09-21 11:02:42+0530 > cdat<BckSp><BckSp><BckSp>at pr<BckSp><BckSp>/proc/partio<BckSp><Tab>
+2019-09-21 11:03:04+0530 > <Down><#+14><Down><Down><Down><Down><Down><Down><Down>sudo /dev/sda<BckSp>b
+2019-09-21 11:14:05+0530 > zs10062013
+2019-09-21 11:14:13+0530 > sudo fdisk /dev/sdc<BckSp>b
+2019-09-21 11:15:02+0530 > p
+2019-09-21 11:15:09+0530 > <LCtrl>d
+2019-09-21 11:16:39+0530 > <BckSp><BckSp><BckSp>sudo umount /dev/sdb
+2019-09-21 11:16:53+0530 > <Up><BckSp>x
+2019-09-21 11:20:24+0530 > <Up><BckSp>a
+2019-09-21 11:20:31+0530 > <Up><BckSp>b1
+2019-09-21 11:20:38+0530 > <Up><BckSp>
+2019-09-21 11:20:40+0530 > <Down><Down><#+13><Down><Down><#+11><Down><Down><Down><Up><Up><Up><Up><Up><Up><Up><Down>
+2019-09-21 11:34:39+0530 > p
+2019-09-21 11:34:41+0530 > d
+2019-09-21 11:34:44+0530 > n
+2019-09-21 11:34:50+0530 > p
+2019-09-21 11:34:59+0530 > 1
+2019-09-21 11:35:04+0530 > 20480<BckSp>0
+2019-09-21 11:35:25+0530 > 102400<RCtrl><RShft>+
+2019-09-21 11:35:45+0530 > p
+2019-09-21 11:35:56+0530 > how many partio<BckSp>tion i.mx<BckSp>6<BckSp>x6 required in sd care<BckSp>ds
+2019-09-21 11:37:36+0530 > <Down><#+4><Down><Down><Down><Down><Down><#+8><Up><#+10><Down><Down><Down><Down>in i.mx6<BckSp><#+20>while creating the i.mx6 <Left><#+11><Left><Left> prepar<BckSp>ring the sd card for <Del><Del><Del><Del><Right><#+18> then how many partion shu<BckSp>ould <Left><#+12><Left><Left><Left><Left>ti<Right><#+18>requr<BckSp>ried
+2019-09-21 11:40:29+0530 > <Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><#+15><Down><Up><#+17><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down><Down><Down><Down><Down><Down>2
+2019-09-21 11:49:59+0530 > n
+2019-09-21 11:50:08+0530 > p
+2019-09-21 11:50:12+0530 > 2
+2019-09-21 11:50:14+0530 > 1228800
+2019-09-21 11:50:48+0530 > 
+2019-09-21 11:50:54+0530 > p
+2019-09-21 11:50:58+0530 > w
+2019-09-21 11:51:10+0530 > <Down><Down><Down><Down><Down><Down><Down><Down><Down><#+11><Down><Down><Down><Down><Up><#+14><Down><#+15><Down><Down><Down><Down><Down><Down><Up><Down><Down><Down><Down><Down><Down><Down><Down><Down><#+9><Down><Down><Down><Down><Up><#+13><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down><Up><Down><Up><Up><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Up>zs10062013
+2019-09-21 12:18:27+0530 > ls /media
+2019-09-21 12:18:51+0530 > cd /ls<BckSp><BckSp>media/z<Tab>ls
+2019-09-21 12:19:04+0530 > ls
+2019-09-21 12:19:08+0530 > zs10062013
+2019-09-21 12:20:09+0530 > va<RCtrl><RShft>+cat /pro<Tab>p<Tab>r<Tab>
+2019-09-21 12:21:19+0530 > <RCtrl><RShft>++<RCtrl>-cd <LShft>Des<Tab>a<Tab><BckSp><Tab>anu<Tab>
+2019-09-21 12:22:23+0530 > ls
+2019-09-21 12:22:25+0530 > cd s<Tab>
+2019-09-21 12:22:32+0530 > ls
+2019-09-21 12:22:33+0530 > sudo dd if <BckSp>=.sdcard of=dev/sdb1 bs=1<LShft>M <LShft>&&s<BckSp><BckSp><LShft>& sync
+2019-09-21 12:23:31+0530 > zs10062013
+2019-09-21 12:23:40+0530 > cd <BckSp><#+17>zs10062013
+2019-09-21 12:24:14+0530 > <Up><Left><#+21><Left><Left><Right><Right><Right><Right><Right><Right><Right><Right><BckSp>
+2019-09-21 12:24:55+0530 > <RCtrl>lhow to mo<BckSp><BckSp>cp the one file in<BckSp><BckSp>dat <BckSp>a into antjh<BckSp><BckSp>hore firl<BckSp>w<BckSp>e <BckSp><BckSp><BckSp>le data<BckSp><BckSp><BckSp><BckSp>
+2019-09-21 12:26:05+0530 >  in linux<Left><#+42><Right>op<BckSp><Right>y
+2019-09-21 12:26:23+0530 > ls /media/zs<Tab><BckSp>u<Tab>
+2019-09-21 12:27:04+0530 > ls /me<Tab>
+2019-09-21 12:27:11+0530 > cd /mediaa<BckSp>/zumi<Tab>
+2019-09-21 12:27:20+0530 > ls
+2019-09-21 12:27:21+0530 > cp<BckSp><BckSp><BckSp>cp l<BckSp><LShft>L<Tab><RShft>_<Tab>/meai<BckSp><BckSp>dia.<BckSp>/zumi
+2019-09-21 12:28:08+0530 > <Up><Left><#+14><Left><BckSp><#+50><Del><#+34>cd ..
+2019-09-21 12:28:30+0530 > ls
+2019-09-21 12:28:31+0530 > <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><#+12><BckSp><BckSp><BckSp><Right><#+33><BckSp><#+34>w to move one <LCtrl><RCtrl><BckSp>ld
+2019-09-21 12:38:00+0530 > <BckSp>ls
+2019-09-21 12:38:04+0530 > cd ls
+2019-09-21 12:38:08+0530 > <BckSp><Up><BckSp><BckSp>60<Tab>
+2019-09-21 12:38:14+0530 > ls
+2019-09-21 12:38:15+0530 > cat /p<Tab>p<Tab>r<Tab>
+2019-09-21 12:38:57+0530 > <Up><Down>ls
+2019-09-21 12:39:22+0530 > cd s<Tab>
+2019-09-21 12:39:29+0530 > sudo dd if =<Left><BckSp><Right><#+19><BckSp><#+26>ls
+2019-09-21 12:39:49+0530 > sudo dd if=.sdcard of=/dev<Tab>sd<Tab>a1 bs=1<LShft>M <LShft>&& sync
+2019-09-21 12:40:54+0530 > zs10062013
+2019-09-21 12:41:03+0530 > <Up><Down>cd 
+2019-09-21 12:42:40+0530 > sudo <BckSp><#+27>umoun<Tab> /m<Tab>
+2019-09-21 12:42:58+0530 > cd /me<Tab>zu<Tab>
+2019-09-21 12:43:24+0530 > ls
+2019-09-21 12:43:26+0530 > <LCtrl>ls
+2019-09-21 12:44:39+0530 > u<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><#+2>cd 
+2019-09-21 12:44:49+0530 > ls /me<Tab>
+2019-09-21 12:44:54+0530 > cd /medi<Tab><BckSp><#+22>umount<Tab> /me<Tab>
+2019-09-21 12:45:12+0530 > cd /me<Tab><Tab><#+3>z<Tab>ls
+2019-09-21 12:45:53+0530 > ls
+2019-09-21 12:45:55+0530 > cd /mr<BckSp>e<Tab>z<Tab>
+2019-09-21 12:46:04+0530 > ls
+2019-09-21 12:46:05+0530 > yout<Down>
+2019-09-21 12:47:13+0530 > sd cared<BckSp><BckSp>d prepratu<BckSp>ion fro i.mx6 
+2019-09-21 12:48:04+0530 > <Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right>cd 
+2019-09-21 12:52:26+0530 > sudo umou<Tab> /dec<BckSp>v <BckSp>/sd<Tab>b<Tab>
+2019-09-21 12:52:49+0530 > cat /por<Tab><BckSp><BckSp><Tab><Tab>p<Tab>r<Tab>
+2019-09-21 12:53:07+0530 > <Down><#+41><Down><#+10><Down><Down><Down><Down><#+10><Down><#+22><Down><#+22><Down><Down><Down><#+11><Down><#+16><Down><#+44><Down><#+13><Down><#+10>sudo dd if <BckSp>=cd s<Tab>
+2019-09-21 12:55:21+0530 > ls
+2019-09-21 12:55:22+0530 > .sdcard of <BckSp>=/dev/sda1 bs <BckSp>=1<LShft>M <LShft>&&& <BckSp><BckSp> sync
+2019-09-21 12:56:41+0530 > sudo umo<Tab> /de<Tab>/sda
+2019-09-21 12:57:25+0530 > <Up>1
+2019-09-21 12:57:30+0530 > <Up><BckSp>2
+2019-09-21 12:57:43+0530 > <Up><BckSp><BckSp>b
+2019-09-21 12:57:50+0530 > <Up><BckSp>2<BckSp>1
+2019-09-21 12:57:56+0530 > <BckSp><Up><Left>b
+2019-09-21 12:58:04+0530 > sudo fdisk /dev/sda<Up><Up><Up><Up><Up><Up><Up><Up><Down><Left><#+20><Right><Right><Right><BckSp><Del>b
+2019-09-21 12:59:19+0530 > sudo fdisk /dev/sdx<BckSp>a<BckSp>b
+2019-09-21 12:59:56+0530 > p
+2019-09-21 13:00:00+0530 > d
+2019-09-21 13:00:09+0530 > p
+2019-09-21 13:00:16+0530 > d
+2019-09-21 13:00:22+0530 > n
+2019-09-21 13:00:26+0530 > 1
+2019-09-21 13:00:28+0530 > <Up><Down><BckSp><#+21>p
+2019-09-21 13:00:35+0530 > n
+2019-09-21 13:00:39+0530 > p
+2019-09-21 13:00:41+0530 > 1
+2019-09-21 13:00:43+0530 > 2408
+2019-09-21 13:00:55+0530 > 102400
+2019-09-21 13:01:07+0530 > p
+2019-09-21 13:01:10+0530 > p<BckSp>n
+2019-09-21 13:01:24+0530 > p
+2019-09-21 13:01:26+0530 > 2
+2019-09-21 13:01:28+0530 > 1228800
+2019-09-21 13:01:37+0530 > 
+2019-09-21 13:01:41+0530 > p
+2019-09-21 13:01:44+0530 > w
+2019-09-21 13:01:49+0530 > sudo if <BckSp>=<Left><Left><Left>dd <Right><#+21> of=<BckSp><#+68>cd <CpsLk>D<#+1><CpsLk>e<Tab>a<Tab><#+1>n<Tab>s<Tab>
+2019-09-21 13:02:58+0530 > ls
+2019-09-21 13:03:01+0530 > sudo dd if <BckSp>= of=/dev/sdb bs=1k seek=1 c<#+1>onv=fsync
+2019-09-21 13:04:48+0530 > 
+2019-09-21 13:07:02+0530 > 
+2019-09-21 13:07:03+0530 > 
+2019-09-21 13:07:05+0530 > s
+2019-09-21 13:07:14+0530 > 
+2019-09-21 13:07:15+0530 > 
+2019-09-21 13:07:15+0530 > 
+2019-09-21 13:07:15+0530 > 
+2019-09-21 13:07:15+0530 > 
+2019-09-21 13:07:16+0530 > 
+2019-09-21 13:07:16+0530 > 
+2019-09-21 13:07:16+0530 > 
+2019-09-21 13:07:16+0530 > <LCtrl>d
+2019-09-21 13:07:22+0530 > d
+2019-09-21 13:07:23+0530 > c
+2019-09-21 13:07:24+0530 > c
+2019-09-21 13:07:25+0530 > c
+2019-09-21 13:07:25+0530 > d
+2019-09-21 13:07:26+0530 > d
+2019-09-21 13:07:26+0530 > d
+2019-09-21 13:07:26+0530 > zzzz<BckSp><#+33><BckSp><BckSp><BckSp>ls
+2019-09-21 13:07:37+0530 > <Up><Up><Left><#+21><Left><Left><Left>1
+2019-09-21 13:08:00+0530 > <Up><Left><#+23><Left><BckSp>
+2019-09-21 13:08:14+0530 > <LCtrl>z<BckSp><#+12>cd 
+2019-09-21 13:10:16+0530 > ls /me<Tab>
+2019-09-21 13:10:23+0530 > /<BckSp> <BckSp><BckSp><BckSp><BckSp>cd /me<Tab>z<Tab>s<Tab><Tab><Tab><Tab><Tab><Tab><BckSp><Tab><Tab><Tab><Tab><Tab>
+2019-09-21 13:10:42+0530 > lsl<BckSp>
+2019-09-21 13:10:46+0530 > ls
+2019-09-21 13:10:50+0530 > <Up><Left><Right><BckSp><#+38><BckSp><BckSp><#+59>sudo ss<BckSp><BckSp>dd if <BckSp>==/dev/sdb bs=8<LShft><BckSp><LShft>!<BckSp>1k <BckSp>
+2019-09-21 13:13:02+0530 > <Up><BckSp><BckSp>8<LShft>M
+2019-09-21 13:13:12+0530 > <BckSp><#+28><BckSp>ls
+2019-09-21 13:13:38+0530 > <LCtrl><BckSp><#+8>cd
+2019-09-21 13:17:27+0530 > ls .<BckSp>/media
+2019-09-21 13:17:34+0530 > ls /mezs10062013
+2019-09-21 13:17:54+0530 > e<BckSp><Left><#+9><Right><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>cd<Right><#+14><Tab>z<Tab><BckSp><#+31>u mount <Left><Left><Left><Left><Left><Left><BckSp><Right><#+16>/me<Tab>
+2019-09-21 13:18:50+0530 > <RCtrl>l<Up><Down><BckSp><#+21><BckSp><BckSp><BckSp>sudo ss<BckSp><BckSp>dd if=<BckSp><#+27>ls
+2019-09-21 13:19:24+0530 > sudo dd if= of=dev<BckSp><BckSp><BckSp>/dev/sdc bs=<LShft>*<BckSp>7<BckSp>8<LShft>m<BckSp>m<BckSp><LShft>M
+2019-09-21 13:20:39+0530 > how to install os of i.mx6 i <BckSp>n e<BckSp>sd card using ubuntu
+2019-09-21 13:22:11+0530 > zs10060<BckSp>2013
+2019-09-21 13:28:19+0530 > <LCtrl><LCtrl><LMeta><Esc><LCtrl><LCtrl><LCtrl><LCtrl>hwo<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>what sre <BckSp><BckSp><BckSp><BckSp>are the step to install the od <BckSp>s <BckSp><BckSp><BckSp>s fo<BckSp><BckSp>in sdcard fro <BckSp><BckSp><#+1><BckSp>or i.mx6
+2019-09-21 13:33:21+0530 > <BckSp><#+1><BckSp><BckSp><BckSp><BckSp><LCtrl>umont <BckSp><BckSp><BckSp>unt /dev/sdc
+2019-09-21 13:36:13+0530 > <Up><Left><Right><BckSp>b
+2019-09-21 13:36:21+0530 > <Up><BckSp><#+33>sudo dd if=/<CpsLk><#+8>DE<Tab><BckSp>E<Tab><BckSp><CpsLk>e<Tab><Tab><Tab><Tab>s<Tab>ktop<Tab>/a<Tab><#+1>nurag <BckSp>/saa<BckSp><Tab><#+1>bre<BckSp><BckSp>red<Left>s<Right><#+37><Right><RShft>_image <Left><#+37><Left><Left><BckSp>s <BckSp>/<Right><#+51> of=dev<Left><Left><Left><Left><Right>/<Right><#+14>/sdb bs 512 seek=2 skip=2 con <BckSp>v=fsync
+2019-09-21 13:41:32+0530 > zs10062013
+2019-09-21 13:41:41+0530 > <Up><Left><#+26><Left>i<BckSp><BckSp>=
+2019-09-21 13:41:59+0530 > home
+2019-09-21 13:42:14+0530 > <BckSp><#+14><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>cd home<Left><Left><Left><Left>/<Right><#+15>/u<Tab><Tab>ser
+2019-09-21 13:42:43+0530 > <Up><BckSp><#+24>pwd<RShft>
+2019-09-21 13:42:48+0530 > /<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>/ho<Tab><BckSp><#+20>cd /h<Tab>z<Tab>
+2019-09-21 13:43:08+0530 > ls
+2019-09-21 13:43:10+0530 > <BckSp><Up><Down><Up><Up><Up><Down><Up><Up><Up><Up><Left><#+94><Left><Left>hio<BckSp><BckSp>ome/zumi
+2019-09-21 13:43:38+0530 > <Up><Left><#+102><Left>/
+2019-09-21 13:43:56+0530 > sudo dd if <BckSp>=/home/zumi/<LShft>De<Tab>st<Tab>op<BckSp><BckSp><BckSp>ktop/anurag/sabresd<RShft>_images/ of=dev<Left><Left><Left>/<Right><#+16>/sdb bs=512 conv fsync
+2019-09-21 13:46:13+0530 > <Up><Left><#+9><BckSp>=
+2019-09-21 13:46:24+0530 > sudo fdisk /dev/sdb
+2019-09-21 13:46:57+0530 > u
+2019-09-21 13:47:11+0530 > d
+2019-09-21 13:47:28+0530 > n
+2019-09-21 13:47:32+0530 > p
+2019-09-21 13:47:34+0530 > 111
+2019-09-21 13:47:55+0530 > 1
+2019-09-21 13:48:20+0530 > 2<BckSp>11
+2019-09-21 13:48:27+0530 > p
+2019-09-21 13:48:31+0530 > <RCtrl>l<BckSp><#+20><LCtrl>z<RCtrl>l<LCtrl>zs10062013
+2019-09-21 13:52:42+0530 > <LCtrl>u <BckSp>mount /dev/sdb
+2019-09-21 14:05:32+0530 > <BckSp><#+9>u<BckSp><BckSp>ls /media
+2019-09-21 14:05:49+0530 > /<BckSp><BckSp><BckSp>ls <BckSp><BckSp><BckSp><BckSp><BckSp>umount /me<Tab>
+2019-09-21 14:06:03+0530 > sudo dd if=/home/zumi/<LShft>De<Tab>sktop/anurag/sabersd<RShft>_imsge<BckSp><BckSp><BckSp>agescd <LShft>D<Tab><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LShft>CD<BckSp><BckSp><BckSp>cd /h<Tab>z<Tab><LShft>Des<Tab><LShft>a`<BckSp><Tab>n<Tab>sa<Tab>
+2019-09-21 14:07:51+0530 > ls
+2019-09-21 14:07:52+0530 > <Left><#+12><Left><BckSp><Right>e<Right><#+19>/ of=/dev/sdb/<BckSp> bs=1<BckSp>512<BckSp><BckSp><BckSp>1k seek=1 conv=fy<BckSp>sync
+2019-09-21 14:10:30+0530 > zs10062013
+2019-09-21 14:10:37+0530 > <Up><Left><#+32>anurag<LShft>@zumisolutions.com
+2019-09-21 14:21:23+0530 > <LShft>Anurag<RShft>_29<BckSp><BckSp><#+19><LShft>Anurag<RShft>_<LShft>2019
+2019-09-21 14:21:43+0530 > <Right><Right><Left><Left><Left>/u-boot<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><Right><Right><Left><Left>/u<RShft><LShft>Image<Right><#+11><Right><Right><Right><Right><Right><Right><Right><Right><Right><#+8><Right><Right><Left><Del><#+9><Del><Del>
+2019-09-21 15:24:47+0530 > zs10062013
+2019-09-21 15:24:56+0530 > <Up>
+2019-09-21 15:25:01+0530 > <Up><Left><#+27><Left><Right><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>
+2019-09-21 15:25:14+0530 > <Down>sudo fdisk /dev/sdb
+2019-09-21 15:25:43+0530 > u
+2019-09-21 15:26:24+0530 > d
+2019-09-21 15:26:30+0530 > n
+2019-09-21 15:26:33+0530 > p
+2019-09-21 15:26:36+0530 > 1
+2019-09-21 15:26:45+0530 > 2024<BckSp>8
+2019-09-21 15:26:54+0530 > <BckSp>
+
+Logging stopped at 2019-09-21 15:26:59+0530
+
