@@ -1,0 +1,120 @@
+Logging started ...
+
+2019-09-20 15:36:18+0530 > u n<BckSp><BckSp>mount /media<Tab>
+2019-09-20 15:36:38+0530 > <Up>
+2019-09-20 15:36:41+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down><#+17>cd <CpsLk><#+9>D<Tab>E<Tab><BckSp><CpsLk><Tab>e<Tab>a<Tab><Tab>n<Tab>
+2019-09-20 15:38:22+0530 > ls
+2019-09-20 15:38:23+0530 > ls /me<Tab>z<Tab>
+2019-09-20 15:38:32+0530 > <Up><BckSp>\<BckSp><#+24>cd /me<Tab>z<Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab>4<Tab>
+2019-09-20 15:39:12+0530 > d<BckSp>rm u<Tab>
+2019-09-20 15:39:17+0530 > ls
+2019-09-20 15:39:20+0530 > cd -
+2019-09-20 15:39:23+0530 > tar -xvf u<Tab><Tab><Tab>.t<Tab>g<Tab>-<LShft>C /me<Tab>z<Tab>4<Tab><Left><#+21>
+2019-09-20 15:39:42+0530 > cd -
+2019-09-20 15:40:17+0530 > rm -rf u<Tab>
+2019-09-20 15:40:27+0530 > cd -
+2019-09-20 15:40:32+0530 > <Up><Up><Up><Up><Home>sudo 
+2019-09-20 15:41:29+0530 > zs10062013
+2019-09-20 15:41:33+0530 > <Up><Down><Up><Up><Up><Down>
+2019-09-20 15:42:28+0530 > <Up><Up><Up><Up>
+2019-09-20 15:42:30+0530 > sync
+2019-09-20 15:42:35+0530 > \<BckSp><Up><Up><Up>
+2019-09-20 15:42:38+0530 > <Up><Up><Up><Up><Up><LAlt><Tab><Home><RShft><LShft>#
+2019-09-20 15:44:36+0530 > cd u<Tab>
+2019-09-20 15:44:44+0530 > cp -rf <LShft>* /me<Tab>z<Tab>4<Tab>
+2019-09-20 15:44:57+0530 > <LAlt><CpsLk><Tab><LCtrl>c
+2019-09-20 15:45:18+0530 > CD <BckSp><BckSp><BckSp><CpsLk>cd /me<Tab>z<Tab>4<Tab>
+2019-09-20 15:45:25+0530 > rm -rf <BckSp><#+17>rm -rf <LShft>*
+2019-09-20 15:45:33+0530 > <Up><Up><Up><Up><Down><Down><Down><Down><Down>cd-<BckSp> -
+2019-09-20 15:45:43+0530 > <Up><Up><Up><Up><Home>sudo 
+2019-09-20 15:45:49+0530 > imx sabre <Down><Down><Up>
+2019-09-20 15:46:39+0530 > \imxsabresd sample image
+2019-09-20 15:48:22+0530 > ardu<LShft>Poyyamozhi22
+2019-09-20 15:51:32+0530 > <BckSp>anurag<LShft>.vj1<LShft>@gmail.ci<BckSp>om<BckSp>anurag15
+2019-09-20 15:52:00+0530 > gmail
+2019-09-20 15:53:32+0530 > anurag<LShft>.vj1<LShft>@gmail.com<KP8><KP8><KP5><KP6><KP0><KP3><KP3><KP5><KP7><KP7>nxo<BckSp>p
+2019-09-20 15:54:52+0530 > gm<Down><Down><Down><Down><Down><Down>
+2019-09-20 15:57:24+0530 > nxp
+2019-09-20 15:57:37+0530 > add cotn<BckSp><BckSp>ntact in gmail
+2019-09-20 16:01:23+0530 > nxp
+2019-09-20 16:03:45+0530 > syed<LShft>@zumisolutions.com<Tab><LShft>sdad92
+2019-09-20 16:05:10+0530 > cd <LShft>~/<LShft>Down<Tab>
+2019-09-20 16:49:34+0530 > mkdr<BckSp>ir <LShft>S<LShft>A<BckSp>ab<BckSp><BckSp><BckSp>sabresd<LShft>_images
+2019-09-20 16:49:46+0530 > cd sa
+2019-09-20 16:49:48+0530 > <Up><Tab>
+2019-09-20 16:49:50+0530 > cop<BckSp><BckSp><BckSp>mv ../<LShft>L<Tab><Tab><Tab>4<Tab>.
+2019-09-20 16:50:04+0530 > ls
+2019-09-20 16:50:06+0530 > tar -xvf <LShft>L<Tab>
+2019-09-20 16:50:14+0530 > how to n<BckSp>preped <BckSp><BckSp><BckSp>ared sd card for rootfs
+2019-09-20 16:57:01+0530 > <RCtrl><Down><#+15><Down><#+13><Up><Up><Up><Down><#+15><Down><#+6><Down><Down><RCtrl>lcat /proc/partitions
+2019-09-20 17:05:12+0530 > sd/mmc <Left><#+17>what is 
+2019-09-20 17:06:21+0530 > <Down><Down><#+12><Down><#+7><Down><Down><Down><Down><Down><Down>ls
+2019-09-20 17:07:41+0530 > sudo dd if= of=/dev/zs10062016
+2019-09-20 17:08:39+0530 > zs2<BckSp>1--62-13
+2019-09-20 17:08:50+0530 > zs10062013
+2019-09-20 17:09:08+0530 > a<BckSp>sda2.sdcard of <BckSp>=dev/<BckSp><#+15><BckSp><BckSp><BckSp><BckSp> bs <LShft><BckSp>=<LShft>!<BckSp>1<LShft>M <LShft>&& sync
+2019-09-20 17:10:29+0530 > zs10062013
+2019-09-20 17:10:36+0530 > <BckSp>what is <Down>
+2019-09-20 17:11:52+0530 > <RCtrl><RCtrl><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Up><Down><Down><Down><Down><Up><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><#+4><Down><Down><Down><Down><Down><Down><Down><Down><Down><#+12><Down><Down><Down><Down><Down><Down><#+11><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><#+13><Down><#+10><Down><Down><#+24><Down><Down><Down><#+13><LCtrl>sudo fdisk /dev/sda2
+2019-09-20 17:41:26+0530 > zs10020<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>zs10062013
+2019-09-20 17:41:41+0530 > p
+2019-09-20 17:42:08+0530 > d
+2019-09-20 17:42:17+0530 > n
+2019-09-20 17:42:26+0530 > p
+2019-09-20 17:42:33+0530 > 1
+2019-09-20 17:42:41+0530 > 20480
+2019-09-20 17:42:55+0530 > 1024000
+2019-09-20 17:43:06+0530 > p
+2019-09-20 17:43:13+0530 > n
+2019-09-20 17:43:24+0530 > 2
+2019-09-20 17:43:27+0530 > 2
+2019-09-20 17:43:39+0530 > <Up><Down><BckSp><#+22>p
+2019-09-20 17:43:51+0530 > 2
+2019-09-20 17:43:58+0530 > n
+2019-09-20 17:44:06+0530 > p
+2019-09-20 17:44:10+0530 > 2
+2019-09-20 17:44:15+0530 > 1228800
+2019-09-20 17:44:31+0530 > p
+2019-09-20 17:44:39+0530 > 
+2019-09-20 17:44:48+0530 > p
+2019-09-20 17:44:53+0530 > w
+2019-09-20 17:45:01+0530 > reboot
+2019-09-20 17:45:43+0530 > <Up><BckSp><#+15>cd 
+2019-09-20 17:46:15+0530 > reboot
+2019-09-20 17:46:19+0530 > cd <LShft>D<CpsLk><Tab><Tab>OM<Tab><BckSp><BckSp><CpsLk>o<Tab>w<Tab>sa<Tab>
+2019-09-20 17:46:36+0530 > ls
+2019-09-20 17:46:37+0530 > sudo dd if= of=/dev/sda2 bs <BckSp>=1k seek=1 conv=fsyncwhat is the used of  conv=fc<BckSp>sycn in linz<BckSp>x<BckSp>ux
+2019-09-20 17:48:52+0530 > <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp> 
+2019-09-20 17:49:26+0530 > <LMeta><Esc><Esc><Down><Down><Down><Down><Down><Down><Down>
+2019-09-20 18:01:54+0530 > zs10062013
+2019-09-20 18:02:03+0530 > sudo mkfd<BckSp>s.ext3 /dev/sda2
+2019-09-20 18:03:40+0530 > mkdir /home/user<BckSp><#+28>mkf<BckSp>dir /home.usr<BckSp><BckSp><BckSp><BckSp>/user/mountpoint
+2019-09-20 18:04:47+0530 > <Up><BckSp><#+48>ls
+2019-09-20 18:05:10+0530 > sudo mount/<BckSp><#+30>cd
+2019-09-20 18:15:44+0530 > mkdir .home.<BckSp><#+10><BckSp>/home/user/mountpoint
+2019-09-20 18:16:06+0530 > <Up><Left><Right><BckSp><#+21><BckSp><BckSp>home/user/mountpoint
+2019-09-20 18:16:30+0530 > <Up><Left><#+14><Right><BckSp><#+11><BckSp><BckSp><BckSp><BckSp><Right><#+19><BckSp><#+29>cd d<Tab><BckSp><#+14><CpsLk><#+13>D<Tab>O<Tab><BckSp><Tab><CpsLk>o<Tab>w<Tab>sa<Tab>
+2019-09-20 18:16:59+0530 > ls
+2019-09-20 18:17:00+0530 > <RCtrl>lsudo mount /dec<BckSp>v/sda<Tab>2
+2019-09-20 18:17:24+0530 > <Up><BckSp><#+41>cd 
+2019-09-20 18:17:38+0530 > ls /media
+2019-09-20 18:17:44+0530 > cd /mediaroo<Tab><BckSp><BckSp><BckSp>/r<Tab>
+2019-09-20 18:18:04+0530 > ls
+2019-09-20 18:18:06+0530 > <Up><BckSp><#+16>tar -jxvf fsl-ima<Tab>ge-<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>l-image-
+2019-09-20 18:19:11+0530 > <BckSp><#+12>cd ../
+2019-09-20 18:19:22+0530 > cd ../
+2019-09-20 18:19:25+0530 > ls
+2019-09-20 18:19:26+0530 > cd d<BckSp><CpsLk>D<CpsLk>own<Tab><BckSp><BckSp><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><BckSp><#+20>cd 
+2019-09-20 18:19:40+0530 > cd <CpsLk><#+3>D<Tab>OW<Tab><BckSp><BckSp><CpsLk>o<Tab>w<#+2><Tab>sa<Tab>
+2019-09-20 18:19:54+0530 > ls
+2019-09-20 18:19:56+0530 > tar -jxvf fsl-imag<Tab>e<BckSp><BckSp><BckSp><BckSp>m<BckSp><BckSp>
+2019-09-20 18:20:33+0530 > <Up><Left><#+58>sudo 
+2019-09-20 18:20:44+0530 > <Down><LCtrl><Down><Down><Down><#+13><Down><Down><Down><#+3><Down><Down><Down><Down><Down><#+12><Down><Down><Down><Down><Down><Down>anurag<LShft>@zumisolutions.com
+2019-09-20 18:47:34+0530 > <LShft>Anurag<RShft>_2019
+2019-09-20 18:47:45+0530 > gmialci<BckSp>om<BckSp><BckSp><BckSp>
+2019-09-20 18:49:24+0530 > <KP8><KP8><KP5><KP3><BckSp><KP6><KP0><KP3><KP3><KP5><KP7><KP7>
+2019-09-20 18:49:43+0530 > linkedin
+2019-09-20 18:53:10+0530 > anurag.vj1<LShft>@gmail.com<KP8><KP8><KP5><KP6><KP0><KP3><KP3><KP5><KP7><KP7><BckSp><LShft>Embedded <LShft>Software <LShft>Engineer elelem<Down><Down><Down><Down><Down><Down><#+12><Down><Up><Up><Up><#+8><Up><Up><LShft>Zumi <LShft>Solutions<LShft>Embedded soft<LShft>Banglore<BckSp><BckSp><BckSp><BckSp>alorezaid noordeen
+
+Logging stopped at 2019-09-20 19:09:50+0530
+
