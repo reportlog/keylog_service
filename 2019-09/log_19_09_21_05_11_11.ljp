@@ -1,0 +1,19 @@
+Logging started ...
+
+2019-09-21 17:11:11+0530 > <RCtrl><RShft>+++minicom
+2019-09-21 17:12:28+0530 > dm<Tab><BckSp>mesg
+2019-09-21 17:12:35+0530 > <Up>
+2019-09-21 17:13:08+0530 > <Up> -c
+2019-09-21 17:13:39+0530 > <Up><Home>sudo 
+2019-09-21 17:13:45+0530 > zs<KP1><KP0><KP0><KP6><KP2><KP0><KP1><KP3>
+2019-09-21 17:13:51+0530 > <Up><Up><Up>
+2019-09-21 17:13:55+0530 > <Up>
+2019-09-21 17:13:57+0530 > <Up>
+2019-09-21 17:14:10+0530 > <Up><Up><Up><Down><Down>
+2019-09-21 17:38:25+0530 > <RCtrl>l<Up><Up><Up><Up><Up>
+2019-09-21 17:38:32+0530 > <Up><Up>
+2019-09-21 17:39:47+0530 > <RCtrl>l<Up><Up><Up><Down>
+2019-09-21 17:39:51+0530 > how to check whethre our o<BckSp>i.mx <BckSp>6 is conne<BckSp><BckSp>ect<BckSp><BckSp><BckSp>nected or not
+2019-09-21 17:40:51+0530 > restart
+2019-09-21 17:42:44+0530 > <Up><BckSp><BckSp><BckSp><BckSp><BckSp>v<BckSp>boot
+2019-09-21 17:42:56+0530 > <BckSp><#+11><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><RCtrl>l
