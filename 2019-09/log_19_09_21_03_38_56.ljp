@@ -1,0 +1,111 @@
+Logging started ...
+
+2019-09-21 15:38:56+0530 > <RCtrl><RShft>+++<BckSp><#+75>ls <BckSp><BckSp><BckSp><BckSp><BckSp>cd zu<Tab><BckSp><BckSp><Tab>/me<Tab>z/<BckSp><Tab><Tab><BckSp><#+33><BckSp><BckSp><BckSp>ls
+2019-09-21 15:42:46+0530 > <Up><Left><Left> 
+2019-09-21 15:42:49+0530 > ls
+2019-09-21 15:42:51+0530 > cd<Tab> <Tab>
+2019-09-21 15:43:00+0530 > ls
+2019-09-21 15:43:01+0530 > cd lo<Tab>
+2019-09-21 15:43:06+0530 > <Up><BckSp><#+38>cd
+2019-09-21 15:45:12+0530 > ls /me<Tab>
+2019-09-21 15:45:16+0530 > cd ze<BckSp><BckSp>/me<Tab>z<Tab>
+2019-09-21 15:45:29+0530 > ls
+2019-09-21 15:45:30+0530 > ls
+2019-09-21 15:45:32+0530 > ls
+2019-09-21 15:45:33+0530 > <BckSp><#+10><BckSp><BckSp>cd ..//<BckSp>r<Tab>
+2019-09-21 15:45:40+0530 > ls
+2019-09-21 15:45:41+0530 > cd ../bo<Tab>
+2019-09-21 15:45:52+0530 > ls
+2019-09-21 15:45:53+0530 > ls
+2019-09-21 15:45:57+0530 > <RCtrl>lllcd ..<BckSp><BckSp>
+2019-09-21 15:46:03+0530 > ls
+2019-09-21 15:46:04+0530 > <RCtrl>l<LCtrl>umo<Tab><BckSp><#+18>ls /me<Tab>z<Tab><Tab><Tab><Tab><BckSp><#+14><BckSp><BckSp><BckSp><BckSp><#+10><BckSp><BckSp><#+29>ls /med<BckSp><#+20>u <BckSp>mount /me<Tab>
+2019-09-21 15:47:43+0530 > ls
+2019-09-21 15:47:44+0530 > <BckSp><#+2>cd /me<Tab>z<Tab>
+2019-09-21 15:47:54+0530 > ls
+2019-09-21 15:47:55+0530 > <BckSp><#+6>sudo dd if <BckSp>=/h<CpsLk><Tab>Z<#+1><Tab><BckSp><CpsLk>z<Tab><LShft>De<Tab>s<Tab>a<Tab>n<Tab>s<Tab><RShft>L<Tab><RShft>_<Tab><Tab> od=<BckSp><BckSp>f=/de<Tab>sdb/<Tab><BckSp> bs=1<LShft>M seek=1 cinv<BckSp><BckSp><BckSp>onv=fs<Tab>y<Tab>nc
+2019-09-21 15:50:01+0530 > zs10062013
+2019-09-21 15:50:08+0530 > <Up><Left><#+12><Left><Left><BckSp><#+9><BckSp><BckSp><BckSp>
+2019-09-21 15:53:32+0530 > sudo f<Tab>d<Tab>isk /de<Tab>sd<Tab>b
+2019-09-21 15:56:15+0530 > u
+2019-09-21 15:56:35+0530 > d
+2019-09-21 15:56:57+0530 > p
+2019-09-21 15:57:01+0530 > n
+2019-09-21 15:57:08+0530 > p
+2019-09-21 15:57:09+0530 > 1
+2019-09-21 15:57:12+0530 > 1
+2019-09-21 15:57:24+0530 > 
+2019-09-21 15:57:27+0530 > w
+2019-09-21 15:57:46+0530 > sudo ,<BckSp>mkfs.ext4<Tab> /dev/sdb1
+2019-09-21 15:58:10+0530 > mk<BckSp>kdir /h<Tab>z<Tab>mou<Tab><Tab>
+2019-09-21 15:58:48+0530 > suo<Tab><BckSp>d<Tab>o<BckSp> mo<Tab>un<Tab> /d<Tab>e<Tab>e<BckSp>sdw<BckSp>b1<Tab><BckSp>/h<Tab><Tab><Tab>o<BckSp><BckSp><BckSp> /h<Tab>z<Tab>m<Tab><Tab>o<Tab>
+2019-09-21 15:59:44+0530 > gunzi<Tab>/h<Tab>z<Tab>/<BckSp><LShft>D<Tab>es<Tab>a<Tab><Tab>n<Tab>s<Tab><RShft>L<Tab><BckSp><Tab><BckSp>.<Tab><Tab><BckSp><Tab><BckSp>
+2019-09-21 16:00:35+0530 > <Up><LShft>D<Tab>e<Tab><Left><Left><Left>cd <Tab><Right><Right><Tab>s<Tab><BckSp><#+21>cd <Tab>
+2019-09-21 16:01:04+0530 > cd <RShft>Des<Tab>am<BckSp>n<Tab>s<Tab>
+2019-09-21 16:01:31+0530 > ls
+2019-09-21 16:01:33+0530 > .tar<Tab><BckSp><#+17>.ta <BckSp>r
+2019-09-21 16:01:59+0530 > <Up><Left><#+67><Left><Left><Right><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>tar -<BckSp><BckSp>
+2019-09-21 16:02:21+0530 > <Up><Left><#+60><Left><Left><Left><Left><#+12><Right><Right>i<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>gunzip 
+2019-09-21 16:02:52+0530 > <Up><Down><Up><BckSp><BckSp><BckSp><BckSp>/rootfs.ext2.gz
+2019-09-21 16:04:16+0530 > <Up><Left><#+12><Right><#+14><BckSp><#+15><BckSp><BckSp>
+2019-09-21 16:04:27+0530 > <Up><Left><Right><BckSp>
+2019-09-21 16:04:35+0530 > <RCtrl>lmkdir /h<Tab>z<Tab>roo<Tab>
+2019-09-21 16:05:00+0530 > sudo moun<Tab>-o loop -t ext2 /home<Tab>u<Tab><BckSp>z<Tab><#+1><LShft>Des<Tab>s<Tab><BckSp>an<Tab>u<BckSp>sa<Tab><RShft>L4<RShft><Tab><RShft>_<Tab>/h<Tab>z<Tab>r<Tab>o<Tab><BckSp>
+2019-09-21 16:06:18+0530 > <Up><Left><#+18><Up><Down><Left><#+94><Right> 
+2019-09-21 16:06:31+0530 > cd /h<CpsLk>O<CpsLk><BckSp><BckSp>ho<Tab>z<Tab>r<Tab>
+2019-09-21 16:10:17+0530 > sudo cp -a<RShft> <RShft>* /h<Tab>z<Tab>mo<Tab>
+2019-09-21 16:10:38+0530 > sudo u mount<Tab><Left><Left><Left><Left><Left><BckSp><Tab><Right><#+20> /h<Tab>
+2019-09-21 16:15:07+0530 > <RCtrl>l<Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Up><Up><Down><#+36><Down><#+15><Down><#+97><Down><Down><Down><#+13><Down><Down><Down><Down><Down><Down><LCtrl><Down><#+44><Down><#+29><Down><#+18><Down><Down><Down><Down><Down><#+13><Down><#+3><Down><Down><#+13><Up><#+5><Up><Up><Up><Up><Up><#+12><Up><Up><Up><Up><Down><Down><Down><#+35><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down><#+14><Down><#+11><Down><#+16><Down><Down><#+29><Up><#+28><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><BckSp><#+18>cd
+2019-09-21 16:34:27+0530 > ls
+2019-09-21 16:34:29+0530 > <RCtrl>lls
+2019-09-21 16:34:38+0530 > sudo micom<BckSp><BckSp><BckSp>nicom
+2019-09-21 16:36:44+0530 > zs100<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>zs10062013
+2019-09-21 16:36:56+0530 > d<BckSp><BckSp><BckSp>dmesg
+2019-09-21 16:37:48+0530 > dm<BckSp><Up><Up><Down>
+2019-09-21 16:38:23+0530 > d<Tab><Up>
+2019-09-21 16:38:36+0530 > <Up>
+2019-09-21 16:40:01+0530 > <Down><#+15>
+2019-09-21 16:40:35+0530 > 
+2019-09-21 16:40:36+0530 > 
+2019-09-21 16:40:36+0530 > 
+2019-09-21 16:40:36+0530 > 
+2019-09-21 16:40:36+0530 > 
+2019-09-21 16:40:36+0530 > 
+2019-09-21 16:40:36+0530 > 
+2019-09-21 16:40:37+0530 > 
+2019-09-21 16:40:37+0530 > 
+2019-09-21 16:40:37+0530 > <Up>
+2019-09-21 16:40:39+0530 > <PgUp><PgUp><PgUp><PgDn><PgDn><PgDn><PgDn><PgUp><PgUp><PgUp><BckSp><#+21><Up>
+2019-09-21 16:42:25+0530 > <RCtrl>l<Up>
+2019-09-21 16:42:30+0530 > minicom
+2019-09-21 16:43:17+0530 > minicom
+2019-09-21 16:47:15+0530 > <Up><Up><Up><Down>
+2019-09-21 16:47:22+0530 > <Up><Up>
+2019-09-21 16:50:18+0530 > <Up><Up><Up><Down>
+2019-09-21 16:50:20+0530 > <Up><Up>
+2019-09-21 16:50:41+0530 > <Up><Up>
+2019-09-21 16:50:43+0530 > <RCtrl>l<Up>
+2019-09-21 16:50:46+0530 > <Up><Up>
+2019-09-21 16:53:25+0530 > <Up><Up>
+2019-09-21 16:53:28+0530 > <Up><Up>
+2019-09-21 16:57:57+0530 > <Up><Up><Up><Down>
+2019-09-21 16:58:05+0530 > <Up>
+2019-09-21 16:58:34+0530 > <Up><Up>
+2019-09-21 16:58:35+0530 > <Up><Up><Down>
+2019-09-21 17:00:18+0530 > 
+2019-09-21 17:00:19+0530 > 
+2019-09-21 17:00:20+0530 > 
+2019-09-21 17:00:20+0530 > <Up>
+2019-09-21 17:00:21+0530 > <Up><Up>
+2019-09-21 17:00:23+0530 > 
+2019-09-21 17:00:25+0530 > 
+2019-09-21 17:00:25+0530 > 
+2019-09-21 17:00:25+0530 > 
+2019-09-21 17:00:26+0530 > 
+2019-09-21 17:00:26+0530 > 
+2019-09-21 17:00:26+0530 > <Up><Up>
+2019-09-21 17:01:41+0530 > <Up><Up><Up><Down>
+2019-09-21 17:02:02+0530 > <Up><#+16><Up><Up><#+12><RCtrl>l<#+1>minici=<BckSp>om<Left><Left><Left><BckSp><Del>v<BckSp>c
+2019-09-21 17:06:15+0530 > 
+2019-09-21 17:06:16+0530 > <#+1>d<Up><Up>
+2019-09-21 17:06:21+0530 > 
