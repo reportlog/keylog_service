@@ -1,0 +1,77 @@
+Logging started ...
+
+2019-09-23 17:31:57+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><BckSp><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab>
+2019-09-23 17:37:22+0530 > 
+2019-09-23 17:37:22+0530 > cd /bi<Tab>
+2019-09-23 17:37:24+0530 > ./blu<Tab>
+2019-09-23 17:37:27+0530 > po<Tab>on
+2019-09-23 17:37:30+0530 > sca<Tab>on
+2019-09-23 17:37:34+0530 > sca<Tab>off
+2019-09-23 17:37:42+0530 > conn<Tab><LShft><Ins>
+2019-09-23 17:37:51+0530 > 
+2019-09-23 17:37:55+0530 > 
+2019-09-23 17:37:55+0530 > 
+2019-09-23 17:37:56+0530 > menu<Tab>ga<Tab>
+2019-09-23 17:38:00+0530 > sel<Tab><LShft><Ins>
+2019-09-23 17:38:19+0530 > noti<Tab>on
+2019-09-23 17:38:23+0530 > disco<Tab><Tab><BckSp><BckSp><BckSp><BckSp><BckSp>bac<Tab>
+2019-09-23 17:39:09+0530 > disc<Tab>nn<Tab>
+2019-09-23 17:39:12+0530 > <LAlt><Tab><LAlt><Tab><Left><#+26>ssl
+2019-09-23 17:39:53+0530 > <LAlt><Tab><Left><Left><Left><Left><Left><BckSp><#+9><BckSp><BckSp><BckSp><BckSp><BckSp><LShft>~/srikanth<Right><#+25><Right><BckSp><#+12><BckSp><BckSp><LShft>~/srikanth
+2019-09-23 17:40:11+0530 > <LAlt><Tab><LAlt><Tab><Up><Left><#+25><Left><Left><Left><BckSp><#+11><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>/op<Tab>t/st<Tab><LCtrl><LCtrl><LShft>Tcd /us<Tab>lo<Tab>
+2019-09-23 17:43:02+0530 > ls
+2019-09-23 17:43:03+0530 > cd ss<Tab><BckSp><BckSp><BckSp><BckSp><BckSp>cd ../../p<Tab><BckSp><BckSp><BckSp><BckSp><BckSp>op<Tab>st<Tab><Tab><Tab>m<Tab><Tab><Tab><Tab><Tab>co<Tab>
+2019-09-23 17:43:23+0530 > lsw
+2019-09-23 17:43:24+0530 > ls
+2019-09-23 17:43:25+0530 > cd us<Tab>lo<Tab>
+2019-09-23 17:43:30+0530 > ls
+2019-09-23 17:43:31+0530 > cd <BckSp><#+14><LCtrl><LShft><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>=<LShft><Ins><Right><#+39><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><#+9><BckSp><BckSp><BckSp>./<Tab><Tab><Tab><Tab><Tab><Tab><BckSp><BckSp>./<BckSp><#+8>=cd ../../../../..
+2019-09-23 17:51:11+0530 > cd bu<Tab><Tab>tm<Tab><Tab><Tab><#+1>wo<Tab><Tab><Tab>/<Tab><Tab><Tab>co<Tab><Tab><Tab><BckSp>op<Tab><Tab>en<Tab>l<Tab><Tab><Tab><Tab>op<BckSp><BckSp>bu<Tab>
+2019-09-23 17:51:41+0530 > ls
+2019-09-23 17:51:42+0530 > vim <LShft>Ma<Tab>
+2019-09-23 17:51:45+0530 > <Down><#+17><Down><#+8><Down><#+9><Down><LAlt><Tab><Down><Down><Down><Down><Down><Down><#+18><Down><#+1><Down><#+10><Down><#+17><Down><Down><Down><#+18><Down><#+11><Down><#+2><Down><#+14><Down><Down><#+10><Down><#+17><Down><#+11><Down><#+25><Down><#+17><Down><#+21><Down><#+20><Down><#+20><Down><#+16><Down><#+21><Down><#+60>/.o
+2019-09-23 17:57:20+0530 > nnnnnnnnnnnnnnnnnn<#+14>n<#+27>n<#+15>n<#+18>n<#+29><Down><#+37><Down><#+28><Down><#+17><Down><#+19><Down><#+31><Esc><RShft>:q
+2019-09-23 17:57:52+0530 > cd ..
+2019-09-23 17:57:55+0530 > ls
+2019-09-23 17:57:56+0530 > cd op<Tab>
+2019-09-23 17:58:01+0530 > ls
+2019-09-23 17:58:02+0530 > cd a<Tab>
+2019-09-23 17:58:05+0530 > ls
+2019-09-23 17:58:06+0530 > cd ..
+2019-09-23 17:58:16+0530 > vim <BckSp><BckSp><BckSp><#+1><BckSp>cd ../bu<Tab>
+2019-09-23 17:58:25+0530 > vim <LShft>Ma<Tab>
+2019-09-23 17:58:29+0530 > /<LShft><Ins><BckSp><BckSp>
+2019-09-23 17:58:32+0530 > nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn<BckSp><#+134>ls
+2019-09-23 18:00:11+0530 > cd ap<Tab>
+2019-09-23 18:00:19+0530 > ls
+2019-09-23 18:00:20+0530 > cd ..
+2019-09-23 18:00:33+0530 > cd ..
+2019-09-23 18:00:35+0530 > cdbu<Tab>
+2019-09-23 18:00:37+0530 > cd bu<Tab>
+2019-09-23 18:00:40+0530 > ls
+2019-09-23 18:00:41+0530 > cd ap<Tab>
+2019-09-23 18:00:43+0530 > ls
+2019-09-23 18:00:44+0530 > cd ..<BckSp><#+16>cd ../../.../<BckSp><BckSp>/..
+2019-09-23 18:00:57+0530 > <Up><Down><LAlt><Tab><Tab><Tab><Tab><LCtrl>c
+2019-09-23 18:01:08+0530 > <LAlt><Tab><LCtrl><LShft>V openssl <LAlt><Tab><LAlt><Tab>-f
+2019-09-23 18:01:16+0530 > zs<KP1><KP0><KP0><KP6><KP2><KP0><KP1><KP3>
+2019-09-23 18:06:38+0530 > 
+2019-09-23 18:08:58+0530 > 
+2019-09-23 18:08:58+0530 > 
+2019-09-23 18:08:58+0530 > 
+2019-09-23 18:08:58+0530 > 
+2019-09-23 18:08:59+0530 > cd /bi<Tab>
+2019-09-23 18:09:12+0530 > ./blu<Tab>
+2019-09-23 18:09:15+0530 > po<Tab>on
+2019-09-23 18:09:19+0530 > scan<Tab>on
+2019-09-23 18:09:22+0530 > sca<Tab>off
+2019-09-23 18:09:27+0530 > conn<Tab><LShft><Ins>
+2019-09-23 18:09:35+0530 > menu<Tab>ga<Tab>
+2019-09-23 18:09:43+0530 > sel<Tab><LShft><Ins>
+2019-09-23 18:10:14+0530 > noti<Tab>on
+2019-09-23 18:10:18+0530 > sel<Tab><LShft><Ins>
+2019-09-23 18:10:50+0530 > np<BckSp>oti<Tab>on
+2019-09-23 18:10:57+0530 > 
+
+Logging stopped at 2019-09-23 18:11:23+0530
+
