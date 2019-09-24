@@ -1,0 +1,252 @@
+Logging started ...
+
+2019-09-24 09:35:05+0530 > user guid  f<BckSp><BckSp><Down><Down><Down>
+2019-09-24 09:36:05+0530 > <RCtrl><RShft>+++<RCtrl>-<RCtrl><RShft>+cd /<LShft>H<BckSp><Tab>h<Tab>z<Tab><LShft>D<Tab>e<Tab>an<Tab>p<Tab>
+2019-09-24 09:39:01+0530 > ls
+2019-09-24 09:39:02+0530 > alpay <LShft>B<Tab>
+2019-09-24 09:39:23+0530 > <Up><Left><#+25><Left><Left><BckSp><Right>l
+2019-09-24 09:39:34+0530 > <Up><BckSp><#+23><BckSp><BckSp>a1<Tab>i<Tab>
+2019-09-24 09:39:55+0530 > <LCtrl><LCtrl>c
+2019-09-24 09:40:09+0530 > <Up><BckSp><BckSp><BckSp>p<Tab>
+2019-09-24 09:40:14+0530 > <Up><Up><Up><Up><Down><Left><#+5><Down><Up><BckSp><#+24><BckSp><LShft>M<Tab><Tab><Tab><Tab>ai<Tab>n<RShft>_<LShft>Th<Tab><#+1>eme.mid
+2019-09-24 09:40:50+0530 > <Up><BckSp><#+16><BckSp> tera<Tab><BckSp><BckSp><BckSp><BckSp><LShft>Ter<Tab>
+2019-09-24 09:41:05+0530 > <RCtrl><RShft>_+++al<Tab>a<BckSp>sa<Tab>m<Tab>
+2019-09-24 09:42:03+0530 > <F6><Down><Down><Down>
+2019-09-24 09:42:07+0530 > <Down><#+18><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Up><Up><Up><Tab><Tab><Down><Down><Up><Up><#+2><Left><Up><Down><Down><Down><Down><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down><Up><Up><Up><Up><Down><Up><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Up><LCtrl>c
+2019-09-24 09:42:56+0530 > <RCtrl><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Up><Up>are<Tab> test1.mp3
+2019-09-24 09:44:16+0530 > <LCtrl>c
+2019-09-24 09:44:30+0530 > <Up><Left><#+13><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>aplay
+2019-09-24 09:44:43+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><#+39><Up>
+2019-09-24 09:45:04+0530 > <Up><Up><Up><Down>
+2019-09-24 09:45:27+0530 > <RCtrl>lare<Tab> a1.mi<BckSp><BckSp><BckSp><BckSp>2.mid
+2019-09-24 09:46:01+0530 > <LCtrl>c
+2019-09-24 09:46:40+0530 > <Down><#+17><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down>aplat<BckSp>y a2.mid
+2019-09-24 09:48:05+0530 > <LCtrl>c
+2019-09-24 09:48:08+0530 > <Up><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><#+19>ls
+2019-09-24 09:48:13+0530 > p<BckSp>aply<BckSp>ay <BckSp> a1.mp<Tab>
+2019-09-24 09:48:28+0530 > <Up><#+11><Up><Tab><Tab><Tab><Tab><Tab><Tab><Tab><F6><Up>
+2019-09-24 09:48:53+0530 > <Left><Left><Right><Right><Right><Left><Tab><Tab><Tab><Tab><Up><#+19><Tab><Right><Right><Right><Right><Right><Up><Down><Right><Up><Right><Down><Up><Right><Up><Up><#+36><Down><#+27><Right><Tab><Right><Left><Up><Up><Up><Up><Up><Up><Up><Up><Down><Down><Down><Right><Right><Right><Right><Tab><Tab><Tab><Tab><Up><Right><Right><Right><Right><Right><Right><Right><Right><Up><#+8><Down><Up><Down><Right><Left><Up><Up><Up><Down><Left><Down><Down><Up><Up><Up><Up><Up><Down><Down><Down><Up><Right><Down><Tab><Tab><Esc>sude<BckSp>o alsactl store
+2019-09-24 09:50:45+0530 > zs10062013
+2019-09-24 09:50:51+0530 > ls
+2019-09-24 09:50:54+0530 > <Up>
+2019-09-24 09:51:04+0530 > <LCtrl>c
+2019-09-24 09:51:09+0530 > arec<Tab> test3.mp3
+2019-09-24 09:51:26+0530 > <LCtrl>zaplay te<Tab>3<Tab>
+2019-09-24 09:51:58+0530 > alsaconf -p
+2019-09-24 09:57:16+0530 > <Up><BckSp><LShft>P
+2019-09-24 09:57:24+0530 > <BckSp><Up><BckSp><BckSp>
+2019-09-24 09:57:28+0530 > <Up><Left><#+19><LShft>#<Right><#+19>-p
+2019-09-24 09:57:40+0530 > <Up><BckSp><LShft>P
+2019-09-24 09:57:45+0530 > <Up><BckSp><BckSp>
+2019-09-24 09:57:49+0530 > aconnect -i
+2019-09-24 09:58:21+0530 > <Down><Up><BckSp><BckSp>0<BckSp>-0<BckSp>o
+2019-09-24 09:59:46+0530 > aconnect 14<RShft>:0
+2019-09-24 10:00:41+0530 > <Up><#+4><Down><#+13><Up><Down><#+9><Down><Up><Up><Up><Up><Up><Up><Up><Up><#+6><Up><Down><#+11><Up><#+10><Up><Up><Up><Up><Up><Down><Up><Down><Down><#+10><Down><Down><Down><#+11><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Up><Down><Down><Down><Down><Up><Up><Up><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Up><BckSp><#+37>cat /p<Tab>b<Tab><Tab>s<Tab>us<Tab><Tab>b<Tab><Tab><Tab><Tab><Tab>/001<Tab>
+2019-09-24 10:16:00+0530 > <Up><BckSp><BckSp><BckSp><BckSp>
+2019-09-24 10:16:06+0530 > <Up><BckSp><BckSp><BckSp><BckSp>
+2019-09-24 10:16:11+0530 > <Up>/u<Tab><Tab><Tab><Tab><Tab>s<Tab><Tab>b<Tab><Tab><Tab><Tab><Tab><Tab><Tab><BckSp><#+31><RCtrl>l<Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Up>cat /p<Tab>aso<Tab>car<Tab><Tab><Tab>s<Tab><BckSp><BckSp><BckSp>ds<Tab>
+2019-09-24 10:19:13+0530 > <Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Up><Down><Up><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><#+2><Down><Down><Down><Down><Down><Down><Down><#+13><Down><Down><Down><Down><Down><Up><Down><Down><Down><Down><Down><Up><Down><Down><Down><Down><Down><Down><Up><Down><Down><Up><Down><Up><Up><Down><Down><Down><#+9><Down><Down><#+4><Down><Down><#+11><Down><Down><Down><Down><Down><#+2><Down><Down><Down><#+9><Down><#+4><Down><Down><#+9><Down><Down><#+1><Down><Down><Down><Down><Down><Down><Down><Down><#+6><Down><#+13><Down><#+32><Up><#+17><Up><#+9><Up><#+10><Up><#+28><Up><#+15><Up><#+2>what is pnp  cared<BckSp><BckSp><BckSp>rds
+2019-09-24 10:32:40+0530 > how to <Down><Down>
+2019-09-24 10:37:11+0530 > <Up><Up><Up><Up><#+12><Up><Up><#+1><Up><#+2><Up><#+7><Up><#+16><Up><#+14><Up><Up><#+11><Up><#+10><Up><Up><#+9><Up><#+11><Down><Down><Down><Down><Down><Down><Down><#+11><Down><#+2>ls
+2019-09-24 10:43:01+0530 > <RCtrl>lls
+2019-09-24 10:43:05+0530 > las<BckSp><BckSp><BckSp><BckSp><BckSp>alsapa<Tab><Tab><Tab><BckSp>l<Tab><Tab><Tab><Tab>ayer -d front<Tab> <LShft>T<Tab><#+2>
+2019-09-24 10:43:40+0530 > 
+2019-09-24 10:44:05+0530 > zs1006210<BckSp><#+49><BckSp><BckSp><BckSp><BckSp><BckSp>zs10062013
+2019-09-24 10:44:22+0530 > y
+2019-09-24 10:44:28+0530 > <Down><Down><#+3><Down><Down><Down><Down><Up><Up><Up><Down><#+8><Down><Down><#+11><Down><#+7><Down><#+10><Down><#+9><Down><Down><#+1><Down><#+2><Down><#+12><Down><#+9><Down><#+15><Up><#+9><Down><#+8><Up><Up><#+8><Up><#+9><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><#+9><Up><#+14><Up><#+10><Up><#+12><Up><#+9><Up><Up><Up><Down>sodo <BckSp><BckSp><BckSp><BckSp>uso<BckSp><BckSp>do apt-get update
+2019-09-24 10:46:52+0530 >  <LShft>T<Tab>
+2019-09-24 10:47:59+0530 > alsamix<Tab>
+2019-09-24 10:48:36+0530 > <F6><Down><Down><Down>
+2019-09-24 10:48:40+0530 > <Up><#+37><LCtrl>c
+2019-09-24 10:49:29+0530 > c
+2019-09-24 10:49:30+0530 > c
+2019-09-24 10:49:30+0530 > <LCtrl>c
+2019-09-24 10:49:32+0530 > alpa<Tab><BckSp><BckSp><BckSp><BckSp>apla<BckSp>a<Tab><#+4><Tab> a1.mp3
+2019-09-24 10:49:55+0530 > <LCtrl>c
+2019-09-24 10:49:59+0530 > are<Tab> pe<BckSp><BckSp><RCtrl><RShft>++<Tab><Tab>mic
+2019-09-24 10:50:31+0530 > <Down><Down><Down><Down><#+46><Up><#+16><Up><Up><Up><#+24><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><LCtrl>c
+2019-09-24 10:50:56+0530 > <Up><Left><#+9><BckSp><#+19>pla<BckSp><BckSp><BckSp><BckSp>apl<Tab>
+2019-09-24 10:51:19+0530 > <Up><Up><Up><Up><BckSp><#+37><Tab><#+8>b`<BckSp><BckSp><LShft>B<Tab>
+2019-09-24 10:52:12+0530 > <LCtrl>c
+2019-09-24 10:53:28+0530 > als<Tab>p<Tab>t<BckSp><LShft>T<Tab>
+2019-09-24 10:53:50+0530 > <LCtrl>c
+2019-09-24 10:54:09+0530 > <LCtrl>c
+2019-09-24 10:54:11+0530 > <Up><Left><BckSp><#+29><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LShft>B<Tab>
+2019-09-24 10:54:22+0530 > <Up><Left><#+2><BckSp><#+23><BckSp><LShft>Te<Tab>
+2019-09-24 10:54:58+0530 > <Left><Down><Down><#+13><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Up><Up><Up><Up><Up><Up><Up><Up><#+16><Up><#+14><Down><Down><Down><Down><#+12><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><LCtrl>c
+2019-09-24 10:56:09+0530 > mpla<Tab><Tab><Tab><Tab><Tab><Tab>q<Tab><#+1><BckSp>y<Tab>er <LShft>T<Tab>
+2019-09-24 10:56:26+0530 > <LCtrl><Up><Up><Up><Up><Up><Up><Down>
+2019-09-24 10:58:42+0530 > <LCtrl>c
+2019-09-24 10:58:47+0530 > <LCtrl>c
+2019-09-24 10:58:49+0530 > c
+2019-09-24 10:58:50+0530 > c
+2019-09-24 10:58:50+0530 > c
+2019-09-24 10:58:50+0530 > c
+2019-09-24 10:58:50+0530 > <LCtrl>c
+2019-09-24 10:58:52+0530 > <Up><Left><#+27><Right><Right><Right><BckSp><BckSp><BckSp><BckSp><BckSp>
+2019-09-24 10:58:59+0530 > <LCtrl><LShft><LCtrl>c
+2019-09-24 10:59:01+0530 > <LCtrl>c
+2019-09-24 10:59:03+0530 > <Up><Left><#+24><Left><BckSp><BckSp><BckSp><BckSp>
+2019-09-24 10:59:10+0530 > <LCtrl>c
+2019-09-24 10:59:24+0530 > <Up><Left><#+26><Right><Right><Right><Del><#+25><LCtrl>t<Tab><Tab><BckSp><LCtrl>t<BckSp><LShft><LCtrl>t<LCtrl>tttttrree<LShft>T<Tab><#+2>
+2019-09-24 10:59:58+0530 > <Up><Left><#+37><Right>er
+2019-09-24 11:00:05+0530 > <Up>
+2019-09-24 11:03:10+0530 > <Up><#+12><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><Tab><BckSp><BckSp><BckSp><BckSp>b<Tab><BckSp><LShft>B<Tab>
+2019-09-24 11:03:58+0530 > ap<Tab>la<Tab>er<Tab><Tab><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>alsapa<Tab><BckSp>layer<Tab><LShft>B<Tab>
+2019-09-24 11:05:03+0530 > alsa payer to play the midi file<Left><#+24><Left><Left><Left>l<Right><#+28>
+2019-09-24 11:09:44+0530 > <Up><Up><Up><#+13><Up>pmidi -l
+2019-09-24 11:11:32+0530 > <Up> <LShft>B<Tab>
+2019-09-24 11:11:45+0530 > <Up><Left><#+23><Left><Left><BckSp>p 14<RShft>:0
+2019-09-24 11:12:03+0530 > <Up><Down><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LCtrl>c
+2019-09-24 11:13:00+0530 > <LCtrl>c
+2019-09-24 11:13:04+0530 > pal<BckSp><BckSp>laymidi <LShft>B<Tab>
+2019-09-24 11:15:48+0530 > <Up><Left><#+49>x
+2019-09-24 11:16:10+0530 > <Down><#+3>nsd-seq-midi
+2019-09-24 11:19:57+0530 > pmidi -l
+2019-09-24 11:20:15+0530 > export <LShft>ALSA<RShft>_<LShft>OUT<RShft>_<LShft>port=14<RShft>:0
+2019-09-24 11:21:12+0530 > pmibi<Tab><BckSp><BckSp><Tab><LShft>B<Tab>
+2019-09-24 11:21:28+0530 > <RCtrl>l<BckSp><BckSp><LCtrl>c
+2019-09-24 11:22:08+0530 > <RCtrl>lpmidi -p 14<RShft>:0 <LShft>B<Tab>
+2019-09-24 11:22:27+0530 > <Up><#+62><LCtrl>c
+2019-09-24 11:22:46+0530 > <Up>
+2019-09-24 11:22:48+0530 > <Right><#+18><Left><#+9><LCtrl><Left><Left><Left><Left><Down><#+11><Down><Down><Right><Down><Down><Down><Down><Left><Down><#+9><Down><Down><Down><Right><Right><Left><Down><#+3><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><#+13><Down><#+11><Down><Down><#+4><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><#+5><Up><Up><Up><Up><Up>tmidid<BckSp><BckSp><BckSp><BckSp><BckSp>imidity -ii<BckSp><BckSp> ia
+2019-09-24 11:30:51+0530 > <Up><Left><Left><BckSp>
+2019-09-24 11:30:54+0530 > <Up><Left><Left> 
+2019-09-24 11:31:06+0530 > <Up><BckSp>g
+2019-09-24 11:31:14+0530 > <Up><BckSp>k
+2019-09-24 11:31:18+0530 > <BckSp><Up><BckSp><#+10>
+2019-09-24 11:31:21+0530 > how to used timidity
+2019-09-24 11:32:55+0530 > <LCtrl><LCtrl><Up> - i<LShft>A
+2019-09-24 11:35:39+0530 > sudo apt-get install timidity
+2019-09-24 11:36:12+0530 > zs10020<BckSp><#+66>zs10062013
+2019-09-24 11:36:31+0530 > <Up><#+1><BckSp><#+48><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>timmt<BckSp><#+2><BckSp>idity - <LShft>IA<BckSp><BckSp>i<LShft>A - <LShft>B@<BckSp>2 <BckSp>,<LShft>* -os<BckSp><BckSp>0s -<LShft>EErever=<LShft><BckSp>b=0 -ig
+2019-09-24 11:39:12+0530 > <Up><Left><#+17><Left><Left><BckSp>o
+2019-09-24 11:39:21+0530 > <Up><Left><#+21><BckSp>8
+2019-09-24 11:39:35+0530 > <Down><#+12><Up><Down> plsyr<Down>
+2019-09-24 11:41:15+0530 > <LCtrl><Down><Down><Down><Down><Down><Down><Down><Up><Down><#+1><Down><Down><#+13><Up><#+11><Up><Up><#+11><Up><Up><Up><Down><Down><Down><#+8><Down><Down><Down><Down><#+40><Down><#+12><Down><Up><#+11><Up><#+2><Up><#+14><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><#+11><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>which player is use to play midi files in kl<BckSp><BckSp>linux
+2019-09-24 11:50:19+0530 > <RCtrl>lapla<Tab>midi -l
+2019-09-24 11:50:58+0530 > <Up><BckSp><BckSp>-p 14<RShft>:0 <LShft>B<Tab>
+2019-09-24 11:51:19+0530 > <RCtrl>l<LCtrl>c
+2019-09-24 11:51:51+0530 > <Up><BckSp><#+33>di 
+2019-09-24 11:52:01+0530 > <Up>-p
+2019-09-24 11:52:09+0530 > <Up><Up><Up><Up>
+2019-09-24 11:52:43+0530 > playmidi <LShft>B<Tab>
+2019-09-24 11:55:43+0530 > cd/<BckSp> /de<Tab>se<Tab>q<Tab>uen<Tab><Tab><Tab><Tab>cer<Tab>
+2019-09-24 11:56:20+0530 > <Up><Left><#+28><Del><Del>open
+2019-09-24 11:56:27+0530 > <RCtrl>lsudo apt -<BckSp><BckSp>-get install playmia<BckSp>di 
+2019-09-24 11:57:13+0530 > zs10062013
+2019-09-24 11:57:17+0530 > pay<BckSp><BckSp>lau<BckSp>y<Tab>
+2019-09-24 11:57:26+0530 > <Up>- h
+2019-09-24 11:57:33+0530 > <Up><Left><BckSp>
+2019-09-24 11:57:35+0530 > <RCtrl>l
+2019-09-24 11:58:47+0530 > <Up><Up><BckSp><#+24>
+2019-09-24 11:59:19+0530 > y
+2019-09-24 11:59:22+0530 > <BckSp>list of midi palyer <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>layer fo r<BckSp><BckSp>r <Down><Down><Down><Down><Down><Down><Down><Down><Up>
+2019-09-24 12:00:50+0530 > <Down><#+9><Down><Down><Down><Down><#+8><Down><Down><Down><#+10><Down><#+10><Down><#+10><Down><Down><Down><Down><Down><Down><Down><#+6><Down><Down><Down><Down><Down><Down><Down><#+9><Down><#+3><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><#+9><Down><Down><#+10><Down><#+11><Down><#+32><Up><#+13><Up><#+12><Up><Up><Up><Up><#+11><Up><#+13><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><#+11><Up><Up><Up><Up><Up><#+13><Up><Up><Up><Up><#+4><Up><Up><#+8><Down><Down><Down><Down><Down><Up><Down><#+3><Up><#+1><Down><Up><Down><#+8><Up><#+5><Down><#+17><Up><#+38><Up><Up><#+12><Down><BckSp><#+72>timit<BckSp>dity <LShft>B<Tab>
+2019-09-24 12:06:36+0530 > <LCtrl><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><#+11><Down><Down><Down><Down><Down><Down><Down><Down><Down><#+13><Down><Down><Down><#+35>timidity <LShft>B<Tab>
+2019-09-24 12:16:59+0530 > <Down><#+16><Down><Down><Down><Down><#+3><Down><Down><#+4><Down><Down><#+12><Up><Up><Up><Up><Up><Up><Down><Down><Down><Down><Down><Down><Down><Right><Right><Right><Right><Right><Right><#+5><Down><Down><Down><#+7><Down><Down><Down><#+12><Down><#+19><Down><#+10><Down><#+13><Down><#+16><Down><#+8><LCtrl><LCtrl>sudo mod<BckSp><#+26>timi<Tab>a1.mp3
+2019-09-24 12:22:14+0530 > 
+2019-09-24 12:22:59+0530 > 
+2019-09-24 12:23:40+0530 > <RCtrl>ltimidity <LShft>B<BckSp>t<Tab><BckSp><BckSp><BckSp><BckSp><BckSp>3<Tab>.<Tab><Tab><BckSp><BckSp><#+25>ls<Tab>
+2019-09-24 12:24:27+0530 > <Up><Up><Down><BckSp><#+23>timidity tes<Tab><Left><Left><Left><Left><Left>3
+2019-09-24 12:25:00+0530 > sud <#+4><BckSp>o modprobe snd <BckSp>-seq-de<Tab>vi<BckSp><BckSp><BckSp>
+2019-09-24 12:25:35+0530 > zs10062013
+2019-09-24 12:25:40+0530 > <Up><Left><#+14><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>midi
+2019-09-24 12:25:51+0530 > <Up><BckSp><BckSp><BckSp><BckSp>oss
+2019-09-24 12:25:59+0530 > <Up><BckSp><BckSp><BckSp>midi-e<Tab><Tab>ve<Tab>
+2019-09-24 12:26:22+0530 > <Up><BckSp><#+15>
+2019-09-24 12:26:29+0530 > timid<Tab>-i<Tab><LShft>A
+2019-09-24 12:26:40+0530 > <Up><Left> 
+2019-09-24 12:26:43+0530 > <Up><RShft><Left><BckSp><Left> 
+2019-09-24 12:26:46+0530 > kmid <LShft>B<Tab>
+2019-09-24 12:27:04+0530 > <Up><BckSp><#+40>o<BckSp>pmidi <LShft>B<Tab><Left><Left><#+15><Left><Left><#+11><Left><Left>=p<BckSp><BckSp>-p 14<RShft>:0 
+2019-09-24 12:27:35+0530 > how<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>youtube
+2019-09-24 12:28:10+0530 > how do play midi firl <BckSp><BckSp><BckSp>ilel<BckSp><BckSp><BckSp><BckSp><BckSp>ile in kl<BckSp><BckSp>li<Down>
+2019-09-24 12:43:16+0530 > ff <RCtrl>ltotr<BckSp>em <LShft>B<Tab>
+2019-09-24 12:55:10+0530 >  <LCtrl>c
+2019-09-24 13:00:01+0530 > <LCtrl>c
+2019-09-24 13:00:04+0530 > <Right><Up>
+2019-09-24 13:00:14+0530 > <Up>
+2019-09-24 13:00:36+0530 > <LCtrl>c
+2019-09-24 13:01:59+0530 > <LCtrl>c
+2019-09-24 13:02:04+0530 > <Up><Up><Down><BckSp><#+21><BckSp><BckSp><BckSp><BckSp><LCtrl><LShft>T<Tab>
+2019-09-24 13:02:22+0530 > <Down><#+20><Up><Up><#+12><Down><Up><Up><Up><Up><Down><#+13><Up><Up><Up><Right><Right><Left><Left><Left><Left><Left><Left><Left><Left><Up><Up><#+59><Down><#+6><Down><Down><Down><Down><Down><Down><Down><Down><Down><Up><Down><Up><Up><Up><Up><Up><Up><Down><Up><Down><Up><Down><Up><Down><Down><Down><Up><#+11><Down><Down><Down><Down><Down><Down><Down><Down><Down>apsl<BckSp><BckSp><BckSp>plaq<BckSp><Tab>m<Tab>-p 133<RShft>:0 <LShft>B<Tab>
+2019-09-24 13:03:54+0530 > <Up><Left><#+23><Left><Left><BckSp><BckSp><BckSp><BckSp><BckSp>14<RShft>:0
+2019-09-24 13:04:03+0530 > <Up><#+10><BckSp><#+29><LCtrl>c
+2019-09-24 13:04:13+0530 > apl<Tab>m<Tab>
+2019-09-24 13:04:23+0530 > <Up>-p
+2019-09-24 13:04:28+0530 >  pla<Tab><Tab><Tab>m<Tab><BckSp>y<Tab>
+2019-09-24 13:11:52+0530 > <Up>-p
+2019-09-24 13:12:03+0530 > <Up><BckSp>-help
+2019-09-24 13:12:19+0530 > aply<BckSp>ay<Tab><Tab><Tab> <CpsLk><#+1>B<Tab><Tab>
+2019-09-24 13:17:37+0530 > <Up><Left><#+25><Right>MI<BckSp><BckSp><CpsLk>mi<Tab>
+2019-09-24 13:17:54+0530 > <Up><Left><#+40><Del><#+43>alsa<Tab> -p
+2019-09-24 13:18:04+0530 > <Up><BckSp><BckSp>
+2019-09-24 13:18:08+0530 > <BckSp><#+4><Up><BckSp><#+18>pmi<Tab>-p
+2019-09-24 13:18:27+0530 > p<Tab>im<Tab><BckSp><BckSp>mi<Tab>-l
+2019-09-24 13:18:45+0530 > <Up><Up><Down>
+2019-09-24 13:19:16+0530 > <Up><Up><Down>
+2019-09-24 13:20:07+0530 > 
+2019-09-24 13:20:09+0530 > <Up>
+2019-09-24 13:20:11+0530 > <Up>
+2019-09-24 13:20:42+0530 > <Up> -d
+2019-09-24 13:21:42+0530 > <Up> b<LShft><BckSp><LShft>B<Tab>
+2019-09-24 13:21:51+0530 > <Up><Left><#+24><Left><Left><Left><Left><BckSp><BckSp>14<RShft>:0
+2019-09-24 13:22:05+0530 > \<BckSp><Up><Left><#+24><Left><BckSp><#+10><BckSp><BckSp>
+2019-09-24 13:22:18+0530 > <Up><#+8><Down><#+14><BckSp><#+57><Right><#+6><BckSp><#+20><BckSp><BckSp><BckSp><BckSp>
+2019-09-24 13:22:31+0530 > 
+2019-09-24 13:22:32+0530 > 
+2019-09-24 13:22:32+0530 > 
+2019-09-24 13:22:32+0530 > 14<RShft>:
+2019-09-24 13:22:35+0530 > tr<BckSp><BckSp><BckSp><LShft>Te<Tab><Tab><Tab><Tab><Tab><Tab><BckSp><#+28><LCtrl>c
+2019-09-24 13:22:46+0530 > <Up><Up><Up><Down><Up><Up><Up><Up><Up><Up><Down><Down><Up><Up><Up><BckSp><#+45>timidit<#+6>y
+2019-09-24 13:23:50+0530 > <BckSp><BckSp><BckSp>timidity user<Down>
+2019-09-24 13:26:50+0530 >  for linux
+2019-09-24 13:27:16+0530 > <Down><Down><Down><Down><Down><Down><Down><Down><Down><#+4><Down><Down><#+1><Down><Down><Down><Down><Down><Down>
+2019-09-24 13:29:44+0530 > what i have so when <Left><Left><Left><Left><Left><Left><Left><BckSp>t<Right><#+17><Left><Left><Left><Left><Left>od <BckSp><BckSp><BckSp>do<AltGr> <Esc><Left><Right> <Right><#+14>  this error got
+2019-09-24 13:31:15+0530 > <Down><#+9><Down><Down><Down><Down><Down><Up><Down><#+10><Down><#+8><Right><Right><Left><Left><Left><Left><Down><Down><Down><Down><#+4><Down><Down><Down><Down><Down><Down><#+11><Down><#+12><Down><#+9><Down><Down><Down><Down><Down><Down><Down><#+9><Down><Down><#+9><Down><Down>how to e<BckSp>se<BckSp><BckSp>use <Down><Down>
+2019-09-24 13:35:49+0530 > <Down><#+1><Down><Down><Down><Down><Down><#+9> in linux
+2019-09-24 13:36:12+0530 > <Right><Right><Right><LCtrl><Right><#+41>
+2019-09-24 13:36:50+0530 > <#+10><RShft><Down><#+8><Down><Down><Down><Down><Down><Left><#+10><BckSp><#+8><BckSp><BckSp><BckSp><BckSp>zumi<Left><Left><Left><Left> 
+2019-09-24 13:38:29+0530 > \<BckSp>
+2019-09-24 13:38:54+0530 > <Up><Left><#+35>sudo 
+2019-09-24 13:39:03+0530 > zs1006201<#+1>3
+2019-09-24 13:39:10+0530 > <Left><#+27><Left><Left><#+13><Left><Left><Left><Left><Left><BckSp><BckSp><BckSp>zumi
+2019-09-24 13:39:42+0530 > <Up><BckSp><#+41><BckSp><BckSp><BckSp>
+2019-09-24 13:39:50+0530 > <Up><BckSp><#+24><BckSp>sudo aap<BckSp><BckSp>pt-gw<BckSp>et<#+1> indts<BckSp><BckSp><BckSp>dtsll<BckSp><#+9><BckSp><Tab>ti<Tab><Tab>m<Tab>idity<RShft>++
+2019-09-24 13:40:47+0530 > y
+2019-09-24 13:40:50+0530 > <Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Up><Down><Up><Down><Up><Up><Up><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><#+24><Up><Down><Down><Down><Down><Down>how to install sound <BckSp><BckSp>df<Down>ont in linux
+2019-09-24 13:47:54+0530 > <Up><Down><#+1><Down><#+2><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><#+8><Down><Down><Down><Down><Down><Down><Down><#+6><Down><#+8><Up><#+11><Down><#+25><Up><Up><#+4><Up><Up><#+33><LMeta><LCtrl>timidity -i<LShft>A
+2019-09-24 13:50:10+0530 > <Left><#+40><Right><Right>/l<Tab>o<Tab>
+2019-09-24 13:51:09+0530 > <Up><Left><#+62>sodo <BckSp><BckSp><BckSp><BckSp>udo 
+2019-09-24 13:51:21+0530 > <Up><Up><Up>
+2019-09-24 13:51:26+0530 > 
+2019-09-24 13:51:27+0530 > 
+2019-09-24 13:51:28+0530 > 
+2019-09-24 13:51:28+0530 > 
+2019-09-24 13:51:28+0530 > 
+2019-09-24 13:51:28+0530 > <RCtrl>lmidi filr=<BckSp><BckSp>e download o f<BckSp><BckSp>f kehneko jashnna=e ====<BckSp><BckSp><#+1><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>e bahra hai 
+2019-09-24 13:52:54+0530 > midi file dow;<BckSp>nlosd<BckSp><BckSp>ad
+2019-09-24 13:53:53+0530 > <LCtrl><LCtrl><BckSp>pmi<BckSp><BckSp><BckSp>t
+2019-09-24 14:01:32+0530 > totem t<Tab><Tab><Tab>.<Tab>
+2019-09-24 14:02:01+0530 > <Up><BckSp><#+31><F6><Down>
+2019-09-24 14:33:13+0530 > <F6><Down>
+2019-09-24 14:33:17+0530 > <F6><Down>
+2019-09-24 14:33:19+0530 > <Up><Down><Up><Up><Up><Esc><Up><Up><Up><BckSp><#+22>tote<Tab> lu<Tab>iss<Tab><Tab><BckSp><Tab><Tab><Tab> f<Tab><BckSp><BckSp><BckSp><#+27>totem userg<BckSp><BckSp>r guide
+2019-09-24 14:36:32+0530 > <Down><#+11><Down><Down><Down><#+7><Down><#+9><Down><#+9><Down><Down><Down><#+13><Down><#+9><Down><#+11><Down><#+9><Down><#+12><Down><#+20> for <BckSp><#+32>user gid <BckSp><BckSp><BckSp>uide totem fro <BckSp><BckSp><BckSp>or linux
+2019-09-24 14:38:16+0530 > <LCtrl><LCtrl><Down><#+9><Down><Down><Down><Down><#+8><Down><Down><Down><Down><#+1><Down><#+9><Down><Down><Down><Down><Down><Down><Down><#+2><Down><#+11><Down><#+10><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><#+10><Down><Down><Down><Down><Down><Down><Down><#+11><Down><Down><Down><Down><#+5><Down><Down><Down><Down><Down>timidity some/where/
+2019-09-24 14:47:08+0530 > <BckSp><#+15>sudo apet <BckSp><BckSp><BckSp>t <BckSp>-get t<BckSp>in<Tab>t<Tab>i<Tab>m<Tab>idity
+2019-09-24 14:47:37+0530 > zs10062013
+2019-09-24 14:47:43+0530 > <Up><RShft>++
+2019-09-24 14:47:56+0530 > timidity
+2019-09-24 14:48:07+0530 > man timidity
+2019-09-24 14:48:14+0530 > <Down><#+12><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><#+10><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><#+6><Down><Down><Down><Down><Down><Down><Down><Down><#+6><Down><Down><Down><Down><RShft><RCtrl>+<Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><#+11><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><#+1><Down><#+7><Down><#+3><Down><#+15><Down><Down><Down><Down><Down><Down><Down><#+11><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><PrtSc><Down>
+2019-09-24 14:50:19+0530 > <Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><#+12><Down><#+11><Down><#+10><Down><Down><#+11><Down><#+10><Down><#+10><Down><#+8><Up><#+10><Up><#+8><Down><#+8><Down><#+5><Down><Down><Down><Down><#+11><Down><#+10><Down><#+9><Down><#+11><Down><#+11><Down><#+11><Down><#+11><Down><Down><#+8><Down><Down><Down><#+10><Down><#+11><Down><#+13><Down><#+9><Down><#+25><Down><#+28><Down><#+12><Down><#+11><Down><Down><Down><Down><Down><#+11><Down><Down><#+11><Down><#+12><Down><#+17><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><#+11><Down><#+10><Down><#+2><Down><Down><Down><Down><#+14><Down><#+12><Down><#+11><Down><Down><#+10><Down><Down><#+11><Down><Down><#+14><Down><#+15><Down><Down><#+1><Down><#+16><Down><Down><#+15><Down><#+13><Down><#+18><Down><#+9><Down><Down><#+13><Down><Down><Down><Down><Down><Down><#+6><Down><#+10><Down><#+11><Down><#+5><Down><#+14><Down><#+10><Down><#+14><Down><#+9><Down><#+9><Down><#+10><Down><Down><Down><Down><LCtrl>c
+2019-09-24 14:53:11+0530 > timidity -ol<BckSp><BckSp><LShft>Ol
+2019-09-24 14:53:36+0530 > cd u<Tab><Tab><BckSp>/<Tab><#+1>u<Tab>l<Tab><Tab>o<Tab>sh<Tab>/t<Tab><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>ti<Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><#+6><Tab><Tab><Tab><Tab><Tab><Tab><BckSp><BckSp><BckSp>
+2019-09-24 14:54:24+0530 > ls
+2019-09-24 14:54:26+0530 > cd /timidity <BckSp>/t<Tab><Tab><Tab>imidity.con<BckSp><BckSp>fg
+2019-09-24 14:55:06+0530 > <Up><Up><BckSp><#+17>cd 
+2019-09-24 14:55:15+0530 > <Esc><Esc><Esc>qqtimidity.con<Left><Right><BckSp>f<BckSp><BckSp>f<BckSp>of<Left><#+30>man 5 
+2019-09-24 14:56:24+0530 > <Up><Up>
+2019-09-24 14:56:27+0530 > <PgDn>                                                                                                                        
