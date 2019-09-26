@@ -1,0 +1,36 @@
+Logging started ...
+
+2019-09-26 10:02:21+0530 > zs<KP1><KP0><KP0><KP6><KP2><KP0><KP1><KP3>
+2019-09-26 10:16:07+0530 > zs<KP1><KP0><KP0><KP6><KP2><KP0><KP1><KP3>
+2019-09-26 10:24:56+0530 > zs<KP1><KP0><KP0><KP6><KP2><KP0><KP1><KP3>
+2019-09-26 10:31:15+0530 > ble112 client <BckSp><#+8><BckSp><#+2><BckSp><BckSp>master/slave <LShft>Gatt
+2019-09-26 10:31:53+0530 > zs<KP1><KP0><KP0><KP6><KP2><KP0><KP2><BckSp><#+14>zs<KP1><KP0><KP0><KP6><KP2><KP0><KP1><KP3>
+2019-09-26 12:25:51+0530 > nn<F2>note<BckSp><BckSp><BckSp><BckSp><BckSp><Esc>notepad<KP+><KP+>
+2019-09-26 12:30:26+0530 > <LAlt><Tab>nlow<RShft>_power
+2019-09-26 12:30:57+0530 > <LCtrl><LCtrl>nn<LCtrl>vzs<KP1><KP0><KP0><KP6><KP2><KP0><KP1><KP3>
+2019-09-26 12:31:41+0530 > <LAlt><Tab>cd nit<Tab>lo<Tab>w<Tab><RShft>
+2019-09-26 12:32:03+0530 > ls
+2019-09-26 12:32:04+0530 > cd <LShft>Sm<Tab>
+2019-09-26 12:32:08+0530 > ;<BckSp>ls
+2019-09-26 12:32:09+0530 > cd <LShft>SD<BckSp><Tab><Tab><Tab>ou<Tab>
+2019-09-26 12:32:17+0530 > ls
+2019-09-26 12:32:18+0530 > vim a<BckSp>main<Tab>
+2019-09-26 12:32:24+0530 > <Down><#+24><Down><#+16><Down><#+10><Down><#+8><Down><#+2><Down><#+8><Down><#+7><Down><#+5><Down><#+7><Down><#+6><Down><#+9><LShft><LCtrl>Tgrep <RShft><Ins><RShft>"<Left><#+16><RShft>"<Right><#+18> <CpsLk> -r
+2019-09-26 12:34:18+0530 > vim m<BckSp><LShft>Powe<Tab>c<Tab>
+2019-09-26 12:34:36+0530 > <KP/><RShft><Ins>
+2019-09-26 12:34:39+0530 > <Esc><RShft><LCtrl><LShft>T<Up><Left><#+4><Down>grep <RShft>""<Left><RShft><Ins><Right> -r<BckSp><BckSp>-r <BckSp><BckSp><BckSp><CpsLk> -r
+2019-09-26 12:35:13+0530 > <LShft>UAr<Tab><BckSp><BckSp><BckSp><BckSp>vim <LShft>UART<Tab>1.<Tab>c<Tab>
+2019-09-26 12:35:34+0530 > <RShft><KP/><RShft>/<BckSp><BckSp>/<RShft><Ins>
+2019-09-26 12:35:42+0530 > <Down><Left><Down><Down><Down><Up><#+1><Down><Down><Up><#+3><Down><#+6><Down><#+12><Down><#+5><Down><#+4><Up><Up><Up><Up><Up><Up><Down><Up><Up><Right><Right><Down><#+4><Down><#+15><Down><#+10><Down><#+8><Down><#+9><Down><Down><#+8><Down><#+9><Down><#+8><Down><Down><Down><Down><Up><Up><Right><#+14><Down><Right><#+10><Right><#+8><Up><Up><Up><Left><Left><Down><Down><Down><Right><#+14><KP/><RShft><Ins>
+2019-09-26 12:39:01+0530 > nn<LCtrl>c
+2019-09-26 12:39:56+0530 > <LCtrl>v<LCtrl>v<LAlt><Tab><LAlt><Tab><LCtrl>v
+2019-09-26 12:40:10+0530 > <LAlt><Tab><KP/><RShft><Ins>
+2019-09-26 12:41:51+0530 > <Left><#+6><Right><RShft><Ins><Esc><#+3><KP/><RShft><Ins><RShft>:q
+2019-09-26 12:42:04+0530 > <RShft>:q<LShft>!
+2019-09-26 12:42:08+0530 > <Up>
+2019-09-26 12:42:09+0530 > <KP/><RShft><Ins><Left><#+15><Right><Left>i<BckSp><BckSp><Esc><#+2>
+2019-09-26 12:42:18+0530 > 
+2019-09-26 12:42:21+0530 > 
+2019-09-26 12:42:21+0530 > /<RShft><Ins><Left><#+16>
+2019-09-26 12:42:28+0530 > nni<Esc><Down><#+4><Esc><RShft><Up><#+25><KP/>main<RShft>(
+2019-09-26 12:43:27+0530 > <Down><#+39><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Up><#+43><Up><#+18><Down><#+11><Down><#+5><Down><#+10><Down><Down><Down><RShft>*<LCtrl><Down><Down><RShft>*
