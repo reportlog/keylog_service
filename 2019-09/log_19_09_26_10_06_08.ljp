@@ -1,0 +1,95 @@
+Logging started ...
+
+2019-09-26 10:06:08+0530 > gacd <BckSp><BckSp><#+1>ls
+2019-09-26 10:10:14+0530 > ls
+2019-09-26 10:10:17+0530 > cd cm<Tab><BckSp><BckSp><#+16>vim cm<Tab>h
+2019-09-26 10:10:28+0530 > <PgDn><#+14><PgDn><#+25><PgDn><#+38><PgUp><PgUp><#+14><PgUp><PgUp><PgDn><PgDn><LAlt><Tab><Tab><Tab><Tab><Down><Up><Up><Up><#+13><Down><#+24><Down><#+10><Up><Up><Up><#+11><Down><Down><Down><Down><Up><Up><Up><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><#+5><Down><Down><Down><Down><Down><Down><Down><Down><#+18><Down><#+7><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><#+15><Up><#+63><Up><#+14><Up><Up><#+19><Up><#+21><Up><#+11><Up><Up><#+1><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down><#+60><Down><LAlt><Tab><LCtrl><LShft>Tvim ma<Tab>c
+2019-09-26 10:32:11+0530 > <Down><#+104><Down><#+27><Down><#+28><Down><#+27><Down><#+11><Up><#+31><Up><Down><Down><#+42><Down><#+12><Down><Down><Down><Down><#+10><Down><#+13><Down><#+10><Down><#+12><Down><#+18><Down><#+23><Down><#+15><Up><Up><Up><Up><Right><#+17><Down><#+18><Down><#+12><Down><Down><Down><Down><Down><#+9><Down><#+10><Down><#+9><Down><Down><Down><Down><Down><Down><Down><Up><Up><Up><Up><Up><Up><Up><RShft>*<Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><RShft>*<Down><#+19><PgDn><PgDn><PgDn><PgDn><PgDn><Down><Down><#+51><Up><#+13><Down><#+30><Down><#+25><Up><#+37><Down><#+26><Down><Down><#+26><Up><#+19>/output
+2019-09-26 10:35:27+0530 > n<Down><#+1>nnnn<PgDn><PgDn><PgUp><Up><#+57><Down><#+37><Down><#+27>/hn<BckSp>andler
+2019-09-26 10:35:46+0530 > nnnn<#+19><Up><#+46><Down><#+26><PgUp><#+23><PgDn>/msg
+2019-09-26 10:35:59+0530 > <Right><#+17><Right><Right>grep <LShft><Ins> <RShft>* -r
+2019-09-26 10:36:17+0530 > vim co<Tab><BckSp><Tab>c<Tab>
+2019-09-26 10:36:22+0530 > /<LShft><Ins>
+2019-09-26 10:36:24+0530 > <PgUp><#+34><Down><#+1><Up><PgDn><#+39><PgUp><PgUp><PgDn><PgDn><PgDn><PgDn><PgUp><PgUp><RShft>:q
+2019-09-26 10:36:52+0530 > <Up><BckSp><#+23>ls
+2019-09-26 10:36:55+0530 > vu\i<BckSp><BckSp><BckSp>im s<Tab>c<Tab>
+2019-09-26 10:37:04+0530 > <PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><#+4><PgDn><#+2><PgDn><PgUp><RShft>:q
+2019-09-26 10:37:14+0530 > 
+2019-09-26 10:37:14+0530 > 
+2019-09-26 10:37:14+0530 > 
+2019-09-26 10:37:14+0530 > <Up><Up><Up>
+2019-09-26 10:37:18+0530 > <PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><LAlt><Tab><LAlt><Tab><LCtrl>v
+2019-09-26 10:37:57+0530 > <PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><Down><Down><Down><Down><Down><Down><Down><Down><#+23><Down><#+27><Down><#+1><Down><#+7><Down><#+10><Down><Down><#+10><Down><#+25><Down><#+22><Down><#+16><Down><#+14><Down><#+19><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><#+28><PgDn><PgDn><PgDn><#+29><PgDn><#+2><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgDn><PgDn><LMeta><#+4>lzs10062013
+2019-09-26 11:21:11+0530 > <PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><LCtrl><LCtrl>v
+2019-09-26 11:51:02+0530 > <LCtrl><LCtrl>fv
+2019-09-26 11:51:12+0530 > 
+2019-09-26 11:51:13+0530 > 
+2019-09-26 11:51:14+0530 > 
+2019-09-26 11:51:14+0530 > <LCtrl><LCtrl><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><Esc><RShft>:q
+2019-09-26 11:54:16+0530 > make<BckSp><BckSp><BckSp><#+1><BckSp><BckSp>vim mai<Tab>c
+2019-09-26 11:54:25+0530 > q<Down><#+50><Down><#+17><Down><#+30><Down><#+22><Up><#+15><Up><Up><Up><Up><Up><Esc>dd<Esc><RShft>:w
+2019-09-26 11:54:42+0530 > make 
+2019-09-26 11:54:46+0530 > ./th<Tab>/s<BckSp>de<Tab>tty<Tab><LShft>ACM0 adv
+2019-09-26 11:55:00+0530 > vim <Up><#+13><Up><Up>/found
+2019-09-26 11:55:59+0530 > nnn<Down><Down><Down><Down><Down><Down><Down><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down><#+21><Down><Up><#+17><Down><#+18><Down><Down><#+15><Up><#+24><Up><Up><#+14><Down><Up><#+22><Down><#+23><Up><#+35><Up><Up><Up><Up><Up><LCtrl>c
+2019-09-26 11:56:51+0530 > <LAlt><Tab><LCtrl>fv<LAlt><Tab><LAlt><Tab><LCtrl>fv<LAlt><Tab><Down><#+27><Down><Up><#+26><Down><Down>i<Right><Up><#+14><Down><Down><Left><#+17><Left><RShft><Up><#+19><Up><Up><Up><Up><Up><Right><#+23>
+2019-09-26 12:00:28+0530 > <RShft>#if 0<Down><#+27><Up><Up>
+2019-09-26 12:00:34+0530 > <RShft>#endif<Esc><RShft>:w<RShft>!
+2019-09-26 12:00:37+0530 > <Up><Up><Up><Up><Up><Up><Down><Down><Down><Down><Down><Down><Down><Up><Up>
+2019-09-26 12:00:44+0530 > <Up><Up><Up><Down>
+2019-09-26 12:00:46+0530 > <LAlt><Tab><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgDn><LAlt><Tab><LAlt><LAlt><Tab><LAlt><Tab><Down><LAlt><Tab><LAlt><Tab><Down><#+9><Up><PgDn><#+22><PgUp><Down><#+20><Up><#+119><Down><#+27><Up><Up>i
+2019-09-26 12:02:46+0530 > <LShft><Ins>
+2019-09-26 12:02:48+0530 > <RShft>{
+2019-09-26 12:02:49+0530 > <RShft>}<Up><#+14><Esc>yy<Down><#+4><Down><Down><Down><Down><Down><Down><Down>p<Right><#+14><Right><Left><Left><RShft>R<Ins><RShft>Receie<BckSp>ved <LAlt><Tab><LAlt><Tab><LShft><Ins><Del><#+35><Del><Del><Del><Del><Del><Del><Del><Del><Esc><#+1><RShft>:wq<RShft>!
+2019-09-26 12:03:18+0530 > make
+2019-09-26 12:03:20+0530 > <Up><Up>
+2019-09-26 12:03:22+0530 > nn/<LShft><Ins>
+2019-09-26 12:03:26+0530 > <LCtrl>c
+2019-09-26 12:03:30+0530 > make
+2019-09-26 12:03:32+0530 > <LAlt><Tab><LAlt><Tab><RShft>:<Esc><#+1><Up><#+11>i<RShft>E<BckSp><RShft>#if 0<Down><Up><Down><Down><Down><Down><Down><Down>
+2019-09-26 12:04:00+0530 > <RShft>#<BckSp><Up><Up><Up><Up><Up><Up><Up><End><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>
+2019-09-26 12:04:05+0530 > <Esc><RShft>:w<RShft>!
+2019-09-26 12:04:07+0530 > <RShft>:<BckSp>/<LShft><Ins>
+2019-09-26 12:04:16+0530 > nnn<RShft>:q
+2019-09-26 12:04:20+0530 > vi<BckSp><BckSp><LShft><Ins><Home>grep <End> <RShft>* -r
+2019-09-26 12:04:27+0530 > vim st<Tab>c<Tab>
+2019-09-26 12:04:35+0530 > /<LShft><Ins>
+2019-09-26 12:04:37+0530 > <Up>i<RShft>#if<Down><Down><Down><Down><RShft>#endif<Up><Up><Up><Up> 0<Esc><RShft>:wq<RShft>!
+2019-09-26 12:04:48+0530 > <Up><Up><Down><Down><Down>,<BckSp>make
+2019-09-26 12:04:51+0530 > <Up><Up><Up><Down>
+2019-09-26 12:04:55+0530 > fals<BckSp><BckSp><BckSp>lash bluegiga xml configuration
+2019-09-26 12:15:14+0530 > <LCtrl>fxml
+2019-09-26 12:15:37+0530 > 
+2019-09-26 12:15:38+0530 > <LShft><LShft>Hi <LShft>Raghu,
+2019-09-26 15:03:22+0530 > 
+2019-09-26 15:03:23+0530 > 
+2019-09-26 15:03:23+0530 >      <LShft><LShft><LShft>I<#+3> will diss<BckSp>cuss with by tomorrow morning.<Left><#+8><Left><#+24><Right><Right><Right>you <Del><Del>byhave a word with you by end <BckSp><BckSp><BckSp><BckSp>tomorroe<BckSp>w morningdiscuss gma
+2019-09-26 15:12:38+0530 > gma<RCtrl><Down>
+2019-09-26 15:12:54+0530 > srikanth.1792pa<LShft>SSword<LShft>@5mdsangam07<LShft>@gmail.com<LShft>Linux <LShft>Doc<LShft>Hai <LShft>Madhusudan,
+2019-09-26 15:23:02+0530 > 
+2019-09-26 15:23:02+0530 >    <LShft>PFA---
+2019-09-26 15:23:05+0530 > 
+2019-09-26 15:23:06+0530 > <LShft>Regards
+2019-09-26 15:23:08+0530 > <LShft>Srikanth.z<LShft>Hai,
+2019-09-26 16:26:52+0530 > 
+2019-09-26 16:26:52+0530 > 
+2019-09-26 16:26:52+0530 >    <LShft>Below are the replies <LShft><LShft>I am willing to send rah<BckSp>ghy<BckSp>u <BckSp>,reply me if any changes to be done.<LCtrl>c
+2019-09-26 16:27:55+0530 >  
+2019-09-26 16:28:03+0530 > 
+2019-09-26 16:28:03+0530 > 
+2019-09-26 16:28:04+0530 >     <LCtrl>v
+2019-09-26 16:28:09+0530 > <BckSp>
+2019-09-26 16:28:12+0530 > 
+2019-09-26 16:28:12+0530 >       =<RShft>><LShft><Left><Left><LShft>Zumi<Right><Right> <LShft>Lock and <LShft>BLE <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LShft>We have done the <LShft>BLE packets interactions w.r.t all the devices long back <BckSp><#+10><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>and released to you also <LShft>long back.<LShft>W.r.t beaconing we have done in the starting <BckSp><#+14>begining but <LShft>I need  conform <Left><Left><#+12><Left><Left><Left><Left><Left><Left><BckSp>we<End>that once silicon <LShft>Ble functionality is completely up.<LShft>We will release all the packet sheets with in a week time.
+2019-09-26 16:37:33+0530 > <BckSp>
+2019-09-26 16:37:37+0530 > 
+2019-09-26 16:37:37+0530 >       <LShft>Zumi=<RShft>><LShft>I got an updated configuration packet sheet from osmosys today.<LShft>But <LShft>still we need to fix <Left><#+11><Left><Left><#+9><Left><Left><Left><Left><BckSp><BckSp>you<End>the <BckSp><#+15><BckSp><BckSp><#+12><BckSp><BckSp>we need some inputs from you w.r.t the sizes to be allocated to each member of the packets. <Del><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>. <LShft>And w.rt <BckSp><BckSp>.t  how much <BckSp><#+10><BckSp><BckSp><BckSp><BckSp><BckSp>will<Right><Right><Right><#+9><Right><Right><Right>the packet <Del><Del><Del><Del><Left>s<Right><Right><BckSp><LShft> <LShft>I here attached the latest <LShft>Configuartion data sheet released by osmosys and also out data dictionary sheet in wi<BckSp>hich we have roughly coded size for each membr<BckSp>\er<BckSp><BckSp><BckSp>er.<Left> <#+11>  <#+13>       <#+18> <#+17>   
+2019-09-26 16:45:22+0530 > 
+2019-09-26 16:45:23+0530 >        <BckSp><LShft>Zumi <BckSp>=<RShft>> <LShft>Packet format for the <BckSp><BckSp><BckSp>hgis <BckSp><BckSp><BckSp><BckSp>is communication <Left><#+20><Left><Left><Left><Left><Left><Left><Left> document<End>to be done am<BckSp>nd will be released by monday.
+2019-09-26 16:46:30+0530 > 
+2019-09-26 16:46:31+0530 > 
+2019-09-26 16:46:31+0530 >  <#+12><Up> <#+11><LShft>Zumi=<RShft>> <LShft>I already discussed the firmware update procedure with the osmosys team and thayt <BckSp><BckSp><BckSp><BckSp>ey said they have some doubts w.r.t <BckSp><#+10><BckSp><BckSp><Left><#+25><Left><Left><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><End>it seems so they want to discuss with sandy regarding this.<LShft>Our side <Left><Left><Left><Left><Left><Left><Left><Left><Left> <End>firw<BckSp>mware update flow was fine as per our discussion.<Home> <#+16> <#+14>          <LCtrl><RShft><Del>
+2019-09-26 22:22:00+0530 > 
+
+Logging stopped at 2019-09-26 22:22:24+0530
+
