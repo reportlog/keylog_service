@@ -1,0 +1,32 @@
+Logging started ...
+
+2019-09-27 20:32:43+0530 > <LAlt><Tab><LCtrl><LShft>Tcd ../../../yo<Tab>yo<Tab>
+2019-09-27 20:36:37+0530 > ls
+2019-09-27 20:36:39+0530 > cd bu<Tab>tm<Tab>blu<Tab><BckSp><BckSp><BckSp>co<Tab><Tab><BckSp><BckSp>wo<Tab>/co<Tab>blu<Tab>
+2019-09-27 20:36:52+0530 > ls
+2019-09-27 20:36:52+0530 > cd <Tab>
+2019-09-27 20:36:54+0530 > ;s<BckSp><BckSp>ls
+2019-09-27 20:36:56+0530 > cd ../../../../..
+2019-09-27 20:37:01+0530 > <LAlt><Tab><Tab><Tab><LAlt><Tab><LCtrl>c
+2019-09-27 20:37:22+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><Tab>cd ..
+2019-09-27 20:37:26+0530 > <LCtrl><LShft>V
+2019-09-27 20:37:27+0530 > <LAlt><Tab><LCtrl>c
+2019-09-27 20:37:35+0530 > <LAlt><Tab><LCtrl><LShft>V bluez5 -f
+2019-09-27 20:37:41+0530 > <LAlt><Tab><LCtrl>c
+2019-09-27 20:37:50+0530 > <LAlt><Tab><LCtrl>v<LShft><LCtrl><LShft>V bluez5 -f
+2019-09-27 20:38:05+0530 > <LAlt><Tab><LAlt><Tab><Tab><Tab><LAlt><Tab><Tab>cd tm<Tab>wo<Tab>/co<Tab>blu<Tab><Tab><Tab><Tab>
+2019-09-27 20:39:02+0530 > <LAlt><Tab><LAlt><Tab>ls
+2019-09-27 20:39:10+0530 > cd <LAlt><Tab><LAlt><Tab>bl<Tab>
+2019-09-27 20:39:25+0530 > ls
+2019-09-27 20:39:26+0530 > cd te<Tab>
+2019-09-27 20:39:30+0530 > ls
+2019-09-27 20:39:30+0530 > <LAlt><Tab><LAlt><Tab><LAlt><LAlt><Tab><LAlt><Tab>cd ../too<Tab>
+2019-09-27 20:39:47+0530 > ls
+2019-09-27 20:39:48+0530 > <LAlt><Tab><LAlt><Tab>cd ..
+2019-09-27 20:40:26+0530 > cd te<Tab>
+2019-09-27 20:41:12+0530 > ls
+2019-09-27 20:41:13+0530 > ./ex<Tab>g<Tab>se<Tab>
+2019-09-27 20:41:23+0530 > 
+
+Logging stopped at 2019-09-27 20:41:32+0530
+
