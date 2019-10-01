@@ -1,0 +1,77 @@
+Logging started ...
+
+2019-09-30 10:19:56+0530 > ksrtc<Down><Down><Up>
+2019-09-30 14:45:11+0530 > bagalkotban<KP7><KP6><KP7><KP6><KP0><KP6><KP3><KP3><KP9><KP8><Tab>nitish.latni<LShft>@zu<BckSp><BckSp>gmail.com<LShft>Nitish<Tab><KP2><KP4><KP7><KP6><KP7><KP6><KP0><KP6><KP3><KP3><KP9><KP8>nitish.latni<LShft>@gmail.com<LShft>Nitish <LShft>Latni<Tab><KP2><KP4><KP5><KP2><KP4><KP1><KP8><KP1><KP0><KP4><KP0><KP5><KP7><KP8><KP7><KP9><KP7><KP9><KP6><KP2><KP9><CpsLk>NITISH V LATNI<KP7><KP6><BckSp><KP9><KP9><KP1><KP4><KP5>LINU<BckSp><BckSp><BckSp><BckSp><BckSp>LIN
+2019-09-30 15:01:55+0530 > 
+2019-09-30 15:01:55+0530 > 
+2019-09-30 15:01:55+0530 > LS
+2019-09-30 15:01:56+0530 > <CpsLk>ls
+2019-09-30 15:01:59+0530 > cd ni<Tab>
+2019-09-30 15:02:02+0530 > ls
+2019-09-30 15:02:03+0530 > cd ..
+2019-09-30 15:02:07+0530 > cd <BckSp>
+2019-09-30 15:02:26+0530 > c <BckSp>d d<Tab>\\\\<BckSp><#+12><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>ls
+2019-09-30 15:02:36+0530 > cd <LShft>De<Tab>
+2019-09-30 15:02:40+0530 > ls
+2019-09-30 15:02:41+0530 > cd kart<Tab><Tab><Tab><Tab><BckSp><Tab><Tab><BckSp><BckSp><BckSp><LShft>L<BckSp><LShft>K<Tab>
+2019-09-30 15:02:50+0530 > ls
+2019-09-30 15:02:51+0530 > cd <LShft>Sma<Tab>
+2019-09-30 15:02:56+0530 > ls
+2019-09-30 15:02:57+0530 > cd <LShft>So<Tab>
+2019-09-30 15:03:01+0530 > ls
+2019-09-30 15:03:01+0530 > vim <LShft><LShft>L\lin<Tab><BckSp><BckSp><BckSp><BckSp><BckSp>lin<Tab>
+2019-09-30 15:03:17+0530 > <Esc><#+3><RShft>:wq<BckSp><BckSp>q
+2019-09-30 15:03:23+0530 > vim <LShft>UA<Tab><#+1>2<Tab><Tab>c<Tab>
+2019-09-30 15:03:33+0530 > <Down><#+57><Down><#+18><Down><#+6><Down><#+29><Down><#+17><Down><#+14><Down><#+27><Down><#+13><Down><#+15><Down><#+9><Esc><RShft>:q
+2019-09-30 15:03:55+0530 > vim <LShft>I|UA\\<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LShft>UART<Tab>1<Tab>c<Tab>
+2019-09-30 15:04:05+0530 > <Down><#+24><PgDn><Down><#+57><Down><#+15><Down><#+10><Down><#+17><Down><#+16><Down><#+23><Down><#+24><Down><#+4><Esc><RShft>:q
+2019-09-30 15:04:24+0530 > ls
+2019-09-30 15:04:26+0530 > vim n<LShft><BckSp><LShft>M<BckSp><LShft>LI<BckSp><Tab><LShft>P<Tab>
+2019-09-30 15:04:39+0530 > <Down><#+9><Down><#+35><Down><#+15><Down><#+13><Down><#+16><Down><#+11><Down><#+11><Down><#+9><Down><#+10><Esc><RShft>:q
+2019-09-30 15:05:49+0530 > cd ..
+2019-09-30 15:05:53+0530 > cd ..
+2019-09-30 15:05:58+0530 > ls
+2019-09-30 15:05:59+0530 > cd arc<Tab>
+2019-09-30 15:06:04+0530 > ls
+2019-09-30 15:06:05+0530 > cd ..
+2019-09-30 15:06:19+0530 > ls
+2019-09-30 15:06:20+0530 > cd <LShft>Sma<Tab>
+2019-09-30 15:06:24+0530 > l;<BckSp>s
+2019-09-30 15:06:26+0530 > cd <LShft>S<Tab>o<Tab>
+2019-09-30 15:06:30+0530 > ;<BckSp>ls
+2019-09-30 15:06:32+0530 > k<LAlt><Tab><LAlt><Tab><LAlt><LAlt><Esc><LAlt><Tab><LAlt><Tab><LAlt><Tab>v<BckSp>vim <LShft>Li<Tab><LShft>P<Tab>
+2019-09-30 15:08:35+0530 > <LCtrl>c
+2019-09-30 15:08:41+0530 > <LAlt><Tab><RShft><LAlt><Tab><LAlt><Tab><LCtrl>fv<LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab>
+2019-09-30 15:27:45+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><Down><#+28><Up><Right><#+27><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LCtrl>fv
+2019-09-30 15:35:50+0530 > 
+2019-09-30 15:35:52+0530 > <#+3><LAlt><Tab><LAlt><Tab><Left><BckSp><KP4>
+2019-09-30 15:36:02+0530 > <LAlt><Tab><LAlt><Tab><Right><BckSp><BckSp><LShft>A5
+2019-09-30 15:36:10+0530 > 
+2019-09-30 15:36:11+0530 > 
+2019-09-30 15:36:11+0530 > 
+2019-09-30 15:36:11+0530 > 
+2019-09-30 15:36:14+0530 > 
+2019-09-30 15:36:14+0530 > 
+2019-09-30 15:36:14+0530 > <LAlt><Tab><LAlt><LAlt><Tab><LAlt><Tab><LAlt><Tab>
+2019-09-30 15:36:24+0530 > 
+2019-09-30 15:36:24+0530 > 
+2019-09-30 15:36:24+0530 > 
+2019-09-30 15:36:25+0530 > 
+2019-09-30 15:36:25+0530 > 
+2019-09-30 15:36:25+0530 > <LAlt><Tab><LAlt><Tab><LCtrl>v
+2019-09-30 15:36:34+0530 > 
+2019-09-30 15:36:34+0530 > <LCtrl>fv
+2019-09-30 15:36:44+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><BckSp><BckSp><KP2><KP0>
+2019-09-30 15:37:04+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><Down><#+19><Right>i<Right><Right>  <KP/><KP/><LAlt><Tab><LAlt><Tab><LShft>Header byte<LAlt><Tab><LAlt><Tab><Down><Tab><Tab><BckSp>   <KP/><KP/>number of bytes in frame<LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab>
+2019-09-30 15:42:21+0530 > <BckSp><Down>  <KP/><KP/>command<RShft>(set address pointer<Down>  <KP/><KP/><LAlt><Tab><LAlt><Tab><LShft>Address high<LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><Down><Down><KP/><KP/><LShft>Register read<LAlt><LAlt><LAlt><Tab><LAlt><Tab><Left><#+17> <Left><LShft>Command <RShft>(<Right><#+19><RShft>)<Left><LShft> <LShft>N bytes<Left><#+34><Left>  <LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><Down><#+25><Down><Down><Down><Right><#+22><LAlt><Tab><LAlt><LAlt><Tab><Down>  <KP/><KP/><LShft>Number of bytes to read<Down>  <LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><Left><Left><Down><Down><Down><Down><Down><Down><Down><Down><#+30><Up><Up><Right><#+27>  <KP/><KP/>number of bytes<Up><#+17><Up><Up><Up><Right> in frame<Up> <KP/><KP/>headrer<BckSp><BckSp><BckSp>er<Down><Down> <KP/><KP/><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><Down><#+18><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Up>  <KP/><KP/><LAlt><Tab><LAlt><Tab>sewt <BckSp><BckSp><BckSp>t <BckSp>ing address pointer<Left><#+22><Left><Right>t<Right><#+11><Right><#+13><Right><Right><Right><Up><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><Tab><LAlt><LAlt><Tab><LAlt><Tab><LAlt><Tab><Down><#+30><Down><KP/><KP/>checksum<LAlt><Tab><LAlt><Tab><Esc><#+3><Down><#+34><Up><Up><Right><#+30> <Left>i<Right><#+2><Right><Up><Right><#+25><Right><Right><KP/><KP/>header byte<Down>   <KP/><KP/>number of bytes in frame<Down> <KP/><KP/> command <RShft>(to set addres s <BckSp><BckSp><BckSp><BckSp>ss pointer <Down> <KP/><KP/> <LShft>Address high<Down><KP/><KP/><Left><Left> <Right><Right> setting adr<Ins><Ins><Esc>i<Right><BckSp>dress poinet<BckSp><BckSp>ter<Down> <KP/><KP/>comand <BckSp><BckSp><BckSp><BckSp>mand <RShft>(<LShft>Register read <LShft>N bytes<Down><KP/><KP/><Left><Left> <Right><Right> <LShft>Number od n<BckSp><BckSp><BckSp><BckSp>od \<BckSp><BckSp><BckSp>d <#+1><BckSp><BckSp>f bytes to read<Down> <KP/><KP/> checksum<Down><#+14><Down><Down><Down><Down><Down><Down><#+2><Up><Up><Up>commnad <BckSp><BckSp><BckSp><BckSp>an<BckSp><BckSp>and <RShft>(to set address pointer<Down> <KP/><KP/> <BckSp><BckSp><BckSp><Down> <KP/><KP/><LShft>Setting address pointer<Down><KP/><KP/><Left><Left> <Right><Right><LAlt><Tab><LCtrl><BckSp><BckSp><LShft>A<BckSp>0<LShft>A
+2019-09-30 16:09:22+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><Up><#+16><Down><Down><Down><Down><Right><#+28><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><Down><#+15><Down><Down><Down><Down><Down><Down><Right><#+12><Right><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><Up><#+14><Down><Right><#+21><Right><Right><Right><Right><Right><Right> write <LShft>N bytes<LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab>calc<BckSp><BckSp><BckSp><BckSp><Down><Down><BckSp><BckSp><BckSp><BckSp>hex to <Right>
+2019-09-30 16:17:50+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><KP2><BckSp><KP2><KP3><KP2><BckSp><BckSp><BckSp><KP3><KP2>
+2019-09-30 16:18:37+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><Down> <KP/><KP/> <LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><#+1><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><Down><#+24><Down><Down><Down><Right><#+16><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LShft>Auto <LAlt><Tab><LAlt><Tab>- <LShft>Calibrate reactive power gain<LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><Up><#+20> <RShft>(<LShft>Auto calibrate <LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LShft>Gain<LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Esc><LAlt><Tab><LCtrl>f<Esc><#+1><LCtrl>fv<BckSp><#+28><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab>0x<LAlt><Tab><LAlt><Tab>5<LShft>A
+2019-09-30 16:35:52+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><Down><#+24><Down><Down><Down><Down><Down><Down><Down><#+21><Down><#+18><Up><#+62><Up><#+10><Down><#+14><Down><#+13><Down><Down><Down><Down><Down><Down><Up> <BckSp><RShft>) <LAlt><Tab><LAlt><Tab>if it is calibrate can receive <LShft>ACK from <LAlt><Tab><LAlt><Tab><LShft>MCP<LAlt><Tab><LAlt><Tab><BckSp><#+43><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><Up><Up><Up><Up><Up><Up><Up><LShft>Ni<BckSp>o. of bytes to write <Down><Down><Down><Down><Down><#+17><Down><Down><Up><Up><Up><Up><Up><KP/><KP/>header <Down><KP/><KP/><LShft>Number of byte \\\<BckSp><BckSp><BckSp><BckSp>s in frame<Down><KP/><KP/>command <RShft>(to m<BckSp>set address pointer<Down><Down><KP/><KP/>setting adrre\\\<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>dress <Down><KP/><KP/>write commasnd<BckSp><BckSp><BckSp>nd<Down><KP/><KP/>no. of bytes to write<Down><Down><Down><Up><Up><KP/><KP/>data<Down><KP/><KP/>data<Up> to wriet <BckSp><BckSp><BckSp>te<Down> to write<Down><KP/><KP/>check <BckSp>sum<Up><#+23><Up> <KP/><KP/>data to wriete<BckSp><Down><Up><BckSp><BckSp>te<Down> <KP/><KP/>data to write<Down> <KP/><KP/>check <BckSp>sum<Down><#+38><Up><#+26><RShft>:<BckSp><RShft>:w<BckSp><BckSp><Esc><#+8><RShft>:w
+2019-09-30 16:51:41+0530 > <Down><#+15><Down><#+17><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down>i<Right><BckSp><BckSp><BckSp><BckSp><Esc><#+5><RShft>:w
+2019-09-30 16:53:04+0530 > <LAlt><Tab><LAlt><Tab><Down><Down><Down><Down><Down><Down><#+12><Esc><RShft>:w
+2019-09-30 17:29:36+0530 > <Up><Up><Up><Up><Up><Up><Up><Down><#+17><Down><#+30><Down><#+9><Down><Up><#+40><Up><#+15><Up><#+15><Up><#+16><Up><#+18><Up><#+10><Up><#+12><Up><#+15><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down><#+15><Down><#+11><Down><#+50><Down><#+25><Esc><#+11><LMeta><#+9>lzsw<BckSp><BckSp><BckSp>zs<KP1><KP0><KP0><KP6><KP2><KP0><KP1><KP3>
+2019-10-01 10:00:47+0530 > 
+
+Logging stopped at 2019-10-01 10:04:15+0530
+
