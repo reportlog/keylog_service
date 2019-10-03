@@ -1,0 +1,529 @@
+Logging started ...
+
+2019-10-03 12:53:56+0530 >  yocto
+2019-10-03 12:54:56+0530 > <LMeta><#+8>lzs<KP1><KP0><KP0><KP6><KP2><KP0><KP1><KP3>
+2019-10-03 14:29:35+0530 >  flag <BckSp>
+2019-10-03 14:33:30+0530 > <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>
+2019-10-03 14:34:01+0530 > icici net banking
+2019-10-03 14:35:11+0530 > <KP8><KP8><KP8><KP5><KP7><KP7><KP7><KP3><KP2><KP9><KP8><KP1><KP5><KP1><KP8><KP2><KP9><KP7><KP8><KP0>zs<KP1><KP0><KP0><KP6><KP2><KP0><KP1><KP3>
+2019-10-03 14:55:16+0530 > 
+2019-10-03 14:55:42+0530 > 
+2019-10-03 14:55:43+0530 > 
+2019-10-03 14:55:43+0530 > <Esc><RShft>:f
+2019-10-03 14:59:12+0530 > cd ..
+2019-10-03 14:59:15+0530 > cd cdcdc<Esc><RShft>:q<LShft>!
+2019-10-03 14:59:24+0530 > ls
+2019-10-03 14:59:27+0530 > vim ma<Tab>.c
+2019-10-03 14:59:33+0530 > <PgDn><PgDn><PgUp><Esc><RShft>:q
+2019-10-03 14:59:38+0530 > mv ma<Tab>.c ma<Tab><RShft>_test.c
+2019-10-03 14:59:49+0530 > mv ma<Tab><RShft>_o<Tab>ma<Tab>.c
+2019-10-03 14:59:56+0530 > c<BckSp>vim ma<Tab>.c
+2019-10-03 15:00:02+0530 > make cle<Tab>
+2019-10-03 15:00:08+0530 > make
+2019-10-03 15:00:09+0530 > 
+2019-10-03 15:00:13+0530 > 
+2019-10-03 15:00:13+0530 > 
+2019-10-03 15:00:14+0530 > 
+2019-10-03 15:00:14+0530 > 
+2019-10-03 15:00:14+0530 > 
+2019-10-03 15:00:14+0530 > 
+2019-10-03 15:00:14+0530 > cd /bi<Tab>
+2019-10-03 15:00:16+0530 > ./blu<Tab><Tab><Tab><Tab><BckSp><#+26>
+2019-10-03 15:02:12+0530 > 
+2019-10-03 15:02:12+0530 > 
+2019-10-03 15:02:12+0530 > cp cli<Tab>blu<Tab> /tft<Tab>
+2019-10-03 15:02:20+0530 > tftp -r blu<Tab><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp> -g 192.168.1.46
+2019-10-03 15:02:35+0530 > chmod 777 ./blu<Tab>
+2019-10-03 15:02:42+0530 > ./blu<Tab>
+2019-10-03 15:02:45+0530 > powe<Tab>on
+2019-10-03 15:02:52+0530 > menu ga<Tab>
+2019-10-03 15:02:56+0530 > regu<Tab><BckSp>i<Tab>se<Tab>0xffff
+2019-10-03 15:03:07+0530 > regis<Tab>ch<Tab>0xaaaa write
+2019-10-03 15:03:17+0530 > regi<Tab>app<Tab>
+2019-10-03 15:03:25+0530 > 
+2019-10-03 15:03:32+0530 > <LCtrl><LAlt><Tab><LAlt><Tab><LAlt><LAlt><LAlt><Tab><LCtrl>c
+2019-10-03 15:03:56+0530 > <LAlt><Tab><LCtrl><LShft>V
+2019-10-03 15:03:59+0530 > <LAlt><Tab><LCtrl>c
+2019-10-03 15:04:06+0530 > <LAlt><Tab><LCtrl><LShft>V<BckSp><BckSp><BckSp><BckSp>write
+2019-10-03 15:04:11+0530 > <LAlt><Tab><LCtrl>c
+2019-10-03 15:04:16+0530 > <LAlt><Tab><LCtrl><LShft>V
+2019-10-03 15:04:19+0530 > <LAlt><Tab><LAlt><Tab>
+2019-10-03 15:05:10+0530 > 
+2019-10-03 15:05:10+0530 > 
+2019-10-03 15:05:11+0530 > 
+2019-10-03 15:05:11+0530 > 
+2019-10-03 15:05:11+0530 > 
+2019-10-03 15:05:11+0530 > 
+2019-10-03 15:05:12+0530 > cd /bi<Tab>
+2019-10-03 15:05:13+0530 > ./blu<Tab>
+2019-10-03 15:05:16+0530 > poe<BckSp>w<Tab>on
+2019-10-03 15:05:19+0530 > menu ga<Tab>
+2019-10-03 15:05:23+0530 > regi<Tab>se<Tab>0x<LShft>FFFF
+2019-10-03 15:05:31+0530 > regis<Tab>cha<Tab>0x<LShft>AAAA write
+2019-10-03 15:05:41+0530 > e<BckSp>
+2019-10-03 15:05:45+0530 > reg<Tab>app<Tab>
+2019-10-03 15:05:50+0530 > <LCtrl>c
+2019-10-03 15:05:55+0530 > c
+2019-10-03 15:05:56+0530 > <LCtrl><Esc><RShft>:q
+2019-10-03 15:06:18+0530 > mv ma<Tab>.c a<BckSp>ma<Tab><RShft>_org.c
+2019-10-03 15:06:27+0530 > ma<BckSp>v ma<Tab><RShft>_te<Tab>ma<Tab>.c
+2019-10-03 15:06:35+0530 > vim ma<Tab>.c
+2019-10-03 15:06:39+0530 > <PgDn><#+40><Up><#+115><Down><#+51><Up><#+21><Right><Right><#+12><Up><Up><Up><Down><Down><Down><Down><Down><Down><Right><#+9><Up><Up><Up><Up><Up><Left><#+25>i//<Down><Down><Down><Down><Right><#+4><Down><Down><Down><Right><#+13><Up><Right><#+32><Up><#+7><Esc><Up><#+43><Down><Up><#+5><Down><#+55><Down><#+13><Down><#+7><Down><#+6><Down><#+5><Down><#+10><Up><#+26><Up><Up><Down><RShft>*nn<Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down><#+22><Down><Down><Down><Up><Down><Down><Down><Down><Down><#+1><Up><Up><Up><Up><Up><Up><Down><Down><#+13><Down><Down><Down><Up><Up><Up><#+11><Down><Down><Down><Esc>yy<Up><Up><Up><Up><Up><Up><Up><Up>p<Right><#+23><Right>i<BckSp>1<Right>;
+2019-10-03 15:10:53+0530 >  <#+29>  <Esc><Up><#+12><Down><Down><Down><Right><Right><Right><Right><Right><RShft>*nnn<Down><Up><Down>  <Up> <#+20><Up> <#+19><Left><Up> <#+21>       <Up><Up><End>i<Right>
+2019-10-03 15:12:55+0530 >  <#+31> <LCtrl><LShft>Tcd <BckSp><#+12>vm<BckSp>m ma<Tab>.c<BckSp><BckSp><RShft>_o<Tab>
+2019-10-03 15:13:16+0530 > <LCtrl>vim ma<Tab><RShft>_o<Tab>
+2019-10-03 15:13:21+0530 > /pair
+2019-10-03 15:13:24+0530 > nnnnnnnnnnnnn<Down><#+13>back
+2019-10-03 15:14:21+0530 > <LAlt><Tab><LAlt><Tab><LShft><Ins><RShft>();<Left><Left>mac<Esc><Down><#+15><Up><Up><Right><#+12><Left><RShft>*n<Up><#+23><Up><#+7><Down>nn<Down><#+34><Up><#+15><Up><Up><Up><Up><Down>i
+2019-10-03 15:15:45+0530 > 
+2019-10-03 15:15:45+0530 > <Up><Up><LShft><Ins><Up><#+14><Up><Up><Up><Up><Right><Right><#+22><Down><Down><Down><Esc><Up><#+18><Up><Down><Down><Down><Up><Left><#+25><Right><Right><Right><RShft>*******/<LShft><Ins>
+2019-10-03 15:16:42+0530 > nnnnn<Up><Up><Up><Up><Up><Down><Right><#+14><Right><Right><Right>i<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><Right><Right><#+11><Right><Right><Right><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>mac<Down><Down><Down><Down><Esc>i<Left><#+21><Left><Right><Esc>yyp<Up>i<Left>//<Down><Right><#+33><BckSp><#+21><BckSp><BckSp><LShft><Ins><Down><Down><Down><Down><Down><Down><#+14><Esc><RShft>:w
+2019-10-03 15:18:28+0530 > <PgDn><#+37><Up><#+89><Down><#+20><Down><Down><Down><Down><Down><Right><#+26><Right><Right><Right><RShft>*<Down><#+20><Down><Down><Down><Down><Up><#+22><Right><#+16><RShft>*<Right><Right><#+22>i<Right>
+2019-10-03 15:19:20+0530 >  <#+33><BckSp><BckSp><LShft><Ins><RShft>()<Left>mac<Right>;<Esc><RShft>:w
+2019-10-03 15:19:30+0530 > <Up><Left><#+10><Left><RShft>*<Down><#+15><Down><Down><Down><Down>i<Down><LShft><Ins><Up><#+17><Up>//<Up><#+20><Esc>yy<Down><#+17><Down><Down><Down>p<Up><Up><Up><Up><Up><Up><Up><Right><#+29><Left><Left><Right><Right><Right><Right><Right><Right><BckSp><BckSp><BckSp><BckSp><BckSp>i<Right><Right><Right><Right><Right><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>mac<Left><#+11><Left><Left><Right><BckSp><#+11><BckSp><BckSp><Esc><RShft>:w
+2019-10-03 15:20:19+0530 > <Left><Left><Left><RShft>*<Up><Up><Right><#+29>i<Right>
+2019-10-03 15:20:33+0530 >  <#+31>  printf<RShft>();<Left><Left><RShft>"<#+3><RShft>"<Left>connection over\n<Esc><RShft>:e<BckSp>w
+2019-10-03 15:20:53+0530 > <Up><Up> cle<Tab>
+2019-10-03 15:20:59+0530 > make
+2019-10-03 15:21:01+0530 > /<LShft><Ins>
+2019-10-03 15:21:21+0530 > <Down><Down><Up><Left><#+9><Left><RShft>*<Up><Up><Up><#+34><Down><#+13><Down><Down><Down><Down>i<LShft><Ins><Esc><RShft>:w
+2019-10-03 15:21:43+0530 > <Esc><RShft>:w
+2019-10-03 15:21:54+0530 > <Up>
+2019-10-03 15:21:57+0530 > <LShft>?<BckSp>/<LShft><Ins>
+2019-10-03 15:22:24+0530 > /<LShft><Ins>
+2019-10-03 15:22:37+0530 > <Up><#+25><Down><#+12><Down>i
+2019-10-03 15:22:51+0530 > 
+2019-10-03 15:22:51+0530 > <Up><LShft><Ins><Esc><RShft>:w
+2019-10-03 15:22:54+0530 > <Up>
+2019-10-03 15:22:57+0530 > <Up><Up><Up>
+2019-10-03 15:24:41+0530 > <Up><Down>quit
+2019-10-03 15:24:46+0530 > <Up><Up><Up><Up><Up><Down><Down><Down><Down><Down>
+2019-10-03 15:25:29+0530 > 
+2019-10-03 15:25:29+0530 > cd <BckSp><#+13>./blu<Tab><Tab><Tab><BckSp><#+26><Up><Up><Up><Up><Up><Up><Down>
+2019-10-03 15:25:44+0530 > ./b<BckSp><#+14><Up><Up><Up><Up><Up>
+2019-10-03 15:25:50+0530 > <Up><Up><Up><Up><Down>
+2019-10-03 15:25:54+0530 > <LCtrl>c
+2019-10-03 15:26:03+0530 > <Up>
+2019-10-03 15:26:08+0530 > <LCtrl>c
+2019-10-03 15:27:15+0530 > <Up><Up><Up><#+8><Up><Up><Up><Up><Up><Up><Up><Right><#+25><Up><Up><Up><Up><Up><Up><Up><Left><#+17><Down><Down>i<Right><Right><#+16>
+2019-10-03 15:28:14+0530 >  <#+11>  <RShft>{<Down><Down> <#+10>   <RShft>}<Up><Up>
+2019-10-03 15:28:22+0530 >  <#+14>   printf<RShft>()l<BckSp>;<Left><Left><RShft>""<Left>pair failed\n<Down><Down><Down><Down><Down><Left><#+13><Left><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><Down><Down><Down><Down><Esc><RShft>:w
+2019-10-03 15:28:58+0530 > ./blu<Tab><Tab><Tab><BckSp><#+22>./blu<Tab><BckSp><#+19>
+2019-10-03 15:29:34+0530 > 
+2019-10-03 15:29:45+0530 > 
+2019-10-03 15:29:45+0530 > 
+2019-10-03 15:29:48+0530 > 
+2019-10-03 15:29:48+0530 > 
+2019-10-03 15:29:48+0530 > 
+2019-10-03 15:29:48+0530 > 
+2019-10-03 15:29:49+0530 > 
+2019-10-03 15:29:49+0530 > cd /bi<Tab>
+2019-10-03 15:29:51+0530 > ./blu<Tab><RShft>_t<Tab>
+2019-10-03 15:29:55+0530 > <LCtrl>c
+2019-10-03 15:30:28+0530 > <Up><Up><Down>
+2019-10-03 15:30:31+0530 > <LCtrl><LCtrl>c
+2019-10-03 15:31:30+0530 > <Up>
+2019-10-03 15:31:37+0530 > <LCtrl>c
+2019-10-03 15:32:08+0530 > 
+2019-10-03 15:32:10+0530 > 
+2019-10-03 15:32:10+0530 > 
+2019-10-03 15:32:10+0530 > <Down><#+23><Up><#+27><Up><Up><Up><Esc>yy<Down><#+15><Down><Down><Down><Down><Down><Down><Down>p<Up><Right><#+11>i<Right>
+2019-10-03 15:32:57+0530 > <RShft>{<BckSp> <#+11><RShft>{<Down><Down><Down> <#+13><BckSp><RShft>}<Down><Down><Down><Down><Down><#+17><Up><#+19><Esc><RShft>:w
+2019-10-03 15:33:17+0530 > <Down><Down><Up><#+10><Down><Right><#+21>i<Left><Left><Left><Right><BckSp><BckSp><BckSp><BckSp>trust<Down><#+13><Down><Down><Down><Down><Down><Down><Down><Up><#+13><Up><Up><Up><Up><Up><Up><Esc><RShft>:q<BckSp>w
+2019-10-03 15:37:31+0530 > <Up><Up>
+2019-10-03 15:37:35+0530 > <Up><Up>
+2019-10-03 15:37:37+0530 > <Up><Up><Up><Up><Up>
+2019-10-03 15:37:43+0530 > <Up><Up><Up><Up><Up>
+2019-10-03 15:37:48+0530 > <Up><Up><Up><Up><Up>
+2019-10-03 15:37:53+0530 > <LCtrl>c
+2019-10-03 15:38:08+0530 > 
+2019-10-03 15:38:42+0530 > 
+2019-10-03 15:38:48+0530 > 
+2019-10-03 15:38:49+0530 > cd /bi<Tab>
+2019-10-03 15:38:50+0530 > ./blu<Tab>
+2019-10-03 15:38:53+0530 > <LCtrl>c
+2019-10-03 15:39:03+0530 > <Down><#+44><Up><#+3><Down><#+79><Down><#+18><Up><#+17><Right><#+21><Right><Right><Right>i<Down><Down><Down><Up><Up><Down><Left><#+13><Left><Up><End>
+2019-10-03 15:39:33+0530 >  <#+5><Up><Up><Right><#+23><Right><Right>how to stop a t<BckSp><BckSp>t whle <BckSp><BckSp><BckSp>ile <Down><Down><Down><Down> <Down><Down>
+2019-10-03 15:40:06+0530 > while<RShft>(); in c
+2019-10-03 15:41:21+0530 > <LAlt><Tab><Right><#+8><BckSp> 0<Left><#+18><Left><Left><Left><RShft><LShft>!<RShft>(<Right><#+20><Right><RShft>)<Left><Left><Right><BckSp>1<Esc><RShft>:w
+2019-10-03 15:44:14+0530 > <Up><Up>
+2019-10-03 15:44:18+0530 > <Up><Up><Up><Down>
+2019-10-03 15:44:25+0530 > 
+2019-10-03 15:44:30+0530 > 
+2019-10-03 15:44:31+0530 > 
+2019-10-03 15:44:31+0530 > 
+2019-10-03 15:44:31+0530 > <Up><Up><Up><Up><Up>
+2019-10-03 15:44:34+0530 > <Up><Up><Up><Up><Up>
+2019-10-03 15:44:37+0530 > <Up><Up><Up>
+2019-10-03 15:44:39+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab>nnnnnnnnn<Up><#+16><Up><Left><Left><RShft>*nnnnn<Up><#+25><Up><Down><#+22><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><Tab><LAlt><Tab><Tab><LAlt><Tab><Tab><Tab><Tab><Tab><Down><Down><Up><PgUp><#+22><Up><#+6><Down><#+46><Up><#+19><Up><Up><Esc>yyp<Right><#+22><Left><#+17><Right>iadv<RShft>_<Esc><Down><#+12><Down><Left><Left><Left><Left><Left><RShft>*<Down><Down>i<Up><#+4><Right><#+29>
+2019-10-03 15:50:41+0530 >  <#+10>  <LShft><Ins> = 1;<Esc><Down><#+11><PgDn><#+31><Up><#+102><Down><#+22><Right><#+27><Left>i<BckSp><#+14><BckSp><BckSp><BckSp><LShft><Ins><Esc><RShft>:w
+2019-10-03 15:51:08+0530 > <Up><Up>
+2019-10-03 15:51:12+0530 > <Up><Up><Up><Down>
+2019-10-03 15:51:16+0530 > <LCtrl>c
+2019-10-03 15:51:20+0530 > <Up><Up><Up>
+2019-10-03 15:51:24+0530 > <Up><Up><Up>
+2019-10-03 15:51:26+0530 > <Up><Up><Up>
+2019-10-03 15:51:28+0530 > <LCtrl>c
+2019-10-03 15:51:33+0530 > c
+2019-10-03 15:51:33+0530 > c
+2019-10-03 15:51:34+0530 > c
+2019-10-03 15:51:34+0530 > c
+2019-10-03 15:51:34+0530 > c
+2019-10-03 15:51:34+0530 > 
+2019-10-03 15:51:35+0530 > 
+2019-10-03 15:51:35+0530 > 
+2019-10-03 15:51:36+0530 > 
+2019-10-03 15:51:36+0530 > 
+2019-10-03 15:51:36+0530 > <Up>
+2019-10-03 15:51:41+0530 > <Up><#+71>/mac
+2019-10-03 15:52:45+0530 > nnnn<Up><#+14><LMeta><#+7>lzs<KP1><KP0><KP0><KP6><KP2><KP0><KP1><KP3>
+2019-10-03 16:11:51+0530 > <Up><Up><Up><Up><#+19><Up><Up><Up><Esc>dd<Down><Down><Down><Down><Down><#+11><Down><Down><Down><Down>p<Right><Right><#+7><Right><Right><Right>i<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>extern<Esc>/<RShft><Ins>
+2019-10-03 16:13:07+0530 > /<Up><Down><RShft><Ins>
+2019-10-03 16:13:28+0530 > n<Down><#+16><Down><Down><Down><Down>i<Up><Right><#+20>
+2019-10-03 16:13:57+0530 >  <#+13><LShft><Ins> = 1;<Esc><RShft>:w
+2019-10-03 16:14:04+0530 > <Right><#+6><Right><Up><Up><Up><Up><Up><Right><#+17><Up><Down><Right><Right><RShft>*<Down><Right><Down><Right><#+21>i<Right>
+2019-10-03 16:14:47+0530 > uint8<RShft>_t <LShft><Ins> = 0;<Esc><RShft>:w
+2019-10-03 16:14:57+0530 > <Up><Left>ichar <Down><Left><Left><Left><Left><Left>char <Down><Left><Up><BckSp><BckSp><BckSp><BckSp>uint8<LShft>_t<Esc><RShft>:w
+2019-10-03 16:15:35+0530 > <Right><Right><RShft>*<Esc>ddn<Esc><RShft>:w
+2019-10-03 16:15:44+0530 > <Up><Up>
+2019-10-03 16:15:48+0530 > ni<Left><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><Right><BckSp><Up><Right><Right><Right><Right><BckSp><BckSp><BckSp><BckSp><Esc><RShft>:w
+2019-10-03 16:16:09+0530 > <Up><Up><Down>
+2019-10-03 16:16:14+0530 > <Left><#+13>nnnnn<Down><Right><#+22><Right><Right>i<BckSp><BckSp><BckSp><Left><#+17><Left><Left><Left><Left>uint8<LShft>_t <Up><Left><#+9><Left><Left>char <Right><#+3><Down><Right><#+22><BckSp><Esc><RShft>:w
+2019-10-03 16:17:00+0530 > <Up>
+2019-10-03 16:17:03+0530 > <Up><Up>
+2019-10-03 16:17:05+0530 > 
+2019-10-03 16:17:08+0530 > 
+2019-10-03 16:17:08+0530 > 
+2019-10-03 16:17:08+0530 > 
+2019-10-03 16:17:08+0530 > <LCtrl>c
+2019-10-03 16:17:09+0530 > c
+2019-10-03 16:17:09+0530 > c
+2019-10-03 16:17:10+0530 > <Up><Up><Up>
+2019-10-03 16:17:12+0530 > <Up><Up><Up>
+2019-10-03 16:17:14+0530 > <Up><Up><Up>
+2019-10-03 16:17:16+0530 > <LCtrl>c
+2019-10-03 16:17:29+0530 > n<LAlt><Tab><Right><#+23>i<BckSp>0<Esc><RShft>:w
+2019-10-03 16:18:49+0530 > <Up><Up>
+2019-10-03 16:18:53+0530 > <Up><Up>
+2019-10-03 16:18:55+0530 > <Up><Up><Up>
+2019-10-03 16:18:59+0530 > <Up><Up><Up>
+2019-10-03 16:19:01+0530 > <Up><Up><Up>
+2019-10-03 16:19:03+0530 > n<Down><#+22><Up><Up><Up><Up><Up><Up><Down><Esc>dd<Up><#+23><Up>p<Esc><RShft>:w
+2019-10-03 16:20:18+0530 > <Up><Up>
+2019-10-03 16:20:22+0530 > <Up><Up>
+2019-10-03 16:20:24+0530 > 
+2019-10-03 16:20:27+0530 > 
+2019-10-03 16:20:27+0530 > <LCtrl>c
+2019-10-03 16:20:28+0530 > c
+2019-10-03 16:20:28+0530 > c
+2019-10-03 16:20:28+0530 > c
+2019-10-03 16:20:28+0530 > <Up><Up><Up>
+2019-10-03 16:20:31+0530 > <Up><Up><Up>
+2019-10-03 16:20:34+0530 > <Up><Up><Up>
+2019-10-03 16:20:36+0530 > <LCtrl>c
+2019-10-03 16:20:39+0530 > c
+2019-10-03 16:20:39+0530 > c
+2019-10-03 16:20:39+0530 > c
+2019-10-03 16:20:40+0530 > c
+2019-10-03 16:20:40+0530 > <Up><Up><Down>
+2019-10-03 16:20:49+0530 > <LCtrl>c
+2019-10-03 16:22:39+0530 > <Down><#+21><Up><#+21><Esc>dd<Up><#+17><Up><#+14><Up><#+20><Down><#+14>pi <#+22>  <Esc><RShft>:w
+2019-10-03 16:24:42+0530 > <PgUp><#+19><Down><#+59><Up><#+17><Up><Up><Esc>dd<PgUp><#+31><Down><#+40><Up><#+14><Up><Up><Right><Right><Right><Right><Right><Right><Right>i<BckSp><BckSp><BckSp><BckSp><#+1><BckSp><BckSp><BckSp><Right><#+24><Right><Right>=0;<Esc><RShft>:w
+2019-10-03 16:25:11+0530 > <Up><Up>
+2019-10-03 16:25:25+0530 > nnnnnn<Up><Up><Up><Up><Down> cle<Tab>
+2019-10-03 16:25:53+0530 > <Up><Up>
+2019-10-03 16:25:54+0530 > /<LShft><Ins>
+2019-10-03 16:26:22+0530 > <Up><Down><Left><#+18><RShft>*nn<Up><Up>
+2019-10-03 16:26:46+0530 > <Up><Up>
+2019-10-03 16:26:49+0530 > <Right><#+15><Down><#+3><Up><RShft>*n<Esc><RShft>:wq
+2019-10-03 16:27:28+0530 > <Up>
+2019-10-03 16:27:29+0530 > <Down><#+65>/<Up>
+2019-10-03 16:27:36+0530 > <Up><Up>
+2019-10-03 16:27:40+0530 > <Up><Up>
+2019-10-03 16:27:41+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Down>
+2019-10-03 16:30:27+0530 > 
+2019-10-03 16:30:29+0530 > 
+2019-10-03 16:30:30+0530 > 
+2019-10-03 16:30:30+0530 > 
+2019-10-03 16:30:30+0530 > <Up><Up><Up>
+2019-10-03 16:30:31+0530 > <Up><Up><Up>
+2019-10-03 16:30:33+0530 > <Up><Up><Up>
+2019-10-03 16:30:35+0530 > <LCtrl>c
+2019-10-03 16:30:44+0530 > <Down><Down><Down><Down><Up><Up><Down><Up><Up><Up><RShft>*n<Up><#+31><Down><#+32><Up><Up><Down><Up><Esc>dd<Up><Up><Up><Up><Up><Up><Up><Right><#+15><Up><Up><Right>i<Down><Down> <#+30>  <Esc><Up><Esc>p<Esc><RShft>:w
+2019-10-03 16:32:27+0530 > <Up><Up>
+2019-10-03 16:32:30+0530 > <Up><Up><Up><Down>
+2019-10-03 16:32:33+0530 > <Up><Up><Up><Down><Down><Down><Down>rm ./blu<Tab>
+2019-10-03 16:32:44+0530 > <Up><Up><Up><Up>
+2019-10-03 16:32:47+0530 > <Up><Up><Up><Down><Up><Up>
+2019-10-03 16:32:51+0530 > <Up><Up><Up><Up>
+2019-10-03 16:32:54+0530 > <LCtrl>c
+2019-10-03 16:33:03+0530 > <Up><#+3><Down><Down><Up><Up><#+56><Up><#+15><Up><#+37><Down><#+18><Down><#+37><Up><#+93><Up><#+25><Up><#+18><Up><#+63><Up><#+22><Down><#+32><Down><Down><Down><Up><RShft>*nnn<Up><#+13><Up><Up><Up><RShft>*<Down><#+27>n<Down><#+12><Down><#+25>/<Up><Up><Up>
+2019-10-03 16:34:39+0530 > <Esc>dd/<Up><Up>
+2019-10-03 16:34:43+0530 > ni<Right><#+28>
+2019-10-03 16:34:51+0530 >  <#+13>     <Up><Esc>pi<BckSp><#+16><BckSp><Down><Del><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><Right><Right><Left><BckSp><Esc><RShft>:w
+2019-10-03 16:35:08+0530 > <Up><Up>
+2019-10-03 16:35:11+0530 > <Up><Up>
+2019-10-03 16:35:14+0530 > <Up><Up><Up><Up>
+2019-10-03 16:35:18+0530 > <Up><Up><Up><Up>
+2019-10-03 16:35:21+0530 > <Up><Up><Up><Up>
+2019-10-03 16:35:23+0530 > <Up><Up><Up><Up>
+2019-10-03 16:35:26+0530 > <LCtrl>c
+2019-10-03 16:35:34+0530 > <Up><Right><#+11><RShft>*nn<Up><Right><#+27>i<Right>
+2019-10-03 16:36:28+0530 >  <#+17>printf<RShft>();<Left><Left><RShft>""<Left>dsfsdfgfggfgggfgg<LShft>*<#+20><Esc><RShft>:w
+2019-10-03 16:36:43+0530 > <Up><Up>
+2019-10-03 16:36:46+0530 > <Up><Up>
+2019-10-03 16:36:48+0530 > <Up><Up><Up>
+2019-10-03 16:36:55+0530 > <Up><Up><Up>
+2019-10-03 16:36:57+0530 > <Up><Up><Up>
+2019-10-03 16:36:58+0530 > <LCtrl>c
+2019-10-03 16:37:11+0530 > c
+2019-10-03 16:37:12+0530 > <Up><Up><Down>
+2019-10-03 16:37:14+0530 > <LCtrl>c
+2019-10-03 16:37:32+0530 > <Esc>ddn<LAlt><Tab><LAlt><Tab><Down><#+18><Up><LAlt><Tab><#+1><LAlt><Tab><Down><#+15><Down><Down><#+7><Down><#+11><Down><#+9><Down><#+18><Up><#+11><Down><#+24><Down><#+2><Down><Down><Down><#+12><Down><#+15><Down><#+2><Down><#+17><Up><#+34><LAlt><Tab><Left><Left><Right>i<BckSp><Esc><RShft>:w
+2019-10-03 16:39:56+0530 > <Right><Right>i<BckSp><Right><#+25><Left><Left><BckSp><BckSp>1<BckSp>0<Esc><RShft>:w
+2019-10-03 16:40:37+0530 > <Up><Up>
+2019-10-03 16:40:40+0530 > <Up><Up><Up>
+2019-10-03 16:40:43+0530 > <Up><Up><Down> <Down><BckSp><#+7><Up><Up>
+2019-10-03 16:41:00+0530 > <Up><Up><Up>
+2019-10-03 16:41:04+0530 > <Up><Up><Up>
+2019-10-03 16:41:07+0530 > <Up><Up><Up>
+2019-10-03 16:41:08+0530 > <LCtrl>c
+2019-10-03 16:44:31+0530 > <Down><#+25><Up><#+28><Up><#+23><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><#+11><Down><Down><Down><Down><Down><Down><Up><#+18><Down><Down><Down><Down><Down><Down><Down><#+2><Down><Down><Down><Down><#+13><Down><Down><Down><KP1><Down><#+24><Up><#+44><Down><Up><Up><#+7><Down><#+13><Down><Down><#+19><Down><Down><Down>/<LShft><Ins>
+2019-10-03 16:48:48+0530 > /<LShft><Ins>
+2019-10-03 16:48:53+0530 > /<LShft><Ins>
+2019-10-03 16:49:05+0530 > /<LShft><Ins>
+2019-10-03 16:49:19+0530 > nn<LAlt><Tab><LAlt><Tab>nnnnnnnnnnn<LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab>/<LShft><Ins>
+2019-10-03 16:50:18+0530 > n<Down><#+12>n<Down><Down><Down><Down><Down>n<Up><#+52><Up><#+17><Up><#+9><Down><#+22><Down><Down><Down><#+16><Down><#+15><Down><#+10><Down><#+19><Down><#+22><Up><#+35><Up><#+42><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Up><#+26><Down><#+9><Up><Up><Left><#+31><RShft>*nn<Up><#+99><Down><#+29>nn<Down><#+34><Up><#+18>i<Right><#+17><Down><LShft><Ins> = 1;
+2019-10-03 16:51:52+0530 > <BckSp><Esc><Left><Left><#+12><Left><Left><RShft>*nndd<Esc><RShft>:w
+2019-10-03 16:52:07+0530 > <Up><Up>
+2019-10-03 16:52:10+0530 > <Up><Up><Up><Down>
+2019-10-03 16:52:13+0530 > <Up><Up><Up>
+2019-10-03 16:52:17+0530 > <Up><Up><Up>
+2019-10-03 16:52:19+0530 > <Up><Up><Up>
+2019-10-03 16:52:21+0530 > <LCtrl>c
+2019-10-03 16:53:19+0530 > nnnn<Esc>ddn<Down><Down><Down><Down><Up><Right><#+11><RShft>*nnn<Up><#+24><Up><Down><#+24><Down><Down><Down><Up><Up><#+12><Up><Right><#+26><Right><Right><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Up>i<Right>
+2019-10-03 16:55:19+0530 >  <#+13><BckSp><BckSp>printf<RShft>();<Left><Left><RShft>""<Left><LShft>&<#+36><Esc><RShft>:w
+2019-10-03 16:55:32+0530 > <Up><Up>
+2019-10-03 16:55:35+0530 > <Up><Up>
+2019-10-03 16:55:37+0530 > <Up><Up><Up><Down><Down><Down><Down>rm ./blu<Tab>
+2019-10-03 16:55:46+0530 > <Up><Up><Up><Up>
+2019-10-03 16:55:48+0530 > <Up><Up><Up><Up>
+2019-10-03 16:55:51+0530 > <Up><Up><Up><Up>
+2019-10-03 16:55:54+0530 > <LCtrl>c
+2019-10-03 16:56:06+0530 > <Up><Up><Down>
+2019-10-03 16:56:09+0530 > <LCtrl>v<LCtrl>c
+2019-10-03 16:56:53+0530 > c
+2019-10-03 16:56:53+0530 > <Esc>dd/<Up><Up>
+2019-10-03 16:57:02+0530 > nnnn/<Up><Up>
+2019-10-03 16:57:13+0530 > nnnn<Up><Right><#+25>i<Right>
+2019-10-03 16:57:21+0530 > <LShft><Ins> = 1;<Left><#+23><Left> <#+9>  <Esc><RShft>:w
+2019-10-03 16:57:35+0530 > nn/<Up><Up>
+2019-10-03 16:57:54+0530 > <Down><Down><Down><Down><#+11><Down><Down><RShft>*nn<Up><#+9><Up><Up><Up><Up><Up><Up><Up><Up><Up><Right><#+21><Right><Right><Right><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><Esc><RShft>:w
+2019-10-03 17:03:53+0530 > <Down><Down><Down><Up><Esc>dd<Esc><RShft>:w
+2019-10-03 17:04:00+0530 > <Up><Up>
+2019-10-03 17:04:04+0530 > <Up><Up><Up><Up>
+2019-10-03 17:04:06+0530 > <Up><Up><Up><Down><Up><Up>
+2019-10-03 17:04:11+0530 > <Up><Up><Up><Up>
+2019-10-03 17:04:13+0530 > <Up><Up><Up><Up>
+2019-10-03 17:04:15+0530 > <Up><Up><Up><Up>
+2019-10-03 17:04:18+0530 > <Down><Down><#+15><Down><Down><Down><Right><#+21>i<Right>
+2019-10-03 17:05:45+0530 >  <#+26>     whle <BckSp><RShft>(1<RShft>);<BckSp><Left><Left><Left><Left><Left>i<Right><#+11><RShft>{<Down><Down><Down><Down><Down><RShft>}<Esc><RShft>:w
+2019-10-03 17:06:04+0530 > <Up><Up>
+2019-10-03 17:06:07+0530 > <Up><Up><Up><Down>
+2019-10-03 17:06:09+0530 > <Up><Up><LCtrl>c
+2019-10-03 17:06:13+0530 > <Up><Up><Up><Up>
+2019-10-03 17:06:15+0530 > <Up><Up><Up><Up>
+2019-10-03 17:06:17+0530 > <Up><Up><Up>
+2019-10-03 17:06:20+0530 > <Up><Up><Up><Up><Up>
+2019-10-03 17:06:23+0530 > <Up><Up><Up><Up><Down><Down>
+2019-10-03 17:06:25+0530 > <LCtrl>c
+2019-10-03 17:07:05+0530 > <Up><#+11><Down><Down><Down><Down><Esc><Right><Esc>yy<Up><Up>p<Right><#+14><Right><#+10><Right><Right><Right><Right><Right>i<BckSp><BckSp><BckSp><BckSp>pending<Esc><RShft>:w
+2019-10-03 17:07:26+0530 > <Up><Up>
+2019-10-03 17:07:32+0530 > <Up><Up><Up><Down>
+2019-10-03 17:07:34+0530 > <Up><Up><Up><Up><Up>
+2019-10-03 17:07:38+0530 > <Up><Up><Up><Up><Up>
+2019-10-03 17:07:41+0530 > <Up><Up><Up><Up>
+2019-10-03 17:07:43+0530 > <Up><Up><Up><Up>
+2019-10-03 17:07:45+0530 > <LCtrl>c
+2019-10-03 17:08:36+0530 > <Up><Esc>dddddddddddddd<Esc><RShft>:w
+2019-10-03 17:09:32+0530 > <Up><Up>
+2019-10-03 17:09:37+0530 > <Esc><RShft>:wq
+2019-10-03 17:09:42+0530 > ls
+2019-10-03 17:09:44+0530 > mv ma<Tab>.<Tab>c ma<Tab><RShft>_test.c
+2019-10-03 17:09:54+0530 > mv ma<Tab><RShft>_o<Tab>ma<Tab>.c
+2019-10-03 17:10:02+0530 > 
+2019-10-03 17:10:08+0530 > 
+2019-10-03 17:10:08+0530 > rm ./blu<Tab>
+2019-10-03 17:10:13+0530 > ./blu<Tab><Tab><Tab><BckSp><#+25>cd ../us<Tab>bi<Tab>
+2019-10-03 17:10:34+0530 > <Up><Up><Up><Up><Up><Up><Up><Down>vim ma<Tab>.<Tab>c
+2019-10-03 17:10:48+0530 > <PgDn><#+9>make cle<Tab>
+2019-10-03 17:10:55+0530 > makwe<BckSp><BckSp>e
+2019-10-03 17:10:58+0530 > <Up><Up><Up><Up>
+2019-10-03 17:15:21+0530 > <Up><Up><Up><Up><Up><Down>
+2019-10-03 17:15:27+0530 > <Up><Up><Up><Up><Up>
+2019-10-03 17:15:30+0530 > <Up><Up><Up><Up><Up><Up><Down>
+2019-10-03 17:15:33+0530 > 
+2019-10-03 17:15:35+0530 > <LCtrl>c
+2019-10-03 17:15:37+0530 > c
+2019-10-03 17:15:38+0530 > c
+2019-10-03 17:15:38+0530 > quit
+2019-10-03 17:15:40+0530 > 
+2019-10-03 17:16:19+0530 > 
+2019-10-03 17:16:19+0530 > 
+2019-10-03 17:16:19+0530 > cd /us<Tab>bi<Tab>
+2019-10-03 17:16:23+0530 > ./blu<Tab>t<Tab>
+2019-10-03 17:16:26+0530 > po<Tab>on
+2019-10-03 17:16:29+0530 > menu ga<Tab>
+2019-10-03 17:16:33+0530 > regi<Tab>se<Tab>0x<LShft>FFFF
+2019-10-03 17:16:42+0530 > regis<Tab>cha<Tab>0xaaa<BckSp><BckSp><BckSp><LShft>AAAA write
+2019-10-03 17:16:56+0530 > regis<Tab>app<Tab>
+2019-10-03 17:17:03+0530 > <LCtrl>c
+2019-10-03 17:17:06+0530 > <PgDn><PgDn><PgDn><PgDn><#+9><PgDn><#+9><PgDn><#+7><PgUp><PgUp><PgDn><Down><#+7><Up><#+26><Down><#+23>nnnn<PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgUp><Down><#+5><Up><#+15><Up><Up><Up><Up><Up><#+12>i<Esc><RShft>:q
+2019-10-03 17:18:06+0530 > mv ma<Tab><BckSp><BckSp><BckSp><BckSp>ga<Tab>c ga<Tab><BckSp><RShft>_mod.c
+2019-10-03 17:18:20+0530 > cp <LShft>~!<BckSp>/sri<Tab><LShft>Bl<Tab>cli<Tab>ga<Tab><Tab>=<BckSp><BckSp><BckSp><Tab><Tab>/<Tab>ga<Tab>c .
+2019-10-03 17:18:40+0530 > vim ga<Tab>.<Tab>c
+2019-10-03 17:18:44+0530 > <PgDn><PgDn><PgDn><PgDn><#+11><PgDn><PgDn><#+9><PgDn><#+9><PgDn><#+7><PgDn><#+10><PgDn><#+11><PgDn><#+9><PgDn><#+3><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><Up><Up>
+2019-10-03 17:19:05+0530 > <Up><Up><Up><Up><Up><Up>
+2019-10-03 17:19:10+0530 > quit
+2019-10-03 17:19:14+0530 > rm ./blu<Tab>t<Tab>
+2019-10-03 17:19:19+0530 > <Up><Up><Up><Up><Up><Up><Up><Up>
+2019-10-03 17:19:23+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Down>
+2019-10-03 17:19:28+0530 > <Up><Up><Up><Up><Up><Down>
+2019-10-03 17:19:31+0530 > pow<Tab>on
+2019-10-03 17:19:34+0530 > men<Tab>ga<Tab>
+2019-10-03 17:19:38+0530 > regi<Tab>se<Tab>0x<LShft>FFFF
+2019-10-03 17:19:46+0530 > yes
+2019-10-03 17:19:48+0530 > regi<Tab>ch<Tab>0x<LShft>AAAA write
+2019-10-03 17:19:58+0530 > 1
+2019-10-03 17:19:59+0530 > regi<Tab>s<BckSp>app<Tab>
+2019-10-03 17:20:06+0530 > back
+2019-10-03 17:20:14+0530 > adver<Tab>on
+2019-10-03 17:20:20+0530 > pair
+2019-10-03 17:20:39+0530 > <Up>
+2019-10-03 17:21:20+0530 > <Up>
+2019-10-03 17:21:25+0530 > pair
+2019-10-03 17:21:46+0530 > <Up><Down>quit
+2019-10-03 17:22:32+0530 > 
+2019-10-03 17:22:33+0530 > 
+2019-10-03 17:22:33+0530 > 
+2019-10-03 17:22:33+0530 > 
+2019-10-03 17:22:33+0530 > ./blu<Tab>t<Tab>
+2019-10-03 17:22:37+0530 > po<Tab>on
+2019-10-03 17:22:40+0530 > men <BckSp>u ga<Tab>
+2019-10-03 17:22:45+0530 > regis<Tab>ser<Tab>0x<LShft>FFFF
+2019-10-03 17:22:53+0530 > yes
+2019-10-03 17:22:55+0530 > regis<Tab>char<Tab>0x<LShft>AAAA write
+2019-10-03 17:23:04+0530 > 1
+2019-10-03 17:23:06+0530 > regis<Tab>app<Tab>
+2019-10-03 17:23:10+0530 > back
+2019-10-03 17:23:23+0530 > adver<Tab>on
+2019-10-03 17:23:25+0530 > pai<Tab> <LShft><Ins>
+2019-10-03 17:23:54+0530 > quit
+2019-10-03 17:24:40+0530 > <Up>
+2019-10-03 17:24:41+0530 > pow<Tab>on
+2019-10-03 17:24:45+0530 > menu ga<Tab>
+2019-10-03 17:24:50+0530 > regi<Tab>se<Tab>0x<LShft>FFFF
+2019-10-03 17:24:57+0530 > yes
+2019-10-03 17:24:59+0530 > regis<Tab>ch<Tab>0x<LShft>AAAA write
+2019-10-03 17:25:11+0530 > 1
+2019-10-03 17:25:13+0530 > regi<Tab>ser<Tab>
+2019-10-03 17:25:17+0530 > <Up><BckSp><#+25><BckSp>app<Tab>
+2019-10-03 17:25:25+0530 > back
+2019-10-03 17:25:30+0530 > adver<Tab>on
+2019-10-03 17:25:34+0530 > trust
+2019-10-03 17:26:07+0530 > <LCtrl>c
+2019-10-03 17:26:25+0530 > quit
+2019-10-03 17:26:28+0530 > <Down><#+26><Down><Down><Up><#+6><Right><#+7><Up><#+43><Down><#+46><Up><#+13><Up><#+6><Up><Up><#+11><Up><#+23><Up><#+18><Up><#+21><Up><#+28><Up><#+20><Up><#+30><Up><#+24><Up><#+27><Up><#+31><Up><#+20><Up><#+14><Up><#+30><Up><#+28><Up><#+21><Up><#+20><Up><#+51><Up><#+18><Down><#+60><Up><#+8><Down><#+18><Up><#+15><Down><#+14><Up><#+13><Up><Up><Up><Up><Up><#+16><Down><Down><Right><#+18><Right><#+11><Left><#+9><RShft>*<Up><#+1><Up><Up><Down><#+5><Up>i<Right><#+4> <#+17> printf<RShft>();<Left><Left><RShft>""<Left><LShft>&<#+30>\n<Esc><RShft>w
+2019-10-03 17:28:13+0530 > <Esc><RShft>:w
+2019-10-03 17:28:16+0530 > <Down><Up><Up>
+2019-10-03 17:28:20+0530 > <Up><Up><Up><Up>
+2019-10-03 17:28:24+0530 > <Up><Up><Up><Up>
+2019-10-03 17:28:29+0530 > <Up><Up><Up><Up>
+2019-10-03 17:28:31+0530 > <Up><Up><Up>
+2019-10-03 17:28:33+0530 > <Up><Up><Up><Up><Up>
+2019-10-03 17:28:37+0530 > <Up><Up><Up><Down>
+2019-10-03 17:28:39+0530 > powe<Tab>on
+2019-10-03 17:28:43+0530 > menu ga<Tab>
+2019-10-03 17:28:46+0530 > regi<Tab>se<Tab>0x<LShft>FFFF
+2019-10-03 17:28:52+0530 > yes
+2019-10-03 17:28:54+0530 > regi<Tab>cha<Tab>0x<LShft>AAAA write
+2019-10-03 17:29:04+0530 > 1
+2019-10-03 17:29:05+0530 > regi<Tab>app<Tab>
+2019-10-03 17:29:10+0530 > back
+2019-10-03 17:29:13+0530 > adver<Tab>on
+2019-10-03 17:29:16+0530 > trust
+2019-10-03 17:29:31+0530 > <LCtrl>c
+2019-10-03 17:29:49+0530 > c
+2019-10-03 17:29:49+0530 > quit
+2019-10-03 17:29:58+0530 > <LMeta><#+6>lzs<KP1><KP0><KP0><KP6><KP2><KP0><KP1><KP3>
+2019-10-03 18:01:14+0530 > 
+2019-10-03 18:02:05+0530 > 
+2019-10-03 18:02:05+0530 > 
+2019-10-03 18:02:18+0530 > 
+2019-10-03 18:02:19+0530 > 
+2019-10-03 18:02:19+0530 > 
+2019-10-03 18:02:20+0530 > 
+2019-10-03 18:02:20+0530 > 
+2019-10-03 18:02:20+0530 > 
+2019-10-03 18:02:20+0530 > 
+2019-10-03 18:02:21+0530 > 
+2019-10-03 18:02:21+0530 > 
+2019-10-03 18:02:21+0530 > 
+2019-10-03 18:02:21+0530 > 
+2019-10-03 18:02:22+0530 > 
+2019-10-03 18:02:22+0530 > 
+2019-10-03 18:02:22+0530 > cd /us<Tab>b<Tab>
+2019-10-03 18:02:26+0530 > ./blu<Tab>t<Tab>
+2019-10-03 18:02:30+0530 > po<Tab>on
+2019-10-03 18:02:33+0530 > men<Tab>ga<Tab>
+2019-10-03 18:02:37+0530 > regis<Tab>se<Tab>0xffff
+2019-10-03 18:02:45+0530 > yes
+2019-10-03 18:02:47+0530 > regi<Tab>ch<Tab>0xaaaa write<Tab><Tab><Tab><Tab><#+3><Tab><Tab><Tab><Tab><Tab>-response
+2019-10-03 18:03:33+0530 > 1
+2019-10-03 18:03:35+0530 > regus<BckSp><BckSp>is<Tab>app<Tab>
+2019-10-03 18:03:43+0530 > <Up><Up><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>with-response
+2019-10-03 18:03:55+0530 > 1
+2019-10-03 18:03:57+0530 > <Up><Up>
+2019-10-03 18:03:58+0530 > <Up><Left><Left><Left><Left><Left><Left><Left><Left><Left>out
+2019-10-03 18:04:13+0530 > 1
+2019-10-03 18:04:15+0530 > <Up><Up><Up><Up><Down>
+2019-10-03 18:04:19+0530 > <LCtrl>c
+2019-10-03 18:04:33+0530 > <LCtrl>c
+2019-10-03 18:04:37+0530 > <LAlt><Tab>regi<Tab>ch<Tab><LShft><BckSp><#+27><LAlt><Tab><LCtrl>c
+2019-10-03 18:05:00+0530 > <#+1><LCtrl>v<Right><#+14><Right><Right><BckSp><BckSp><BckSp><Left><#+8><Left><Left><Left><Left><Left><Left><BckSp> <Home><LShft><End><LCtrl>c
+2019-10-03 18:05:18+0530 > <LAlt><Tab><Tab><LCtrl><LShft>V
+2019-10-03 18:05:23+0530 > 1
+2019-10-03 18:05:25+0530 > <Up><Down><Down><Down><Up><Up><Up><Up>
+2019-10-03 18:05:30+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><Up><Up><Down><Down><Down><Down><Down><LCtrl>c
+2019-10-03 18:06:33+0530 > 
+2019-10-03 18:06:34+0530 > 
+2019-10-03 18:06:34+0530 > <#+8>
+2019-10-03 18:06:34+0530 > 
+2019-10-03 18:06:35+0530 > <LAlt><Tab><Down><Down><Down>
+2019-10-03 18:06:56+0530 > use
+2019-10-03 18:08:10+0530 > <LAlt><Tab><Up><#+24><Down><Down><Right><#+26><RShft>*nnnnn<Up><#+22><Up><Up><Up><Up><Up><Up><Up><Up><Left><#+16><RShft>*<Right><#+21><RShft>*
+2019-10-03 18:12:44+0530 > 
+2019-10-03 18:12:44+0530 > 
+2019-10-03 18:12:44+0530 > quit
+2019-10-03 18:12:49+0530 > ./blu<Tab>
+2019-10-03 18:12:52+0530 > <Up>t<Tab>
+2019-10-03 18:12:55+0530 > po<Tab>on
+2019-10-03 18:12:57+0530 > menu<Tab>ga<Tab>
+2019-10-03 18:13:01+0530 > regi<Tab>se<Tab>0x<LShft>FFFF
+2019-10-03 18:13:09+0530 > yes
+2019-10-03 18:13:11+0530 > regi<Tab>ch<Tab>0x<LShft>AAAA write<LCtrl><LShft><Ins>
+2019-10-03 18:13:32+0530 > 1
+2019-10-03 18:13:34+0530 > <Up><Up><Up><Up><Down><#+15>regi<Tab>app<Tab>
+2019-10-03 18:13:41+0530 > <Up><Up><Left><Left><#+11> 
+2019-10-03 18:13:46+0530 > 1
+2019-10-03 18:13:48+0530 > <Up><Up>
+2019-10-03 18:13:50+0530 > <Up><Up><Down><Left><#+14><Right><Right><BckSp>,
+2019-10-03 18:13:58+0530 > 1
+2019-10-03 18:14:00+0530 > <Up><Up><Up>
+2019-10-03 18:14:02+0530 > /<LShft><Ins>
+2019-10-03 18:14:25+0530 > <Down><#+22><Up><#+55><Up><#+14><Up><#+10><Up><#+45><Up><#+23><Up><#+14><Up><#+6><Up><#+9><Up><#+14><Up><#+16><Up><#+19><Up><#+9><Up><#+15><Up><#+21><Up><#+30><Up><#+22><Up><#+24><Up><#+32><Up><#+14><Up><#+21><Up><#+24><Up><#+9><Up><Down><#+38><Down><#+9><Down>/application
+2019-10-03 18:16:17+0530 > <Up><#+8><Up><Up><Up><Left><#+34><RShft>*<Up><Up><#+27><Up><#+2><Down><Down><#+10><Down><#+10><Down><Down><Down><Down><Down><#+6><Down><Down><#+12><Down><Down><Down><Down><Up><Up><RShft>*<Down><#+6><Down><#+10>n<Down><RShft>*/<LShft><Ins>
+2019-10-03 18:17:57+0530 > n<Up><Up><Right><#+11><Right><RShft>*n<Up><Down><Right><Up><Right><#+12><Right><Right><#+4><Right><Right><RShft>*n<Left><#+10><Left><RShft>*nnnn
+
+Logging stopped at 2019-10-03 18:19:53+0530
+
