@@ -1,0 +1,23 @@
+Logging started ...
+
+2019-10-05 10:25:54+0530 > 
+2019-10-05 10:28:40+0530 > 
+2019-10-05 10:28:40+0530 > 
+2019-10-05 10:28:40+0530 > 
+2019-10-05 10:28:40+0530 > 
+2019-10-05 10:28:41+0530 > 
+2019-10-05 10:28:54+0530 > <#+9><LCtrl><LShft>Tcd <LShft>Down<Tab><LShft>Lo<Tab>yo<Tab>yo<Tab>bu<Tab>tm<Tab>wo<Tab>/co<Tab>blue<Tab><Tab><Tab>blu<Tab>
+2019-10-05 10:29:41+0530 > ls
+2019-10-05 10:29:42+0530 > cd cli<Tab>
+2019-10-05 10:29:45+0530 > ls
+2019-10-05 10:29:46+0530 > vim ma<Tab>.c
+2019-10-05 10:29:49+0530 > 
+2019-10-05 10:30:43+0530 > 
+2019-10-05 10:30:43+0530 > 
+2019-10-05 10:30:44+0530 > 
+2019-10-05 10:30:44+0530 > <LCtrl><LShft><Down><#+51><Down><#+10><Down><#+13><Down><#+14><Down><Down><#+13><Down><#+20><Down><#+13><Down><#+12><LCtrl><LShft>Tvim ma<Tab><RShft>_de<Tab>
+2019-10-05 10:33:41+0530 > <PgDn><#+19><PgDn><#+28><Up><#+78><Up><#+22><Up><#+94><Down><#+17><PgDn><#+35><Up><#+82><Up><#+19><Up><#+18><Up><Up><Up><Esc><LShft>V<Down><Down>d<Up><Up><Up>pi<BckSp><BckSp><BckSp><BckSp><Down><Right><BckSp>   <Down><Right><Right><Right><Right><BckSp><BckSp><BckSp><BckSp><Up><Up><BckSp><BckSp><Down><Right><Right><BckSp><BckSp><Down><Right><Right><BckSp><BckSp><Down><Down><Down><Esc>zs<KP1><KP0><KP0><KP6><KP2><KP0><KP1><KP3>
+2019-10-05 10:48:43+0530 > 
+
+Logging stopped at 2019-10-05 10:49:13+0530
+
