@@ -1,0 +1,41 @@
+Logging started ...
+
+2019-10-11 16:01:42+0530 > cd sc<Tab>
+2019-10-11 16:02:01+0530 > ls
+2019-10-11 16:02:02+0530 > ma
+2019-10-11 16:02:56+0530 > srikanth<LShft>@zumisolutions.com<Tab><LShft>YAhoozumi<LShft>@5yehiya<BckSp><BckSp><BckSp><Down><Up>
+2019-10-11 16:17:58+0530 > <LMeta><#+8>lzs<KP1><KP0><KP0><KP6><KP2><KP0><KP1><KP3>
+2019-10-11 17:31:56+0530 > <LCtrl>c
+2019-10-11 17:32:06+0530 > c
+2019-10-11 17:32:06+0530 > s<LCtrl>vcd ../../../..
+2019-10-11 17:33:50+0530 > cd sr<Tab><LShft>Bl<Tab>
+2019-10-11 17:33:55+0530 > ls
+2019-10-11 17:33:56+0530 > cd \<#+13><BckSp><#+35><LCtrl>c
+2019-10-11 17:38:02+0530 > c
+2019-10-11 17:38:02+0530 > <LCtrl>vca<KP1><KP6><CpsLk><KP9><BckSp><KP6>
+2019-10-11 17:44:10+0530 > <BckSp><BckSp><KP1><KP0><KP4><KP+><KP2><KP8>
+2019-10-11 17:44:33+0530 > <RShft>ma
+2019-10-11 19:48:01+0530 > srikanth<LShft>@zumisolutions.com<Tab><LShft>YAhoozumi<LShft>@5<LCtrl>c
+2019-10-11 19:49:18+0530 > c
+2019-10-11 19:49:19+0530 > <LCtrl>v
+2019-10-11 19:49:22+0530 > cd <BckSp><#+15>ls
+2019-10-11 19:50:35+0530 > cd bl<Tab>
+2019-10-11 19:50:38+0530 > cd bl<Tab>8<Tab>
+2019-10-11 19:50:43+0530 > ls
+2019-10-11 19:50:44+0530 > cd ex<Tab>
+2019-10-11 19:50:47+0530 > ls
+2019-10-11 19:50:48+0530 > cd dk<Tab>11<Tab><Tab>2
+2019-10-11 19:50:55+0530 > ls
+2019-10-11 19:50:56+0530 > cd dk<Tab>
+2019-10-11 19:51:08+0530 > cd ../bg<Tab>
+2019-10-11 19:51:14+0530 > ls
+2019-10-11 19:51:15+0530 > mv <BckSp><#+13>cp g<Tab>g<Tab><BckSp><RShft><Left><Left><Left><Left><RShft>_org
+2019-10-11 19:51:29+0530 > vim ga<Tab>.x<Tab>
+2019-10-11 19:51:34+0530 > <LCtrl><LShft>Tvim g<Tab><RShft>_<Tab>
+2019-10-11 19:51:47+0530 > <Down><#+15><Up><Up><Right><#+26>i<Left><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><Esc><RShft>:wq
+2019-10-11 19:51:56+0530 > <LAlt><Tab><LAlt><Tab><Esc>d<#+98>i<LShft><LCtrl><LShft>iii<LCtrl><LShft>V<Up><#+66><Left><#+16><Left><Left><Left><BckSp><Esc><RShft>:wq
+2019-10-11 19:52:41+0530 > <LAlt><Tab>cp ga<Tab>.<Tab>/me<Tab><Tab><Tab><Tab><Tab>
+2019-10-11 19:53:41+0530 > 
+
+Logging stopped at 2019-10-11 19:59:01+0530
+
