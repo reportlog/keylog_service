@@ -1,0 +1,56 @@
+Logging started ...
+
+2019-10-15 12:23:38+0530 > mkdie<BckSp>r <LAlt><Tab><Tab><LAlt><Tab><Tab><LAlt><Tab>/me<Tab><Tab><Tab><Tab>ble<RShft>_lib
+2019-10-15 12:24:22+0530 > cp li<Tab>l<Tab>/me<Tab><Tab><#+2><Tab>bl<Tab><Tab><RShft>_<Tab>
+2019-10-15 12:24:32+0530 > cd <LShft><Ins>
+2019-10-15 12:24:44+0530 > cp li<Tab>gl<Tab>a<Tab>/me<Tab><Tab><Tab>bl<Tab><RShft>_<Tab>
+2019-10-15 12:25:00+0530 > zs<KP1><KP0><KP0><KP6><KP2><KP0><KP1><KP3>
+2019-10-15 14:47:00+0530 > <LAlt><Tab>cd <LShft><Ins>
+2019-10-15 14:47:19+0530 > ls
+2019-10-15 14:47:21+0530 > cp <LShft><Ins> /me<Tab><Tab><Tab><BckSp><#+32><Tab>a /me<Tab><Tab><Tab><Tab>bl<Tab><RShft>_l<Tab>
+2019-10-15 14:47:45+0530 > m<Down>
+2019-10-15 14:50:55+0530 > srikanth<LShft>@zumisolutions.com<Tab><LShft>YAhoozumi<LShft>@5zs<KP1><KP0><KP0><KP6><KP2><KP0><KP1><KP3>
+2019-10-15 15:41:09+0530 > <LCtrl>c
+2019-10-15 15:41:21+0530 > c
+2019-10-15 15:41:21+0530 > <LCtrl>v
+2019-10-15 15:41:24+0530 > <BckSp><LAlt><Tab><LAlt><Tab><LAlt><Tab><Tab>eddystone<Down>
+2019-10-15 15:56:26+0530 > v<BckSp>cd ../../../../../../..
+2019-10-15 16:00:43+0530 > cd wo<Tab>/co<Tab>blu<Tab>bl<Tab><Tab><Tab><BckSp><BckSp><Tab><Tab>5<Tab>b<Tab>l<Tab><Tab>cli<Tab>
+2019-10-15 16:00:58+0530 > vim ma<Tab>.c
+2019-10-15 16:01:05+0530 > <LCtrl><LShft>Tvim gat<Tab>.c
+2019-10-15 16:01:09+0530 > <PgDn><PgDn><PgUp><Down><#+4><Up><#+31><Up><Up><Down><Right><#+14><Left><Left><RShft>*<RShft>*****<LCtrl>c
+2019-10-15 16:08:08+0530 > c
+2019-10-15 16:08:08+0530 > <LCtrl>fv<Left><#+11><Left><Left><#+9><Left><Left><Left><Right><#+16><BckSp><#+9><BckSp><BckSp><#+10><BckSp><BckSp><BckSp><LAlt><Tab><LAlt><Tab>write<BckSp><BckSp><BckSp><BckSp><BckSp><LAlt><Tab><LCtrl>fv<LCtrl><LShft>Tfin<BckSp><#+12>ls
+2019-10-15 16:27:34+0530 > cd ..
+2019-10-15 16:27:36+0530 > ls
+2019-10-15 16:27:37+0530 > cd <BckSp><#+10>cd gd<Tab>
+2019-10-15 16:27:47+0530 > ls
+2019-10-15 16:27:48+0530 > cd ..
+2019-10-15 16:27:51+0530 > ls
+2019-10-15 16:27:51+0530 > find -name <RShft>""<Left>dbus.h
+2019-10-15 16:28:02+0530 > cd ..
+2019-10-15 16:28:04+0530 > <Up><Up>
+2019-10-15 16:28:06+0530 > <LAlt><Tab><LAlt><Tab>cd <LShft><Ins><BckSp><#+9><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>
+2019-10-15 16:29:02+0530 > ls
+2019-10-15 16:29:02+0530 > cd db<Tab>
+2019-10-15 16:29:05+0530 > ls
+2019-10-15 16:29:06+0530 > cd ..
+2019-10-15 16:29:09+0530 > tar -cvf db<Tab><BckSp>.ta<Tab>r.gz db<Tab>
+2019-10-15 16:29:24+0530 > cd ..
+2019-10-15 16:29:34+0530 > ;s
+2019-10-15 16:29:35+0530 > ls
+2019-10-15 16:29:36+0530 > ls<BckSp><BckSp><BckSp>cd db<Tab>
+2019-10-15 16:30:20+0530 > ls
+2019-10-15 16:30:22+0530 > cp db<Tab>.<Tab><LAlt><Tab>t<Tab>/me<Tab><Tab><BckSp><#+31>mv db<Tab>.t<Tab>inc<RShft>_dbu<Tab>s.tar.gz
+2019-10-15 16:30:57+0530 > cp in<Tab>/me<Tab><Tab><Tab><Tab><Tab>ble<RShft>_l<Tab>
+2019-10-15 16:31:09+0530 > <LAlt><Tab><LAlt><Tab><Tab><LAlt><Tab><Tab>cd ../../li<Tab>db<Tab>
+2019-10-15 16:31:24+0530 > ls
+2019-10-15 16:31:25+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab>cd ..
+2019-10-15 16:32:03+0530 > cp <BckSp><#+12>tar -x<BckSp>cvf lib<RShft>_dbus.tar.gz db<Tab>
+2019-10-15 16:32:22+0530 > cp li<Tab><RShft>_d<Tab>/me<Tab><Tab><Tab>bl<Tab><RShft>_l<Tab>
+2019-10-15 16:32:38+0530 > sync
+2019-10-15 16:32:40+0530 > <LAlt><Tab><LCtrl><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><LMeta>lzs10062013
+2019-10-15 16:49:20+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><Tab><Tab><Tab><Tab><Tab><LMeta><#+9>l
+
+Logging stopped at 2019-10-15 18:14:05+0530
+
