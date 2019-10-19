@@ -1,0 +1,17 @@
+Logging started ...
+
+2019-10-19 12:39:53+0530 > cd sr<Tab>th<Tab><Tab><BckSp><BckSp>
+2019-10-19 21:12:19+0530 > ls
+2019-10-19 21:12:19+0530 > c <LShft>BL<Tab>
+2019-10-19 21:12:22+0530 > cd <LShft>BL<Tab>
+2019-10-19 21:12:26+0530 > ls
+2019-10-19 21:12:27+0530 > cd <LShft>sr<Tab>
+2019-10-19 21:12:29+0530 > lsa
+2019-10-19 21:12:30+0530 > ls
+2019-10-19 21:12:32+0530 > cd th<Tab>
+2019-10-19 21:12:34+0530 > ls
+2019-10-19 21:12:35+0530 > vim ma<Tab>c
+2019-10-19 21:12:39+0530 > <PgDn><#+27><Up><#+37><Up><RCtrl><Down><#+27><Down><Up><#+38><Up><#+35><Up><#+28><Up><#+12><Down><#+36><Up><#+6><Up><#+57><Up><#+14><Up><#+2><Up><#+13><Up><#+3><Up><Up><Up><#+16><Up><#+13><Up><#+23><Up><#+19><Up><#+13><Up><Up><#+6><Up><#+16><Up><#+20><Up><#+23><Up><#+14><Down><#+17><Up><#+12><Up><#+29><Up><#+17><Up><#+15><Down><#+34><Up><Up><Right><#+34><RShft>**nn<Left><Left><#+26><RShft>*<Right><#+19><Right><Right><Right><Right><Up><#+16><Down><Right><#+22><RShft>***<RCtrl><Left><Left><Left><Right><#+10><Left><#+31><Down><#+47><Down><#+34><Down><#+15><Down><#+15><Down><Down><Down><Down><#+25><Down><#+10><Down><Down><#+12><Down><#+28><Down><#+16>
+
+Logging stopped at 2019-10-19 22:08:56+0530
+
