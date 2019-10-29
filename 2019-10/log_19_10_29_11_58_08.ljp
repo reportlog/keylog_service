@@ -1,0 +1,27 @@
+Logging started ...
+
+2019-10-29 11:58:08+0530 > zs<KP1><KP0><KP0><KP6><KP2><KP0><KP1><KP3>
+2019-10-29 16:09:50+0530 > <Up><#+27><Esc><RShft>:q
+2019-10-29 16:10:17+0530 > mv <BckSp><#+13>cp ma<Tab>.<Tab>c ma<Tab><RShft>_work.c
+2019-10-29 16:10:35+0530 > vim ma<Tab>.c
+2019-10-29 16:10:38+0530 > <Down><#+59><Down><#+22><Up><#+18><Up><Right><Right><Right><Right><Right><Right><RShft>*nnnni<Left><BckSp><BckSp><BckSp>char<LShft>*<Right><Right><Right><Right>[]<Esc><RShft>:w
+2019-10-29 16:11:08+0530 > <LCtrl><LShft>T<LCtrl><LShft>Tsudo minicom -s
+2019-10-29 16:11:43+0530 > zs<KP1><KP0><KP0><KP6><KP2><KP0><KP1><KP3>
+2019-10-29 16:11:46+0530 > <Down><Down>
+2019-10-29 16:11:48+0530 > a<BckSp><BckSp><BckSp><BckSp><LShft>ACM0
+2019-10-29 16:11:53+0530 > ee
+2019-10-29 16:11:54+0530 > 
+2019-10-29 16:11:54+0530 > <Down><Down><Down>
+2019-10-29 16:11:56+0530 > <Down><Down>
+2019-10-29 16:11:59+0530 > 
+2019-10-29 16:12:03+0530 > 
+2019-10-29 16:12:03+0530 > 
+2019-10-29 16:12:04+0530 > 
+2019-10-29 16:12:04+0530 > <LCtrl>c
+2019-10-29 16:12:42+0530 > c
+2019-10-29 16:12:42+0530 > <LCtrl><LShft>V
+2019-10-29 16:12:45+0530 > make cl<Tab>
+2019-10-29 16:12:49+0530 > 
+
+Logging stopped at 2019-10-29 16:12:50+0530
+
