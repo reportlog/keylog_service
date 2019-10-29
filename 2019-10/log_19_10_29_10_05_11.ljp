@@ -1,0 +1,28 @@
+Logging started ...
+
+2019-10-29 10:05:11+0530 > <#+1><Right><RShft>*nnnnnnnnnnnnnnn<Left><Left><Right><Right>nnnnnn<Left><#+18><RShft>*nnzs10062013
+2019-10-29 10:12:05+0530 > <Down><Down><#+4><Down><#+28><Up><Up><Right><#+16><Down><Down><Down><Down><Right><#+7><Up><Up><Up><Up>zs10062013
+2019-10-29 10:21:12+0530 > zs<KP1><KP0><KP0><KP6><KP2><KP0><KP1><KP3>
+2019-10-29 10:31:46+0530 > <LCtrl><LShft>T<LCtrl>c
+2019-10-29 10:34:05+0530 > c
+2019-10-29 10:34:05+0530 > cd ../..<BckSp><#+18>sudo minicom -s
+2019-10-29 10:34:15+0530 > zs<KP1><KP0><KP0><KP6><KP2><KP0><KP1><KP3>
+2019-10-29 10:34:19+0530 > <Down><Down>
+2019-10-29 10:34:20+0530 > a<BckSp><BckSp><BckSp><BckSp><LShft>ACM0
+2019-10-29 10:34:25+0530 > ee
+2019-10-29 10:34:28+0530 > 
+2019-10-29 10:34:28+0530 > <Down><Down><Down><Down><Up>
+2019-10-29 10:34:31+0530 > <Down><Down>
+2019-10-29 10:34:34+0530 > <Up>
+2019-10-29 10:35:10+0530 > <Down><Down>
+2019-10-29 10:35:12+0530 > a<BckSp><BckSp><BckSp><BckSp><LShft>ACM0
+2019-10-29 10:35:15+0530 > ee
+2019-10-29 10:35:17+0530 > 
+2019-10-29 10:35:17+0530 > <Down><Down><Down>
+2019-10-29 10:35:19+0530 > <Down><Down>
+2019-10-29 10:35:21+0530 > zs<KP1><KP0><KP0><KP6><KP2><KP0><KP1><KP3>
+2019-10-29 10:50:04+0530 > zs<KP1><KP0><KP0><KP6><KP2><KP0><KP1><KP3>
+2019-10-29 10:50:16+0530 > <LShft>NTP <Down><Down><Down>
+2019-10-29 10:54:41+0530 > ntp comma<Down><Down><Down><Down><Down><Down>
+2019-10-29 11:01:57+0530 > <LMeta><#+1>lzs<KP1><KP0><KP0><KP6><KP2><KP0><KP1><KP3>
+2019-10-29 11:49:52+0530 > 
