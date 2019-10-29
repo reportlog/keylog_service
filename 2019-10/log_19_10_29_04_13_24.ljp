@@ -1,0 +1,104 @@
+Logging started ...
+
+2019-10-29 16:13:24+0530 > -g 192.168.1.53
+2019-10-29 16:13:37+0530 > chmod 777 ./hu<Tab>
+2019-10-29 16:13:43+0530 > ./hu<Tab>
+2019-10-29 16:13:45+0530 > <Down><#+32><Down><#+7><Up><#+69><Up><#+27><Down><#+16><Down><Up><Up><Left><Left><Left><Left>i<BckSp><BckSp><BckSp>char <LShft>*<Right><BckSp><Right><Right><Right>[]<Down><#+99><Up><#+4><Down><#+37><Esc><Up><#+85><Up><#+41><Esc><RShft>:w
+2019-10-29 16:14:52+0530 > <Up><Up><Up>
+2019-10-29 16:14:56+0530 > <Up><Up><Up>
+2019-10-29 16:14:57+0530 > <Up><Up><Up>
+2019-10-29 16:15:00+0530 > <LCtrl>c
+2019-10-29 16:15:03+0530 > 
+2019-10-29 16:15:04+0530 > 
+2019-10-29 16:15:04+0530 > 
+2019-10-29 16:15:04+0530 > 
+2019-10-29 16:15:04+0530 > <Up><Up><Up><Up><Down><Down><Down><Down>rm ./hu<Tab>
+2019-10-29 16:15:11+0530 > <Up><Up><Up><Up>
+2019-10-29 16:15:13+0530 > <Up><Up><Up><Up>
+2019-10-29 16:15:16+0530 > <Up><Up><Up><Up>
+2019-10-29 16:15:18+0530 > <LCtrl>c
+2019-10-29 16:15:33+0530 > <Down><#+99><PgDn><#+40><Up><#+67><Up><#+19><Up><#+128><Up><#+15><Down><#+20><Down><#+29><Up><#+13><Up><Up><Right><#+9><RShft>*nnnn<Right><#+21>i<Right><BckSp>0<Esc><RShft>:w
+2019-10-29 16:16:12+0530 > n<Down><#+17>zs<KP1><KP0><KP0><KP6><KP2><KP0><KP1><KP3>
+2019-10-29 16:26:50+0530 > <Down><#+23><Down><#+14><Down><#+8><Down><#+9><Down><Down><Down><#+11><Down><#+12><Down><Down><Down><Down><Down><Down><Down><#+11><Down><#+16><Down><#+10><Down><#+13><Down><#+15><Down><#+10><Down><#+10><Down><#+2><Down><#+10><Up><#+87><Up><#+15><Down><#+16><Down><#+13><Down><#+24><Down><#+11><Down><#+14><Down><#+12><Down><#+10><Down><#+14><Down><#+9><Up><#+57><Up><#+9><Up><#+15><Up><#+9><Down><#+20><Down><#+11><Up><#+9><Down><Down><Down><Down><Down><#+14><Down><Down><Down><Down><#+10><Down><#+12><Down><#+10><Up><#+55><Down><#+31><Down><#+21><Down><#+3><Down><#+11><Up><#+43><Down><#+10><Down><Down><Down><Down><Right><Right><Right><Right><Right><Right><Right><RShft>*<#+4>n<LCtrl><LShft>Tvim ga<Tab>.c
+2019-10-29 16:40:53+0530 > /<LShft><Ins>
+2019-10-29 16:40:59+0530 > <Down><#+16><Up><Up><Down><Up><#+8><Up><Right><#+10><Left><RShft>*<Down><Down><Down><Up><Up><Right><Down><Right><#+42><Left><RShft>*<Down><#+7><Down><#+13><Down><#+17>nn<Right><#+12><Right><Right><Right><Right><RShft>*<Down><#+26><Down><#+13><Up><#+9><Up><RShft>*n<Up><#+37><Down><#+49>n<Left><#+13><Down><Down><Down><#+2><Right><#+24><Right><Right><RShft>*nnnn/<LShft><Ins>
+2019-10-29 16:42:47+0530 > n<Down><#+32><Down><#+11><Down><#+13><Down><#+12><Down><#+12><Up><#+52><Up><#+42><Down><#+27><Down><#+16><Down><#+18><Down><#+31><Down><#+10><Up><#+79><Down><#+50><Up><Up><Up><Down><#+21><Down><#+14><Down><#+9><Down><Down><#+14><Down><#+12><Down><Down><#+9><Down><Down><#+11><Up><#+44><Down><#+46><Down><#+10><Up><#+56><Down><#+15><Up><#+11><Down><#+7><LCtrl><LShft>Tls
+2019-10-29 16:44:59+0530 > vim ma<Tab><RShft>_wo<Tab>
+2019-10-29 16:45:15+0530 > <PgDn><#+11><PgDn><#+38><Up><#+59><Up><#+15><Up><#+53><Up><Esc><RShft>:q
+2019-10-29 16:45:28+0530 > vim ma<Tab><RShft>_rg<Tab>
+2019-10-29 16:45:36+0530 > <PgDn><#+18><PgDn><#+18><PgDn><#+18><PgDn><#+13><PgDn><#+15><Up><#+17><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><Esc><RShft>:q
+2019-10-29 16:45:50+0530 > vim ma<Tab><RShft>_tes<Tab>
+2019-10-29 16:46:00+0530 > <PgDn><#+43><PgUp><#+12><PgUp><PgDn><#+13><PgUp><Up><#+51><Up><#+8><Up><#+11><Up><#+18><Down><#+44><Down><#+11><Down><Down><Down><#+7><Down><#+16><Down><#+11><Up><#+33><Esc><RShft>:q
+2019-10-29 16:49:22+0530 > cd 
+2019-10-29 16:54:30+0530 > cd <LShft>sri<Tab>cli<Tab><BckSp>
+2019-10-29 16:54:35+0530 > ls
+2019-10-29 16:54:35+0530 > vim ma<Tab>.c
+2019-10-29 16:54:39+0530 > <PgDn><#+37><Up><#+86><Up><Up><#+9><Down><#+19><Down><#+20><Down><#+11><Down><#+14><Esc><RShft>:Q
+2019-10-29 16:55:10+0530 > <Esc><RShft>:q
+2019-10-29 16:55:12+0530 > cd ../<LShft>Bl<Tab>
+2019-10-29 16:55:17+0530 > ls
+2019-10-29 16:55:17+0530 > cd <BckSp><#+16>vim ma<Tab><RShft>_sca<Tab>
+2019-10-29 16:55:30+0530 > <Esc><RShft>:q
+2019-10-29 16:55:32+0530 > vim ma<Tab>.c
+2019-10-29 16:55:45+0530 > <Esc><RShft>:q
+2019-10-29 16:55:47+0530 > cd cl<Tab>
+2019-10-29 16:55:55+0530 > ls
+2019-10-29 16:55:55+0530 > vim ma<Tab>.c<RShft>
+2019-10-29 16:56:03+0530 > <Esc><RShft>:q
+2019-10-29 16:56:05+0530 > vim ma<Tab><RShft>_sc<Tab>
+2019-10-29 16:56:51+0530 > <Esc><RShft>:q
+2019-10-29 16:56:55+0530 > vi,<BckSp>m ma<Tab><RShft>_co<Tab>
+2019-10-29 16:57:10+0530 > <Esc><RShft>:q
+2019-10-29 16:57:12+0530 > vim ma<Tab><RShft>_o<Tab>
+2019-10-29 16:57:18+0530 > <Down><#+1><PgDn><#+20><PgDn><#+49><Up><#+58><Esc><RShft>:q
+2019-10-29 16:57:29+0530 > vim ma<Tab>.c
+2019-10-29 16:57:40+0530 > <Esc><RShft>:q
+2019-10-29 16:57:44+0530 > cd ..
+2019-10-29 16:57:53+0530 > ls
+2019-10-29 16:57:53+0530 > cd c<Tab>
+2019-10-29 16:58:03+0530 > ls
+2019-10-29 16:58:04+0530 > vim ma<Tab>.c
+2019-10-29 16:58:10+0530 > <Esc><RShft>:q
+2019-10-29 16:58:14+0530 > vim ma<Tab><RShft>.<Tab><RShft>_b<Tab>
+2019-10-29 16:58:30+0530 > l<PgDn><#+9><PgDn><#+30><PgUp><#+9><PgUp><PgDn><PgDn><PgDn><PgDn><PgDn><Up><#+1><Up><#+21><Esc><RShft>:q
+2019-10-29 16:58:48+0530 > vim ma<Tab><RShft>_sc<Tab>
+2019-10-29 16:59:01+0530 > <Esc><RShft>:q
+2019-10-29 16:59:06+0530 > ma<Down><Down><Down><Down><Down>
+2019-10-29 17:04:20+0530 > srikanth<LShft>@zumisd<BckSp>olutions.com<Tab><LShft>YAhoozumi<LShft>@5<Up><#+19><Up><Up><RShft>*nncd <BckSp><#+11><LCtrl><LShft>Tcd ../sr<Tab>sh<Tab>
+2019-10-29 17:08:43+0530 > vim sh<Tab>c
+2019-10-29 17:08:46+0530 > /<LShft><Ins>
+2019-10-29 17:08:52+0530 > <Down><#+7><Down><Down><Down><Down><Down><Down><Right><Down><#+22><Down><#+16><Down><#+12><Up><#+2><Up><#+49><Up><#+7><Up><#+9><Down><#+15><Down><#+12><Down><#+23><Down><#+10><Down><#+4><Up><#+13><Up><#+38><Up><#+20><Up><#+16><Down><#+23><Up><#+32><Down><#+44><Down><#+11><Down><#+10><Down><#+17><Down><#+11><Down><#+13><Down><Up><#+15><Right><Up><#+17><Up><#+21><Down><#+11><Up>i<LShft>#if 0<Down><#+39><Up><#+15><Up><Down><#+10><Down><Right><#+8><Down><Right><#+20>
+2019-10-29 17:12:19+0530 > <LShft>#endif<Esc><RShft>:w
+2019-10-29 17:12:23+0530 > <Up><#+51><Up><#+10><Down><#+69><Down><#+11><Up><#+13><Up><Up><Up><Up><Up><Up><Up><Up><#+8>i<Down>//<Down>//<Down><Down>//<Down>//<Down><Down>//<Down>//<Down>//<Down>//<Down>//<Down><Left><Left>//<Down><#+18><Up><#+61><Down><#+65><Esc><Down><#+13><Down><#+14><Up><#+45><Down><#+11><Down><Down><Down><Right><#+9><Left><Left><Left><Left><Right>i<Right><BckSp><BckSp><Down><Right><Right><BckSp><BckSp><Down><Right><Right><BckSp><BckSp><Down><Right><Right><BckSp><BckSp><Down><Right><Right><BckSp><BckSp><Esc><RShft>:w
+2019-10-29 17:14:09+0530 > <Down><#+16><Up><#+48><Down><#+49><Down><#+13><Down><#+18><Up><#+14><Down><Left><Left><Left><Left><Up><#+15><Up><#+39><Up><#+12><Down><#+16><Down><#+5><Down><#+12><Down><#+12><Down><#+14><Down><Up><#+57><Up><#+14><Down><#+34><Down><#+21><Down><#+21><Down><#+11><Down><#+10><Down><Up><#+8><Up><Down><Right><#+9><Down><#+18><Up><Up><Up><Up><Up><Up><Up><Up><Up><#+43><Up><Up><Up><#+93><Down><#+67><Down><#+23><Down><#+28><Down><#+26><Down><#+9><Up><#+38><Up><Up><#+13><Down><#+20><Down><Down><Down><#+13><Down><#+3><Down><#+11><Down><#+16><Down><#+11><Up><#+9><Up><Left><#+23><Left><Left><Down><Left><Left><Up><Up><Right><#+19><Up><Right><#+3><Right><Right><Right><Right><Right><Right><Up><#+39><Up><Up><Up><#+2><Up><#+10><Down><#+18><Down><#+37><Up><Up><Left><#+15><Up><#+47><Down><#+11><Up><Down><#+36><Down><Down><Down><#+16><Up><#+13><Up><#+45><Down><#+48><Up><#+13><Up><#+20><Up><#+20><Up><Down><#+14><Down><Down><#+14><Esc><RShft>:w
+2019-10-29 17:16:47+0530 > <Up><Up><Up>
+2019-10-29 17:16:52+0530 > <Up><Up><Up>
+2019-10-29 17:16:54+0530 > <Up><#+10><Up><Up><Right><#+25><Right><Right><Right><RShft>*zs<KP1><KP0><KP0><KP6><KP2><KP0><KP1><KP3>
+2019-10-29 18:03:53+0530 > <Up><#+6><Up><Up><Up><#+28><Up><#+13><Up><#+26><Down><#+20><Down><Down><Right><#+23>i<Right><BckSp>1<Esc><RShft>:w
+2019-10-29 18:04:17+0530 > <Up><Up>
+2019-10-29 18:04:21+0530 > <Up><Up>
+2019-10-29 18:04:23+0530 > 
+2019-10-29 18:07:35+0530 > 
+2019-10-29 18:07:36+0530 > <Up><Up><Up><Up><Up>
+2019-10-29 18:07:40+0530 > 
+2019-10-29 18:07:42+0530 > 
+2019-10-29 18:07:42+0530 > cd /et<Tab>
+2019-10-29 18:07:46+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down><#+25>rm ./hu<Tab>
+2019-10-29 18:07:56+0530 > tft<Tab> -r hubapp -g 192.168.1.53
+2019-10-29 18:08:17+0530 > chmod 777 ./hu<Tab>
+2019-10-29 18:08:24+0530 > ./hu<Tab>
+2019-10-29 18:08:26+0530 > <LCtrl>c
+2019-10-29 18:08:43+0530 > i<Right><BckSp>0<Esc><RShft>:w
+2019-10-29 18:08:49+0530 > <Up><Up><Up>
+2019-10-29 18:08:54+0530 > <Up><Up><Up>
+2019-10-29 18:08:57+0530 > <Up><Up><Up>
+2019-10-29 18:08:59+0530 > 
+2019-10-29 18:09:02+0530 > 
+2019-10-29 18:09:03+0530 > 
+2019-10-29 18:09:03+0530 > <Up><Up><Up><Up>
+2019-10-29 18:09:05+0530 > <Up><Up><Up><Up>
+2019-10-29 18:09:07+0530 > <Up><Up><Up><Up>
+2019-10-29 18:09:09+0530 > <Up><Up><Up>
+
+Logging stopped at 2019-10-29 18:09:11+0530
+
