@@ -1,0 +1,108 @@
+Logging started ...
+
+2019-10-30 14:32:19+0530 > <Down><#+9><Down><Down><Down>i<Right><#+15>
+2019-10-30 14:32:53+0530 >  <#+31>  <LShft><Ins><Up><Left><#+21><Right><Right><Right><Right>//<Esc><RShft>:w
+2019-10-30 14:33:03+0530 > <Down><#+18><Down><#+12><Up><#+33><Down><#+11><Down><Down><Down><Down><Down><Down><Down><Down><#+13><Down><Down><Down><Down><Up><Right><#+1>i<Right>
+2019-10-30 14:33:43+0530 >  <#+30> <LShft>#endif<Up><#+20><Right><Up><Right><#+3><Right><Right><Right>
+2019-10-30 14:33:52+0530 >  <#+32><LShft>#if 0<Esc><RShft>:W
+2019-10-30 14:33:57+0530 > <Esc><RShft>:w
+2019-10-30 14:33:59+0530 > <LCtrl><LShft><Esc><RShft>:q
+2019-10-30 14:34:04+0530 > <LCtrl>c
+2019-10-30 14:34:30+0530 > c
+2019-10-30 14:34:31+0530 > <LCtrl><LShft>V
+2019-10-30 14:34:34+0530 > make cl<Tab>
+2019-10-30 14:34:36+0530 > make
+2019-10-30 14:34:38+0530 > <Up><Up><Up><Down><#+24><Up><#+17><Up><Up><Up><Up><Down><Down><Down><Down><#+13><Down><Down><Down><Down><Down><Down><Up><#+12><Up><Up><Up><Down><#+12><Down><Down><Down><Up>i <#+33> <BckSp><BckSp> <LShft>#endif<Down>
+2019-10-30 14:35:40+0530 > <LShft>#if 0<Left><Left><Left><Left><Left> <#+29>   <Esc><RShft>:w
+2019-10-30 14:35:48+0530 > <Up><Up>
+2019-10-30 14:35:53+0530 > <Up><Up>
+2019-10-30 14:35:54+0530 > <Up><#+16><Right><Right><RShft>**<LCtrl><LShft>Tvim ma<Tab><RShft>_te<Tab>
+2019-10-30 14:36:17+0530 > /cmd<RShft>_notify
+2019-10-30 14:36:23+0530 > <RShft>**<Up><#+146><Down><#+27><Up><Up><Up><Up>i
+2019-10-30 14:36:48+0530 > 
+2019-10-30 14:36:49+0530 > <Up><LShft><Ins><Esc><RShft>:w
+2019-10-30 14:36:52+0530 > <Up><Up>
+2019-10-30 14:36:55+0530 > <Up><Up>
+2019-10-30 14:36:56+0530 > cp obj<Tab>hu<Tab>/tft<Tab>
+2019-10-30 14:37:07+0530 > <LCtrl><LShft>Tsudo minicom -s
+2019-10-30 14:37:21+0530 > zs<KP1><KP0><KP0><KP6><KP2><KP0><KP1><KP3>
+2019-10-30 14:37:25+0530 > <Down><Down>
+2019-10-30 14:37:27+0530 > a<BckSp><BckSp><BckSp><BckSp><LShft>ACM0
+2019-10-30 14:37:31+0530 > ee
+2019-10-30 14:37:32+0530 > 
+2019-10-30 14:37:33+0530 > <Down><Down><Down>
+2019-10-30 14:37:34+0530 > <Down><Down>
+2019-10-30 14:37:37+0530 > 
+2019-10-30 14:37:37+0530 > 
+2019-10-30 14:37:38+0530 > 
+2019-10-30 14:37:38+0530 > 
+2019-10-30 14:37:38+0530 > 
+2019-10-30 14:37:38+0530 > 
+2019-10-30 14:37:38+0530 > cd /et<Tab>
+2019-10-30 14:37:41+0530 > rm ./hu<Tab>
+2019-10-30 14:37:45+0530 > tftp -r hud<BckSp>bapp -g 192.168.1.53
+2019-10-30 14:38:03+0530 > chmod 777 ./hu<Tab>
+2019-10-30 14:38:09+0530 > ./hu<Tab>
+2019-10-30 14:38:30+0530 > <LCtrl>c
+2019-10-30 14:39:21+0530 > <Up><#+15><Right><#+13><Right><Right><RShft>*<Up><#+19><Down><Down><Down><Down><Down><Down><Up><#+26><Down><#+25><Down><#+19><Up><Up><Up><Up><#+15><Up><Up><Down><Down><Down><Down><Up><Up><Up><Down><Down><Up><Down><Down><Esc>yy<Up><Up>p<Esc><RShft>:w
+2019-10-30 14:40:16+0530 > <Up><Up><Up>
+2019-10-30 14:40:19+0530 > <Up><Up><Up>
+2019-10-30 14:40:20+0530 > <Up><Up><Up>
+2019-10-30 14:40:22+0530 > <Up><Up><Up><Up>
+2019-10-30 14:40:26+0530 > <Up><Up><Up><#+1><Up>
+2019-10-30 14:40:28+0530 > <Up><Up><Up><Up>
+2019-10-30 14:40:30+0530 > <Up><Up><Up><Up>
+2019-10-30 14:40:39+0530 > <LCtrl>c
+2019-10-30 14:41:59+0530 > zs<KP1><KP0><KP0><KP6><KP2><KP0><KP1><KP3>
+2019-10-30 14:59:16+0530 > 
+2019-10-30 15:00:44+0530 > 
+2019-10-30 15:00:44+0530 > 
+2019-10-30 15:00:44+0530 > cd <BckSp><BckSp>p ../bu<Tab><Tab><BckSp><BckSp>../bu<Tab>cli<Tab>blu<Tab> /tft<Tab>
+2019-10-30 15:01:02+0530 > c<BckSp><Up><BckSp><#+10><BckSp><BckSp><BckSp><BckSp>./bl<Tab><BckSp><#+8><BckSp><#+11> bl<Tab><BckSp><#+10><BckSp>../../bu<Tab>cli<Tab>blu<Tab><RShft>_<BckSp><#+60>cp <LShft>~/sr<Tab>cl<Tab>blu<Tab><Tab><Tab><Tab><BckSp><BckSp><BckSp><BckSp><#+9><BckSp>blu<Tab><BckSp><#+12><BckSp><LShft>B<Tab>blu<Tab>bl<Tab><Tab><Tab> /tft<Tab>
+2019-10-30 15:02:21+0530 > 
+2019-10-30 15:02:24+0530 > 
+2019-10-30 15:02:24+0530 > 
+2019-10-30 15:02:24+0530 > cd /et<Tab>
+2019-10-30 15:02:53+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down><#+26>tft<Tab> -r 192.168.1.53 -g bluet<Tab><BckSp><#+9><BckSp><BckSp><#+7><BckSp><BckSp><BckSp><#+14><BckSp><BckSp><BckSp>bluetoothctl -g 192.168.1.53
+2019-10-30 15:03:27+0530 > chmod 7777 <BckSp><BckSp> blu<Tab>c<Tab>
+2019-10-30 15:03:36+0530 > ./blu<Tab>c<Tab>
+2019-10-30 15:03:41+0530 > poe<BckSp>we<Tab>on
+2019-10-30 15:03:45+0530 > scan<Tab>on
+2019-10-30 15:03:50+0530 > conn<Tab><LShft><Ins>
+2019-10-30 15:04:20+0530 > 
+2019-10-30 15:04:25+0530 > 
+2019-10-30 15:04:26+0530 > 
+2019-10-30 15:04:26+0530 > menu ga<Tab>
+2019-10-30 15:04:29+0530 > sel<Tab><PgUp><#+45><PgDn><PgDn><PgUp><LShft><Ins>
+2019-10-30 15:04:59+0530 > back
+2019-10-30 15:05:10+0530 > conn<Tab><LShft><Ins>
+2019-10-30 15:05:19+0530 > mwe<BckSp><BckSp>enu gat<Tab>
+2019-10-30 15:05:26+0530 > sel<Tab><LShft><Ins><BckSp><#+18><BckSp><Tab><LShft><Ins>
+2019-10-30 15:05:42+0530 > write <RShft>""<Left><Left><Left><Left><Tab><Tab><Tab><Right><BckSp><Right><Right>0x48 0x56
+2019-10-30 15:06:01+0530 > no<BckSp><BckSp><BckSp>sel<Tab><LShft><Ins>
+2019-10-30 15:06:16+0530 > noti<Tab>on
+2019-10-30 15:06:22+0530 > <LCtrl>c
+2019-10-30 15:06:39+0530 > c
+2019-10-30 15:06:40+0530 > back
+2019-10-30 15:06:43+0530 > quit
+2019-10-30 15:06:45+0530 > zs10062013
+2019-10-30 15:15:59+0530 > ma<Down>
+2019-10-30 15:16:24+0530 > srikanth<LShft>@zumisolutions.com<Tab><LShft>YAhoozumi<LShft>@5<LCtrl>c
+2019-10-30 15:17:27+0530 > <LCtrl>v
+2019-10-30 15:17:36+0530 > 
+2019-10-30 15:17:44+0530 > <Up><LShft>Hai <LShft>Hasnu/<LShft>Manas,
+2019-10-30 15:17:52+0530 > hasmana<LShft>Sample <LShft>Hub ser <BckSp>ver packet<Left><LShft>Below is the <End><RShft>:zs10062013
+2019-10-30 17:36:06+0530 > <LCtrl>c
+2019-10-30 17:37:13+0530 > <LCtrl>v<LCtrl>z<LAlt><Tab><#+1><LCtrl>c
+2019-10-30 17:38:24+0530 > c
+2019-10-30 17:38:24+0530 > <LCtrl>v<LAlt><Tab><LAlt><Tab><LCtrl>z<LAlt><Tab><LCtrl>c
+2019-10-30 17:39:18+0530 > hmac <Down><Down><Down>
+2019-10-30 17:39:25+0530 > <LCtrl>v<BckSp><LCtrl>z<LCtrl>x<LCtrl>v<Up><Down><#+3><Left><#+18><Up><Left><#+76><BckSp><BckSp><RShft>:<#+2><LShft>OSM!@#$%<BckSp><BckSp><BckSp><BckSp><BckSp>12345<Left><Down><Up><BckSp><RShft>:<Right><#+4><Right><#+1><Left><BckSp><BckSp><RShft>:[<BckSp>[<Down><Right><Right><#+3><Up><Right><#+65><Left><Left><#+1>
+2019-10-30 17:41:52+0530 > <BckSp><Right><#+17><Right><#+9><Left><Left>
+2019-10-30 17:42:03+0530 > <#+1><BckSp><Left><#+17><Left><Left><Left>
+2019-10-30 17:42:08+0530 > <BckSp><LCtrl>z<LAlt><Tab><LAlt><Tab><LAlt><LCtrl><LCtrl><LShft>Hi <LShft>Manas,
+2019-10-30 17:50:33+0530 > 
+2019-10-30 17:50:33+0530 >    <LShft>I am attaching the png <LShft>how <BckSp><BckSp><BckSp><#+1><BckSp>file how we are passing thwe <BckSp><BckSp><BckSp>e daat<BckSp><BckSp>ta in which you will know <BckSp>.
+
+Logging stopped at 2019-10-30 18:26:29+0530
+
