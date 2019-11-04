@@ -1,0 +1,20 @@
+Logging started ...
+
+2019-11-02 19:57:57+0530 > f cli<Tab>
+2019-11-02 19:58:04+0530 > tar -xvf cli<Tab>2<Tab><BckSp><RShft>_2<Tab>n<Tab>
+2019-11-02 19:58:30+0530 > cd cli<Tab>
+2019-11-02 19:58:34+0530 > cd sr<Tab><BckSp><BckSp>../sr<Tab>sh<Tab>
+2019-11-02 19:59:07+0530 > vim sh<Tab>c
+2019-11-02 19:59:10+0530 > /bt<RShft>_shell
+2019-11-02 19:59:16+0530 > nnnnnnnnnnnnnnnnnnnnnnnnnnnnn<Down><#+51><Up><#+18><Down><Down><Down><Down><Down>i<Right>
+2019-11-02 19:59:44+0530 > printf<RShft>();<Left><Left><RShft>""<Left><LShft>%s\n<Right>,<RShft>__func<RShft>__<Esc>yy<Up><Up><Up><Up><Up><Up><Up>p<Esc><RShft>:w
+2019-11-02 20:00:06+0530 > <LCtrl><LShft>Tcd ../../..<BckSp><BckSp>cli<Tab>
+2019-11-02 20:00:14+0530 > <LCtrl>c
+2019-11-02 20:00:34+0530 > <LAlt><Tab><LAlt><Tab><Tab><LCtrl><LShft>V
+2019-11-02 20:00:40+0530 > make cl<Tab>
+2019-11-02 20:00:44+0530 > make
+2019-11-02 20:00:46+0530 > cp obj<Tab>hub<Tab>/tft<Tab>
+2019-11-02 20:01:04+0530 > 
+
+Logging stopped at 2019-11-02 20:05:45+0530
+
