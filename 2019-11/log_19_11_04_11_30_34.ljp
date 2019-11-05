@@ -1,0 +1,222 @@
+Logging started ...
+
+2019-11-04 11:30:34+0530 > zs10062013
+2019-11-04 11:53:10+0530 > <LCtrl>x<RShft><Del>
+2019-11-04 11:53:39+0530 > cd <LShft>Down<Tab><LShft>Lo<Tab>in<Tab>wo<Tab>0<Tab>
+2019-11-04 11:55:27+0530 > ls
+2019-11-04 11:55:28+0530 > cd <LShft>A<Tab>
+2019-11-04 11:55:32+0530 > ls
+2019-11-04 11:55:33+0530 > vim <LShft>BLE<Tab>
+2019-11-04 11:55:42+0530 > <Esc><RShft>:q
+2019-11-04 11:55:46+0530 > vim <LShft>A<Tab>
+2019-11-04 11:55:51+0530 > <Down><#+71><Esc><RShft>:q
+2019-11-04 11:56:06+0530 > vim blu<Tab>
+2019-11-04 11:56:15+0530 > <Down><#+59><Esc><RShft>:q
+2019-11-04 11:56:33+0530 > cd ..
+2019-11-04 11:56:40+0530 > ls
+2019-11-04 11:56:42+0530 > cd <LShft>HU<Tab>
+2019-11-04 11:56:44+0530 > ls
+2019-11-04 11:56:45+0530 > vim bl<Tab><BckSp><#+10><Tab>m gat<Tab>c
+2019-11-04 11:57:15+0530 > <PgDn><PgDn><PgDn><PgDn><Up><Up><Up><#+20><Esc><RShft>:q
+2019-11-04 11:57:22+0530 > vim ai<Tab>
+2019-11-04 11:57:41+0530 > <PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><Esc><RShft>:q
+2019-11-04 11:57:45+0530 > zs10062013
+2019-11-04 12:03:12+0530 > vim de<Tab>
+2019-11-04 12:04:20+0530 > <PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><Esc><RShft>:q
+2019-11-04 12:04:24+0530 > vim hsc<Tab>
+2019-11-04 12:04:30+0530 > <PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><Esc><RShft>:q
+2019-11-04 12:04:35+0530 > vim hu<Tab>
+2019-11-04 12:04:45+0530 > <PgDn><PgDn><PgDn><Esc><RShft>:q
+2019-11-04 12:04:49+0530 > vim bl<Tab>co<Tab>
+2019-11-04 12:06:16+0530 > <LCtrl><LShft>Tvim ga<Tab>c
+2019-11-04 12:10:58+0530 > <PgDn><PgDn><PgDn><#+2><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><Up><#+29><Up><#+30><Down><#+42><Down><#+12><Up><#+15><Up><Up><Up><Up><Down><Down><Down><Down><Right><#+32><RShft>*<Right><#+25>i<Right><BckSp><LAlt><Tab><LAlt><Tab>6<LAlt><Tab><LAlt><Tab><Left><#+21><Left><BckSp><LShft>A<LAlt><Tab><LAlt><Tab><Down><Down><Esc>dddd<Up><Up><Esc>/<Up>
+2019-11-04 12:12:12+0530 > <Right><#+8>i<BckSp><LShft>A<LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><RShft>*<BckSp><Esc><RShft>*<LAlt><Tab><LAlt><Tab>n<Down><#+11><Down><#+14><Up><#+16><Up><Up><RShft>*n<Down><#+15><Down><#+19><Down><#+11><Up><#+12><Up><Up><Up><Up><Up><Up><Up><RShft>*<Right><#+9><Right>i<RShft>_<LShft>A<LShft>Q<Esc>zs<KP1><KP0><KP0><KP6><KP2><KP0><KP1><KP3>
+2019-11-04 12:23:22+0530 > <Right><#+11><Right><#+12><Right><Right>i<BckSp><BckSp><Right><BckSp>36<Esc><Left><#+22><RShft>*<Up><Up><RShft>*<Down><Down><Down><#+12><Down><Down><Down><Down><Right><#+16><Right><Right><Right><Right>i<RShft>_<LShft>AQ<Down><#+14><Up><#+11><Down><#+11><Up><Up><Left><#+12><Left><Left><RShft>_<LShft>AQ<Down><Down><Down><#+14><Down><#+9><Up><#+15><Up><Up><Up><Up><Down><Down><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down><RShft>_<LShft>AQ<Down><#+15><Up><#+13><Up><Up><Up><Up><Up><Left><#+19><Left><RShft>_<LShft>AQ<Down><Up><Up><Up><Up><Up><Esc><Down><#+18><Down><Down><Down><Down><#+1><Up><#+3><Up><Right><#+5><Right><RShft>*<Down><#+28><Down><#+11><Down><#+11><Up><#+15><Down><Down><Down><Down><Down><Down><Up><Right><#+6><Down><Right><#+11><Right><RShft>*<Down><#+28><Up><#+46><Up><Up><Up><Up><Up><LAlt><Tab><LAlt><Tab><LAlt><Tab><Down><Down><Down><LAlt><Tab><LAlt><Tab><Down><LAlt><Tab><LAlt><Tab><Down><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab>zs100629<BckSp><#+17>zs10062013
+2019-11-04 12:52:38+0530 > <LCtrl><LShft>Tsudo minicpm =<BckSp>-s
+2019-11-04 12:53:02+0530 > zs<KP1><KP0><KP0><KP6><KP2><KP0><KP1><KP3>
+2019-11-04 12:53:06+0530 > <Up><Left><Left><Left><Left><BckSp>o
+2019-11-04 12:53:10+0530 > <Down><Down>
+2019-11-04 12:53:11+0530 > a<BckSp><BckSp><BckSp><BckSp><LShft>ACM0
+2019-11-04 12:53:15+0530 > ee
+2019-11-04 12:53:17+0530 > 
+2019-11-04 12:53:18+0530 > <Down><Down><Down>
+2019-11-04 12:53:19+0530 > <Down><Down>
+2019-11-04 12:53:22+0530 > 
+2019-11-04 12:53:23+0530 > 
+2019-11-04 12:53:23+0530 > 
+2019-11-04 12:53:59+0530 > 
+2019-11-04 12:53:59+0530 > 
+2019-11-04 12:53:59+0530 > 
+2019-11-04 12:53:59+0530 > ifc<Tab>o<Tab>
+2019-11-04 12:54:05+0530 > 
+2019-11-04 12:54:38+0530 > 
+2019-11-04 12:54:38+0530 > <LShft>STM32mp<Down><Down> <Down><Down><Down><Down><Down>
+2019-11-04 12:55:10+0530 > <BckSp>c<Right><Right><Right><Right><BckSp>2<Right><#+23><BckSp><#+12><BckSp><BckSp><BckSp><BckSp><BckSp><Down><Down><Down>
+2019-11-04 12:56:08+0530 > <LCtrl>fwifiwifif<BckSp> stand by configura<Down>
+2019-11-04 12:59:47+0530 > <LCtrl>f
+2019-11-04 13:01:41+0530 > server <Down>
+2019-11-04 13:07:07+0530 >  steps
+2019-11-04 13:11:14+0530 > <Left><#+10><Left><Up><Up><BckSp><#+10><BckSp>
+2019-11-04 13:11:23+0530 > <PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgUp><PgUp><PgDn><PgDn><PgDn><PgDn><PgUp><PgDn>how to configure <LShft>STM32<LShft>MP wifi <Down> to local server
+2019-11-04 13:17:06+0530 > <LCtrl>c
+2019-11-04 13:18:51+0530 > <LAlt><Tab><LCtrl>
+2019-11-04 13:18:53+0530 > 
+2019-11-04 13:18:53+0530 > 
+2019-11-04 13:18:53+0530 > <LCtrl><LShft>V
+2019-11-04 13:18:57+0530 > <LShft><Ins>
+2019-11-04 13:19:10+0530 > 
+2019-11-04 13:19:18+0530 > 
+2019-11-04 13:19:18+0530 > 
+2019-11-04 13:19:19+0530 > 
+2019-11-04 13:19:19+0530 > 
+2019-11-04 13:19:19+0530 > 
+2019-11-04 13:19:19+0530 > 
+2019-11-04 13:19:20+0530 > 
+2019-11-04 13:19:20+0530 > <LCtrl><LCtrl>vc
+2019-11-04 13:19:23+0530 > c
+2019-11-04 13:19:23+0530 > c
+2019-11-04 13:19:23+0530 > 
+2019-11-04 13:19:23+0530 > <#+19><LAlt><Tab><BckSp><#+23> to server commands
+2019-11-04 13:20:09+0530 > <LAlt><Tab><LCtrl>c
+2019-11-04 13:22:03+0530 > <LAlt><Tab><LCtrl><LShft>V
+2019-11-04 13:22:06+0530 > <LAlt><Tab><LCtrl>c
+2019-11-04 13:22:12+0530 > <LAlt><Tab><LCtrl><LShft>V
+2019-11-04 13:22:14+0530 > <Up><Home><BckSp><Left><#+17><Left><BckSp><BckSp><BckSp><BckSp><BckSp>
+2019-11-04 13:22:21+0530 > <LAlt><Tab><LCtrl>c
+2019-11-04 13:22:26+0530 > <LAlt><Tab><LCtrl><LShft>V
+2019-11-04 13:22:29+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab>station mode
+2019-11-04 13:23:00+0530 > <Del><Del><Del><Esc><Del><Del><Del><Del><Del>
+2019-11-04 13:23:25+0530 > di<BckSp><BckSp><RShft>STM32 discovery
+2019-11-04 13:23:39+0530 > <LCtrl><LCtrl><RShft>MP
+2019-11-04 13:24:24+0530 > <LCtrl> linux commands
+2019-11-04 13:27:07+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab>cd /
+2019-11-04 13:27:59+0530 > <Up><Up><Up><Up><Up>
+2019-11-04 13:28:02+0530 > iw<Tab><Tab><Tab><Tab><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>if<Tab><Tab><Tab><BckSp><#+14><LAlt><Tab><LAlt><Tab>iw<Tab><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab>
+2019-11-04 13:31:03+0530 > <LCtrl><LShft><Up><#+48><LShft><Down><#+19><LAlt><Tab><LCtrl>c
+2019-11-04 13:31:52+0530 > <LAlt><Tab><LCtrl><LShft>V<BckSp><#+8><BckSp><LShft>Annoor
+2019-11-04 13:32:08+0530 > ifcon<Tab>
+2019-11-04 13:32:18+0530 > <LAlt><Tab><LAlt><Tab>w <BckSp><BckSp><BckSp>iw dev
+2019-11-04 13:32:52+0530 > <LAlt><Tab><LAlt><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab>how to change the type <LShft>AP of wifif<BckSp> to manages <BckSp><BckSp>d in linux
+2019-11-04 13:34:29+0530 > <LAlt><Tab><LAlt><Tab><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>foe <BckSp><BckSp>r <LShft>STM32<LShft>MP yocto linux
+2019-11-04 13:36:16+0530 > <LShft>Linux commands for wifif <BckSp><BckSp> station of 
+2019-11-04 13:43:14+0530 > <LShft>ST community<Left><#+9><Down><Down><Down><Down><Down><Down>
+2019-11-04 13:46:26+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><Up>
+2019-11-04 13:46:59+0530 > <LAlt><Tab><LAlt><Tab><Up><Up><Up><Down><Up><Up>
+2019-11-04 13:47:21+0530 > <Up><Down><LAlt><Tab><LCtrl>c
+2019-11-04 13:47:51+0530 > <LAlt><Tab>ifco<Tab>
+2019-11-04 13:47:54+0530 > <Up><#+4><LAlt><Tab><Down><Up><Up><Up><#+10><LAlt><Tab><Down>iw dev
+2019-11-04 13:48:22+0530 > <LAlt><Tab><LAlt><Tab><LCtrl>c
+2019-11-04 13:48:34+0530 > <LAlt><Tab><LCtrl><LShft>V
+2019-11-04 13:48:36+0530 > <LAlt><Tab><LCtrl>c
+2019-11-04 13:48:48+0530 > <LAlt><Tab><LCtrl><LShft>V <LShft>Annoor
+2019-11-04 13:48:54+0530 > <LAlt><Tab><LCtrl>c
+2019-11-04 13:49:00+0530 > <LAlt><Tab><LCtrl><LShft>V <LShft>Annoor
+2019-11-04 13:49:04+0530 > <LCtrl><LAlt><Tab><LAlt><Tab><LAlt><Tab><LCtrl>c
+2019-11-04 13:49:16+0530 > <LAlt><Tab><LCtrl><LShft>c
+2019-11-04 13:49:17+0530 > V
+2019-11-04 13:49:19+0530 > <LAlt><Tab>iwcon<BckSp><BckSp><BckSp> <Down><Down><Down> us<BckSp><BckSp><LShft>SSID and password
+2019-11-04 13:50:14+0530 > <LAlt><Tab><Up><Up>
+2019-11-04 13:50:46+0530 > <LCtrl>c
+2019-11-04 13:50:47+0530 > <Up>
+2019-11-04 13:50:49+0530 > 
+2019-11-04 13:50:49+0530 > 
+2019-11-04 13:50:50+0530 > 
+2019-11-04 13:50:50+0530 > 
+2019-11-04 13:50:50+0530 > <Up><Up><Up><Up>
+2019-11-04 13:50:54+0530 > <LCtrl>c
+2019-11-04 13:50:55+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab>
+2019-11-04 13:51:04+0530 > 
+2019-11-04 13:51:04+0530 > <LCtrl>c
+2019-11-04 13:51:38+0530 > <LAlt><Tab>
+2019-11-04 13:51:41+0530 > 
+2019-11-04 13:51:41+0530 > 
+2019-11-04 13:51:41+0530 > 
+2019-11-04 13:51:41+0530 > <LCtrl><LShft>V
+2019-11-04 13:51:43+0530 > <LAlt><Tab><LCtrl>c
+2019-11-04 13:51:59+0530 > <LAlt><Tab><LCtrl><LShft>V
+2019-11-04 13:52:02+0530 > <LAlt><Tab><LCtrl>c
+2019-11-04 13:52:22+0530 > <LAlt><Tab><LCtrl><LShft>V<Home>/<BckSp><BckSp>
+2019-11-04 13:52:28+0530 > <Up><Left><#+13><Left><Left><BckSp><#+14>
+2019-11-04 13:52:34+0530 > <LAlt><Tab><RShft>STM32 <RShft>Wifi <RShft>STA <LCtrl>v
+2019-11-04 13:53:06+0530 > <LCtrl><LAlt><Tab>ps -ax
+2019-11-04 13:53:53+0530 > kill 5104
+2019-11-04 13:53:58+0530 > <Up>
+2019-11-04 13:53:59+0530 > <Up><Up><Up>
+2019-11-04 13:54:01+0530 > <LShft><Ins>
+2019-11-04 13:54:03+0530 > 
+2019-11-04 13:54:04+0530 > 
+2019-11-04 13:54:05+0530 > 
+2019-11-04 13:54:05+0530 > <LAlt><Tab><LCtrl>c
+2019-11-04 13:54:10+0530 > <LAlt><Tab>ifco<Tab>
+2019-11-04 13:54:14+0530 > dhcp <BckSp><BckSp>pc<Tab><Tab><Tab><BckSp><BckSp><BckSp><BckSp><Tab><Tab>h<Tab><Tab><Tab> wlan<Tab>0
+2019-11-04 13:54:42+0530 > <LAlt><Tab><LAlt><Tab>ifco<Tab>
+2019-11-04 13:54:52+0530 > <LAlt><Tab>
+2019-11-04 13:55:05+0530 > <LAlt><Tab><Up><Up><Up>
+2019-11-04 13:55:08+0530 > <Up><BckSp><BckSp><BckSp><BckSp><#+13>o<BckSp>ps =<BckSp>-ax
+2019-11-04 13:55:13+0530 > 
+2019-11-04 13:55:49+0530 > 
+2019-11-04 13:55:57+0530 > 
+2019-11-04 13:55:59+0530 > 
+2019-11-04 13:55:59+0530 > 
+2019-11-04 13:55:59+0530 > 
+2019-11-04 13:56:00+0530 > 
+2019-11-04 13:56:00+0530 > 
+2019-11-04 13:56:00+0530 > 
+2019-11-04 13:56:00+0530 > 
+2019-11-04 13:56:01+0530 > 
+2019-11-04 13:56:01+0530 > 
+2019-11-04 13:56:01+0530 > 
+2019-11-04 13:56:03+0530 > 
+2019-11-04 13:56:04+0530 > 
+2019-11-04 13:56:04+0530 > 
+2019-11-04 13:56:04+0530 > 
+2019-11-04 13:56:08+0530 > 
+2019-11-04 13:56:08+0530 > 
+2019-11-04 13:56:09+0530 > 
+2019-11-04 13:56:09+0530 > st<BckSp><BckSp><BckSp>dch<Tab><BckSp><BckSp>hc<Tab> wlan0 <RShft>&<Left><Left><Left>n
+2019-11-04 13:56:20+0530 > <Up><Up><LCtrl>c
+2019-11-04 13:56:24+0530 > <Up><Left><#+10><Left><Right><Right><Right><BckSp>
+2019-11-04 13:56:27+0530 > 
+2019-11-04 13:56:29+0530 > 
+2019-11-04 13:56:29+0530 > 
+2019-11-04 13:56:29+0530 > 
+2019-11-04 13:56:29+0530 > ps -ax
+2019-11-04 13:56:31+0530 > ifconfig
+2019-11-04 13:56:33+0530 > <Up>
+2019-11-04 13:56:35+0530 > <Up>
+2019-11-04 13:56:36+0530 > ps -ax
+2019-11-04 13:56:38+0530 > ifocif<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LAlt><Tab><LAlt><Tab>ps -ax 785
+2019-11-04 13:57:03+0530 > jukk <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>kill 785
+2019-11-04 13:57:09+0530 > <Up><BckSp>6
+2019-11-04 13:57:11+0530 > ps
+2019-11-04 13:57:12+0530 > o<BckSp>ps -ax
+2019-11-04 13:57:16+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down>
+2019-11-04 13:57:22+0530 > <Up><Up><Up><Down>
+2019-11-04 13:57:24+0530 > <LShft><Ins><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LAlt><Tab><LCtrl>c
+2019-11-04 13:57:31+0530 > <LAlt><Tab><LCtrl><LShft><LCtrl><LShft>V
+2019-11-04 13:57:34+0530 > ifco<Tab>
+2019-11-04 13:57:39+0530 > <Up><Up><Up><Down><#+1><Down><Down><Up>
+2019-11-04 13:57:48+0530 > <Up>
+2019-11-04 13:57:50+0530 > <Up>
+2019-11-04 13:57:54+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LCtrl>c
+2019-11-04 13:59:14+0530 > c
+2019-11-04 13:59:14+0530 > zainaya<LShft>ST wifif config link<Left><BckSp><LCtrl>v
+2019-11-04 14:12:45+0530 > 
+2019-11-04 14:12:46+0530 > 
+2019-11-04 14:12:46+0530 > 
+2019-11-04 14:12:46+0530 > 
+2019-11-04 14:12:46+0530 > 
+2019-11-04 14:12:46+0530 > zs<KP1><KP0><KP0><KP6><KP2><KP0><KP1><KP3>
+2019-11-04 16:35:12+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><Down><#+39><Up><#+35><Up><#+11><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><Down><Down><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><Down><Down><Esc>dd<LAlt><Tab><LAlt><Tab><Down><Esc>dddd<LAlt><Tab><LAlt><Tab><Esc>dd<Down>dd<Down><LAlt><Tab><LAlt><Tab>dddddddd<LAlt><Tab><LAlt><Tab>dddddd<LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><Down><Down><Down><Down><Down><Down><Right><#+16><LAlt><Tab><LAlt><Tab><Down><#+7><Esc>yy<Up><Up><Up><Up>p<Down><Down><Down><Down><Esc>dd<Up><#+8><Up><LAlt><Tab><LAlt><Tab><Down><#+16><Down><Esc>yy<Up><#+18><Down>p<LAlt><Tab><LAlt><Tab><Down><#+20><Down><Down><Esc>yy<Up><#+22><Down>p<Down><LAlt><Tab><LAlt><Tab><Down><Down><Up><Esc>dd<Down>dd<LAlt><Tab><LAlt><Tab><Down><Down><Down><Down><Down><Down><Down><Down><Esc>dd<Up><Up><Up><Up><Up><Up><Up><Up><Up>p<LAlt><Tab><LAlt><Tab><Down><Down><#+9><Down><Down><Up><Up><Esc>dd<Up><Up><Up><Up><Up><Up>p<Down><Down><Down><LAlt><Tab><LAlt><Tab><Up><Up><Up><Up><Up><Down><Down><Down><Down><Esc>dddd<Up><Up><Up><Up><Up>dd<Down><Down><Down>p<LAlt><Tab><LAlt><Tab><Down>dddddddddddddddddddddddddddddd<Esc><RShft>:w
+2019-11-04 16:39:38+0530 > <Down><#+11><Down><Right><#+13><Down><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><Down><Down><Down><Esc><#+1><LCtrl><LShft>V<Down><Down>d<Down><#+25><Up><#+11><Up><Up><Up><Up><Up>p<Down><Down><Down><Esc><LShft>V<Down><Down><Down><Down>d<Down><#+48><Up><#+65><Up><Up><Up><Up><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><Down><#+17><Up><Esc><LShft>V<Down><Down>d<LAlt><Tab><LAlt><Tab><Up><Up><Up><Up><Up><Up>p<LAlt><Tab><LAlt><Tab><Down><#+34><Up><Up><LShft><Esc><LShft>V<Down>d<LAlt><Tab><LAlt><Tab><Up><#+26><Up><Up><Up>p<LAlt><Tab><LAlt><Tab><Down><#+36><Up><#+10><Down><#+22><Up><#+13><Up><Up><LShft><Esc><LShft>V<Down>d<Up><#+36><Up><Up><#+13><Down><#+12><Down>p<Down><Down><Down><Down><LAlt><Tab><LAlt><Tab><Up><#+11><Down><#+20><Down><#+3><Down><Down><Down><Down><Down><Down><Down><Down><Down><Esc><LShft>V<Down><Down>d<Up><#+22>p<Down><Down><Down><LAlt><Tab><LAlt><Tab><Down><#+17><Up><Up><Up><LShft><Esc><LShft>V<Down><Down>d<Up><#+15><Up>p<Down><Down><Down><Esc><LShft>V<Down><Down>d<LAlt><Tab><LAlt><Tab><Down><Down><Down><Down><Down><Down><LAlt><Tab><LAlt><Tab><Esc><LShft><Down><Up><#+28><Down><#+18><Down><Up><Esc><LShft>V<Down><#+26><Down><Down><Down><#+19><Up><#+18><Down><Down><Down><Down><Up><#+27><Down><#+25><Down><Down>d<Up><#+38><Down><#+48><Up><#+13><Up><Up><Up><Up><Down><Right><#+14><Right>i<BckSp>3<Up><#+13><Esc><Up><#+20><Up><Up><Up><Up><Up><Down><#+15><Up><Right><Up><Right><#+13>i<BckSp>1<Down><Down><Down><Down><Down><BckSp>1<Down><Down><BckSp>1<Down><Down><Down><Down><Down><BckSp>1<Down><Down><Down><BckSp>1<Down><Down><Down><Down><Down><BckSp>1<Esc><Up><#+17><Up><#+11><Down><Down><Down><Right><#+31><Right><Right><Right>i<BckSp>7<LAlt><Tab><LAlt><Tab><Down><Down><Down><Right>i<BckSp><BckSp>5<Right><Right><Right><Right><BckSp>1<Esc>dddddd<Right><#+26><Right><Right><Right><Right><Right><Right><Right><Right>i<BckSp>5<Esc><RShft>:w
+2019-11-04 16:45:32+0530 > <Down><Down><Down><Down><Down><Down><Right><#+14><Right>i<BckSp>1<Down><Down><Down><Right><#+8><Right><BckSp>7<Down><Down><Down><Down><Down><Left><#+9><Left><Left><Right>i<BckSp><BckSp>1<Down><Down><#+20><Up><#+30><Down><#+20><Down><Down><Down><Down><Esc>dddd<Esc>u<Down>dddddddd<Down>dd<Down>dd<Down>dddddddd<Down>dddd<Down><#+18><Up><#+13><Up><Up><Up><Up><Right><#+7><RShft>*n<Down><#+38><Up><#+13><Down><#+30><Down><#+13><Up><#+83><Down><#+17><Down><Down><Up><Right><Right><Right><Right><Right>i<BckSp>3<Down><#+73><Up><#+40><Down><#+20><Down><Up><#+8><Up><Right><Right><Esc>yy<Down><#+14><Down><Down><Down><Down><Down>pi<BckSp><BckSp>        <Esc><RShft>:w
+2019-11-04 16:48:24+0530 > <Right><RShft>*nnn<Down><#+44><Down><#+41><Down><#+11><LAlt><Tab><LAlt><Tab><Down><#+13><Up><Up><Up><Up><Up><Up><Down><Right><#+9><Left><Left><Left><Up><#+40><Down><#+20><Down><#+24><Down><#+11><Up><#+15><Up><#+13><Up><Up><Up><Right><RShft>*nn<Down><#+24><Up><#+10><Up><Right><Right><#+11><Right><Left><RShft>*nnnnnnn<Right><#+10><Right><Right>i<BckSp><BckSp><BckSp>aq<Down><#+19><Down><Right><Right><BckSp><BckSp>a<BckSp><BckSp>aq<Esc>/<Up>
+2019-11-04 16:51:26+0530 > <Right><#+10><Right><Right>i<BckSp><BckSp><BckSp>aq<Down><#+25><Down><#+35><Down><#+22><Esc><RShft>:w
+2019-11-04 16:51:41+0530 > <Down><#+25><Down><#+18><Down><#+10><Up><#+28><Down><#+47><Down><#+17><Down><#+2><Down><#+12><Down><Up><#+12><Up><Up><Right><#+8><Right><Right><Left><Left><Left><RShft>*<Down><#+16><Down><Down><Down><#+10><Down><#+19><Down><Down><Down><Down><Down><Down><Down><Down><Down><Esc><RShft>:saq<BckSp><BckSp><BckSp><BckSp>w<Esc><RShft>:wq
+2019-11-04 16:52:55+0530 > <Esc><RShft>:wq
+2019-11-04 16:52:59+0530 > cd 
+2019-11-04 16:53:01+0530 > cd 
+2019-11-04 16:53:06+0530 > <F2><Left><Left><Del><Del><Del><Del><Del><Del><Del><Del><Del>2n<BckSp><BckSp>4nov<Del><Del><Del><Del><Del><Del><Del>
+
+Logging stopped at 2019-11-04 16:54:58+0530
+
