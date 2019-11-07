@@ -1,0 +1,16 @@
+Logging started ...
+
+2019-11-07 12:50:29+0530 > cd sr<Tab><LShft>B<Tab><Tab><LShft>L<Tab>/t<Tab>\<Tab><BckSp><BckSp><Tab>th<Tab>
+2019-11-07 12:51:03+0530 > ls
+2019-11-07 12:51:04+0530 > cd<BckSp><BckSp><BckSp>dme<Tab>
+2019-11-07 12:51:08+0530 > ./th<Tab>/de<Tab>tty<LShft>USB0 adv
+2019-11-07 12:56:34+0530 > <LCtrl>c
+2019-11-07 12:57:14+0530 > dme<Tab>
+2019-11-07 12:57:27+0530 > <Up><Up><Left><Left><Left><Left><BckSp><BckSp><BckSp><BckSp><LShft>ACMo<BckSp>0
+2019-11-07 12:57:36+0530 > <LCtrl>c
+2019-11-07 12:57:41+0530 > <Up><Up><Up>
+2019-11-07 12:58:07+0530 > <LCtrl>c
+2019-11-07 12:58:19+0530 > v <F9><F8><BckSp><#+17><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>need to tet <BckSp><BckSp>st the released bmo<BckSp>p file.<BckSp><BckSp><KP8><KP0><LShft>Driver has been brought up a<BckSp>need to develop as per design.<LCtrl>ss
+
+Logging stopped at 2019-11-07 22:05:29+0530
+
