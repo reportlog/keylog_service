@@ -1,0 +1,26 @@
+Logging started ...
+
+2019-11-11 15:00:24+0530 > zs10062013
+2019-11-11 15:52:31+0530 > cd <LShft>Down<Tab><LShft>Lo<Tab>yo<Tab>yo<Tab>wo<Tab><Tab><BckSp><BckSp>bu<Tab>tm<Tab>wo<Tab>/co<Tab>bl<Tab><Tab>u<Tab><Tab><Tab><Tab>blu<Tab>
+2019-11-11 15:53:22+0530 > ls
+2019-11-11 15:53:23+0530 > cd cli<Tab>
+2019-11-11 15:53:26+0530 > vim ma<Tab>.c
+2019-11-11 15:53:29+0530 > <PgDn><#+22><PgDn><#+18><PgUp><#+8><PgDn><PgUp><PgUp><#+7><PgUp><PgUp><Down><#+20><Down><#+9><Down><#+3><Down><#+11><Up><#+36><Down><Down><RShft>*nnnnn<Down><#+35><Down><#+12><Down><#+25><Down><#+48><Esc><RShft>:q
+2019-11-11 15:54:08+0530 > 
+2019-11-11 15:54:09+0530 > 
+2019-11-11 15:54:10+0530 > 
+2019-11-11 15:54:10+0530 > 
+2019-11-11 15:54:10+0530 > ls
+2019-11-11 15:54:18+0530 > <LCtrl>c
+2019-11-11 15:54:42+0530 > <LCtrl><LShft>V
+2019-11-11 15:54:45+0530 > make cle<Tab>
+2019-11-11 15:54:48+0530 > make
+2019-11-11 15:54:50+0530 > cp obj<Tab>hu<Tab>bleapp
+2019-11-11 15:55:14+0530 > cp ob<Tab><BckSp><#+14>ls
+2019-11-11 15:55:20+0530 > rm ble<Tab>ap<Tab>ble<Tab>t<Tab>
+2019-11-11 15:55:30+0530 > cp /obj<Tab><Tab><Tab><Tab><Tab><BckSp><#+18>cp<Tab><#+1> ob<Tab>hu<Tab>obj<Tab>bleapp
+2019-11-11 15:55:49+0530 > cp ob<Tab>b<Tab>/tft<Tab>
+2019-11-11 15:55:57+0530 > 
+
+Logging stopped at 2019-11-11 16:03:42+0530
+
