@@ -1,0 +1,146 @@
+Logging started ...
+
+2019-11-19 18:10:49+0530 > .168.1.53
+2019-11-19 18:10:55+0530 > <LCtrl>c
+2019-11-19 18:10:59+0530 > <Up>
+2019-11-19 18:11:04+0530 > ifco<Tab>
+2019-11-19 18:11:22+0530 > <Up><Up>
+2019-11-19 18:11:29+0530 > chmod 777 te<Tab>s<Tab>
+2019-11-19 18:11:37+0530 > ./te<Tab>st<Tab><RShft>
+2019-11-19 18:11:42+0530 > vim ma<Tab>
+2019-11-19 18:11:50+0530 > <Down><Down><Down><#+18><Up><Up><Up><Up><Up><Up><Up><Up><Up><Right><#+21><Right><Right><Right><Esc><RShft>:q
+2019-11-19 18:13:00+0530 > 
+2019-11-19 18:13:27+0530 > 
+2019-11-19 18:13:28+0530 > 
+2019-11-19 18:13:28+0530 > 
+2019-11-19 18:13:29+0530 > 
+2019-11-19 18:13:29+0530 > 
+2019-11-19 18:13:29+0530 > 
+2019-11-19 18:13:29+0530 > 
+2019-11-19 18:13:29+0530 > 
+2019-11-19 18:13:29+0530 > cd /et<Tab>
+2019-11-19 18:13:31+0530 > <Up><Up><Up>
+2019-11-19 18:13:35+0530 > tftp -r test -g 192.168.1.53
+2019-11-19 18:13:50+0530 > chmod 777 test
+2019-11-19 18:13:55+0530 > ./test<Tab>
+2019-11-19 18:13:58+0530 > <Up><Up>
+2019-11-19 18:14:03+0530 > <LCtrl>c
+2019-11-19 18:14:22+0530 > <#+2><LShft>c
+2019-11-19 18:14:23+0530 > <LCtrl>v<Down>
+2019-11-19 18:14:29+0530 > <LAlt><Tab>cd /
+2019-11-19 18:14:48+0530 > cd /de<Tab>dr<Tab><Tab><Tab>a<Tab><BckSp><BckSp><BckSp><#+17><Up><Down><#+12><Down><Down><Down><Esc>yyp<Up><Left>i//<Down><Right><#+22><Right><Right><Right><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>cd /de<Tab>dri<Tab>
+2019-11-19 18:15:19+0530 > ls
+2019-11-19 18:15:20+0530 > pwd
+2019-11-19 18:15:22+0530 > <LShft><Ins>/<LShft><Ins><Esc><RShft>:wq
+2019-11-19 18:15:38+0530 > 
+2019-11-19 18:15:39+0530 > 
+2019-11-19 18:15:39+0530 > 
+2019-11-19 18:15:39+0530 > <Up><Up><Up><Up><Up><Up><Down><#+19>make cl<Tab>e<Tab><Tab><Tab><Tab><Tab><BckSp><#+16>ls
+2019-11-19 18:15:49+0530 > make cle<Tab><Tab><Tab><BckSp><BckSp><BckSp><BckSp>
+2019-11-19 18:15:54+0530 > <Up><Up><Up><Up>
+2019-11-19 18:15:59+0530 > 
+2019-11-19 18:16:01+0530 > 
+2019-11-19 18:16:02+0530 > 
+2019-11-19 18:16:02+0530 > cd /et<Tab>
+2019-11-19 18:16:04+0530 > em ./te<Tab>s<Tab><RShft><Left><#+12><Right><BckSp>r
+2019-11-19 18:16:13+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down>
+2019-11-19 18:16:17+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up>
+2019-11-19 18:16:21+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up>
+2019-11-19 18:16:25+0530 > <Up><Up><Up><Up><Up><Down>
+2019-11-19 18:16:33+0530 > <Down><Down><Down><LAlt><Tab><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Up><Up><Up>i<End>
+2019-11-19 18:17:38+0530 >  <#+9>   pe<BckSp>rintf<RShft>();<Left><Left><RShft>""<Left><LShft>fd = <LShft>%d\n<Right>,fd<Esc><RShft>:wq
+2019-11-19 18:17:58+0530 > <LCtrl><LShft>T<Up><Up><Up> clean
+2019-11-19 18:18:07+0530 > mae<BckSp>ke
+2019-11-19 18:18:12+0530 > <Up><Up><Up><Up><Up><Down>
+2019-11-19 18:18:16+0530 > <Up><Up><Up><Up><Up><Down>
+2019-11-19 18:18:22+0530 > <Up><Up><Up><Up><Up><Down>
+2019-11-19 18:18:24+0530 > <Up><Up><Up><Up><Up><Down>
+2019-11-19 18:18:27+0530 > <Up><Up><Up><Up>
+2019-11-19 18:18:29+0530 > vim ma<Tab>
+2019-11-19 18:18:38+0530 > m<Tab><Tab>t<Tab><BckSp><BckSp>od<Tab><Tab>et<Tab>
+2019-11-19 18:19:02+0530 > <LCtrl><LShft><Up><#+2><Up><#+12><Up><#+36>modetest for <LShft>STM32<LShft>MP
+2019-11-19 18:19:18+0530 > <LCtrl>c
+2019-11-19 18:19:56+0530 > <#+1>
+2019-11-19 18:19:59+0530 > <LCtrl><LShft>V
+2019-11-19 18:20:01+0530 > modtest <Left><Left><Left><Left><Left>e<End><BckSp>.c<Down><Down>
+2019-11-19 18:20:54+0530 > <LAlt><Tab><LCtrl><LCtrl><LShft>c
+2019-11-19 18:21:23+0530 > <LCtrl>fv<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>
+2019-11-19 18:21:33+0530 > 
+2019-11-19 18:21:35+0530 > <LCtrl>vim ma<Tab>
+2019-11-19 18:22:16+0530 > de<Down><Down><Down><#+13><Right><#+29><Right>i<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>stm<Esc><RShft>:w
+2019-11-19 18:22:32+0530 > <Esc><RShft>:q
+2019-11-19 18:22:40+0530 > makw<BckSp>e
+2019-11-19 18:22:45+0530 > <Up><Up><Up><Up><Down>
+2019-11-19 18:22:49+0530 > <LCtrl>c
+2019-11-19 18:22:51+0530 > 
+2019-11-19 18:22:52+0530 > 
+2019-11-19 18:22:52+0530 > 
+2019-11-19 18:22:52+0530 > <Up><Up><Up><Up><Up><Up>
+2019-11-19 18:22:55+0530 > <Up><Up><Up><Up><Up><Up>
+2019-11-19 18:22:57+0530 > <Up><Up><Up><Up><Up><Up>
+2019-11-19 18:22:59+0530 > <Up><Up><Up><Up><Up><Up>
+2019-11-19 18:23:02+0530 > <RShft>:88
+2019-11-19 18:23:17+0530 > <Right><#+20><Right><#+19><Right><Right><Right><Right><Right><RShft>*
+2019-11-19 18:24:36+0530 > 
+2019-11-19 18:24:37+0530 > 
+2019-11-19 18:24:37+0530 > 
+2019-11-19 18:24:37+0530 > 
+2019-11-19 18:24:37+0530 > <#+2>ccd<BckSp><BckSp>d/et<Tab>
+2019-11-19 18:24:43+0530 > cd /et<Tab>
+2019-11-19 18:24:46+0530 > tftp -r test -g 192.168.1.53
+2019-11-19 18:24:57+0530 > chmof<BckSp>d 777 ./te<Tab>st<Tab>
+2019-11-19 18:25:04+0530 > ./test<Tab>
+2019-11-19 18:25:07+0530 > <RShft>:q
+2019-11-19 18:25:24+0530 > <Up>
+2019-11-19 18:25:26+0530 > <RShft>:36
+2019-11-19 18:25:29+0530 > <Up>i<Left>//<Down>//<Down><Down><Down><Down><Down><Down><Down><Down><Down><Up><Up><Up><Up><Up><#+8><Up><Up><BckSp><BckSp><Down><Right><Right><Down><#+24><Down><#+8><Down><#+9><Down><#+9><Down><Down><Down><Down><Down><#+7><Down><Down><Down><Down><Down><Down><Down><Up><Up><Up><Down><Down><Up><#+53><Down><#+16><Down><#+25><Down><#+11><Esc><Down><Down><Down><Down><Down><Down><Down><#+11><Down><Down><Down><Up><#+17><Down><#+12><Down><#+12><Down><#+14><Down><#+14><Up><#+25><Up><#+14><Up><#+15><Up><#+9><Up><#+30><Down><#+19><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><LAlt><Tab><LAlt><Tab><LCtrl>c
+2019-11-19 18:28:31+0530 > <LAlt><Tab><LCtrl><LShft>V
+2019-11-19 18:28:35+0530 > <LCtrl>c
+2019-11-19 18:29:38+0530 > <Up><BckSp><#+13><BckSp><BckSp><BckSp>
+2019-11-19 18:29:46+0530 > <LCtrl><BckSp><BckSp><#+3><BckSp><BckSp>patet<BckSp><BckSp>tern
+2019-11-19 18:32:14+0530 > 
+2019-11-19 18:32:15+0530 > 
+2019-11-19 18:32:17+0530 > 
+2019-11-19 18:32:20+0530 > 
+2019-11-19 18:32:23+0530 > 
+2019-11-19 18:32:27+0530 > 
+2019-11-19 18:32:28+0530 > 
+2019-11-19 18:32:29+0530 > 
+2019-11-19 18:32:31+0530 > 
+2019-11-19 18:32:32+0530 > 
+2019-11-19 18:32:35+0530 > 
+2019-11-19 18:32:40+0530 > 
+2019-11-19 18:32:40+0530 > 
+2019-11-19 18:32:41+0530 > 
+2019-11-19 18:32:42+0530 > 
+2019-11-19 18:32:44+0530 > <LCtrl>c
+2019-11-19 18:32:52+0530 > f<LCtrl>c
+2019-11-19 18:33:07+0530 > f<LAlt><Tab><LAlt><Tab><LAlt><Tab><Esc><RShft>:q
+2019-11-19 18:33:28+0530 > cd ../../../
+2019-11-19 18:33:32+0530 > cd ../..
+2019-11-19 18:33:35+0530 > cd ..
+2019-11-19 18:33:42+0530 > locate modetest.c
+2019-11-19 18:33:53+0530 > <LCtrl><LShft>R<Esc><LCtrl><LShft>Tcd <LShft><Ins><Home><Del><Del>vim
+2019-11-19 18:34:30+0530 > <Down><#+40><Down><#+12><Down><#+9>/pattern
+2019-11-19 18:34:40+0530 > nnn<Right><Right><Right><Right><#+2><Right><Right><Right><Right><Right><Right><RShft>*nn<LCtrl><LShft>T<Esc><RShft>:q
+2019-11-19 18:35:05+0530 > cd <LShft><Ins><BckSp><#+11><BckSp><BckSp><BckSp>
+2019-11-19 18:35:13+0530 > vim mode<Tab>
+2019-11-19 18:35:19+0530 > /pa<Tab><BckSp>tt<Tab><BckSp>ern
+2019-11-19 18:35:26+0530 > mnnnnn<LCtrl><LShft>Tgrep -ar <RShft>""<Left><LShft><Ins>
+2019-11-19 18:35:44+0530 > cd ..
+2019-11-19 18:35:49+0530 > <Up><Up>
+2019-11-19 18:35:50+0530 > vim <LShft><Ins>
+2019-11-19 18:36:01+0530 > /<LShft><Ins><BckSp>
+2019-11-19 18:36:04+0530 > n<LCtrl>c
+2019-11-19 18:37:48+0530 > c
+2019-11-19 18:37:49+0530 > /<LShft><Ins>
+2019-11-19 18:38:01+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LCtrl>c
+2019-11-19 18:38:18+0530 > c
+2019-11-19 18:38:18+0530 > <LAlt><Tab>/<LShft><Ins>
+2019-11-19 18:38:21+0530 > <LAlt><Tab><LCtrl>c
+2019-11-19 18:38:33+0530 > c
+2019-11-19 18:38:34+0530 > <LAlt><Tab><Down><Down><Down><Down>i<Right><Esc><RShft>:q
+2019-11-19 18:38:45+0530 > cp mod<Tab>mode<Tab><#+1><Left><Left><Left><RShft>_or
+
+Logging stopped at 2019-11-19 18:38:59+0530
+
