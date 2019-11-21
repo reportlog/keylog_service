@@ -1,0 +1,42 @@
+Logging started ...
+
+2019-11-21 09:54:49+0530 > zs10062013
+2019-11-21 09:55:21+0530 > cd <LShft>Down<Tab><LShft>Lo<Tab>y<Tab>yo<Tab>w<BckSp>bu<Tab>tm<Tab>w<Tab>/co<Tab>blu<Tab>5<Tab>blu<Tab>cl<Tab>
+2019-11-21 09:56:17+0530 > vim ma<Tab>.c
+2019-11-21 09:56:20+0530 > <LCtrl><LShft>Tvim <BckSp><#+11>cd ../../bu<Tab>
+2019-11-21 09:56:35+0530 > <LCtrl><LShft>Tsudo minicom -s
+2019-11-21 09:56:49+0530 > zs<KP1><KP0><KP0><KP6><KP2><KP0><KP1><KP3>
+2019-11-21 09:56:54+0530 > <Down><Down>
+2019-11-21 09:56:55+0530 > a<BckSp><BckSp><BckSp><BckSp><LShft>ACM0
+2019-11-21 09:57:00+0530 > ee
+2019-11-21 09:57:02+0530 > 
+2019-11-21 09:57:02+0530 > <Down><Down><Down><Down><Up>
+2019-11-21 09:57:05+0530 > <Down><Down>
+2019-11-21 09:57:07+0530 > <Down><#+101><Down><#+20><Down><#+23><Down><#+43><Down><#+24><Down><#+44><Down><Down><#+10><Down><#+13><Down><#+10><Up><#+73><Down><#+13><Up><Down><Down><Down><Down><Down><Down><Down><Right><Right><Right><Right><Right><RShft>*
+2019-11-21 09:57:58+0530 > <#+3>
+2019-11-21 09:57:59+0530 > cd /et<Tab>
+2019-11-21 09:58:01+0530 > .
+2019-11-21 09:58:28+0530 > 
+2019-11-21 09:58:29+0530 > 
+2019-11-21 09:58:29+0530 > 
+2019-11-21 09:58:29+0530 > ./blet<Tab>
+2019-11-21 09:58:31+0530 > <LCtrl>c
+2019-11-21 09:59:30+0530 > <Up>
+2019-11-21 09:59:40+0530 > <RShft>*<Down><#+36><Down><#+29><Up><Up><Up><Up><Up><Up><Up><#+64><Down><#+14><Down><Down><RShft>*<Down><Down><Up><Up><Down><Down><Down><RShft>*<Down><#+16><Down><#+13><Up><#+21><Up><#+2><Down><Right><#+25><Left>i<BckSp><BckSp>100<Up><#+70><Down><#+17><Left><BckSp><BckSp><KP1><KP0><KP0><Down><#+116><Up><#+21><Up><Up><Down><Left><BckSp><BckSp><KP1><KP0><KP0><Down><#+53><Up><#+30><Left><BckSp><BckSp><KP1><KP0><KP0><Down><#+32><Up><#+9><Left><BckSp><BckSp><KP1><KP0><KP0><Down><#+44><Up><#+20><Left><BckSp><BckSp><KP1><KP0><KP0><Down><#+39><Up><#+13><Up><Up><Up><Left><BckSp><BckSp><KP1><KP0><KP0><Down><#+38><Esc><RShft>:w
+2019-11-21 10:03:37+0530 > <LCtrl>c
+2019-11-21 10:03:59+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><Tab><LCtrl><LShft>V
+2019-11-21 10:04:03+0530 > make -j4
+2019-11-21 10:04:07+0530 > cp cli<Tab>blu<Tab>bletest
+2019-11-21 10:04:26+0530 > cp blet<Tab>/tft<Tab>
+2019-11-21 10:04:31+0530 > 
+2019-11-21 10:04:33+0530 > 
+2019-11-21 10:04:33+0530 > 
+2019-11-21 10:04:33+0530 > rm ./blet<Tab>
+2019-11-21 10:04:36+0530 > tftp -r bletetst <BckSp><BckSp><BckSp><BckSp>st -g 192.168.1.53
+2019-11-21 10:04:53+0530 > chmod 777 ./bletetst<BckSp><BckSp><BckSp>st
+2019-11-21 10:05:03+0530 > ./ble<Tab>
+2019-11-21 10:05:17+0530 > zs10063<BckSp>2013
+2019-11-21 10:25:12+0530 > <LCtrl>c
+2019-11-21 10:25:17+0530 > zs<KP1><KP0><KP0><KP6><KP2><KP0><KP1><KP3>
+2019-11-21 12:02:35+0530 > <LShft><LShft>How to run bmp file using <LShft>DRM in <LShft>STM32<LShft>MP yocto
+2019-11-21 12:06:26+0530 > 
