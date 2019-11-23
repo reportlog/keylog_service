@@ -1,0 +1,158 @@
+Logging started ...
+
+2019-11-23 17:10:03+0530 > 
+2019-11-23 17:10:07+0530 > 
+2019-11-23 17:10:08+0530 > 
+2019-11-23 17:10:08+0530 > 
+2019-11-23 17:10:16+0530 > <#+4>vim <RShft><Ins>
+2019-11-23 17:10:22+0530 > <Esc><LShft>:q<LShft>!
+2019-11-23 17:10:24+0530 > 
+2019-11-23 17:10:24+0530 > 
+2019-11-23 17:10:24+0530 > <Up><BckSp>
+2019-11-23 17:10:27+0530 > <Down><#+14><Down><Esc><LShft>:q<LShft>!
+2019-11-23 17:10:31+0530 > 
+2019-11-23 17:10:32+0530 > 
+2019-11-23 17:10:32+0530 > vim wi<Tab><Tab><Tab>a<Tab>
+2019-11-23 17:10:36+0530 > <Esc><LShft>:q<LShft>!
+2019-11-23 17:10:40+0530 > 
+2019-11-23 17:10:40+0530 > <Up><Up>
+2019-11-23 17:10:42+0530 > <#+4><Esc><LShft>:q<LShft>!
+2019-11-23 17:10:46+0530 > 
+2019-11-23 17:10:46+0530 > g
+2019-11-23 17:10:54+0530 > struct iwe<BckSp><Down>
+2019-11-23 17:11:00+0530 > <LCtrl>fiwreq
+2019-11-23 17:11:11+0530 > 
+2019-11-23 17:11:12+0530 > <Down><Down><Down><LCtrl>fflags
+2019-11-23 17:11:54+0530 > 
+2019-11-23 17:11:56+0530 > 
+2019-11-23 17:11:57+0530 > 
+2019-11-23 17:11:59+0530 > 
+2019-11-23 17:12:01+0530 > 
+2019-11-23 17:12:02+0530 > 
+2019-11-23 17:12:04+0530 > 
+2019-11-23 17:12:04+0530 > 
+2019-11-23 17:12:08+0530 > 
+2019-11-23 17:12:08+0530 > 
+2019-11-23 17:12:09+0530 > 
+2019-11-23 17:12:10+0530 > 
+2019-11-23 17:12:11+0530 > 
+2019-11-23 17:12:12+0530 > 
+2019-11-23 17:12:13+0530 > 
+2019-11-23 17:12:18+0530 > 
+2019-11-23 17:12:19+0530 > 
+2019-11-23 17:12:20+0530 > <#+1>g
+2019-11-23 17:13:10+0530 > optional param in c
+2019-11-23 17:13:18+0530 > <#+1>
+2019-11-23 17:13:43+0530 > 
+2019-11-23 17:13:43+0530 > <LCtrl>c
+2019-11-23 17:13:47+0530 > f
+2019-11-23 17:13:50+0530 > 
+2019-11-23 17:13:50+0530 > 
+2019-11-23 17:13:58+0530 > <#+1>
+2019-11-23 17:14:14+0530 > 
+2019-11-23 17:14:15+0530 > 
+2019-11-23 17:14:18+0530 > 
+2019-11-23 17:14:21+0530 > 
+2019-11-23 17:14:21+0530 > 
+2019-11-23 17:14:21+0530 > 
+2019-11-23 17:14:24+0530 >  <Down>
+2019-11-23 17:15:01+0530 > <LCtrl>a\<LCtrl>a<Del>explict flags
+2019-11-23 17:15:27+0530 > <Down><Down><#+7><Down><#+14> in c
+2019-11-23 17:15:39+0530 > <Down><#+4><Down><Down><#+4><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Up><#+1><Up><#+38><Down><#+15><Up><#+4><Up>
+2019-11-23 17:16:34+0530 > <PgDn><Down><#+49><Down><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Right><#+17><Right><Right><Left><Left><Right><Right><Right><Right><Down><Up><Down><Down><Up><Down><Up><Up><Down><Up><Down><Up><Down><Up><Down><Up><Down><Up><Down><Up><Down><Up><Down><Up><Down><Up><Down><Up><Down><Up><Up><Down><Up><Down><Up><Down><LAlt><Tab><#+2><Down><Down><#+6><Down><#+10><Down><#+25><Down><Down><Down><#+18><LCtrl>f<#+1><BckSp>fla<BckSp><BckSp><BckSp><BckSp><Up><#+12><Up><#+11><Up><#+10><Down><#+19><Down><#+11><Down><#+1><Down><Down><#+11><Up><#+13><Up><#+14><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><LCtrl>fstat<BckSp><BckSp><BckSp><BckSp><LShft>STATS
+2019-11-23 17:19:34+0530 > 
+2019-11-23 17:19:36+0530 > <#+2><Down><#+13><Up><Up><Up><Down><#+13><Down><#+8><Down><#+10><Down><#+13><Down><Down><#+9><Down><Down><Down><Down><Down><Down><Down><Down><#+13><Down><#+17><Down><#+13><Down><#+14><Down><#+14><Down><Down><Up><#+18><Down><Up><LCtrl>fflags
+2019-11-23 17:20:11+0530 > 
+2019-11-23 17:20:13+0530 > 
+2019-11-23 17:20:14+0530 > 
+2019-11-23 17:20:14+0530 > 
+2019-11-23 17:20:17+0530 > 
+2019-11-23 17:20:17+0530 > 
+2019-11-23 17:20:18+0530 > 
+2019-11-23 17:20:29+0530 > 
+2019-11-23 17:20:31+0530 > 
+2019-11-23 17:20:33+0530 > <#+2>
+2019-11-23 17:20:34+0530 > <#+1>
+2019-11-23 17:20:35+0530 > 
+2019-11-23 17:20:36+0530 > <#+1>
+2019-11-23 17:20:37+0530 > 
+2019-11-23 17:20:37+0530 > 
+2019-11-23 17:20:42+0530 > 
+2019-11-23 17:20:43+0530 > 
+2019-11-23 17:20:43+0530 > 
+2019-11-23 17:21:16+0530 > 
+2019-11-23 17:21:16+0530 > 
+2019-11-23 17:21:17+0530 > <LAlt><LAlt><Tab><LAlt><Tab>
+2019-11-23 17:21:48+0530 > 
+2019-11-23 17:21:49+0530 > 
+2019-11-23 17:21:49+0530 > 
+2019-11-23 17:21:55+0530 > 
+2019-11-23 17:21:55+0530 > 
+2019-11-23 17:21:58+0530 > 
+2019-11-23 17:21:59+0530 > 
+2019-11-23 17:21:59+0530 > 
+2019-11-23 17:22:03+0530 > 
+2019-11-23 17:22:06+0530 > 
+2019-11-23 17:22:07+0530 > 
+2019-11-23 17:22:08+0530 > 
+2019-11-23 17:22:08+0530 > 
+2019-11-23 17:22:09+0530 > 
+2019-11-23 17:22:09+0530 > 
+2019-11-23 17:22:10+0530 > 
+2019-11-23 17:22:10+0530 > 
+2019-11-23 17:22:10+0530 > 
+2019-11-23 17:22:10+0530 > 
+2019-11-23 17:22:11+0530 > 
+2019-11-23 17:22:11+0530 > 
+2019-11-23 17:22:11+0530 > 
+2019-11-23 17:22:11+0530 > 
+2019-11-23 17:22:11+0530 > 
+2019-11-23 17:22:12+0530 > 
+2019-11-23 17:22:12+0530 > 
+2019-11-23 17:22:13+0530 > 
+2019-11-23 17:22:13+0530 > 
+2019-11-23 17:22:13+0530 > 
+2019-11-23 17:22:13+0530 > 
+2019-11-23 17:22:14+0530 > 
+2019-11-23 17:22:14+0530 > 
+2019-11-23 17:22:14+0530 > <LCtrl>fexpli<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><PgUp><#+43><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><Up><#+11><Down><Down><Up><Up><Down><Down><Down><Down><Down><Down><Down><Down><Up><#+15><Up><#+18><Up><Up><Up><Up><#+13><Up><Up><Up><Down><#+20><Down><#+14><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Esc><LShft>:q<LShft>!
+2019-11-23 17:23:18+0530 > 
+2019-11-23 17:23:19+0530 > <#+1>
+2019-11-23 17:23:19+0530 > cd
+2019-11-23 17:23:19+0530 > 
+2019-11-23 17:23:20+0530 > cd s<Tab><#+1>a<Tab>
+2019-11-23 17:23:22+0530 > ls
+2019-11-23 17:23:22+0530 > cd <LShft>S<Tab><#+3>
+2019-11-23 17:23:24+0530 > ls
+2019-11-23 17:23:25+0530 > cd ..
+2019-11-23 17:23:27+0530 > 
+2019-11-23 17:23:27+0530 > cd <LShft>S<Tab><#+3>
+2019-11-23 17:23:29+0530 > mv <LShft>~/<LShft>Dow<Tab><LCtrl>c
+2019-11-23 17:23:34+0530 > <#+1>mv <LShft>~/<LShft>Dw<Tab><BckSp><#+6>ow<Tab><LShft>wi<Tab><#+4> .
+2019-11-23 17:23:44+0530 > sync
+2019-11-23 17:23:46+0530 > 
+2019-11-23 17:23:46+0530 > 
+2019-11-23 17:23:46+0530 > cd ..
+2019-11-23 17:23:48+0530 > ls
+2019-11-23 17:23:49+0530 > vim us<Tab>
+2019-11-23 17:23:54+0530 > 
+2019-11-23 17:23:55+0530 > <Esc>4dd4dd<Esc><LShft>:w<LShft>!
+2019-11-23 17:24:01+0530 > /<LShft>_init
+2019-11-23 17:24:04+0530 > n<Down><#+22><Down><#+4><Up><Up><Up><Up><Up><Up><Up><Up><Down><#+25><Down><#+13><Up><Up><Up><Up><Up><Up><Up><Up><Down><#+17><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><PgUp><PgUp><Down><#+17><Down><Up><#+14><Up><Up><LAlt><Tab><Up><#+17><Up><Up><Up><Up><#+38><Up><#+11><Up><Up><Up><Down><#+55><Up><#+54><LAlt><Tab><Down><#+9><Down><Down><Down><Down><RCtrl><PgDn><RCtrl><PgUp><PgDn><PgUp><PgDn><PgUp><BckSp>platform driver and device <Down><Down>
+2019-11-23 17:28:11+0530 > <#+1><Down><Down><Down><Down><Down><Down><Down><Up><#+6><Up><Up><Up><Up><Up><LAlt><Tab><Down><#+11><PgDn><Up><Up><Down><Down><Down><#+13><Down><Down><Down><Right><#+53><LAlt><Tab><#+1><Down><#+7><Down><Down><Up><#+2><Up><Up><Up><Up><Down><Up><Down><Down><Down><Up><Up><Down><Down><Down><Down><Down><Down><Down><Down><Down><#+10><Up><Up><Down><#+3><Down><#+11><Down><Up><#+5><Up><#+12><Up><Up><Up><Up><Down><#+10><Down><#+14><Down><#+15><Up><Up><Up><Down><#+21><Down><#+36><Up><#+16><Up><#+12><Down><Down><Down><Down><#+13><Down><Up><#+14><Down><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><#+7><Up><Up><Up><Up><Up><Up><Up><Up><Up><#+28><Up><Up><Up><#+24><Up><#+17><Up><#+5><Down><Down><Down><Down><Down><Down><Down><Down><Left><#+13><RShft>*<#+1><Up><#+5><Down><Down><Down><Down><Down><Up><Up><Up><Up>nnnnnnn<#+3>n<#+2><Down><Down><Up><Left><#+13><RShft>*<Up><Up><Up><Up><Down><#+11><Down><Down><#+14><PgDn><Down><#+46><Down><#+1><Down><Down><Up><#+17><Up><Down><#+12><Down><Up><#+20><Up><Up><#+12><Up><Up><Right><#+38><RShft>*nn<#+1>n<Down><Down><Down><Down><Down><Up><Up><Up><Up><Right><#+30><Left><#+10><Up><#+23><Up><Up><Left><#+2><Left><RShft>*<Down><Up><Up><Down><Down><Down><Down><Down><Down><Down><Down><Down><Right><#+15><Up><Right><#+16><Left><#+14><Right><Left><Right><Left><Right><Left><Right><Left><Right><Left><Right><Left><Right><Left><Right><Left><Right><Left><Right><Left><Right><Left><Right><Left><Right><Left><Right><Left><Right><Left><Right><Left><Right><Left><Right><Left><Right><Left><Right><Left><Right><#+2><Left><#+1><Right><#+1><Left><Right><Left><Left><Right><Left><Right><#+2><Left><Right><Left><Right><Left><Right><Left><Right><Left><Right><Left><Right><Left><Right><RShft>*nn<#+1>
+2019-11-23 17:56:52+0530 > <#+8><Esc><LShft>:q<LShft>!
+2019-11-23 17:56:54+0530 > 
+2019-11-23 17:56:55+0530 > grep -rms<BckSp><BckSp>ns <LShft>""<Left><RShft><Ins>
+2019-11-23 17:57:01+0530 > 
+2019-11-23 17:57:09+0530 > 
+2019-11-23 17:57:09+0530 > 
+2019-11-23 17:57:10+0530 > 
+2019-11-23 17:57:10+0530 > 
+2019-11-23 17:57:10+0530 > <LCtrl>c
+2019-11-23 17:57:11+0530 > vim us<Tab>
+2019-11-23 17:57:16+0530 > 
+2019-11-23 17:57:17+0530 > /<Up>
+2019-11-23 17:57:19+0530 > <Down><Down><Down><Left><Left><Left><Left><#+26><RShft>*<#+2>n<#+1><Up><Up><Up><Up><Up><Up><Up><Right><#+16><Right><RShft>*<Up><Up><Up><Up><Up><Up><Up><Right><#+19><RShft>*<Down><Down><Down><Up><Up><Up><Left><#+25><Down><RShft><Ins>
+2019-11-23 17:58:24+0530 > 
+2019-11-23 17:58:35+0530 > <Down><#+16>
+2019-11-23 17:58:48+0530 > <#+85><Down><#+11><Down><Down><Down><Down><#+16><Down><#+1><Down><Down><Down><Down><Down><Down><Down><Down><Up><Up><#+21><Down><#+1><Down><#+2><Down><Down><#+12><Down><Down><Down><#+1><Down><Up><#+9><Up><Up><Up><Right><#+15><RShft>*nnn<#+1>n<#+1>nnnnn<Right><#+21><RShft>*<LAlt><Tab><Down><#+20><Up><Up><Up><Up><Up><Down><Down><Down><Up><Up><Up><Up><Up><Up><Right><#+9><RShft>*nnnn<Down><#+17><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Right><#+15><RShft>*n<Down><Down><Left><#+12><Left><Up><Left><RShft>*nnnnn<Down><Right><RShft>*n<Down><Down><Right><Right><RShft>*nn<Down><Right><Right><Right><RShft>*n<PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgDn><PgDn><PgDn><PgUp><PgDn><PgDn><PgDn><LAlt><Tab><Down><Down><Down><Down><Right><#+12><Down><Right><#+28><Down><Left><#+14><Up><Right><#+18><Down><Left><#+15><Up><Up><Left><Left><Left><Left><Left><Up>n<Down><RShft>*N<#+1>nn<#+33><Up><Down><#+31><Down><Down><Up><Up><Up><Up><Up><RShft>*n<Right><#+34><Up><#+29><Up><Up><Up><Up><Up><Up><Up><Up>n<#+1>n<Down><Down><Down><RShft>*<Up><#+14><Up><Up><RShft>*<#+1><Up><Up><Left><#+21><RShft>*
