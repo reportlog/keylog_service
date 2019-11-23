@@ -1,0 +1,36 @@
+Logging started ...
+
+2019-11-23 16:45:29+0530 > <Down><Up><Down><Up><Up><Down><Down><Down><Down><Up><Down><Up><Down><Down><Down><Down><Down><Down><#+10><Down><#+11><Down><Down><#+7>cd <LShft>Dow<Tab>
+2019-11-23 17:02:59+0530 > ls
+2019-11-23 17:03:00+0530 > vim wi<Tab><#+4>c<Tab>
+2019-11-23 17:03:07+0530 > <Down><#+32><Down><Down><Down><#+16><Down><#+9><Up><#+34><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down><#+19><Down><#+14><Down><Down><Up><#+20><Up><Right><#+2><Right><#+21><RShft>*<Down><#+14><Down><Down><Down><Down><Down><#+11><Up><Down><#+14><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Up><#+16><Up><Up><Up><Up><Up><Up><Left><#+13><Down><#+32><Down><#+12><Down><Down><Down><Down><Down><Down><Down><Down><Up><#+33><Down><#+33><Down><#+12><Up><#+34><Up><Up><Down><#+14><Down><Down><Down><Down><Down><Up><#+15><Up><#+10><Down><#+34><Down><#+15><Up><#+13><Up><Up><Up><#+17><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down><#+38><Up><#+23><Esc><LShft>:q<LShft>!
+2019-11-23 17:06:10+0530 > <Up>
+2019-11-23 17:06:13+0530 > <#+2><PgDn><Down><#+19><Down><#+10><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down><Down><Up><Up><Down><Down><Up><Up><Down><Down><Up><Down><Up><Down><Up><Down><Up><Down><#+2><Down><#+25><Down><#+21><Down><#+19><Down><#+35><Down><#+38><Up><#+31><Up><#+16><Up><#+12><Up><#+14><Up><#+12><Up><#+5><Up><Up><Up><Up><Up><Up><Up><Down><#+14><Down><Down><Down><Down><Up><Right><#+8><Esc><LShft>"q<LShft>!<Esc><LShft>:q<LShft>!
+2019-11-23 17:07:01+0530 > 
+2019-11-23 17:07:02+0530 > 
+2019-11-23 17:07:02+0530 > mkdir widi<BckSp><BckSp>fi<LShft>_app<LShft>_sri
+2019-11-23 17:07:09+0530 > cd<BckSp><BckSp>mv w<Tab>i<Tab><LShft>* w<Tab>i<Tab><#+3>a<Tab><Tab>p<Tab><#+5>
+2019-11-23 17:07:20+0530 > <#+1><Up><Left><#+15><Left><Left><Left><Left>.c
+2019-11-23 17:07:26+0530 > <#+1>ls<BckSp><BckSp><BckSp>mv w<Tab><Tab><Tab>i<Tab><#+1><Tab><BckSp><#+28>ls
+2019-11-23 17:07:36+0530 > <#+1>ls
+2019-11-23 17:07:41+0530 > <#+1>ivm <BckSp><#+14>vim wi<Tab><Tab><Tab><Tab><Tab><BckSp><#+28>
+2019-11-23 17:07:52+0530 > 
+2019-11-23 17:07:52+0530 > 
+2019-11-23 17:07:52+0530 > 
+2019-11-23 17:07:53+0530 > cd w<Tab>io<BckSp><Tab>
+2019-11-23 17:07:57+0530 > ls
+2019-11-23 17:07:58+0530 > 
+2019-11-23 17:07:59+0530 > 
+2019-11-23 17:07:59+0530 > vi<#+1>m wi<Tab>a<Tab>
+2019-11-23 17:08:02+0530 > <PgDn><PgDn><PgUp><PgUp><#+4><PgDn><PgDn><PgDn><PgDn><Esc><LShft>:q<LShft>!
+2019-11-23 17:08:11+0530 > 
+2019-11-23 17:08:11+0530 > grep -r<Ins><Ins><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LShft>"da<BckSp><BckSp>req<LShft>"
+2019-11-23 17:08:24+0530 > <LCtrl><LMeta>c
+2019-11-23 17:08:25+0530 > <Up> <LShft>* -r
+2019-11-23 17:08:28+0530 > <#+2>
+2019-11-23 17:09:12+0530 > 
+2019-11-23 17:09:12+0530 > 
+2019-11-23 17:09:17+0530 > 
+2019-11-23 17:09:17+0530 > 
+2019-11-23 17:09:17+0530 > 
+2019-11-23 17:09:17+0530 > 
