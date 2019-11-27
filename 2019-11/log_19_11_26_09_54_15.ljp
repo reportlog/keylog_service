@@ -1,0 +1,96 @@
+Logging started ...
+
+2019-11-26 09:54:15+0530 > zs10062013
+2019-11-26 19:05:04+0530 > cd <LShft>Down<Tab>lo<Tab><BckSp><BckSp><LShft>Lo<Tab>yo<Tab>yo<Tab>bu<Tab>tm<Tab>sy<Tab><Tab><Tab>-c<Tab>co<Tab>g<Tab><Tab>dk<Tab>us<Tab>li<Tab>gdk<Tab>2<Tab>lo<Tab>
+2019-11-26 19:06:35+0530 > ls
+2019-11-26 19:06:36+0530 > sud<BckSp><BckSp><BckSp><BckSp><LCtrl><LShft>Tcd 
+2019-11-26 19:08:11+0530 > cd /me<Tab><Tab><Tab>ro<Tab>ud<BckSp>s<Tab>li<Tab>/gd<Tab><Tab><Tab><BckSp><BckSp>gd<Tab><Tab><BckSp><BckSp>
+2019-11-26 19:08:38+0530 > ls
+2019-11-26 19:08:38+0530 > cd cd <BckSp><#+9>d ../..
+2019-11-26 19:10:10+0530 > ls
+2019-11-26 19:10:11+0530 > find -name <RShft>""<Left>gdk-pixbuf-2.0
+2019-11-26 19:10:35+0530 > <LCtrl><Up><Home>sudo 
+2019-11-26 19:10:40+0530 > zs10062013
+2019-11-26 19:10:45+0530 > <Up><Left><BckSp><#+7><BckSp><BckSp><BckSp><BckSp><#+10><BckSp><BckSp>li<BckSp><BckSp>pixbufloader-bmp.so<BckSp><BckSp><BckSp>
+2019-11-26 19:11:21+0530 > <Up><Down><Up><Left><Right><BckSp><#+24><BckSp><BckSp><BckSp><BckSp>locate gstreamer<RShft>
+2019-11-26 19:11:57+0530 > <RShft>
+2019-11-26 19:12:53+0530 > <Up><Up><Down><BckSp><#+12>loaders
+2019-11-26 19:15:10+0530 > cd <LShft><Ins>
+2019-11-26 19:15:41+0530 > cd cd -
+2019-11-26 19:16:00+0530 > <Up><Left><Left><Left><Left><Left><BckSp><BckSp><BckSp><BckSp><Right><BckSp>
+2019-11-26 19:16:06+0530 > <Up><Up><Up><Up><Left><#+10><Up><Up><Left><BckSp><#+12><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>loaders
+2019-11-26 19:16:18+0530 > 
+2019-11-26 19:16:59+0530 > 
+2019-11-26 19:16:59+0530 > 
+2019-11-26 19:17:00+0530 > 
+2019-11-26 19:17:00+0530 > grep -ar <RShft>""<Left>libpixbufloader-bmp.so
+2019-11-26 19:17:22+0530 > <LCtrl>c
+2019-11-26 19:17:29+0530 > <Up><Home>sudo 
+2019-11-26 19:17:32+0530 > <LCtrl>c
+2019-11-26 19:17:37+0530 > <Up><Left><#+20><Left><Left><Left><Left><Left><BckSp><#+10><BckSp>find -name
+2019-11-26 19:17:45+0530 > <Up><Left><#+23><Up><Up><Down>
+2019-11-26 19:17:49+0530 > <LCtrl><LShft>c
+2019-11-26 19:18:25+0530 > <LCtrl>v<LAlt><Tab>
+2019-11-26 19:21:38+0530 > cd
+2019-11-26 19:21:40+0530 > zs10062013
+2019-11-26 19:27:16+0530 > how to enable gstrehow to enable gstreamer in <LShft>STM32<LShft>MP yocto
+2019-11-26 19:27:57+0530 > cd 
+2019-11-26 19:28:25+0530 > cd -
+2019-11-26 19:28:28+0530 > cd ../../../../../../
+2019-11-26 19:28:32+0530 > cd ../../../..
+2019-11-26 19:28:36+0530 > cd so<Tab>met<Tab><BckSp><BckSp><BckSp><#+5><BckSp><BckSp>po<Tab>met<Tab>/<LAlt><Tab><LAlt><Tab>re<Tab><LAlt><Tab><LAlt><Tab>mu<Tab><LAlt><Tab><LAlt><Tab>gs<Tab>
+2019-11-26 19:28:55+0530 > ls
+2019-11-26 19:28:56+0530 > <LAlt><Tab><LAlt><Tab>cd ../../../..
+2019-11-26 19:29:12+0530 > cd me<Tab>s<Tab><Tab><Tab>-s<Tab>
+2019-11-26 19:29:23+0530 > ls
+2019-11-26 19:29:23+0530 > cd re<Tab>s<Tab>t
+2019-11-26 19:29:33+0530 > ls
+2019-11-26 19:29:34+0530 > cd im<Tab>
+2019-11-26 19:29:36+0530 > ks
+2019-11-26 19:29:37+0530 > <LCtrl><LShft>c
+2019-11-26 19:29:39+0530 > ls
+2019-11-26 19:29:39+0530 > cd<BckSp><#+12>vim st<Tab>bo<Tab>
+2019-11-26 19:29:49+0530 > <PgDn><PgDn><PgUp><Esc><RShft>:q
+2019-11-26 19:29:54+0530 > cd ../..
+2019-11-26 19:30:00+0530 > ls
+2019-11-26 19:30:02+0530 > cd ../..<BckSp><BckSp>
+2019-11-26 19:30:10+0530 > ls
+2019-11-26 19:30:11+0530 > cd me<Tab>s<Tab>-op<Tab>
+2019-11-26 19:30:18+0530 > ls
+2019-11-26 19:30:19+0530 > cd re<Tab>s<Tab>t
+2019-11-26 19:30:24+0530 > ls
+2019-11-26 19:30:25+0530 > cd im<Tab>
+2019-11-26 19:30:27+0530 > k<BckSp>ls
+2019-11-26 19:30:29+0530 > vim st<Tab>-c<Tab>
+2019-11-26 19:30:35+0530 > <PgDn><PgDn><PgUp><Right><#+43>i<Right>
+2019-11-26 19:30:41+0530 >     <LAlt><Tab><LAlt><Tab>gstre<Tab><LAlt><Tab><LAlt><Tab><BckSp>amer<LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab> <#+30> \<Esc><RShft>:wq
+2019-11-26 19:31:09+0530 > <LCtrl><LShft>Tcd ../../../..
+2019-11-26 19:31:19+0530 > cd bu<Tab>tm<Tab>wo<Tab>/co<Tab>blu<Tab>5<Tab>blu<Tab>cli<Tab>
+2019-11-26 19:31:32+0530 > cd ..
+2019-11-26 19:31:35+0530 > tar -cvf cli<Tab><Ins>.<BckSp><RShft>_26nov<RShft>_tar.gz cli<Tab>
+2019-11-26 19:31:53+0530 > ls
+2019-11-26 19:31:54+0530 > mv cli<Tab><RShft>_19<Tab>cli<Tab><RShft>_26<Tab>/<BckSp><LShft>~/sr<Tab><LShft>Bl<Tab><Tab><Tab><Left><#+30><Left><Left><BckSp><#+17><BckSp><BckSp><BckSp><BckSp>
+2019-11-26 19:32:30+0530 > cd ../../../../..
+2019-11-26 19:32:37+0530 > cd ../..
+2019-11-26 19:32:39+0530 > <LCtrl>c
+2019-11-26 19:32:53+0530 > <LAlt><Tab><LCtrl><LAlt><LAlt><LAlt><Tab><Tab><LCtrl><LShft>V
+2019-11-26 19:32:58+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><Tab><LCtrl>c
+2019-11-26 19:33:03+0530 > <LAlt><Tab><LCtrl><LShft>V
+2019-11-26 19:33:06+0530 > <LCtrl>c
+2019-11-26 19:43:13+0530 > <LAlt><Tab><LCtrl><LShft>V
+2019-11-26 19:43:17+0530 > <LAlt><Tab><LCtrl>c
+2019-11-26 19:43:30+0530 > <LAlt><Tab><LCtrl><LShft>V
+2019-11-26 19:43:33+0530 > <LAlt><Tab><LCtrl>c
+2019-11-26 19:43:37+0530 > <LAlt><Tab><LCtrl><LShft>V
+2019-11-26 19:43:39+0530 > <LAlt><Tab><LAlt><Tab>cd tm<Tab>dep<Tab>ima<Tab><Tab><Tab><Tab>sc<Tab>
+2019-11-26 19:43:52+0530 > <LAlt><Tab><LCtrl>c
+2019-11-26 19:43:57+0530 > <LAlt><Tab><LCtrl><LShft>V
+2019-11-26 19:43:59+0530 > y
+2019-11-26 19:44:02+0530 > <LAlt><Tab><LCtrl>c
+2019-11-26 19:44:33+0530 > c
+2019-11-26 19:44:34+0530 > <LAlt><Tab>cd ..
+2019-11-26 19:44:37+0530 > <LAlt><Tab><LAlt><Tab><LCtrl><LShft>V
+2019-11-26 19:44:45+0530 > 
+
+Logging stopped at 2019-11-26 19:47:29+0530
+
