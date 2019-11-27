@@ -1,0 +1,73 @@
+Logging started ...
+
+2019-11-27 09:48:06+0530 > zs10062013
+2019-11-27 10:37:42+0530 > zs10062013
+2019-11-27 10:44:56+0530 > ma<Down><Down><Down><Down><Down>
+2019-11-27 10:48:24+0530 > srikanth<LShft>@zumisolutions.com<Tab><LShft>YAhoozumi<LShft>@5<LCtrl>xxx<LShft>Test<RShft>_<LShft>DOC<Left><Left><Left><Right><Right><Right><BckSp><BckSp>oc<Left><Left><Left><Left><RShft>_<LShft>Case
+2019-11-27 10:49:36+0530 > <LCtrl>v<F2><BckSp><BckSp><BckSp>wps off<Down> <Down><Down><Down><Down><Down><Down><Down>
+2019-11-27 10:50:11+0530 > zs10062013
+2019-11-27 10:55:43+0530 > <LCtrl>x<LCtrl>v<LShft>Boot <LShft>Flag will be set high after fird<BckSp>st time configuration is done<LShft>If the configuration is not done and the boot flag is highzs10062013
+2019-11-27 11:12:43+0530 > zs10062013
+2019-11-27 15:00:03+0530 > sudo minicom -s
+2019-11-27 15:00:13+0530 > zs10062013
+2019-11-27 15:00:17+0530 > <Down><Down>
+2019-11-27 15:00:19+0530 > a<BckSp><BckSp><BckSp><BckSp><LShft>ACM0
+2019-11-27 15:00:23+0530 > ee
+2019-11-27 15:00:25+0530 > 
+2019-11-27 15:00:25+0530 > <Down><Down><Down><Down><Up>
+2019-11-27 15:00:28+0530 > <Down><Down>
+2019-11-27 15:00:32+0530 > 
+2019-11-27 15:00:51+0530 > 
+2019-11-27 15:00:51+0530 > <#+8>sudo minicom -s
+2019-11-27 15:01:35+0530 > zs<KP1><KP0><KP0><KP6><KP2><KP0><KP1><KP3>
+2019-11-27 15:01:39+0530 > <Down><Down>
+2019-11-27 15:01:41+0530 > a<BckSp><BckSp><BckSp><BckSp><LShft>ACM0
+2019-11-27 15:01:45+0530 > ee
+2019-11-27 15:01:46+0530 > 
+2019-11-27 15:01:46+0530 > <Down><Down><Down>
+2019-11-27 15:01:48+0530 > <Down><Down>
+2019-11-27 15:01:51+0530 > cd /
+2019-11-27 15:03:36+0530 > 5<Tab><Tab><Tab>=<BckSp><BckSp><BckSp>ls
+2019-11-27 15:03:41+0530 > gst<Tab>la<Tab><Tab><Tab> 5.<Tab><LShft>!gdkpixbuff<BckSp>dec <LShft>!videoconvert <LShft>!imagefreeze <LShft>!waylandsink
+2019-11-27 15:05:15+0530 > <LCtrl><LShft>Tcd <LShft>Down<Tab><LShft>Lo<Tab>yo<Tab>yo<Tab>bu<Tab>tm<Tab>wo<Tab>/co<Tab><BckSp><#+49><BckSp><BckSp><BckSp>s<Tab><Tab>y<Tab>-c<Tab>co<Tab><Tab><Tab>
+2019-11-27 15:06:16+0530 > <BckSp>
+2019-11-27 15:06:18+0530 > ls
+2019-11-27 15:06:20+0530 > cd gd<Tab><Tab>k<Tab>us<Tab>li<Tab>gd<Tab>2<Tab>lo<Tab>
+2019-11-27 15:07:12+0530 > ls
+2019-11-27 15:07:13+0530 > cp li<Tab>b<Tab>/tft<Tab>
+2019-11-27 15:07:34+0530 > 
+2019-11-27 15:07:38+0530 > 
+2019-11-27 15:07:38+0530 > 
+2019-11-27 15:07:38+0530 > 
+2019-11-27 15:07:38+0530 > 
+2019-11-27 15:07:39+0530 > cd us<Tab>li<Tab>
+2019-11-27 15:07:42+0530 > ls
+2019-11-27 15:07:43+0530 > '<LAlt><Tab><LAlt><Tab><BckSp><BckSp>tftp -r <LShft><Ins> -g 192.168.1.<KP4><KP1>
+2019-11-27 15:09:06+0530 > chmod 777 lib<Tab>pi<Tab>
+2019-11-27 15:09:14+0530 > cd ../..
+2019-11-27 15:09:17+0530 > <Up><Up><Up><Up><Up><Up>
+2019-11-27 15:09:21+0530 > zs10062013
+2019-11-27 15:17:19+0530 > <LCtrl><LShft>c
+2019-11-27 15:18:08+0530 > <LCtrl>v
+2019-11-27 15:18:15+0530 > zs<KP1><KP0><KP0><KP6><KP2><KP0><KP1><KP3>
+2019-11-27 15:29:00+0530 > <LCtrl>c
+2019-11-27 15:30:55+0530 > <LCtrl><LShft>V<BckSp><BckSp><BckSp><Tab><Tab><Tab><Tab><Tab><BckSp><BckSp><Tab><Tab><Tab>-0<Tab>
+2019-11-27 15:31:07+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><KP1><KP1><KP1><BckSp><#+11><Up><Up><Left><#+33><Left><#+22><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><Down><Down><Down><Up><BckSp><#+10><Tab><Tab>
+2019-11-27 15:32:24+0530 > <Up><Up><Up><Left><#+47><Left><Left><Left><Left><Left> -r<BckSp>e filw<BckSp>esrc=<Right><BckSp><Right><#+20><Right><BckSp><#+16>
+2019-11-27 15:39:37+0530 > <Up><#+6><Left><#+25><Left><Right><BckSp><#+9><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><Right><BckSp><Left><#+8><Left><Left><Left><Right><BckSp><#+11><BckSp><BckSp><BckSp><BckSp>
+2019-11-27 15:42:11+0530 > <Left><KP4><BckSp><Up><Down><Up><Down><Down><Down><Up><Down><Left><Down>zs10062013
+2019-11-27 16:02:08+0530 > zs<KP1><KP0><KP0><KP6><KP2><KP0><KP1><KP3>
+2019-11-27 16:08:41+0530 > <LShft>Low power
+2019-11-27 16:09:43+0530 > <Pause><LShft>STM32 <Home><LShft>How to implement <Right><Right><Right><#+8><LShft><BckSp><LShft>F4 <Left><#+11>watchdof<BckSp>g for 
+2019-11-27 16:50:07+0530 > <LCtrl>x<LShft>Watchdog<RShft>_<LShft>STM32<LShft>F4
+2019-11-27 16:56:26+0530 > 
+2019-11-27 16:56:27+0530 > <LCtrl>v<LAlt><Tab><LAlt><Tab><LAlt><Tab>zs<KP1><KP0><KP0><KP6><KP2><KP0><KP1><KP3>
+2019-11-27 17:07:46+0530 >  zs10062013
+2019-11-27 17:38:44+0530 > ma<Down>
+2019-11-27 17:38:56+0530 > zs10062013
+2019-11-27 17:48:41+0530 > zaid<LShft>@zumisolutions.comzs<KP1><KP0><KP0><KP6><KP2><KP0><KP1><KP3>
+2019-11-27 17:50:00+0530 >  <Right><Right><Right><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><#+15><Left><Left><#+21> cientra banglore
+2019-11-27 18:01:50+0530 > <Left><Left><Left><Left><LShft>Ok <LShft>Ragu, <LShft>We will list the data ans send <Left><Left><Left><Left><Left><BckSp><BckSp>a<BckSp>d <End>documented.<Left><#+15><Right><Right><Left><#+11><Left><Left><Left><Left><Left><Left>packet <End>sensor <Right><#+17><Right><Right><Right><Right><Right><Right><BckSp><#+11><BckSp><BckSp><BckSp><BckSp><Left><#+21><Right><#+28><BckSp><#+51><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>do the document and send
+
+Logging stopped at 2019-11-27 18:15:14+0530
+
