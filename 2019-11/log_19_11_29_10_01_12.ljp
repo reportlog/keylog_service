@@ -1,0 +1,54 @@
+Logging started ...
+
+2019-11-29 10:01:12+0530 > 
+2019-11-29 10:02:31+0530 > zs10062013
+2019-11-29 10:02:36+0530 > zs10062013
+2019-11-29 10:02:43+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LShft>Sensor <LShft>Periodicd <LShft>Data<BckSp><BckSp><BckSp><BckSp><BckSp><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><BckSp><LShft>Sensor will send the below data periodically for every 5mins interval.<LShft>Below are <Right><BckSp><Right><Right><Right> packet info for <LShft>Air1 and <LShft>Energy<BckSp><BckSp><BckSp><BckSp><BckSp><Left>.<Del><Del><LAlt><Tab><LCtrl>c
+2019-11-29 10:11:46+0530 > <LAlt><Tab>
+2019-11-29 10:11:50+0530 > <LCtrl>v<LCtrl>c
+2019-11-29 10:12:02+0530 > <LCtrl>v<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LAlt> <#+8>   <LAlt><Tab><LCtrl>c
+2019-11-29 10:12:26+0530 > <LAlt><Tab>
+2019-11-29 10:12:29+0530 > 
+2019-11-29 10:12:31+0530 >   <Up>       <LCtrl>v<Left><BckSp><Left><BckSp><BckSp><BckSp>
+2019-11-29 10:12:53+0530 > 
+2019-11-29 10:12:53+0530 > <LShft>M<BckSp><LCtrl>c
+2019-11-29 10:13:02+0530 > <LCtrl>v<LAlt><Tab><LAlt><Tab><LAlt><Tab><LCtrl>c
+2019-11-29 10:13:22+0530 > c
+2019-11-29 10:13:23+0530 > <LAlt><Tab>
+2019-11-29 10:13:25+0530 > 
+2019-11-29 10:13:26+0530 > <LCtrl>v<LCtrl><LCtrl>b<BckSp><BckSp><BckSp><BckSp>zs1<KP0><KP0><KP6><KP2><KP0><KP1><KP3>
+2019-11-29 10:41:55+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><Del><Down><Down><Down><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LAlt><Tab>zs<KP1><KP0><KP0><KP6><KP2><KP0><KP1><KP3>
+2019-11-29 11:07:26+0530 > zs<KP1><KP0><KP0><KP6><KP2><KP0><KP1><KP3>
+2019-11-29 11:50:50+0530 > <LAlt><Tab><LAlt><Tab><Tab><LAlt><LAlt><Tab><LAlt><Tab><Tab><LShft>Device<Left><Left><Left><Left><Left><Left><LShft>MI<BckSp>ik<LAlt><Tab><LAlt><Tab><LAlt><Tab><Tab><LAlt><Tab>os <Left><#+10><BckSp><Right><#+10><Right><Right><Right><Right><Right> <LShft>Discoo<BckSp>nnection <LShft><LShft>Packet<Del><#+10><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><CpsLk><#+9><CpsLk><LShft>Energy s<Left><#+10><Left><Left><BckSp><Right><#+23><Right><Right><Right><Right><LAlt><Tab>zs10062013
+2019-11-29 16:36:20+0530 > <LAlt><Tab><LAlt><Tab><Del><#+64><Del><#+9><Del><Del><Del><Del><Del><Del><Del><Del><Del><LAlt><Tab>zs10062013
+2019-11-29 18:26:39+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LShft>Over <LShft>Current  <LShft>Trip<Left><Left><Left><Left><BckSp><BckSp><BckSp>is pacj<BckSp>ket when <LAlt><Tab><LAlt><Tab>it <LAlt><Tab><LAlt><Tab><BckSp>'s <BckSp><BckSp><BckSp> disconnected <LAlt><Tab><LAlt><Tab>the <LAlt><Tab><LAlt><Tab>ou<LAlt><Tab><LAlt><Tab>tput due to overload <LAlt><Tab><LAlt><Tab>conditions<LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LCtrl>c
+2019-11-29 18:34:42+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LCtrl>v<LCtrl>b<Left><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp> <#+8>    <Right>
+2019-11-29 18:35:16+0530 >        ]<LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab>
+2019-11-29 18:35:27+0530 > <RShft>}<LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab>
+2019-11-29 18:35:35+0530 > 
+2019-11-29 18:35:35+0530 > <LShft>AIR <LShft>Q <LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LShft>QU<BckSp><BckSp><Left><Left>-<Left><BckSp><Right><Right> <LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LShft>Quality <LShft>Poor<RShft>:<LShft><Home><LCtrl>b<Right><LCtrl>b<Down><Up><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab>
+2019-11-29 18:37:58+0530 > 
+2019-11-29 18:37:59+0530 >     <LAlt><Tab><LAlt><Tab><LCtrl>b<LAlt><Tab><LAlt><Tab><LShft>Air<LShft>Q will send this packet when <LAlt><Tab><LAlt><Tab><LShft>Air<LShft>Q has indicated <LAlt><Tab><LAlt><Tab>high <LAlt><Tab><LAlt><Tab><LShft>IAQ levels <LAlt><Tab><LAlt><Tab><Left>.
+2019-11-29 18:39:23+0530 > 
+2019-11-29 18:39:24+0530 > <LAlt><Tab><LCtrl>c
+2019-11-29 18:40:04+0530 > <LAlt><Tab><LCtrl>v<LAlt><Tab><LAlt><Tab>
+2019-11-29 18:40:20+0530 > 
+2019-11-29 18:40:21+0530 > <Up><Up><Right><Right><Right><Right><Right><BckSp><BckSp><BckSp><BckSp><BckSp><Right><Right><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab>
+2019-11-29 18:43:03+0530 > 
+2019-11-29 18:43:04+0530 > <LShft>Room <LShft>Internal <LShft>Hot<RShft>:<LShft><Home><LCtrl>b<Right>
+2019-11-29 18:43:19+0530 > 
+2019-11-29 18:43:20+0530 > <LCtrl>b<LAlt><Tab><LAlt><Tab><Up><Down><Up><Up><BckSp><End>
+2019-11-29 18:43:43+0530 > 
+2019-11-29 18:43:44+0530 > <LAlt><Tab><LAlt><Tab><LShft>A<LShft><BckSp><LCtrl><LCtrl>b<LShft>Air <LShft>Q <LAlt><Tab><LAlt><Tab>will send this packet whe <BckSp>n the room is <LAlt><Tab><LAlt><Tab><BckSp><#+12><BckSp><BckSp><BckSp>it indicates <LAlt><Tab><LAlt><Tab>high tempw<BckSp>erature levels<LAlt><Tab><LAlt><Tab> greater than 40<LAlt><Tab><LAlt><Tab><BckSp><#+5>0 <LShft>deg<LAlt><Tab><LAlt><Tab> c<BckSp><BckSp><Left><Left><Left><Right><BckSp><LShft>D<Right><Right> <LShft>C.
+2019-11-29 18:52:38+0530 > 
+2019-11-29 18:52:39+0530 > <LAlt><Tab><LCtrl>c
+2019-11-29 18:52:51+0530 > <LAlt><Tab><LCtrl>v<BckSp><BckSp><BckSp><BckSp><BckSp><LAlt><Tab><LAlt><Tab>
+2019-11-29 18:54:46+0530 > 
+2019-11-29 18:54:46+0530 > 
+2019-11-29 18:54:46+0530 > <LCtrl>c
+2019-11-29 18:54:52+0530 > <LCtrl>v<LShft>HUB to <LShft><BckSp><BckSp><BckSp>--<RShft>> <LShft>Sensor <LShft>Packets<LShft><Home><LCtrl>b<LShft>Firmware <LShft>Updae<BckSp>te<LShft>Hub will send tth<BckSp><BckSp>his packet when a f<BckSp>firmware update is re<BckSp><BckSp>to be issues<BckSp>d for sensors<LAlt><Tab><LAlt><Tab><LAlt><Tab><LCtrl><LCtrl>c
+2019-11-29 19:00:33+0530 > c
+2019-11-29 19:00:34+0530 > <LAlt><Tab><LCtrl>v<LShft>Air<LShft>Q/<LShft>Mikos<LAlt><Tab><LAlt><Tab><Del><Down><Left><BckSp><BckSp><BckSp><BckSp><Up><BckSp><BckSp><BckSp><LAlt><Tab><LAlt><Tab><BckSp><BckSp><LAlt><Tab>
+
+Logging stopped at 2019-11-29 19:01:46+0530
+
