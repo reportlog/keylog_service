@@ -1,0 +1,17 @@
+Logging started ...
+
+2019-12-17 14:41:44+0530 > <LCtrl>smail<Down><Down><Down><Down><Down>
+2019-12-17 14:49:56+0530 > srikanth<LShft>@zumisolutions.com<Tab><LShft>YAhoozumi<LShft>@5<LCtrl>c
+2019-12-17 14:51:12+0530 > c
+2019-12-17 14:51:12+0530 > <LCtrl>v<LShft><Down><Down><LCtrl>c
+2019-12-17 14:52:19+0530 > <LCtrl>v<LCtrl>sssdurhasa<LShft>Reconstructed <LShft>BLE <LShft>Packets without <LShft>Soft <LShft>Accee<BckSp>ss <LShft>Id and <LShft>Password<LShft>Hello,
+2019-12-17 14:54:13+0530 > 
+2019-12-17 14:54:13+0530 >     <LShft>I have <LShft><LShft>Ble <LShft><BckSp><BckSp><BckSp><LShft>LE packet sheet and the <LShft>Description <LShft>Doc <BckSp>ument after the attached <LShft>Reconstruction of <LShft>BLE packet <LShft>Due to changes in the <LShft>Configuration procedure <Left><#+38><Left><BckSp>d<End><BckSp><#+12>data <Left><#+64><Left><Left><Left> for the configuration of devices.<Left><#+60><Right> protocol<Right><#+29><Right><#+32><Right><Right><LShft>The attched <Left><#+9>a<Right><#+8> <LShft>documents consist of changes in the packet w.r.t the removal o<BckSp>f<BckSp>of soft access point <LShft>id and soft access point password<Left><#+10><Up><Right><#+56><Right><Right><Right><Right>below <Down><Left><#+98><Right><Right><Right><BckSp><#+21><BckSp><BckSp><BckSp><RShft>:
+2019-12-17 14:58:54+0530 > 1.<LShft>As target to br <BckSp>e <BckSp><BckSp>e<BckSp><BckSp>e auto <LShft>SSID programmed we have remved <Left><Left><Left><Left>ozs10062013
+2019-12-17 15:07:54+0530 > <Right><Right><Right><Right><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Right><#+38><Right><Right><Right><#+10><Left><Up><Up><Left><#+29><Left><Left><Left><Left><Left><BckSp><Down><Down><Right><#+30><Right>.<Del><#+57><Del><#+9><Del><Del><Del><Del><Del><Del><Del>
+2019-12-17 15:11:10+0530 > 2.<LShft>We nee<BckSp><BckSp><#+8><BckSp><LShft>Devices should not eit the <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>xit the configuration phase untill we cha<BckSp>eck the wifi <Left><#+21><Right><BckSp><Right><#+20> connection so we have introoduces <BckSp><BckSp>d a<Left><#+11><Left><BckSp><Right><#+10><Right><Right>dditional <LShft>BLE <LShft>reply packets <BckSp>.<LShft>Please find in the <LShft>BLE protocol document.<LCtrl>s<LAlt><Tab>
+2019-12-17 15:16:15+0530 > 
+2019-12-17 15:16:15+0530 >     <LShft>Pleae<BckSp>se feel free  <BckSp>to <BckSp><BckSp><BckSp>and have a call fo a<BckSp><BckSp>r any clarifications.<BckSp><BckSp><BckSp><BckSp><BckSp>,<Right><Right><#+8><Right><Right><Right>and <BckSp><BckSp><BckSp><BckSp> and additional <LShft><BckSp><#+14><BckSp><BckSp><BckSp><BckSp><BckSp>.zzs<KP1><KP0><KP0><KP6><KP2><KP0><KP1><KP3>
+2019-12-17 16:01:55+0530 > zs<KP1><KP0><KP0><KP6><KP2><KP0><KP1><KP3>
+2019-12-17 16:02:02+0530 > zs<KP1><KP0><KP0><KP6><KP2><KP0><KP1><KP3>
+2019-12-17 20:22:36+0530 > 
