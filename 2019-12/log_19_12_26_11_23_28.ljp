@@ -1,0 +1,61 @@
+Logging started ...
+
+2019-12-26 11:23:28+0530 > /192
+2019-12-26 11:23:31+0530 > <Right><Right><Right><#+11><Right>ifc<Tab>
+2019-12-26 11:23:46+0530 > \i<#+1><Left><Left><BckSp>1<Right><Right><BckSp>45<Down><Down><Down><Left><BckSp>45<Left><Left><Left><BckSp>1<Esc><RShft>:wq
+2019-12-26 11:35:45+0530 > <Up><#+7><Up><#+1><Up><Up><#+1><Up><Up><Up><Up><Up><#+5><Up><#+13><Up><#+19><Down><#+1><Up><#+64><Up><Up><Up><Up><Up><Up><#+3><Up><Up><Up><Up><Up><Up><Up>
+2019-12-26 11:36:04+0530 > <Up><Up><Up><#+20><Down><Down>
+2019-12-26 11:36:08+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down>
+2019-12-26 11:36:18+0530 > <LCtrl>c
+2019-12-26 11:36:24+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><#+6><Up><Up><Down><#+1><Down><Up><Up><Down><Down>
+2019-12-26 11:36:44+0530 > <Up><#+27><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><#+3><Up><Up><Up><Up><Up><Up><Down><Down>
+2019-12-26 11:36:56+0530 > <Up>
+2019-12-26 11:43:40+0530 > <LShft><LCtrl>T<Up><#+3>
+2019-12-26 11:44:00+0530 > /usr/sbin<BckSp><#+24><Up>
+2019-12-26 11:46:26+0530 > <LCtrl>c
+2019-12-26 11:46:30+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down><Up><Up><Up><Up><Up><Up><Up><Down><Down>
+2019-12-26 11:46:51+0530 > sudo kill 4423
+2019-12-26 11:47:09+0530 > zs10062013
+2019-12-26 11:47:17+0530 > <Up><Up>
+2019-12-26 11:47:23+0530 > <Up>
+2019-12-26 11:47:31+0530 > <Up><Up><Up><Down><#+1>\
+2019-12-26 11:47:52+0530 > <BckSp><Up><LCtrl><LShft><LShft>c
+2019-12-26 11:47:58+0530 > c
+2019-12-26 11:47:59+0530 > <Up><BckSp>
+2019-12-26 11:48:03+0530 > cd
+2019-12-26 13:29:18+0530 > cd /u<BckSp>usre<BckSp>/lib
+2019-12-26 13:29:30+0530 > ls
+2019-12-26 13:29:33+0530 > cd
+2019-12-26 13:30:04+0530 > lib<Tab><BckSp><BckSp><BckSp>cd/<BckSp> /lib
+2019-12-26 13:30:15+0530 > ls
+2019-12-26 13:30:17+0530 > grep r<BckSp><#+16>locate ;<BckSp>libmosqi<BckSp>uitto
+2019-12-26 13:30:45+0530 > cd
+2019-12-26 13:33:24+0530 > cd <LShft>A<Tab><BckSp><BckSp> dow<Tab><BckSp><BckSp><BckSp>lib<Tab>
+2019-12-26 13:34:25+0530 > ls
+2019-12-26 13:34:30+0530 > ls
+2019-12-26 13:35:20+0530 > sudo<BckSp><BckSp><BckSp><BckSp>cp mos<Tab><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>libmos<Tab><Left><#+21><Left>su<#+6>do <Right><#+21>/me<Tab><Tab>ro<Tab>l<Tab><Tab>ib
+2019-12-26 13:40:10+0530 > zs10062013
+2019-12-26 13:40:18+0530 > cd /us<Tab>
+2019-12-26 13:51:15+0530 > ls
+2019-12-26 13:51:16+0530 > cd lib
+2019-12-26 13:51:27+0530 > ls
+2019-12-26 13:51:30+0530 > ls
+2019-12-26 13:52:31+0530 > <#+2>cd
+2019-12-26 13:52:50+0530 > <#+2>cd lim<BckSp>bm<Tab><Tab><Tab><Tab><Tab><BckSp>
+2019-12-26 13:52:59+0530 > vi libm<Tab><Tab><Tab><Tab><Tab><Tab><BckSp><BckSp><BckSp><BckSp><BckSp><#+1><BckSp><#+6><BckSp>lib <BckSp>mos
+2019-12-26 13:55:13+0530 > 
+2019-12-26 13:55:14+0530 > 
+2019-12-26 13:55:14+0530 > <LMeta><#+8>cs8<BckSp>udo cp mo<Tab><#+1>-1<#+1><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><#+40>.<Tab><Tab><Tab><Tab>1`<Tab><Tab><BckSp><Tab><Tab><BckSp><Tab><Tab><Tab><Tab>6<Tab><Tab><#+1><Tab><Tab><Tab>.4 <CpsLk>/M<CpsLk><CpsLk><BckSp><Tab><Tab>ME<Tab><Tab><BckSp><BckSp><CpsLk>mw<BckSp>r<BckSp>e<Tab>z<Tab><Tab><Tab><#+1>r<Tab><Tab><Tab><#+1>u<#+1><Tab><Tab><Tab>lib
+2019-12-26 13:57:20+0530 > zs10062013
+2019-12-26 13:57:28+0530 > gre<BckSp><BckSp><BckSp>ls
+2019-12-26 13:58:46+0530 > <#+1>cd us<Tab>l<Tab><Tab><Tab>i<Tab>
+2019-12-26 13:58:55+0530 > ls
+2019-12-26 13:58:57+0530 > <Up><Left><#+25><BckSp><Right><#+25><Right><BckSp><#+23><BckSp><BckSp><BckSp><#+28>ls
+2019-12-26 14:00:21+0530 > <Up><Up><Left><#+32><Right><Right><Right><Right><Right><Right><Right><Right><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><#+10><BckSp><BckSp><BckSp><BckSp>lib<Tab>
+2019-12-26 14:01:44+0530 > zs<BckSp><BckSp>
+2019-12-26 14:02:05+0530 > ls
+2019-12-26 14:02:09+0530 > <#+1>grep rh <LShft>:<BckSp>""<Left><LShft><Ins><BckSp><#+11><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>libmosquittoq<BckSp><Tab>
+2019-12-26 14:03:09+0530 > <#+1>
+
+Logging stopped at 2019-12-26 19:25:38+0530
+
