@@ -1,0 +1,26 @@
+Logging started ...
+
+2020-01-04 19:00:30+0530 > <LShft>PC8
+2020-01-04 19:14:02+0530 > <BckSp>6<BckSp>9<LCtrl>s<Esc><RShft>:q
+2020-01-04 19:22:06+0530 > cd ../../../../..
+2020-01-04 19:22:11+0530 > cd ../../..<BckSp><BckSp>de<Tab>im<Tab>s<Tab>sc<Tab>
+2020-01-04 19:22:29+0530 > ls
+2020-01-04 19:22:30+0530 > vim cr<Tab>
+2020-01-04 19:22:36+0530 > <Esc><RShft>:q
+2020-01-04 19:24:30+0530 > cd ..
+2020-01-04 19:24:33+0530 > ls
+2020-01-04 19:24:34+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LCtrl>c
+2020-01-04 19:32:32+0530 > <LCtrl>f<BckSp><BckSp><BckSp><LCtrl>v
+2020-01-04 19:32:41+0530 > <LAlt><Tab><LShft>PA14ls
+2020-01-04 19:35:24+0530 > vim <LShft><Ins>
+2020-01-04 19:35:36+0530 > 
+2020-01-04 19:35:47+0530 > cd ../../../wo<Tab>-sh<Tab>k<Tab><Tab><BckSp><Tab><Tab>s<Tab>ke<Tab>so<Tab>ar<Tab>ar<Tab>m/bo<Tab>dt<Tab>
+2020-01-04 19:36:06+0530 > vim st<Tab>m<Tab><Tab>m<Tab>a<Tab>
+2020-01-04 19:36:14+0530 > <Esc><RShft>:q
+2020-01-04 19:36:26+0530 > vim st<Tab>m32m<Tab><Tab><Tab>a<Tab><Tab><Tab><RShft>_o<Tab>
+2020-01-04 19:36:39+0530 > <Esc>/<LShft><Ins>
+2020-01-04 19:39:07+0530 > n/<LShft><Ins>
+2020-01-04 19:39:28+0530 > nnnnnnnnnn<PgUp><#+25><Up><Up><Up><#+10><Down><Right><#+15><RShft>*nn<PgUp><#+17><Down><Down><Down><Down><#+25><Down><#+27><Down><#+13><Down><#+10><Down><Up><#+13><Right><RShft>*<Up><Up><Left><Left><Left><Left><Left><Left><Left><RShft>*nnnnnn<Up><Up><Up><Up><Left><Left><Left><Left><RShft>*n<LAlt><Tab><LAlt>
+
+Logging stopped at 2020-01-04 20:47:30+0530
+
