@@ -1,0 +1,29 @@
+Logging started ...
+
+2020-01-08 15:15:52+0530 > <LShft><LCtrl>c
+2020-01-08 17:02:17+0530 > <LAlt><Tab><LCtrl>v <LCtrl>vcd <LShft>Dow<Tab><LShft>Lo<Tab>yo<Tab>yo<Tab>bu<Tab>tm<Tab>wo<Tab>/co<Tab><Tab><Tab><BckSp><BckSp><#+49><BckSp>-sh<Tab>s<Tab>k<Tab><#+1>s<Tab>
+2020-01-08 17:04:05+0530 > ls
+2020-01-08 17:04:06+0530 > find -name <RShft>""<Left>wilc
+2020-01-08 17:04:22+0530 > <LCtrl>c
+2020-01-08 17:04:27+0530 > cd dr<Tab>
+2020-01-08 17:04:30+0530 > ls
+2020-01-08 17:04:31+0530 > cd w<Tab>i<Tab>
+2020-01-08 17:04:36+0530 > ls
+2020-01-08 17:04:37+0530 > vim m<Tab>d<Tab><RShft>
+2020-01-08 17:05:06+0530 > <Esc><RShft>:q
+2020-01-08 17:13:55+0530 > vim m<Tab>p<Tab>
+2020-01-08 17:14:11+0530 > <Esc><RShft>:q
+2020-01-08 17:14:17+0530 > zs10062013
+2020-01-08 17:41:28+0530 > <LAlt><Tab><LCtrl>zzzzzzzzz<LCtrl>zzzzzzzz<LCtrl>zs<BckSp>2<BckSp>2<LCtrl>ss<LShft><Down><Down><LCtrl>c
+2020-01-08 18:25:00+0530 > <Right><LCtrl>v<BckSp>5<Right><Right><BckSp>1<LShft>Firmware size<LShft><LShft><Down><Down><LCtrl>c
+2020-01-08 18:25:34+0530 > <Right><LCtrl>v<BckSp>6<BckSp><BckSp><BckSp><BckSp><LShft>CRC<Left><Left><Left><BckSp><#+17><CpsLk><#+7><CpsLk><LShft><Down><Down><#+16><Down><Right><#+12><Right><Right><Right><#+1><Right><LCtrl>c
+2020-01-08 18:27:11+0530 > <LCtrl>v<Left><BckSp>9<Right><#+18><BckSp><#+12><BckSp><BckSp><BckSp><BckSp><BckSp><LShft>Firmware <LShft>Image <LShft>Download<BckSp>9<Del><LCtrl>x<Del><Del><Del><Del><Del><LCtrl>xxx<Del><Del><Del><Del><Del><Del><Del><Del><Del><LCtrl>z<Del><Del><Del><Del><LAlt><Tab><LAlt><Tab><LCtrl>c
+2020-01-08 18:36:28+0530 > c
+2020-01-08 18:36:29+0530 > <LCtrl>v<LShft><Right><Right><Right><Right><Right><Right><Right><#+1><Right><Right><Left><LCtrl>c
+2020-01-08 18:37:24+0530 > <LCtrl>v<LShft><Right><Right><Right><LCtrl>x<LCtrl>v<LCtrl>z<LCtrl>z<LCtrl>z<BckSp><BckSp>02<LCtrl>c
+2020-01-08 18:41:59+0530 > <LCtrl><BckSp><BckSp><BckSp><BckSp><LCtrl>v<BckSp><BckSp><BckSp><BckSp><LCtrl>v<LCtrl>v<LCtrl>v<LCtrl>v<LCtrl>v<LCtrl>v<LCtrl>v<LCtrl>v<LCtrl>v<LCtrl>v<LCtrl>v<LCtrl>v<BckSp>9<BckSp>9<LCtrl>c
+2020-01-08 18:42:53+0530 > <LCtrl>v<LCtrl>v<LCtrl>v<LCtrl>v<LCtrl><LShft><Right><Right><Right><Del><LShft><Right><Right><Right><Del><LCtrl><LCtrl>v<LCtrl>c
+2020-01-08 18:43:31+0530 > <LCtrl>v<LCtrl>v<LCtrl>v<LCtrl>v<LCtrl>v<LShft><Right><Right><Right><Right><LCtrl><LCtrl>d<LCtrl>x<LShft><Right><Right><Right><Right><LCtrl><LShft><Left><LCtrl>x<Del><LShft><Right><Right><Right><LCtrl><Del><LCtrl>c
+2020-01-08 18:44:54+0530 > <LCtrl>v<LCtrl>v<LShft><Right><Right><Right><Del><LCtrl>c
+2020-01-08 18:58:33+0530 > c
+2020-01-08 18:58:33+0530 > <LCtrl>s
