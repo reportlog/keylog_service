@@ -1,0 +1,60 @@
+Logging started ...
+
+2020-01-07 09:55:11+0530 > ma<Down><Down><Down><Down><Down>
+2020-01-07 10:00:41+0530 > srikanth<LShft>@zumisolutions.com<Tab><LShft>YAhoozumi<LShft>@5<LCtrl>c
+2020-01-07 10:06:41+0530 > c
+2020-01-07 10:06:41+0530 > c
+2020-01-07 10:06:42+0530 > <RShft><Del><LCtrl>v<Del><LCtrl>x
+2020-01-07 10:08:50+0530 > 
+2020-01-07 10:08:50+0530 > 
+2020-01-07 10:08:50+0530 > 
+2020-01-07 10:08:50+0530 > 
+2020-01-07 10:08:51+0530 > <LCtrl>v<LShft>Hai <LShft>Mans<BckSp>as,
+2020-01-07 10:09:37+0530 > 
+2020-01-07 10:09:37+0530 >   <LShft>Please find the relies<BckSp><BckSp><#+3><BckSp><BckSp>plies for your questions.<BckSp><BckSp><LCtrl>z
+2020-01-07 10:12:08+0530 > 
+2020-01-07 10:12:08+0530 > 
+2020-01-07 10:12:08+0530 > <Up><Up><LShft>Srikanth<RShft>:<LShft><Home><LCtrl>b<Right><LShft>B<BckSp><LCtrl>b<LShft>As of now there are no sensors attached to the <LShft>Hub that's why you are receiving empty packets <BckSp>.<LShft>You want above mentioned packet for time being or you want to <Left>
+2020-01-07 10:19:52+0530 > 
+2020-01-07 10:19:52+0530 > <Up><LShft>Srikanth<RShft>:<LShft><Home><LCtrl>b<Right><LCtrl>b<LShft><LShft>Rela<BckSp><BckSp><BckSp><BckSp><LShft>Above packet is fine.
+2020-01-07 10:20:24+0530 > 
+2020-01-07 10:20:30+0530 > <BckSp><BckSp>
+2020-01-07 10:20:35+0530 > 
+2020-01-07 10:20:35+0530 > <LShft>Srikanth<RShft>:<LShft><Home><LCtrl>b<Right> <LShft>Yes<BckSp><BckSp><BckSp><LCtrl>b<LShft>Yes<LShft>Hai <LShft>Manikya,
+2020-01-07 10:29:46+0530 > 
+2020-01-07 10:29:46+0530 >    <LShft>I herby attaching the <Left><#+12><Left><Left><Left><Left><Left><Left><Left><Left>e<Right><#+14><Right><Right><Right><Right><Right> <LShft>Executables for <LShft>LCD with <BckSp><#+3><BckSp><BckSp><BckSp><BckSp><Left><#+5> done for the controller <LShft>STM32<LShft>F$13<LShft>VH<LShft>T6<Left><#+12><Right><Right><BckSp>4<Right><#+11><BckSp>.<Left><BckSp><Right><LCtrl><LShft><LShft>And according to the schematic <LShft>Backlight should glow if you connected <LShft>LCD as power supply is directly connected.<Left><BckSp><BckSp><BckSp>of<Right><Right><Right><Right><LShft>Above packet format is fine but <LMeta><#+6>lzs10062013
+2020-01-07 11:17:11+0530 > <Left><BckSp><BckSp><BckSp><BckSp>.
+2020-01-07 11:44:00+0530 > 
+2020-01-07 11:44:01+0530 > <LShft>Srikanth<RShft>:<LShft><Home><LCtrl>b<Right><LShft>This will be applicable for <LShft>Mikos<LShft><Left><#+28><Left><Left><LCtrl>b<Right><#+5>.<LShft><BckSp> only <LShft>Why beac<BckSp><BckSp>cause <LShft>Mikos has a switch to turn o<LShft>FF.<LShft>Yes
+2020-01-07 11:56:00+0530 > 
+2020-01-07 11:56:01+0530 > <LShft>Srikanth<RShft>:<LShft><Home><LCtrl>b<Right><LShft><LCtrl>b<LShft>Yes
+2020-01-07 11:56:43+0530 > 
+2020-01-07 11:56:43+0530 > <LShft>Srikanth<RShft>:<LShft><Home><LCtrl>b<Right><LShft>It is possible for <LShft><LShft>MIkks<BckSp><BckSp>os only it has any external swith<BckSp>ch to turn off.<LShft><Home><LCtrl>b<Left><Right><Left><LShft><Right><Right><Right><Right><Right><Right><Right><Right><LCtrl>b<End><LShft><Left>/<LShft>ON<BckSp>n<Left><BckSp>o<Right><Right><LShft>If it is turned <LShft>ON it will sens<BckSp>s<BckSp>d a <LShft>Device <LShft>Regu<BckSp>istration again.<Del><BckSp><BckSp><LShft>Mav<LCtrl>zz<#+3>zz<LCtrl>c
+2020-01-07 12:09:07+0530 > c
+2020-01-07 12:09:07+0530 > <RShft><Del>
+2020-01-07 12:09:15+0530 > <LCtrl>v<Del><LCtrl>xx<LCtrl>v<LCtrl>c
+2020-01-07 12:25:13+0530 > c
+2020-01-07 12:25:13+0530 > <LCtrl>s<LShft><Down><Down><LCtrl>c
+2020-01-07 12:27:57+0530 > <LCtrl>v<BckSp>8<Right><Right><BckSp>8<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LShft>FTP <LShft>Passwordca19<BckSp><BckSp>13<LShft><Down><Right><#+10><Left><Left><Left><Right><Down><LCtrl>c
+2020-01-07 12:54:31+0530 > <LCtrl>v<BckSp><BckSp>0<LShft>A<BckSp>7<Left><BckSp>6<LShft>FTP <LShft>Username<LCtrl>sss<LShft>Hai <LShft>Manikya,
+2020-01-07 12:58:30+0530 > 
+2020-01-07 12:58:30+0530 >     <LShft>Please try with this attachment.<LAlt><Tab><LCtrl>c
+2020-01-07 13:01:52+0530 > c
+2020-01-07 13:01:52+0530 > c
+2020-01-07 13:01:53+0530 > <LCtrl>v<LCtrl>c
+2020-01-07 13:05:31+0530 > <LCtrl>v<KP0><LCtrl>z<Down><Down><LMeta><#+5>lzs<KP1><KP0><KP0><KP6><KP2><KP0><KP1><KP3>
+2020-01-07 17:40:35+0530 > <LCtrl>s<Left><BckSp><BckSp><BckSp><BckSp><BckSp><LShft>Mobile<RShft><RShft>_to<RShft>_<LShft>Hub<LCtrl>c
+2020-01-07 18:30:24+0530 > <LCtrl>v
+2020-01-07 19:25:27+0530 > <LShft>Note<RShft>:<LShft>Status states the <LShft>Device <LShft>Registration is done or not.<LShft>If <LShft>Sta<BckSp><BckSp>tatus is <LShft>1 it is success and if <LShft>0 it is fail.<LShft><Home><LCtrl>b<LCtrl>b<LCtrl>c
+2020-01-07 19:27:17+0530 > <LCtrl>v<LCtrl>b
+2020-01-07 19:27:39+0530 > 
+2020-01-07 19:27:39+0530 > 
+2020-01-07 19:27:40+0530 > 
+2020-01-07 19:27:41+0530 > <LCtrl>s
+2020-01-07 19:27:51+0530 > 
+2020-01-07 19:27:51+0530 > <LCtrl>ss<BckSp>6<LCtrl>sss<LCtrl>ss<Del><LShft><LShft><LShft><RShft><Del>
+2020-01-07 19:38:42+0530 > <RShft><Del>
+2020-01-07 19:38:45+0530 > 
+
+Logging stopped at 2020-01-07 20:08:11+0530
+
