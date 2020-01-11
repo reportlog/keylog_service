@@ -1,0 +1,16 @@
+Logging started ...
+
+2020-01-10 10:04:47+0530 > zs<KP1><KP0><KP0><KP6><KP2><KP0><KP1><KP3>
+2020-01-10 11:25:11+0530 > zs10062013
+2020-01-10 11:26:44+0530 > <KP3><KP2><KP0><KP0><KP0><KP/><KP1><KP6>
+2020-01-10 13:06:50+0530 > <LMeta><#+5>lzs10062013
+2020-01-10 15:07:26+0530 > cd sr<Tab>
+2020-01-10 15:31:51+0530 > ls
+2020-01-10 15:31:52+0530 > cd <LShft><Ins>
+2020-01-10 15:31:57+0530 > ls
+2020-01-10 15:31:59+0530 > vim cu<Tab>.c
+2020-01-10 15:32:06+0530 > <Up><Up><#+7><Up><Up><Up><Up><Right><#+14><RShft>*nnnn<Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><#+18><Down><#+11><Down><#+14><Down><#+18><Down><#+17><Down><#+11><Down><#+15><Down><#+20><LCtrl>c
+2020-01-10 21:19:42+0530 > <LCtrl>v
+
+Logging stopped at 2020-01-10 21:26:59+0530
+
