@@ -1,0 +1,111 @@
+Logging started ...
+
+2020-01-11 13:15:12+0530 > zs10062013
+2020-01-11 15:40:45+0530 > <LCtrl>c
+2020-01-11 17:06:58+0530 > <#+2>c
+2020-01-11 17:06:58+0530 > c
+2020-01-11 17:06:58+0530 > <LCtrl>vcd sr<Tab>te<Tab>
+2020-01-11 17:08:09+0530 > gcc tra<Tab>-o tra<Tab><BckSp><BckSp><BckSp>
+2020-01-11 17:08:17+0530 > ./tr<Tab>
+2020-01-11 17:08:20+0530 > <LCtrl><LShft>Tvim tr<Tab>.c
+2020-01-11 17:08:32+0530 > <Up><#+17><Up><Down><Down>//<BckSp><BckSp>i//<Down><Down><Down><Down><#+11><Up><Up><Up><Up><Right><#+18><Left>i<BckSp><BckSp><BckSp><BckSp><BckSp>start<Down><Down><BckSp><#+14><BckSp>start = p;<Down><Down><Left><#+10><Left><Left>//<Esc><RShft>:w
+2020-01-11 17:14:24+0530 > <Up><Up>
+2020-01-11 17:14:28+0530 > <Up><Up>
+2020-01-11 17:14:29+0530 > <Up><#+11><Esc>dd<Down><Down>dd<Down><#+17><Up><Up><Right><#+24>i<Right>how to create a list in single linked list in c
+2020-01-11 17:23:00+0530 > <LAlt><Tab><LAlt><LAlt><LAlt><Tab><LAlt><Tab><LAlt><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><Up><#+20><Up><Up><Up><Left><#+22><Right>//<Up><#+1><Up><Right><#+27><Right><Right><Right>,int daa<BckSp>ta<Down><#+25><Down><Up><Up><Down><Left><Left>,data<Up><Right><#+16>
+2020-01-11 17:34:55+0530 >   for<RShft>()<Left>i=0;i<RShft><5;i<RShft>++<Right>
+2020-01-11 17:35:09+0530 >    <RShft>{<Down><Right><#+28>
+2020-01-11 17:35:16+0530 >    data<RShft>++;
+2020-01-11 17:35:23+0530 > <RShft>}<Left>   <Up><Up><Up><Up><Up><Right><Right><#+30>
+2020-01-11 17:35:30+0530 >    <BckSp>imt <BckSp><BckSp><BckSp>nt i=0;<Left>,data = 100<Up><#+20><Up><Down><Down><Down><Down><Down><Up><Right><BckSp><Down><#+13><Right><Up><Right><BckSp><Up><#+10><Down><Esc>dd<Down>dd<Down>dd<Up>dd<Up><#+10>dd<Up><#+9><Down><#+11><Down><Down><Up><Up><Up><Right><#+42>i<Right>
+2020-01-11 17:37:43+0530 >   if<LAlt><Tab><LAlt><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><BckSp><BckSp><Down><Esc>yy<Up><Up><Up><Right><#+25>p<Right><#+16>i<BckSp><BckSp><BckSp><BckSp><BckSp><LShft>NULL<LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><Down><Down><Down><Left><#+18><Right>..<BckSp><BckSp>//<Esc><RShft>:w
+2020-01-11 17:39:22+0530 > <Up><Up>
+2020-01-11 17:39:26+0530 > <Up><Up>
+2020-01-11 17:39:27+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><Up>  <Up>i   if<RShft>()<Left>start == <LShft>M<BckSp>NULL<Right>
+2020-01-11 17:41:54+0530 > <RShft> <#+10><RShft>{<Down><Down><Down>  <RShft>}<Left>  <Right>
+2020-01-11 17:42:10+0530 >       <LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><Up><Left><Up><Left>   <Up><LAlt><Tab><LAlt><Tab><LAlt><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><Up><#+17><Down><Down><Down><Down><Down><LAlt><Tab><LAlt><Tab><Right><#+11><Left>,current<LAlt><Tab><LAlt><Tab><Left><#+10><LShft>*<Down><#+12><Down><LAlt><Tab><LAlt><Tab><Down><Down><Down><Right>
+2020-01-11 17:49:27+0530 >  <#+10> current = p;<LAlt><Tab><LAlt><Tab><Down><Down><LAlt>else<RShft>{
+2020-01-11 17:51:21+0530 >  <#+10> <RShft>}<Up><Right><#+12>
+2020-01-11 17:51:26+0530 >  <#+10> current-<RShft>>next = p<LAlt><Tab><LAlt><Tab>;<LAlt><Tab><LAlt><Tab>
+2020-01-11 17:51:58+0530 >  <#+10> current = p;<Esc><RShft>:w
+2020-01-11 17:52:08+0530 > <Up><Up>
+2020-01-11 17:52:15+0530 > <Up><Up>
+2020-01-11 17:52:16+0530 > <LAlt><Tab><LAlt><Tab><Up><Up><Up><Right><Up><Up><Up><Up><Up><Left><#+20>i//<Down><Left>//<Down><Left>//<Down><Down><Left><Left><Down>//<Up><Right><#+9><Up><Right><#+18><Left>\<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><Up><#+23><Up><#+11><Left><#+13><Left><Left><Left><Left>\\<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>struct node <LShft>*<Right><BckSp><Right><#+33><Right><Right><Right><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>\<BckSp><Down><#+8><Up><Esc><Down><#+25><Down><Down><Left><#+13><Left><Left><Left><Left><Left><Left><Left><Left>start<Left><#+8>s<Right><#+7><Right>=<Down><Left><Left><Left><Left><Left><Left><Right>//<Up><#+17><Up><#+12><Up><Up><Up><Up><Up><Up><Up><Down><Down><Down><Up><Left><#+10><Left>//<Down><Left><Left><Left>//<Down><#+2><Up><Up><Esc>uu<Up><Right><#+30>i<Right>
+2020-01-11 18:40:53+0530 > <LShft>#if 0<Down><#+20><Down><LShft>#endif
+2020-01-11 18:41:02+0530 > printf<RShft>();<Left><Left><RShft>""<Left><LShft>Enter no.of nodes\n<Right><Right><Right>
+2020-01-11 18:41:26+0530 > scanf<RShft>();<Left><Left><RShft>""<LAlt><Tab><LAlt><Tab><Left><LShft>%d<Right>,<LShft>&n<Up><#+23><Left><Right><Right><#+18><Left><#+19><Left><BckSp><BckSp><Right><#+11><Right><Right><Right><BckSp><BckSp><Left><Left><Right><BckSp><BckSp><Right><#+14><Left><BckSp><#+10><BckSp><BckSp><BckSp><BckSp><LAlt><Tab><LAlt><Tab><Down><#+25><Up><Up><Up><Right><#+10><Right><Right><Right>
+2020-01-11 18:42:20+0530 > 
+2020-01-11 18:42:20+0530 > <Up>  if<RShft>)<BckSp><RShft>()<Left>n ==0 <BckSp><Right>
+2020-01-11 18:42:34+0530 >  <#+9>return start;
+2020-01-11 18:42:40+0530 > 
+2020-01-11 18:42:40+0530 >   printf<RShft>()<Left><RShft>""<Left><LShft>Enetr <BckSp><BckSp><BckSp><BckSp>ter first element\n<Right><Right>;
+2020-01-11 18:43:10+0530 >   printf<RShft>();<Left><Left><Left><Left><BckSp><BckSp><BckSp><BckSp><BckSp>scan<Right><Right><RShft>""<Left><LShft>%d<Right>,<LShft>&dar<BckSp>ta<Up><#+22><Up><Up><Up><Up><Up><Left>,data<Right><#+7><Down><#+24><Down><Down><Down><Right><#+18>
+2020-01-11 18:43:47+0530 >   start = insert <BckSp>beg<RShft>();<Left><Left>struct node <LShft>*start,<BckSp><#+13><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>start,data<Right><Right>
+2020-01-11 18:44:22+0530 > 
+2020-01-11 18:44:22+0530 >   enter<BckSp><BckSp><BckSp><BckSp><BckSp>for<RShft>()<Left>i=2;i<RShft><5;i<RShft>++<Right>
+2020-01-11 18:44:56+0530 > <RShft>{<BckSp>  <RShft>{
+2020-01-11 18:44:59+0530 >   <RShft>}<Up>
+2020-01-11 18:45:01+0530 >     insertend<RShft>()<Left>start,data<Up><Up><Up><Up><Up><Up><Down><Esc><LShft>yy<Down><Down><Down><Down>pi  <Down><Down><Down><Down><Up>return start;<Up><#+27><Up><#+25><Down><#+10><Down><Down>
+2020-01-11 18:46:50+0530 > 
+2020-01-11 18:46:51+0530 > struct node <LShft>*insertbeg<RShft>()<Left>stry<BckSp>uct node <LShft>*start,int data<Right>
+2020-01-11 18:47:15+0530 > <RShft>{
+2020-01-11 18:47:16+0530 > <RShft>}<Up>
+2020-01-11 18:47:18+0530 > 
+2020-01-11 18:47:18+0530 > <Up>   struct node <LShft>*temp;
+2020-01-11 18:47:36+0530 >    temp = struct node <LShft>*<RShft>)<Left><#+15><Left><Left><RShft>(<Right><#+17>malloc<RShft>()<Left>sizeof<RShft>()<Left>struct node<Right><#+10>;
+2020-01-11 18:48:06+0530 > 
+2020-01-11 18:48:06+0530 >    temp-<RShft>>info = data;
+2020-01-11 18:48:26+0530 >    temp-<RShft>>link = start;
+2020-01-11 18:48:38+0530 >    start = temp;
+2020-01-11 18:48:55+0530 > 
+2020-01-11 18:48:55+0530 >   return start;<Down><Down>
+2020-01-11 18:49:08+0530 > 
+2020-01-11 18:49:08+0530 >  <BckSp>void insertend<RShft>()<Left>struct node <LShft>*start,int data<Right>
+2020-01-11 18:49:33+0530 > <RShft>{
+2020-01-11 18:49:34+0530 > <RShft>}<Up>
+2020-01-11 18:49:35+0530 > 
+2020-01-11 18:49:35+0530 > <Up>   struct node <LShft>* <BckSp>temp;
+2020-01-11 18:49:48+0530 >    temp <BckSp><BckSp><BckSp><BckSp><BckSp><Up><#+13><Up><Up><Esc>yy<Down><#+14><Down>p<Right><Down>i <Up><Up><Right><#+19><Left>,<LShft>*p<Down><Down><Down>   p = start;
+2020-01-11 18:51:33+0530 > 
+2020-01-11 18:51:33+0530 > <Up>    
+2020-01-11 18:51:39+0530 >   while<RShft>()<Left>p-<RShft>>linl<BckSp>k<BckSp><BckSp><BckSp><BckSp>next<LShft>!=<LShft>NULL<Right>
+2020-01-11 18:53:00+0530 >   <#+8>p= p-<RShft>>li<BckSp><BckSp>next;
+2020-01-11 18:53:10+0530 > 
+2020-01-11 18:53:10+0530 >   <Up><Up><Up><Up><Up><Up> 
+2020-01-11 18:53:19+0530 >    temp-<RShft><<BckSp><RShft>>data = data;<Left><#+11><BckSp><BckSp><BckSp><BckSp>info<Down><Down><Down><Down><Down><Down>p-<RShft>>next = temp;
+2020-01-11 18:54:32+0530 >   temp-<RShft>>link<BckSp><BckSp><BckSp><BckSp>next = <LShft>NULL;<Down><#+27><Down><#+26><Down><#+11><Up><#+36><Esc><RShft>:w
+2020-01-11 18:54:54+0530 > <Down><#+14><Up><Up><Down><#+32><Up><#+30><Up><Up><Up><Up><Down><Left><Left><Left><Left><Left>i<BckSp><BckSp><BckSp><BckSp>data<Up><#+15><Down><#+26><Up><#+14><Up><BckSp><BckSp><BckSp><BckSp>next<Down><#+12><Down><#+15><Down><Esc><RShft>:w
+2020-01-11 18:56:20+0530 > <Up><Up>
+2020-01-11 18:56:24+0530 > <Up><#+50><Down><#+9><Down><Down><Down><Down>i,i<Esc><RShft>:w
+2020-01-11 18:56:41+0530 > <Up><Right><#+22>i<Right>;<Down><#+14><Esc><RShft>:w
+2020-01-11 18:56:58+0530 > <Up><Up>
+2020-01-11 18:57:01+0530 > <Up><Up>
+2020-01-11 18:57:02+0530 > <Up><Up>
+2020-01-11 18:57:04+0530 > 5
+2020-01-11 18:57:11+0530 > 10
+2020-01-11 18:57:14+0530 > 20
+2020-01-11 18:57:28+0530 > 30
+2020-01-11 18:57:30+0530 > 40
+2020-01-11 18:57:32+0530 > <Down><Down><Up><#+13><Up><Up><Up><Up><Up><Up><Up><Left><Left>i<BckSp>2<Right><Right><Right><Right><BckSp>n<Esc><RShft>:w
+2020-01-11 19:13:43+0530 > <Up><Up>
+2020-01-11 19:13:46+0530 > <Up><Up>
+2020-01-11 19:13:48+0530 > 5
+2020-01-11 19:13:51+0530 > 10
+2020-01-11 19:13:53+0530 > 20
+2020-01-11 19:13:55+0530 > 30
+2020-01-11 19:13:57+0530 > 40
+2020-01-11 19:13:59+0530 > <Left><Left><Left>i<BckSp>1<Esc><RShft>:w
+2020-01-11 19:14:11+0530 > <Up><Up>
+2020-01-11 19:14:14+0530 > <Up><Up>
+2020-01-11 19:14:15+0530 > 5
+2020-01-11 19:14:18+0530 > 10
+2020-01-11 19:14:20+0530 > 20
+2020-01-11 19:14:21+0530 > 30
+2020-01-11 19:14:22+0530 > 40
+2020-01-11 19:14:24+0530 > 50
+2020-01-11 19:14:25+0530 > <RShft><Del>
+2020-01-11 20:18:08+0530 > <LCtrl>c
+2020-01-11 20:18:14+0530 > <LAlt><Tab><LCtrl>v
+
+Logging stopped at 2020-01-11 20:18:43+0530
+
