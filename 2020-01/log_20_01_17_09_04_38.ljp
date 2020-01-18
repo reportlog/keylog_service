@@ -1,0 +1,71 @@
+Logging started ...
+
+2020-01-17 21:04:38+0530 > <LCtrl>c
+2020-01-17 21:04:39+0530 > vim m<Tab>
+2020-01-17 21:04:42+0530 > <LAlt><Tab><LAlt><Tab>ps -ax
+2020-01-17 21:05:15+0530 > <LAlt><Tab><LAlt><Tab><RShft>:q
+2020-01-17 21:05:53+0530 > <Up><Up>
+2020-01-17 21:05:55+0530 > <LAlt><Tab><LAlt><Tab>13
+2020-01-17 21:06:03+0530 > <LAlt><Tab><LAlt><Tab>13
+2020-01-17 21:06:11+0530 > <LAlt><Tab><LAlt><Tab><LCtrl>c
+2020-01-17 21:06:20+0530 > <Up><Up>
+2020-01-17 21:06:21+0530 > <PgDn><PgDn><PgDn><#+18><PgUp><PgUp><PgUp><PgUp><PgUp><RShft>:q
+2020-01-17 21:06:30+0530 > vim hs<Tab>
+2020-01-17 21:06:32+0530 > <PgDn><PgDn><PgDn><PgDn><Down><#+47><Down><#+7><Down><#+30><Down><#+14><Down><#+11><Up><#+24><Down><#+16><Down><Right><#+23>i<Down><Up><Right><Right>
+2020-01-17 21:06:53+0530 >   <#+53>printf<RShft>("Sending <RShft>ACK Packet <RShft>\r\n<RShft>"<RShft>);<Esc>yy<Down><Left><#+16><RShft>*<RShft>:1
+2020-01-17 21:07:17+0530 > n<RShft>:wq<RShft>!
+2020-01-17 21:07:20+0530 > <Up><Up>
+2020-01-17 21:07:21+0530 > n<Down><Down><Down><Down><Right><#+16><Right><Right><Right><Right><Down><Down><Down><Down><Up><Up><Up><Up><Up><Left><Left><Left><Left><RShft>*nnnn<Down><Down>nn<RShft>:wq<RShft>!
+2020-01-17 21:07:50+0530 > <Up>
+2020-01-17 21:08:04+0530 > nn<Down><#+9>nnn<Down><Down><Down><LAlt><Tab><RShft>:q
+2020-01-17 21:08:45+0530 > <Up><Up><Down><Down><Down><Down>make
+2020-01-17 21:08:49+0530 > <Up><Up><Up><Up><Up>
+2020-01-17 21:08:52+0530 > 13
+2020-01-17 21:08:58+0530 > <LAlt><Tab><LAlt><Tab>13
+2020-01-17 21:09:43+0530 > <LAlt><Tab><LCtrl>c
+2020-01-17 21:10:22+0530 > vi mq<Tab>
+2020-01-17 21:10:28+0530 > <Down><#+23><Down><Down><Right><Up><Right><#+18>i/<CpsLk>HUB1<Esc><RShft>:<CpsLk>wq
+2020-01-17 21:10:41+0530 > <Up><Up><Up><Up><Down> 
+2020-01-17 21:10:46+0530 > ./objs<Tab><Tab>
+2020-01-17 21:10:52+0530 > <#+1>
+2020-01-17 21:11:05+0530 > <#+36><KP1><KP3>
+2020-01-17 21:11:13+0530 > <KP1><KP3>
+2020-01-17 21:11:19+0530 > 13
+2020-01-17 21:11:33+0530 > <LCtrl>c
+2020-01-17 21:14:08+0530 > vi mq<Tab>
+2020-01-17 21:14:11+0530 > <Down><#+26><Up><Up><Up><Right><Down><Up><Right><#+17><Right><Right>i<CpsLk><CpsLk><BckSp><BckSp><BckSp><CpsLk>S<CpsLk><BckSp>sht<Esc><RShft>:wq
+2020-01-17 21:14:26+0530 > <Up><Up><Up>
+2020-01-17 21:14:28+0530 > <Up><Up><Up>
+2020-01-17 21:14:29+0530 > 13
+2020-01-17 21:14:36+0530 > 
+2020-01-17 21:14:36+0530 > <LAlt>2<LAlt>3<#+1><LAlt>4<LAlt>vi hsc<Tab>
+2020-01-17 21:15:11+0530 > <PgDn><PgDn><PgDn><PgDn><PgUp><PgUp><Up><Up><#+21><Down><Right><#+26><Right><Right><#+11><Right><Right>i<BckSp><#+10><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>c2eab99a780bad916d93a632fb7e4643bdbd65dbf27e175d2f1053c256247aab<Esc><RShft>:w
+2020-01-17 21:17:26+0530 > gg=<LShft>G<#+1><LAlt>1<LAlt>2<LAlt>1<LCtrl>c
+2020-01-17 21:17:48+0530 > <Up><Up><Up><Up><Down><Down>c<Tab>
+2020-01-17 21:17:52+0530 > make
+2020-01-17 21:17:53+0530 > ./objs<Tab><Tab>
+2020-01-17 21:17:57+0530 > <LAlt>2<LAlt>3<LAlt>4<Ins><Up><Up><Up><#+10><Up><Up><Up><Up><Right><#+32><BckSp><Right>a<Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><#+1><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Esc><RShft>:w
+2020-01-17 21:19:31+0530 > <LAlt>1<Up><Up><LCtrl>c
+2020-01-17 21:19:33+0530 > <Up><Up><Up>
+2020-01-17 21:19:34+0530 > make
+2020-01-17 21:19:36+0530 > ./hu<Tab><Tab><Tab><BckSp><BckSp>objs<Tab><Tab>
+2020-01-17 21:19:42+0530 > <LAlt>2
+2020-01-17 21:19:44+0530 > <#+40><LAlt>1<LAlt>2<LAlt>113
+2020-01-17 21:20:13+0530 > 13<LAlt>2
+2020-01-17 21:20:20+0530 > <#+11><LAlt>1
+2020-01-17 21:20:21+0530 > 13
+2020-01-17 21:20:28+0530 > <LAlt>2<LCtrl>c
+2020-01-17 21:20:37+0530 > <Up>
+2020-01-17 21:20:38+0530 > <LAlt>113<LAlt>2<LAlt>1
+2020-01-17 21:20:56+0530 > <#+1><LAlt>2
+2020-01-17 21:22:15+0530 > <#+12><LAlt><LAlt><LAlt>113<LAlt>2
+2020-01-17 21:22:28+0530 > <#+31><LAlt>1
+2020-01-17 21:22:33+0530 > 13
+2020-01-17 21:28:52+0530 > <LAlt>2
+2020-01-17 21:29:33+0530 > <#+13><LAlt>2
+2020-01-17 21:29:40+0530 > <#+10><LCtrl><LShft>Tmos<Tab><Tab><RShft>_s<Tab>-t <CpsLk>HDT
+2020-01-17 21:29:51+0530 > <LAlt>3<#+1>245<LAlt>56<LAlt>113
+2020-01-17 21:30:25+0530 > 
+
+Logging stopped at 2020-01-17 21:33:20+0530
+
