@@ -1,0 +1,52 @@
+Logging started ...
+
+2020-01-20 10:02:52+0530 > 
+2020-01-20 10:30:55+0530 > 
+2020-01-20 10:30:56+0530 > 
+2020-01-20 10:30:56+0530 > 
+2020-01-20 10:30:56+0530 > 
+2020-01-20 10:30:57+0530 > 
+2020-01-20 10:30:57+0530 > <#+1>zs10062013
+2020-01-20 10:31:03+0530 > <LAlt><Tab><LAlt><LAlt><Tab><LAlt><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><Del><Del><BckSp><#+22><CpsLk>MQTT<RShft>_SEREVER<RShft><BckSp><BckSp><BckSp><BckSp>VER<RShft>_UPDATED
+2020-01-20 10:34:39+0530 > <#+1>LS
+2020-01-20 10:34:51+0530 > <CpsLk>ls
+2020-01-20 10:34:53+0530 > make c<Tab>
+2020-01-20 10:34:55+0530 > make
+2020-01-20 10:34:57+0530 > ./objs<Tab><Tab>
+2020-01-20 10:35:06+0530 > <LCtrl>c
+2020-01-20 10:35:10+0530 > <#+1>clear
+2020-01-20 10:35:12+0530 > vi hs<Tab>
+2020-01-20 10:35:15+0530 > <#+3><LAlt><Tab><LAlt><Tab><Tab><LAlt><Tab><#+1><LAlt><Tab><Tab><LAlt><Tab><Tab><LAlt><LAlt><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><Down><#+23><Up><Up><Up><Up><Right><#+22><Left><Left>i<BckSp><BckSp><Right><Right><Right><BckSp><BckSp><Esc><RShft>:w
+2020-01-20 10:36:35+0530 > <#+2><Down><Down><Down><Down><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LCtrl>s<LAlt><Tab><LAlt><Tab><Tab><Tab><LAlt><Tab><LAlt><Tab><Tab><Tab><LAlt><Tab><LAlt><Tab><Down><#+5><Down><LAlt><Tab><LAlt><Tab><Right><#+26><Left>i<BckSp><BckSp><Left><Left><Right><BckSp><BckSp><Esc><RShft>:w
+2020-01-20 10:43:28+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><Left><#+11><Left><Right>i<BckSp><BckSp><BckSp><BckSp><CpsLk>UB<Down><Left><#+15><Left><LAlt><Tab><LAlt><Tab><BckSp><Right><BckSp><Left><BckSp><BckSp><Right><#+22><BckSp><BckSp><Right><Right><Right><BckSp><BckSp><Esc><RShft>:W
+2020-01-20 10:45:52+0530 > <CpsLk><CpsLk><RShft><CpsLk>:w
+2020-01-20 10:45:56+0530 > <LAlt><LAlt><Tab><LAlt><Tab><RShft>:w
+2020-01-20 10:47:25+0530 > <#+3><RShft>:q
+2020-01-20 10:47:30+0530 > <Up><Up><Up><Up><Up>
+2020-01-20 10:48:21+0530 > <Up><Up><Up><Up><Up>
+2020-01-20 10:48:24+0530 > <LShft>Mobile to <BckSp><BckSp><BckSp><BckSp><RShft>_to<RShft>_<LShft>Lock<LCtrl><LCtrl>v<Left><BckSp><BckSp><BckSp><LShft>Lck<Left><Left>o<LCtrl>z<LCtrl>z<LCtrl>z<LCtrl>z<BckSp>3<BckSp>1<LShft><LShft>Front<RShft> panel<LShft><Down><Down><LCtrl>c
+2020-01-20 10:52:24+0530 > <LCtrl>v<Left><BckSp>4<LShft>Door configuration<LShft><Down><Down><LCtrl>c
+2020-01-20 10:52:50+0530 > <LCtrl>v<BckSp>5<LShft>Lock type<LShft><Down><Down><LCtrl>c
+2020-01-20 10:53:10+0530 > <LCtrl><LCtrl>v<BckSp>6<LShft>Operational mode<LShft><Down><Down><LCtrl>x<Del><Del><LCtrl>ss<BckSp>3<LCtrl>ss<LAlt><Tab><LShft><Down><LCtrl>x<Del><LCtrl>x<Del><LCtrl>x<Del><Del><Del><Del><Del><Del><Del><Del><LCtrl>x<LCtrl>v<LCtrl>z<LCtrl>v<BckSp>3<Del><Del><Del><LCtrl>c
+2020-01-20 11:02:04+0530 > <LCtrl>v<LCtrl>c
+2020-01-20 11:02:27+0530 > <LCtrl>v<LCtrl>ssgma<LCtrl>z<LCtrl>z<LCtrl>s<Del><Del><LShft>Lock <LShft>Configuration<Home>1.<LCtrl>b<LShft>Ari<BckSp><BckSp><BckSp><LCtrl>c
+2020-01-20 11:19:25+0530 > <BckSp><#+23><LCtrl>v<LCtrl>c
+2020-01-20 11:19:38+0530 > <LCtrl>c
+2020-01-20 11:19:46+0530 > <BckSp><#+21><LCtrl>v<LShft>Arial
+2020-01-20 11:20:30+0530 > 
+2020-01-20 11:20:31+0530 > 2.<LShft>U<LShft>NLOCK <LShft>COMMAND<LShft><Home><BckSp><#+22><LShft>A<BckSp><BckSp><LCtrl>v
+2020-01-20 11:21:15+0530 > <LCtrl>c
+2020-01-20 11:21:34+0530 > <LCtrl>v<LCtrl>c
+2020-01-20 11:21:47+0530 > <LCtrl>v<BckSp>2<LCtrl>z<LCtrl>z<BckSp>2<LShft><BckSp>1<LShft>Unlock<RShft>_cmd<LCtrl>s<LShft><LShft>Zia <LAlt><Tab><LShft><Down><Down><Right><Right><Right><Right><Right><Right><Left><Del><LCtrl>x<LShft><Down><Right><Right><Right><Right><Right><Left><Down><LCtrl>x<BckSp>5<Left><BckSp>0<Del><Del><BckSp>2<LShft><Down><Down><Del>/<LShft>0x<LShft>DD/<LShft>Fail<Del>ls
+2020-01-20 11:33:30+0530 > make c<Tab>
+2020-01-20 11:33:32+0530 > make
+2020-01-20 11:33:34+0530 > <LAlt><Tab><LShft><Down><Down><LCtrl>x<LCtrl>c
+2020-01-20 11:36:05+0530 > <LCtrl>v<LCtrl><LCtrl>c
+2020-01-20 11:36:49+0530 > <LCtrl>v<BckSp><BckSp><Left><BckSp>3<LCtrl>b<LCtrl>c
+2020-01-20 11:37:28+0530 > <LCtrl><LCtrl>v<BckSp>3<BckSp><BckSp><BckSp>3<LCtrl>s<LCtrl>ssss<LCtrl>c
+2020-01-20 11:38:53+0530 > c
+2020-01-20 11:38:53+0530 > c
+2020-01-20 11:38:53+0530 > <LCtrl>v
+
+Logging stopped at 2020-01-20 11:41:46+0530
+
