@@ -1,0 +1,47 @@
+Logging started ...
+
+2020-01-22 09:29:55+0530 > <LShft>Final <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LCtrl><LShft>Applicatins<BckSp><BckSp><BckSp>ions<Home><LShft>Lock<RShft>_
+2020-01-22 09:30:13+0530 > 
+2020-01-22 09:30:14+0530 > <LCtrl>vls
+2020-01-22 09:30:38+0530 > cd <LShft>H<Tab>
+2020-01-22 09:30:41+0530 > ls
+2020-01-22 09:30:42+0530 > vim jso<Tab>
+2020-01-22 09:30:46+0530 > d <#+10>  <LShft>F<LShft>IRMWARE <LShft>JSON <LShft>API's<BckSp>
+2020-01-22 09:31:50+0530 > <Up><End>
+2020-01-22 09:31:56+0530 > <LCtrl><LShft>c
+2020-01-22 09:32:17+0530 > <LAlt><Tab><LCtrl>v<LShft><End> <RShft>: <LAlt><Tab><LCtrl><LShft>c
+2020-01-22 09:32:45+0530 > <LAlt><Tab><LCtrl>v
+2020-01-22 09:32:51+0530 > 
+2020-01-22 09:32:53+0530 > <LAlt><Tab><LCtrl><LShft>c
+2020-01-22 09:33:01+0530 > <LAlt><Tab><LCtrl>v <RShft>: <LShft>Create <LShft>Json object<LAlt><Tab><Up><#+15><Down><Right><RShft>*
+2020-01-22 09:35:40+0530 > <Up><#+9><LCtrl><LShft>c
+2020-01-22 09:35:49+0530 > <LAlt><Tab>
+2020-01-22 09:35:52+0530 > 
+2020-01-22 09:35:52+0530 > <LCtrl>v  <RShft>: <LShft>Create new <BckSp><BckSp><BckSp><BckSp><LShft>Json <LShft>A<BckSp>array
+2020-01-22 09:36:10+0530 > 
+2020-01-22 09:36:10+0530 > <LAlt><Tab><LCtrl>c
+2020-01-22 09:36:22+0530 > <LCtrl><LShft>c
+2020-01-22 09:36:27+0530 > <LAlt><Tab><LCtrl>v  <RShft>:<Left><BckSp> <Right> <LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LShft>Add <LShft><LAlt><Tab><LCtrl><LShft>c
+2020-01-22 09:37:45+0530 > <LAlt><Tab>
+2020-01-22 09:37:48+0530 > 
+2020-01-22 09:37:48+0530 > <LCtrl>v  <RShft>: <LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LShft>Parse the strg <BckSp><BckSp>ing object<BckSp><LAlt><Tab><LAlt><Tab><BckSp><BckSp><BckSp><BckSp><BckSp>variable.the <LAlt><Tab><LAlt><Tab>variable to object
+2020-01-22 09:39:17+0530 > 
+2020-01-22 09:39:17+0530 > <LAlt><Tab><LCtrl><LShft>c
+2020-01-22 09:39:28+0530 > <LAlt><Tab>
+2020-01-22 09:39:31+0530 > 
+2020-01-22 09:39:31+0530 > <LCtrl>v     <RShft>: <LShft>Parse the <LShft>Integer variable.<LAlt><Tab><LAlt><Tab><LAlt><Tab><LCtrl>c
+2020-01-22 09:40:01+0530 > <LCtrl><LCtrl><LShft>c
+2020-01-22 09:40:06+0530 > <LAlt><Tab>
+2020-01-22 09:40:10+0530 > 
+2020-01-22 09:40:10+0530 > <LCtrl>v   <#+1> <BckSp><RShft>: <LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LShft>Add the <LShft>Array object
+2020-01-22 09:42:19+0530 > 
+2020-01-22 09:42:21+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LCtrl><LShft>c
+2020-01-22 09:42:31+0530 > <LAlt><Tab><LCtrl>v  <RShft>: <LAlt><Tab><LAlt><LAlt><LAlt><Tab><Del><LAlt><Tab><LCtrl><LShft>c
+2020-01-22 09:43:18+0530 > <LAlt><Tab><LCtrl>v <RShft>: <LAlt><Tab><LAlt><Tab><LShft>Convet<BckSp>rt the object to string
+2020-01-22 09:44:57+0530 > 
+2020-01-22 09:44:58+0530 > <LAlt><Tab><LCtrl><LShft>c
+2020-01-22 09:45:02+0530 > <LAlt><Tab><LCtrl>v  <#+10>  <RShft>: <LAlt><Tab><LCtrl>v 
+2020-01-22 09:45:31+0530 > <LCtrl>fv
+
+Logging stopped at 2020-01-22 09:49:02+0530
+
