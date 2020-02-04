@@ -1,0 +1,32 @@
+Logging started ...
+
+2020-02-04 15:58:20+0530 > ma
+2020-02-04 16:02:18+0530 > srikanth<LShft>@zumisolutions.com<Tab><LShft>YAhoozumi<LShft>@5stm32f413zh <LShft>BLE module interfacing
+2020-02-04 16:21:52+0530 > cd tm<Tab>wo<Tab>/co<Tab>blu<Tab><Tab>
+2020-02-04 17:05:37+0530 > ls
+2020-02-04 17:05:37+0530 > cd bl<Tab>
+2020-02-04 17:05:41+0530 > ls
+2020-02-04 17:05:41+0530 > vf s<Tab><BckSp><#+16>cd s<Tab>
+2020-02-04 17:05:51+0530 > ls
+2020-02-04 17:05:51+0530 > b<BckSp>vm ma<Tab>
+2020-02-04 17:05:56+0530 > vim ma<Tab>
+2020-02-04 17:05:59+0530 > <PgDn><#+27><Up><#+58><Up><Up><Up><Up><Up><Up><Up><Up><Up><#+24><Up><#+54><Down><#+21><Up><Up><Up><Up><Up><Up><Right><Right><Right><Esc><RShft>:q
+2020-02-04 17:12:12+0530 > ctags -<LShft>R
+2020-02-04 17:12:19+0530 > vim bl<Tab><BckSp><#+14>im ma<Tab>
+2020-02-04 17:12:27+0530 > <PgDn><#+30><PgUp><PgUp><PgUp><PgUp><Down><#+3><Up><#+30><Up><Up><Up><RCtrl>]<Down><#+4><Down><#+10><RCtrl>]<Down><#+15><Down><#+9><Down><#+3><Up><#+14><Up><Up><Right><#+12><RCtrl>]<Right><#+11><RCtrl>]n<RCtrl>tt<Down><Down><Left><Left><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Up><#+13><Down><Down><Down><Down><Down><Down><Down><Down><Up><Up><Up><Up><#+18><Down><Right><Right><Down><Down><Down><Down><Down><Down><Down><#+8><Down><Down><Down><Down><Down><Down><Down><Down><RCtrl>t<Down><Down><RCtrl><Down><Up><Right><#+13><Right><Right><RCtrl>]<Down><Left><#+10><Left><RCtrl>]<Down><Down><Down><Up><Right><RCtrl>]]<Down><Down><Down><Down><Down><Down><Down><Down><Down><RCtrl>]]<Down><Down><Down><Down><Up><Up><Down><#+19><Down><#+12><Up><#+47><Down><#+23><Down><#+7><Down><#+7><Down><#+11><Up><Up><Up><RCtrl>]<Down><#+15><LCtrl><LShft>c
+2020-02-04 17:21:58+0530 > <LCtrl>v
+2020-02-04 17:22:04+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LCtrl><LShft>Tgrep <BckSp><#+15>grep -a<BckSp>r<LShft>H <RShft>""<Left><LShft><Ins>
+2020-02-04 17:23:45+0530 > vim bac<Tab>c
+2020-02-04 17:24:07+0530 > q<Esc><RShft>:f
+2020-02-04 17:24:20+0530 > vim plu<Tab>c
+2020-02-04 17:24:29+0530 > <Up><Up><Up><Up><Right><Down><RCtrl>]<RCtrl>t<RCtrl>]/<LShft><Ins>
+2020-02-04 17:25:13+0530 > <RCtrl>t<Down><Down><Down><Down><Down><Down><Down><#+14><Down><#+15><Down><#+11><Down><#+11><Up><#+16><Down><#+35><Down><#+22><Down><#+23><Down><#+7><Up><#+15><Up><RCtrl>]<Down><RCtrl>t<Down><RCtrl>]<Down><Down><Down><Down><Down><Down><Down><Down><Up><Right><Right><#+12><Right><#+25><RCtrl>t<Up><RCtrl>]<Down><Down><Right><#+11><Right><#+9><Right><Right><RCtrl>]<Down><#+14><RCtrl>t<Down><Right><#+14><Right><Right><Down><Right><#+8><RCtrl>]<Down><#+37><Down><Up><#+11><Down><Right><#+10><Down><Right><#+13><Right><#+10><Right><#+9><Right><Right><Down><Right><#+8><RCtrl>]<Down><Down><Down><Down><Down><Down><Down><Down><Down><#+9><LShft>Hai <LShft>D<BckSp>s<BckSp><LShft>Sravani,
+2020-02-04 17:45:03+0530 > 
+2020-02-04 17:45:03+0530 >      <LShft>Thanks for the <LShft>Document <BckSp>.<LShft>I want to conform tha <BckSp>t s<BckSp>is it mandatory to have ubuntu 18 or other lower like ubutu <Left><Left><Left>n<Right><Right> 16 is fib<BckSp>ne.one thing <LCtrl>x.<Up><#+10><Right><#+12><Right><Right><Right><Right><RCtrl>]<Down><#+12><RCtrl><Menu><RCtrl>t<Up><Down><Down><Right><#+12><Right><Right><RCtrl>]<Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Up><#+14><Down><RCtrl>t<RCtrl>t<Up><Up><Down><Down><RCtrl>]<RCtrl>t<Up><Up><Up><RCtrl>t<RCtrl>t<Down><RCtrl>]<Down><Down><Down><Down><Right><#+4><Up><Right><#+18><Left><Left><RCtrl>]<Down><Down><Down><Down><RCtrl>t<RCtrl><Down><Down><Esc><RShft>:q
+2020-02-04 18:31:17+0530 > ls
+2020-02-04 18:31:18+0530 > cd ..
+2020-02-04 18:31:30+0530 > ls
+2020-02-04 18:31:31+0530 > <LAlt><Tab><LAlt><Tab><LMeta><#+11>lzs10062013
+2020-02-04 18:42:55+0530 > embedtronix
+2020-02-04 18:43:01+0530 > c
+2020-02-04 18:43:47+0530 > 
