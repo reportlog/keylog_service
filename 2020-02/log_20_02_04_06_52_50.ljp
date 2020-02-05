@@ -1,0 +1,81 @@
+Logging started ...
+
+2020-02-04 18:52:50+0530 > <LAlt>2<LAlt>31<LAlt>2<LAlt>1<LAlt>2<LAlt>2<LAlt>567i<Right><BckSp><#+13>zumisolutions<Esc><RShft>:w
+2020-02-04 18:54:07+0530 > <LAlt>1<LAlt>2<LAlt>1<KP1><KP3>
+2020-02-04 18:54:12+0530 > <LAlt>2<LAlt>1<LAlt>2<LAlt><LAlt><LAlt>1<LAlt>2<LAlt>1<KP2>
+2020-02-04 18:54:25+0530 > <LAlt>67i<Right><BckSp><#+21>su<BckSp><BckSp><LAlt>717<#+1>r<BckSp>srikanth<Esc><RShft>:w
+2020-02-04 18:55:47+0530 > <LAlt>1<LAlt>2<LAlt>1<LAlt>2<LAlt>1<LAlt>2<LAlt>1<KP1><KP3>
+2020-02-04 18:56:11+0530 > <LAlt>2<LAlt><LAlt>1<LAlt>2<LAlt>2<LAlt>1<KP2>
+2020-02-04 18:56:23+0530 > <LAlt>2<LAlt>1<LCtrl>c
+2020-02-04 18:57:00+0530 > vi i<BckSp>hs<Tab>
+2020-02-04 18:57:05+0530 > <LAlt>21<RShft>:q
+2020-02-04 19:10:40+0530 > <Up><Up>
+2020-02-04 19:10:41+0530 > <KP1><KP3><LAlt>2<LAlt>1
+2020-02-04 19:10:51+0530 > <LAlt>2<LAlt>1<KP2>
+2020-02-04 19:10:58+0530 > <LCtrl>z<LCtrl>z<Up><LMeta>l<#+3>zs10062013
+2020-02-04 20:33:47+0530 > <BckSp><BckSp><BckSp><BckSp>cd gdb<Tab>
+2020-02-04 20:34:11+0530 > ls
+2020-02-04 20:34:12+0530 > cd ..
+2020-02-04 20:34:16+0530 > <LShft>grep -ar <RShft>""<Left><LShft>MITM
+2020-02-04 20:34:31+0530 > vi m sr<Tab><Left><#+8><Left><Left><BckSp><Right><#+13>ma<Tab>
+2020-02-04 20:47:39+0530 > /pair
+2020-02-04 20:47:42+0530 > nnnnnn<Up><#+30><Down><Down><Left><RCtrl><Left><#+11><RShft>*<Up><Up><Right><#+23><RShft>*nnnnnnnnnnnsm<PgDn><#+39><PgUp><PgUp><PgUp><PgUp><Down><#+18><Down><#+26><Down><#+9><Down><#+11><Down><#+10><Down><#+5><Down><#+11><Down><#+24><Down><#+19><Down><#+11><Down><#+17><Down><#+14><Down><#+19><Up><#+28><Up><#+14><Up><Up><#+63><Up><#+22><Esc><RShft><PgDn><#+38><PgUp><PgUp><PgUp><PgUp><Esc><RShft>:q
+2020-02-04 20:52:54+0530 > ls
+2020-02-04 20:52:56+0530 > cd cli<Tab>
+2020-02-04 20:53:02+0530 > ls
+2020-02-04 20:53:03+0530 > vim ma<Tab>
+2020-02-04 20:53:07+0530 > <PgDn><#+68><PgUp><PgUp><PgDn>/pair
+2020-02-04 20:53:23+0530 > nnn<Down><#+14><Down><#+12><Down>nnn<Down><#+18><Down><#+13><Down><#+14><Down><#+12><Down><#+14><Down><#+21><Up><#+52><Up>/<LShft>MITM
+2020-02-04 20:54:42+0530 > cd .<#+3><Esc><RShft>:q
+2020-02-04 20:54:50+0530 > cd ..<BckSp><#+12>vim gat<Tab>c
+2020-02-04 20:55:02+0530 > /pair
+2020-02-04 20:55:06+0530 > /m<BckSp><LShft>MITM
+2020-02-04 20:55:13+0530 > <Esc><RShft>:q
+2020-02-04 20:55:17+0530 > vim ag<Tab>c
+2020-02-04 20:55:27+0530 > <PgDn><PgUp><Down><#+18><Down><#+18><Down><#+9><Down><#+15><Down><#+18><Down><Down><#+21><Down><#+13><Down><#+17><Down><#+9><Down><#+8><Down><Down><#+21><Down><#+35><Down><#+24><Down><#+16><PgDn><PgDn><PgUp><PgDn><PgDn><PgDn><PgDn><PgUp><PgUp><PgUp><PgUp><PgUp><PgDn><Down><#+12><Down><Down><Down><Left><#+11><Left><Left><RShft>*<Up><#+11><Up><Up><Up><Up><Up><Down><Down><Left><#+43><RShft>*<RCtrl>]<Esc><RShft>:q
+2020-02-04 20:56:49+0530 > cd ../cli<Tab>
+2020-02-04 20:56:53+0530 > vim ma<Tab>
+2020-02-04 20:56:56+0530 > /<LShft><Ins>
+2020-02-04 20:57:04+0530 > <Down><Right><#+11><Left><RShft>*nn<Down><Down><Up><#+12><Up><Up><Up><Up><RShft>*nn<Up><#+35><Down><#+13><Down><Down><Down><Down><Left><#+10><Left><Left><Left><RShft>*<Down><#+1><Down><#+8><Down><Left><#+11><Left><Left><Left><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Up><Up><Up><Up><Up><Down><Down><Down><Down><Down><Down><Down><Down><Up><#+10><Up><Up><Up><Up><Up><Right><RCtrl>]
+2020-02-04 21:09:37+0530 > <RShft>*<Up><Right><#+29><RCtrl>]
+2020-02-04 21:10:04+0530 > <RShft>*<Down><Down><Down><Down><Down><Down><Up><Up><Esc><RShft>:q
+2020-02-04 21:11:08+0530 > <Esc><RShft>:f
+2020-02-04 21:11:13+0530 > grep -ar <RShft>""<Left><LShft><Ins>
+2020-02-04 21:11:23+0530 > cd ..
+2020-02-04 21:11:26+0530 > <Up><Up>
+2020-02-04 21:11:28+0530 > vim <LShft><Ins>
+2020-02-04 21:11:49+0530 > /<LShft><Ins>
+2020-02-04 21:11:51+0530 > <Down><Down><Down><Down><Down><Down><Down><Down>/<LShft><Ins>
+2020-02-04 21:14:01+0530 > <Up><#+15><Up><Right><#+14><Right><RShft>*n<Down><Right><Right><Right><Right><Down><Down><Down><Down><Right><RShft>*<Down><Down><Down><#+27>n/<LShft><Ins>
+2020-02-04 21:16:15+0530 > <Down><Down><Down><#+15><Up><#+11><Up><#+14><Esc><RShft>:q
+2020-02-04 21:18:07+0530 > <Up><Up><Left><BckSp><#+25><BckSp><BckSp>agent<RShft>_register
+2020-02-04 21:18:20+0530 > vim <LShft><Ins>
+2020-02-04 21:18:40+0530 > /<LShft><Ins>
+2020-02-04 21:18:42+0530 > <Down><#+4>nnn<Down><#+13><Down><#+11><Down><Down><Down><Down><#+12><Down><#+4><Down><Up><#+12><Up><Up><Right><#+16><Up><RShft>*n<Up><#+10><Up><RShft>*nnnnnn<Down><#+14><Up><#+9><Up><Up><Up><Down><Down><Down><Down><Down><Up><#+15><Up><#+9><Up><#+3><Down><Left><#+32><Left><RShft>*<RShft>*<#+1><Esc><RShft>:f
+2020-02-04 21:29:32+0530 > /<LShft><Ins>
+2020-02-04 21:29:42+0530 > <Down><#+13><Up><#+10><Up><#+10><Up><Up><Up><Up><Left><#+14><Left><RShft>*<Down><#+11><Up><#+8><Down><Right><#+14><Right><RShft>*mmmm<Up><#+18><Up><Left><#+11><Left><Left><Left><RShft>*<Up><Up><RShft>*<Down><#+12><Down><Down><Esc><RShft>:q
+2020-02-04 21:34:41+0530 > grep- <BckSp><BckSp> -r<LShft>H <RShft>""<Left>proxy<RShft>_ass<Ins><BckSp><BckSp><BckSp><BckSp>dded
+2020-02-04 21:35:00+0530 > grep -ar <RShft>""<Left><LShft>L2<LShft>CAP
+2020-02-04 21:42:22+0530 > ls
+2020-02-04 21:46:31+0530 > vim <LShft>RE<Tab>
+2020-02-04 21:46:37+0530 > <Esc><RShft>:q
+2020-02-04 21:46:50+0530 > cd cli<Tab>
+2020-02-04 21:47:02+0530 > ks
+2020-02-04 21:47:03+0530 > '<BckSp>ls
+2020-02-04 21:47:06+0530 > cd .<#+2>.
+2020-02-04 21:47:09+0530 > <LCtrl><LShft>Tcd ../../../../
+2020-02-04 21:50:15+0530 > cd ../wo<Tab>-sh<Tab><Tab><Tab>s<Tab>ke<Tab>so<Tab>
+2020-02-04 21:50:26+0530 > vim <LShft>Ma<Tab>
+2020-02-04 21:50:29+0530 > cd do<Tab>
+2020-02-04 21:53:05+0530 > ls
+2020-02-04 21:53:06+0530 > vim mgm<Tab>
+2020-02-04 21:53:20+0530 > <Down><#+13><Down><Down><#+18><Down><#+25><Down><#+30><Down><#+27><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Up><#+33><Up><Up><Up><Up><Up><Down><#+24><Down><#+26><Down><#+13><Down><#+4><Down><Down><Down><Down><Down><Down><Down><#+5><Esc><RShft>:q
+2020-02-04 21:55:29+0530 > <LAlt><Tab>ls
+2020-02-04 21:55:33+0530 > cd ..
+2020-02-04 21:55:35+0530 > tar -cvf do<Tab><BckSp>.tar.gz do<Tab>
+2020-02-04 21:55:45+0530 > cp do<Tab>.<Tab>/me<Tab><Tab><Tab><Tab>
+2020-02-04 21:55:52+0530 > sync
+2020-02-04 21:55:55+0530 > 
+
+Logging stopped at 2020-02-04 21:56:22+0530
+
