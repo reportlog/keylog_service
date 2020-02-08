@@ -1,0 +1,108 @@
+Logging started ...
+
+2020-02-06 10:15:23+0530 > if<Tab>c<Tab>
+2020-02-06 10:15:24+0530 > cd <CpsLk>A<Tab><Up><BckSp><Down><BckSp><CpsLk><CpsLk><CpsLk>a<Tab>
+2020-02-06 10:15:34+0530 > cd mq<Tab><BckSp><BckSp><CpsLk>M<Tab><Tab><Tab>1<Tab>
+2020-02-06 10:15:42+0530 > <CpsLk>ls
+2020-02-06 10:15:43+0530 > <LCtrl><LShft>Tmos<Tab>
+2020-02-06 10:15:51+0530 > <LAlt>1<LCtrl><LShft>TTmos<Tab><RShft>_s<Tab>-t <CpsLk>PDT
+2020-02-06 10:16:05+0530 > <LAlt>3MOS<BckSp><#+10><CpsLk>mso<Tab><BckSp><BckSp>os<Tab><#+4><RShft>_s<Tab>-t<LAlt>23 <CpsLk>HDT
+2020-02-06 10:16:20+0530 > <LAlt>2323232321<#+1><CpsLk>make c<Tab><Tab><Tab><Tab><Tab><Tab>
+2020-02-06 10:16:35+0530 > make
+2020-02-06 10:16:37+0530 > ./objs<Tab><Tab>
+2020-02-06 10:16:59+0530 > <LAlt>2<LAlt>1<KP1><KP3>
+2020-02-06 10:17:33+0530 > <LAlt>2<LAlt>32<LAlt>1<LAlt>2<LAlt>1<LAlt>2<#+1>1<KP6>
+2020-02-06 10:18:07+0530 > <LAlt>2<#+1><LAlt>3<LAlt>2<LAlt>1<KP7>
+2020-02-06 10:18:23+0530 > <LAlt>2321<KP2>
+2020-02-06 10:18:34+0530 > <LAlt>2<LAlt>3<LAlt>23<LAlt>2<LAlt>1<LAlt>21<LAlt>2<#+1><LAlt>1<LAlt>2<LAlt>1<LAlt>2<LAlt>1<LAlt>2<LAlt>1<KP1><KP3>
+2020-02-06 10:20:08+0530 > <LAlt>2<LAlt>1<LAlt>23<LAlt>1<LAlt>2<#+1><LAlt>1<KP1><KP3>
+2020-02-06 10:20:23+0530 > <#+3><LAlt>2<#+1><LAlt>1<LAlt>2<LAlt>1<LAlt>2<LAlt>2<#+2>
+2020-02-06 10:20:47+0530 > <#+17><LAlt>1<KP1><KP4>
+2020-02-06 10:20:51+0530 > <LAlt>2<LAlt>1<KP1><KP3>
+2020-02-06 10:21:02+0530 > <LAlt>2<LAlt>1<LAlt>2<LAlt>1<LAlt>2<LAlt>1<LAlt>2<LAlt>1<LAlt>2<LAlt>1<LAlt>2<LAlt>1<KP2>
+2020-02-06 10:22:04+0530 > <LAlt>2<LAlt>1<LAlt>2<LAlt>1<LAlt>2<LAlt>1<LAlt>2<LAlt>3<#+1><LAlt>2<LAlt>3<LAlt>2<LAlt>1<LAlt>2<LAlt>3<LAlt>2
+2020-02-06 10:22:57+0530 > <#+26><LAlt>3
+2020-02-06 10:23:01+0530 > <#+17><LAlt>2<LAlt>1<LAlt>3<LAlt>2<LAlt>3<LAlt>2<LAlt>1<LAlt>2
+2020-02-06 10:28:19+0530 > <#+15><LAlt>1<KP1><KP4>
+2020-02-06 10:28:31+0530 > 
+2020-02-06 10:28:31+0530 > <LAlt>2<LAlt>1<LAlt>2<LAlt>1<KP1><KP3>
+2020-02-06 10:28:54+0530 > <#+1><LAlt>232321212<LAlt>1<LAlt>2321<LAlt>3<#+1>2323232<LAlt>1<LAlt>2<LAlt>31321<LAlt>2<LAlt>1<KP2><LAlt><LCtrl><LShft>Tcd
+2020-02-06 10:30:03+0530 > c<BckSp>vi 1<Tab>
+2020-02-06 10:30:08+0530 > <Ins><Right><#+22><BckSp><#+17>seyed<Esc><RShft>:w
+2020-02-06 10:30:17+0530 > <LAlt>1
+2020-02-06 10:30:23+0530 > <LAlt>4<LAlt>5<LAlt>1<#+1><LAlt>5i<Right><BckSp><#+12>afrii<BckSp>di<Esc><RShft>:w
+2020-02-06 10:33:44+0530 > <LAlt>3<#+1>42<LAlt>1<LAlt>2<LAlt>3<LAlt>2<LAlt>1<LAlt>2
+2020-02-06 10:34:32+0530 > <#+27><LAlt>1<KP1><KP3><BckSp><#+8><KP2>
+2020-02-06 10:34:49+0530 > <LAlt>2<#+1><LAlt>31<LAlt>2<LAlt><LAlt>1<LAlt>231<KP1><KP3>
+2020-02-06 10:35:42+0530 > <LAlt>2
+2020-02-06 10:35:46+0530 > <#+27><LAlt>1<KP2>
+2020-02-06 10:35:51+0530 > <RShft>:q
+2020-02-06 10:37:57+0530 > pwd
+2020-02-06 10:38:01+0530 > <LAlt>1<LAlt>2<LAlt>1<KP1><KP3>
+2020-02-06 10:41:05+0530 > <KP1><KP3><LAlt>2<#+1>
+2020-02-06 10:41:21+0530 > <#+27><LAlt>1<LAlt>2
+2020-02-06 10:41:51+0530 > <#+19><LAlt>
+2020-02-06 10:41:58+0530 > <#+36>
+2020-02-06 10:42:03+0530 > <#+1><LAlt>1
+2020-02-06 10:42:08+0530 > <LAlt>2<LAlt>1<KP2>
+2020-02-06 10:42:21+0530 > <LAlt>2
+2020-02-06 11:01:03+0530 > <#+21><LAlt>1<KP1><KP3>
+2020-02-06 11:01:09+0530 > <LAlt>21<KP6>
+2020-02-06 11:01:41+0530 > <KP7>
+2020-02-06 11:02:36+0530 > <LAlt>2<LAlt>3<LAlt>1<LAlt>2<LAlt>3
+2020-02-06 11:02:48+0530 > <#+28><LAlt>2
+2020-02-06 11:03:02+0530 > <#+30><LAlt>1<LAlt>3<LAlt>2<LAlt>1<LAlt>23<LAlt>1<LAlt>5vi 1.<Tab>
+2020-02-06 11:03:43+0530 > i<Del><#+17>zumisolutions<Esc><RShft>:w
+2020-02-06 11:03:52+0530 > <LAlt>1<KP2>
+2020-02-06 11:03:55+0530 > <#+1><Down><#+2>
+2020-02-06 11:07:12+0530 > <#+17>
+2020-02-06 11:07:15+0530 > <#+14>
+2020-02-06 11:07:16+0530 > <#+27><KP1><KP3>
+2020-02-06 11:07:25+0530 > 
+2020-02-06 11:07:33+0530 > <#+31>
+2020-02-06 11:07:36+0530 > <#+14><KP6>
+2020-02-06 11:07:43+0530 > <KP7>
+2020-02-06 11:10:21+0530 > 
+2020-02-06 11:10:27+0530 > <#+23><KP2>
+2020-02-06 11:10:40+0530 > <LMeta><#+4>lzs10062013
+2020-02-06 12:14:38+0530 > 
+2020-02-06 12:16:30+0530 > <#+25><KP1><KP3>
+2020-02-06 12:16:51+0530 > 
+2020-02-06 12:16:54+0530 > <#+18>
+2020-02-06 12:16:56+0530 > <#+10>
+2020-02-06 12:17:02+0530 > <#+31><KP6><BckSp><KP1>
+2020-02-06 12:17:51+0530 > <KP1>
+2020-02-06 12:17:55+0530 > <NumLk><KP1><BckSp><BckSp><BckSp><BckSp><#+3>1
+2020-02-06 12:18:06+0530 > <KP6><BckSp><BckSp><BckSp><KP6><BckSp><BckSp><BckSp><BckSp><BckSp><LShft>:<BckSp><KP3><BckSp><BckSp><BckSp><BckSp><LShft>:q
+2020-02-06 12:18:50+0530 > <LCtrl><LShft>c
+2020-02-06 12:18:54+0530 > <LCtrl>z<Up>
+2020-02-06 12:19:00+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><#+5><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><#+9><Up><Up><Up><Up><Up><Up><#+3><BckSp><#+24>vi <BckSp><BckSp><BckSp>vi <BckSp><BckSp><BckSp>./o<Tab><Tab>
+2020-02-06 12:19:53+0530 > ./<BckSp><BckSp><BckSp>cd <BckSp><#+15>vi<BckSp><BckSp><BckSp>cd afr<Tab><LShft>M<Tab><KP1><NumLk><KP1><KP1><BckSp>
+2020-02-06 12:21:17+0530 > <Up><Up><Tab><Up><Down><Down><Down><Up> <BckSp><Tab>
+2020-02-06 12:21:26+0530 > <#+2>vi<BckSp><#+6>./ob<Tab><#+2><Tab>
+2020-02-06 12:21:33+0530 > 
+2020-02-06 12:21:57+0530 > <#+7>
+2020-02-06 12:22:06+0530 > <#+29><KP1><KP3>
+2020-02-06 12:22:23+0530 > 
+2020-02-06 12:22:27+0530 > <#+32><KP6>
+2020-02-06 12:22:54+0530 > 
+2020-02-06 12:22:57+0530 > <#+19><KP7>
+2020-02-06 12:24:18+0530 > 
+2020-02-06 12:24:25+0530 > <#+26><KP2><BckSp><BckSp>i<Right><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><Right><BckSp><BckSp>mi<Esc><RShft>:wq
+2020-02-06 12:25:08+0530 > <KP2>
+2020-02-06 12:25:16+0530 > 
+2020-02-06 12:27:11+0530 > <#+33><KP1><KP3>
+2020-02-06 12:27:24+0530 > <KP7><BckSp><KP6>
+2020-02-06 12:27:47+0530 > 
+2020-02-06 12:27:51+0530 > <#+30><KP7>
+2020-02-06 12:28:40+0530 > 
+2020-02-06 12:28:46+0530 > <#+28>vi 1<Tab>
+2020-02-06 12:28:59+0530 > i<Right><Right><Right><Right><BckSp><BckSp><BckSp><BckSp><BckSp>karthik<Esc><RShft>:wq
+2020-02-06 12:29:13+0530 > <KP2>
+2020-02-06 12:29:22+0530 > cd <LShft>Down<Tab><LShft>Lo<Tab>yo<Tab>yo<Tab>bu<Tab>tm<Tab>wo<Tab>/c<Tab>b<Tab><Tab>l<Tab>u<Tab><Tab>blu<Tab>cli<Tab>
+2020-02-06 17:02:12+0530 > vim ble<Tab><BckSp><BckSp><BckSp>ma<Tab>
+2020-02-06 17:02:18+0530 > <PgDn><#+3>/cmd<RShft>_disconn
+2020-02-06 17:02:25+0530 > n<Up><Up><#+24>s
+
+Logging stopped at 2020-02-06 17:20:21+0530
+
