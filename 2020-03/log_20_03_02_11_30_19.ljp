@@ -1,0 +1,45 @@
+Logging started ...
+
+2020-03-02 11:30:19+0530 > 8885777329<LShft>Micro<LShft>Soft<LShft>@5
+2020-03-02 11:30:53+0530 > mail.zumi
+2020-03-02 11:31:33+0530 > srikanth<LShft>@zumisolutions.com<Tab><LShft>YAhoozumi<LShft>@5<LCtrl>xxx<LCtrl>v<LShft><Down><Down><Right><Right><Right><Right><LCtrl>x<LCtrl>v<LShft><Down><Down><Right><Right><Right><Right><LCtrl>x<LCtrl>v<BckSp>2<LShft><Down><Down><Right><Right><Right><Right><LCtrl>x<LCtrl>v<LCtrl>s<BckSp>3<LCtrl>ss<LShft><Down><Down><Right><Right><Right><Right><LCtrl>x<LCtrl>v<LShft><Down><Down><Right><Right><Right><Right><LCtrl>x<LCtrl>vz<LCtrl>v<LShft><Down><Down><Right><Right><Right><Right><LCtrl>x<LCtrl>v<LCtrl>s<LCtrl>ac
+2020-03-02 11:37:21+0530 > c
+2020-03-02 11:37:21+0530 > c
+2020-03-02 11:37:21+0530 > <LCtrl>v<LCtrl>s<LShft>Mobile<RShft>_to<RShft>_<LShft>Airq<LShft>Hau <BckSp><BckSp>t<BckSp>i <LShft>@sandeep <LShft>I am sharing t<BckSp>you he <BckSp><BckSp><BckSp>the lates <BckSp>t <LShft>BLE packets for <LShft>AIrq please update your tirisp<BckSp>i app and share us for testing.
+2020-03-02 11:39:42+0530 > 
+2020-03-02 11:39:52+0530 > o..<BckSp><BckSp>k..try asap
+2020-03-02 11:41:41+0530 >   <#+6><LMeta>lzs10062013
+2020-03-02 16:43:14+0530 > <LCtrl>ac
+2020-03-02 16:43:42+0530 > c
+2020-03-02 16:43:43+0530 > <LCtrl>v<BckSp><#+15><LShft>Mobile<RShft>_<LShft>to<RShft>_<LShft>Mikos<BckSp>2<BckSp>3<LCtrl>ss<BckSp>2<BckSp>3<LCtrl>ss<KP8><KP8><KP8><KP5><KP7><KP7><KP7><KP3><KP2><KP9><LShft><LShft>Micro<LShft>Soft<LShft>@5
+2020-03-02 16:45:47+0530 > yes
+2020-03-02 16:46:11+0530 > 
+2020-03-02 16:46:31+0530 > <LShft>Hai <LShft>@sa<LCtrl>please<BckSp> plesa<BckSp><BckSp>ase find mikos <LShft>BLE pak<BckSp>ckets
+2020-03-02 16:47:04+0530 > cd <LShft>Down<Tab><LShft>Lo<Tab>yo<Tab>yo<Tab>
+2020-03-02 19:02:02+0530 > ls
+2020-03-02 19:02:02+0530 > sou<Tab><LCtrl>c
+2020-03-02 19:02:28+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><Tab><BckSp><#+12><LCtrl><LShft>V
+2020-03-02 19:02:33+0530 > <LAlt><Tab><LAlt><Tab>bitbake tzdate<BckSp>a
+2020-03-02 19:02:47+0530 > cd ../sp<Tab><BckSp>o<Tab>po<Tab>me<Tab><Tab><Tab><BckSp><#+13>
+2020-03-02 19:03:50+0530 > ls
+2020-03-02 19:03:50+0530 > find -name <RShft>""<Left><LAlt><Tab><LAlt><Tab><LShft><Ins>.bb
+2020-03-02 19:04:11+0530 > vim <LShft><Ins>
+2020-03-02 19:04:16+0530 > <Down><#+56><Up><Right><#+7><Esc>yyp<Right><Right><Right><Right><Right><Left>i<BckSp><BckSp><BckSp><BckSp>tzdata<End><Left><BckSp><BckSp><Esc><RShft>:wq
+2020-03-02 19:04:41+0530 > cd ../bu<Tab>
+2020-03-02 19:04:45+0530 > bitbake <LShft><Ins><BckSp><BckSp><BckSp>
+2020-03-02 19:04:54+0530 > <LCtrl>c
+2020-03-02 19:18:11+0530 > <LAlt><Tab>cd tm<Tab>de<Tab>ima<Tab>s<Tab>sc<Tab>
+2020-03-02 19:18:21+0530 > <LCtrl><LShft>V
+2020-03-02 19:18:22+0530 > y
+2020-03-02 19:18:24+0530 > <LAlt><Tab><LCtrl>c
+2020-03-02 19:18:55+0530 > <LAlt><Tab><LCtrl><LShft>V
+2020-03-02 19:18:57+0530 > <LAlt><Tab><LCtrl>c
+2020-03-02 19:19:01+0530 > <LAlt><Tab><LShft>V
+2020-03-02 19:19:02+0530 > <LCtrl><LShft>V
+2020-03-02 19:19:07+0530 > <LAlt><Tab><LCtrl>c
+2020-03-02 19:19:12+0530 > <LAlt><Tab><LCtrl><LShft>V
+2020-03-02 19:19:14+0530 > cd ..
+2020-03-02 19:19:17+0530 > <LAlt><Tab><LCtrl>c
+2020-03-02 19:19:22+0530 > <LAlt><Tab><LCtrl><LShft>V
+2020-03-02 19:19:24+0530 > <Up>
+2020-03-02 19:24:29+0530 > <LAlt><F4><F4><F4><F4><F4>
