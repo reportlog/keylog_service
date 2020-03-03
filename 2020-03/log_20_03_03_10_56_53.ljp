@@ -1,0 +1,120 @@
+Logging started ...
+
+2020-03-03 10:56:53+0530 > 013
+2020-03-03 10:56:54+0530 > <Down><Down><Down><Up>
+2020-03-03 10:56:56+0530 > a<BckSp><BckSp><BckSp><BckSp><LShft>Ac<BckSp><LShft>C<LShft>M<LShft><LShft>0
+2020-03-03 10:57:07+0530 > ee
+2020-03-03 10:57:09+0530 > 
+2020-03-03 10:57:09+0530 > <Down><Down><Down>
+2020-03-03 10:57:12+0530 > <Down><Down>
+2020-03-03 10:57:16+0530 > <Up><Up><Up><Up><Up><Up><BckSp><#+14><BckSp><BckSp><BckSp><BckSp><Up><#+8><Up><Up><Up><Up><Up><#+4><Up><Up><Up><Up><Up><#+9><Up><#+12><Up><Down>
+2020-03-03 10:59:13+0530 > <LShft><LCtrl>T<Up><Up><Up><#+3><Up><#+8><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><#+4><BckSp><BckSp><BckSp><LShft>H<LShft>D<LShft>T
+2020-03-03 10:59:48+0530 > <LCtrl><LShft>T<Up>
+2020-03-03 11:00:45+0530 > zs10062013
+2020-03-03 11:00:56+0530 > <Down><Down>
+2020-03-03 11:00:58+0530 > a<BckSp><BckSp><BckSp><BckSp><LShft>A<LShft>C<LShft>M0
+2020-03-03 11:01:06+0530 > ee
+2020-03-03 11:01:08+0530 > 
+2020-03-03 11:01:10+0530 > <Down><Down><Down><Down><Up>
+2020-03-03 11:01:12+0530 > <Down><Down>
+2020-03-03 11:01:20+0530 > <LCtrl><LShft>Tmii<Tab>
+2020-03-03 11:02:04+0530 > <#+2>mini<Tab>
+2020-03-03 11:02:07+0530 > <Up><Up><Up>
+2020-03-03 11:02:10+0530 > zs10062013
+2020-03-03 11:02:14+0530 > <Down><Down><Down><Up>
+2020-03-03 11:02:17+0530 > a<#+1><BckSp><BckSp><BckSp><BckSp><LShft>A<LShft>C<LShft>M0
+2020-03-03 11:02:25+0530 > ee
+2020-03-03 11:02:27+0530 > 
+2020-03-03 11:02:27+0530 > <Down><Down><Down>
+2020-03-03 11:02:29+0530 > <Down><Down><Down><Down><Up><Up>
+2020-03-03 11:02:32+0530 > <Up><Up><BckSp><#+16>cd<BckSp><#+9><Up><Up><Up><Down><Down><Down><Down><Down><Down><Up><Up><Up><Up><Up><Up><BckSp><#+14>./ob<Tab><Tab><Tab><BckSp><BckSp><BckSp><BckSp>cd a<Tab><Tab><#+1><Tab><LShft>M<Tab><Tab>3
+2020-03-03 11:03:23+0530 > <#+1><Up><Tab>
+2020-03-03 11:03:32+0530 > ls
+2020-03-03 11:03:35+0530 > vi <BckSp><BckSp><BckSp>./o<Tab><Tab>
+2020-03-03 11:03:53+0530 > <LCtrl>c
+2020-03-03 11:03:56+0530 > <#+1>
+2020-03-03 11:04:00+0530 > 
+2020-03-03 11:04:00+0530 > cd .<BckSp>/bin
+2020-03-03 11:04:07+0530 > vi mq<Tab>
+2020-03-03 11:04:30+0530 > <RShft>/192
+2020-03-03 11:04:38+0530 > ifc<Tab><Tab>o<Tab>n<Tab><BckSp>
+2020-03-03 11:04:51+0530 > <Down><#+49><Down><#+29>/192.
+2020-03-03 11:05:34+0530 > 
+2020-03-03 11:05:35+0530 > 
+2020-03-03 11:05:36+0530 > <#+1>
+2020-03-03 11:05:36+0530 > 
+2020-03-03 11:05:37+0530 > <#+25><RShft>:q
+2020-03-03 11:06:11+0530 > <Up><Up>
+2020-03-03 11:06:14+0530 > <LCtrl>c
+2020-03-03 11:06:16+0530 > <Up><Up><Up><Down><BckSp><#+12><BckSp><BckSp><BckSp>wif<Tab><Tab>a<Tab>
+2020-03-03 11:08:08+0530 > /192<RShft><RShft><BckSp><#+10><KP.>
+2020-03-03 11:08:13+0530 > <PgDn><PgDn><PgUp><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgUp><RShft>:q
+2020-03-03 11:08:21+0530 > vi mq<Tab>
+2020-03-03 11:08:25+0530 > ifc<Tab><BckSp><#+10><RShft>:q
+2020-03-03 11:09:09+0530 > cd
+2020-03-03 11:09:12+0530 > ifc<Tab>
+2020-03-03 11:09:15+0530 > <Up><Up><Up><Up><Down>
+2020-03-03 11:10:02+0530 > ./hub<Tab><Tab><Tab><BckSp>.<Tab><Tab><Tab><Tab><Tab>n<Tab><BckSp><BckSp><#+14><LCtrl>c
+2020-03-03 11:10:44+0530 > mos<Tab>
+2020-03-03 11:11:43+0530 > <LShft><LCtrl>T <BckSp>cd mini<Tab><Tab><BckSp><#+14>s<BckSp>=<BckSp>sudo mini<Tab>-s
+2020-03-03 11:13:17+0530 > zs10062013
+2020-03-03 11:13:21+0530 > <Down><Down><Down><Up>
+2020-03-03 11:13:24+0530 > a<BckSp><BckSp><BckSp><BckSp><LShft>A<LShft>C<LShft>M0
+2020-03-03 11:13:31+0530 > e
+2020-03-03 11:13:33+0530 > wee
+2020-03-03 11:13:36+0530 > 
+2020-03-03 11:13:36+0530 > <Down><Down><Down>
+2020-03-03 11:13:41+0530 > <Down><Down><Down><Up><RShft>
+2020-03-03 11:14:05+0530 > sudo mini<Tab>-s
+2020-03-03 11:21:23+0530 > zs10062013
+2020-03-03 11:21:27+0530 > <#+1><Down><Down>
+2020-03-03 11:21:30+0530 > a<BckSp><BckSp><BckSp><BckSp><LShft>A<LShft>C<LShft>M0
+2020-03-03 11:21:36+0530 > 
+2020-03-03 11:21:37+0530 > 
+2020-03-03 11:21:39+0530 > ee
+2020-03-03 11:21:41+0530 > 
+2020-03-03 11:21:42+0530 > <Down><Down><Down>
+2020-03-03 11:21:45+0530 > <#+1><Down><Down>
+2020-03-03 11:21:48+0530 > <LShft><LCtrl>Tmos<Tab>
+2020-03-03 11:23:08+0530 > <LCtrl><LShft>T<BckSp>cd <LShft>a`<Tab><BckSp><Tab><Tab><Tab><LShft>M<Tab>3<Tab>
+2020-03-03 11:23:25+0530 > .ob<Tab><Tab><Tab><Tab><Tab><Tab><BckSp><#+5><BckSp>/on<Tab><BckSp>b<Tab><Tab>
+2020-03-03 11:23:35+0530 > <LCtrl>c
+2020-03-03 11:23:38+0530 > <LCtrl>c
+2020-03-03 11:23:47+0530 > cd /bin
+2020-03-03 11:23:51+0530 > ./hub<Tab>
+2020-03-03 11:23:59+0530 > <LCtrl>c
+2020-03-03 11:24:10+0530 > <LCtrl><LShft>Tmo<BckSp><BckSp>cs <BckSp><BckSp>d <LShft>A<BckSp>afr<Tab><LShft>H<Tab><Tab><BckSp><#+10><BckSp><LShft>M<Tab><Tab>3<Tab><#+2>
+2020-03-03 11:24:43+0530 > <#+1>ls
+2020-03-03 11:24:46+0530 > <Up><Up><Up><Down><Down><Down><Down>cd
+2020-03-03 11:25:11+0530 > mosqu<Tab><Tab><Tab>libmos<BckSp><BckSp><BckSp>json<LShft>_rr
+2020-03-03 11:26:44+0530 > <LShft><LCtrl>Tmosq<Tab>
+2020-03-03 11:27:07+0530 > <#+1>c d
+2020-03-03 11:28:40+0530 > <BckSp><BckSp><#+2>cd
+2020-03-03 11:28:44+0530 > ps -ax
+2020-03-03 11:28:46+0530 > <LCtrl>fmosq<Tab><BckSp><BckSp><BckSp><LShft>F/usr/lib<LCtrl>f<#+4><BckSp><LCtrl>f/usr <BckSp>/.luib<BckSp><BckSp><BckSp><BckSp><BckSp>lib/mos<Tab>sudo l<BckSp>kill mos<BckSp><BckSp><BckSp><Up><#+254><Down><Down><Down><Down><Down><Down><Up><#+150><Up><#+20><Up><#+17><Down><#+1><Down><Down><#+25><Up><BckSp><#+29>sudo kill mo<Tab><Tab><Tab>s<Tab><Tab><BckSp><BckSp><BckSp><LCtrl>c
+2020-03-03 11:38:28+0530 > sudo serv<Tab>icwe <BckSp><BckSp><BckSp>w<BckSp>e  <BckSp>mod<BckSp>squitto restart
+2020-03-03 11:39:27+0530 > zs10062013
+2020-03-03 11:39:32+0530 > <Up><Left><#+8><Left><#+16><Right><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><Right><Right><Right><#+6><Right><Right><#+8><Right><Right>.servicwe<BckSp><BckSp>e
+2020-03-03 11:40:00+0530 > <Up><Up><Left><#+15><Left><Left><Left><Left><BckSp>.
+2020-03-03 11:40:14+0530 > <Up><Up><Up><BckSp><#+8><BckSp><BckSp><BckSp>
+2020-03-03 11:40:49+0530 > <Up>status
+2020-03-03 11:41:10+0530 > <Up><Down><Up><Up><Down><BckSp><BckSp><BckSp><BckSp>op
+2020-03-03 11:41:51+0530 > <Up><BckSp><BckSp>art
+2020-03-03 11:42:01+0530 > <Up><Up><Up><#+16>
+2020-03-03 11:42:16+0530 > <Up><Up><Up>
+2020-03-03 11:45:15+0530 > <Up><BckSp><BckSp><BckSp><BckSp>res<Tab><#+1>
+2020-03-03 11:45:25+0530 > sudo /usr/<BckSp><#+19>ps -ax
+2020-03-03 11:47:20+0530 > sudo  /<BckSp><BckSp>/usr/sbin/mosquitto -c /et<#+1>c/mosquitto/mosquitto.conf<RShft>&<Left> 
+2020-03-03 11:48:38+0530 > sudo kill 75<BckSp>959
+2020-03-03 11:48:52+0530 > <Up><Up><Down><BckSp><#+20>mosq<Tab>
+2020-03-03 11:49:03+0530 > <Up><Up>
+2020-03-03 11:49:10+0530 > <Up><Up>
+2020-03-03 11:49:16+0530 > <Up><Up><Up><Up><Up>
+2020-03-03 11:49:24+0530 > <Up><Up><Up><BckSp><BckSp>70
+2020-03-03 11:49:35+0530 > <Up><Up>
+2020-03-03 11:49:43+0530 > <Up><Up><BckSp>6
+2020-03-03 11:50:14+0530 > <Up><Up><Up><Up><Up>
+2020-03-03 11:50:38+0530 > 
+
+Logging stopped at 2020-03-03 11:51:41+0530
+
