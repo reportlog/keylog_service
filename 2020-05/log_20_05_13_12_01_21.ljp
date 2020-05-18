@@ -1,0 +1,855 @@
+Logging started ...
+
+2020-05-13 12:01:21+0530 > cd ../../../tm<Tab>de<Tab>im<Tab>s<Tab>
+2020-05-13 12:11:16+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Down>
+2020-05-13 12:11:26+0530 > zs10062013
+2020-05-13 12:11:30+0530 > 
+2020-05-13 12:12:11+0530 > <LAlt><Tab><LAlt>2<#+1>cd -
+2020-05-13 12:20:27+0530 > <Up><Up><Up><Up><Up><Up>
+2020-05-13 12:20:31+0530 > <Down><#+19><Down><Down><Down><Right><#+11><RShft>*<Left><#+43>i//<Down><Down>//<Esc><RShft>:wq
+2020-05-13 12:20:44+0530 > <Up><Up><Up><Up><Up><Up>
+2020-05-13 12:20:47+0530 > <Up><Up><Up><Up><Up><Up>
+2020-05-13 12:21:19+0530 > cd -
+2020-05-13 12:21:40+0530 > <Up><Up><Up><Up><Up><Up>
+2020-05-13 12:21:44+0530 > cd /bi<Tab>
+2020-05-13 12:23:02+0530 > ./e<Tab><Tab><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>cd
+2020-05-13 12:23:09+0530 > 
+2020-05-13 12:23:09+0530 > 
+2020-05-13 12:23:09+0530 > 
+2020-05-13 12:23:10+0530 > 
+2020-05-13 12:23:10+0530 > vi mf<Tab><Tab><Tab><#+1><BckSp><#+15><BckSp>./hu<Tab><Tab><#+1><BckSp><#+11><BckSp><BckSp><BckSp><BckSp>cd /bu<Tab><BckSp><Tab>i<Tab><#+1>
+2020-05-13 12:23:24+0530 > ./e<BckSp>hu<Tab><Tab><Tab><BckSp><#+7><BckSp>/se<Tab><Tab><BckSp><#+18><LCtrl>c
+2020-05-13 12:23:32+0530 > cd /bi<Tab>
+2020-05-13 12:26:40+0530 > 
+2020-05-13 12:26:41+0530 > 
+2020-05-13 12:26:41+0530 > ./e<Tab>n<Tab><#+2>
+2020-05-13 12:26:44+0530 > <LCtrl>c
+2020-05-13 12:26:46+0530 > <#+4>vi mf<Tab>
+2020-05-13 12:26:49+0530 > i<RShft>#<#+2>,<#+1><CpsLk><CpsLk><CpsLk>MIK1,10,-02-2020,1,1<#+2>.5,<Esc><RShft>:WQ
+2020-05-13 12:27:44+0530 > <CpsLk><RShft>:wq
+2020-05-13 12:27:46+0530 > ./e<Tab>n<Tab>
+2020-05-13 12:27:49+0530 > <LCtrl>c
+2020-05-13 12:27:52+0530 > <#+1><Up><Up>
+2020-05-13 12:27:54+0530 > <Down><Right><#+21><Right><Left><Left><Left><Left><Left><#+8><Left><Left>i<BckSp><Esc><RShft>:wq
+2020-05-13 12:28:05+0530 > <Up><Up>
+2020-05-13 12:28:07+0530 > <LCtrl>c
+2020-05-13 12:28:09+0530 > <#+3>vi db<Tab><#+1>
+2020-05-13 12:28:13+0530 > iw<BckSp><RShft>#<BckSp>63,<RShft>#,0,012,<CpsLk>K12,2,1,SA<BckSp>PA001,0312190100100003,3,1001AMIK1<BckSp>01,O<BckSp>0<BckSp>OSM12345,<Esc><RShft>:WQ<BckSp><BckSp><CpsLk>wq
+2020-05-13 12:29:45+0530 > 
+2020-05-13 12:29:45+0530 > 
+2020-05-13 12:29:46+0530 > 
+2020-05-13 12:29:46+0530 > 
+2020-05-13 12:29:47+0530 > ./<Tab>se<Tab><#+1><BckSp><BckSp><BckSp><BckSp>en<Tab><#+1>
+2020-05-13 12:30:00+0530 > <LCtrl>c
+2020-05-13 12:30:02+0530 > <#+2>vi mf<Tab>
+2020-05-13 12:30:08+0530 > <RShft>:q
+2020-05-13 12:30:10+0530 > vi db<Tab>
+2020-05-13 12:30:13+0530 > <Right>i<Right><BckSp><BckSp><LShft><Ins><Esc><RShft>:wq
+2020-05-13 12:30:20+0530 > <LAlt><Tab><LAlt><Tab><LAlt><LCtrl>c
+2020-05-13 12:49:30+0530 > <RShft>:q<BckSp><BckSp><BckSp>./en<Tab>
+2020-05-13 12:49:46+0530 > <LCtrl>c
+2020-05-13 12:50:15+0530 > ifc<Tab><Tab>o<Tab>
+2020-05-13 12:50:20+0530 > 
+2020-05-13 12:50:59+0530 > 
+2020-05-13 12:51:00+0530 > 
+2020-05-13 12:51:00+0530 > cp en<Tab>en<Tab><BckSp>.ol<Tab>
+2020-05-13 12:51:06+0530 > tftp -g-<BckSp> - r<BckSp><BckSp>r en<Tab> 192.168.0.130
+2020-05-13 12:51:29+0530 > chmod<Tab> 777 en<Tab>
+2020-05-13 12:52:01+0530 > ./e<Tab><Tab>n<Tab><#+1>
+2020-05-13 12:52:04+0530 > <LCtrl>c
+2020-05-13 12:52:20+0530 > <#+3><Up><Up><Up>
+2020-05-13 12:53:03+0530 > <Up><Up><Up>
+2020-05-13 12:53:23+0530 > <Up><Up><Up>
+2020-05-13 12:53:24+0530 > <LCtrl>z<#+3><Up>
+2020-05-13 13:02:47+0530 > <LCtrl>c
+2020-05-13 13:08:00+0530 > <Up>
+2020-05-13 13:27:58+0530 > <LCtrl>c
+2020-05-13 13:28:08+0530 > <Up><Up><Up><Up><Up><BckSp><BckSp>12
+2020-05-13 13:29:02+0530 > en<#+2><Tab><Tab><BckSp><#+13><Up><#+1><Up><Up><Up>
+2020-05-13 13:29:18+0530 > <LCtrl>c
+2020-05-13 13:29:31+0530 > <Up><Up>
+2020-05-13 13:29:34+0530 > <Up>
+2020-05-13 13:30:11+0530 > <Up><Up><Down><BckSp><#+40>cd <BckSp><BckSp><BckSp><BckSp><BckSp><#+2><BckSp>cd
+2020-05-13 13:30:20+0530 > 
+2020-05-13 13:30:20+0530 > 
+2020-05-13 13:30:20+0530 > 
+2020-05-13 13:30:20+0530 > cd /bi<Tab>
+2020-05-13 13:30:23+0530 > 
+2020-05-13 13:30:23+0530 > 
+2020-05-13 13:30:23+0530 > <#+14>tftp -g -r en<Tab> 192.168.0.112
+2020-05-13 13:30:37+0530 > 
+2020-05-13 13:30:38+0530 > 
+2020-05-13 13:30:39+0530 > 
+2020-05-13 13:30:39+0530 > 
+2020-05-13 13:30:39+0530 > 
+2020-05-13 13:30:39+0530 > 
+2020-05-13 13:30:39+0530 > rm en<Tab>
+2020-05-13 13:30:42+0530 > <Up><Up>
+2020-05-13 13:30:43+0530 > chmod 777 en<Tab>
+2020-05-13 13:31:33+0530 > ./en<Tab>
+2020-05-13 13:31:36+0530 > <LCtrl>c
+2020-05-13 13:48:41+0530 > <Up>
+2020-05-13 13:49:27+0530 > <#+2><LCtrl>c
+2020-05-13 13:51:08+0530 > <Up>
+2020-05-13 14:02:32+0530 > <LCtrl>c
+2020-05-13 14:04:03+0530 > <#+2><Up><Up><Up><Up><Up>
+2020-05-13 14:04:24+0530 > chmod 777 en<Tab>
+2020-05-13 14:04:53+0530 > ./en<Tab>
+2020-05-13 14:04:57+0530 > <LAlt>12<LCtrl>c
+2020-05-13 14:05:48+0530 > <#+1><Up>
+2020-05-13 14:06:15+0530 > <#+2><LAlt><Tab><LAlt><Tab><LAlt>2<LCtrl><LCtrl>c
+2020-05-13 14:11:20+0530 > <LAlt>3<LAlt><LAlt>2<Up><Up><Up><Up>
+2020-05-13 14:31:58+0530 > <Up><Up><Up><Up>
+2020-05-13 14:32:48+0530 > <Up><Up><Up>
+2020-05-13 14:32:49+0530 > <LAlt>4<LAlt>2424<LAlt>2
+2020-05-13 14:49:24+0530 > 
+2020-05-13 14:49:24+0530 > 
+2020-05-13 14:50:41+0530 > 
+2020-05-13 14:50:41+0530 > 
+2020-05-13 14:50:42+0530 > cd /n<BckSp>bi<Tab>
+2020-05-13 14:50:45+0530 > ./s<BckSp><LAlt>1<#+2>2e<Tab><#+2><Tab>n<Tab>
+2020-05-13 14:51:24+0530 > <LCtrl>c
+2020-05-13 14:51:56+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><#+18><BckSp><#+17>tftp -g -r en<Tab>192.168.0.112<Left><#+15><Left> 
+2020-05-13 14:52:16+0530 > chmod 777 en<Tab>
+2020-05-13 14:52:41+0530 > ./e<Tab><Tab><#+1>n<Tab>
+2020-05-13 14:52:49+0530 > <LCtrl>c
+2020-05-13 15:06:13+0530 > <Up><Up><Up>
+2020-05-13 15:06:22+0530 > <Up><Up><Up>
+2020-05-13 15:09:31+0530 > <Up><Up><Up>
+2020-05-13 15:12:13+0530 > <LCtrl><LCtrl>c
+2020-05-13 15:32:29+0530 > <Up><Up><Up><Up><Down>
+2020-05-13 15:32:33+0530 > <LAlt>2<Up><Up><Up><Up><Down>
+2020-05-13 15:34:23+0530 > <LAlt>2<Up><Up><Up>
+2020-05-13 15:39:04+0530 > <LAlt>3<#+1>2<LAlt>2<LCtrl>c
+2020-05-13 15:47:27+0530 > <LAlt>1<#+3>2<LAlt>2<Up><Up><Up>
+2020-05-13 15:59:36+0530 > <LAlt>3<#+1>123<#+1>2<Up><Up><Up>
+2020-05-13 16:00:22+0530 > <Up><Up><Up>
+2020-05-13 16:00:23+0530 > <LCtrl>c
+2020-05-13 16:01:05+0530 > <Up>
+2020-05-13 16:01:07+0530 > <LCtrl>c
+2020-05-13 16:01:19+0530 > <#+2><Up>
+2020-05-13 16:01:52+0530 > <LCtrl>c
+2020-05-13 16:02:02+0530 > <#+1><LCtrl>c
+2020-05-13 16:15:00+0530 > <Up><Up><Up><Up><Up>
+2020-05-13 16:16:29+0530 > <Up><Up><Up><Up><Up>
+2020-05-13 16:18:12+0530 > <Up><Up><Up>
+2020-05-13 16:18:14+0530 > <LCtrl>c
+2020-05-13 16:22:29+0530 > <LCtrl>c
+2020-05-13 16:27:58+0530 > <#+1><Esc><RShft>:wq
+2020-05-13 16:34:45+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up>
+2020-05-13 16:34:51+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up>
+2020-05-13 16:36:06+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down>
+2020-05-13 16:36:38+0530 > zs10062013
+2020-05-13 16:36:43+0530 > cd ../../../../t<Tab><BckSp><BckSp><BckSp><BckSp>tm<Tab>de<Tab>im<Tab>st<Tab>
+2020-05-13 16:36:58+0530 > ls
+2020-05-13 16:36:59+0530 > <Up><Up><Up>
+2020-05-13 16:37:02+0530 > cd -
+2020-05-13 16:38:17+0530 > cd <BckSp><#+15><BckSp>vim co<Tab>mm<Tab>au<Tab>
+2020-05-13 16:38:25+0530 > /<LShft>J<BckSp><LShft>Hit
+2020-05-13 16:38:28+0530 > <Right><#+32><Esc><RShft>:wq
+2020-05-13 16:38:39+0530 > <Up><Up><Up><Up><Up><Up><Up><Up>
+2020-05-13 16:38:44+0530 > <Up><Up><Up><Up><Up><Up><Up><Up>
+2020-05-13 16:39:02+0530 > d <BckSp><BckSp><BckSp>cd -
+2020-05-13 16:39:33+0530 > ls
+2020-05-13 16:39:35+0530 > ls -l <LShft><LShft><Ins>
+2020-05-13 16:39:42+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Left><#+20><Left><Left><BckSp><BckSp><Tab><Tab>df -h
+2020-05-13 16:40:07+0530 > c3
+2020-05-13 16:40:15+0530 > 
+2020-05-13 16:40:43+0530 >  cd -
+2020-05-13 16:40:57+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Down>
+2020-05-13 16:41:01+0530 > /<LShft>Hit
+2020-05-13 16:41:04+0530 > <Up><Up><Up><Up><Up><Right><#+7><Right><#+21><Right><Right><Right><Right><Right>i<LShft>i<BckSp><LShft><LShft><Ins><Left><#+48><Left><LShft><Ins><Left><#+16><Left><Left><Right> <LShft><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp> <Esc><RShft>:wq
+2020-05-13 16:41:51+0530 > <Up><Up><Up><Up><Up><Up><Up><Up>
+2020-05-13 16:41:55+0530 > <Up><Up><Up><Up><Up><Up><Up><Up>
+2020-05-13 16:42:27+0530 > cd -
+2020-05-13 16:42:45+0530 > <Up><Up><Up><Up><Up><Up><Up><Down>df -h
+2020-05-13 16:42:55+0530 > 
+2020-05-13 16:43:08+0530 >  cd -
+2020-05-13 16:43:59+0530 > <Up><Up><Up><Up><Up><Up>
+2020-05-13 16:44:06+0530 > <Down><#+5>/<LShft>Ho<BckSp>it
+2020-05-13 16:44:10+0530 > <Up><#+9><Right><#+1><End><Up><#+7><Left><#+16><RShft>*nn<Esc><RShft>:q
+2020-05-13 16:44:32+0530 > grep -r<LShft>H <RShft>""<Left><LShft><Ins>
+2020-05-13 16:44:37+0530 > <Up><Up><Up><Down>
+2020-05-13 16:45:20+0530 > /<LShft>Hit
+2020-05-13 16:45:23+0530 > <Up><Up><#+9><Down><End>i<Right><BckSp><Esc><RShft>:wq
+2020-05-13 16:45:31+0530 > <Up><Up><Up><Up><Up><Up><Up><Up>
+2020-05-13 16:45:36+0530 > <Up><Up>
+2020-05-13 16:46:26+0530 > /<LShft>J<BckSp><LShft>Hit
+2020-05-13 16:46:31+0530 > <Up><Up><Up><Up><Up>i<End>i<Right><BckSp>;<Esc><Esc><RShft><Esc><RShft>:wq
+2020-05-13 16:46:50+0530 > 
+2020-05-13 16:46:50+0530 > 
+2020-05-13 16:46:51+0530 > 
+2020-05-13 16:46:51+0530 > <Up><Up><Up><Down>
+2020-05-13 16:46:54+0530 > <Up><Up><Up><Up><Up><Up><Down><Down><Down><Down><Down><Up><Up><Up><Up><Up><Up><Up><Up><Up>
+2020-05-13 16:47:20+0530 > cd -
+2020-05-13 16:47:38+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up>
+2020-05-13 16:47:49+0530 > 
+2020-05-13 16:47:54+0530 > <LCtrl>c
+2020-05-13 16:48:26+0530 > ls
+2020-05-13 16:48:53+0530 > ls -l <LShft><Ins>
+2020-05-13 16:49:02+0530 > <Up><Up><Up><Left><#+21><Right><BckSp><BckSp><Tab><Tab>c3
+2020-05-13 16:49:19+0530 > <Down><LCtrl>cd sc<Tab>
+2020-05-13 16:51:08+0530 > <LCtrl>r./cr
+2020-05-13 16:51:11+0530 > y
+2020-05-13 16:51:13+0530 > <LCtrl>c
+2020-05-13 16:51:42+0530 > c
+2020-05-13 16:51:43+0530 > <LCtrl><LShft><LCtrl><LShft>V
+2020-05-13 16:51:53+0530 > cd ..
+2020-05-13 16:51:57+0530 > <LCtrl>c
+2020-05-13 16:52:06+0530 > c
+2020-05-13 16:52:06+0530 > <LAlt><Tab><LCtrl><LShft>V
+2020-05-13 16:52:08+0530 > <LAlt><Tab><LCtrl>c
+2020-05-13 16:52:12+0530 > c
+2020-05-13 16:52:13+0530 > <LAlt><Tab><LCtrl><LShft>V
+2020-05-13 16:52:14+0530 > <LAlt><Tab><LCtrl>c
+2020-05-13 16:52:20+0530 > c
+2020-05-13 16:52:20+0530 > <LAlt><Tab><LCtrl><LShft>V
+2020-05-13 16:52:22+0530 > <LCtrl>c
+2020-05-13 16:52:29+0530 > <#+1>c
+2020-05-13 16:52:30+0530 > <LCtrl>c
+2020-05-13 16:52:33+0530 > c
+2020-05-13 16:52:33+0530 > <Up>
+2020-05-13 16:52:51+0530 >  cd -
+2020-05-13 16:58:17+0530 > cd ../../../..
+2020-05-13 16:58:22+0530 > cd ../s<BckSp>wo<Tab>so<Tab>u<Tab>co<Tab>mm<Tab>
+2020-05-13 16:58:34+0530 > vim au<Tab>
+2020-05-13 16:58:36+0530 > /<LShft>Hit
+2020-05-13 16:58:39+0530 > <Right><#+29><Right>i<Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><BckSp><Right><#+12><Right><Right><Right><Right><Right><Right><Left><Left><Del><#+14><Del><#+29><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Esc><RShft>:w
+2020-05-13 16:59:32+0530 > <Up><Up><Up><Up><Esc>dddddddd<Up><Right><#+86>i<Right><Down><#+34><Down><#+14><Down><#+8><Down><#+9><Down><#+45><Up><#+44><Up><#+15><Up><#+11><Up><#+19><Up><#+15><Up><Down><#+16>
+2020-05-13 17:01:41+0530 >         if<RShft>()<RCtrl><Left><LShft>Reset<LShft>Val == 15<Right><Up><Up>
+2020-05-13 17:02:16+0530 >  <#+10> env<RShft>_set<RShft>()<Left><RShft>""<Left><LShft>Reset<RShft>_<LShft>Count<Esc><Right><Right>,<RShft>""i,<RShft>""<Left>0<Right><Right>;<Esc>dd<Down><Down><Up>p<Right><#+33>i<Right>
+2020-05-13 17:03:03+0530 >  <#+11>else
+2020-05-13 17:03:35+0530 >  <#+11>env<RShft>_set<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><Up><Esc>yy<Down>p<Right><#+30>i<Right>
+2020-05-13 17:03:58+0530 >  <Up><Right><#+26><Right><Right><Right><Right><BckSp>1<Left><LShft><Ins><RShft>+<Esc><RShft>:q
+2020-05-13 17:04:44+0530 > cd ../../../..
+2020-05-13 17:04:48+0530 > cd u<Tab>
+2020-05-13 17:04:50+0530 > grep -r<LShft>H <RShft>""<Left>env<RShft>_save
+2020-05-13 17:05:01+0530 > hw <BckSp><BckSp>ow to use env<RShft>_set and env<RShft>_save in linux
+2020-05-13 17:05:35+0530 > uboot 
+2020-05-13 17:05:44+0530 > vim <LShft><Ins>
+2020-05-13 17:09:50+0530 > /<LShft><Ins>
+2020-05-13 17:09:51+0530 > <Down><#+15><Down><#+21><Down><#+9><Up><Down><#+35><Up><#+72><Up><#+19><Up><#+15><Up><#+20><Up><#+21><Up><#+21><Up><Up><#+18><Up><#+37><Up><#+26><Up><Esc><RShft>:q
+2020-05-13 17:10:29+0530 > add env<BckSp><BckSp><BckSp>new uboot environment usng <BckSp><BckSp><BckSp>ing <LShft>API<BckSp><#+1><BckSp><#+10><BckSp><BckSp>in uboot source code
+2020-05-13 17:12:06+0530 > <Right>variable 
+2020-05-13 17:13:55+0530 > <LAlt><Tab><Esc><RShft>:wq
+2020-05-13 17:14:43+0530 > cd ..
+2020-05-13 17:14:47+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up>
+2020-05-13 17:14:57+0530 > <Up><Up><Up><Down><Down><Down><Up><Up><Up><Left><#+14><Right>common/
+2020-05-13 17:15:36+0530 > /<LShft>Hit
+2020-05-13 17:15:39+0530 > <Up><#+8><Up><Up><Up><Up><Up><Up><Up><Down><Down><Down><Down><Down>i<Right><#+5><End>
+2020-05-13 17:16:26+0530 >  <#+10>  <LShft>Reset<LShft>Val -<BckSp>= <LShft><Ins>;<Esc><RShft>:wq
+2020-05-13 17:17:14+0530 > <Up><Up><Up><Down>
+2020-05-13 17:17:17+0530 > <Up><Up><Up><Down>
+2020-05-13 17:17:46+0530 > /<LShft>Hit
+2020-05-13 17:17:49+0530 > <Up><#+14><Left><Left><Left><Left><Left><Left><Left>i<BckSp><BckSp><Right><#+14><Right><Right><BckSp><BckSp><BckSp><LShft>Reset<LShft>Val<Esc><RShft>:wq
+2020-05-13 17:18:03+0530 > <Up><Up>
+2020-05-13 17:18:05+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up>
+2020-05-13 17:18:48+0530 > cd ../../../t<Tab>de<Tab>im<Tab>st<Tab>
+2020-05-13 17:19:23+0530 > <LShft><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down><Up><Left><#+20><Left><Left><BckSp><BckSp><Tab><Tab>c3
+2020-05-13 17:20:27+0530 > zs10062013
+2020-05-13 17:20:31+0530 >    pri
+2020-05-13 17:21:07+0530 > cd -
+2020-05-13 17:21:18+0530 > <Up><Up><Up><Up><Up><Up>
+2020-05-13 17:21:21+0530 > /<LShft>Hit
+2020-05-13 17:21:23+0530 > <Esc><RShft>:q
+2020-05-13 17:22:43+0530 > cd -
+2020-05-13 17:22:46+0530 > chm <BckSp><#+14>ls
+2020-05-13 17:22:51+0530 > chmod 777 <LShft><Ins>
+2020-05-13 17:23:17+0530 > <Up><Up><Up><Up><Up><Up><Up><Down>
+2020-05-13 17:23:22+0530 > df -h
+2020-05-13 17:23:35+0530 > <Up><Left><#+19><Left><Left><BckSp><BckSp><Tab><Tab>b3
+2020-05-13 17:24:07+0530 > sync
+2020-05-13 17:24:11+0530 >   pri
+2020-05-13 17:24:48+0530 > cd s<Tab>
+2020-05-13 17:25:33+0530 > <LCtrl>r./c
+2020-05-13 17:25:35+0530 > y
+2020-05-13 17:25:37+0530 > <LCtrl>c
+2020-05-13 17:25:55+0530 > c
+2020-05-13 17:25:56+0530 > <LAlt><Tab>cd .
+2020-05-13 17:26:03+0530 > cd ..
+2020-05-13 17:26:05+0530 > <LCtrl><LShft>V
+2020-05-13 17:26:07+0530 > <LAlt><Tab><LCtrl>c
+2020-05-13 17:26:12+0530 > c
+2020-05-13 17:26:13+0530 > <LAlt><Tab><LCtrl><LShft>V
+2020-05-13 17:26:14+0530 > <LAlt><Tab><LCtrl>c
+2020-05-13 17:26:20+0530 > c
+2020-05-13 17:26:21+0530 > <LAlt><Tab><LCtrl><LShft>V
+2020-05-13 17:26:22+0530 >                   \<BckSp><BckSp><BckSp>pri
+2020-05-13 17:31:20+0530 > cd -
+2020-05-13 17:31:46+0530 > cd -
+2020-05-13 17:31:49+0530 > cd ../../../../../<BckSp><BckSp><BckSp>e<Tab><BckSp>wo<Tab>s<Tab><Tab><Tab>u<Tab>comm<Tab>
+2020-05-13 17:32:19+0530 > vim au<Tab>
+2020-05-13 17:32:22+0530 > /<LShft>Hit
+2020-05-13 17:32:25+0530 > <Right><#+4><Up><Up><Right><#+24><Right>i<BckSp><#+11><BckSp><BckSp><BckSp><BckSp><BckSp>1<Esc><RShft>:wq
+2020-05-13 17:32:46+0530 > cd ..
+2020-05-13 17:32:49+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up>
+2020-05-13 17:33:00+0530 > <Up><Up><Up><Down><Down><Down><Up><Up><Up><Left><Left><#+13>commo<Tab>
+2020-05-13 17:33:37+0530 > /<LShft>Hit
+2020-05-13 17:33:39+0530 > <Esc><RShft>:q
+2020-05-13 17:33:50+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down>
+2020-05-13 17:33:55+0530 > cd -
+2020-05-13 17:34:41+0530 > cd -\<BckSp>
+2020-05-13 17:34:45+0530 > cd ../../../m<Tab>de<Tab><BckSp><BckSp><BckSp>tm<Tab>de<Tab>im<Tab>s<Tab>sc<Tab>
+2020-05-13 17:35:00+0530 > <LCtrl>r./cr
+2020-05-13 17:35:03+0530 > y
+2020-05-13 17:35:04+0530 > <LCtrl>c
+2020-05-13 17:35:15+0530 > c
+2020-05-13 17:35:15+0530 > c
+2020-05-13 17:35:15+0530 > <LAlt><Tab><LAlt><Tab><LCtrl>c
+2020-05-13 17:35:26+0530 > c
+2020-05-13 17:35:26+0530 > <LAlt><Tab><LCtrl><LShft>V
+2020-05-13 17:35:31+0530 > cd ..
+2020-05-13 17:35:33+0530 > <LAlt><Tab><LCtrl>c
+2020-05-13 17:35:38+0530 > c
+2020-05-13 17:35:38+0530 > <LAlt><Tab><LCtrl><LShft>V
+2020-05-13 17:35:40+0530 > <LAlt><Tab><LCtrl>c
+2020-05-13 17:35:46+0530 > <LAlt><Tab><LCtrl><LShft>V
+2020-05-13 17:35:48+0530 > <Up>
+2020-05-13 17:35:58+0530 > <Up><Up>
+2020-05-13 17:36:00+0530 >        pri
+2020-05-13 17:41:00+0530 > cd -
+2020-05-13 17:41:14+0530 > cd -
+2020-05-13 17:41:17+0530 > cd ../../../../
+2020-05-13 17:41:23+0530 > cd wo<Tab>so<Tab>u<Tab>comm<Tab>
+2020-05-13 17:41:31+0530 > vim au<Tab>
+2020-05-13 17:41:34+0530 > /<LShft>Hit
+2020-05-13 17:41:36+0530 >      pri
+2020-05-13 17:42:31+0530 > 
+2020-05-13 17:42:49+0530 > <LAlt>3<#+2>2cd /
+2020-05-13 17:43:50+0530 > 
+2020-05-13 17:43:51+0530 > 
+2020-05-13 17:43:51+0530 > 
+2020-05-13 17:43:51+0530 > 
+2020-05-13 17:43:51+0530 > 
+2020-05-13 17:43:51+0530 > 
+2020-05-13 17:43:51+0530 > 
+2020-05-13 17:43:52+0530 > cd /bi<Tab>
+2020-05-13 17:44:14+0530 > ./e<Tab><Tab><BckSp><#+14><BckSp><BckSp><BckSp>vi mf<Tab><BckSp><#+17><LAlt>12cd /bi<Tab>
+2020-05-13 17:46:44+0530 > 
+2020-05-13 17:46:44+0530 > 
+2020-05-13 17:46:44+0530 > <#+1>vi  mf<Tab><Tab><Tab><BckSp><#+14>./e<Tab><Tab>n<Tab>
+2020-05-13 17:46:51+0530 > <LCtrl>c
+2020-05-13 17:46:52+0530 > <Up><Up><Up><BckSp><BckSp><#+16>vi mf<Tab>
+2020-05-13 17:46:57+0530 > i<RShft>#,<CpsLk>MIK1,10-02-02<BckSp><BckSp>20,1,1.5<Esc><RShft>:WQ
+2020-05-13 17:47:17+0530 > <CpsLk><RShft>:wq
+2020-05-13 17:47:19+0530 > <Up><Up><Up><Down>
+2020-05-13 17:47:21+0530 > <LCtrl>c
+2020-05-13 17:47:24+0530 > vi m<Tab><Tab><BckSp>db<Tab>
+2020-05-13 17:47:30+0530 > iw,<RShft>#,0,012,k12,2,1,spa<BckSp><BckSp><BckSp><CpsLk>SPA001,0312190100100003,2<BckSp>3,1001AMIK01,0SM12345<Esc><RShft>:WQ<CpsLk><BckSp><BckSp>wq
+2020-05-13 17:48:42+0530 > <Up><Up><Up><Down>
+2020-05-13 17:48:44+0530 > <LCtrl>c
+2020-05-13 17:48:46+0530 > <#+1><Up><Up>
+2020-05-13 17:48:54+0530 > <Right><#+48><Left>i<BckSp>o<BckSp><CpsLk>O<Esc><RShft>:WQ
+2020-05-13 17:49:02+0530 > <CpsLk><RShft>:wq
+2020-05-13 17:49:03+0530 > <Up><Up>
+2020-05-13 17:49:04+0530 > <LCtrl>c
+2020-05-13 17:49:07+0530 > <Up><Up><Up><Up>
+2020-05-13 17:49:19+0530 > <Right>i<BckSp><LShft><Ins><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><BckSp><CpsLk>K<Esc><RShft>:WQ
+2020-05-13 17:49:33+0530 > <CpsLk><RShft>:Wq
+2020-05-13 17:49:34+0530 > <Up><CpsLk><RShft>:WQ<BckSp><BckSp><CpsLk>wq
+2020-05-13 17:49:37+0530 > <Up><Up>
+2020-05-13 17:49:38+0530 > <LCtrl>c
+2020-05-13 17:49:41+0530 > <#+2><Up><Up>
+2020-05-13 17:49:49+0530 > <Right><#+16><Right>i<BckSp><#+18><LShft><Ins><Esc><RShft>:wq
+2020-05-13 17:49:55+0530 > <Up><Up><Up><Down>
+2020-05-13 17:49:57+0530 > <LCtrl>c
+2020-05-13 17:50:27+0530 > <#+1><Up>
+2020-05-13 17:50:44+0530 > <LCtrl>c
+2020-05-13 17:51:50+0530 > <#+1><Up><Up><Up><Up><Up><Up><Right><#+56>i<Right>
+2020-05-13 17:53:26+0530 >  <#+10> printf<RShft>();<Left><Left><RShft>""<Left><LShft>Reset<LShft>Val = <LShft>%x\n<Right>,<LShft>Reset<LShft>VA<BckSp>al<Esc><RShft>:w
+2020-05-13 17:54:08+0530 > <Esc><RShft>:wq
+2020-05-13 17:54:38+0530 > cd ..
+2020-05-13 17:54:42+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down>
+2020-05-13 17:54:50+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up>
+2020-05-13 17:55:26+0530 > <Up><Up><Up><Down>
+2020-05-13 17:55:49+0530 > cd ../../../t<Tab>dep<Tab>im<Tab>st<Tab>sc<Tab>
+2020-05-13 17:56:22+0530 > <LCtrl>r./c
+2020-05-13 17:56:26+0530 > y
+2020-05-13 17:56:27+0530 > cd ..
+2020-05-13 17:56:58+0530 > ls
+2020-05-13 17:57:03+0530 > <LAlt><Tab>cp <LShft><Ins> /me<Tab><Tab><Tab><Tab>
+2020-05-13 17:57:43+0530 > sync
+2020-05-13 18:07:36+0530 > <LCtrl>c
+2020-05-14 10:37:48+0530 > c
+2020-05-14 10:37:48+0530 > <LAlt><Tab><LCtrl><LShft>V
+2020-05-14 10:37:52+0530 > <LAlt><Tab><LCtrl>c
+2020-05-14 10:38:05+0530 > c
+2020-05-14 10:38:05+0530 > <LAlt><Tab><LCtrl><LShft>V
+2020-05-14 10:38:07+0530 > <LAlt><Tab><LCtrl>c
+2020-05-14 10:38:13+0530 > c
+2020-05-14 10:38:14+0530 > <LAlt><Tab><LCtrl><LShft>V
+2020-05-14 10:38:16+0530 >     pri
+2020-05-14 10:44:04+0530 > cd ../../../..
+2020-05-14 10:44:18+0530 > cd t<BckSp>so<Tab><BckSp><BckSp>e<BckSp>wo<Tab>so<Tab><Tab>u<Tab>co<Tab>mm<Tab>
+2020-05-14 10:44:31+0530 > vim au<Tab>
+2020-05-14 10:44:34+0530 > /<LShft>Hit
+2020-05-14 10:44:37+0530 > <Up><Up><Up><Up><Right><#+27><Up>i<Right>
+2020-05-14 10:58:47+0530 >   <#+11><RShft>{<Down><Down><Up><Right><#+28>
+2020-05-14 10:58:53+0530 >  <#+10> <RShft>}<Down><Right><Right><Right>
+2020-05-14 10:58:59+0530 >  <#+10>   <RShft>}<BckSp><RShft>{<Down><Down> <#+8>   <RShft>}<Esc><RShft>:w
+2020-05-14 10:59:09+0530 > <Esc><RShft>:wq
+2020-05-14 10:59:28+0530 > <Up><Up><Down><Down>cd ..
+2020-05-14 10:59:32+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up>
+2020-05-14 10:59:38+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down>
+2020-05-14 11:00:16+0530 > cd ../../../tm<Tab>de<Tab>im<Tab>st<Tab>
+2020-05-14 11:00:50+0530 > cd sc<Tab>
+2020-05-14 11:00:54+0530 > <LCtrl><LShft>r./c
+2020-05-14 11:00:59+0530 > y
+2020-05-14 11:01:01+0530 > cd ..
+2020-05-14 11:01:32+0530 > <LCtrl>c
+2020-05-14 11:01:43+0530 > <LAlt><Tab><LCtrl><LShft>V
+2020-05-14 11:01:46+0530 > <LAlt><Tab><LCtrl>c
+2020-05-14 11:01:50+0530 > c
+2020-05-14 11:01:50+0530 > <LAlt><Tab><LCtrl><LShft>V
+2020-05-14 11:01:52+0530 > <LAlt><Tab><LCtrl>c
+2020-05-14 11:01:58+0530 > c
+2020-05-14 11:01:58+0530 > <LAlt><Tab><LCtrl><LShft>V
+2020-05-14 11:02:00+0530 >     pri
+2020-05-14 11:09:02+0530 > cd comm<Tab>
+2020-05-14 11:09:19+0530 > vim au<Tab>
+2020-05-14 11:09:22+0530 > <Down><#+26>/<LShft>Hit
+2020-05-14 11:09:26+0530 > <Up><Up><Up><Up><Up><Up><Right><#+31>i<Right>
+2020-05-14 11:10:03+0530 >  <#+9>   env<RShft>_save<RShft>();<Esc><RShft>:wq<BckSp>
+2020-05-14 11:10:14+0530 > cd ../u<Tab><CpsLk>
+2020-05-14 11:10:21+0530 > ENV<RShft>_<BckSp><#+14><CpsLk>grep -r<LShft>H <RShft>""<Left>env<RShft>_save
+2020-05-14 11:10:35+0530 > <Esc>yy<Down><Down><Down><Down>p<Esc><RShft>:w
+2020-05-14 11:10:50+0530 > cd ../../../../wo<Tab>s<Tab>u<Tab>
+2020-05-14 11:11:14+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up>
+2020-05-14 11:11:18+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up>
+2020-05-14 11:11:51+0530 > cd ../../../tm<Tab>de<Tab>im<Tab>s<Tab>sc<Tab>
+2020-05-14 11:12:21+0530 > <LCtrl>r./c
+2020-05-14 11:12:25+0530 > y
+2020-05-14 11:12:26+0530 > <LCtrl>c
+2020-05-14 11:12:47+0530 > c
+2020-05-14 11:12:47+0530 > <LAlt><Tab><LCtrl><LShft>V
+2020-05-14 11:12:51+0530 > cd ..
+2020-05-14 11:12:53+0530 > <LAlt><Tab><LCtrl>c
+2020-05-14 11:13:00+0530 > c
+2020-05-14 11:13:00+0530 > <LAlt><Tab><LCtrl><LShft>V
+2020-05-14 11:13:02+0530 >      pri
+2020-05-14 11:17:48+0530 > env<RShft>_set<Down>
+2020-05-14 11:18:20+0530 >  <Down>
+2020-05-14 11:19:04+0530 > env<RShft>_set example li<BckSp><BckSp>uboot
+2020-05-14 11:19:59+0530 > how to add environmental variable in ubbot<BckSp><BckSp><BckSp><BckSp>boot source cde<BckSp><BckSp>ode
+2020-05-14 11:21:06+0530 > c code toadd <BckSp><BckSp><BckSp><BckSp> add new environment <Down><Left><#+15><Left><Right><Right><Right>uboot 
+2020-05-14 11:24:17+0530 > <LCtrl>c
+2020-05-14 11:26:24+0530 > c
+2020-05-14 11:26:24+0530 > <LAlt><Tab>grep -r<LShft>H <RShft>""<RCtrl><Left><LShft><Ins>
+2020-05-14 11:26:36+0530 > env<RShft>_set
+2020-05-14 11:27:26+0530 > <LAlt><Tab><Up><Up><Up><Up><Up><Up><Up><LAlt><Tab><Down><Down><#+11><Up><#+29><Up><#+33><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgUp><PgUp><Down><Down><Down><Down><Down><Down><#+8><Down><#+14><Down><#+15><Down><#+11><Down><#+19><Down><#+29><Down><#+25><Down><#+31><Down><#+9><Down><#+23><Down><#+9><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><#+9><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><LAlt><Tab><Up><Down><Right>i<Right>
+2020-05-14 11:48:10+0530 >  <#+10>  printf<RShft>();<Left><RShft>""<Left><Right><BckSp><BckSp><Left><RShft>""<Left><LShft>Inside if loop\n<Esc><RShft>:wq<BckSp>
+2020-05-14 11:48:32+0530 > cd ../../../../wo<Tab>so<Tab>u<Tab>
+2020-05-14 11:48:46+0530 > <Up><Up><Up><Up><Up><Up><Up><Up>
+2020-05-14 11:48:50+0530 > <Up><Up><Up><Up><Up><Up><Up><Up>
+2020-05-14 11:49:22+0530 > cd -/scr<Tab><BckSp><BckSp><BckSp><BckSp>
+2020-05-14 11:49:53+0530 > cd sc<Tab>
+2020-05-14 11:49:56+0530 > <LCtrl>r./c
+2020-05-14 11:50:12+0530 > y
+2020-05-14 11:50:14+0530 > cd ..
+2020-05-14 11:50:42+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Down><Up><Up>
+2020-05-14 11:50:53+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up>
+2020-05-14 11:50:58+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab>how to ass<BckSp><BckSp>dd environment <Down> <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>uboot from source code
+2020-05-14 11:53:54+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab>    pri
+2020-05-14 11:56:01+0530 > <Esc><#+1>yy<Down><Down><Down><Down><Down>p<Right><#+18>i<BckSp><BckSp>else<Esc><RShft>:w
+2020-05-14 11:56:37+0530 > cd ../../../../wo<Tab>so<Tab>u<Tab>
+2020-05-14 11:56:49+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up>
+2020-05-14 11:56:53+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up>
+2020-05-14 11:57:26+0530 > cd -
+2020-05-14 11:57:52+0530 > cd sc<Tab>
+2020-05-14 11:57:55+0530 > <LCtrl>r./cr
+2020-05-14 11:57:58+0530 > y
+2020-05-14 11:57:59+0530 > cd ..
+2020-05-14 11:58:44+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up>
+2020-05-14 11:58:50+0530 > <Up><Down><Up>
+2020-05-14 11:59:01+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up>
+2020-05-14 11:59:05+0530 > <LAlt><Tab>       how to comare <BckSp><BckSp><BckSp><BckSp>pare unsigned int with signed int in c
+2020-05-14 12:05:57+0530 > <LAlt><Tab><Up><Up><Up><Up><Up><Up><Up><Up><Left><Left>i<RShft>)<BckSp><RShft>()<Left>uint32<RShft>_t <LShft>*<Esc><RShft>:w
+2020-05-14 12:10:26+0530 > cd ../../../../wo<Tab>s<Tab>u<Tab>
+2020-05-14 12:10:37+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up>
+2020-05-14 12:10:42+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up>
+2020-05-14 12:11:13+0530 > cd -
+2020-05-14 12:11:30+0530 > cd sc<Tab>
+2020-05-14 12:11:32+0530 > <LCtrl>r./c
+2020-05-14 12:11:35+0530 > y
+2020-05-14 12:11:36+0530 > cd ..
+2020-05-14 12:12:12+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up>
+2020-05-14 12:12:16+0530 > <Up>
+2020-05-14 12:12:25+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up>
+2020-05-14 12:12:29+0530 >                cd sc<Tab>
+2020-05-14 12:39:38+0530 > <LCtrl>r,<BckSp>./c
+2020-05-14 12:39:43+0530 > y
+2020-05-14 12:39:44+0530 > cd ..
+2020-05-14 12:40:10+0530 > <Up><Up><Up><Up>
+2020-05-14 12:40:24+0530 > <Up><Up><Up><Up>
+2020-05-14 12:40:27+0530 >      <BckSp>i<Right><Right><BckSp><#+12><BckSp><BckSp><Esc>how to comare signe  na<BckSp><BckSp><BckSp>d and unsigned int
+2020-05-14 12:52:22+0530 > how to compare unsigned int ands<BckSp> s<Down><Down> in c
+2020-05-14 12:53:15+0530 > <LAlt><Tab><Right><Right>i<Right><BckSp><BckSp><LShft>Reset<LShft>Val<Left><#+13><Left><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>15<Esc><RShft>:w
+2020-05-14 12:54:20+0530 > cd ../../../../wo<Tab>s<Tab>u<Tab>
+2020-05-14 12:54:36+0530 > <Up><Up><Up><Up><Down><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up>
+2020-05-14 12:54:51+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up>
+2020-05-14 12:55:25+0530 > cd ../../../tm<Tab>de<Tab>im<Tab>st<Tab>sc<Tab>
+2020-05-14 12:56:02+0530 > <LCtrl>r,<BckSp>./c
+2020-05-14 12:56:06+0530 > y
+2020-05-14 12:56:07+0530 > cd ..
+2020-05-14 12:56:47+0530 > <Up><Up><Up><Up><Up><Up><Up><Up>
+2020-05-14 12:57:29+0530 > <Up><Up><Up><Up><Up><Up><Up><Up>
+2020-05-14 12:57:33+0530 >       pri
+2020-05-14 13:03:25+0530 >  resolve<Right><#+12><Left><Left><BckSp>ision issue between
+2020-05-14 13:06:16+0530 > <LMeta><#+6>lzs10062013
+2020-05-14 14:26:05+0530 > how to check<BckSp><BckSp><BckSp><BckSp><BckSp>compare two <BckSp><#+11><BckSp><BckSp><BckSp><BckSp><BckSp>compare unsigned and <Down> in  <LShft><Down>
+2020-05-14 14:27:03+0530 > <Esc>uu<Left><#+7>i015<BckSp><BckSp>x<Esc><RShft>:w
+2020-05-14 14:33:02+0530 > cd ../../../../s<BckSp>wo<Tab>s<Tab>u<Tab>
+2020-05-14 14:33:21+0530 > <Up><Up><Up><Up><Up><Up><Up><Up>
+2020-05-14 14:33:26+0530 > <Up><Up><Up><Up><Up><Up><Up><Up>
+2020-05-14 14:33:59+0530 > cd ../../../tm<Tab>de<Tab>im<Tab>/<BckSp>s<Tab>sc<Tab>
+2020-05-14 14:34:31+0530 > <LCtrl>r./c
+2020-05-14 14:34:34+0530 > y
+2020-05-14 14:34:35+0530 > cd ..
+2020-05-14 14:35:01+0530 > <Up><Up><Up><Up><Up><Up><Up><Up>
+2020-05-14 14:35:46+0530 > <Up><Up><Up><Up><Up><Up><Up><Up>
+2020-05-14 14:36:02+0530 > <Up>
+2020-05-14 14:39:57+0530 > <LCtrl>c
+2020-05-14 14:40:11+0530 > <Up>
+2020-05-14 14:40:19+0530 >    pri
+2020-05-14 16:12:09+0530 > <Up><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Up><Right><#+22>i<Right><Up><Up><#+45><Home><#+12><PgUp><#+18><Down><#+31><Up><#+24><LShft>?8<LShft><BckSp><BckSp>/<LShft>*<LShft>*/<Left><Left><LShft>Stored value of board reset to know the <BckSp><#+13><BckSp><BckSp><BckSp> t<BckSp><Left><#+14>no.of tm<BckSp>imes <Right><#+13>s<Right><Right><Right>
+2020-05-14 16:24:37+0530 > static co<BckSp><BckSp>int cou t<BckSp><BckSp>nt;<Down><#+25>/<LShft>Hi
+2020-05-14 16:25:15+0530 > <Esc>u/<LShft>Hit
+2020-05-14 16:25:21+0530 > <Up><Up><Up><Up><Right><#+24>i<Right><Up><Up><Up><Up><Up><Up><Up>
+2020-05-14 16:25:48+0530 >   <#+8>   count = 0;<Down><Down><Down><Down><Down><Down>
+2020-05-14 16:25:58+0530 >  <#+11>count ==<BckSp><BckSp><BckSp><RShft>++;<Down><Right><#+30>
+2020-05-14 16:26:21+0530 >  <#+9>  switch<RShft>()<Left>count<Right>
+2020-05-14 16:26:42+0530 >  <#+9>  <RShft>{<Down><Down><Down><Up><Right><#+18>
+2020-05-14 16:26:49+0530 >  <#+10>  <RShft>}<Up><Up><Up>
+2020-05-14 16:26:55+0530 >  <#+10>  case 1<RShft>:<Down><Down><Up><Left><#+11>    <Down><Left><Left><Left><Left>     <BckSp><Right><#+21>
+2020-05-14 16:27:14+0530 >  <#+14>break;
+2020-05-14 16:27:19+0530 >  <#+11><Up><Up><Up><Up><Esc><LShft>V<Down><Down><Down>y<Down><Down><Down>p<Right><Right><#+7><Right><Right><Right><BckSp>2i<Right><BckSp>2<Down><Right><#+22><BckSp>2<Down><Down><Down><Up><Esc>p<Right><#+9><Right>i<BckSp>3<Down><Down><Up><Right><#+22><Left><BckSp>3<Down><Down><Down>default<RShft>"<BckSp><RShft>:
+2020-05-14 17:12:13+0530 >  <#+13>  break;<Up><Up><#+18><Up><Up><Up><Up><Up><Esc><RShft>:wq<BckSp>
+2020-05-14 17:12:30+0530 > cd ../../../..
+2020-05-14 17:12:58+0530 > d<BckSp>cd wo<Tab>s<Tab>u<Tab>
+2020-05-14 17:13:08+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up>
+2020-05-14 17:13:13+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up>
+2020-05-14 17:13:48+0530 > cd ../../../tm<Tab>de<Tab>im<Tab>s<Tab>sc<Tab>
+2020-05-14 17:19:30+0530 > <LCtrl>r./cr<Tab>
+2020-05-14 17:19:36+0530 > y
+2020-05-14 17:19:38+0530 > cd ..
+2020-05-14 17:20:07+0530 > <LCtrl>c
+2020-05-14 17:20:24+0530 > c
+2020-05-14 17:20:24+0530 > <LAlt><Tab><LCtrl><LShft>V
+2020-05-14 17:20:28+0530 > <LAlt><Tab><LCtrl>c
+2020-05-14 17:20:34+0530 > c
+2020-05-14 17:20:34+0530 > <LAlt><Tab><LCtrl><LShft>V
+2020-05-14 17:20:37+0530 > 
+2020-05-14 17:59:00+0530 > 
+2020-05-14 17:59:00+0530 > 
+2020-05-14 17:59:00+0530 > 
+2020-05-14 17:59:01+0530 > 
+2020-05-14 17:59:01+0530 > 
+2020-05-14 17:59:01+0530 > 
+2020-05-14 17:59:02+0530 > 
+2020-05-14 17:59:02+0530 > 
+2020-05-14 17:59:02+0530 > 
+2020-05-14 17:59:05+0530 > 
+2020-05-14 17:59:06+0530 > cd /
+2020-05-14 17:59:08+0530 > fe<BckSp>w<RShft>_printenv <RShft><Ins> 
+2020-05-14 17:59:28+0530 > fw<Tab><Tab><Tab><Tab><BckSp><BckSp>f<Tab><Tab><Tab>w<Tab><Tab><Tab><Tab><Tab><Tab><Tab><BckSp><#+12>cd ../../../../../so<Tab>
+2020-05-15 10:26:16+0530 > f<BckSp>grep -r<LShft>H <RShft>""<Left>fw<RShft>_printenv
+2020-05-15 10:26:31+0530 > enable fw<RShft>_printenv in yocto linux
+2020-05-15 10:27:07+0530 > <LAlt><Tab>cd me<Tab><Tab><Tab>op<Tab><Tab><Tab><BckSp><#+13><BckSp><BckSp><BckSp><BckSp><Tab><Tab><Tab>s<Tab>-s<Tab><Tab><Tab>re<Tab><Tab>s<Tab><Tab>r<BckSp>t<Tab><Tab><Tab>
+2020-05-15 10:28:24+0530 > ls
+2020-05-15 10:28:25+0530 > vim st<Tab><BckSp><#+24>cd ..
+2020-05-15 10:28:40+0530 > ls
+2020-05-15 10:28:41+0530 > cd ../..
+2020-05-15 10:28:45+0530 > ls
+2020-05-15 10:28:47+0530 > cd me<Tab>s<Tab>-o<Tab><Tab><Tab>re<Tab>s<Tab>t<Tab><Tab><Tab>i<Tab>
+2020-05-15 10:29:02+0530 > ls
+2020-05-15 10:29:03+0530 > vim st<Tab>-c<Tab>
+2020-05-15 10:29:17+0530 > <PgDn><PgDn><PgUp><Down><#+8><Up><Right><#+44>i<Right>
+2020-05-15 10:29:26+0530 >  <#+6>   <LShft><Ins> <#+19> \<Esc><RShft>:wq
+2020-05-15 10:29:36+0530 > cd ../..<BckSp><#+15><Up>
+2020-05-15 10:29:52+0530 > <PgDn><Down><#+21><Down><Up><Right><#+24><Right><Right>i<BckSp><BckSp><BckSp> <#+7>  <BckSp><Esc><RShft>:wq
+2020-05-15 10:30:10+0530 > cd ../../../..
+2020-05-15 10:30:16+0530 > ls
+2020-05-15 10:30:20+0530 > <LCtrl>c
+2020-05-15 10:30:30+0530 > c
+2020-05-15 10:30:30+0530 > <LAlt><Tab><LCtrl><LShft>V
+2020-05-15 10:30:33+0530 > make ck<Tab><BckSp>l<Tab>e<Tab><Tab><BckSp>ea<Tab><Tab><Tab><BckSp><#+1><BckSp><#+17>cl<Tab><Tab><Tab>e<Tab>a<Tab><BckSp><Tab>n<Tab>
+2020-05-15 10:31:09+0530 > <Up><Up>
+2020-05-15 10:31:12+0530 > <LCtrl>c
+2020-05-15 10:31:33+0530 > c
+2020-05-15 10:31:33+0530 > <LAlt><Tab>cd cd ../../../..
+2020-05-15 10:31:57+0530 > cd so<Tab>
+2020-05-15 10:32:02+0530 > <LCtrl>c
+2020-05-15 10:32:14+0530 > c
+2020-05-15 10:32:14+0530 > <LAlt><Tab><LAlt><Tab><LCtrl><LCtrl><LShft>V
+2020-05-15 10:32:20+0530 > cd ..
+2020-05-15 10:32:24+0530 > <Up><Up>
+2020-05-15 10:32:25+0530 > bitbake <LShft><Ins>
+2020-05-15 10:32:34+0530 > cd ../so<Tab>me<Tab>s<Tab>-op<Tab>re<Tab>s<Tab>t<Tab>i<Tab>
+2020-05-15 10:33:13+0530 > vim s<Tab>-<Tab>c<Tab>
+2020-05-15 10:33:20+0530 > <PgDn><Down><#+19><Down><Down><Right><#+25><Left>i<BckSp><BckSp><BckSp><BckSp><#+7><BckSp><#+10><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><Esc><RShft>:wq
+2020-05-15 10:33:33+0530 > cd ../../...<BckSp>/../bu<Tab>
+2020-05-15 10:33:44+0530 > <Up><Up><Up><Up>
+2020-05-15 10:33:46+0530 > <LAlt><Tab>cd -
+2020-05-15 10:34:20+0530 > vim <Up><Up><Up><Up>
+2020-05-15 10:34:24+0530 > <Up><Right><#+12><Right>i<BckSp><#+1><BckSp><BckSp><BckSp><BckSp><BckSp><Esc>uu<Esc><RShft>:wq
+2020-05-15 10:34:46+0530 > <LAlt><Tab><LAlt><Tab><Up>
+2020-05-15 10:35:04+0530 > <Down><#+50><Up><Right><#+14><Left>i<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LShft><Ins><Esc><RShft>:wq
+2020-05-15 10:35:14+0530 > cd -
+2020-05-15 10:35:16+0530 > <Up><Up><Up><Up>
+2020-05-15 10:35:19+0530 > <LCtrl><LShft>c
+2020-05-15 10:40:41+0530 > c
+2020-05-15 10:40:41+0530 > c
+2020-05-15 10:40:41+0530 > <LCtrl>v
+2020-05-15 10:40:48+0530 > <BckSp>
+2020-05-15 10:40:55+0530 > <BckSp><#+11><BckSp>
+2020-05-15 10:41:02+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LCtrl><LShft>c
+2020-05-15 10:42:48+0530 > c
+2020-05-15 10:42:48+0530 > <LCtrl>v
+2020-05-15 10:42:53+0530 > <BckSp><#+14>
+2020-05-15 10:43:00+0530 > <LAlt><Tab><LCtrl>c
+2020-05-15 10:45:03+0530 > c
+2020-05-15 10:45:03+0530 > c
+2020-05-15 10:45:03+0530 > 
+2020-05-15 10:45:11+0530 > 
+2020-05-15 10:45:11+0530 > 
+2020-05-15 10:45:12+0530 > 
+2020-05-15 10:45:12+0530 > <LCtrl>v<LShft>Compile procedure for uboot<LCtrl>s<LAlt><Tab><LAlt><Tab><Tab><LCtrl><LShft>c
+2020-05-15 10:47:19+0530 > c
+2020-05-15 10:47:19+0530 > c
+2020-05-15 10:47:19+0530 > <LCtrl>v
+2020-05-15 10:47:28+0530 > <LAlt><Tab><LCtrl>c
+2020-05-15 10:48:51+0530 > cd wo<Tab>so<Tab>tf<Tab>
+2020-05-15 10:49:12+0530 > ls
+2020-05-15 10:49:13+0530 > cd <BckSp><#+20>cd ../u<CpsLk>B<CpsLk><BckSp>b<Tab><Tab><BckSp><CpsLk><CpsLk><#+1><CpsLk><CpsLk><Tab>
+2020-05-15 10:49:51+0530 > ls
+2020-05-15 10:49:51+0530 > cd ar<Tab>arm<CpsLk>/CON<BckSp><BckSp><CpsLk><BckSp>co<Tab>n<Tab><Tab><Tab><Tab><Tab><BckSp><#+23>find -name <RShft>""<BckSp><#+2><BckSp><RShft>""<Left><LShft><Ins>
+2020-05-15 10:50:58+0530 > <LCtrl>c
+2020-05-15 10:51:57+0530 > c
+2020-05-15 10:51:58+0530 > <LAlt><Tab><LAlt><Tab><Tab>cd ../../..
+2020-05-15 10:52:04+0530 > <LCtrl><LShft>V
+2020-05-15 10:52:05+0530 > <Up><BckSp><#+9><BckSp>- h<BckSp><BckSp>help
+2020-05-15 10:52:21+0530 > how to clear the uboot<BckSp><#+8><BckSp><BckSp><#+11><BckSp><BckSp>do bitbake <Down>
+2020-05-15 10:54:14+0530 > <LAlt><Tab>find -name <RShft>""<Left><LAlt><Tab><LCtrl>c
+2020-05-15 10:55:30+0530 > c
+2020-05-15 10:55:30+0530 > <LAlt><Tab><LShft><Ins>
+2020-05-15 10:55:33+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><LAlt><LAlt><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><LAlt><Tab><LAlt><Tab><#+1>how to revert tp default configuration in yocto linux
+2020-05-15 10:57:46+0530 > <BckSp>o
+2020-05-15 10:58:25+0530 > <LAlt><Tab>vim <LShft><Ins>
+2020-05-15 10:59:28+0530 > <Esc><RShft>:q
+2020-05-15 10:59:41+0530 > 
+2020-05-15 10:59:42+0530 > 
+2020-05-15 10:59:43+0530 > cd ../../<BckSp><BckSp><BckSp>so<Tab>me<Tab>s<Tab>-op<Tab><Tab><Tab>re<Tab>s<Tab>t<Tab><Tab><Tab>im<Tab>
+2020-05-15 11:00:15+0530 > vim s<Tab>-c<Tab>
+2020-05-15 11:00:19+0530 > <PgDn><Down><#+19><Down><Esc><LCtrl><LShft>c
+2020-05-15 11:00:32+0530 > c
+2020-05-15 11:00:32+0530 > <LCtrl>v<LAlt><Tab>dd<Esc><RShft>:wq
+2020-05-15 11:00:43+0530 > cd ,<BckSp>../../../..
+2020-05-15 11:00:48+0530 > cd bu<BckSp><#+13><LCtrl>c
+2020-05-15 11:01:01+0530 > c
+2020-05-15 11:01:01+0530 > <LAlt><Tab><LCtrl><LShft>V
+2020-05-15 11:01:03+0530 > bitbake <LShft><Ins>
+2020-05-15 11:01:13+0530 > add fw<RShft>_printenv recipr<BckSp>e in l<BckSp>yocto
+2020-05-15 11:26:39+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab>cd ../ss<BckSp>\<Tab>
+2020-05-15 11:31:14+0530 > grep -r<LShft>H <RShft>""<Left>fw<RShft>_printenv
+2020-05-15 11:31:26+0530 > <LCtrl><LShft>c
+2020-05-15 11:32:23+0530 > c
+2020-05-15 11:32:24+0530 > <LAlt><Tab><LCtrl>v
+2020-05-15 11:32:33+0530 > <LAlt><Tab>cd me<Tab>st<Tab>-op<Tab>re<Tab>s<Tab>t<Tab>i<Tab>
+2020-05-15 11:35:37+0530 > vim s<Tab>-c<Tab>
+2020-05-15 11:35:43+0530 > <PgDn><Down><#+19><Right><#+50>i<Right>
+2020-05-15 11:35:51+0530 >  <#+6>   <LShft><Ins> <#+18>     \<Esc><RShft>:wq
+2020-05-15 11:36:00+0530 > cd ../../../..
+2020-05-15 11:36:05+0530 > cd bu<Tab>
+2020-05-15 11:36:08+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Down>
+2020-05-15 11:36:12+0530 > <LCtrl><LShft>c
+2020-05-15 11:37:15+0530 > c
+2020-05-15 11:37:15+0530 > <LCtrl>v
+2020-05-15 11:37:20+0530 > <LAlt><Tab>cd ..
+2020-05-15 11:38:59+0530 > cd so<Tab>
+2020-05-15 11:39:02+0530 > find -name <RShft>""<RCtrl><Left>mosquitto
+2020-05-15 11:39:12+0530 > vim <LShft><Ins>`<BckSp>/<Tab><Tab><Tab><BckSp><#+64>vim <LShft><Ins><Tab><Tab>/<Tab><Tab><LShft><Ins>
+2020-05-15 11:40:05+0530 > <Esc><RShft>:q
+2020-05-15 11:40:26+0530 > 
+2020-05-15 11:41:51+0530 > cd <LShft><Ins>
+2020-05-15 11:41:54+0530 > ls
+2020-05-15 11:41:55+0530 > cd fl<Tab><BckSp>i<Tab>
+2020-05-15 11:42:21+0530 > ls
+2020-05-15 11:42:22+0530 > cd ..
+2020-05-15 11:42:25+0530 > cd ..
+2020-05-15 11:42:32+0530 > ls
+2020-05-15 11:42:33+0530 > cd ../../../me<Tab>s<Tab>-op<Tab><Tab><Tab>rec<Tab>s<Tab>t/<Tab><Tab>im<Tab>
+2020-05-15 11:43:13+0530 > vim st<Tab>-c<Tab>
+2020-05-15 11:43:20+0530 > <PgDn><Down><#+20><Down><Right><#+21><Right><Right>i<BckSp><#+17><BckSp><Esc><RShft>:wq
+2020-05-15 11:43:33+0530 > cd ../../../../../b<Tab><Tab><BckSp><BckSp><BckSp><BckSp>b<Tab>
+2020-05-15 11:43:47+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up>
+2020-05-15 11:43:54+0530 > <LAlt><Tab>cd -
+2020-05-15 11:44:41+0530 > cd ../../../po<Tab>me<Tab>/re<Tab>bs<Tab>u<Tab>-b<Tab>
+2020-05-15 11:45:08+0530 > ls
+2020-05-15 11:45:09+0530 > vim <LShft><Ins>
+2020-05-15 11:45:16+0530 > <Esc><#+3><Esc><Esc><RShft>:q
+2020-05-15 11:45:32+0530 > cd ../../../me<Tab><Tab><Tab>/re<Tab>conn<Tab>hu<Tab>
+2020-05-15 11:45:48+0530 > ls
+2020-05-15 11:45:49+0530 > vim hu<Tab>
+2020-05-15 11:45:52+0530 > <Esc><RShft>:q
+2020-05-15 11:46:08+0530 > cd fil<Tab>
+2020-05-15 11:46:10+0530 > ls
+2020-05-15 11:46:11+0530 > vim st<Tab>.se<Tab>
+2020-05-15 11:46:24+0530 > <Esc><RShft>:q
+2020-05-15 11:46:32+0530 > cd ../../..me<Tab><BckSp><BckSp><BckSp><BckSp>../re<Tab>s<Tab><BckSp>bs<Tab>u<Tab>-<Tab>
+2020-05-15 11:47:03+0530 > ls
+2020-05-15 11:47:04+0530 > <LAlt><Tab>vim <LShft><Ins>
+2020-05-15 11:51:31+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><LAlt><Tab><LAlt><Tab><LAlt><LAlt><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LCtrl>c
+2020-05-15 11:53:05+0530 > c
+2020-05-15 11:53:05+0530 > c
+2020-05-15 11:53:05+0530 > <LAlt><Tab><Down><#+26><Up>i
+2020-05-15 11:53:11+0530 > 
+2020-05-15 11:53:11+0530 > <Up><LShft><Ins><Left><#+32><BckSp><Esc><RShft>:wq
+2020-05-15 11:53:23+0530 > cd ../../../../me<Tab>s<Tab>-op<Tab>re<Tab>s<Tab>t<Tab><Tab><Tab>im<Tab>
+2020-05-15 11:53:51+0530 > vim st<Tab>-co<Tab>
+2020-05-15 11:53:55+0530 > <PgDn><Down><#+21><Right><#+11><Left>i<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LShft><Ins><Esc><RShft>:wq
+2020-05-15 11:54:06+0530 > cd ../../../..
+2020-05-15 11:54:10+0530 > cd bu<Tab>
+2020-05-15 11:54:12+0530 > <LAlt><Tab><LCtrl>c
+2020-05-15 11:54:41+0530 > c
+2020-05-15 11:54:41+0530 > c
+2020-05-15 11:54:41+0530 > <LAlt><Tab>find -name <RShft>""<Left><LShft><Ins>
+2020-05-15 11:54:50+0530 > <LAlt><Tab><LAlt><Tab><LCtrl>v<LCtrl>c
+2020-05-15 11:54:57+0530 > c
+2020-05-15 11:54:57+0530 > c
+2020-05-15 11:54:57+0530 > c
+2020-05-15 11:54:58+0530 > vim <LShft><Ins>
+2020-05-15 11:55:02+0530 > <Down><#+14><Down><#+20><Esc><RShft>:q
+2020-05-15 11:55:13+0530 > cd <BckSp><#+12><Up><Up><Up><Up><Up><Up><Up><Down><Down><Down><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><LAlt><LAlt><Tab><LAlt><Tab><LCtrl>c
+2020-05-15 11:55:52+0530 > c
+2020-05-15 11:55:53+0530 > <LAlt><Tab><BckSp><#+14><BckSp><BckSp><LShft><Ins> <LAlt><Tab><LAlt><Tab>-c compile<LAlt><Tab><LAlt><Tab>
+2020-05-15 11:56:13+0530 > cd ../so<Tab>me<Tab>st<Tab>-op<Tab><Tab><Tab>reci<Tab>st<Tab>im<Tab>
+2020-05-15 11:57:36+0530 > vim st<Tab>-co<Tab>
+2020-05-15 11:57:47+0530 > <PgDn><PgDn><Up><Down><Up><Esc>dd<Up><Up><Up><Esc><RShft>:wq
+2020-05-15 11:57:55+0530 > cd ../../../..
+2020-05-15 11:58:01+0530 > cd bu<Tab>
+2020-05-15 11:58:03+0530 > ls
+2020-05-15 11:58:04+0530 > cd c<Tab>o<Tab>
+2020-05-15 11:58:09+0530 > ls
+2020-05-15 11:58:10+0530 > vim lo<Tab>
+2020-05-15 11:58:14+0530 > <LAlt><Tab><LCtrl>c
+2020-05-15 11:59:38+0530 > c
+2020-05-15 11:59:39+0530 > <LAlt><Tab><Down><#+17><Down><Down><Down><Down>i<Right><#+5><Right><#+23>
+2020-05-15 11:59:48+0530 > 
+2020-05-15 11:59:49+0530 > <LShft><Ins><Esc><RShft>:wq
+2020-05-15 11:59:53+0530 > <LAlt><Tab><LCtrl>c
+2020-05-15 11:59:59+0530 > c
+2020-05-15 11:59:59+0530 > <LAlt><Tab>cd ../../so<Tab>me<Tab><BckSp><#+10><Tab>po<Tab>me<Tab>/re<Tab><Tab><Tab><Tab>b<Tab>u<Tab><Tab><Tab>-<Tab>
+2020-05-15 12:00:38+0530 > ls
+2020-05-15 12:00:39+0530 > vim <LShft><Ins>
+2020-05-15 12:00:43+0530 > <Down><#+28><Down><Down><Esc>d<Esc>dddddd<Esc><RShft>:wq
+2020-05-15 12:00:59+0530 > cd ../../../..
+2020-05-15 12:01:03+0530 > cd ../bu<Tab>
+2020-05-15 12:01:06+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down>
+2020-05-15 12:01:13+0530 > <LAlt><Tab><LAlt><Tab>cd c<Tab>o<Tab>
+2020-05-15 12:04:28+0530 > vim lo<Tab>
+2020-05-15 12:04:30+0530 > <Down><#+22><Esc>dd<Esc><RShft>:wq
+2020-05-15 12:04:36+0530 > <LAlt><Tab> <Down>
+2020-05-15 12:30:48+0530 >  <LShft>STM32<LShft>MP
+2020-05-15 12:36:56+0530 > <LAlt><Tab><LCtrl>c
+2020-05-15 12:47:37+0530 > c
+2020-05-15 12:47:37+0530 > <LAlt><Tab>
+2020-05-15 12:47:40+0530 > cd ../w<Tab>s<Tab>w<Tab><BckSp>u<Tab>
+2020-05-15 12:47:48+0530 > <LCtrl><LShft>V<RShft>
+2020-05-15 12:47:50+0530 > cd ../../..co<Tab><BckSp><BckSp>/c<Tab>o<Tab>
+2020-05-15 12:48:12+0530 > <LShft><Ins>
+2020-05-15 12:48:24+0530 > <Down><#+26><LAlt><Tab><LCtrl>c
+2020-05-15 12:48:40+0530 > c
+2020-05-15 12:48:40+0530 > <LAlt><Tab>i <LShft>
+2020-05-15 12:48:44+0530 > <LShft><Ins><Esc><RShft>:wq
+2020-05-15 12:48:47+0530 > cd ..
+2020-05-15 12:48:50+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down><Down>
+2020-05-15 12:48:55+0530 > cd co<Tab><Up><Up><Up><Up><Up><Up><Up><Down><Up><Up>
+2020-05-15 12:49:28+0530 > vim lo<Tab>
+2020-05-15 12:49:31+0530 > <Down><#+20><Down><Down><Down><Esc>dd<Esc><RShft>:wq
+2020-05-15 12:49:37+0530 > cd ../../s<Tab>me<Tab>o<BckSp>s<Tab>-p<BckSp>op<Tab>re<Tab>s<Tab><Tab>t/<Tab>i<Tab>
+2020-05-15 12:49:57+0530 > vm s<Tab>-c<Tab>
+2020-05-15 12:50:02+0530 > <Up><Left><#+21><Left><Right>i
+2020-05-15 12:50:17+0530 > <PgDn><Down><#+20><Up><Right><#+43>i<Right>
+2020-05-15 12:50:24+0530 >  <#+6>   <LShft><Ins> <#+28><Left>\<Esc><RShft>:wq
+2020-05-15 12:50:32+0530 > cd ../../../../u<Tab><BckSp>b<Tab>
+2020-05-15 12:50:43+0530 > <Up><Up><Up><Up><Up><Up><Up>
+2020-05-15 12:50:48+0530 > <LMeta><#+5>l<LAlt>2
+2020-05-16 10:57:14+0530 > 
+2020-05-16 10:57:15+0530 > cd /i<Tab><Tab><BckSp>bi<Tab><#+2>
+2020-05-16 10:57:26+0530 > <#+5>
+2020-05-16 10:57:27+0530 > ./en<Tab><#+1><BckSp><#+19>vi re<#+2><Tab>
+2020-05-16 10:57:36+0530 > <RShft>:q
+2020-05-16 10:57:38+0530 > ./en<Tab>
+2020-05-16 10:57:41+0530 > <#+1><LCtrl>c
+2020-05-16 10:58:52+0530 > ifc<Tab><Tab>o<Tab>
+2020-05-16 10:58:56+0530 > <Up><Up>
+2020-05-16 10:59:00+0530 > <LCtrl>c
+2020-05-16 10:59:27+0530 > <#+2><Up>
+2020-05-16 11:00:47+0530 > <LCtrl>c
+2020-05-16 11:03:29+0530 > <#+1>tftp -g -r en<Tab> 192.18<BckSp>68.0.7
+2020-05-16 11:06:59+0530 > <Up><Up>
+2020-05-16 11:07:39+0530 > <LCtrl>c
+2020-05-16 11:09:35+0530 > <#+3><Up>
+2020-05-16 11:11:07+0530 > <LCtrl>c
+2020-05-16 11:16:56+0530 > <#+2><Up>
+2020-05-16 11:17:00+0530 > <LCtrl>c
+2020-05-16 11:23:25+0530 > <Up>
+2020-05-16 11:23:30+0530 > <LCtrl>c
+2020-05-16 11:30:08+0530 > <Up><Up><Up><#+2><Up><#+3><Up><#+2>
+2020-05-16 11:31:16+0530 > <Up><#+1><Up>
+2020-05-16 11:32:27+0530 > <LCtrl>c
+2020-05-16 11:34:12+0530 > <#+1><Up>
+2020-05-16 11:34:16+0530 > a<LCtrl>w<LCtrl>aw<LCtrl><LCtrl>c
+2020-05-16 11:57:04+0530 > <#+1><Up>
+2020-05-16 11:57:07+0530 > <LCtrl>c
+2020-05-16 12:01:08+0530 > <#+2><Up><Up><Up><Up>
+2020-05-16 12:01:11+0530 > <Up><Up>
+2020-05-16 12:02:05+0530 > <LCtrl>c
+2020-05-16 12:04:05+0530 > <#+3><Up><Up>
+2020-05-16 12:06:12+0530 > <Up><Up>
+2020-05-16 12:09:53+0530 > <LCtrl>c
+2020-05-16 12:11:07+0530 > <#+2><Up>
+2020-05-16 12:11:53+0530 > <LCtrl>c
+2020-05-16 12:13:37+0530 > <Up><Up><Up>
+2020-05-16 12:13:42+0530 > <Up><Up>
+2020-05-16 12:15:16+0530 > <LCtrl>c
+2020-05-16 12:21:10+0530 > <Up>
+2020-05-16 12:21:20+0530 > <LCtrl>c
+2020-05-16 12:40:32+0530 > <Up><Up><Up>
+2020-05-16 12:50:24+0530 > <Up><Up>
+2020-05-16 12:52:21+0530 > <LCtrl>c
+2020-05-16 12:54:52+0530 > <Up><Up>
+2020-05-16 13:02:06+0530 > <Up><Up>
+2020-05-16 13:02:56+0530 > <LCtrl>c
+2020-05-16 13:10:13+0530 > <Up>
+2020-05-16 13:11:24+0530 > <LCtrl>c
+2020-05-16 13:29:02+0530 > <#+3>
+2020-05-16 14:29:04+0530 > <#+7>ifc<Tab><BckSp><#+14>cd /bi<Tab>
+2020-05-16 14:29:11+0530 > ./e<Tab>n<Tab>
+2020-05-16 14:29:14+0530 > <LCtrl>c
+2020-05-16 14:30:22+0530 > <Up>
+2020-05-16 14:30:24+0530 > <LCtrl>c
+2020-05-16 14:35:20+0530 > <#+1><Up>
+2020-05-16 14:54:27+0530 > <LCtrl>c
+2020-05-16 14:55:45+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><#+10><Up><#+26><Down><Down><Up><Up><Up><#+31><Up><#+24><Up><#+8><BckSp><#+21>tftp -g -r sen<Tab><#+1><BckSp><BckSp><BckSp>e<Tab><Tab>n<Tab><#+1> 192.168.0.7
+2020-05-16 14:57:09+0530 > <Up><Up>
+2020-05-16 14:57:45+0530 > <LCtrl>c
+2020-05-16 15:04:36+0530 > <#+2><Up><Up><Up><Up><Up><Up><Up>cd /bi<Tab>
+2020-05-16 15:37:33+0530 > 
+2020-05-16 15:37:34+0530 > 
+2020-05-16 15:37:34+0530 > ./en<Tab>
+2020-05-16 15:37:36+0530 > <LCtrl>c
+2020-05-16 15:37:47+0530 > <#+2><Up><Up><Up><Up><Up><#+2><Up><#+1><BckSp><#+20>tftp -g -r en<Tab> 192.168.0.7
+2020-05-16 15:38:02+0530 > ./en<BckSp><#+13>chn<BckSp>mod 777 en<Tab>
+2020-05-16 15:38:35+0530 > ./e<Tab>n<Tab>
+2020-05-16 15:38:38+0530 > <LCtrl>c
+2020-05-16 15:39:55+0530 > <LAlt>cd /bi<Tab>
+2020-05-16 17:42:01+0530 > ./hu<BckSp><LCtrl>c
+2020-05-16 17:42:07+0530 > ./en<Tab>
+2020-05-16 17:42:09+0530 > <LCtrl><LCtrl>c
+2020-05-16 17:43:23+0530 > <#+4><Up><#+1>
+2020-05-16 17:43:26+0530 > <#+3><LCtrl><LCtrl>c
+2020-05-16 17:55:52+0530 > 
+
+Logging stopped at 2020-05-16 17:57:24+0530
+
