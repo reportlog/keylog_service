@@ -1,0 +1,28 @@
+Logging started ...
+
+2020-05-27 11:32:14+0530 > <LCtrl>c
+2020-05-27 11:32:37+0530 > cd <LShft><Ins>
+2020-05-27 11:32:48+0530 > ls
+2020-05-27 11:32:49+0530 > cd ..
+2020-05-27 11:32:53+0530 > ls
+2020-05-27 11:32:54+0530 > <Up><Down>cd vs<Tab>
+2020-05-27 11:33:04+0530 > ls
+2020-05-27 11:33:06+0530 > ls
+2020-05-27 11:39:14+0530 > cd fi<Tab>
+2020-05-27 11:39:17+0530 > ls
+2020-05-27 11:39:18+0530 > vim <LShft><Ins>
+2020-05-27 11:39:26+0530 > <Down><#+25><Down><#+27><Down><#+18><Down><#+46><Down><#+16><Down><#+12><Up><#+31><Up><Up><Up><Up><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><#+11><Down><Down><Up><#+38><Up><#+10><Up><#+12><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><#+12><Up><#+10><Up><#+10><Up><#+17><Up><#+15><Up><#+19><Down><#+9><Down><#+43><Down><#+13><Down><#+15><Down><Down><#+14><Down><#+12><Up><Up><Up><Up><Up><Up><Up><Right><#+9><Right><#+13><Right><Right><Right><Right><Down><#+13><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><#+17><Down><#+18><LShft>FTP <LShft>S<LShft>erver<Left><#+10><Left><Left><Left><Left><LShft>How  to define <Right><#+11><Right><Right><Right> path in yocto linux
+2020-05-27 11:51:33+0530 > <LAlt><Tab><LAlt><Tab><LCtrl>c
+2020-05-27 11:52:42+0530 > <LAlt><Tab>/<LShft><Ins>
+2020-05-27 11:52:44+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab>/<LShft>DL<RShft>_<LShft>DIR
+2020-05-27 11:57:09+0530 > <LAlt><Tab><LCtrl>c
+2020-05-27 12:04:04+0530 > <LAlt><Tab>/<LShft><Ins>
+2020-05-27 12:04:07+0530 > <Up><Up><#+9><LAlt><Tab><LCtrl>f<LShft>FTPdownload from<Right><#+14><Right><Del><#+7><Del><Del>
+2020-05-27 12:14:46+0530 > <LCtrl>c
+2020-05-27 12:16:22+0530 > <#+1><LCtrl>v<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>path in yocto linux
+2020-05-27 12:16:45+0530 > <LCtrl>f<LShft>
+2020-05-27 12:17:15+0530 > 
+2020-05-27 12:17:16+0530 > 
+2020-05-27 12:17:18+0530 > 
+2020-05-27 12:17:19+0530 > 
+2020-05-27 12:17:19+0530 > 
