@@ -1,0 +1,102 @@
+Logging started ...
+
+2020-05-28 12:35:10+0530 > ls
+2020-05-28 12:35:10+0530 > cd dt<Tab>
+2020-05-28 12:35:16+0530 > ls
+2020-05-28 12:35:17+0530 > cd ..
+2020-05-28 12:35:21+0530 > cd <#+1>../t<Tab>
+2020-05-28 12:35:38+0530 > ls
+2020-05-28 12:35:39+0530 > how to change <LShft>PMIc <BckSp><BckSp><LShft>C configuration for <LShft>STm32<LShft>MP157
+2020-05-28 12:36:45+0530 >  <LAlt><LAlt><Tab><LAlt><Tab><LCtrl>sstm32mp157<Down>
+2020-05-28 12:40:05+0530 > cd ../u<Tab>
+2020-05-28 12:41:41+0530 > find -name <RShft>"<RShft>"<Left><RShft>*.dts
+2020-05-28 12:41:52+0530 > vim ar<Tab>a<BckSp><#+16>cd ar<Tab>ar<Tab>m/dt<Tab>
+2020-05-28 12:42:13+0530 > ls
+2020-05-28 12:42:15+0530 > vim <LShft><Ins>
+2020-05-28 12:43:15+0530 > <Esc><RShft>:q
+2020-05-28 12:43:18+0530 > vim <LShft><Ins>
+2020-05-28 12:43:58+0530 > /i2c4
+2020-05-28 12:44:04+0530 > /pmic
+2020-05-28 12:44:09+0530 > <Esc><RShft>:w<BckSp>q
+2020-05-28 12:44:12+0530 > vm<BckSp>i <LShft><Ins>
+2020-05-28 12:44:43+0530 > /pmic
+2020-05-28 12:44:49+0530 > /i2c4
+2020-05-28 12:44:52+0530 > <Down><Down><#+11><Down><#+17><Down><#+5><Esc><RShft>:q
+2020-05-28 12:45:29+0530 > <LCtrl>d
+2020-05-28 12:49:25+0530 > cu<BckSp><BckSp>teandev<Tab><Tab><Tab><Tab><BckSp><BckSp><BckSp><BckSp>how to install devtools in yocto linux compilation
+2020-05-28 15:45:09+0530 > <LCtrl>fdevtoolhow to install devtool
+2020-05-28 16:35:39+0530 > devtool commans<BckSp>d t <BckSp><BckSp><Down> linux
+2020-05-28 16:36:15+0530 >  <BckSp>ib<BckSp>nstall <Right><#+11><Right><Right><Del><#+10><Del><Del><Del><Del><Left>s
+2020-05-28 16:37:46+0530 > <LCtrl>c
+2020-05-28 16:44:16+0530 > c
+2020-05-28 16:44:17+0530 > c
+2020-05-28 16:44:17+0530 > <LCtrl><BckSp><#+15><LCtrl><LShft>V
+2020-05-28 16:44:26+0530 > zs10062013
+2020-05-28 16:44:31+0530 > <LAlt><Tab><LAlt><Tab><LAlt><LAlt><LAlt><LAlt><LAlt><Tab><LAlt><Tab><LAlt><Tab>sudo su
+2020-05-28 16:45:03+0530 > <LAlt><Tab><LAlt><Tab><LShft>R
+2020-05-28 16:45:07+0530 > <LAlt><Tab><LCtrl>c
+2020-05-28 16:45:12+0530 > <LAlt><Tab><LShft><Ins>
+2020-05-28 16:45:21+0530 > y
+2020-05-28 16:45:24+0530 > <LCtrl><LShft>V
+2020-05-28 16:46:52+0530 > <LShft>R
+2020-05-28 16:46:55+0530 > <LAlt><Tab><LAlt><Tab><LCtrl><LShft>V
+2020-05-28 16:47:01+0530 > <LAlt><Tab>quit
+2020-05-28 16:53:27+0530 > exit
+2020-05-28 16:53:31+0530 > 
+2020-05-28 16:53:32+0530 > 
+2020-05-28 16:53:32+0530 > <LAlt><Tab><LAlt><Tab>save
+2020-05-28 16:53:52+0530 > <Esc><RShft>:q
+2020-05-28 16:53:59+0530 > cd ../../..\
+2020-05-28 16:54:03+0530 > <LCtrl>c
+2020-05-28 16:54:05+0530 > <Up><BckSp>
+2020-05-28 16:54:07+0530 > cd ../../..
+2020-05-28 16:54:13+0530 > so<Tab>u<Tab>/op<Tab>s<Tab>t/s<Tab><Tab><Tab>m<Tab><Tab>e<Tab>
+2020-05-28 16:54:24+0530 > <#+1>dev<Tab><Tab><Tab>t<Tab><Tab><Tab><AltGr>o<Esc><Esc>o<Tab><Tab><Tab><Tab><Tab><BckSp><#+13>dev<Tab><Tab><Tab><Tab>t<Tab><#+1>o<Tab><Tab><Tab><Tab><BckSp><BckSp><BckSp><BckSp><BckSp>dev<Tab><Tab><Tab><BckSp><#+13>dev<Tab>t<Tab><Tab><Tab><Tab><BckSp><#+11><LCtrl>c
+2020-05-28 17:13:02+0530 > c
+2020-05-28 17:13:02+0530 > <LAlt><Tab><LCtrl><LShft>V
+2020-05-28 17:13:05+0530 > <Up><Left><#+40>sudo 
+2020-05-28 17:13:10+0530 > zs10062013
+2020-05-28 17:13:15+0530 > <Up><Left><#+25><Left><Left><Left><BckSp><BckSp><BckSp>install 
+2020-05-28 17:13:29+0530 > <LAlt><Tab><LAlt><Tab><LAlt><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LCtrl>c
+2020-05-28 17:14:07+0530 > c
+2020-05-28 17:14:07+0530 > c
+2020-05-28 17:14:08+0530 > <LAlt><Tab><LCtrl><LShft>V<Home>sudo 
+2020-05-28 17:14:21+0530 > <LAlt><Tab><LCtrl>c
+2020-05-28 17:14:27+0530 > <LAlt><Tab><LCtrl><LShft>V
+2020-05-28 17:14:29+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab>dev<Tab><Tab><Tab><BckSp><#+13>history
+2020-05-28 17:16:07+0530 > ma
+2020-05-28 17:21:04+0530 > srikanth<LShft>@zumisolutions.com<Tab><LShft>YAhoozumi<LShft>@5raza<LCtrl>c
+2020-05-28 17:40:02+0530 > c
+2020-05-28 17:40:02+0530 > 
+2020-05-28 17:40:06+0530 > 
+2020-05-28 17:40:07+0530 > 
+2020-05-28 17:40:07+0530 > 
+2020-05-28 17:40:07+0530 > <LCtrl><LShft>V
+2020-05-28 17:40:12+0530 > zs10062013
+2020-05-28 17:40:16+0530 > <LCtrl>c
+2020-05-28 17:40:26+0530 > <LAlt><Tab><LCtrl><LShft>V
+2020-05-28 17:40:30+0530 > dev<Tab><Tab><Tab><Tab>t<Tab><Tab><BckSp><#+12><LAlt><Tab><LAlt><Tab><LAlt><Tab><Tab><LAlt><Tab><Tab><LShft>STM32<LShft>MP<BckSp><BckSp><BckSp><BckSp> forum<BckSp><BckSp><BckSp><BckSp><BckSp>community
+2020-05-28 17:44:58+0530 > srikanthmedisetty<LShft>@yahoo.com<Tab><LShft>YAhoozumi<LShft>@5<LShft>Devtoo<BckSp>ol<BckSp><#+15>devtool
+2020-05-28 17:47:37+0530 > 
+2020-05-28 17:53:52+0530 > 
+2020-05-28 17:53:53+0530 > 
+2020-05-28 17:53:53+0530 > cd so<Tab>me<Tab>op<Tab><BckSp><#+14><BckSp>s<Tab>-op<Tab><Tab><Tab>rec<Tab>st<Tab><Tab><Tab>im<Tab>
+2020-05-28 17:54:13+0530 > vim st<Tab>-c<Tab>
+2020-05-28 17:54:18+0530 > /devtools
+2020-05-28 17:54:23+0530 > <PgDn><Up><#+10><Down><#+23><Esc><RShft>:q
+2020-05-28 17:54:36+0530 > cd ../../../..
+2020-05-28 17:54:42+0530 > <LCtrl>rsor<BckSp>ur
+2020-05-28 17:55:18+0530 > <LCtrl>c
+2020-05-28 17:55:28+0530 > <LAlt><Tab><LCtrl><LShft>V
+2020-05-28 17:55:31+0530 > <LCtrl><LShft>Tcd ../../../..
+2020-05-28 17:55:41+0530 > cd ..
+2020-05-28 17:55:44+0530 > <LCtrl><LShft>V
+2020-05-28 17:55:45+0530 > dev<Tab><Tab><Tab><BckSp><#+15><LAlt><Tab><LCtrl>c
+2020-05-28 18:06:10+0530 > <LAlt><Tab><LCtrl><LShft>V<LShft><Ins> <LAlt><Tab><LCtrl>c
+2020-05-28 18:06:23+0530 > <LAlt><Tab><LCtrl><LShft>V<Left><#+23><Right><BckSp><BckSp><Tab><Tab>b3
+2020-05-28 18:06:34+0530 > <Up><Home>sudo 
+2020-05-28 18:06:39+0530 > zs10062013
+2020-05-28 18:06:44+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab>
+
+Logging stopped at 2020-05-28 18:18:09+0530
+
