@@ -1,0 +1,110 @@
+Logging started ...
+
+2020-06-19 16:39:07+0530 > <Esc><RShft>:q
+2020-06-19 16:39:44+0530 > <Up><Up><Up><Up><Up><Down><Down><Down><Down><Down>cd me<Tab>st<Tab>-op<Tab><Tab><Tab>reci<Tab>st<Tab>im<Tab>
+2020-06-19 16:40:17+0530 > vim sy<BckSp>t<Tab>-c<Tab>q<BckSp>
+2020-06-19 16:40:23+0530 > <PgDn><PgDn><PgUp><Down><Up><Up><Esc>dd<Esc><RShft>:wq
+2020-06-19 16:40:34+0530 > 
+2020-06-19 16:40:34+0530 > 
+2020-06-19 16:40:34+0530 > 
+2020-06-19 16:40:34+0530 > 
+2020-06-19 16:40:34+0530 > cd ../../../../
+2020-06-19 16:40:38+0530 > ls
+2020-06-19 16:40:39+0530 > cd <BckSp><BckSp><BckSp><BckSp><LAlt><Tab><LAlt><Tab><LCtrl>c
+2020-06-19 16:42:08+0530 > c
+2020-06-19 16:42:08+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><Tab><LCtrl><LShft>V
+2020-06-19 16:42:12+0530 > <LAlt><Tab><LCtrl>c
+2020-06-19 16:42:16+0530 > <LAlt><Tab><LCtrl><LShft>V
+2020-06-19 16:42:18+0530 > cd wo<Tab>so<Tab><Tab><Tab>li<Tab>
+2020-06-19 16:57:50+0530 > git status
+2020-06-19 16:57:54+0530 > git checkout <LShft><Ins>
+2020-06-19 16:59:03+0530 > git <BckSp><BckSp><BckSp><BckSp><Up><BckSp><#+40><BckSp><#+13><BckSp><LShft><Ins>
+2020-06-19 16:59:15+0530 > <Up><BckSp><#+44><BckSp><LShft><Ins>
+2020-06-19 17:01:50+0530 > cd ../../../../..
+2020-06-19 17:02:03+0530 > cd y<Tab>
+2020-06-19 17:02:05+0530 > <Up><Up><Up><Down><Down><Down><Down>cd bu<Tab>
+2020-06-19 17:02:09+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down>
+2020-06-19 17:02:14+0530 > ls
+2020-06-19 17:12:58+0530 > cd ..
+2020-06-19 17:13:09+0530 > 
+2020-06-19 17:13:09+0530 > cd so<Tab><Tab><Tab><BckSp><#+20>cd ..
+2020-06-19 17:13:32+0530 > ls
+2020-06-19 17:13:33+0530 > cd yo<Tab><Tab><Tab>d<Tab><Tab><Tab><Tab><BckSp><#+10><BckSp><#+11><BckSp><BckSp><Tab><Tab>b<Tab><Tab><Tab>w<Tab><Tab><Tab><Tab><BckSp><#+17><BckSp><Tab><Tab>s<Tab><Tab><Tab>p<Tab><Tab><Tab>b<Tab><Tab>u<Tab><Tab><Tab>t<Tab><Tab><Tab>
+2020-06-19 17:14:16+0530 > ls
+2020-06-19 17:14:18+0530 > cd ..
+2020-06-19 17:14:22+0530 > 
+2020-06-19 17:14:22+0530 > 
+2020-06-19 17:14:22+0530 > 
+2020-06-19 17:14:23+0530 > 
+2020-06-19 17:14:23+0530 > 
+2020-06-19 17:14:23+0530 > cd ..
+2020-06-19 17:14:25+0530 > 
+2020-06-19 17:14:25+0530 > 
+2020-06-19 17:14:25+0530 > 
+2020-06-19 17:14:25+0530 > 
+2020-06-19 17:14:25+0530 > ls
+2020-06-19 17:14:26+0530 > cd ..
+2020-06-19 17:14:30+0530 > 
+2020-06-19 17:14:30+0530 > 
+2020-06-19 17:14:30+0530 > 
+2020-06-19 17:14:30+0530 > cd <Tab><Tab>ba<Tab><Tab><Tab><BckSp><#+6><BckSp><BckSp><BckSp>me<Tab>s<Tab>m<Tab><Tab><Tab>c<Tab><Tab><Tab><Tab><Tab><BckSp><#+16><Tab>re<Tab><Tab><Tab>k<Tab><Tab><Tab><Tab><Tab><Tab><Tab>
+2020-06-19 17:15:00+0530 > ls
+2020-06-19 17:15:01+0530 > cd ...<BckSp>/..
+2020-06-19 17:15:06+0530 > 
+2020-06-19 17:15:06+0530 > 
+2020-06-19 17:15:07+0530 > 
+2020-06-19 17:15:07+0530 > 
+2020-06-19 17:15:07+0530 > cd ..
+2020-06-19 17:15:08+0530 > 
+2020-06-19 17:15:08+0530 > 
+2020-06-19 17:15:09+0530 > ls
+2020-06-19 17:15:37+0530 > cd me<Tab><Tab><Tab>s<Tab><Tab><Tab>-s<Tab><Tab><Tab><BckSp><#+1><BckSp><#+13><BckSp><BckSp><BckSp><BckSp><Tab><Tab>me<Tab><Tab><Tab>op<Tab><Tab><Tab><BckSp><#+31>cd
+2020-06-19 17:16:10+0530 > 
+2020-06-19 17:16:11+0530 > cd <CpsLk>D<CpsLk>o<Tab><BckSp>ow<Tab><CpsLk>L<CpsLk>o<Tab><Tab><Tab>/<Tab><Tab><Tab><CpsLk>Y<CpsLk><Tab><Tab><BckSp><CpsLk>Y<Tab><Tab><Tab><BckSp><CpsLk>y<Tab><BckSp><#+1><Tab><Tab><Tab>y<Tab><Tab><Tab>so<Tab><Tab><Tab>me<Tab><Tab>s<Tab>-s<Tab><Tab><Tab>f<Tab><Tab><Tab>f<Tab><Tab><Tab><Tab><Tab><BckSp><#+21><Tab><Tab><Tab>ree<Tab><BckSp><Tab><Tab><Tab><Tab>s<Tab>t<Tab><Tab><Tab><Tab><Tab><Tab><Tab>
+2020-06-19 17:25:16+0530 > ls
+2020-06-19 17:25:18+0530 > cd ../..
+2020-06-19 17:25:25+0530 > 
+2020-06-19 17:25:26+0530 > 
+2020-06-19 17:25:26+0530 > 
+2020-06-19 17:25:26+0530 > 
+2020-06-19 17:25:26+0530 > cd ..
+2020-06-19 17:25:28+0530 > 
+2020-06-19 17:25:28+0530 > 
+2020-06-19 17:25:28+0530 > 
+2020-06-19 17:25:28+0530 > cd t<Tab><Tab><BckSp><BckSp><Tab><Tab> <Tab><Tab>ba<Tab><Tab><Tab><BckSp><BckSp><BckSp><BckSp><BckSp>me<Tab><Tab>q<Tab><Tab><Tab><BckSp><#+8><BckSp><#+9><BckSp><Tab><Tab>me<Tab><Tab>op<Tab><Tab><Tab><BckSp><#+18><BckSp><Tab><Tab>me<Tab>s<Tab><BckSp><Tab>m<Tab><Tab><Tab>re<Tab><Tab><Tab>ke<Tab><Tab><Tab><Tab><Tab><Tab><Tab>
+2020-06-19 17:26:22+0530 > ls
+2020-06-19 17:26:23+0530 > cd ../..
+2020-06-19 17:26:26+0530 > 
+2020-06-19 17:26:26+0530 > 
+2020-06-19 17:26:26+0530 > 
+2020-06-19 17:26:26+0530 > cd ..
+2020-06-19 17:26:28+0530 > 
+2020-06-19 17:26:28+0530 > 
+2020-06-19 17:26:28+0530 > 
+2020-06-19 17:26:28+0530 > cd <Tab><Tab>po<Tab><Tab><Tab>bi<Tab><Tab><Tab>l<Tab><Tab><Tab><BckSp><#+9><Tab><Tab><Tab>b<Tab><Tab><Tab><Tab><BckSp><#+8><BckSp><Tab><Tab><Tab><BckSp><#+11><BckSp><Tab><Tab>m<Tab><Tab><Tab>/<Tab><Tab><BckSp><BckSp><#+18><LAlt><Tab><LAlt><Tab>find -name <RShft>""<Left><CpsLk><Ins><LShft><Ins>
+2020-06-19 17:27:30+0530 > <Up><Left><#+12><Left><Left> 
+2020-06-19 17:27:37+0530 > <Up><Left><#+11><Left><Left><Left><BckSp><Right><#+11><Right><Right><Right><BckSp><BckSp><BckSp><BckSp><LAlt><Tab><LAlt><Tab>F<CpsLk><BckSp>flashlayou
+2020-06-19 17:27:54+0530 > <Up><Left>t
+2020-06-19 17:27:56+0530 > <Up><Left><BckSp><#+11><BckSp><BckSp><BckSp><BckSp>st
+2020-06-19 17:28:01+0530 > cd ..
+2020-06-19 17:28:03+0530 > 
+2020-06-19 17:28:04+0530 > 
+2020-06-19 17:28:04+0530 > 
+2020-06-19 17:28:04+0530 > <LAlt><Tab><LAlt><Tab><Up><Up><Left><#+10><Right><BckSp><BckSp><BckSp> name
+2020-06-19 17:28:38+0530 > <Up><Left><#+10><Left><Left><Left><BckSp><Right><BckSp><Right><#+13><Left><LAlt><Tab><LAlt><Tab><BckSp><BckSp><LShft><Ins>
+2020-06-19 17:29:08+0530 > <LCtrl>c
+2020-06-19 17:29:39+0530 > cd bu<Tab><Tab><Tab>t<Tab><Tab><Tab>de<Tab><Tab><Tab>im<Tab><Tab><Tab><Tab><Tab>f<Tab><Tab><BckSp><BckSp><#+22><BckSp><BckSp><BckSp>
+2020-06-19 17:30:03+0530 > ls
+2020-06-19 17:30:05+0530 > ls -l <LShft><Ins>
+2020-06-19 17:30:23+0530 > cd sc<Tab>
+2020-06-19 17:32:37+0530 > <LCtrl>c
+2020-06-19 17:32:43+0530 > <LAlt><Tab><LCtrl><LShft>V
+2020-06-19 17:32:45+0530 > y
+2020-06-19 17:32:47+0530 > cd ..
+2020-06-19 17:33:15+0530 > ls -l <LShft><Ins>
+2020-06-19 17:33:17+0530 > ls -l <LShft><LShft><Ins>
+2020-06-19 17:33:33+0530 > ls -l <LShft><Ins>
+2020-06-19 17:33:53+0530 > 
+
+Logging stopped at 2020-06-19 17:34:55+0530
+
