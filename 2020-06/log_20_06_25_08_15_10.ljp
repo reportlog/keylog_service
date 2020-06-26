@@ -1,0 +1,40 @@
+Logging started ...
+
+2020-06-25 20:15:10+0530 > m<BckSp><BckSp>wo<Tab>s<Tab>li<Tab><Tab><Tab>
+2020-06-25 20:15:18+0530 > ls
+2020-06-25 20:15:20+0530 > <LAlt><Tab><LAlt><Tab><Tab>pwd
+2020-06-25 20:16:58+0530 > <LCtrl><LShft>c
+2020-06-25 20:17:02+0530 > <LAlt><Tab><LAlt><Tab><Tab><LShft>Kernel path
+2020-06-25 20:17:12+0530 > <LCtrl>v
+2020-06-25 20:17:14+0530 > <LAlt><Tab><LAlt><Tab><Tab>cd ../../../..
+2020-06-25 20:17:32+0530 > c<BckSp>pwd
+2020-06-25 20:17:35+0530 > <LCtrl><LShft>c
+2020-06-25 20:17:39+0530 > <LAlt><Tab><LAlt><Tab><Tab>
+2020-06-25 20:17:44+0530 > <Up><LShft>Inia<BckSp><BckSp>itial <LShft>Setup
+2020-06-25 20:17:55+0530 > <LCtrl>v<LCtrl>s<LAlt><Tab><LAlt><LAlt><LAlt><LAlt><Tab><LAlt><Tab><LAlt><Tab><Tab>cd -
+2020-06-25 20:18:18+0530 > cd ar<Tab>ar<Tab><BckSp>rm<Tab>/bo<Tab>dt<Tab>
+2020-06-25 20:18:26+0530 > cd ..
+2020-06-25 20:18:27+0530 > ls
+2020-06-25 20:18:28+0530 > cd <BckSp><BckSp><BckSp><LCtrl><LShft>Tcd ../../../..
+2020-06-25 20:18:39+0530 > cd ../../tm<Tab>de<Tab>im<Tab>s<Tab>
+2020-06-25 20:18:47+0530 > ls
+2020-06-25 20:18:48+0530 > pwd
+2020-06-25 20:18:55+0530 > <LCtrl>c
+2020-06-25 20:18:58+0530 > c
+2020-06-25 20:18:58+0530 > <LCtrl><LShft>c
+2020-06-25 20:19:00+0530 > <LAlt><Tab><Tab>
+2020-06-25 20:19:04+0530 > 
+2020-06-25 20:19:04+0530 > <LShft>Image locatio<BckSp><BckSp><BckSp><#+10><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><Down><Down>
+2020-06-25 20:19:15+0530 > <LShft>Image path
+2020-06-25 20:19:19+0530 > <LCtrl>v<LAlt><Tab><LAlt><Tab><LAlt><Tab>cd <BckSp><#+12><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LCtrl>s<LAlt><Tab><LCtrl>c
+2020-06-25 20:21:06+0530 > c
+2020-06-25 20:21:06+0530 > c
+2020-06-25 20:21:06+0530 > <LCtrl>v<LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LCtrl><LCtrl><LAlt><Tab><Tab><LCtrl><LShft>Tcd 
+2020-06-25 20:21:49+0530 > sou<Tab>/op<Tab><Tab>s<Tab><Tab>t/<Tab><Tab><Tab>m<Tab><Tab>e<Tab><Home><LShft>#
+2020-06-25 20:22:02+0530 > <LCtrl><LShft>c
+2020-06-25 20:22:08+0530 > c
+2020-06-25 20:22:08+0530 > <LAlt><Tab>
+2020-06-25 20:23:02+0530 >  <#+10><BckSp><BckSp><LCtrl>v<LShft>/<LShft>*<End><LShft>*/<LCtrl>sss
+
+Logging stopped at 2020-06-25 20:24:04+0530
+
