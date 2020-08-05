@@ -1,0 +1,24 @@
+Logging started ...
+
+2020-08-03 11:54:12+0530 > <LAlt><Tab><LAlt><Tab><F2><LCtrl>c
+2020-08-03 11:57:58+0530 > c
+2020-08-03 11:57:58+0530 > <LCtrl>v
+2020-08-03 11:58:17+0530 > <LCtrl>x<LCtrl>v
+2020-08-03 11:58:28+0530 > <LShft>STM32<LShft>MP157 <LShft>Cross compiler installatyi<BckSp><BckSp>ion
+2020-08-03 11:59:14+0530 > <LAlt><Tab><LAlt><LCtrl>c
+2020-08-03 12:00:40+0530 > c
+2020-08-03 12:00:40+0530 > <LAlt><Tab><LAlt><Tab><Tab><LCtrl>v
+2020-08-03 12:00:45+0530 > <LAlt><Tab><LAlt><Tab><Tab><LAlt><Tab><LCtrl><RShft><Del>
+2020-08-03 12:02:01+0530 > <F2><LCtrl>c
+2020-08-03 12:03:14+0530 > srikanthmedisetty<LShft>@yahoozumi<BckSp><#+11><BckSp><BckSp>yahoo.com<Tab><LShft>YAhoozumi<LShft>@5<LAlt><Tab><LAlt><Tab><LAlt><Tab>sou/opt/st/<LCtrl>c
+2020-08-03 12:11:02+0530 > <LCtrl>v
+2020-08-03 12:11:07+0530 > <LCtrl>c
+2020-08-03 12:11:47+0530 > <LAlt><Tab><LCtrl><LShft>V
+2020-08-03 12:11:50+0530 > <LAlt><Tab><LAlt><Tab><LShft>STM32<LAlt><Tab><LAlt><Tab><RShft>_<Tab><Tab><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LCtrl>fv<BckSp><#+29><BckSp><#+54><LAlt><Tab><LCtrl>c
+2020-08-03 12:14:01+0530 > <LAlt><Tab><LCtrl>fv<BckSp><#+78><LCtrl>c
+2020-08-03 12:16:37+0530 > c
+2020-08-03 12:16:37+0530 > c
+2020-08-03 12:16:38+0530 > <LCtrl>v1.txt
+
+Logging stopped at 2020-08-03 20:45:32+0530
+
