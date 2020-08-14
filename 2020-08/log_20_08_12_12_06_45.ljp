@@ -1,0 +1,111 @@
+Logging started ...
+
+2020-08-12 12:06:45+0530 > cd <LShft><Ins>
+2020-08-12 12:06:56+0530 > ls
+2020-08-12 12:06:58+0530 > cd ../
+2020-08-12 12:07:06+0530 > vim blu<Tab><RShft>_<Tab>
+2020-08-12 12:07:18+0530 > /mesh
+2020-08-12 12:07:24+0530 > <Esc><RShft>:q
+2020-08-12 12:07:36+0530 > cd ../../../../
+2020-08-12 12:07:47+0530 > cd <BckSp><BckSp><#+10>vim <LShft><Ins>
+2020-08-12 12:07:52+0530 > <Esc><RShft>:q
+2020-08-12 12:07:57+0530 > vim <LShft><Ins>
+2020-08-12 12:08:09+0530 > /mesh
+2020-08-12 12:08:14+0530 > <Down><#+13><Esc><RShft>:q
+2020-08-12 12:08:29+0530 > <Up>
+2020-08-12 12:08:31+0530 > <Down><#+10><PgDn><Up><#+17><Up><#+12><Up><#+15><Up><#+10><Down><#+38><Down><#+21><Down><Down><#+13><Down><#+16><Down><#+24><Down><#+47>mkk<KP2><KP9><KP0><KP1>
+2020-08-12 12:11:19+0530 > <Esc><RShft>:q
+2020-08-12 12:13:19+0530 > cd <LShft><Ins>
+2020-08-12 12:13:58+0530 > ls
+2020-08-12 12:14:00+0530 > cd bl<Tab>
+2020-08-12 12:14:04+0530 > ls
+2020-08-12 12:14:05+0530 > cd ../
+2020-08-12 12:14:11+0530 > ls
+2020-08-12 12:14:13+0530 > v<BckSp>cd <BckSp><#+12>vim bl<Tab><RShft>_<Tab>
+2020-08-12 12:14:24+0530 > <Esc><RShft>:q
+2020-08-12 12:14:27+0530 > cd ../../../
+2020-08-12 12:14:38+0530 > cd ../bu<Tab>tm<Tab>wo<Tab>/<Tab><Tab>co<Tab><Tab><Tab><BckSp>blue<Tab><Tab><Tab><BckSp><#+8><BckSp><#+87>cd ..
+2020-08-12 12:15:43+0530 > <LAlt><Tab><LAlt><Tab><Tab>so<Tab>u<Tab>/op<Tab>d<BckSp>st<Tab><Tab><Tab><Tab>m<Tab><Tab><Tab>e<Tab>
+2020-08-12 12:19:38+0530 > <LAlt><Tab><LAlt><Tab><Tab><LCtrl>c
+2020-08-12 12:19:46+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><Tab><LCtrl><LShft>V
+2020-08-12 12:19:50+0530 > <LCtrl><LShft>T<LCtrl><LShft>V
+2020-08-12 12:19:59+0530 > <LAlt><Tab><Tab><LCtrl>c
+2020-08-12 12:20:12+0530 > <LAlt><Tab><LCtrl><LAlt><Tab><Tab><LCtrl><LShft>V<RCtrl><Left><Left><Left><Left><Right><BckSp><#+12>bluez5
+2020-08-12 12:20:25+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><Tab><LCtrl>c
+2020-08-12 12:20:35+0530 > <LAlt><Tab><LCtrl><LShft>V<Left><#+14><Right><Right><#+10><BckSp><#+9><BckSp><BckSp><BckSp><BckSp><BckSp> bluez5
+2020-08-12 12:21:23+0530 > cd tm<Tab>wo<Tab>/co<Tab>blue<Tab><Tab>blu<Tab><Tab>
+2020-08-12 12:22:20+0530 > ls
+2020-08-12 12:22:21+0530 > cd cli<Tab>
+2020-08-12 12:22:39+0530 > k<BckSp>ls
+2020-08-12 12:22:43+0530 > cd ../..
+2020-08-12 12:22:45+0530 > ls
+2020-08-12 12:22:46+0530 > cd bu<Tab>
+2020-08-12 12:22:49+0530 > ls
+2020-08-12 12:22:49+0530 > cd se<Tab><BckSp><BckSp><BckSp><#+17>cd sr<Tab>
+2020-08-12 12:23:01+0530 > ls
+2020-08-12 12:23:01+0530 > cd ../li<Tab>
+2020-08-12 12:23:05+0530 > <BckSp>ks
+2020-08-12 12:23:07+0530 > <BckSp><LCtrl>xls
+2020-08-12 12:23:09+0530 > ls
+2020-08-12 12:23:11+0530 > cd ../..
+2020-08-12 12:23:14+0530 > ls
+2020-08-12 12:23:15+0530 > cd <BckSp><#+13>fi<Ins><BckSp><BckSp><BckSp><BckSp><BckSp>cd ..
+2020-08-12 12:24:04+0530 > ls
+2020-08-12 12:24:05+0530 > cd <Tab>
+2020-08-12 12:24:10+0530 > ls
+2020-08-12 12:24:11+0530 > find -name <RShft>""<Left>bluetoothctl
+2020-08-12 12:24:24+0530 > <LAlt><Tab><LCtrl>c
+2020-08-12 12:24:31+0530 > <LAlt><Tab><LCtrl><LShft>V<Left><Left><Left><BckSp><#+11><BckSp>bluez5
+2020-08-12 12:24:39+0530 > ls
+2020-08-12 12:31:51+0530 > cd <BckSp><#+14><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down><#+25><Up><Up><Up><Up><Up><Down><Down><Down><Left><Left><Left><#+11><BckSp><BckSp><BckSp><BckSp><BckSp>configure
+2020-08-12 12:32:19+0530 > <Up><Up><Up><Left><Left><#+12><Right><Down><Down><Down><Down>ls
+2020-08-12 14:12:03+0530 > cd bl<Tab>
+2020-08-12 14:12:12+0530 > ;s<BckSp><BckSp>ls
+2020-08-12 14:12:15+0530 > ./co<Tab>nd<BckSp>f<Tab>u<Tab>--enable-mesh --enable-testinf<BckSp>g -- <BckSp>enable-tools --prefix=/usr<BckSp><#+2><BckSp><#+65>cd me<Tab>
+2020-08-12 14:13:38+0530 > ls
+2020-08-12 14:13:39+0530 > cd ../../..
+2020-08-12 14:14:23+0530 > ls
+2020-08-12 14:14:25+0530 > cd <Tab>
+2020-08-12 14:14:27+0530 > ls
+2020-08-12 14:14:27+0530 > find -name <RShft>""<Left>meshctl
+2020-08-12 14:14:37+0530 > <Up><Left><#+11><Left><Left><Right><BckSp><#+10><BckSp><BckSp><BckSp>grep -r<LShft>H <RShft>
+2020-08-12 14:14:48+0530 > cd ../../../../..
+2020-08-12 14:18:21+0530 > cd ../so<Tab>
+2020-08-12 14:18:40+0530 > find -name <RShft>""<Left>bluez5<RShft>_<LShft>%.bbappend
+2020-08-12 14:19:02+0530 > vim <LShft><Ins>
+2020-08-12 14:19:10+0530 > <Down><Down><Down>i
+2020-08-12 14:19:18+0530 > <LShft>PACKAGE<LShft>CONFIG<RShft>_append = <RShft>" mesh <RShft>"<Left><#+1><BckSp><Esc><RShft>:wq
+2020-08-12 14:20:08+0530 > cd ..
+2020-08-12 14:20:13+0530 > cd bu<Tab>
+2020-08-12 14:20:16+0530 > <LAlt><Tab><LCtrl>c
+2020-08-12 14:20:27+0530 > <LAlt><Tab><LCtrl><LShft>V
+2020-08-12 14:20:29+0530 > 
+2020-08-12 14:32:19+0530 > <LAlt><Tab>
+2020-08-12 14:33:02+0530 > 
+2020-08-12 14:33:03+0530 > 
+2020-08-12 14:33:03+0530 > <LCtrl><LShft>Tcd ..
+2020-08-12 14:33:09+0530 > <LCtrl>c
+2020-08-12 14:33:16+0530 > c
+2020-08-12 14:33:17+0530 > <LAlt><Tab><LCtrl><LShft>V
+2020-08-12 14:33:19+0530 > <LAlt><Tab><LCtrl>c
+2020-08-12 14:33:25+0530 > <LAlt><Tab><LCtrl><LShft>V
+2020-08-12 14:33:27+0530 > <LAlt><Tab>cd ../so<Tab>me<Tab>st<Tab>-op<Tab>re<Tab>co<Tab>nn<Tab>bl<Tab>
+2020-08-12 14:43:43+0530 > vim bk<BckSp>lu<Tab><RShft>_<Tab>
+2020-08-12 14:43:52+0530 > <Down><Down><Down><Down>i<LShft>#<BckSp>//<BckSp><BckSp><Esc><LCtrl><LShft>c
+2020-08-12 14:44:17+0530 > c
+2020-08-12 14:44:17+0530 > c
+2020-08-12 14:44:17+0530 > <LCtrl>v<LAlt><Tab><Home><Esc>dd<Esc><RShft>:wq
+2020-08-12 14:44:29+0530 > cd -
+2020-08-12 14:44:30+0530 > <Up><Up><Up><Up>
+2020-08-12 14:44:34+0530 > 
+2020-08-12 16:44:21+0530 > 
+2020-08-12 16:44:21+0530 > 
+2020-08-12 16:44:22+0530 > cd tm<Tab>dep<Tab>im<Tab>st<Tab>
+2020-08-12 16:44:28+0530 > ls
+2020-08-12 16:44:29+0530 > ls -l u<Tab>-bo<Tab>.s<Tab>
+2020-08-12 16:44:41+0530 > c<BckSp><BckSp>sudo cp u-<Tab>.<Tab>s<Tab>/me<Tab><Tab><Tab><Tab>ro<Tab>
+2020-08-12 16:44:57+0530 > zs10062013
+2020-08-12 16:45:02+0530 > 
+
+Logging stopped at 2020-08-12 21:04:47+0530
+
