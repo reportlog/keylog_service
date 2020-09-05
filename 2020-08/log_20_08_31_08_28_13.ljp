@@ -1,0 +1,619 @@
+Logging started ...
+
+2020-08-31 20:28:13+0530 > <LCtrl><LShft><LCtrl><Esc><LShft>:q<LShft>!
+2020-09-02 14:58:54+0530 > <RCtrl><PgUp><Up>
+2020-09-02 14:58:58+0530 > /<LShft>PB
+2020-09-02 14:59:00+0530 > /<LShft>B'<Left><Left>'
+2020-09-02 14:59:09+0530 > <PgDn><PgDn><PgDn><Esc><LShft>:q<LShft>!
+2020-09-02 14:59:12+0530 > <Up><BckSp><#+11><BckSp>c-pi<Tab><#+4><Tab><BckSp><BckSp><BckSp><BckSp><BckSp><Tab><Tab><Tab>-p<Tab><#+3>.d<Tab>
+2020-09-02 14:59:28+0530 > /13
+2020-09-02 14:59:31+0530 > nn/'<LShft>B',13
+2020-09-02 14:59:40+0530 > /<Up><BckSp>2
+2020-09-02 14:59:43+0530 > /<Up><BckSp>3
+2020-09-02 14:59:49+0530 > ./<Up><BckSp><BckSp>10
+2020-09-02 14:59:53+0530 > /<Up><BckSp>1
+2020-09-02 14:59:55+0530 > /<Up><BckSp><BckSp> 12
+2020-09-02 15:00:02+0530 > <#+1>nn/uart5
+2020-09-02 15:00:31+0530 > /<LShft>UART
+2020-09-02 15:00:34+0530 > /<Up>5
+2020-09-02 15:00:38+0530 > <Down><#+29><Down><#+18><Down><#+11><Up><#+13><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down><Down><Down><Up><Up><Up><Up><Up><Up><Up><Up><#+6>/uart1
+2020-09-02 15:00:56+0530 > /<Up><BckSp>2
+2020-09-02 15:00:58+0530 > ./<Up><BckSp>3
+2020-09-02 15:01:01+0530 > /<Up><BckSp>4
+2020-09-02 15:01:03+0530 > <Down><#+9><Down><Down><Down><Down><Down><Down><Down><Down><#+14><Up><#+13><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down><#+13><Up><Up><Up><Up>/<Up><Up><Up><Up><Up><Up><Up><Up><Up><Down>
+2020-09-02 15:01:44+0530 > nnnnnnnnn<Up><#+13>/<Up>
+2020-09-02 15:04:41+0530 > <#+2><Up><#+6><Down><Down>/<Up><BckSp>3
+2020-09-02 15:04:46+0530 > <Up><#+47><Up><#+14><Up><Up><Up><Up><Down><#+32><Up><#+18><Esc><LShft>:q<LShft>!
+2020-09-02 15:05:02+0530 > 
+2020-09-02 15:05:02+0530 > 
+2020-09-02 15:05:02+0530 > grep -rns <LShft>:<BckSp><LShft>"usart3<LShft>"
+2020-09-02 15:05:09+0530 > <Up> stm32,p<Tab><#+4><BckSp><BckSp>mp<Tab><#+5><LShft>*
+2020-09-02 15:05:16+0530 > <Up><Up><Up>
+2020-09-02 15:05:30+0530 > /uart3<BckSp>4
+2020-09-02 15:05:35+0530 > /<Up><Up><Up><Down>
+2020-09-02 15:05:38+0530 > <Up><Up><#+11><Up><Left><#+22><Left><Left><#+1><Down><#+9><Right><#+6><Up><Down><#+10><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down><Up><Left><#+15><Left><Left><Left><Left><Right><Down><Up><Down><Right><Down><Right><Up><Up><Left><#+13><Left><Left><Left><Left><Left><Left><Left>i<Up><Down>
+2020-09-02 15:06:14+0530 > <Up><Down><Tab><Tab><Tab><Up><LShft>/<LShft>* us<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><Esc><Down><Up><Right><#+15><Down><Right><#+11><Down><Down><Down><Down><Down><Down><Down><Down><Down><Up><#+12><Down><Right><#+6><Right><Up><Left><#+9>i/<LShft>*<Down><Down><Up><Up><BckSp><BckSp><Down><Down><Down><Down><Up><Up><Up><Up><Up><Left><#+12><Right><Right><Left>/<BckSp><Esc><Right>i/<LShft>*<Down><Down><Right><Right><Down>/<LShft>*<Down><Down><Left><Up><Left>/<LShft>*<Down><Down><Down><Down><Down><Down>/<LShft>*<Down><Left><Left><Left><Right>/<LShft>*<Down><#+10><Up><Down>/<LShft>*<Down>/<LShft>*<Down><Down><Left><#+9><Up><Left><Left>/<LShft>*<Down><Down><Down>/<LShft>*<Down><Down><Down><#+13><Up><Up><Up><Up><Up>/<LShft>*<Down>/<LShft>*<Down>/<LShft>*<Down><Left><Left>/<LShft>*<Down><#+13><Up><Up><Up><Up><Up><Up><Up><Up><Up><LShft>*/<Esc><LShft>:w<LShft>!
+2020-09-02 15:07:45+0530 > /uart3
+2020-09-02 15:07:48+0530 > /uart4
+2020-09-02 15:07:51+0530 > <Down><#+22><Down><Down><Down><#+10><Up><#+23><Up><Up><Up><Up><Up><Down><#+17><Down><Down><Down><Down><Down><Esc><Up><#+19><Up><Up><Up><Esc>21yy<Right><Down><Down><Down><Up><#+11><Down><Up><#+8><Down><#+20><Up><Up><Up><Up><#+5><Up><#+2><Down><Down><Down><Up><Up><#+25><Up><Up><Esc>28yy<Down><#+26><Down><Esc>p<Down><#+1><Up><Up>i<Right><Right>
+2020-09-02 15:08:48+0530 > <Down><Right><#+17><Left><#+10><Left><Left><BckSp>5<Right><#+14><Right><Right><BckSp>5<Down><#+15><Up><#+13><Up><Down><Right><#+24><Right><#+10><Right><Right><#+1><Left><#+10><Left><Left><Left><Left><BckSp><LShft>B<Right><Right><Right><Right><Right><BckSp>3<Right><Right><Right><Right><Right><BckSp>12<Right><#+15><Left><Right><BckSp>5<Down><#+11><Up><Left><#+23><Right><Right><Right><Right><Right><BckSp>12<Right><Right><Right><Right><Right><BckSp>12<Right><#+14><BckSp>5<Down><#+11><Down><#+19><Up><#+18><Up><Up><Left><#+28><Right><Right><BckSp>5<Right><#+20><BckSp>5<Down><Down><Right><#+17><Right><BckSp><LShft>B<Down><Down><Right><Right><Down><Right><Left><BckSp><LShft>N<BckSp>B<Up><Up><Up><Right><#+8><Right><BckSp>3<Down><Down><Down><Left><Left><Left><Right>1<Down><Down><#+11><Up><#+7><Left><#+11><Left><Left><#+18><Right><#+19><Right><Right><Del><LShft>B<Right><#+9><Left><Del>3<Down><Left><Left>1<Esc><LShft>:w<LShft>!
+2020-09-02 15:10:17+0530 > <Up><Up><Up><Up><Left><Down><Left><#+9><Left><Left><Left>i<BckSp>5<Left><#+19><Left><BckSp>5<Esc><LShft>:wq<LShft>!<Esc><LShft>:wq<LShft>!
+2020-09-02 15:10:38+0530 > 
+2020-09-02 15:10:38+0530 > 
+2020-09-02 15:10:38+0530 > 
+2020-09-02 15:10:38+0530 > 
+2020-09-02 15:10:43+0530 > 
+2020-09-02 15:10:43+0530 > pwq<BckSp>d
+2020-09-02 15:10:45+0530 > 
+2020-09-02 15:10:46+0530 > 
+2020-09-02 15:10:47+0530 > 
+2020-09-02 15:10:47+0530 > vim st<BckSp><#+14>grep -rns <LShft>"uart4<LShft>" stm32<Tab><#+3>m<Tab><#+4><LShft>*
+2020-09-02 15:10:58+0530 > vim <RShft><Ins>
+2020-09-02 15:11:12+0530 > /uart4
+2020-09-02 15:11:14+0530 > <Down><Up><Down><Down><Esc><#+1><Up><Left><#+14>i//<Down><Esc>1yyp<Right><#+10><Left><Right><Up>i<BckSp>1<Down><BckSp>2<Right><#+12><Right><BckSp>5<Esc><LShft>:w<LShft>!
+2020-09-02 15:11:39+0530 > <Esc><LShft>:wq<LShft>!
+2020-09-02 15:11:42+0530 > 
+2020-09-02 15:11:43+0530 > vim <RShft><Ins>
+2020-09-02 15:12:00+0530 > /uart4
+2020-09-02 15:12:02+0530 > n<#+1><Esc><Esc><Down><Down><Down><Down><Down><Down><Down><Up><#+10><Esc><#+2>7yy<Down><#+8><Down><Down><Esc>p<Up><Down>i
+2020-09-02 15:12:22+0530 > <Right><#+9><Right><BckSp>5<Right><Down><Right><#+19><Down><Right><#+2><Right><Del>5<Down><Left><Del>5<Down><Left><Del>5<Down><Left>5<Del><Esc><LShft>:wq<LShft>!
+2020-09-02 15:12:40+0530 > 
+2020-09-02 15:12:40+0530 > 
+2020-09-02 15:12:40+0530 > 
+2020-09-02 15:12:41+0530 > <RCtrl><PgDn><PgDn><PgUp><PgUp><LCtrl><LShft>Tcd ..
+2020-09-02 15:12:47+0530 > <Up>
+2020-09-02 15:12:47+0530 > <Up>
+2020-09-02 15:12:47+0530 > <Up>
+2020-09-02 15:12:48+0530 > <Up>
+2020-09-02 15:12:48+0530 > <Up>
+2020-09-02 15:12:48+0530 > <Up>
+2020-09-02 15:12:48+0530 > <#+16><Up>
+2020-09-02 15:12:50+0530 > 
+2020-09-02 15:12:50+0530 > 
+2020-09-02 15:12:50+0530 > 
+2020-09-02 15:12:51+0530 > <Up>
+2020-09-02 15:12:51+0530 > 
+2020-09-02 15:12:52+0530 > 
+2020-09-02 15:12:52+0530 > <LAlt><Tab>y<BckSp><Right><BckSp><BckSp><LAlt><Tab><LCtrl>c
+2020-09-02 15:13:36+0530 > <LAlt><Tab><LAlt><Tab><#+1><Tab>
+2020-09-02 15:13:39+0530 > 
+2020-09-02 15:13:40+0530 > <RShft><Ins>
+2020-09-02 15:13:40+0530 > ls
+2020-09-02 15:13:45+0530 > cd y<Tab>
+2020-09-02 15:13:50+0530 > <Up><Up><Up>
+2020-09-02 15:13:51+0530 > 
+2020-09-02 15:13:52+0530 > 
+2020-09-02 15:13:52+0530 > 
+2020-09-02 15:13:53+0530 > 
+2020-09-02 15:13:53+0530 > <LAlt><Tab><Tab><LAlt><Tab>bitbake -c devshell linux-st,m<BckSp><BckSp>m32mp<RCtrl><PgDn><PgUp>
+2020-09-02 15:14:12+0530 > <LAlt><F4>
+2020-09-02 15:14:55+0530 > 
+2020-09-02 15:14:55+0530 > 
+2020-09-02 15:14:55+0530 > make stm32mp15<Tab><Tab><LCtrl>c
+2020-09-02 15:15:02+0530 > 
+2020-09-02 15:15:02+0530 > 
+2020-09-02 15:15:02+0530 > 
+2020-09-02 15:15:03+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab>make <RShft><Ins>.dtb
+2020-09-02 15:15:24+0530 > vim <RShft><Ins>
+2020-09-02 15:15:40+0530 > <LShft>:8
+2020-09-02 15:15:42+0530 > <PgDn><Esc><LShft>:q<LShft>!
+2020-09-02 15:15:49+0530 > <Up><Up><BckSp><#+17><BckSp>.dtb
+2020-09-02 15:16:07+0530 > vim <RShft><Ins>
+2020-09-02 15:16:16+0530 > <LShft>:8
+2020-09-02 15:16:18+0530 > <PgDn><PgDn><PgDn><PgUp><PgUp><PgDn><Esc><LShft>:q<LShft>!
+2020-09-02 15:16:27+0530 > <LCtrl>git status
+2020-09-02 15:16:44+0530 > git diff <RShft><Ins>
+2020-09-02 15:16:57+0530 > 
+2020-09-02 15:16:59+0530 > <#+26>
+2020-09-02 15:17:01+0530 > <#+11><Up><#+12><Up><Up><Down><#+28><Down><#+10>
+2020-09-02 15:17:10+0530 > <#+22>
+2020-09-02 15:17:11+0530 > <#+20>
+2020-09-02 15:17:15+0530 > <#+21>
+2020-09-02 15:17:17+0530 > <#+9>
+2020-09-02 15:17:18+0530 > <#+9>
+2020-09-02 15:17:25+0530 > <#+20>
+2020-09-02 15:17:27+0530 > 
+2020-09-02 15:17:27+0530 > q
+2020-09-02 15:17:28+0530 > 
+2020-09-02 15:17:28+0530 > <Up><Up><Up><Up><LShft>D<LAlt>`<LCtrl><RCtrl><PgDn><Up>
+2020-09-02 15:17:36+0530 > <PgDn><PgUp><Esc><LShft>:q<LShft>!
+2020-09-02 15:17:40+0530 > 
+2020-09-02 15:17:40+0530 > 
+2020-09-02 15:17:40+0530 > <Up><Up><Up><Up>
+2020-09-02 15:17:43+0530 > /uart5
+2020-09-02 15:17:46+0530 > <Up><#+1>/usart
+2020-09-02 15:17:52+0530 > <Down><#+45><Up><#+24><Up><Up><Up><#+22><Up><Up><Up><#+12><Down><#+48><Up><#+13><Up><Up><Left><Right>i<Del><Del><Down><#+10><Up><Up><Right><Up><Right><#+2><Del><Del><Down><Del><Del><Down><#+10><Del><Del><Down><Del><Del><Down><#+16><Up><#+10><Del><Del><Down><Del><Del><Down><Left><Left><Left><Left><Del><Del><Down><Down><Down><Del><Del><Down><Down><#+14><Up><#+10><Down><Del><Del><Down><Down><Up><Del><Del><Down><Del><Del><Down><Del><Del><Down><BckSp><BckSp><Esc><#+1><LShft>:w<LShft>!
+2020-09-02 15:18:35+0530 > <Up><#+68><Up><#+18><Down><#+14><RCtrl><PgDn><PgDn><PgDn><PgDn><PgUp><PgUp><PgUp><PgUp><Esc><LShft>:wq<LShft>!
+2020-09-02 15:18:48+0530 > 
+2020-09-02 15:18:48+0530 > <Up><Up>
+2020-09-02 15:18:50+0530 > /usart3
+2020-09-02 15:18:53+0530 > n<#+1><Esc><LShft>:q<LShft>!
+2020-09-02 15:19:06+0530 > 
+2020-09-02 15:19:06+0530 > <Up><Up>
+2020-09-02 15:19:07+0530 > /usart3
+2020-09-02 15:19:10+0530 > <Down><#+22><Down><#+10><Down><#+44><Esc><LShft>:wq<LShft>!<BckSp><BckSp><LShft>!
+2020-09-02 15:19:21+0530 > <Up><#+34><Down><#+12><Down><Up><#+27><Down><#+17><Right><#+10><Up><Right><Up><Left><#+12><Right><#+12><Right>o<Esc>1<Esc>ui/<LShft>*<Down><Down><#+9><Down><Left><Left>/<LShft>*<Down><Down><Down><Down><Down><Down><Down><Down><Left><Left>/<LShft><BckSp><Down><Down>/<LShft>*<Down><Down><Down><Left><#+14><Right>/<LShft>*<Down><#+15><Down><Up><Up><Up><Up><Up><Up><Right><#+4><Down>/<LShft>*<Down><Left>/<LShft>*<Down><#+14><Up><#+10><Esc><LShft>:wq<LShft>!
+2020-09-02 15:20:15+0530 > 
+2020-09-02 15:20:15+0530 > 
+2020-09-02 15:20:15+0530 > <RCtrl><PgDn><PgDn><PgDn><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><LCtrl><Up><Up><LCtrl><RCtrl><PgDn><LAlt>`<BckSp><#+7>b
+2020-09-02 15:20:26+0530 > vim <RShft><Ins>
+2020-09-02 15:20:36+0530 > <LShft>:1561
+2020-09-02 15:20:38+0530 > <Up><Right><#+30><Left><Up><Right><Right>i<BckSp>;<Esc><LShft>:w<LShft>!
+2020-09-02 15:20:47+0530 > <Down><#+15>i<Del>;<Esc><LShft>:w<LShft>!
+2020-09-02 15:20:51+0530 > <Down><#+4><Up><#+13><Up><Up><#+23><Up><Up><Up><Up><Up><#+13><Up><Up><Down><#+16><Down><Left><#+26><Left><Left><Left>i/<LShft>*<Up><Up><Down><Right><#+28><Del>;<Up><#+21><Down><#+14><Left><#+8><Up><Up><Up><Right><#+11><Down><Down><Down><Down><Down><Left><#+8><Left><Left>/<LShft>*<Up><#+20><Up><#+2><Down><Down><Down><Down><Down><Down><Down><Up><Down>/<LShft>*<BckSp><BckSp><Right><#+12>/<LShft>*<Down><Up><#+17><Down><#+9><Down><Down><Up><#+20><Esc><LShft>:wq<LShft>!
+2020-09-02 15:21:39+0530 > 
+2020-09-02 15:21:39+0530 > <LAlt>`<LAlt>`<Up><Up>
+2020-09-02 15:21:42+0530 > vim <RShft><Ins>
+2020-09-02 15:21:52+0530 > <PgDn><PgUp><PgDn><PgUp><Up><#+30><Up><Up><Left><Esc><LShft>:q<LShft>!
+2020-09-02 15:22:10+0530 > 
+2020-09-02 15:22:11+0530 > <Up><Up>
+2020-09-02 15:22:22+0530 > <Up><Up><LAlt>`<RCtrl><PgDn><Up>
+2020-09-02 15:22:37+0530 > <PgDn><#+51><PgUp><Down><#+20><PgUp><PgUp><PgUp><#+52><Esc><LShft>:q<LShft>!
+2020-09-02 15:22:49+0530 > 
+2020-09-02 15:22:49+0530 > 
+2020-09-02 15:22:49+0530 > <LAlt><Tab>
+2020-09-02 15:22:52+0530 > <Down><#+8><Down>i//<Esc><LShft>:wq<LShft>!
+2020-09-02 15:22:56+0530 > <Up><Up>
+2020-09-02 15:22:57+0530 > vim <RShft><Ins>
+2020-09-02 15:23:08+0530 > <LShft>:11
+2020-09-02 15:23:09+0530 > <Up><#+7><Up><Left><#+21><Left><BckSp><BckSp><Right><Right>i<BckSp><BckSp><Esc><LShft>:wq<LShft>!
+2020-09-02 15:23:19+0530 > 
+2020-09-02 15:23:19+0530 > 
+2020-09-02 15:23:19+0530 > <Up><Up><LAlt><Tab><LAlt><Tab><LAlt>`<Up>
+2020-09-02 15:23:24+0530 > <PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn>/usart3
+2020-09-02 15:23:30+0530 > <Down><#+53><Up><#+13><Up><#+13><Up><#+15><Up><#+14><Up><#+19><Up><#+24><PgDn><PgDn><PgDn><Esc>/uart5
+2020-09-02 15:23:50+0530 > <Down><#+31><Up><Up><Up><Up><Up><Up><Up><Right>i<Right><Right>
+2020-09-02 15:24:00+0530 > <Tab><Tab><Tab><LShft>}<Esc><LShft>:w<LShft>!
+2020-09-02 15:24:04+0530 > i<Right>;<Esc><LShft>:wq<LShft>!
+2020-09-02 15:24:08+0530 > <LAlt>`<Up><Down>
+2020-09-02 15:24:10+0530 > vim <RShft><Ins>
+2020-09-02 15:24:18+0530 > <LShft>:755
+2020-09-02 15:24:21+0530 > <Up>i<LShft>};
+2020-09-02 15:24:26+0530 > <Esc><LShft>:wq<LShft>!
+2020-09-02 15:24:28+0530 > <Up><Up>
+2020-09-02 15:24:30+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><LCtrl>c
+2020-09-02 15:24:38+0530 > rmak<LCtrl>r<#+1><Tab>
+2020-09-02 15:24:41+0530 > 
+2020-09-02 15:24:42+0530 > <#+1>
+2020-09-02 15:24:46+0530 > <LCtrl>rma<LCtrl>rr<#+1>r<#+1>c
+2020-09-02 15:24:51+0530 > <LAlt><Tab><Tab><LCtrl>c
+2020-09-02 15:24:57+0530 > <LAlt><Tab>make <RShft><Ins>
+2020-09-02 15:25:01+0530 > <Up>.dtb
+2020-09-02 15:25:10+0530 > ls -la <RShft><Home>
+2020-09-02 15:25:19+0530 > 
+2020-09-02 15:25:19+0530 > 
+2020-09-02 15:25:19+0530 > 
+2020-09-02 15:25:19+0530 > cd
+2020-09-02 15:25:21+0530 > 
+2020-09-02 15:25:21+0530 > ls -la <RShft><Ins>/<Tab><Tab>a<Tab><Tab><#+2><Tab>b<Tab>d<Tab>
+2020-09-02 15:25:28+0530 > 
+2020-09-02 15:25:28+0530 > 
+2020-09-02 15:25:28+0530 > <LAlt>`<LAlt>`<LAlt>`<LAlt>`cd -
+2020-09-02 15:25:56+0530 > 
+2020-09-02 15:25:57+0530 > 
+2020-09-02 15:25:57+0530 > 
+2020-09-02 15:25:57+0530 > 
+2020-09-02 15:25:57+0530 > 
+2020-09-02 15:25:57+0530 > 
+2020-09-02 15:25:57+0530 > 
+2020-09-02 15:25:58+0530 > cd <BckSp><#+14><BckSp><BckSp><BckSp><BckSp><BckSp>exit
+2020-09-02 15:26:04+0530 > 
+2020-09-02 15:26:05+0530 > 
+2020-09-02 15:26:05+0530 > 
+2020-09-02 15:26:05+0530 > 
+2020-09-02 15:26:05+0530 > <RCtrl><PgDn><PgDn><PgDn><LCtrl>c
+2020-09-02 15:26:08+0530 > cd bu<Tab>t<Tab><#+3>w<Tab><Tab><Tab>/<Tab><Tab>s<Tab><Tab><Tab>l<Tab><Tab>i<Tab><Tab><Tab>s<Tab><Tab><Tab><Tab>b<Tab><#+2><Tab><BckSp><LShft>A<Tab><#+5>1<Tab><#+4><Tab><Tab><BckSp><#+20><BckSp>b<Tab><#+2><Tab><Tab>a<Tab>a<Tab>b<Tab>d<Tab>
+2020-09-02 15:26:38+0530 > ls -l a
+2020-09-02 15:26:41+0530 > ls -la
+2020-09-02 15:26:43+0530 > 
+2020-09-02 15:26:45+0530 > 
+2020-09-02 15:26:45+0530 > cp st<Tab><#+4><Tab><Tab><LCtrl>c
+2020-09-02 15:26:48+0530 > c<LAlt><Tab><LAlt><Tab><LCtrl><LShft>Tcd
+2020-09-02 15:26:53+0530 > 
+2020-09-02 15:26:53+0530 > df
+2020-09-02 15:26:53+0530 > cd /me<Tab><Tab><Tab>
+2020-09-02 15:26:56+0530 > ls
+2020-09-02 15:26:57+0530 > mkdir <LShft>UART5<#+1>
+2020-09-02 15:27:01+0530 > 
+2020-09-02 15:27:01+0530 > 
+2020-09-02 15:27:01+0530 > cd <LShft>Y<LShft><BckSp><LShft>U<Tab>
+2020-09-02 15:27:04+0530 > pwd
+2020-09-02 15:27:05+0530 > <RCtrl><PgUp><PgUp>p <LShft>*.dtb /me<Tab><Tab><Tab><Tab><LShft>D<Tab><#+2><LShft>U<Tab><#+3>
+2020-09-02 15:27:20+0530 > <#+2>sync
+2020-09-02 15:27:21+0530 > 
+2020-09-02 15:27:22+0530 > 
+2020-09-02 15:27:22+0530 > 
+2020-09-02 15:27:22+0530 > <LShft>!um
+2020-09-02 15:27:24+0530 > <RCtrl><PgDn><PgDn>c
+2020-09-02 15:27:28+0530 > d
+2020-09-02 15:27:28+0530 > <RCtrl><PgUp><PgDn><LShft>!um
+2020-09-02 15:27:33+0530 > <Up>
+2020-09-02 16:05:01+0530 > <PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgUp><PgUp><#+15><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><#+35><PgUp><PgUp><PgUp><Esc><LShft>:q<LShft>!
+2020-09-02 16:05:15+0530 > 
+2020-09-02 16:05:16+0530 > 
+2020-09-02 16:05:16+0530 > 
+2020-09-02 16:05:16+0530 > <Up><BckSp><#+14><BckSp><BckSp><BckSp>a<Tab>.<Tab><#+5>
+2020-09-02 16:05:21+0530 > <Down><#+20><Down><Down><Down><Right><#+3><Down><Right><RShft>*<Down><Right><#+39>i<Del><#+18><Del><Del><Del><Del><Left><Left><Del><Del><Esc><LShft>:w<LShft>!
+2020-09-02 16:05:52+0530 > <Down><#+8><Down><#+24><Up><#+17><Up><#+12><Up><Esc>1d<#+3>d<Esc><LShft>:w<LShft>!
+2020-09-02 16:06:03+0530 > <Down><#+33><Up><#+26><Up><Esc><Up><#+10><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><#+10><Up><Up><Up><Esc><LShft>:wq<LShft>
+2020-09-02 16:06:28+0530 > 
+2020-09-02 16:06:29+0530 > 
+2020-09-02 16:06:29+0530 > 
+2020-09-02 16:06:29+0530 > grep -rns <LShft>"<RShft><Ins><LShft>" <Left><#+15><BckSp><End>st<Tab><#+2>m3<Tab>m<Tab><#+4><LShft>*
+2020-09-02 16:06:40+0530 > 
+2020-09-02 16:06:47+0530 > 
+2020-09-02 16:06:48+0530 > 
+2020-09-02 16:06:48+0530 > <Up><Up><BckSp><#+12><BckSp>.d<Tab><Tab><#+1><BckSp><BckSp>a<Tab><BckSp><#+9><BckSp><Tab><Tab><Tab>c<Tab>,d<Tab><BckSp><BckSp>,<BckSp>.d<Tab>
+2020-09-02 16:07:07+0530 > <PgDn><PgDn><PgDn>/serial
+2020-09-02 16:07:13+0530 > <Down><#+43><Down><#+12><Up><#+12><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down><Right><#+19><Down><Down><Down><Esc><LShft>:wq<LShft>!
+2020-09-02 16:07:27+0530 > 
+2020-09-02 16:07:28+0530 > 
+2020-09-02 16:07:28+0530 > <LAlt>`<RCtrl><PgDn><PgDn><PgDn><PgDn><PgUp><PgUp><PgDn><PgDn><Up><Up>
+2020-09-02 16:07:45+0530 > <LCtrl>rmak
+2020-09-02 16:07:59+0530 > <Up><Up><LCtrl>c
+2020-09-02 16:08:04+0530 > rmak<LCtrl>r<Tab><LCtrl>rrrr<#+2><Tab>
+2020-09-02 16:08:12+0530 > 
+2020-09-02 16:08:13+0530 > <#+1>n
+2020-09-02 16:08:14+0530 > <LCtrl>rmak<LCtrl>rrr<Tab>
+2020-09-02 16:08:20+0530 > 
+2020-09-02 16:08:21+0530 > <#+2>
+2020-09-02 16:08:23+0530 > 
+2020-09-02 16:08:23+0530 > exit
+2020-09-02 16:08:24+0530 > 
+2020-09-02 16:08:24+0530 > 
+2020-09-02 16:08:25+0530 > 
+2020-09-02 16:08:25+0530 > 
+2020-09-02 16:08:26+0530 > 
+2020-09-02 16:08:26+0530 > 
+2020-09-02 16:08:26+0530 > 
+2020-09-02 16:08:27+0530 > <LAlt>`<RCtrl><PgDn><LAlt><Tab><LAlt><Tab><Tab><LAlt><Tab><Tab><Tab><Tab><Tab><RCtrl><PgDn><PgDn><PgDn><PgDn><PgDn><PgUp>ls -la 
+2020-09-02 16:09:16+0530 > cp <LShft>*<LCtrl>c
+2020-09-02 16:09:19+0530 > <RCtrl><PgDn>df
+2020-09-02 16:09:20+0530 > cd <RShft><Ins>
+2020-09-02 16:09:26+0530 > 
+2020-09-02 16:09:26+0530 > ls
+2020-09-02 16:09:27+0530 > pwd<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>mkdir <LShft>Y<BckSp>UART5
+2020-09-02 16:09:33+0530 > <Up><Home>sudo 
+2020-09-02 16:09:36+0530 > zs10062013
+2020-09-02 16:09:39+0530 > 
+2020-09-02 16:09:40+0530 > 
+2020-09-02 16:09:40+0530 > 
+2020-09-02 16:09:40+0530 > cd yu<Tab><#+2><BckSp><BckSp>u<Tab><#+1><BckSp><LShft>U<Tab><Tab>
+2020-09-02 16:09:48+0530 > 
+2020-09-02 16:09:48+0530 > 
+2020-09-02 16:09:48+0530 > pwd
+2020-09-02 16:09:50+0530 > <RCtrl><PgUp><PgUp><PgUp><PgUp><PgUp><PgDn><PgDn><PgDn><PgDn>cp <LShft>*.dtb /me<Tab><Tab><Tab><Tab>c<Tab><LShft>U<Tab><#+3>
+2020-09-02 16:10:11+0530 > <Up><Home>sudo 
+2020-09-02 16:10:14+0530 > zs10062013
+2020-09-02 16:10:17+0530 > sync
+2020-09-02 16:10:18+0530 > 
+2020-09-02 16:10:19+0530 > 
+2020-09-02 16:10:19+0530 > 
+2020-09-02 16:10:19+0530 > <LShft>!iu<BckSp><BckSp>um
+2020-09-02 16:10:21+0530 > 
+2020-09-02 16:10:22+0530 > 
+2020-09-02 16:10:22+0530 > 
+2020-09-02 16:10:22+0530 > <RCtrl><PgDn>cd
+2020-09-02 16:10:25+0530 > <Up><Up><Up><Up><Up><Up><Up><LCtrl>c
+2020-09-02 16:10:28+0530 > umo<Tab> /me<Tab>
+2020-09-02 16:10:32+0530 > 
+2020-09-02 16:10:32+0530 > 
+2020-09-02 16:10:32+0530 > 
+2020-09-02 16:10:32+0530 > <LAlt><RCtrl><Esc><#+1><RCtrl><PgUp><PgUp><PgUp><PgUp><Up>
+2020-09-02 16:25:23+0530 > /serial
+2020-09-02 16:25:25+0530 > nnn<Down><Down><Down><Down><Down><Down><Up><Up><Up><Up><Up><Up><RCtrl><PgDn><PgDn><PgDn><PgUp><PgUp><PgUp><PgDn><PgUp>/1800
+2020-09-02 16:25:48+0530 > <Esc><LShft>:q<LShft>!
+2020-09-02 16:25:54+0530 > <Up><Up><Up><Up><Down>
+2020-09-02 16:25:57+0530 > <Down><#+17><Down><Down><Down><Down><Down><Down><Right><#+7><Down><Down><Right><#+15><Up><Left><#+13><Right><Right>i<BckSp>2<Down><BckSp>3<Esc><LShft>:w<LShft>!
+2020-09-02 16:26:14+0530 > <Right><#+11><RShft>*<LAlt><Tab><Tab><Tab>stm32p<BckSp>mp157 y<BckSp>uart devicetree
+2020-09-02 16:26:41+0530 > <Up><#+1><LShft>:1
+2020-09-02 16:27:38+0530 > <Down><#+21><Right><#+6><Down><Right><Esc><LShft>:wq<LShft>!
+2020-09-02 16:27:43+0530 > 
+2020-09-02 16:27:43+0530 > 
+2020-09-02 16:27:44+0530 > <Up><Up><Up><Up><Up>
+2020-09-02 16:27:51+0530 > /usart
+2020-09-02 16:27:53+0530 > <Down><#+43><Up><#+31><Up><#+23><Down><#+10><Down><Right><#+14><Down><Right><Esc>2dd2dd2dd2dd2dd2dd2dd2ddd2dd2ddd2dd10dd10dd10dd10dd10dd<Esc>u<Esc>4dd4dd<Esc><LShft>:w<LShft>!
+2020-09-02 16:28:33+0530 > /'<LShft>B', 12
+2020-09-02 16:28:37+0530 > n<#+1><Right><#+13><Right><Right>i<BckSp>2<BckSp>12<Esc><LShft>:w<LShft>!
+2020-09-02 16:28:56+0530 > <Down><#+17><Down><Down><Up><Up><Up><Up><Right><#+7><Right><Up><Up><Up><Up><Up><Up><Up><#+10><Up><Up><Up><#+31><Down><#+41><Up><#+25><Up><Up><Up><Up><Esc><Down><#+42><Down><#+8><Up><#+36><Up><Up><Down><#+14><Esc><LShft>:wq<LShft>!
+2020-09-02 16:29:32+0530 > 
+2020-09-02 16:29:32+0530 > 
+2020-09-02 16:29:32+0530 > 
+2020-09-02 16:29:32+0530 > 
+2020-09-02 16:29:32+0530 > 
+2020-09-02 16:29:32+0530 > <RCtrl><PgDn><LMeta>`<LAlt>`<LAlt>`<RCtrl><PgDn><PgDn><PgDn><RCtrl><PgUp><RCtrl><PgUp><PgDn><RCtrl><PgDn>cd <RShft><Ins>
+2020-09-02 16:29:55+0530 > 
+2020-09-02 16:29:56+0530 > 
+2020-09-02 16:29:56+0530 > 
+2020-09-02 16:29:56+0530 > 
+2020-09-02 16:29:56+0530 > 
+2020-09-02 16:29:56+0530 > <LCtrl>t<BckSp>r<LShft>M<LCtrl><BckSp><LCtrl>c
+2020-09-02 16:30:02+0530 > rbi<Tab>
+2020-09-02 16:30:05+0530 > <LCtrl>rmake<Tab>
+2020-09-02 16:30:19+0530 > <Up><Up><LCtrl>c
+2020-09-02 16:30:47+0530 > <LAlt>`<RCtrl><PgUp><PgUp><PgUp><PgUp><Up><Up>
+2020-09-02 16:30:52+0530 > /usart3
+2020-09-02 16:30:55+0530 > n<#+1><Left>i<Esc>2dd2dd2dd2dd<Esc><LShft>:w<LShft>!
+2020-09-02 16:31:04+0530 > /usart2
+2020-09-02 16:31:06+0530 > /<Up><BckSp>3
+2020-09-02 16:31:08+0530 > <Esc>1dd<Down><Up><Right><#+12><Down><Left><Left>i<BckSp>1<Esc>1dd<Up><Up><Esc>p<Esc><LShft>:wq<LShft>!
+2020-09-02 16:31:18+0530 > 
+2020-09-02 16:31:19+0530 > 
+2020-09-02 16:31:19+0530 > <LAlt>`<Up>
+2020-09-02 16:31:21+0530 > <Up><Up><Up><Up>
+2020-09-02 16:31:28+0530 > <Up><Up><Up><Up><Up><Up>
+2020-09-02 16:31:33+0530 > 
+2020-09-02 16:31:35+0530 > <#+9>
+2020-09-02 16:31:36+0530 > 
+2020-09-02 16:31:36+0530 > 
+2020-09-02 16:31:39+0530 > 
+2020-09-02 16:31:40+0530 > 
+2020-09-02 16:31:40+0530 > <LAlt><LAlt>`<LAlt>`<RCtrl><PgDn><PgDn><LAlt><F4><F4><F4><F4><F4><RCtrl><PgDn><PgDn><Up><Up><Up>
+2020-09-02 16:32:27+0530 > zs10062013
+2020-09-02 16:32:30+0530 > sync
+2020-09-02 16:32:31+0530 > 
+2020-09-02 16:32:32+0530 > 
+2020-09-02 16:32:32+0530 > <LShft>!um
+2020-09-02 16:32:33+0530 > <RCtrl><PgUp><PgUp><PgUp><Up>
+2020-09-02 17:20:20+0530 > /uart5
+2020-09-02 17:20:24+0530 > <#+1>n<#+1>n<#+1>n<#+2>nn<#+1>n<Down><#+11><Esc><LShft>:q<LShft>!
+2020-09-02 17:20:36+0530 > <Up><Up>
+2020-09-02 17:20:37+0530 > /<Up>
+2020-09-02 17:20:38+0530 > <Down><#+4><Down><Right><#+35><Left><#+2><Left><Left>i<Del>4<Down><Down><Down><Down><Down><Right><#+3><Down><Right><#+5><Left><Left><Del>4<Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Left><Del>4<Down><#+15><Down><Esc><LShft>:wq<LShft>!
+2020-09-02 17:20:56+0530 > 
+2020-09-02 17:20:56+0530 > 
+2020-09-02 17:20:56+0530 > 
+2020-09-02 17:20:56+0530 > 
+2020-09-02 17:20:57+0530 > <LAlt>`<Up>
+2020-09-02 17:21:00+0530 > <Up><Up>
+2020-09-02 17:21:03+0530 > <Up><Up><Up><Up>
+2020-09-02 17:21:07+0530 > 
+2020-09-02 17:21:09+0530 > 
+2020-09-02 17:21:09+0530 > 
+2020-09-02 17:21:09+0530 > 
+2020-09-02 17:21:09+0530 > <LAlt>`<LAlt><Tab><LAlt><Tab><Tab><Tab><Tab><Tab><LAlt>`<RCtrl><PgDn><PgDn><PgDn><Up><Up><Up>
+2020-09-02 17:22:37+0530 > zs10062013
+2020-09-02 17:22:40+0530 > sync
+2020-09-02 17:22:41+0530 > 
+2020-09-02 17:22:42+0530 > 
+2020-09-02 17:22:42+0530 > <LShft>!um
+2020-09-02 17:22:43+0530 > 
+2020-09-02 17:22:44+0530 > 
+2020-09-02 17:22:44+0530 > 
+2020-09-02 17:22:44+0530 > <RCtrl><PgUp><PgUp><PgUp><Up>
+2020-09-03 17:11:03+0530 > /'<LShft>B', 6
+2020-09-03 17:11:07+0530 > nnnn<#+1>n<#+1>nnn<Esc><LShft>:q<LShft>!
+2020-09-03 17:11:31+0530 > 
+2020-09-03 17:11:31+0530 > 
+2020-09-03 17:11:32+0530 > 
+2020-09-03 17:11:32+0530 > 
+2020-09-03 17:11:32+0530 > <Up><Up>
+2020-09-03 17:11:35+0530 > <Esc><LShft>:q<LShft>!
+2020-09-03 17:11:37+0530 > 
+2020-09-03 17:11:37+0530 > <Up><Up>
+2020-09-03 17:11:39+0530 > <PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgUp><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn>/'<LShft>G', 1-<BckSp>0
+2020-09-03 17:11:51+0530 > nnnn/<Up><Up>
+2020-09-03 17:12:06+0530 > nnnn/<Up><BckSp>5
+2020-09-03 17:12:41+0530 > <#+1>n<#+1>n<#+1>nnnnnnnnnnnnnnnnnnn/<LShft>GPIO
+2020-09-03 17:12:53+0530 > nnnnnnnnnnnnnnnnnnnnnnnnn<Down><#+15><Down><#+21><Up><#+16><Up><Up><Up>nnnnnnnnnnnnnnn/<Up><Up>
+2020-09-03 17:13:19+0530 > <PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><#+10><PgUp><PgUp><PgUp><PgDn><#+1><PgDn><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgDn><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgDn><PgDn><PgDn><PgDn><PgUp><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><Down><#+16><Down><Down><Down><Left><#+13><Down><#+14><Right><#+18><Down><#+13><Down><Down><Up><Up><PgDn><PgDn><PgDn><PgUp><PgUp><PgUp><Down><#+9><Down><#+12><Up><#+11><Down><#+44><Down><#+32><Down><#+32><PgDn><PgDn><PgDn><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgUp><PgDn><PgUp><Esc><LShft>:q<LShft>!
+2020-09-03 17:15:41+0530 > 
+2020-09-03 17:15:42+0530 > grep -rns <LShft>"<RShft><Ins><LShft>' s<Tab>t<Tab>m32<Tab><#+2>m<Tab><LShft>*
+2020-09-03 17:15:50+0530 > <Up><Up><Up><Up>
+2020-09-03 17:16:07+0530 > <PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgUp><#+2><PgDn><Esc><LShft>:q<LShft>!
+2020-09-03 17:16:21+0530 > 
+2020-09-03 17:16:21+0530 > 
+2020-09-03 17:16:21+0530 > git diff .
+2020-09-03 17:16:23+0530 > 
+2020-09-03 17:16:24+0530 > <#+9>
+2020-09-03 17:16:25+0530 > <#+23>
+2020-09-03 17:16:27+0530 > <#+20>
+2020-09-03 17:16:28+0530 > <#+17>
+2020-09-03 17:16:29+0530 > <#+31>
+2020-09-03 17:16:31+0530 > <#+108>
+2020-09-03 17:16:36+0530 > <#+66>q
+2020-09-03 17:16:39+0530 > 
+2020-09-03 17:16:39+0530 > 
+2020-09-03 17:16:39+0530 > git log
+2020-09-03 17:16:41+0530 > qgit show <RShft><Ins>
+2020-09-03 17:16:48+0530 > 
+2020-09-03 17:16:50+0530 > <#+113>
+2020-09-03 17:16:55+0530 > <#+39>
+2020-09-03 17:16:57+0530 > <#+39>
+2020-09-03 17:16:59+0530 > <#+7>
+2020-09-03 17:17:00+0530 > 
+2020-09-03 17:17:00+0530 > 
+2020-09-03 17:17:02+0530 > <#+1>
+2020-09-03 17:17:08+0530 > <#+3>q<Up><Up><Up><Up>
+2020-09-03 17:18:42+0530 > ./<Up>
+2020-09-03 17:18:44+0530 > /ltdc
+2020-09-03 17:18:46+0530 > <Down><#+27><Up><#+11><Down><#+3><Right><#+11><Left><Right><Esc>1<Esc><LShft>:w<LShft>!
+2020-09-03 17:18:55+0530 > 1yypp<Up><Right><#+16><Right><Left>i<Del><LShft>G<Right><Right><Right>1<Down><Left><Left><Left><Left><Left><Del><LShft>B<Right><Right><Right><Right><Left><Del>5<Esc><LShft>:w<LShft>!
+2020-09-03 17:19:12+0530 > /<Up><Up><Up><Down>
+2020-09-03 17:19:15+0530 > <#+1>nnnnnn/<Up><Up><Up><Up><Up><Up><Down>
+2020-09-03 17:19:22+0530 > n<#+1>n<#+2>nn<Esc><Right><#+21><Left><Right>i<Del><Del><Del><Del><Del><Del><Del><LShft>GPIO KANNAN<Down><Left><#+8><BckSp><#+8><BckSp><BckSp><BckSp><LShft>GPIO <LShft>KANNAN<Esc><LShft>:wq<LShft>!
+2020-09-03 17:19:43+0530 > 
+2020-09-03 17:19:44+0530 > 
+2020-09-03 17:19:44+0530 > <RCtrl><LAlt>`<Up>
+2020-09-03 17:19:47+0530 > <LAlt>`<Up><Up><Down>
+2020-09-03 17:19:58+0530 > /<Up>
+2020-09-03 17:20:00+0530 > <Right><#+16><Up>i<Del>,<Down><Del>,<Esc><LShft>"wq<LShft>!<Esc><LShft>:wq<LShft>!
+2020-09-03 17:20:09+0530 > <LAlt>`<Up>
+2020-09-03 17:20:11+0530 > <Up><Up>
+2020-09-03 17:20:14+0530 > <Up><Up><Up><Up>
+2020-09-03 17:20:18+0530 > <LAlt>`<RCtrl><PgDn><PgDn><PgDn>
+2020-09-03 17:20:25+0530 > <#+8>
+2020-09-03 17:20:26+0530 > 
+2020-09-03 17:20:26+0530 > ls -la <LShft>*.dtb
+2020-09-03 17:20:31+0530 > <LAlt>`<LAlt>``<LAlt><Tab><RCtrl><PgUp>mkdir -p /me<Tab><Tab><Tab><Tab><LShft>GPIO-<LShft>KANNAN
+2020-09-03 17:21:16+0530 > 
+2020-09-03 17:21:16+0530 > 
+2020-09-03 17:21:16+0530 > <Up><Home>sudo 
+2020-09-03 17:21:19+0530 > zs10062013
+2020-09-03 17:21:21+0530 > 
+2020-09-03 17:21:22+0530 > 
+2020-09-03 17:21:22+0530 > <Up><Up><Up><Up><Up><LCtrl>c
+2020-09-03 17:21:24+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Down><Down><BckSp><#+10><LShft>G<Tab><#+3>
+2020-09-03 17:21:29+0530 > sync
+2020-09-03 17:21:31+0530 > 
+2020-09-03 17:21:31+0530 > 
+2020-09-03 17:21:31+0530 > <LShft>!um
+2020-09-03 17:21:32+0530 > <KP.><#+9><LAlt><RCtrl><PgUp><PgUp><RCtrl><PgUp><Up>
+2020-09-04 13:11:56+0530 > /uart5
+2020-09-04 13:11:59+0530 > <Down><#+2><Down><Right><#+12><Down><Down><Up><Down><Up><#+34><Up><Down><#+14><Down><#+17><Down><#+25><Down><Down><Up><#+10><Down><Down><#+3><Down><Down><Down><Down><Down><Down><Down><Up><#+13><Down><#+21><Up><#+12><Up><#+16><Up><#+12><Down><#+12><Down><#+9><Esc><LShft>:q<LShft>!
+2020-09-04 13:12:55+0530 > <Up><Up><Up><Up><Up><Up><Down><Up><Up><Up><Up><Down>
+2020-09-04 13:13:01+0530 > /uart5
+2020-09-04 13:13:04+0530 > n<Down><Right><#+36><Right><Right><Right>i, <LShft>"<RShft><Ins><LShft>"<Esc><LShft>:wq<LShft>!
+2020-09-04 13:13:33+0530 > 
+2020-09-04 13:13:33+0530 > 
+2020-09-04 13:13:33+0530 > <RCtrl><PgDn><PgDn><PgDn><LAlt>`<Up>
+2020-09-04 13:13:38+0530 > <Up><Up>
+2020-09-04 13:13:41+0530 > <Up><Up><Up><Up>
+2020-09-04 13:13:45+0530 > 
+2020-09-04 13:13:47+0530 > 
+2020-09-04 13:13:48+0530 > 
+2020-09-04 13:13:48+0530 > <LAlt>`<LCtrl>c
+2020-09-04 13:13:51+0530 > 
+2020-09-04 13:13:51+0530 > 
+2020-09-04 13:13:51+0530 > <Up><Up><Up><LAlt><F4><F4><F4><F4><F4>
+2020-09-04 13:14:51+0530 > zs10062013
+2020-09-04 13:14:54+0530 > sync
+2020-09-04 13:14:56+0530 > 
+2020-09-04 13:14:56+0530 > 
+2020-09-04 13:14:57+0530 > <LShft>!um
+2020-09-04 13:14:58+0530 > ls -la <LShft>*.dtb
+2020-09-04 13:15:07+0530 > 
+2020-09-04 13:15:07+0530 > 
+2020-09-04 13:15:07+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down><Up><Up><Up><Up><Up><BckSp><#+18>history
+2020-09-04 18:16:08+0530 > 
+2020-09-04 18:16:46+0530 > <RShft><Ins>
+2020-09-04 18:16:49+0530 > <Esc><RShft>:q
+2020-09-04 18:16:52+0530 > grep -r <RShft>""<Left><LShft>UART5
+2020-09-04 18:17:17+0530 > 
+2020-09-04 18:17:20+0530 > 
+2020-09-04 18:17:20+0530 > 
+2020-09-04 18:17:20+0530 > c<#+2>d <RShft><Ins>
+2020-09-04 18:17:35+0530 > cd /a<Tab><Tab><Tab><BckSp><BckSp>a<Tab><Tab><Tab><Tab><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>cd <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>
+2020-09-04 18:18:35+0530 > 
+2020-09-04 18:18:35+0530 > 
+2020-09-04 18:18:35+0530 > 
+2020-09-04 18:18:36+0530 > 
+2020-09-04 18:18:36+0530 > 
+2020-09-04 18:18:36+0530 > locatr<BckSp>e <LShft><LCtrl>V
+2020-09-04 18:18:43+0530 > <LCtrl>vi <LShft><RShft><Ins>
+2020-09-04 18:19:04+0530 > /<RShft>UART5
+2020-09-04 18:19:10+0530 > <Down><#+28><Down><#+23><Down><#+24><Down><#+6><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Up><#+26><Down><#+33><Down><#+25><Down><#+7>/uart
+2020-09-04 18:19:42+0530 > <Down><Down><Down>/uart5
+2020-09-04 18:19:49+0530 > <Esc><RShft>:q
+2020-09-04 18:19:51+0530 > 
+2020-09-04 18:20:12+0530 > 
+2020-09-04 18:20:12+0530 > 
+2020-09-04 18:20:12+0530 > 
+2020-09-04 18:20:13+0530 > <Up><Up><BckSp><#+17><BckSp><BckSp><BckSp><LShft><LCtrl>V
+2020-09-04 18:20:19+0530 > vi <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>cd 
+2020-09-04 18:31:58+0530 > 
+2020-09-04 18:31:58+0530 > 
+2020-09-04 18:31:58+0530 > 
+2020-09-04 18:31:58+0530 > 
+2020-09-04 18:31:58+0530 > 
+2020-09-04 18:31:59+0530 > grep -r <RShft>""<Left><LShft>UART5
+2020-09-04 18:32:08+0530 > <LCtrl>lls
+2020-09-04 18:32:56+0530 > vim 
+2020-09-04 18:33:17+0530 > <Esc><RShft>:q
+2020-09-04 18:33:19+0530 > 
+2020-09-04 18:33:20+0530 > 
+2020-09-04 18:33:20+0530 > 
+2020-09-04 18:33:20+0530 > 
+2020-09-04 18:33:20+0530 > l<BckSp><BckSp><BckSp><BckSp><BckSp>histo<Tab>
+2020-09-04 18:33:26+0530 > grep -r <RShft>""<Left><LShft>UART5
+2020-09-04 18:34:04+0530 > 
+2020-09-04 18:35:40+0530 > 
+2020-09-04 18:35:40+0530 > 
+2020-09-04 18:35:40+0530 > 
+2020-09-04 18:35:40+0530 > 
+2020-09-04 18:35:40+0530 > vim <LShft><LCtrl>V
+2020-09-04 18:35:45+0530 > /<RShft>UART<RShft>%<BckSp>5
+2020-09-04 18:35:54+0530 > nnnnnnnnnn<RShft>I<Down><Down><Down><Down><#+12><Down><Right><#+30><Right><#+8><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><BckSp>5<Down><Down><Down><Left><Left><Left><Right><BckSp>5<Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Right><Right><BckSp>5<Down><BckSp>5<Up><Up><Up><#+32><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down><#+28><Down><#+13><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Esc><RShft>:w<RShft>!
+2020-09-04 18:38:29+0530 > googlr<BckSp><#+1>e
+2020-09-04 18:38:59+0530 > <LShft><BckSp><BckSp><BckSp>inversion in dts file
+2020-09-04 18:39:19+0530 > <BckSp><#+16><BckSp><#+13><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>how to inversion methof<BckSp>d of register addre<Down><Down>
+2020-09-04 18:40:05+0530 > invertion of register address
+2020-09-04 18:40:55+0530 > <Up><#+22><Up><Up><Up><Up><Up><Left><#+15><RCtrl><RShft><RShft>**<Down><Up><#+27><Up><#+14><Up><#+28><Up><#+36>how to ser the register address <Left><#+20><Left><Left><Left><BckSp>t<Right><#+24><Left><#+18><Left><Left><Left><Left><Right><#+22>from high to low
+2020-09-04 19:01:40+0530 > goog
+2020-09-04 19:15:57+0530 > inversion of registers 
+2020-09-04 19:22:48+0530 > dtb file<Down><Down><Down><Up>
+2020-09-04 19:25:30+0530 > goog
+2020-09-04 19:33:39+0530 > bank<Left><#+14>hdfc <Right><#+9> timim<Down><Down>
+2020-09-04 19:33:58+0530 > register <Down> inversion
+2020-09-04 19:37:08+0530 > /<RShft>U<LShft>ART5
+2020-09-04 19:40:36+0530 > 
+2020-09-04 19:41:11+0530 >  in dtb <Down>
+2020-09-04 19:41:24+0530 > <Down><Down><Left><Left><Left><Left><Left><Left><#+7>/pull
+2020-09-04 19:42:40+0530 > nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn<BckSp><#+30>bias pull up in <RShft>UART
+2020-09-04 19:44:18+0530 > /<Up><Up>
+2020-09-04 20:02:02+0530 > <LAlt><Tab><Esc><RShft>:q
+2020-09-04 20:03:37+0530 > 
+2020-09-04 20:03:56+0530 > <Up>
+2020-09-04 20:06:07+0530 > <Down><#+47><Down><#+24>/<Up>
+2020-09-04 20:06:16+0530 > <BckSp><BckSp><BckSp><BckSp><#+27><BckSp><BckSp>bias pull <Down><Down><Down> <Down><Down> 
+2020-09-04 20:09:09+0530 > how to change the pin mode in 
+2020-09-04 20:15:50+0530 > <Left><#+15><Right><Right><Right><Right><Left><BckSp><BckSp><BckSp><BckSp><BckSp><Down><Down><Down><Down><Down> <Down>
+2020-09-04 20:17:41+0530 > <LCtrl>fuart
+2020-09-04 20:19:14+0530 > 
+2020-09-04 20:19:15+0530 > 
+2020-09-04 20:19:15+0530 > 
+2020-09-04 20:19:16+0530 > 5<BckSp><BckSp><BckSp><BckSp><BckSp><LShft>UART<LShft>%<BckSp>5
+2020-09-04 20:19:31+0530 > <#+1>
+2020-09-04 20:19:33+0530 > 
+2020-09-04 20:19:46+0530 > 
+2020-09-04 20:19:52+0530 > 
+2020-09-04 20:19:53+0530 > 
+2020-09-04 20:20:11+0530 > 
+2020-09-04 20:20:12+0530 > 
+2020-09-04 20:20:25+0530 > 
+2020-09-04 20:20:30+0530 > 
+2020-09-04 20:20:31+0530 > 
+2020-09-04 20:20:34+0530 > 
+2020-09-04 20:20:42+0530 > 
+2020-09-04 20:20:44+0530 > 
+2020-09-04 20:20:50+0530 > 
+2020-09-04 20:21:02+0530 > 
+2020-09-04 20:21:04+0530 > 
+2020-09-04 20:21:08+0530 > 
+2020-09-04 20:21:09+0530 > 
+2020-09-04 20:22:00+0530 > 
+2020-09-04 20:22:01+0530 > 
+2020-09-04 20:22:02+0530 > 
+2020-09-04 20:22:03+0530 > 
+2020-09-04 20:22:06+0530 > 
+2020-09-04 20:22:07+0530 > 
+2020-09-04 20:22:29+0530 > 
+2020-09-04 20:22:30+0530 > 
+2020-09-04 20:23:04+0530 > 
+2020-09-04 20:23:05+0530 > 
+2020-09-04 20:23:06+0530 > 
+2020-09-04 20:23:06+0530 > 
+2020-09-04 20:23:35+0530 > 
+2020-09-04 20:23:36+0530 > 
+2020-09-04 20:23:37+0530 > 
+2020-09-04 20:23:38+0530 > 
+2020-09-04 20:23:39+0530 > 
+2020-09-04 20:23:44+0530 > 
+2020-09-04 20:23:45+0530 > 
+2020-09-04 20:23:47+0530 > 
+2020-09-04 20:24:07+0530 > 
+2020-09-04 20:24:07+0530 > 
+2020-09-04 20:24:08+0530 > 
+2020-09-04 20:24:09+0530 > 
+2020-09-04 20:24:10+0530 > 
+2020-09-04 20:24:11+0530 > 
+2020-09-04 20:24:11+0530 > 
+2020-09-04 20:24:12+0530 > 
+2020-09-04 20:24:12+0530 > 
+2020-09-04 20:24:14+0530 > 
+2020-09-04 20:24:16+0530 > 
+2020-09-04 20:24:22+0530 > <Esc><RShft>:q
+2020-09-04 20:31:20+0530 > 
+
+Logging stopped at 2020-09-04 20:32:02+0530
+
