@@ -1,0 +1,209 @@
+Logging started ...
+
+2020-11-30 12:23:12+0530 > df
+2020-11-30 12:23:33+0530 > cd <CpsLk>S<Del><Ins><Ins><BckSp><BckSp><BckSp><BckSp><Tab><Tab>T<Tab><#+1><Tab><Tab><Tab><Tab><CpsLk>b<Tab><Tab><Tab>
+2020-11-30 12:23:50+0530 > ls
+2020-11-30 12:23:52+0530 > cd ..
+2020-11-30 12:23:57+0530 > 
+2020-11-30 12:23:58+0530 > 
+2020-11-30 12:23:58+0530 > 
+2020-11-30 12:23:58+0530 > 
+2020-11-30 12:23:58+0530 > 
+2020-11-30 12:23:58+0530 > <LAlt><Tab><LAlt><Tab><LCtrl><LShft>T<LAlt>12xs 
+2020-11-30 12:24:18+0530 > c<LCtrl><LShft>c
+2020-11-30 12:24:20+0530 > <#+1>cd
+2020-11-30 12:24:21+0530 > 
+2020-11-30 12:24:21+0530 > 
+2020-11-30 12:24:21+0530 > 
+2020-11-30 12:24:22+0530 > cd /<CpsLk>L<CpsLk><Tab><Tab><#+1><BckSp><BckSp><CpsLk>D<CpsLk><Tab><#+1><Tab><Tab><BckSp>d<Tab><#+1><BckSp><CpsLk>D<Tab><Tab><CpsLk>ow<Tab><Tab><Tab><CpsLk>L<CpsLk><Tab><Tab><Tab>/<Tab><Tab>y<Tab><Tab><Tab><Tab>y<Tab><Tab><Tab>s<Tab><Tab><Tab><BckSp><#+5><BckSp><#+7><BckSp><BckSp><BckSp><BckSp><BckSp><LAlt><Tab><LAlt><LAlt><Tab><LAlt><Tab><LAlt><Tab>
+2020-11-30 12:25:38+0530 > ls
+2020-11-30 12:25:39+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab>./<Tab><Tab><#+1>c<Tab><Tab><BckSp><BckSp><BckSp><LAlt><Tab><LAlt><LCtrl>c
+2020-11-30 12:26:21+0530 > <LAlt><Tab><Ins><LShft><Ins>
+2020-11-30 12:26:23+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab>cd fl<Tab><Tab><Tab><BckSp><BckSp><BckSp><#+11>cd ..
+2020-11-30 12:26:45+0530 > 
+2020-11-30 12:26:46+0530 > cd so<Tab><Tab><Tab><BckSp><#+12>
+2020-11-30 12:26:51+0530 > 
+2020-11-30 12:26:52+0530 > cd<CpsLk>D<CpsLk>o<Tab><Tab><BckSp><BckSp> <CpsLk>D<CpsLk><Tab>o<Tab><Tab>w<Tab><Tab><CpsLk>L<CpsLk><Tab><Tab><Tab>/y<Tab><Tab><Tab>y<Tab><Tab><Tab>b<Tab><#+1><Tab><Tab>w<Tab><Tab><Tab>s<Tab><Tab><Tab>
+2020-11-30 12:27:21+0530 > ls
+2020-11-30 12:27:22+0530 > <LAlt><Tab><#+1><LAlt><Tab><LAlt><Tab><LAlt><Tab>cd fl<Tab><Tab><BckSp><#+6><BckSp><BckSp><BckSp><BckSp><BckSp>cd ..
+2020-11-30 12:27:42+0530 > 
+2020-11-30 12:27:42+0530 > 
+2020-11-30 12:27:42+0530 > 
+2020-11-30 12:27:42+0530 > ls
+2020-11-30 12:27:43+0530 > cd ..
+2020-11-30 12:27:45+0530 > 
+2020-11-30 12:27:46+0530 > ls
+2020-11-30 12:27:47+0530 > cd t<Tab><Tab><Tab>de<Tab><Tab><Tab>s<Tab><Tab><Tab><Tab><Tab>
+2020-11-30 12:27:59+0530 > ls
+2020-11-30 12:28:00+0530 > cd ..
+2020-11-30 12:28:02+0530 > <#+3>ls
+2020-11-30 12:28:02+0530 > cd im<Tab>
+2020-11-30 12:28:05+0530 > ls
+2020-11-30 12:28:06+0530 > cd s<Tab>
+2020-11-30 12:28:09+0530 > ls
+2020-11-30 12:28:10+0530 > cd fl<Tab>
+2020-11-30 12:28:25+0530 > ls
+2020-11-30 12:28:26+0530 > <LAlt><Tab><#+1><LAlt><Tab>vi <CpsLk>F<Tab><Tab><Tab><CpsLk><CpsLk><CpsLk><CpsLk>L<Tab><Tab><BckSp><CpsLk><CpsLk><CpsLk>e<Tab>
+2020-11-30 12:28:57+0530 > <RShft>:q
+2020-11-30 12:29:00+0530 > <Up>
+2020-11-30 12:29:01+0530 > <Down><Right><#+28><Down><Down><#+9><Down><RShft>:q
+2020-11-30 12:29:26+0530 > cat <#+1><CpsLk>F<Tab>S<Tab><Tab>D<Tab><BckSp><BckSp><CpsLk>sd<Tab>
+2020-11-30 12:29:35+0530 > <Up><Up><Left><#+37><Left><Left><BckSp><#+13>cat 
+2020-11-30 12:29:43+0530 > <LAlt><LAlt>1<#+2>2<Tab><#+1><LAlt><Tab><#+1><LAlt><Tab><LAlt><Tab>cd ../.../.<BckSp><BckSp><BckSp>/...<BckSp>
+2020-11-30 12:32:58+0530 > 
+2020-11-30 12:32:58+0530 > 
+2020-11-30 12:32:58+0530 > 
+2020-11-30 12:32:58+0530 > 
+2020-11-30 12:32:58+0530 > 
+2020-11-30 12:32:59+0530 > 
+2020-11-30 12:32:59+0530 > cd ..
+2020-11-30 12:33:00+0530 > 
+2020-11-30 12:33:00+0530 > 
+2020-11-30 12:33:01+0530 > <LAlt><Tab><LAlt><Tab><LAlt>cd ../..
+2020-11-30 12:33:06+0530 > 
+2020-11-30 12:33:07+0530 > 
+2020-11-30 12:33:07+0530 > <LAlt><Tab><LAlt><Tab><LShft><Ins>
+2020-11-30 12:33:10+0530 > <LAlt><Tab><LAlt><Tab><LAlt><LAlt><Tab><LAlt><Tab><LAlt><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><#+1><LMeta><#+2><LAlt><Tab><LAlt><LAlt><Tab><#+2><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><#+1><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt>12<LAlt>1cd 
+2020-11-30 12:38:10+0530 > cd <LShft><Ins>
+2020-11-30 12:38:12+0530 > <LAlt>21<#+1>ls
+2020-11-30 12:38:16+0530 > ./c<Tab><Tab>re<Tab><#+2><Tab><#+2>a<Tab><LAlt>21<BckSp><#+12>cd ..
+2020-11-30 12:38:27+0530 > 
+2020-11-30 12:38:27+0530 > ./c<Tab><Tab>r<Tab><Tab><LAlt>2<LAlt>12<Tab><LAlt><Tab>cd <LShft><Ins>
+2020-11-30 12:39:45+0530 > cd ../..
+2020-11-30 12:39:50+0530 > 
+2020-11-30 12:39:51+0530 > 
+2020-11-30 12:39:51+0530 > <LAlt><Tab><LAlt><Tab>ls
+2020-11-30 12:39:55+0530 > <LAlt><Tab><LAlt><Tab>./c<Tab><Tab><#+5><BckSp><BckSp><BckSp><#+2>cd fl<Tab><Tab><BckSp><BckSp><CpsLk><CpsLk><Tab>s<BckSp>
+2020-11-30 12:40:08+0530 > ls
+2020-11-30 12:40:10+0530 > <LAlt><Tab><LAlt><Tab>./c<Tab><Tab>r<Tab><#+1><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><BckSp><#+16>cd <CpsLk>I<Tab><Tab><CpsLk>ma<Tab><#+1><Tab><BckSp><#+13><CpsLk><CpsLk>ls
+2020-11-30 12:40:42+0530 > cd s<Tab><#+1>
+2020-11-30 12:40:51+0530 > ls
+2020-11-30 12:40:52+0530 > vi cr<Tab>e<Tab>
+2020-11-30 12:41:00+0530 > <PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><#+21><PgUp><PgUp><PgUp><PgUp><RShft>:q
+2020-11-30 12:41:10+0530 > <LMeta><#+5>lzs10062013
+2020-11-30 12:42:56+0530 > <#+1><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab>stm<Tab><LAlt><Tab><LCtrl>c
+2020-11-30 12:44:11+0530 > <LCtrl>c
+2020-11-30 12:44:14+0530 > <LAlt><Tab><RShft><Ins>
+2020-11-30 12:44:19+0530 > 
+2020-11-30 12:44:20+0530 > <LShft>S<Tab><Tab><Tab><Tab><LCtrl>c
+2020-11-30 12:44:23+0530 > 
+2020-11-30 12:44:23+0530 > 
+2020-11-30 12:44:23+0530 > 
+2020-11-30 12:44:24+0530 > 
+2020-11-30 12:44:24+0530 > 
+2020-11-30 12:44:24+0530 > 
+2020-11-30 12:44:24+0530 > 
+2020-11-30 12:44:25+0530 > cd
+2020-11-30 12:44:25+0530 > 
+2020-11-30 12:44:25+0530 > 
+2020-11-30 12:44:26+0530 > 
+2020-11-30 12:44:26+0530 > <LCtrl>c
+2020-11-30 12:45:29+0530 > <LAlt><Tab><RShft><Ins>
+2020-11-30 12:45:33+0530 > <LAlt><Tab><LCtrl><LCtrl>c
+2020-11-30 12:45:37+0530 > <LAlt><Tab><RShft><Ins>
+2020-11-30 12:45:39+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab>
+2020-11-30 12:45:58+0530 > 
+2020-11-30 12:45:58+0530 > dmesg
+2020-11-30 12:45:59+0530 > lsuibs<BckSp><BckSp><BckSp>sb
+2020-11-30 12:46:06+0530 > <Up>
+2020-11-30 12:46:13+0530 > <Up><Up>
+2020-11-30 12:46:15+0530 > <LAlt><Tab><LCtrl>c
+2020-11-30 12:46:27+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><RCtrl><PgDn><PgUp><PgUp>
+2020-11-30 12:46:33+0530 > 
+2020-11-30 12:46:33+0530 > <#+16>cd ..
+2020-11-30 12:46:36+0530 > ls
+2020-11-30 12:46:36+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LCtrl><LCtrl>c
+2020-11-30 12:46:47+0530 > <LAlt><Tab><RShft><Ins>
+2020-11-30 12:46:50+0530 > <LAlt><Tab><LCtrl>c
+2020-11-30 12:46:53+0530 > <LAlt><Tab><RShft><Ins><#+1>
+2020-11-30 12:46:55+0530 > <LAlt><Tab><LCtrl>c
+2020-11-30 12:46:58+0530 > <LAlt><Tab>
+2020-11-30 12:47:00+0530 > <#+1><RShft><Ins>
+2020-11-30 12:47:01+0530 > <LAlt><Tab><LCtrl>c
+2020-11-30 12:47:09+0530 > <LAlt><Tab><RShft><Ins><BckSp><#+33><Tab><#+3>e<Tab>
+2020-11-30 12:47:15+0530 > vim <LAlt><Tab><LAlt><Tab>f<Tab>/<LAlt><Tab><LAlt><Tab><LShft>F<Tab><#+2>e<Tab>
+2020-11-30 12:49:16+0530 > <LAlt><Tab><LAlt><Tab><Tab><LAlt><Tab><LAlt><Tab><Tab><Esc><LShft>:!
+2020-11-30 12:49:23+0530 > 
+2020-11-30 12:49:25+0530 > <Down><Right><#+12><Down><Right><#+27><Left><#+32><LCtrl><LShft>T
+2020-11-30 12:49:35+0530 > <#+1>
+2020-11-30 12:49:35+0530 > vim f<Tab>/<LShft>F<Tab><Tab><#+1>e<Tab>
+2020-11-30 12:49:41+0530 > 
+2020-11-30 12:49:42+0530 > <RCtrl><PgUp><PgUp><PgDn><PgDn><PgUp><PgUp><PgDn><PgDn><PgUp><PgUp><PgDn><PgDn><PgUp><PgUp><Esc><LShft>:qa<Tab>
+2020-11-30 12:50:19+0530 > 
+2020-11-30 12:50:19+0530 > 
+2020-11-30 12:50:19+0530 > 
+2020-11-30 12:50:19+0530 > 
+2020-11-30 12:50:19+0530 > <Up><Up><Up><Up><Down><Down><BckSp><#+28><BckSp>s<Tab>
+2020-11-30 12:50:27+0530 > <Up><Up><Up><Up>
+2020-11-30 12:50:35+0530 > <#+3><Up><Up>
+2020-11-30 12:50:39+0530 > <#+1><RCtrl><PgDn><PgDn><PgUp><PgUp><Up><LCtrl>c
+2020-11-30 12:51:21+0530 > dmesg
+2020-11-30 12:51:23+0530 > <Up>
+2020-11-30 12:51:30+0530 > <#+5><Up>
+2020-11-30 12:51:32+0530 > <#+1><Up><Up>
+2020-11-30 12:51:33+0530 > <RShft><Ins>
+2020-11-30 12:52:29+0530 > <LAlt><Tab><Up><Left><#+64><Right>-m <LAlt><Tab><LAlt><Tab><BckSp><BckSp><RShft><Ins> 
+2020-11-30 12:53:23+0530 > <Up>
+2020-11-30 12:53:28+0530 > <LAlt><Tab><Esc><LAlt><Tab><Up><Up><Up><Down><Up><Up><Up>
+2020-11-30 12:54:52+0530 > <Up><Up><Down>
+2020-11-30 12:54:57+0530 > <#+1><LAlt><Tab><PgDn><PgDn><Up><#+9><Down><#+8><Down><#+12><Down><#+10><LAlt><Tab><LAlt><Tab>cd <LShft>~/<LShft>SD<Tab><#+1><BckSp><LShft>T<Tab><#+2><Tab><Tab><Tab><Tab><LShft>D<Tab><#+1>r<Tab>
+2020-11-30 12:58:57+0530 > l;<BckSp>s
+2020-11-30 12:58:59+0530 > cd <LCtrl>r<Tab><LCtrl>
+2020-11-30 12:59:00+0530 > cd -\\<BckSp><BckSp>
+2020-11-30 12:59:03+0530 > cd r<Tab>
+2020-11-30 12:59:05+0530 > ls
+2020-11-30 12:59:05+0530 > <#+1><LAlt><Tab><LAlt><Tab><Tab><LAlt><Tab><#+2><LAlt><Tab><Tab>
+2020-11-30 12:59:14+0530 > 
+2020-11-30 12:59:15+0530 > 
+2020-11-30 12:59:15+0530 > vim <LShft>R<Tab><#+4>
+2020-11-30 12:59:16+0530 > <Esc><LShft>:qa<Tab>
+2020-11-30 12:59:19+0530 > 
+2020-11-30 12:59:19+0530 > vi /e<Tab>r<Tab><Tab>u<Tab><Tab><BckSp><BckSp><LAlt><Tab><LAlt><Tab>ud<Tab><#+3>e<Tab>r<Tab><Tab><Tab><LCtrl>c
+2020-11-30 12:59:38+0530 > 
+2020-11-30 12:59:39+0530 > 
+2020-11-30 12:59:40+0530 > <PgUp><RCtrl><PgUp><PgDn><PgDn><PgUp><PgUp><PgDn><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down>
+2020-11-30 12:59:56+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down>
+2020-11-30 13:00:02+0530 > <Up>
+2020-11-30 13:00:08+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><LCtrl>c
+2020-11-30 13:00:14+0530 > cd -
+2020-11-30 13:00:15+0530 > 
+2020-11-30 13:00:16+0530 > 
+2020-11-30 13:00:16+0530 > 
+2020-11-30 13:00:16+0530 > 
+2020-11-30 13:00:16+0530 > cd <RShft><Ins>
+2020-11-30 13:00:25+0530 > 
+2020-11-30 13:00:25+0530 > <Up><Up><Up><Up><Down>
+2020-11-30 13:00:28+0530 > <CpsLk>A<CpsLk>fridi<RShft>_97<PgUp><#+1><PgUp><PgDn><LCtrl>c
+2020-11-30 13:03:02+0530 > skan<LCtrl>v<CpsLk>USB FL<LAlt><Tab><LAlt><Tab><Tab><LAlt><Tab><LCtrl>V<Del><Del><Del><Del><Del><Del><Del><#+28><LShft><Down><Del><LCtrl>c
+2020-11-30 13:03:53+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><Tab><LAlt><Tab>
+2020-11-30 13:04:05+0530 > 
+2020-11-30 13:04:05+0530 > 
+2020-11-30 13:04:05+0530 > <Up><Up><Up><#+1><LCtrl>VASHINF<BckSp>G ISSUE<LMeta>L
+2020-11-30 13:07:55+0530 > ZS10062013
+2020-11-30 13:08:04+0530 > <CpsLk>zs10062013
+2020-11-30 13:08:12+0530 > <LAlt><Tab><Tab>
+2020-11-30 13:08:17+0530 > <Up><Up><Up><Up><Up><Up><Down><Down><Up><Up><Down><LAlt><Tab><Tab><LAlt><Tab><BckSp><#+3><BckSp><BckSp><BckSp><BckSp><Left><#+26>sudo <Right><#+22><Right>-h
+2020-11-30 13:08:35+0530 > zs10062013
+2020-11-30 13:08:39+0530 > <LAlt><Tab><LAlt><Tab><Up><Up><Up><Up><Up><Up><Left><#+3><Left><#+30>sudo 
+2020-11-30 13:08:54+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LCtrl>c
+2020-11-30 13:09:08+0530 > <LAlt><Tab>
+2020-11-30 13:09:12+0530 > <#+1><Up><Up><Left><Up><Left><#+1><Up><Down><Down><Up><Left><#+22><Left><Left><BckSp><#+13>
+2020-11-30 13:09:22+0530 > <Up><Left><#+28>sudo 
+2020-11-30 13:09:27+0530 > <Up><LAlt><Tab><Tab><Tab><Tab><Tab><Tab><LCtrl><LAlt><Tab><LAlt><Tab><LAlt><Tab><Tab><LAlt><Tab><Tab><LAlt><Tab><Tab><LAlt><Tab><LAlt><Tab><Tab><LAlt><Tab><Tab><LAlt><Tab><Tab><BckSp><#+33><LShft><Ins><Left><Left><Left><Left><#+24><Tab><Tab>
+2020-11-30 13:10:43+0530 > <Up><Left><#+8><Left><Left><BckSp><#+32><Tab><Tab>n<LAlt>1<#+7>23<#+1>424<RShft>:q
+2020-11-30 13:10:57+0530 > <LAlt>12<CpsLk>S<Tab><Tab>T<Tab><Tab><Tab><Tab><Tab>ST<Tab><Tab><BckSp><BckSp><Tab><Tab>/<Tab><Tab><Tab><Tab><Up><LAlt><Tab><LAlt><Tab><Down><Down><Up><Left><#+11><Tab><Tab><Right><Tab><Tab>B<Tab><Tab><CpsLk><BckSp>b<Tab><Tab><Tab><CpsLk>S<Tab><Tab><Tab><LAlt><Tab><LAlt><Tab><RShft>_<Tab><Tab><Tab><RShft>_<Tab> <LAlt><Tab><LAlt><Tab>
+2020-11-30 13:11:52+0530 > <Up><Left><#+72><Right><BckSp><Right><BckSp>
+2020-11-30 13:12:03+0530 > <Up>
+2020-11-30 13:12:23+0530 > <LAlt><Tab><LAlt><Tab><Tab><LAlt><Tab><LAlt><Tab><Tab><LShft><Ins><LShft><LShft><Ins><Left><#+96>SUD<BckSp><BckSp><CpsLk><BckSp><BckSp>sudo 
+2020-11-30 13:12:56+0530 > <Up><Left><#+86><Left><Left><Left><RShft>~/<CpsLk>S<Tab><Tab>T<Tab><Tab><Tab><Tab><Tab><CpsLk>b<Tab><Right><Tab><Tab><Tab><BckSp><#+8><BckSp><BckSp><LAlt><Tab><Tab><CpsLk>S<LAlt><Tab><Tab><LAlt><Tab>
+2020-11-30 13:13:28+0530 > <LAlt><Tab><LAlt><Tab>
+2020-11-30 13:14:01+0530 > <#+46>LS<BckSp><BckSp><CpsLk>ls u<Tab><Tab>s<Tab><BckSp><BckSp><BckSp><Tab><Tab>us<Tab><#+1>
+2020-11-30 13:14:12+0530 > <Up>
+2020-11-30 13:14:18+0530 > <#+2><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down><Up><Down><Down><Up>
+2020-11-30 13:14:25+0530 > <Up><#+21><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down><Down><Up>
+2020-11-30 13:14:34+0530 > <Up><Up><#+23><Up><Up><#+6><Up><Up><Up><Up><Up>
+2020-11-30 13:14:40+0530 > <Up><#+21><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down>
+2020-11-30 13:14:49+0530 > <Up><BckSp><#+23><BckSp><#+8><Tab><BckSp><#+28><BckSp><BckSp><BckSp><BckSp><BckSp>e<Tab><#+1>
+2020-11-30 13:15:59+0530 > 
+2020-11-30 13:16:31+0530 > <LMeta><#+4>lzs10062013
+2020-11-30 13:29:55+0530 > <LAlt><Tab><LAlt><Tab><Tab><LMeta>l
