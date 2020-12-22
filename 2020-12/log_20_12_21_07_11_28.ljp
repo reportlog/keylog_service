@@ -1,0 +1,230 @@
+Logging started ...
+
+2020-12-21 19:11:28+0530 > ls
+2020-12-21 19:12:00+0530 > 
+2020-12-21 19:12:00+0530 > 
+2020-12-21 19:12:01+0530 > grep <#+4>-r<CpsLk>H<CpsLk> <#+2><RShft>""<CpsLk><CpsLk><Left><CpsLk><CpsLk>start.service
+2020-12-21 19:12:14+0530 > <LCtrl>c
+2020-12-21 19:12:19+0530 > <Up><Left><BckSp><#+12><BckSp><BckSp><BckSp><BckSp>watchdog
+2020-12-21 19:12:25+0530 > <LCtrl>c
+2020-12-21 19:13:40+0530 > cd l<Tab><Tab><Tab>
+2020-12-21 19:13:44+0530 > ls
+2020-12-21 19:13:45+0530 > 
+2020-12-21 19:13:45+0530 > 
+2020-12-21 19:13:45+0530 > <Up><Up><Up><Up><Down>
+2020-12-21 19:13:48+0530 > <LCtrl>c
+2020-12-21 19:15:25+0530 > <Up><Left><BckSp><#+12><RShft>"<CpsLk>CONFIG<RShft>_WATCH
+2020-12-21 19:15:35+0530 > <LCtrl>c
+2020-12-21 19:17:01+0530 > CD W<Tab><BckSp><#+11><CpsLk>cd a<Tab>a<Tab><Tab>r<Tab><Tab>m<Tab><Tab><Tab>/<Tab><Tab><Tab><Tab>b<Tab><BckSp><#+5><Tab><Tab><Tab>d<Tab><Tab><Tab>
+2020-12-21 19:17:26+0530 > ls
+2020-12-21 19:17:27+0530 > vi st<Tab><Tab>m<Tab>3<Tab><BckSp><Tab>mp<Tab><Tab><Tab><Tab>c<Tab><Tab>-<Tab><Tab><#+1><BckSp><BckSp>a<Tab><Tab><Tab><Tab>.<Tab><#+1>
+2020-12-21 19:17:52+0530 > /watch
+2020-12-21 19:17:59+0530 > nn<RShft>:q
+2020-12-21 19:18:05+0530 > <Up><BckSp><#+8><BckSp><#+25>ls-<Ins><BckSp> <BckSp><BckSp><BckSp> <#+3>-k<BckSp>l <#+1><LCtrl>
+2020-12-21 19:18:26+0530 > <Up><BckSp><BckSp><BckSp><BckSp><RShft>_<Tab><Tab><#+1>
+2020-12-21 19:18:34+0530 > <Up><BckSp><#+15><BckSp><BckSp><BckSp>c<Tab><Tab>-<Tab><Tab>d<Tab><Tab><Tab>.<Tab><#+1>
+2020-12-21 19:18:46+0530 > vi <#+1>
+2020-12-21 19:18:57+0530 > /watch
+2020-12-21 19:19:00+0530 > <RShft>:q
+2020-12-21 19:19:02+0530 > <Up><Up><Up><Up><Up><Up><Down>
+2020-12-21 19:19:06+0530 > /watchdog
+2020-12-21 19:19:10+0530 > nn<Up><#+69><PgUp><PgUp><PgUp><RShft>:q
+2020-12-21 19:19:31+0530 > <#+1><Up><Up><Up><Up><#+1><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down><Down><Left><BckSp><#+10><BckSp>services
+2020-12-21 19:19:51+0530 > <Up><Left><BckSp><#+3>
+2020-12-21 19:19:53+0530 > cd ../../..
+2020-12-21 19:19:59+0530 > 
+2020-12-21 19:19:59+0530 > 
+2020-12-21 19:19:59+0530 > 
+2020-12-21 19:19:59+0530 > 
+2020-12-21 19:20:00+0530 > cd ...<BckSp>
+2020-12-21 19:20:02+0530 > <Up><Up><Up><#+1>
+2020-12-21 19:20:04+0530 > <LCtrl>c
+2020-12-21 19:20:13+0530 > <#+1><Up><Left><#+11><Left>start.
+2020-12-21 19:20:19+0530 > <LCtrl>c
+2020-12-21 19:20:32+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down><Left>d<BckSp><CpsLk>DOG
+2020-12-21 19:20:45+0530 > <LCtrl>c
+2020-12-21 19:20:59+0530 > VI <#+8> <BckSp><#+15><CpsLk>vi dr<Tab>wa<Tab><Tab><Tab>nw<Tab><Tab>a<Tab><#+2><Tab>t<Tab><#+1>de<Tab>
+2020-12-21 19:21:16+0530 > /<Up>
+2020-12-21 19:21:19+0530 > nnnnnnnnnnnnn<#+65><CpsLk>N<#+31><Down><#+27><Down><Up><Right><RShft>**<LCtrl>]
+2020-12-21 19:22:04+0530 > <Right><#+7>/
+2020-12-21 19:22:12+0530 > <CpsLk><CpsLk><CpsLk>nnn<#+14><RShft>:q
+2020-12-21 19:22:22+0530 > <LShft><Ins><Up><Up><Up><Down><Left><BckSp><#+16><BckSp><LShft><Ins>
+2020-12-21 19:22:29+0530 > <LCtrl>c
+2020-12-21 19:22:37+0530 > vi <CpsLk>D<Tab><CpsLk>wa<Tab>wa<Tab><Tab><Tab>ap<Tab>
+2020-12-21 19:22:46+0530 > <PgDn><PgDn><PgDn><PgDn><RShft>:q
+2020-12-21 19:22:51+0530 > <Up><BckSp><#+12><Tab>ke<Tab>
+2020-12-21 19:22:55+0530 > <PgDn><PgDn><#+1><PgDn><PgDn><PgDn><PgDn><LAlt><Tab><LAlt><Tab><PgDn><PgUp><PgUp><PgUp><PgUp><#+22><Down><#+57><Down><#+12><Down><#+21><Down><#+26><Down><#+15><RShft>:q
+2020-12-21 19:23:21+0530 > <Tab><Tab><Up><Tab><Tab><BckSp><#+11><BckSp><#+11><Tab><Tab>pa<Tab><#+1>
+2020-12-21 19:23:29+0530 > <PgDn><#+17><PgUp><PgUp><#+22><PgDn><PgDn><RShft>:q
+2020-12-21 19:23:48+0530 > <Up><Up><Up><Up><Up><Down><Up><Up><Up><Up><Down><Left><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><#+2><Down><#+27><Up><Up><Up><Up><Left><Up><Down><Left><BckSp><#+16><BckSp><CpsLk>CONFIG<RShft>_SOFTW<BckSp><RShft>_WATCH
+2020-12-21 19:25:33+0530 > VI<CpsLk><BckSp><#+11>vi dr<Tab>wa<Tab>s<Tab><Tab>o<Tab>
+2020-12-21 19:26:10+0530 > <CpsLk><#+3>G<#+3><CpsLk><RShft>:q
+2020-12-21 19:26:14+0530 > <Up><BckSp><#+10><BckSp><BckSp><BckSp><CpsLk>M<CpsLk>a<Tab><BckSp><BckSp><BckSp><CpsLk><CpsLk><CpsLk>M<CpsLk>a<Tab>
+2020-12-21 19:26:24+0530 > /<Up><Up><Up><Up><Down>
+2020-12-21 19:26:30+0530 > n<#+3>nnnn<#+1>nn<#+1>n<#+27>nnnnnnnnnnnn<#+50>nnnn<Down><#+12><Down><#+11><RShft>:q
+2020-12-21 19:26:55+0530 > <Up><Up><Up><Up><Up><Down><Down><Left><BckSp><#+11><BckSp><CpsLk>WATCHDOG
+2020-12-21 19:27:18+0530 > <CpsLk><CpsLk><CpsLk>vi dr<Tab>wa<Tab><#+1>e<BckSp>wa<Tab><Tab>t<Tab>c<Tab>
+2020-12-21 19:28:54+0530 > <RShft>:q
+2020-12-21 19:28:56+0530 > <Up>c
+2020-12-21 19:28:58+0530 > <PgDn><PgDn><PgDn><#+1><PgDn><PgDn><PgDn><PgUp><RShft>:<CpsLk><CpsLk>q
+2020-12-21 19:29:15+0530 > ls
+2020-12-21 19:29:17+0530 > <LCtrl><LShft><LCtrl><LShft>cd <#+1>../..<Tab>
+2020-12-21 19:29:32+0530 > 
+2020-12-21 19:29:32+0530 > 
+2020-12-21 19:29:32+0530 > ls
+2020-12-21 19:29:33+0530 > cd<BckSp><#+14>grep -r<CpsLk>H<CpsLk> <RShft>""<Left><CpsLk><CpsLk>startupapp
+2020-12-21 19:29:50+0530 > <LCtrl>c
+2020-12-21 19:29:54+0530 > cd
+2020-12-21 19:29:55+0530 > <Up><Up>
+2020-12-21 19:29:56+0530 > <LAlt><LCtrl>c
+2020-12-21 19:30:04+0530 > <Tab>cd <#+1>/<CpsLk>D<CpsLk>ow<Tab><Tab><BckSp><#+12><LAlt><F4><LAlt><LAlt><Tab><Tab><Up><Left><BckSp><#+11><BckSp><BckSp><BckSp>wpa<RShft>_supplicant.conf
+2020-12-21 19:34:47+0530 > <LAlt><Tab><LAlt><Tab><LCtrl><LShft>T<LAlt>1<LAlt>2cd <CpsLk>D<CpsLk><Tab>ow<Tab><Tab><Tab><CpsLk>L<CpsLk><Tab><Tab><Tab>/<Tab><Tab><Tab><#+1>y<Tab><Tab><Tab>r<Tab><Tab><Tab>
+2020-12-21 19:35:34+0530 > ls
+2020-12-21 19:35:37+0530 > 
+2020-12-21 19:35:38+0530 > 
+2020-12-21 19:35:38+0530 > cd b<Tab><#+1>i<Tab>
+2020-12-21 19:35:43+0530 > ls
+2020-12-21 19:35:44+0530 > cd <#+1>..
+2020-12-21 19:36:02+0530 > 
+2020-12-21 19:36:02+0530 > ls
+2020-12-21 19:36:03+0530 > cd e<Tab>
+2020-12-21 19:36:06+0530 > ls
+2020-12-21 19:36:07+0530 > cd ..
+2020-12-21 19:36:13+0530 > 
+2020-12-21 19:36:13+0530 > 
+2020-12-21 19:36:13+0530 > l
+2020-12-21 19:36:14+0530 > sc<BckSp><BckSp><BckSp>cd li<Tab><Tab><Tab>sy<Tab><Tab><Tab>s<Tab><#+1><BckSp><Tab><Tab>
+2020-12-21 19:36:27+0530 > ls
+2020-12-21 19:36:28+0530 > cd ..
+2020-12-21 19:36:34+0530 > 
+2020-12-21 19:36:35+0530 > ls
+2020-12-21 19:36:35+0530 > cd <#+2>s<Tab>-s<Tab><#+2><Tab>h<Tab>
+2020-12-21 19:36:45+0530 > ls
+2020-12-21 19:36:46+0530 > ls
+2020-12-21 19:36:48+0530 > cd ..
+2020-12-21 19:36:50+0530 > 
+2020-12-21 19:36:50+0530 > 
+2020-12-21 19:36:50+0530 > ls
+2020-12-21 19:36:51+0530 > cd s<Tab><#+2>
+2020-12-21 19:37:00+0530 > ls
+2020-12-21 19:37:01+0530 > vi w<Tab><Tab><#+1>pa<Tab>.<Tab><#+1>
+2020-12-21 19:37:11+0530 > <RShft>:q
+2020-12-21 19:37:22+0530 > <#+1>ccd ..
+2020-12-21 19:37:29+0530 > 
+2020-12-21 19:37:29+0530 > 
+2020-12-21 19:37:29+0530 > 
+2020-12-21 19:37:30+0530 > 
+2020-12-21 19:37:30+0530 > 
+2020-12-21 19:37:30+0530 > cd ..
+2020-12-21 19:37:31+0530 > 
+2020-12-21 19:37:32+0530 > 
+2020-12-21 19:37:32+0530 > 
+2020-12-21 19:37:32+0530 > 
+2020-12-21 19:37:32+0530 > cd ../..
+2020-12-21 19:37:35+0530 > 
+2020-12-21 19:37:35+0530 > ls
+2020-12-21 19:37:36+0530 > cd r<Tab>
+2020-12-21 19:37:39+0530 > ls
+2020-12-21 19:37:39+0530 > cd us<Tab><#+1>bi<Tab><#+2>st<Tab><BckSp><BckSp>
+2020-12-21 19:37:47+0530 > vi sta<Tab><Tab><BckSp><BckSp><BckSp><#+12>cd ..
+2020-12-21 19:37:52+0530 > 
+2020-12-21 19:37:52+0530 > cd sb<Tab>
+2020-12-21 19:37:54+0530 > vi sta<Tab><Tab><BckSp><Tab><BckSp><#+25>cd ..
+2020-12-21 19:38:01+0530 > 
+2020-12-21 19:38:01+0530 > 
+2020-12-21 19:38:01+0530 > cd b<Tab>
+2020-12-21 19:38:03+0530 > ls
+2020-12-21 19:38:04+0530 > wa<Tab><Tab><BckSp><#+13>ho<Tab><Tab><Tab>a<Tab><BckSp><#+18>ls
+2020-12-21 19:39:06+0530 > ls -l<Tab> <#+1>ho<Tab><Tab><Tab>a<Tab><#+1><Tab><BckSp><#+20>cd ..
+2020-12-21 19:39:17+0530 > <#+5>
+2020-12-21 19:39:18+0530 > ls
+2020-12-21 19:39:18+0530 > cd bi<Tab>
+2020-12-21 19:39:26+0530 > ls- <BckSp><BckSp> -l sta<Tab><Tab><BckSp><Tab><Tab><BckSp><BckSp><BckSp><#+18>cd
+2020-12-21 19:39:37+0530 > 
+2020-12-21 19:39:38+0530 > 
+2020-12-21 19:39:38+0530 > cd //<BckSp><Tab><Tab>h<Tab>r<Tab>r<Tab><Tab><Tab><BckSp><Tab><Tab><CpsLk>R<CpsLk><Tab><#+2><Tab><Tab>r<Tab>
+2020-12-21 19:40:04+0530 > ls
+2020-12-21 19:40:04+0530 > cd us<Tab>b<Tab>
+2020-12-21 19:40:09+0530 > ls
+2020-12-21 19:40:09+0530 > vi sta<Tab>
+2020-12-21 19:40:16+0530 > <CpsLk><#+7>G<PgUp><PgUp><PgUp><#+2><PgDn><#+18><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><CpsLk><CpsLk><CpsLk><RShft>:q
+2020-12-21 19:40:27+0530 > ls
+2020-12-21 19:40:28+0530 > <CpsLk><CpsLk><LAlt>121<LCtrl>c
+2020-12-21 19:41:35+0530 > <Up><Up><Up>cd<BckSp><BckSp> <#+2>/<CpsLk>D<Tab><Tab><CpsLk><BckSp><BckSp><CpsLk>D<CpsLk>o<Tab><Tab>w<Tab><LAlt>212cd
+2020-12-21 20:30:54+0530 > 
+2020-12-21 20:30:54+0530 > 
+2020-12-21 20:30:54+0530 > <LAlt>1
+2020-12-21 20:30:56+0530 > cd <CpsLk>L<Tab>
+2020-12-21 20:30:58+0530 > 
+2020-12-21 20:30:58+0530 > <CpsLk>cd <#+1>u<BckSp>y<Tab><Tab><Tab><Tab><Tab><Tab>y<Tab><Tab><Tab>bu<Tab><Tab><Tab><BckSp><#+5><Tab>w<Tab><Tab><Tab>s<Tab><Tab><Tab>l<Tab>
+2020-12-21 20:31:21+0530 > <Up><Up><Up><Up><Up><Left><BckSp><#+10><BckSp><BckSp><BckSp><BckSp><CpsLk>NOWAY
+2020-12-21 20:31:29+0530 > <LMeta><#+2>LZS10062<BckSp><#+13><CpsLk>zs10062013
+2020-12-21 20:32:33+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LMeta>l
+2020-12-21 20:53:32+0530 > zzzzzs10062013
+2020-12-21 20:53:39+0530 > <LAlt><Tab><Tab><Tab>cd ke<Tab><Tab><Tab>dr<Tab><Tab><Tab><BckSp><Tab><Tab><BckSp><Tab><Tab>c<Tab><Tab><#+1>o<Tab><Tab><Tab><Tab><Tab>
+2020-12-21 20:53:59+0530 > ls
+2020-12-21 20:54:00+0530 > cd <#+2>..
+2020-12-21 20:54:02+0530 > 
+2020-12-21 20:54:03+0530 > 
+2020-12-21 20:54:03+0530 > cd ..
+2020-12-21 20:54:04+0530 > 
+2020-12-21 20:54:04+0530 > 
+2020-12-21 20:54:05+0530 > ls
+2020-12-21 20:54:05+0530 > cd dr<Tab><Tab><Tab>nch<Tab><Tab><Tab>
+2020-12-21 20:54:14+0530 > ls
+2020-12-21 20:54:15+0530 > cd ..
+2020-12-21 20:54:20+0530 > 
+2020-12-21 20:54:21+0530 > 
+2020-12-21 20:54:21+0530 > 
+2020-12-21 20:54:21+0530 > 
+2020-12-21 20:54:21+0530 > 
+2020-12-21 20:54:21+0530 > 
+2020-12-21 20:54:22+0530 > cd <#+1>..
+2020-12-21 20:54:23+0530 > 
+2020-12-21 20:54:24+0530 > 
+2020-12-21 20:54:24+0530 > 
+2020-12-21 20:54:24+0530 > grep -r<Tab><CpsLk>H<CpsLk> <RShft>""<Left>watcg<BckSp>hdog
+2020-12-21 20:54:33+0530 > 
+2020-12-21 20:55:25+0530 > <CpsLk><CpsLk>cd ke<Tab>
+2020-12-21 20:55:42+0530 > ls
+2020-12-21 20:55:42+0530 > vi wa<Tab>.<Tab>
+2020-12-21 20:55:47+0530 > <#+1><Up><#+19><Up><Up><Up><Right><#+23><RShft>*******<PgDn><#+19><PgUp><#+27><PgDn><PgDn><PgDn><PgDn><PgDn><#+23><PgUp><PgUp><#+30><Up><Up><Up><Right><#+7><RShft>:q
+2020-12-21 20:56:28+0530 > 
+2020-12-21 20:56:28+0530 > 
+2020-12-21 20:56:28+0530 > 
+2020-12-21 20:56:29+0530 > 
+2020-12-21 20:56:29+0530 > 
+2020-12-21 20:56:29+0530 > 
+2020-12-21 20:56:29+0530 > <Up><Up><Up><Up><Up><Down><Up>
+2020-12-21 20:56:35+0530 > 
+2020-12-21 20:56:35+0530 > 
+2020-12-21 20:56:35+0530 > <Up><Up><#+2><Up><Up><Up><Left><BckSp><#+8><BckSp><BckSp><BckSp><BckSp><CpsLk>CONFIG<RShft>_A<BckSp>NOWAY
+2020-12-21 20:56:49+0530 > <Up><Left><BckSp><BckSp><BckSp><BckSp><BckSp>WATCHDOG<RShft>_NOW
+2020-12-21 20:56:57+0530 > <CpsLk><CpsLk>CD <BckSp><#+13><CpsLk>cd dr<Tab>c<Tab><Tab>h<Tab>ip<Tab><Tab><Tab><Tab>ip<Tab><Tab><BckSp><BckSp>
+2020-12-21 20:57:29+0530 > ls
+2020-12-21 20:57:29+0530 > vi ip<Tab><#+1>wa<Tab>
+2020-12-21 20:57:35+0530 > <PgDn><PgDn><PgDn><PgUp><Up><#+34><Up><#+8><PgDn><PgDn><PgDn><#+30><PgUp><PgUp><#+34><Down><#+5><Down><#+18><Up><#+9><Right><#+13><Down><#+10><Down><#+3><Down><#+17><Down><#+12><Down><#+8><Down><#+22><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><#+1><PgDn><PgDn><#+23><PgUp><CpsLk><CpsLk><RShft>:q
+2020-12-21 20:58:10+0530 > 
+2020-12-21 20:58:10+0530 > 
+2020-12-21 20:58:10+0530 > 
+2020-12-21 20:58:11+0530 > 
+2020-12-21 20:58:11+0530 > 
+2020-12-21 20:58:11+0530 > <#+61><LAlt><Tab><LMeta>lzs10062013
+2020-12-22 16:22:13+0530 > <LAlt><Tab>cd ../.../.<BckSp><BckSp><BckSp>/.../<BckSp><BckSp>/..
+2020-12-22 16:23:28+0530 > 
+2020-12-22 16:23:28+0530 > 
+2020-12-22 16:23:28+0530 > 
+2020-12-22 16:23:28+0530 > 
+2020-12-22 16:23:29+0530 > 
+2020-12-22 16:23:29+0530 > 
+2020-12-22 16:23:29+0530 > ls
+2020-12-22 16:23:31+0530 > 
+2020-12-22 16:23:31+0530 > cd u<Tab><Tab><Tab>s<Tab>
+2020-12-22 16:23:36+0530 > ls
+2020-12-22 16:23:37+0530 > 
+2020-12-22 16:23:37+0530 > 
+2020-12-22 16:23:38+0530 > grep -r<CpsLk><Tab>QH<CpsLk><BckSp><BckSp><CpsLk>H<CpsLk> <#+2><RShft>""<CpsLk><CpsLk><Left>tmw<BckSp>u
+2020-12-22 16:23:48+0530 > 
+
+Logging stopped at 2020-12-22 16:24:40+0530
+
