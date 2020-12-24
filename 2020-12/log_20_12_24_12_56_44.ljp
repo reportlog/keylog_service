@@ -1,0 +1,13 @@
+Logging started ...
+
+2020-12-24 12:56:44+0530 > <CpsLk><CpsLk>zs1006<BckSp><#+15>zs10062013
+2020-12-24 16:02:29+0530 > <LAlt>4ls
+2020-12-24 16:02:36+0530 > ls
+2020-12-24 16:02:37+0530 > cd a<Tab>a<Tab><Tab>r<Tab><Tab>m<Tab><Tab>/<Tab><Tab><Tab>b<Tab><Tab><Tab>d<Tab>
+2020-12-24 16:02:51+0530 > ls
+2020-12-24 16:02:52+0530 > vi st<Tab><Tab>m<Tab><Tab><Tab>157<Tab><Tab><Tab><Tab><BckSp><BckSp><BckSp>mp<Tab><Tab><Tab>c<Tab><Tab><#+1>-d<Tab><#+2><BckSp><#+23>grep -r<CpsLk>H<CpsLk> <CpsLk><RShft>""<Left><CpsLk><CpsLk>WATCHDOG
+2020-12-24 16:03:28+0530 > <CpsLk><CpsLk><CpsLk><CpsLk><Up><Left><BckSp><#+9><BckSp><BckSp>WATCHD<BckSp><#+10><CpsLk>watchdog
+2020-12-24 16:03:40+0530 > <LAlt><Tab><#+1><LAlt><Tab><LMeta><#+44>l
+
+Logging stopped at 2020-12-24 18:40:01+0530
+
