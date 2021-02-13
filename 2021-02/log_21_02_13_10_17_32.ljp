@@ -1,0 +1,61 @@
+Logging started ...
+
+2021-02-13 10:17:32+0530 > sujay<RShft>@zumisolutions.com
+2021-02-13 10:18:03+0530 > <Enter><RShft>Sujay<LShft>_2020
+2021-02-13 10:18:15+0530 > <Enter>zynq z<BckSp>secure boot
+2021-02-13 10:18:43+0530 > <Enter><RCtrl><KP9><NumLk><KP9><KP9><KP9><KP9><KP9><KP9><KP9><#+1><KP9><KP9><KP9><KP6><KP3><KP3><KP3><KP3><KP9>ifc<Tab>
+2021-02-13 10:32:42+0530 > <Enter>imx6dl windows iot
+2021-02-13 10:45:00+0530 > <Enter><LCtrl><#+13><Down><Down><Tab>zs10062013
+2021-02-13 10:45:33+0530 > <Enter><LCtrl><#+21><LAlt><Tab><LAlt><Tab><LCtrl><#+14><LAlt>`<LAlt>`<LAlt><Tab>ch<LAlt><Tab><LAlt><Tab><LAlt><Tab><LCtrl><LShft>Twimwiniot imx
+2021-02-13 10:48:52+0530 > <Enter>imxiot core supported drivers
+2021-02-13 10:49:19+0530 > <Enter>sdhc
+2021-02-13 10:51:58+0530 > <Enter>i2c
+2021-02-13 10:52:00+0530 > <Enter>spi
+2021-02-13 10:52:01+0530 > <Enter>emmc
+2021-02-13 10:52:02+0530 > <Enter>uart
+2021-02-13 10:52:05+0530 > <Enter><LMeta><Tab><LMeta><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><Tab><LAlt><Tab>usb-host
+2021-02-13 10:52:26+0530 > <Enter><LAlt><Tab><LAlt><Tab>pwm
+2021-02-13 10:53:00+0530 > <Enter>gpio
+2021-02-13 10:53:02+0530 > <Enter>pmi<BckSp><BckSp>p<BckSp>rocessor power managee<BckSp>ment<LAlt><Tab> <LShft>(<LAlt><Tab><LAlt><Tab>pep<LShft><#+4><LShft>)<LAlt><Tab>sdhc <Home>windows iot nx<BckSp><BckSp>imx6dl <End>test application
+2021-02-13 10:56:24+0530 > <Enter><LCtrl><#+37><LCtrl>f<LCtrl>fsdhc<LAlt><Tab>imx6dl sdhc windows iot
+2021-02-13 11:22:28+0530 > <Enter><LAlt><Tab><LAlt><Tab><BckSp> i2c
+2021-02-13 11:23:19+0530 > <Enter><LCtrl><#+29><LCtrl><#+35><LCtrl><#+33><LAlt><Tab><LCtrl>fdl<BckSp><BckSp><BckSp><Esc><LCtrl>sto<LShft>_find<LShft>_win<LShft>_iot.txt
+2021-02-13 11:24:48+0530 > <Enter>-
+2021-02-13 11:24:54+0530 > <Enter>
+2021-02-13 11:24:54+0530 > <Enter><Up><LAlt><Tab><LCtrl>x<LAlt><Tab><LCtrl>v
+2021-02-13 11:25:04+0530 > <Enter>
+2021-02-13 11:25:04+0530 > <Enter><LAlt><Tab><LCtrl>x<LAlt><Tab><Up><LCtrl>v
+2021-02-13 11:25:12+0530 > <Enter><LAlt><Tab><LCtrl>x<LAlt><Tab><Up><Up>
+2021-02-13 11:25:19+0530 > <Enter><Up><LCtrl>v<Down><Down><Down><Down><BckSp><BckSp><Down><Down>
+2021-02-13 11:25:25+0530 > <Enter>
+2021-02-13 11:25:25+0530 > <Enter>
+2021-02-13 11:25:26+0530 > <Enter><Up><Up><LAlt><Tab><LAlt><Tab><LAlt><Tab><Left><BckSp><BckSp><BckSp>si<BckSp>pi
+2021-02-13 11:26:05+0530 > <Enter><LCtrl><#+35><LAlt><Tab><LCtrl>x
+2021-02-13 11:27:51+0530 > <Enter>
+2021-02-13 11:27:51+0530 > <Enter><LCtrl>v<LAlt><Tab><LAlt><Tab><LAlt><Tab><Esc><Esc><Esc><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab>spi imx6dl windows iot
+2021-02-13 11:30:13+0530 > <Enter> test
+2021-02-13 11:30:21+0530 > <Enter><Right><Right><Right> test<LShft>"<LCtrl><Left><Left><LShft>"<End><BckSp><#+8><BckSp>
+2021-02-13 11:30:49+0530 > <Enter><LCtrl><#+27><LCtrl><#+19><LCtrl>ftest
+2021-02-13 11:31:07+0530 > <KPEnt><LCtrl><#+4><LCtrl>c
+2021-02-13 11:31:31+0530 > c<LCtrl>fv<LCtrl>axv spi test
+2021-02-13 11:31:50+0530 > <Enter><LCtrl><#+19><LCtrl><#+13><LCtrl>w<LMeta><Tab><LMeta><Tab><LAlt><Tab><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><LAlt><Tab><LAlt><Tab><LAlt><Tab><LCtrl>w<BckSp><#+27><LCtrl>w<LCtrl>h<BckSp><BckSp>indows 10 iot spi <LCtrl><Left><Left><Right><Right><Right> imx6
+2021-02-13 11:36:06+0530 > <Enter><LCtrl><#+8> test
+2021-02-13 11:36:36+0530 > <Enter><LCtrl><#+13><LCtrl>fspi test
+2021-02-13 11:36:54+0530 > <Enter><Esc><BckSp><BckSp><BckSp><BckSp>
+2021-02-13 11:36:58+0530 > <Enter><LAlt><Tab><LCtrl>c
+2021-02-13 11:38:03+0530 > c<BckSp>
+2021-02-13 11:38:07+0530 > <Enter><LCtrl><#+33><LShft><LCtrl>f<LCtrl>c
+2021-02-13 11:38:28+0530 > c<LCtrl>fv<LCtrl><#+15><LCtrl><#+12><LCtrl>x<LCtrl>v
+2021-02-13 11:41:45+0530 > <Enter><LAlt><Tab><LCtrl>x<LAlt><Tab><LCtrl>v<LCtrl>z
+2021-02-13 11:41:59+0530 > <Enter><LCtrl>v<LAlt><Tab><LAlt><Tab><LAlt><Tab>
+2021-02-13 11:45:57+0530 > <Enter><LAlt><Tab><LAlt><Tab><LAlt><Tab><LCtrl><PgUp><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LCtrl><PgUp><PgUp><PgDn><LAlt><Tab><LAlt><Tab><LCtrl>femmcc<BckSp><#+16>emmc <LAlt><Tab><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>
+2021-02-13 11:47:30+0530 > <Enter><LAlt><Left><LAlt><Tab><LAlt><Tab><LAlt><Tab><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><LAlt><Tab><LAlt><Tab>emmc test <BckSp><LCtrl>v<BckSp><#+67><BckSp><BckSp><BckSp>window te<BckSp><BckSp>10<BckSp><BckSp>iot<LShft><Home><LCtrl>c
+2021-02-13 11:50:49+0530 > c<LAlt><Tab><Down><#+11><Down><Down>
+2021-02-13 11:50:53+0530 > <Enter>
+2021-02-13 11:50:54+0530 > <Enter>
+2021-02-13 11:50:54+0530 > <Enter><LCtrl>v<Home><Del><Del><Del><Del><Del><Del><Del><Del><Del><End> imx<LAlt><Tab><Right><Left><Left><Left><Left>10<LAlt><Tab><Left><Left><Left><#+11><Right>s10<LAlt><Tab><Left><Left><Left><Right>s
+2021-02-13 11:51:16+0530 > <Enter><LCtrl><#+15><LShft>"<LCtrl><Left><Left><Left><Left><Right><Right><LShft>"
+2021-02-13 11:51:39+0530 > <Enter><LCtrl><#+24><LAlt><Tab><Tab><LAlt><LAlt><Tab><BckSp><LAlt><Tab><BckSp><LAlt><Tab>
+
+Logging stopped at 2021-02-13 12:00:33+0530
+
