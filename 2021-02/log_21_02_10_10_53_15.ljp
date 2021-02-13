@@ -1,0 +1,1066 @@
+Logging started ...
+
+2021-02-10 10:53:15+0530 > <LMeta>l
+2021-02-10 11:14:19+0530 > <Enter>
+2021-02-10 11:14:19+0530 > <Enter>
+2021-02-10 11:14:20+0530 > <Enter>zs10062013
+2021-02-10 11:14:52+0530 > <Enter>-10feb
+2021-02-10 11:18:56+0530 > <Enter>
+2021-02-10 11:18:56+0530 > <Enter>
+2021-02-10 11:18:57+0530 > <Enter>
+2021-02-10 11:18:57+0530 > <Enter>
+2021-02-10 11:18:57+0530 > <Enter>
+2021-02-10 11:18:57+0530 > <Enter>cd /<CpsLk>A<CpsLk>p<BckSp><BckSp><BckSp><CpsLk>D<CpsLk><#+2><Tab>o<Tab><Tab>w<Tab>
+2021-02-10 11:19:05+0530 > <Enter>ls
+2021-02-10 11:19:06+0530 > <Enter>cd l<Tab><Tab><BckSp><CpsLk>L<Tab>
+2021-02-10 11:19:09+0530 > <Enter><CpsLk>ls
+2021-02-10 11:19:10+0530 > <Enter>cd yo<Tab>yo<Tab>
+2021-02-10 11:19:15+0530 > <Enter>
+2021-02-10 11:19:15+0530 > <Enter>ls
+2021-02-10 11:19:16+0530 > <Enter>
+2021-02-10 11:19:16+0530 > <Enter>cd b<Tab>
+2021-02-10 11:19:19+0530 > <Enter>ls
+2021-02-10 11:19:20+0530 > <Enter>cd t<Tab>
+2021-02-10 11:19:23+0530 > <Enter>ls
+2021-02-10 11:19:24+0530 > <Enter>cd w<Tab>
+2021-02-10 11:19:25+0530 > <Enter>cd ..
+2021-02-10 11:19:27+0530 > <Enter>
+2021-02-10 11:19:27+0530 > <Enter>
+2021-02-10 11:19:27+0530 > <Enter>cd w<Tab>-<Tab>
+2021-02-10 11:19:29+0530 > <Enter>
+2021-02-10 11:19:30+0530 > <Enter>ls
+2021-02-10 11:19:30+0530 > <Enter>cd s<Tab><#+3>
+2021-02-10 11:19:34+0530 > <Enter>ls
+2021-02-10 11:19:35+0530 > <Enter>cd t<Tab>
+2021-02-10 11:19:38+0530 > <Enter>ls
+2021-02-10 11:19:40+0530 > <Enter>cd ..
+2021-02-10 11:19:42+0530 > <Enter>
+2021-02-10 11:19:42+0530 > <Enter>ls -l
+2021-02-10 11:19:44+0530 > <Enter>-10fec<BckSp>b-feb10<LShft><Ins>
+2021-02-10 11:25:35+0530 > <Enter><LCtrl><#+61>sources
+2021-02-10 11:27:09+0530 > <Enter>ls
+2021-02-10 11:30:30+0530 > <Enter>
+2021-02-10 11:30:30+0530 > <Enter>
+2021-02-10 11:30:30+0530 > <Enter>
+2021-02-10 11:30:30+0530 > <Enter>cd ../../..
+2021-02-10 11:30:34+0530 > <Enter>
+2021-02-10 11:30:35+0530 > <Enter>
+2021-02-10 11:30:35+0530 > <Enter>ls
+2021-02-10 11:30:36+0530 > <Enter>cd w<Tab><Tab><Tab>s<Tab><#+1>
+2021-02-10 11:30:39+0530 > <Enter>ls
+2021-02-10 11:30:40+0530 > <Enter>
+2021-02-10 11:30:40+0530 > <Enter>cd l<Tab>
+2021-02-10 11:30:44+0530 > <Enter>
+2021-02-10 11:30:44+0530 > <Enter>ls
+2021-02-10 11:30:45+0530 > <Enter>ls
+2021-02-10 11:30:50+0530 > <Enter>cd ..
+2021-02-10 11:31:02+0530 > <Enter>
+2021-02-10 11:31:02+0530 > <Enter>
+2021-02-10 11:31:02+0530 > <Enter>ls
+2021-02-10 11:31:03+0530 > <Enter>cd ..
+2021-02-10 11:31:05+0530 > <Enter>
+2021-02-10 11:31:05+0530 > <Enter>ls
+2021-02-10 11:31:06+0530 > <Enter>cd c<Tab>o<Tab><#+1><BckSp>
+2021-02-10 11:31:10+0530 > <Enter>ls
+2021-02-10 11:31:10+0530 > <Enter>vi bb<Tab><Tab><Tab><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>ls
+2021-02-10 11:31:16+0530 > <Enter>cd ..
+2021-02-10 11:31:19+0530 > <Enter>
+2021-02-10 11:31:20+0530 > <Enter>ls
+2021-02-10 11:31:20+0530 > <Enter>
+2021-02-10 11:31:20+0530 > <Enter>cd <Tab>a<Tab><#+1>
+2021-02-10 11:31:23+0530 > <Enter>ls
+2021-02-10 11:31:23+0530 > <Enter>cd ..
+2021-02-10 11:31:31+0530 > <Enter>
+2021-02-10 11:31:32+0530 > <Enter>ls
+2021-02-10 11:31:32+0530 > <Enter>cd c<Tab><#+1>
+2021-02-10 11:31:35+0530 > <Enter>ls
+2021-02-10 11:31:36+0530 > <Enter>vi l<Tab><#+1>
+2021-02-10 11:31:39+0530 > <Enter><RShft>:q
+2021-02-10 11:32:17+0530 > <Enter>df
+2021-02-10 11:32:47+0530 > <Enter><Del>ls
+2021-02-10 11:34:15+0530 > <Enter><F11><#+2>cd ..
+2021-02-10 11:34:19+0530 > <Enter>
+2021-02-10 11:34:20+0530 > <Enter>
+2021-02-10 11:34:20+0530 > <Enter>cd s<Tab>
+2021-02-10 11:34:21+0530 > <Enter>
+2021-02-10 11:34:21+0530 > <Enter>ls
+2021-02-10 11:34:22+0530 > <Enter>
+2021-02-10 11:34:22+0530 > <Enter>
+2021-02-10 11:34:22+0530 > <Enter>cp -rf t<Tab> .<BckSp><RShft>~/<CpsLk>D<CpsLk>e<Tab><Tab>s<Tab>w<Tab><BckSp><Tab><CpsLk><CpsLk>w<Tab><Tab>o<Tab>s<Tab>
+2021-02-10 11:34:43+0530 > <Enter><LAlt><Tab>sync
+2021-02-10 11:35:17+0530 > <Enter>
+2021-02-10 11:35:18+0530 > <Enter>
+2021-02-10 11:35:18+0530 > <Enter><LCtrl><LShft><#+1>t<LCtrl><LShft>T<LCtrl><LCtrl><#+6>cd <RShft>~/<CpsLk>D<CpsLk><Tab><#+1>e<Tab><Tab>w<Tab><Tab>o<Tab>s<Tab><#+1>
+2021-02-10 11:35:52+0530 > <Enter>
+2021-02-10 11:35:52+0530 > <Enter>
+2021-02-10 11:35:52+0530 > <Enter>ls
+2021-02-10 11:35:53+0530 > <Enter>
+2021-02-10 11:35:53+0530 > <Enter>cd t<Tab><#+1>
+2021-02-10 11:35:56+0530 > <Enter>
+2021-02-10 11:35:56+0530 > <Enter>
+2021-02-10 11:35:56+0530 > <Enter>;<BckSp><BckSp>ls -la<Tab>
+2021-02-10 11:35:59+0530 > <Enter><Up><Up><Up><Down><Left><#+25><Left><Left><Left><BckSp><#+14><BckSp>u<Tab><#+1><Tab><Tab>s<Tab><#+1>
+2021-02-10 11:37:09+0530 > <Enter>sync
+2021-02-10 11:38:09+0530 > <Enter><LCtrl><LShft><#+1>T<LCtrl><LShft>T<LAlt>1<LCtrl><#+19><BckSp><BckSp><LAlt>2<#+1><#+1>cd ..
+2021-02-10 11:38:42+0530 > <Enter>
+2021-02-10 11:38:43+0530 > <Enter>ls
+2021-02-10 11:38:43+0530 > <Enter>cd u<Tab>
+2021-02-10 11:38:46+0530 > <Enter>
+2021-02-10 11:38:46+0530 > <Enter>ls -la
+2021-02-10 11:38:48+0530 > <Enter><LAlt>1<Up><Up><Left><#+25><Left><BckSp><#+9><BckSp><BckSp>f<Tab><Tab><#+1><Tab><Tab><Tab><BckSp>fw<Tab><Tab><BckSp><BckSp><BckSp><BckSp><BckSp><Tab><Tab><Tab>fw<Tab>
+2021-02-10 11:39:25+0530 > <Enter><Up><Left><#+28><Right><Right><BckSp> 
+2021-02-10 11:39:32+0530 > <Enter><Up><Left><#+27><Left><BckSp><#+13><BckSp><BckSp><BckSp><BckSp>li<Tab><#+1><LAlt>2cd ..
+2021-02-10 11:40:17+0530 > <Enter>
+2021-02-10 11:40:17+0530 > <Enter>ls
+2021-02-10 11:40:18+0530 > <Enter>cd u<Tab>f<Tab>
+2021-02-10 11:40:21+0530 > <Enter>
+2021-02-10 11:40:21+0530 > <Enter>s<BckSp><BckSp>ls -l
+2021-02-10 11:40:23+0530 > <Enter><LAlt>1<LAlt>2<#+1><#+1>cd ..
+2021-02-10 11:40:34+0530 > <Enter>
+2021-02-10 11:40:34+0530 > <Enter><LAlt>1<#+1><#+1>
+2021-02-10 11:40:37+0530 > <Enter>sync
+2021-02-10 11:43:29+0530 > <Enter><LAlt>21<LAlt>2cd ..
+2021-02-10 11:43:40+0530 > <Enter>
+2021-02-10 11:43:40+0530 > <Enter>
+2021-02-10 11:43:41+0530 > <Enter>ls
+2021-02-10 11:43:41+0530 > <Enter>cd s<Tab>
+2021-02-10 11:43:44+0530 > <Enter>ls
+2021-02-10 11:43:45+0530 > <Enter>
+2021-02-10 11:43:45+0530 > <Enter>
+2021-02-10 11:43:46+0530 > <Enter>cd l<Tab>
+2021-02-10 11:43:47+0530 > <Enter>
+2021-02-10 11:43:47+0530 > <Enter>
+2021-02-10 11:43:48+0530 > <Enter>ls -l
+2021-02-10 11:43:49+0530 > <Enter>ls -la
+2021-02-10 11:43:51+0530 > <Enter><LAlt>12<LAlt><Tab><LAlt><Tab>df
+2021-02-10 11:44:29+0530 > <Enter><LAlt><Tab>gma<BckSp><BckSp><BckSp><BckSp>goos<BckSp><BckSp>sulaimanafridi52<RShft>@gmail.com<CpsLk>A<CpsLk>fr<BckSp><BckSp><BckSp><BckSp>afridi97a604566695cd ..
+2021-02-10 11:48:07+0530 > <Enter>cd ../../..
+2021-02-10 11:48:11+0530 > <Enter>
+2021-02-10 11:48:11+0530 > <Enter>
+2021-02-10 11:48:12+0530 > <Enter>
+2021-02-10 11:48:12+0530 > <Enter>ls
+2021-02-10 11:48:13+0530 > <Enter>
+2021-02-10 11:48:13+0530 > <Enter>
+2021-02-10 11:48:13+0530 > <Enter><LAlt><Tab><LAlt><Tab><Tab><Tab>sulaimanad<BckSp>fridi52<RShft>@gmail.comafridi<BckSp><#+18>afridi97<LAlt><Tab><Tab><Tab><LAlt><Tab>ls
+2021-02-10 12:06:12+0530 > <Enter>cd ..
+2021-02-10 12:06:16+0530 > <Enter>
+2021-02-10 12:06:16+0530 > <Enter>ls
+2021-02-10 12:06:16+0530 > <Enter>cd c<Tab>
+2021-02-10 12:06:19+0530 > <Enter>ls
+2021-02-10 12:06:20+0530 > <Enter>cd ..
+2021-02-10 12:06:22+0530 > <Enter>
+2021-02-10 12:06:22+0530 > <Enter>
+2021-02-10 12:06:22+0530 > <Enter>ls
+2021-02-10 12:06:23+0530 > <Enter>cd a<Tab>
+2021-02-10 12:06:25+0530 > <Enter>ls
+2021-02-10 12:06:26+0530 > <Enter>vi 1<Tab>
+2021-02-10 12:06:33+0530 > <Enter><CpsLk><CpsLk><RShft>:q
+2021-02-10 12:06:43+0530 > <Enter>
+2021-02-10 12:06:46+0530 > <Enter><LCtrl>c
+2021-02-10 12:06:47+0530 > c<#+1><#+1>cd ..
+2021-02-10 12:06:50+0530 > <Enter>
+2021-02-10 12:06:50+0530 > <Enter>ls
+2021-02-10 12:06:51+0530 > <Enter>cd c<Tab>
+2021-02-10 12:06:53+0530 > <Enter>ls
+2021-02-10 12:06:54+0530 > <Enter>vi l<Tab>
+2021-02-10 12:06:56+0530 > <Enter><RShft>:q
+2021-02-10 12:07:02+0530 > <Enter>
+2021-02-10 12:07:02+0530 > <Enter>
+2021-02-10 12:07:03+0530 > <Enter>cd ..
+2021-02-10 12:07:04+0530 > <Enter>
+2021-02-10 12:07:04+0530 > <Enter>
+2021-02-10 12:07:04+0530 > <Enter>ls
+2021-02-10 12:07:05+0530 > <Enter>
+2021-02-10 12:07:05+0530 > <Enter>
+2021-02-10 12:07:05+0530 > <Enter>cd ..
+2021-02-10 12:07:06+0530 > <Enter>
+2021-02-10 12:07:06+0530 > <Enter>ls
+2021-02-10 12:07:07+0530 > <Enter>cd c<Tab><Tab>o<Tab>
+2021-02-10 12:07:12+0530 > <Enter>ls
+2021-02-10 12:07:13+0530 > <Enter>vi bb<Tab>
+2021-02-10 12:07:18+0530 > <Enter><Down><#+17><Down><Up><#+10><Up><Down><Right><#+1><Right><LAlt><Tab>pwd
+2021-02-10 12:07:43+0530 > <Enter>tex<LCtrl>v/<LAlt><Tab><LAlt><#+22><LAlt><Tab><LAlt><Tab>workspace \<LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><RShft>:q
+2021-02-10 12:09:24+0530 > <Enter>ls
+2021-02-10 12:09:25+0530 > <Enter>cd ..
+2021-02-10 12:09:28+0530 > <Enter>
+2021-02-10 12:09:28+0530 > <Enter>
+2021-02-10 12:09:28+0530 > <Enter><LAlt><Tab>ls
+2021-02-10 12:09:34+0530 > <Enter>cd c<Tab>o<Tab>
+2021-02-10 12:09:39+0530 > <Enter>ls
+2021-02-10 12:09:40+0530 > <Enter>vi bb<Tab>
+2021-02-10 12:09:44+0530 > <Enter><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down>i
+2021-02-10 12:09:53+0530 > <Enter><Up><BckSp>i<BckSp><CpsLk><CpsLk>ii<BckSp><BckSp><Esc><#+3><Esc><RShft>:q
+2021-02-10 12:10:21+0530 > <Enter><RShft>:q<RShft>!
+2021-02-10 12:10:24+0530 > <Enter><Up>
+2021-02-10 12:10:25+0530 > <Enter><Down><#+15><Up><Up>ii<#+4><BckSp><Right><BckSp><BckSp><BckSp><RShft>:<#+1><#+1>q<BckSp><BckSp><Esc><#+1><Esc><#+1><Esc><RShft>:q
+2021-02-10 12:10:50+0530 > <Enter><RShft>:q<RShft>!
+2021-02-10 12:10:52+0530 > <Enter><Up>
+2021-02-10 12:10:55+0530 > <Enter><LCtrl>c
+2021-02-10 12:11:00+0530 > c<Down><#+17><Up><Up>a<Up><BckSp>dd<Esc><#+4><CpsLk><CpsLk>dd<Up><Up><Right><#+40>i<Right><#+1><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><Esc><#+5><RShft>:q<RShft>!
+2021-02-10 12:11:42+0530 > <Enter><Up>
+2021-02-10 12:11:43+0530 > <Enter><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down>i<Up><Up><Up><Up><Down>
+2021-02-10 12:12:01+0530 > <Enter>i<Esc><#+2><RShft>:q
+2021-02-10 12:12:07+0530 > <Enter><LAlt><Tab><Down><Down><Down><Down><Down><Down><#+1><Down><Down><Up><#+34><Up><Left><#+27><Right><#+23><BckSp><#+6><Esc><#+8><RShft>:q<RShft>!
+2021-02-10 12:12:23+0530 > <Enter>ls
+2021-02-10 12:12:50+0530 > <Enter><Up><Up><Down><BckSp><BckSp>vi <BckSp><BckSp><BckSp><BckSp><BckSp>ls
+2021-02-10 12:13:19+0530 > <Enter>vo <BckSp><BckSp>i lo<Tab>
+2021-02-10 12:13:25+0530 > <Enter>vi<BckSp><BckSp>v<BckSp><BckSp>cd <Tab>c<Tab><BckSp><BckSp><BckSp><BckSp><BckSp>ls
+2021-02-10 12:13:39+0530 > <Enter>cd c<Tab>
+2021-02-10 12:13:41+0530 > <Enter><Up>o<Tab>
+2021-02-10 12:13:42+0530 > <Enter>ls
+2021-02-10 12:13:43+0530 > <Enter>vi l<Tab>
+2021-02-10 12:13:46+0530 > <Enter><LAlt>23<#+1>1d<LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><RShft>:q
+2021-02-10 12:14:40+0530 > <Enter>vi <LAlt><Tab><RShft>:<Down><Down><RShft>:q<RShft>!
+2021-02-10 12:15:05+0530 > <Enter>vi bb<Tab>
+2021-02-10 12:15:10+0530 > <Enter><Down><#+2><PgDn><PgDn><PgUp><PgDn><PgDn><PgDn><PgDn><PgUp><PgDn><PgDn>ii<#+4><BckSp><Up><Up><Up><Up><Up><Up><#+58><RShft>:<BckSp><BckSp><BckSp><Esc><#+3><RShft>:q<RShft>!<#+1><#+1>
+2021-02-10 12:15:45+0530 > <Enter><Up>
+2021-02-10 12:15:48+0530 > <Enter><Down><Down><Down><Down><Down>bb<Tab>
+2021-02-10 12:16:07+0530 > <Enter><LAlt><Tab><Down><Down><Down><Down><LAlt><Tab><LAlt><Tab><Down><Down><Down><LShft><Ins><Left><#+18><Right><#+19><Right><Right>
+2021-02-10 12:16:32+0530 > <Enter>
+2021-02-10 12:16:33+0530 > <Enter><Up><Left><Up><Up><Up><Down><Down><Left>i<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>i<#+4><BckSp><BckSp><BckSp><BckSp><BckSp><RShft>:1<#+1><BckSp><Esc><#+3><RShft>:q<RShft>!<#+2><#+2>
+2021-02-10 12:16:56+0530 > <Enter><Up>
+2021-02-10 12:16:58+0530 > <Enter><Down><#+16><Up><Up><Up>one help just add the path in text<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>from ext<BckSp><BckSp><BckSp>text editor into the bblayers where i kept the mouse poi<Left><#+24><Left><Left><Left><Left><Left><Right><#+30>nter<BckSp><BckSp>below that one<Up>
+2021-02-10 12:20:14+0530 > <Enter>
+2021-02-10 12:20:16+0530 > <Enter><#+3> give space like above two path h also <RShft>" should come next lne<BckSp><BckSp>ine<Left><Left><Left><Left><#+12><Left><Left><Left><Left><Left><Left><Left><Left><Right><Right><Right> undr<BckSp>er <Left><Right><#+49><Down><Up><Down><Up><Down><Right><Right><Down><Up><Up><Up><Esc><#+4><Esc><#+4>dd<Esc><#+2><RShft>:w
+2021-02-10 12:25:47+0530 > <Enter><LAlt><Tab><LAlt>it<BckSp> it <BckSp><BckSp>it s fine thank you<BckSp><#+106><Up><BckSp><#+42>ls
+2021-02-10 12:26:33+0530 > <Enter><LAlt>2<Esc><RShft>:wq
+2021-02-10 12:26:46+0530 > <Enter><Up>
+2021-02-10 12:26:49+0530 > <Enter><LAlt>1<#+1>2<#+1><#+1><RShft>:q<RShft>:<#+1><#+1><Esc><#+2><Esc><#+2><Esc><#+2><Esc><#+4><Esc><#+1>q
+2021-02-10 12:27:07+0530 > <Enter>q<Up><Up><#+1><Down><#+22>qq<RShft>:<#+5><#+5>q
+2021-02-10 12:27:28+0530 > <Enter><RShft>:q<RShft>!<#+1><#+1>
+2021-02-10 12:27:33+0530 > <Enter><#+1><LAlt>1<RShft>:q
+2021-02-10 12:28:02+0530 > <Enter>cd ..
+2021-02-10 12:28:05+0530 > <Enter>
+2021-02-10 12:28:06+0530 > <Enter>
+2021-02-10 12:28:06+0530 > <Enter>cd w<Tab>
+2021-02-10 12:28:07+0530 > <Enter>
+2021-02-10 12:28:07+0530 > <Enter>ls
+2021-02-10 12:28:08+0530 > <Enter>
+2021-02-10 12:28:08+0530 > <Enter>
+2021-02-10 12:28:08+0530 > <Enter>
+2021-02-10 12:28:08+0530 > <Enter>cd c`<BckSp><Tab><BckSp><#+8><BckSp>a<Tab>
+2021-02-10 12:28:14+0530 > <Enter>
+2021-02-10 12:28:14+0530 > <Enter>ls
+2021-02-10 12:28:15+0530 > <Enter>
+2021-02-10 12:28:15+0530 > <Enter>
+2021-02-10 12:28:15+0530 > <Enter>
+2021-02-10 12:28:15+0530 > <Enter>vi l<Tab>
+2021-02-10 12:28:20+0530 > <Enter><RShft>:q
+2021-02-10 12:29:04+0530 > <Enter>ls -l
+2021-02-10 12:29:05+0530 > <Enter>ls -la
+2021-02-10 12:29:08+0530 > <Enter>cd .
+2021-02-10 12:29:18+0530 > <Enter>ls
+2021-02-10 12:29:19+0530 > <Enter>ls
+2021-02-10 12:29:22+0530 > <Enter>ls -l
+2021-02-10 12:29:23+0530 > <Enter>vi 1
+2021-02-10 12:29:34+0530 > <Enter><RShft>:q
+2021-02-10 12:29:36+0530 > <Enter><LAlt><Tab>ls -la
+2021-02-10 12:30:54+0530 > <Enter>cd ..
+2021-02-10 12:31:03+0530 > <Enter>
+2021-02-10 12:31:03+0530 > <Enter>
+2021-02-10 12:31:03+0530 > <Enter>cd ..
+2021-02-10 12:31:04+0530 > <Enter>
+2021-02-10 12:31:04+0530 > <Enter>ls -la
+2021-02-10 12:31:06+0530 > <Enter><LAlt><Tab><Up>
+2021-02-10 12:32:25+0530 > <Enter>
+2021-02-10 12:32:26+0530 > <Enter><Down><#+14><Right><Right><RShft>:q
+2021-02-10 12:32:31+0530 > <Enter><LAlt><Tab>gg<BckSp>ools
+2021-02-10 12:43:55+0530 > <Enter><LAlt>2<Tab>s<BckSp><BckSp><BckSp>goo<LCtrl><#+532><LAlt><Tab>mkdir workspace
+2021-02-10 12:46:44+0530 > <Enter>r<BckSp><BckSp>ls
+2021-02-10 12:46:48+0530 > <Enter>rm w<Tab>
+2021-02-10 12:46:51+0530 > <Enter><Up><Left><#+11><Left>-rf 
+2021-02-10 12:46:56+0530 > <Enter>
+2021-02-10 12:46:56+0530 > <Enter>
+2021-02-10 12:46:56+0530 > <Enter>cd ..
+2021-02-10 12:46:58+0530 > <Enter>
+2021-02-10 12:46:58+0530 > <Enter>
+2021-02-10 12:46:58+0530 > <Enter>ls
+2021-02-10 12:46:59+0530 > <Enter><Up><Up><Up><Up><Up><Up>
+2021-02-10 12:47:04+0530 > <Enter>
+2021-02-10 12:47:04+0530 > <Enter>cd w<Tab>
+2021-02-10 12:47:06+0530 > <Enter>ls
+2021-02-10 12:47:07+0530 > <Enter><LAlt>1<LAlt><Tab><Tab><Tab><LAlt><Tab><LAlt><Tab><Tab><Tab><Right><BckSp><#+21><BckSp>
+2021-02-10 12:49:18+0530 > <Enter><Right><BckSp><#+18><BckSp><BckSp><BckSp><BckSp><BckSp>
+2021-02-10 12:49:27+0530 > <Enter>cp<BckSp><BckSp><LCtrl><LShft>T<LCtrl><LShft>Tcd /<CpsLk><CpsLk><BckSp><RShft>~/<CpsLk>D<CpsLk>o<Tab><BckSp><#+1><CpsLk>D<CpsLk><CpsLk>DD<#+7>D<#+8><BckSp><BckSp><#+1><CpsLk>
+2021-02-10 12:50:01+0530 > <Enter>
+2021-02-10 12:50:01+0530 > <Enter>
+2021-02-10 12:50:01+0530 > <Enter>
+2021-02-10 12:50:01+0530 > <Enter>cd /<BckSp><Tab><Tab><CpsLk>DDDDDDD<#+9>D<#+1>D<#+6>SF<BckSp><BckSp><BckSp><BckSp><CpsLk><LAlt><Tab><LAlt><Tab><Tab>ls -la
+2021-02-10 12:52:22+0530 > <Enter>cd a<Tab>
+2021-02-10 12:52:25+0530 > <Enter>ls
+2021-02-10 12:52:28+0530 > <Enter>cd<BckSp><BckSp>ls<BckSp><BckSp><BckSp>1
+2021-02-10 12:53:11+0530 > <Enter><Del>1
+2021-02-10 12:53:35+0530 > <Enter><Del>ls
+2021-02-10 12:53:53+0530 > <Enter>ls
+2021-02-10 12:53:55+0530 > <Enter>cd ..
+2021-02-10 12:53:57+0530 > <Enter>
+2021-02-10 12:53:57+0530 > <Enter>
+2021-02-10 12:53:57+0530 > <Enter>
+2021-02-10 12:53:57+0530 > <Enter>ls
+2021-02-10 12:53:58+0530 > <Enter>ls -l
+2021-02-10 12:54:00+0530 > <Enter>cd a<Tab>
+2021-02-10 12:54:02+0530 > <Enter>ls
+2021-02-10 12:54:03+0530 > <Enter>ls -l
+2021-02-10 12:54:08+0530 > <Enter><LCtrl><#+121>sources
+2021-02-10 12:55:06+0530 > <Enter><Del>cd ..
+2021-02-10 12:56:50+0530 > <Enter>
+2021-02-10 12:56:50+0530 > <Enter>ls -la
+2021-02-10 12:56:54+0530 > <Enter>cd s<Tab>
+2021-02-10 12:56:56+0530 > <Enter>ls
+2021-02-10 12:56:58+0530 > <Enter>cd l<Tab>
+2021-02-10 12:57:00+0530 > <Enter>ls
+2021-02-10 12:57:05+0530 > <Enter>ls<BckSp><BckSp><BckSp><LAlt><Tab><Right><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>
+2021-02-10 12:57:18+0530 > <Enter><Up><Right><Right><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>
+2021-02-10 12:57:26+0530 > <Enter><Right><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>
+2021-02-10 12:57:35+0530 > <Enter>
+2021-02-10 12:57:39+0530 > <Enter>
+2021-02-10 12:57:40+0530 > <Enter>
+2021-02-10 12:57:40+0530 > <Enter>
+2021-02-10 12:57:40+0530 > <Enter>
+2021-02-10 12:57:40+0530 > <Enter>cd ..
+2021-02-10 12:57:41+0530 > <Enter>
+2021-02-10 12:57:42+0530 > <Enter>
+2021-02-10 12:57:42+0530 > <Enter>
+2021-02-10 12:57:42+0530 > <Enter>
+2021-02-10 12:57:42+0530 > <Enter>ls
+2021-02-10 12:57:43+0530 > <Enter>cd l<Tab>
+2021-02-10 12:57:45+0530 > <Enter>ls -la
+2021-02-10 12:57:47+0530 > <Enter>1
+2021-02-10 12:58:58+0530 > <Enter><Del><LAlt><Tab>ls
+2021-02-10 12:59:29+0530 > <Enter>cd ..
+2021-02-10 12:59:31+0530 > <Enter>
+2021-02-10 12:59:31+0530 > <Enter>
+2021-02-10 12:59:31+0530 > <Enter>
+2021-02-10 12:59:31+0530 > <Enter>ls
+2021-02-10 12:59:32+0530 > <Enter>
+2021-02-10 12:59:32+0530 > <Enter>
+2021-02-10 12:59:32+0530 > <Enter>cd l<Tab>
+2021-02-10 12:59:34+0530 > <Enter>
+2021-02-10 12:59:34+0530 > <Enter>
+2021-02-10 12:59:34+0530 > <Enter>
+2021-02-10 12:59:34+0530 > <Enter>ls -la
+2021-02-10 12:59:36+0530 > <Enter><BckSp>1
+2021-02-10 13:00:03+0530 > <Enter>cd t<Tab>
+2021-02-10 13:00:32+0530 > <Enter>cd ..
+2021-02-10 13:00:34+0530 > <Enter>
+2021-02-10 13:00:34+0530 > <Enter>
+2021-02-10 13:00:34+0530 > <Enter>cd w<Tab>
+2021-02-10 13:00:35+0530 > <Enter>ls
+2021-02-10 13:00:36+0530 > <Enter>
+2021-02-10 13:00:36+0530 > <Enter>
+2021-02-10 13:00:36+0530 > <Enter>cd <Tab>a<Tab>
+2021-02-10 13:00:38+0530 > <Enter>cd ..
+2021-02-10 13:00:40+0530 > <Enter>
+2021-02-10 13:00:40+0530 > <Enter>
+2021-02-10 13:00:40+0530 > <Enter>cd s<Tab>
+2021-02-10 13:00:41+0530 > <Enter>ls
+2021-02-10 13:00:42+0530 > <Enter>cd t<Tab>
+2021-02-10 13:00:44+0530 > <Enter>ls
+2021-02-10 13:00:45+0530 > <Enter><LAlt><Tab>ls
+2021-02-10 13:00:52+0530 > <Enter>
+2021-02-10 13:00:52+0530 > <Enter>cd ..
+2021-02-10 13:00:54+0530 > <Enter>
+2021-02-10 13:00:55+0530 > <Enter>
+2021-02-10 13:00:55+0530 > <Enter>cd t<Tab>
+2021-02-10 13:00:56+0530 > <Enter>
+2021-02-10 13:00:56+0530 > <Enter>
+2021-02-10 13:00:57+0530 > <Enter>ls
+2021-02-10 13:00:57+0530 > <Enter>ls -la
+2021-02-10 13:01:00+0530 > <Enter>ls -la
+2021-02-10 13:01:06+0530 > <Enter><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab>
+2021-02-10 13:01:32+0530 > <Enter><BckSp><Del><LCtrl><#+15>1
+2021-02-10 13:01:53+0530 > <Enter><Del>cd ../u<Tab>
+2021-02-10 13:02:12+0530 > <Enter>
+2021-02-10 13:02:12+0530 > <Enter>
+2021-02-10 13:02:12+0530 > <Enter>
+2021-02-10 13:02:12+0530 > <Enter>ls -la
+2021-02-10 13:02:14+0530 > <Enter>cd ..
+2021-02-10 13:02:19+0530 > <Enter>
+2021-02-10 13:02:19+0530 > <Enter>
+2021-02-10 13:02:19+0530 > <Enter>cd u<Tab>
+2021-02-10 13:02:20+0530 > <Enter><Up><Tab><Tab>s<Tab>
+2021-02-10 13:02:23+0530 > <Enter>
+2021-02-10 13:02:24+0530 > <Enter>
+2021-02-10 13:02:24+0530 > <Enter>ls -la<Tab>
+2021-02-10 13:02:26+0530 > <Enter><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><#+15><LAlt><Tab>cd ..
+2021-02-10 13:03:02+0530 > <Enter>
+2021-02-10 13:03:02+0530 > <Enter>ls
+2021-02-10 13:03:04+0530 > <Enter>
+2021-02-10 13:03:04+0530 > <Enter><LCtrl>tz<Down>
+2021-02-10 13:03:13+0530 > <Enter><LAlt><Tab><LAlt><Tab><LAlt><Tab><Tab>ls -la
+2021-02-10 13:04:24+0530 > <Enter>
+2021-02-10 13:04:25+0530 > <Enter>
+2021-02-10 13:04:26+0530 > <Enter>cd ..
+2021-02-10 13:04:30+0530 > <Enter>
+2021-02-10 13:04:30+0530 > <Enter>cd ..
+2021-02-10 13:04:34+0530 > <Enter>
+2021-02-10 13:04:34+0530 > <Enter>
+2021-02-10 13:04:34+0530 > <Enter>cd ..
+2021-02-10 13:04:35+0530 > <Enter>
+2021-02-10 13:04:35+0530 > <Enter>ls
+2021-02-10 13:04:36+0530 > <Enter>c<BckSp><BckSp>vi <CpsLk>R<Tab>
+2021-02-10 13:04:39+0530 > <Enter><LAlt><Tab><LAlt><LAlt><Tab><LAlt><Tab>CD A<Tab><BckSp><BckSp><BckSp>CD<CpsLk><BckSp><BckSp><BckSp>cd a<Tab>
+2021-02-10 13:06:35+0530 > <Enter>
+2021-02-10 13:06:35+0530 > <Enter>
+2021-02-10 13:06:36+0530 > <Enter>ls -l
+2021-02-10 13:06:37+0530 > <Enter>
+2021-02-10 13:06:38+0530 > <Enter>
+2021-02-10 13:06:38+0530 > <Enter>
+2021-02-10 13:06:38+0530 > <Enter>ls
+2021-02-10 13:06:46+0530 > <Enter>v<BckSp><BckSp>ls -l
+2021-02-10 13:06:51+0530 > <Enter><RShft>:q
+2021-02-10 13:09:22+0530 > <Enter>
+2021-02-10 13:09:23+0530 > <Enter>
+2021-02-10 13:09:23+0530 > <Enter>
+2021-02-10 13:09:23+0530 > <Enter>
+2021-02-10 13:09:23+0530 > <Enter>
+2021-02-10 13:09:23+0530 > <Enter>cd ..
+2021-02-10 13:09:24+0530 > <Enter>
+2021-02-10 13:09:24+0530 > <Enter>
+2021-02-10 13:09:24+0530 > <Enter>
+2021-02-10 13:09:24+0530 > <Enter>cda <BckSp><BckSp> a<Tab><Tab><BckSp><BckSp> ..
+2021-02-10 13:09:29+0530 > <Enter>
+2021-02-10 13:09:29+0530 > <Enter>
+2021-02-10 13:09:29+0530 > <Enter>
+2021-02-10 13:09:29+0530 > <Enter>ls
+2021-02-10 13:09:30+0530 > <Enter>
+2021-02-10 13:09:30+0530 > <Enter>cd <Tab><Tab>a<Tab><BckSp><BckSp> <Tab>b<Tab>w<Tab>a<Tab>
+2021-02-10 13:09:37+0530 > <Enter>ls
+2021-02-10 13:09:38+0530 > <Enter>
+2021-02-10 13:09:38+0530 > <Enter>vi l<Tab>
+2021-02-10 13:09:42+0530 > <Enter><LAlt><Tab><LAlt><Tab><LAlt><Tab>cd ..
+2021-02-10 13:15:52+0530 > <Enter>
+2021-02-10 13:15:53+0530 > <Enter>
+2021-02-10 13:15:53+0530 > <Enter>cd s<Tab>u<Tab>f<Tab>
+2021-02-10 13:15:58+0530 > <Enter>ls -ls<BckSp>a
+2021-02-10 13:16:02+0530 > <Enter><RShft>:q
+2021-02-10 13:16:11+0530 > <Enter>
+2021-02-10 13:16:11+0530 > <Enter>
+2021-02-10 13:16:12+0530 > <Enter>cd ..
+2021-02-10 13:16:13+0530 > <Enter>
+2021-02-10 13:16:13+0530 > <Enter>
+2021-02-10 13:16:14+0530 > <Enter>cd s<Tab>
+2021-02-10 13:16:15+0530 > <Enter>
+2021-02-10 13:16:15+0530 > <Enter>ls
+2021-02-10 13:16:15+0530 > <Enter>
+2021-02-10 13:16:16+0530 > <Enter>
+2021-02-10 13:16:16+0530 > <Enter>
+2021-02-10 13:16:16+0530 > <Enter>cd u<Tab>f<Tab>
+2021-02-10 13:16:19+0530 > <Enter>
+2021-02-10 13:16:19+0530 > <Enter>ls -la
+2021-02-10 13:16:20+0530 > <Enter>
+2021-02-10 13:16:20+0530 > <Enter>
+2021-02-10 13:16:21+0530 > <Enter><LAlt><#+5><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab>cd ..
+2021-02-10 13:17:08+0530 > <Enter>
+2021-02-10 13:17:08+0530 > <Enter>
+2021-02-10 13:17:09+0530 > <Enter>
+2021-02-10 13:17:09+0530 > <Enter>
+2021-02-10 13:17:09+0530 > <Enter>
+2021-02-10 13:17:09+0530 > <Enter>
+2021-02-10 13:17:09+0530 > <Enter>
+2021-02-10 13:17:09+0530 > <Enter>
+2021-02-10 13:17:09+0530 > <Enter>
+2021-02-10 13:17:09+0530 > <Enter>
+2021-02-10 13:17:10+0530 > <Enter><LAlt>12cd ..
+2021-02-10 13:20:13+0530 > <Enter>
+2021-02-10 13:20:14+0530 > <Enter>
+2021-02-10 13:20:14+0530 > <Enter>
+2021-02-10 13:20:14+0530 > <Enter>cd a<Tab>
+2021-02-10 13:20:16+0530 > <Enter>
+2021-02-10 13:20:16+0530 > <Enter>
+2021-02-10 13:20:16+0530 > <Enter>lss
+2021-02-10 13:20:17+0530 > <Enter><LCtrl>c
+2021-02-10 13:20:19+0530 > cls
+2021-02-10 13:20:20+0530 > <Enter>vi <BckSp><BckSp><BckSp><BckSp>ls -l
+2021-02-10 13:20:27+0530 > <Enter>rm 1
+2021-02-10 13:21:04+0530 > <Enter>ls
+2021-02-10 13:21:06+0530 > <Enter>vi l<Tab>
+2021-02-10 13:21:09+0530 > <Enter><Down><Right><#+20><Right><#+51><Left><Left><Left>i<Left><#+9><Esc><#+2>uuuuuu<CpsLk>UU<CpsLk>uuuu<#+49><RShft>:q
+2021-02-10 13:21:33+0530 > <Enter><RShft>:q<RShft>!
+2021-02-10 13:21:35+0530 > <Enter><Up><Left><#+26><Left><Left><Left>m
+2021-02-10 13:21:40+0530 > <Enter><RShft><Ins>y
+2021-02-10 13:23:53+0530 > <Enter><Up><Up>
+2021-02-10 13:25:02+0530 > <Enter><Down><Down><Down><Down><Down><Down><Down><Down><Down><Up><#+15><Down><Down><Up>i<Down><Up><Right><#+18><Right><Right><Right><Right><Right><Right><Del><#+9><Del><#+1><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><LShft><Ins><Del><Del><Del><Del><Del><Del><BckSp><Esc><#+1><RShft>:<CpsLk><CpsLk>w
+2021-02-10 13:25:50+0530 > <Enter><Esc><RShft>:wq
+2021-02-10 13:26:00+0530 > <Enter><LCtrl><LShft>T<LCtrl><LShft>T<LCtrl><LShft>T<Up>
+2021-02-10 13:26:15+0530 > <Enter><Down><Down><Down><Down><Down><Left>i<Del><#+17><Del><#+14><Del><Del><Del><Del><Del><Del><Del><LShft><Ins><BckSp><Esc><#+4><RShft>:<CpsLk><CpsLk><CpsLk><CpsLk>wq
+2021-02-10 13:26:36+0530 > <Enter>
+2021-02-10 13:26:37+0530 > <Enter>
+2021-02-10 13:26:37+0530 > <Enter>
+2021-02-10 13:26:37+0530 > <Enter>ls
+2021-02-10 13:26:38+0530 > <Enter>
+2021-02-10 13:26:38+0530 > <Enter>vi u<Tab>f<Tab>
+2021-02-10 13:26:44+0530 > <Enter><Down><Right><#+19><Right><Right><Right><Right><Right>i<Del><#+25><Del><Del><Del><Del><Del><Del><Del><LShft><Ins><BckSp><Esc><#+1><RShft>:wq
+2021-02-10 13:27:00+0530 > <Enter>vi tf<Tab>
+2021-02-10 13:27:07+0530 > <Enter><Down><#+3><Down><Up><Right><#+24><Right><Left>i<Del><#+28><Del><Del><Del><Del><LShft><Ins><Esc><#+3><RShft>:w
+2021-02-10 13:27:19+0530 > <Enter><Down><#+12><Down><Up><Up><Up><Up><Down><Left><Left><Left>i<Del><#+13><Del><#+13><Del><#+6><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><LShft><Ins><Esc><RShft>:wq
+2021-02-10 13:27:35+0530 > <Enter><Up><Up>
+2021-02-10 13:27:37+0530 > <Enter><Down><#+1><Down><Down><Down><Down><Down><Up><Up><Down><Right><Right><Left>i<Del><#+29><Del><Del><Del><Del><LShft><Ins><Down><Down><Up><Left><#+8><Left><Left><Left><Left><Del><#+30><Del><Del><LShft><Ins><Esc><#+1><RShft>:<CpsLk><CpsLk>wq
+2021-02-10 13:28:03+0530 > <Enter>ls
+2021-02-10 13:28:06+0530 > <Enter>vi tf<Tab>
+2021-02-10 13:28:14+0530 > <Enter><RShft>:q
+2021-02-10 13:28:16+0530 > <Enter>vi u<Tab>s<Tab>
+2021-02-10 13:28:21+0530 > <Enter><Down><Right><#+24><Left>i<Del><#+16><Del><#+17><Del><Del><Del><Del><Del><LShft><Ins><Down><#+5><Up><BckSp><Down><#+10><Down><Up><Up><Up><Down><Left><Del><Del><#+2><Del><#+6><Del><#+3><Del><#+19><Del><Del><Del><#+13><Del>y<Esc><#+3>ui<Del><#+15><Del><Del><Del><#+13><Del><Del><Del><Del><Del><Del><Del><LShft><#+29><Del><LShft><Ins><Esc><#+1><CpsLk><CpsLk><RShft>:w
+2021-02-10 13:29:01+0530 > <Enter><RShft>:wq
+2021-02-10 13:29:04+0530 > <Enter>
+2021-02-10 13:29:05+0530 > <Enter>
+2021-02-10 13:29:05+0530 > <Enter>ls
+2021-02-10 13:29:07+0530 > <Enter>
+2021-02-10 13:29:08+0530 > <Enter>
+2021-02-10 13:29:08+0530 > <Enter>
+2021-02-10 13:29:08+0530 > <Enter>cd ..
+2021-02-10 13:29:10+0530 > <Enter>
+2021-02-10 13:29:11+0530 > <Enter>
+2021-02-10 13:29:11+0530 > <Enter>
+2021-02-10 13:29:11+0530 > <Enter>cd s<Tab>
+2021-02-10 13:29:13+0530 > <Enter>
+2021-02-10 13:29:13+0530 > <Enter>
+2021-02-10 13:29:14+0530 > <Enter>ls
+2021-02-10 13:29:14+0530 > <Enter>cd li<Tab>
+2021-02-10 13:29:17+0530 > <Enter>
+2021-02-10 13:29:17+0530 > <Enter>ls -l
+2021-02-10 13:29:19+0530 > <Enter>cd ..
+2021-02-10 13:29:32+0530 > <Enter>
+2021-02-10 13:29:32+0530 > <Enter>
+2021-02-10 13:29:32+0530 > <Enter>
+2021-02-10 13:29:32+0530 > <Enter>
+2021-02-10 13:29:33+0530 > <Enter>ls
+2021-02-10 13:29:34+0530 > <Enter>cd l<Tab>
+2021-02-10 13:29:36+0530 > <Enter>
+2021-02-10 13:29:36+0530 > <Enter>
+2021-02-10 13:29:36+0530 > <Enter>ls
+2021-02-10 13:29:38+0530 > <Enter>
+2021-02-10 13:29:38+0530 > <Enter>ls -la
+2021-02-10 13:29:40+0530 > <Enter>ls -la
+2021-02-10 13:29:48+0530 > <Enter><Up> <LShft><Ins>/
+2021-02-10 13:30:00+0530 > <Enter><LAlt><#+5><LAlt><Tab>vi <LAlt><Tab>oe-work<LAlt><Tab>dir
+2021-02-10 13:32:14+0530 > <Enter><Esc><RShft>:q
+2021-02-10 13:32:16+0530 > <Enter>ls -la
+2021-02-10 13:32:19+0530 > <Enter><Up><Left><Left><Up><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><BckSp><BckSp><BckSp>touch
+2021-02-10 13:32:28+0530 > <Enter>ls --la
+2021-02-10 13:32:31+0530 > <Enter><Up><Left><Left><BckSp>
+2021-02-10 13:32:35+0530 > <Enter>ls <BckSp><BckSp>n -s <LAlt><Tab>cd y<Tab><LAlt><#+19><LAlt><Tab><LAlt><Tab>bu<Tab>t<Tab><LAlt><#+1><LAlt><Tab><LAlt><Tab>w<Tab><#+1>/s<Tab><LAlt><Tab>li<Tab><Tab><Tab>s<Tab><#+1><LAlt><Tab>4<Tab><LAlt><Tab><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>
+2021-02-10 13:34:06+0530 > <Enter>sl
+2021-02-10 13:34:07+0530 > <Enter>ls
+2021-02-10 13:34:08+0530 > <Enter>cd 4<Tab>
+2021-02-10 13:34:11+0530 > <Enter>ls
+2021-02-10 13:34:12+0530 > <Enter><LAlt><Tab>cd ..
+2021-02-10 13:34:29+0530 > <Enter>
+2021-02-10 13:34:29+0530 > <Enter>
+2021-02-10 13:34:29+0530 > <Enter>cd ..
+2021-02-10 13:34:30+0530 > <Enter>
+2021-02-10 13:34:30+0530 > <Enter>
+2021-02-10 13:34:31+0530 > <Enter>ls
+2021-02-10 13:34:31+0530 > <Enter>cd ..
+2021-02-10 13:34:33+0530 > <Enter>
+2021-02-10 13:34:33+0530 > <Enter>
+2021-02-10 13:34:33+0530 > <Enter>ls
+2021-02-10 13:34:34+0530 > <Enter>cd s<Tab><#+1><LAlt><Tab>cd <LShft><#+4><LShft><Ins>
+2021-02-10 13:35:06+0530 > <Enter>cd .
+2021-02-10 13:35:08+0530 > <Enter>
+2021-02-10 13:35:08+0530 > <Enter>
+2021-02-10 13:35:09+0530 > <Enter>
+2021-02-10 13:35:09+0530 > <Enter>ls
+2021-02-10 13:35:09+0530 > <Enter>
+2021-02-10 13:35:10+0530 > <Enter>cd ..
+2021-02-10 13:35:11+0530 > <Enter>
+2021-02-10 13:35:11+0530 > <Enter>
+2021-02-10 13:35:11+0530 > <Enter>
+2021-02-10 13:35:11+0530 > <Enter>ls
+2021-02-10 13:35:12+0530 > <Enter>
+2021-02-10 13:35:12+0530 > <Enter>
+2021-02-10 13:35:12+0530 > <Enter>
+2021-02-10 13:35:12+0530 > <Enter>cd ..
+2021-02-10 13:35:16+0530 > <Enter>
+2021-02-10 13:35:16+0530 > <Enter>
+2021-02-10 13:35:16+0530 > <Enter>ls
+2021-02-10 13:35:17+0530 > <Enter>
+2021-02-10 13:35:17+0530 > <Enter>cd ..
+2021-02-10 13:35:20+0530 > <Enter>
+2021-02-10 13:35:20+0530 > <Enter>ls
+2021-02-10 13:35:21+0530 > <Enter>cd ..
+2021-02-10 13:35:22+0530 > <Enter>
+2021-02-10 13:35:22+0530 > <Enter>
+2021-02-10 13:35:22+0530 > <Enter>
+2021-02-10 13:35:23+0530 > <Enter>ls
+2021-02-10 13:35:23+0530 > <Enter>cd s<Tab><#+1>
+2021-02-10 13:35:28+0530 > <Enter>
+2021-02-10 13:35:28+0530 > <Enter>
+2021-02-10 13:35:28+0530 > <Enter><LAlt><Tab><LAlt><Tab>
+2021-02-10 13:35:56+0530 > <Enter>
+2021-02-10 13:35:57+0530 > <Enter><Up><Up><Up><Up><Up><Down><Up><Up><Up><Down><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down><BckSp><BckSp><BckSp>
+2021-02-10 13:36:41+0530 > <Enter><LMeta>l
+2021-02-10 14:34:47+0530 > <Enter>
+2021-02-10 14:34:47+0530 > <Enter>
+2021-02-10 14:34:48+0530 > <Enter><CpsLk><CpsLk>zs10062013
+2021-02-10 14:35:04+0530 > <Enter><CpsLk>A<CpsLk><BckSp><BckSp><BckSp><CpsLk>A<CpsLk>fridi<RShft>_97<LAlt><Tab><Tab><LAlt><Tab>stm32 <BckSp>yocto
+2021-02-10 14:37:29+0530 > <Enter><LAlt>1<LAlt><#+4><LShft><Ins>
+2021-02-10 14:39:20+0530 > <Enter>cd ..
+2021-02-10 14:39:24+0530 > <Enter>
+2021-02-10 14:39:24+0530 > <Enter>
+2021-02-10 14:39:24+0530 > <Enter><LShft><Ins>
+2021-02-10 14:39:26+0530 > <Enter><Up><Left><#+31><Right><BckSp><BckSp><BckSp><BckSp><BckSp>w<Tab><Tab>eston
+2021-02-10 14:39:52+0530 > <Enter>cd ..
+2021-02-10 14:39:56+0530 > <Enter><Up><Up>
+2021-02-10 14:40:00+0530 > <Enter>
+2021-02-10 14:40:20+0530 > <Enter><LAlt>23<LCtrl><LShft>Tcd<LShft><#+2>
+2021-02-10 14:41:07+0530 > <Enter><LShft>cd <LShft><Ins>
+2021-02-10 14:41:09+0530 > <Enter>ls
+2021-02-10 14:41:11+0530 > <Enter>vi l<Tab><RShft>_<Tab>
+2021-02-10 14:41:17+0530 > <Enter><PgDn><PgDn><PgUp><PgUp><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><PgDn><PgDn><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><Up><#+12><Down><Down><Down><#+20><Down><Down><Down><Down><Down><Up><#+8><Down><#+13><Down><Up><#+15><Up><Down><Left><Up>i<Down><Left><Up><Right><#+75><Left><BckSp><Down><Down><Down><Left><#+27><Up><Left><#+3><Right><#+35><BckSp><Esc><#+1>uuuuuuuu<RShft>:q<RShft>!
+2021-02-10 14:42:12+0530 > <Enter><LAlt>1<LAlt>23ls
+2021-02-10 14:42:21+0530 > <Enter>
+2021-02-10 14:42:22+0530 > <Enter><LAlt><Tab>cd ..
+2021-02-10 14:42:49+0530 > <Enter>
+2021-02-10 14:42:50+0530 > <Enter>
+2021-02-10 14:42:50+0530 > <Enter>ls
+2021-02-10 14:42:51+0530 > <Enter><RCtrl><PgUp><RCtrl><PgUp><RCtrl><PgDn>cd s<Tab>
+2021-02-10 14:43:09+0530 > <Enter>ls
+2021-02-10 14:43:10+0530 > <Enter>cd <LAlt><Tab> li<Tab>
+2021-02-10 14:43:24+0530 > <Enter><Up><Tab><Tab>s<Tab>
+2021-02-10 14:43:27+0530 > <Enter>ls
+2021-02-10 14:43:28+0530 > <Enter>cd 4<Tab>
+2021-02-10 14:43:31+0530 > <Enter>ls
+2021-02-10 14:43:32+0530 > <Enter><LAlt><Tab><LShft><Ins><Left><#+60><Left><Right><#+67> 
+2021-02-10 14:44:15+0530 > <Enter><Up><Left><#+33><Left><#+64>f
+2021-02-10 14:44:30+0530 > <Enter>ls
+2021-02-10 14:44:33+0530 > <Enter>ls =<BckSp>-la
+2021-02-10 14:44:36+0530 > <Enter>pwd
+2021-02-10 14:44:55+0530 > <Enter><Up><Up><Up><Left><#+17><Left><Left><Right><Right><Right><Right><Right><BckSp><#+76><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LShft><Ins>
+2021-02-10 14:45:18+0530 > <Enter>ls -la
+2021-02-10 14:45:21+0530 > <Enter>ls
+2021-02-10 14:45:34+0530 > <Enter>cd li<Tab>
+2021-02-10 14:45:40+0530 > <Enter>ls
+2021-02-10 14:45:40+0530 > <Enter>cd 4<Tab>
+2021-02-10 14:45:43+0530 > <Enter>ls
+2021-02-10 14:45:43+0530 > <Enter>cd <LShft><Ins>
+2021-02-10 14:46:32+0530 > <Enter>ls
+2021-02-10 14:46:34+0530 > <Enter>cd cd <BckSp><BckSp><BckSp>
+2021-02-10 14:46:49+0530 > <Enter>
+2021-02-10 14:46:50+0530 > <Enter>
+2021-02-10 14:46:50+0530 > <Enter>
+2021-02-10 14:46:50+0530 > <Enter>
+2021-02-10 14:46:50+0530 > <Enter>cd /y<Tab><Tab><#+1><BckSp><BckSp>y<Tab>bu<Tab>t<Tab><#+1><Tab><#+1><Tab><#+1>w<Tab><Tab><Tab><#+1>/<Tab><Tab>s<Tab><Tab><Tab><Tab>l<Tab>s<Tab><Tab>
+2021-02-10 14:47:26+0530 > <Enter>
+2021-02-10 14:47:26+0530 > <Enter>
+2021-02-10 14:47:26+0530 > <Enter>
+2021-02-10 14:47:26+0530 > <Enter>
+2021-02-10 14:47:27+0530 > <Enter>ls -l
+2021-02-10 14:47:28+0530 > <Enter>ls -l
+2021-02-10 14:47:57+0530 > <Enter>
+2021-02-10 14:47:58+0530 > <Enter>pwd
+2021-02-10 14:48:03+0530 > <Enter><Up><Up><BckSp><#+72><BckSp><BckSp><BckSp><BckSp><LShft><Ins>
+2021-02-10 14:48:19+0530 > <Enter>ls -la
+2021-02-10 14:48:21+0530 > <Enter><LAlt><#+2><LAlt><Tab>ls
+2021-02-10 14:49:13+0530 > <Enter>cd t<Tab>
+2021-02-10 14:49:16+0530 > <Enter>;s
+2021-02-10 14:49:17+0530 > <Enter><CpsLk><CpsLk>ls
+2021-02-10 14:49:19+0530 > <Enter>pwd
+2021-02-10 14:49:21+0530 > <Enter>ln -sf <LShft><Ins> oe<Tab>l<Tab><Tab><Tab>gs<Tab>
+2021-02-10 14:49:46+0530 > <Enter>ls -la
+2021-02-10 14:49:48+0530 > <Enter>cd ..
+2021-02-10 14:49:54+0530 > <Enter>
+2021-02-10 14:49:54+0530 > <Enter>
+2021-02-10 14:49:54+0530 > <Enter>
+2021-02-10 14:49:55+0530 > <Enter>ls
+2021-02-10 14:49:56+0530 > <Enter>
+2021-02-10 14:49:57+0530 > <Enter>
+2021-02-10 14:49:57+0530 > <Enter>
+2021-02-10 14:49:57+0530 > <Enter>cd u<Tab><#+1>fw<Tab>
+2021-02-10 14:50:33+0530 > <Enter>ls
+2021-02-10 14:50:35+0530 > <Enter>ls -la
+2021-02-10 14:50:37+0530 > <Enter><LAlt>12<LAlt>1
+2021-02-10 14:50:47+0530 > <Enter><LAlt>2ls
+2021-02-10 14:50:51+0530 > <Enter>cd ..
+2021-02-10 14:50:52+0530 > <Enter>
+2021-02-10 14:50:52+0530 > <Enter>ls
+2021-02-10 14:50:52+0530 > <Enter>cd u<Tab>f<Tab>
+2021-02-10 14:51:01+0530 > <Enter>ls -la
+2021-02-10 14:51:02+0530 > <Enter><LAlt><Tab>ls -la
+2021-02-10 14:51:12+0530 > <Enter><LAlt><Tab>cd ..
+2021-02-10 14:51:31+0530 > <Enter>
+2021-02-10 14:51:32+0530 > <Enter>
+2021-02-10 14:51:32+0530 > <Enter>ls
+2021-02-10 14:51:33+0530 > <Enter>
+2021-02-10 14:51:33+0530 > <Enter>cd ..
+2021-02-10 14:51:34+0530 > <Enter>
+2021-02-10 14:51:35+0530 > <Enter>
+2021-02-10 14:51:35+0530 > <Enter>
+2021-02-10 14:51:35+0530 > <Enter>ls
+2021-02-10 14:51:36+0530 > <Enter>
+2021-02-10 14:51:36+0530 > <Enter>cd 4<Tab>
+2021-02-10 14:51:39+0530 > <Enter>s
+2021-02-10 14:51:39+0530 > <Enter><LCtrl>c
+2021-02-10 14:51:41+0530 > cls
+2021-02-10 14:51:42+0530 > <Enter>cd<LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><LAlt><Tab><LAlt><Tab><LAlt><Tab> ..
+2021-02-10 14:52:09+0530 > <Enter>
+2021-02-10 14:52:09+0530 > <Enter>
+2021-02-10 14:52:09+0530 > <Enter>
+2021-02-10 14:52:09+0530 > <Enter>ls
+2021-02-10 14:52:10+0530 > <Enter>cd ..
+2021-02-10 14:52:12+0530 > <Enter>
+2021-02-10 14:52:12+0530 > <Enter>
+2021-02-10 14:52:12+0530 > <Enter>ls
+2021-02-10 14:52:13+0530 > <Enter>cd u<Tab>
+2021-02-10 14:52:28+0530 > <Enter>ls -l
+2021-02-10 14:52:30+0530 > <Enter>ls -la
+2021-02-10 14:52:34+0530 > <Enter><LAlt><Tab>cd <LAlt><Tab><LAlt><Tab>cd ..
+2021-02-10 14:53:03+0530 > <Enter>
+2021-02-10 14:53:03+0530 > <Enter>
+2021-02-10 14:53:03+0530 > <Enter>ls
+2021-02-10 14:53:04+0530 > <Enter>cd u<Tab>
+2021-02-10 14:53:07+0530 > <Enter><LAlt><Tab>..
+2021-02-10 14:53:14+0530 > <Enter>
+2021-02-10 14:53:14+0530 > <Enter>
+2021-02-10 14:53:14+0530 > <Enter>
+2021-02-10 14:53:14+0530 > <Enter>ls
+2021-02-10 14:53:15+0530 > <Enter><LAlt>1<#+1><#+1><LAlt>2ls
+2021-02-10 14:53:19+0530 > <Enter>cd u<Tab>
+2021-02-10 14:53:21+0530 > <Enter>
+2021-02-10 14:53:21+0530 > <Enter>
+2021-02-10 14:53:21+0530 > <Enter><Up>s<Tab>
+2021-02-10 14:53:23+0530 > <Enter>
+2021-02-10 14:53:23+0530 > <Enter>s -l<BckSp><#+14>ls -la
+2021-02-10 14:53:26+0530 > <Enter><LAlt><#+5><LAlt><Tab>ls
+2021-02-10 14:53:38+0530 > <Enter>cd 2<Tab>
+2021-02-10 14:53:40+0530 > <Enter>ls
+2021-02-10 14:53:41+0530 > <Enter><LAlt><Tab><LAlt><Tab>pwd
+2021-02-10 14:53:46+0530 > <Enter>cd ..
+2021-02-10 14:53:57+0530 > <Enter>
+2021-02-10 14:53:57+0530 > <Enter>
+2021-02-10 14:53:57+0530 > <Enter>
+2021-02-10 14:53:57+0530 > <Enter>ls
+2021-02-10 14:53:58+0530 > <Enter>cd u<Tab>s<Tab>
+2021-02-10 14:54:01+0530 > <Enter>ls
+2021-02-10 14:54:02+0530 > <Enter>ls -la
+2021-02-10 14:54:04+0530 > <Enter>
+2021-02-10 14:54:04+0530 > <Enter>
+2021-02-10 14:54:05+0530 > <Enter>ln -sf <LShft><Ins><LAlt><#+3><LAlt><Tab> oe-works<BckSp>dir
+2021-02-10 14:54:26+0530 > <Enter>ls -la
+2021-02-10 14:54:28+0530 > <Enter><Up><Up><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>lo<Tab><Tab><#+1><Tab>gs<Tab><#+1><LAlt><Tab><Left><#+10><Left><Left><Left>/<Tab><Tab><Tab>t<Tab>
+2021-02-10 14:54:55+0530 > <Enter>ls -la
+2021-02-10 14:54:59+0530 > <Enter>cd ..
+2021-02-10 14:55:03+0530 > <Enter>
+2021-02-10 14:55:03+0530 > <Enter>
+2021-02-10 14:55:04+0530 > <Enter>ls
+2021-02-10 14:55:05+0530 > <Enter>cd li<Tab>
+2021-02-10 14:55:08+0530 > <Enter>ls -la
+2021-02-10 14:55:10+0530 > <Enter>cd ..
+2021-02-10 14:55:15+0530 > <Enter>ls
+2021-02-10 14:55:16+0530 > <Enter>cd t<Tab>
+2021-02-10 14:55:19+0530 > <Enter>ls -la
+2021-02-10 14:55:21+0530 > <Enter><LAlt>42cd ..
+2021-02-10 14:55:39+0530 > <Enter>
+2021-02-10 14:55:39+0530 > <Enter>
+2021-02-10 14:55:40+0530 > <Enter>ls
+2021-02-10 14:55:40+0530 > <Enter>cd u<Tab><#+1><BckSp><#+9><BckSp><BckSp>t<Tab>
+2021-02-10 14:55:45+0530 > <Enter>
+2021-02-10 14:55:46+0530 > <Enter>ls -la
+2021-02-10 14:55:47+0530 > <Enter><LAlt><Tab><LAlt>4<BckSp><#+21><Up><Up>
+2021-02-10 14:55:56+0530 > <Enter>cd ..
+2021-02-10 14:55:58+0530 > <Enter>
+2021-02-10 14:55:58+0530 > <Enter>
+2021-02-10 14:55:59+0530 > <Enter>cd ..
+2021-02-10 14:56:01+0530 > <Enter>
+2021-02-10 14:56:01+0530 > <Enter>cd t<Tab><Tab>
+2021-02-10 14:56:03+0530 > <Enter><LAlt><#+6><LAlt><#+3><LAlt><Tab>ls
+2021-02-10 14:56:11+0530 > <Enter>pwd
+2021-02-10 14:56:13+0530 > <Enter><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><BckSp><#+105><BckSp><LShft><Ins> oe-workdir<LAlt><Tab>
+2021-02-10 14:56:54+0530 > <Enter><Up><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>lo<Tab><Tab><Tab>g<Tab><Left><Left><#+13><Right>/<Tab><Tab><Tab>t<Tab><LAlt><Tab>
+2021-02-10 14:57:13+0530 > <Enter>
+2021-02-10 14:57:14+0530 > <Enter>
+2021-02-10 14:57:14+0530 > <Enter>ls
+2021-02-10 14:57:15+0530 > <Enter><Up>
+2021-02-10 14:57:28+0530 > <Enter><LAlt>21cd ..
+2021-02-10 14:58:07+0530 > <Enter>
+2021-02-10 14:58:07+0530 > <Enter>
+2021-02-10 14:58:07+0530 > <Enter>cd u<Tab>f<Tab>
+2021-02-10 14:58:11+0530 > <Enter>
+2021-02-10 14:58:11+0530 > <Enter>ls -la
+2021-02-10 14:58:13+0530 > <Enter>cd o<Tab>w<Tab>
+2021-02-10 14:58:19+0530 > <Enter>ls -la
+2021-02-10 14:58:21+0530 > <Enter>cd ..
+2021-02-10 14:58:25+0530 > <Enter>
+2021-02-10 14:58:26+0530 > <Enter>
+2021-02-10 14:58:26+0530 > <Enter>
+2021-02-10 14:58:26+0530 > <Enter>
+2021-02-10 14:58:26+0530 > <Enter>
+2021-02-10 14:58:26+0530 > <Enter>
+2021-02-10 14:58:26+0530 > <Enter>cd ..
+2021-02-10 14:59:07+0530 > <Enter>
+2021-02-10 14:59:07+0530 > <Enter>
+2021-02-10 14:59:07+0530 > <Enter>cd u<Tab>-<Tab><BckSp>f<Tab>
+2021-02-10 14:59:10+0530 > <Enter>
+2021-02-10 14:59:11+0530 > <Enter>ls -l
+2021-02-10 14:59:12+0530 > <Enter><LAlt><Tab>ls
+2021-02-10 14:59:25+0530 > <Enter>ls -la
+2021-02-10 14:59:27+0530 > <Enter><LAlt><Tab>cd ../..
+2021-02-10 14:59:42+0530 > <Enter>
+2021-02-10 14:59:43+0530 > <Enter>
+2021-02-10 14:59:43+0530 > <Enter>
+2021-02-10 14:59:43+0530 > <Enter>ls -l
+2021-02-10 14:59:44+0530 > <Enter>find -iname u-boot<LShft>*
+2021-02-10 15:00:03+0530 > <Enter><#+2>cd ..
+2021-02-10 15:00:07+0530 > <Enter><Up>
+2021-02-10 15:00:07+0530 > <Enter><Up><Up>
+2021-02-10 15:00:08+0530 > <Enter><LCtrl>c
+2021-02-10 15:00:13+0530 > c<Up><Left>-fw
+2021-02-10 15:00:17+0530 > <Enter><#+2>ls
+2021-02-10 15:00:41+0530 > <Enter>cd ..
+2021-02-10 15:00:46+0530 > <Enter>vim <BckSp><BckSp><BckSp><BckSp><BckSp><RCtrl><PgUp>git diff <RShft><Ins>
+2021-02-10 15:01:46+0530 > <Enter><RCtrl><#+1><Up>
+2021-02-10 15:01:53+0530 > <Enter>vim <RShft><Ins>
+2021-02-10 15:01:57+0530 > <Enter><PgDn><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgDn><PgDn><PgDn><PgDn><Esc><LShft>:q<LShft>!
+2021-02-10 15:02:06+0530 > <Enter>
+2021-02-10 15:02:06+0530 > <Enter>
+2021-02-10 15:02:06+0530 > <Enter><Up><Up><Up><Up><Down>
+2021-02-10 15:02:10+0530 > <Enter><Up><Up><Up><Up><Up><Down><Left><Right><BckSp><#+15><BckSp>0<BckSp>-c clean linux0s<BckSp><BckSp>-stm32m<BckSp>mp
+2021-02-10 15:02:39+0530 > <Enter><#+2><RCtrl><PgDn>cd li<Tab><#+1><Tab><Tab>
+2021-02-10 15:03:04+0530 > <Enter>cd ,,
+2021-02-10 15:03:06+0530 > <Enter><Up>
+2021-02-10 15:03:06+0530 > <Enter>cd ..
+2021-02-10 15:03:08+0530 > <Enter><Up>
+2021-02-10 15:03:09+0530 > <Enter>cd a<Tab>
+2021-02-10 15:03:11+0530 > <Enter>ls
+2021-02-10 15:03:11+0530 > <Enter>vu <LCtrl>c
+2021-02-10 15:03:13+0530 > cvim u<Tab><LCtrl>c
+2021-02-10 15:03:15+0530 > c<#+1><#+1><LCtrl>c
+2021-02-10 15:03:18+0530 > c<#+3>c
+2021-02-10 15:03:18+0530 > cvim li<Tab><#+3>
+2021-02-10 15:03:24+0530 > <Enter><Down><Down><Down><Down><Down><Up><Esc>1dd<Esc><LShft>:wq<LShft>!
+2021-02-10 15:03:30+0530 > <Enter>
+2021-02-10 15:03:31+0530 > <Enter>
+2021-02-10 15:03:31+0530 > <Enter>
+2021-02-10 15:03:31+0530 > <Enter>cd wo<Tab><Tab>s<Tab><Tab><#+2><Tab><LCtrl>c
+2021-02-10 15:03:52+0530 > ccd <LCtrl>c
+2021-02-10 15:03:54+0530 > ccd ..
+2021-02-10 15:03:57+0530 > <Enter>cd w<Tab><Tab><Tab>so<Tab>
+2021-02-10 15:04:00+0530 > <Enter>ls
+2021-02-10 15:04:01+0530 > <Enter>rm -rf u<Tab><#+6>fw<Tab>
+2021-02-10 15:04:05+0530 > <Enter><#+1>sync
+2021-02-10 15:04:08+0530 > <Enter>cd ,,
+2021-02-10 15:04:10+0530 > <Enter>cd ..
+2021-02-10 15:04:12+0530 > <Enter>cd bu<Tab><#+1><BckSp><BckSp>a<Tab><#+4>
+2021-02-10 15:04:18+0530 > <Enter>ls
+2021-02-10 15:04:19+0530 > <Enter>rm u<Tab><#+5>fw<Tab><#+2>
+2021-02-10 15:04:24+0530 > <Enter><#+1>
+2021-02-10 15:04:24+0530 > <Enter>
+2021-02-10 15:04:24+0530 > <Enter>cd ..
+2021-02-10 15:04:26+0530 > <Enter><Up>
+2021-02-10 15:04:27+0530 > <Enter><Up>
+2021-02-10 15:04:27+0530 > <Enter><Up><Up><#+1>
+2021-02-10 15:04:34+0530 > <Enter>
+2021-02-10 15:05:18+0530 > <Enter><Up><Up>
+2021-02-10 15:05:20+0530 > <Enter><Up><Up><RCtrl><PgDn>cd ..
+2021-02-10 15:05:42+0530 > <Enter><Up>
+2021-02-10 15:05:42+0530 > <Enter><#+1>
+2021-02-10 15:05:43+0530 > <Enter>
+2021-02-10 15:05:43+0530 > <Enter>git status
+2021-02-10 15:05:45+0530 > <Enter>cd <Tab><Tab>t<Tab>
+2021-02-10 15:05:52+0530 > <Enter>ls
+2021-02-10 15:05:52+0530 > <Enter>cd w<Tab><#+2>-s<Tab>
+2021-02-10 15:05:57+0530 > <Enter>ls
+2021-02-10 15:05:58+0530 > <Enter>cd ..
+2021-02-10 15:05:59+0530 > <Enter><Up>
+2021-02-10 15:06:00+0530 > <Enter>vim co<Tab><#+3>bb<Tab><#+5>
+2021-02-10 15:06:04+0530 > <Enter>
+2021-02-10 15:06:05+0530 > <Enter><Down><#+24><Up><#+11><Up><Up><Up><Up><Up><Up><Right><#+7><Down><Down><#+26><Esc><LShft>:q<LShft>!
+2021-02-10 15:06:19+0530 > <Enter>
+2021-02-10 15:06:20+0530 > <Enter>
+2021-02-10 15:06:20+0530 > <Enter>
+2021-02-10 15:06:20+0530 > <Enter>cd ..
+2021-02-10 15:06:23+0530 > <Enter>cd bu<Tab><#+3>t<Tab>d<Tab><#+3><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><#+13>w<Tab><Tab><Tab>s<Tab><BckSp><BckSp><#+9><BckSp><BckSp>a<Tab>
+2021-02-10 15:06:34+0530 > <Enter>ls
+2021-02-10 15:06:35+0530 > <Enter>mv l<Tab><#+3> l<Tab><#+1><BckSp><#+25><BckSp><BckSp><BckSp><BckSp>hai.a<BckSp>bbapped<LCtrl>c
+2021-02-10 15:06:50+0530 > c
+2021-02-10 15:06:51+0530 > <Enter>
+2021-02-10 15:06:51+0530 > <Enter>
+2021-02-10 15:06:51+0530 > <Enter>ls
+2021-02-10 15:06:52+0530 > <Enter>cp l<Tab><#+3>hai<LShft><#+2><BckSp><BckSp><BckSp><LShft>~/<LShft>Des<Tab>
+2021-02-10 15:07:00+0530 > <Enter>mv l<Tab><#+2>hai.bbapped<BckSp>nd
+2021-02-10 15:07:08+0530 > <Enter><Up><Up>
+2021-02-10 15:07:13+0530 > <Enter><RCtrl><PgDn>ls
+2021-02-10 15:07:28+0530 > <Enter>cd bu<Tab>w<Tab>a<Tab>
+2021-02-10 15:07:31+0530 > <Enter>ls
+2021-02-10 15:07:31+0530 > <Enter>mv <LCtrl><#+3><LCtrl>c
+2021-02-10 15:07:35+0530 > ccp <LShft>~.<LShft>D<BckSp><BckSp>/<LShft>Des<Tab>li<Tab><#+3>.
+2021-02-10 15:07:44+0530 > <Enter>sync
+2021-02-10 15:07:45+0530 > <Enter>rm ha<Tab>
+2021-02-10 15:07:47+0530 > <Enter>k<BckSp><BckSp>ls
+2021-02-10 15:08:15+0530 > <Enter>mv l<Tab><#+4>hai.bbape<BckSp>pend
+2021-02-10 15:08:26+0530 > <Enter>mv l<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><RCtrl><PgDn>
+2021-02-10 15:08:32+0530 > <Enter><Up>
+2021-02-10 15:08:38+0530 > <Enter>mv u<Tab><#+5>u<Tab><#+4><BckSp><#+26><BckSp><LCtrl><BckSp>c
+2021-02-10 15:08:56+0530 > c 
+2021-02-10 15:08:57+0530 > <Enter>
+2021-02-10 15:08:57+0530 > <Enter>
+2021-02-10 15:08:57+0530 > <Enter>
+2021-02-10 15:08:57+0530 > <Enter>ls
+2021-02-10 15:08:58+0530 > <Enter>vim <BckSp><LCtrl><BckSp>c
+2021-02-10 15:08:59+0530 > ccp <LShft>D<BckSp><LShft>~/<LShft>De<Tab><#+2>li<Tab><#+6>.
+2021-02-10 15:09:05+0530 > <Enter>sync
+2021-02-10 15:09:06+0530 > <Enter>rm ha<Tab>
+2021-02-10 15:09:08+0530 > <Enter>
+2021-02-10 15:09:08+0530 > <Enter>ls
+2021-02-10 15:09:09+0530 > <Enter>v<BckSp><BckSp><BckSp>vim l<Tab><#+3>
+2021-02-10 15:09:12+0530 > <Enter>cd ..
+2021-02-10 15:09:32+0530 > <Enter>cd ..
+2021-02-10 15:09:34+0530 > <Enter>cd ao<BckSp>p<Tab>
+2021-02-10 15:09:36+0530 > <Enter>ls
+2021-02-10 15:09:37+0530 > <Enter>vim l<Tab><#+4>
+2021-02-10 15:09:38+0530 > <Enter><LAlt><Tab><Esc><LShft>:q<LShft>!
+2021-02-10 15:09:59+0530 > <Enter>ls -la <RShft><Ins>
+2021-02-10 15:10:01+0530 > <Enter><Up><Up>
+2021-02-10 15:10:07+0530 > <Enter><Up><#+12><Down><Down><Down><Down><Down><Down><Up><Up><Up><Down><Up><Up><Up><Up><Down><Down><Down><Down><Down><Up><Up><Up><Up><Up><Up><Up><Down>i<LShft>#<Esc><LShft>:wq<LShft>!
+2021-02-10 15:10:35+0530 > <Enter>
+2021-02-10 15:10:35+0530 > <Enter>
+2021-02-10 15:10:35+0530 > <Enter>
+2021-02-10 15:10:36+0530 > <Enter>
+2021-02-10 15:10:36+0530 > <Enter>
+2021-02-10 15:10:39+0530 > <Enter><Up>
+2021-02-10 15:10:40+0530 > <Enter><Up>
+2021-02-10 15:10:57+0530 > <Enter><Down><Up><Up><Down>i<Del><Esc><LShft>:wq<LShft>!
+2021-02-10 15:11:03+0530 > <Enter><Up>
+2021-02-10 15:11:06+0530 > <Enter>vc<BckSp><BckSp><BckSp>cd ..
+2021-02-10 15:11:15+0530 > <Enter>cv<BckSp><BckSp><BckSp>vim ap<Tab><#+3>l<Tab><#+1>
+2021-02-10 15:11:19+0530 > <Enter><Esc><LShft>:q<LShft>!
+2021-02-10 15:11:24+0530 > <Enter>vim u<Tab><#+5><BckSp>a<Tab><#+3>u-<Tab><#+4><Tab><Tab>s<Tab>
+2021-02-10 15:11:31+0530 > <Enter><Esc><LShft>:q<LShft>!
+2021-02-10 15:11:41+0530 > <Enter>
+2021-02-10 15:11:42+0530 > <Enter>
+2021-02-10 15:11:42+0530 > <Enter>
+2021-02-10 15:11:42+0530 > <Enter>
+2021-02-10 15:11:42+0530 > <Enter>cd <LCtrl>c
+2021-02-10 15:11:44+0530 > ccd ..
+2021-02-10 15:11:45+0530 > <Enter>cd so<Tab><#+1><Tab><Tab>u<Tab><#+3>s<Tab>
+2021-02-10 15:11:51+0530 > <Enter>s
+2021-02-10 15:11:51+0530 > <Enter>l<LCtrl>c
+2021-02-10 15:11:53+0530 > c
+2021-02-10 15:11:53+0530 > <Enter>ls -la
+2021-02-10 15:11:54+0530 > <Enter>cd lo<Tab><#+3><BckSp><BckSp>o<Tab><#+2>l<Tab>
+2021-02-10 15:12:07+0530 > <Enter><Up>c<Tab>
+2021-02-10 15:12:08+0530 > <Enter>s<BckSp><BckSp>ls
+2021-02-10 15:12:10+0530 > <Enter>vim <LShft>R<Tab><#+1>
+2021-02-10 15:12:13+0530 > <Enter><PgDn><#+1><PgDn><PgDn><PgDn><PgUp><Esc><LShft>:q<LShft>!
+2021-02-10 15:12:24+0530 > <Enter><LAlt><Tab><Up>
+2021-02-10 15:12:33+0530 > <Enter><Down><Down><Up><Up><Up><Down>i<LShft>#<LShft><Esc><Esc><LShft>:wq<LShft>!
+2021-02-10 15:12:41+0530 > <Enter><Up><LCtrl>c
+2021-02-10 15:12:43+0530 > cvim u<Tab><#+3>
+2021-02-10 15:12:46+0530 > <Enter><Down><Up><#+13><Down>i<LShft>#<Esc><LShft><Esc><LShft>:wq<LShft>!
+2021-02-10 15:12:52+0530 > <Enter>vim t<Tab>
+2021-02-10 15:12:54+0530 > <Enter><Down><Up><Up><#+14><Down>i<LShft>#<Esc><LShft><Esc><LShft>:wq<LShft>!
+2021-02-10 15:13:00+0530 > <Enter>
+2021-02-10 15:13:01+0530 > <Enter>
+2021-02-10 15:13:01+0530 > <Enter>
+2021-02-10 15:13:01+0530 > <Enter><Up>
+2021-02-10 15:13:04+0530 > <Enter><Up><Up><Up>
+2021-02-10 15:13:22+0530 > <Enter><#+1><Down><#+12><Down><Down><Up><#+11><Up><Up><Up><Up><Up><Up><Down>i<Del><Esc><LShft>:wq<LShft>!
+2021-02-10 15:13:36+0530 > <Enter><Up><BckSp><#+28>u-<Tab><#+5>
+2021-02-10 15:13:42+0530 > <Enter>i<Del><Esc><LShft>:wq<LShft>!
+2021-02-10 15:13:45+0530 > <Enter><Up><BckSp><LCtrl>c
+2021-02-10 15:13:47+0530 > cvim t<Tab>
+2021-02-10 15:13:49+0530 > <Enter><Down><Up>i<Del><Esc><LShft>:wq<LShft>!
+2021-02-10 15:13:53+0530 > <Enter>
+2021-02-10 15:13:53+0530 > <Enter>
+2021-02-10 15:13:53+0530 > <Enter>
+2021-02-10 15:13:53+0530 > <Enter><RCtrl><PgDn>
+2021-02-10 15:14:03+0530 > <Enter><Up>
+2021-02-10 15:14:04+0530 > <Enter><Up><Up><Up>
+2021-02-10 15:14:34+0530 > <Enter><Esc><LShft>:q<LShft>!
+2021-02-10 15:14:37+0530 > <Enter><Up><LCtrl>c
+2021-02-10 15:14:38+0530 > cvim u<Tab><#+6>
+2021-02-10 15:14:41+0530 > <Enter><Esc><LShft>:q<LShft>!
+2021-02-10 15:14:48+0530 > <Enter>
+2021-02-10 15:14:48+0530 > <Enter>ls -la <RShft><Ins>
+2021-02-10 15:14:51+0530 > <Enter><Up><LShft><#+1>;
+2021-02-10 15:14:57+0530 > <Enter><Up><BckSp><LShft>:
+2021-02-10 15:15:02+0530 > <Enter><LAlt><Tab><LAlt><Tab>cd ...<BckSp>
+2021-02-10 15:15:22+0530 > <Enter>cd so<Tab><#+2>
+2021-02-10 15:15:24+0530 > <Enter>s
+2021-02-10 15:15:24+0530 > <Enter>cd u0<Tab><#+7><BckSp>-<Tab><#+8>
+2021-02-10 15:15:28+0530 > <Enter>ls
+2021-02-10 15:15:29+0530 > <Enter>ls -la
+2021-02-10 15:15:31+0530 > <Enter>
+2021-02-10 15:16:11+0530 > <Enter>
+2021-02-10 15:16:11+0530 > <Enter>cd
+2021-02-10 15:16:11+0530 > <Enter>
+2021-02-10 15:16:12+0530 > <Enter>cd y<Tab><#+3>si<Tab><#+3>
+2021-02-10 15:16:14+0530 > <Enter><Up><BckSp>o<Tab><#+3>
+2021-02-10 15:16:16+0530 > <Enter>
+2021-02-10 15:16:16+0530 > <Enter>
+2021-02-10 15:16:16+0530 > <Enter>
+2021-02-10 15:16:16+0530 > <Enter>
+2021-02-10 15:16:16+0530 > <Enter>
+2021-02-10 15:16:16+0530 > <Enter>cd me<Tab>s<Tab><#+3>s<Tab><#+2>
+2021-02-10 15:16:19+0530 > <Enter>
+2021-02-10 15:16:19+0530 > <Enter>
+2021-02-10 15:16:20+0530 > <Enter>git status
+2021-02-10 15:16:22+0530 > <Enter>git diff .
+2021-02-10 15:16:27+0530 > <Enter><RCtrl><PgDn>pwd
+2021-02-10 15:16:37+0530 > <Enter>vim <RShft><Ins>
+2021-02-10 15:16:56+0530 > <Enter><Esc><LShft>:<Esc><LShft>:q<LShft>!
+2021-02-10 15:17:07+0530 > <Enter>
+2021-02-10 15:17:07+0530 > <Enter>
+2021-02-10 15:17:07+0530 > <Enter>
+2021-02-10 15:17:08+0530 > <Enter>cd 
+2021-02-10 15:17:08+0530 > <Enter>
+2021-02-10 15:17:08+0530 > <Enter>cd <LShft>Dow<Tab><#+1><LShft>L<Tab>/y<Tab>y<Tab><#+2>s<Tab><#+3>me<Tab>s<Tab><#+1>-s<Tab>re<Tab>n<BckSp>bs<Tab>u-<Tab>
+2021-02-10 15:17:19+0530 > <Enter>ls
+2021-02-10 15:17:20+0530 > <Enter>vim u<Tab><#+3><LShft>_2<Tab><#+3>
+2021-02-10 15:17:25+0530 > <Enter><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><Down><#+11><Down><Down><Down>i<LShft>#<Down><Left><Down><Esc><LShft>:wq<LShft>!
+2021-02-10 15:17:48+0530 > <Enter>
+2021-02-10 15:17:48+0530 > <Enter>cd ..
+2021-02-10 15:17:51+0530 > <Enter><Up>
+2021-02-10 15:17:52+0530 > <Enter><LCtrl><#+3>cd bu<Tab><#+1>
+2021-02-10 15:17:54+0530 > <Enter><LCtrl>r<LShft>MA
+2021-02-10 15:17:56+0530 > <Enter><LCtrl>rbitb<LCtrl>c
+2021-02-10 15:18:00+0530 > c<LCtrl>rbitbake st-image0c<BckSp><BckSp>-core
+2021-02-10 15:18:09+0530 > <Enter>vim <RShft><Ins>
+2021-02-10 15:18:36+0530 > <Enter><Down><#+82><Down><Down><Down><Down><Down><Esc><LShft>:q<LShft>!
+2021-02-10 15:18:46+0530 > <Enter>cd ..
+2021-02-10 15:18:49+0530 > <Enter><Up>
+2021-02-10 15:18:49+0530 > <Enter>cd re<Tab>t<Tab><#+3><Tab><BckSp>f<Tab><#+2><Tab><BckSp><Tab><Tab><Tab><LAlt><Tab><LShft><Esc><LShft>:q<LShft>!
+2021-02-10 15:19:02+0530 > <Enter><Up>
+2021-02-10 15:19:04+0530 > <Enter><LAlt><Tab><LAlt><Tab>bs<Tab>tr<Tab><#+2>
+2021-02-10 15:19:09+0530 > <Enter>ks
+2021-02-10 15:19:10+0530 > <Enter><LCtrl>c
+2021-02-10 15:19:11+0530 > cls
+2021-02-10 15:19:11+0530 > <Enter>vim t<Tab><#+2><LShft>_2<Tab>
+2021-02-10 15:19:16+0530 > <Enter><LAlt><Tab><PgDn><#+1><PgDn><LAlt><Tab><LAlt><Tab><LAlt><Tab><Esc><LShft>:q<LShft>!
+2021-02-10 15:19:41+0530 > <Enter><Up>
+2021-02-10 15:19:44+0530 > <Enter><LAlt><Tab><Esc><LShft>:q<LShft>!
+2021-02-10 15:19:46+0530 > <Enter><Up>
+2021-02-10 15:19:54+0530 > <Enter><#+1><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><Esc><LShft>:q<LShft>!
+2021-02-10 15:21:15+0530 > <Enter>
+2021-02-10 15:21:16+0530 > <Enter>
+2021-02-10 15:21:16+0530 > <Enter>
+2021-02-10 15:21:16+0530 > <Enter><Up><Up>
+2021-02-10 15:21:18+0530 > <Enter><#+1>vim <RShft><Ins>
+2021-02-10 15:21:35+0530 > <Enter><Down><Down><Down><Down><Down><Up><#+1><Up><Down><Down><Down><Up><Down><#+1>i<Del><#+1><Esc><LShft>:wq<LShft>!
+2021-02-10 15:21:54+0530 > <Enter><Up><Up><#+1>
+2021-02-10 15:21:57+0530 > <Enter><#+2>vim <RShft><Ins>
+2021-02-10 15:22:29+0530 > <Enter><Right><Left>i<LShft>#<Esc><LShft>:wq<LShft>!
+2021-02-10 15:22:39+0530 > <Enter>
+2021-02-10 15:22:39+0530 > <Enter>
+2021-02-10 15:22:39+0530 > <Enter>
+2021-02-10 15:22:39+0530 > <Enter><Up><Up>
+2021-02-10 15:22:41+0530 > <Enter><RShft>
+2021-02-10 15:22:51+0530 > <Enter>
+2021-02-10 15:22:51+0530 > <Enter>cd ..
+2021-02-10 15:22:54+0530 > <Enter>
+2021-02-10 15:22:55+0530 > <Enter><#+2><Up>
+2021-02-10 15:22:56+0530 > <Enter><#+3>vim <Tab><Tab>ap<Tab><#+4><Tab><Tab>l<Tab><#+8>
+2021-02-10 15:23:04+0530 > <Enter><#+2><Esc><LShft>:q<LShft>!
+2021-02-10 15:23:10+0530 > <Enter>
+2021-02-10 15:23:10+0530 > <Enter>
+2021-02-10 15:23:10+0530 > <Enter>vim a<Tab>e<BckSp>-<BckSp>u-<Tab><#+3>
+2021-02-10 15:23:16+0530 > <Enter><#+3><Esc><LShft>:q<LShft>!
+2021-02-10 15:23:26+0530 > <Enter>
+2021-02-10 15:23:26+0530 > <Enter>
+2021-02-10 15:23:27+0530 > <Enter>
+2021-02-10 15:23:27+0530 > <Enter>
+2021-02-10 15:23:28+0530 > <Enter>
+2021-02-10 15:23:28+0530 > <Enter><LAlt><Tab>
+
+Logging stopped at 2021-02-10 15:26:35+0530
+
